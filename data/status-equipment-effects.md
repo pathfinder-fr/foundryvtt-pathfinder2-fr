@@ -1,86 +1,19 @@
 # État de la traduction (equipment-effects)
 
- * **libre**: 19
- * **aucune**: 163
+ * **libre**: 101
+ * **aucune**: 81
  * **vide**: 4
 
 
-Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[01-68xcDyxsNgD3JddD.htm](equipment-effects/01-68xcDyxsNgD3JddD.htm)|Effect: Energizing Rune (Cold)|
-|[01-9BsFdrEc7hkPWgSd.htm](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)|Effect: Energizing Rune (Electricity)|
-|[01-cozi2kUELY40Dcv3.htm](equipment-effects/01-cozi2kUELY40Dcv3.htm)|Effect: Malleable Mixture (Lesser)|
-|[01-dchlrZqQ2oEmgNlN.htm](equipment-effects/01-dchlrZqQ2oEmgNlN.htm)|Effect: Silkspinner's Shield (Animated Strike)|
-|[01-e3RzlURndODzBnMt.htm](equipment-effects/01-e3RzlURndODzBnMt.htm)|Effect: Grit (Stage 1)|
-|[01-fRlvmul3LbLo2xvR.htm](equipment-effects/01-fRlvmul3LbLo2xvR.htm)|Effect: Parry|
-|[01-fuQVJiPPUsvL6fi5.htm](equipment-effects/01-fuQVJiPPUsvL6fi5.htm)|Effect: Sulfur Bomb (Failure)|
-|[01-fYe48HmFgfmcqbvL.htm](equipment-effects/01-fYe48HmFgfmcqbvL.htm)|Effect: Taljjae's Mask (The Hero)|
-|[01-fYZIanbYu0Vc4JEL.htm](equipment-effects/01-fYZIanbYu0Vc4JEL.htm)|Effect: Tanglefoot Bag (Lesser)|
-|[01-Gj6u2Za5okFlsTvT.htm](equipment-effects/01-Gj6u2Za5okFlsTvT.htm)|Effect: Deadweight Snare (Failure/Critical Failure)|
-|[01-ImgHXPEbN1mPyNTu.htm](equipment-effects/01-ImgHXPEbN1mPyNTu.htm)|Effect: Sylvan Wine|
-|[01-IZkHdaqWBJIIWO7F.htm](equipment-effects/01-IZkHdaqWBJIIWO7F.htm)|Effect: Ebon Fulcrum Lens (Reaction)|
-|[01-jlVYoiPVRRVGBj5G.htm](equipment-effects/01-jlVYoiPVRRVGBj5G.htm)|Effect: Ablative Armor Plating (Lesser)|
-|[01-K21XQMoDVSPqzRla.htm](equipment-effects/01-K21XQMoDVSPqzRla.htm)|Equipment Effect: Sage's Lash (Turquoise)|
-|[01-kMPPl4AqFb6GclOL.htm](equipment-effects/01-kMPPl4AqFb6GclOL.htm)|Effect: Malleable Mixture (Greater)|
 |[01-lgvjbbQiHBGKR3C6.htm](equipment-effects/01-lgvjbbQiHBGKR3C6.htm)|Effect: Rhino Shot|
-|[01-M0hhLRC86sASVOk7.htm](equipment-effects/01-M0hhLRC86sASVOk7.htm)|Effect: Tteokguk of Time Advancement|
-|[01-mkjcgwDBeaOUolVe.htm](equipment-effects/01-mkjcgwDBeaOUolVe.htm)|Effect: Major Fanged Rune Animal Form|
-|[01-Nbgf8zvHimdQqIu6.htm](equipment-effects/01-Nbgf8zvHimdQqIu6.htm)|Effect: Skyrider Sword|
-|[01-NYOi1F9cW3axHrdc.htm](equipment-effects/01-NYOi1F9cW3axHrdc.htm)|Effect: Deadweight Snare (Success)|
-|[01-oaR6YGiZKg8a2971.htm](equipment-effects/01-oaR6YGiZKg8a2971.htm)|Effect: Clockwork Goggles|
-|[01-oiO3cQfqp8MuxR82.htm](equipment-effects/01-oiO3cQfqp8MuxR82.htm)|Effect: Blast Boots (Major)|
-|[01-ORdhj3IAvYACNGkJ.htm](equipment-effects/01-ORdhj3IAvYACNGkJ.htm)|Effect: Shrine Inarizushi|
 |[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|
-|[01-s95P3L72BDKvzYhn.htm](equipment-effects/01-s95P3L72BDKvzYhn.htm)|Effect: Curse of Potent Poison|
-|[01-SbYcOry1cxbndSve.htm](equipment-effects/01-SbYcOry1cxbndSve.htm)|Effect: Silkspinner's Shield (Climb)|
-|[01-u35Qzft0c84UySq2.htm](equipment-effects/01-u35Qzft0c84UySq2.htm)|Effect: Ebon Fulcrum Lens (2 Action)|
-|[01-UTtX0xLGYci6P43I.htm](equipment-effects/01-UTtX0xLGYci6P43I.htm)|Effect: Mudrock Snare (Failure)|
-|[01-uVxs1qFMQsGWXNs6.htm](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)|Equipment Effect: Potion of Stable Form|
-|[01-UzSrsR9S2pgMDbbp.htm](equipment-effects/01-UzSrsR9S2pgMDbbp.htm)|Effect: Cape of the Open Sky|
-|[01-vj2hkcSbwwRYNLk5.htm](equipment-effects/01-vj2hkcSbwwRYNLk5.htm)|Effect: Jack's Tattered Cape|
-|[01-vOgD9wfStLX1utte.htm](equipment-effects/01-vOgD9wfStLX1utte.htm)|Effect: Skyrider Sword (Greater)|
-|[01-W9tKQlA7tVIcAuzw.htm](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)|Equipment Effect: Greater Potion of Stable Form|
-|[01-wFP3SqPoO0bCPmyK.htm](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)|Effect: Kraken's Guard|
-|[01-wNCxSxruzLVGtLE4.htm](equipment-effects/01-wNCxSxruzLVGtLE4.htm)|Effect: Spiderfoot Brew (Lesser)|
-|[01-WXsWkFosSGBrptwF.htm](equipment-effects/01-WXsWkFosSGBrptwF.htm)|Effect: Ivory Baton|
-|[01-X2ZZgTqanpoCMDmd.htm](equipment-effects/01-X2ZZgTqanpoCMDmd.htm)|Effect: Taljjae's Mask (The General)|
-|[01-XzxADtNpUlRff972.htm](equipment-effects/01-XzxADtNpUlRff972.htm)|Effect: Greater Fanged Rune Animal Form|
-|[01-YI7QQqXO6nosaAKr.htm](equipment-effects/01-YI7QQqXO6nosaAKr.htm)|Effect: Spiderfoot Brew (Greater)|
-|[01-ZV9rtVOD1eDTwcY4.htm](equipment-effects/01-ZV9rtVOD1eDTwcY4.htm)|Effect: Grit (Stage 3)|
-|[01-zY7cemRcFD2zAVbC.htm](equipment-effects/01-zY7cemRcFD2zAVbC.htm)|Effect: Oath of the Devoted|
-|[02-0qJEtpXWPb7JJBbY.htm](equipment-effects/02-0qJEtpXWPb7JJBbY.htm)|Effect: Aromatic Ammunition|
-|[02-5dhm66yN0LQTOePw.htm](equipment-effects/02-5dhm66yN0LQTOePw.htm)|Effect: Holy Steam Ball|
-|[02-cjQHrvoXDCGOsptN.htm](equipment-effects/02-cjQHrvoXDCGOsptN.htm)|Equipment Effect: Flask of Fellowship|
-|[02-iEkH8BKLMUa2wxLX.htm](equipment-effects/02-iEkH8BKLMUa2wxLX.htm)|Effect: Glamorous Buckler|
-|[02-UDfVCATxdLdSzJYJ.htm](equipment-effects/02-UDfVCATxdLdSzJYJ.htm)|Effect: Red-Rib Gill Mask (Lesser)|
-|[03-bP40jr6wE6MCsRvY.htm](equipment-effects/03-bP40jr6wE6MCsRvY.htm)|Effect: Golden Legion Epaulet|
-|[03-dv0IKm5syOdP759w.htm](equipment-effects/03-dv0IKm5syOdP759w.htm)|Effect: Frost Vial (Moderate)|
-|[03-H29JukjrSpHe5DXR.htm](equipment-effects/03-H29JukjrSpHe5DXR.htm)|Effect: Impossible Cake|
-|[03-HaZ5LB1wh1LY5wUy.htm](equipment-effects/03-HaZ5LB1wh1LY5wUy.htm)|Equipment Effect: Potion of Minute Echoes|
-|[03-jgaDboqENQJaS1sW.htm](equipment-effects/03-jgaDboqENQJaS1sW.htm)|Effect: Prepared Camouflage Suit|
-|[03-lLP56tbG689TNKW5.htm](equipment-effects/03-lLP56tbG689TNKW5.htm)|Effect: Bracelet of Dashing|
-|[03-lO95TwgihBdTilAB.htm](equipment-effects/03-lO95TwgihBdTilAB.htm)|Effect: Thurible of Revelation|
-|[03-MEreOgnjoRiXPEuq.htm](equipment-effects/03-MEreOgnjoRiXPEuq.htm)|Effect: Tanglefoot Bag (Moderate)|
-|[03-mn39aML7EWKbttKT.htm](equipment-effects/03-mn39aML7EWKbttKT.htm)|Effect: Ablative Armor Plating (Moderate)|
-|[03-PeiuJ951kkBPTCSM.htm](equipment-effects/03-PeiuJ951kkBPTCSM.htm)|Effect: Bracers of Missile Deflection|
-|[03-T27uDXdMVc5ZFwKw.htm](equipment-effects/03-T27uDXdMVc5ZFwKw.htm)|Effect: Enhanced Hearing Aids|
-|[04-ccMa75bqXo3ZnlHM.htm](equipment-effects/04-ccMa75bqXo3ZnlHM.htm)|Equipment Effect: Major Five-Feather Wreath|
-|[04-D7teqZ68L21aZCpd.htm](equipment-effects/04-D7teqZ68L21aZCpd.htm)|Effect: Glittering Snare (Failure)|
-|[04-E2uy6gqOXi1HRVBU.htm](equipment-effects/04-E2uy6gqOXi1HRVBU.htm)|Effect: Clockwork Goggles (Greater)|
-|[04-eNVSBXuOiAaN152C.htm](equipment-effects/04-eNVSBXuOiAaN152C.htm)|Effect: Energized Cartridge (Electricity)|
-|[04-Fz3cSffzDAxhCh2D.htm](equipment-effects/04-Fz3cSffzDAxhCh2D.htm)|Effect: Exsanguinating Ammunition|
-|[04-GNFNDyx8nfNXrgV6.htm](equipment-effects/04-GNFNDyx8nfNXrgV6.htm)|Effect: Glittering Snare (Critical Failure)|
-|[04-LH0IDLLF4RsT3KvM.htm](equipment-effects/04-LH0IDLLF4RsT3KvM.htm)|Effect: Energized Cartridge (Fire)|
-|[04-nQ6vM1CRLyvQdGLG.htm](equipment-effects/04-nQ6vM1CRLyvQdGLG.htm)|Equipment Effect: Five-Feather Wreath|
-|[04-tLGzSCcfxflLSqzw.htm](equipment-effects/04-tLGzSCcfxflLSqzw.htm)|Effect: Energized Cartridge (Cold)|
-|[04-vKooOkXHvtqCgZYg.htm](equipment-effects/04-vKooOkXHvtqCgZYg.htm)|Effect: Energized Cartridge (Acid)|
-|[04-w0LUnfS2whVhDBUF.htm](equipment-effects/04-w0LUnfS2whVhDBUF.htm)|Effect: Glittering Snare (Success)|
-|[04-ZP9Uq4PVTgzJ3wEi.htm](equipment-effects/04-ZP9Uq4PVTgzJ3wEi.htm)|Equipment Effect: Greater Five-Feather Wreath|
 |[05-19ECULG5Zp593jQX.htm](equipment-effects/05-19ECULG5Zp593jQX.htm)|Effect: Dragon's Blood Pudding (Moderate)|
 |[05-5uK3fmGlfJrbWQz4.htm](equipment-effects/05-5uK3fmGlfJrbWQz4.htm)|Effect: Stalwart's Ring|
 |[05-88kqcDmsoAEddzUt.htm](equipment-effects/05-88kqcDmsoAEddzUt.htm)|Effect: Boots of Elvenkind|
@@ -95,7 +28,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-Uadsb25G18pKdZ2e.htm](equipment-effects/06-Uadsb25G18pKdZ2e.htm)|Effect: Clandestine Cloak|
 |[06-WMKjWH4gyUrky4Hy.htm](equipment-effects/06-WMKjWH4gyUrky4Hy.htm)|Effect: Demon Dust (Stage 1)|
 |[06-XlHbUOTbK6PfBfCv.htm](equipment-effects/06-XlHbUOTbK6PfBfCv.htm)|Effect: Demon Dust (Stage 2)|
-|[07-DlqcczhwjfaEf7G1.htm](equipment-effects/07-DlqcczhwjfaEf7G1.htm)|Effect: Ablative Armor Plating (Greater)|
 |[07-eeGWTG9ZAha4IIOY.htm](equipment-effects/07-eeGWTG9ZAha4IIOY.htm)|Effect: Cloak of Elvenkind|
 |[07-ehYmO1rFBt35zoOw.htm](equipment-effects/07-ehYmO1rFBt35zoOw.htm)|Effect: Server's Stew|
 |[07-FOZXp7QQDnny1600.htm](equipment-effects/07-FOZXp7QQDnny1600.htm)|Effect: Fire and Iceberg|
@@ -107,20 +39,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[07-zqKzWGLODgIvtiKf.htm](equipment-effects/07-zqKzWGLODgIvtiKf.htm)|Effect: Spellguard Blade|
 |[08-2iR5uP6vgPzgKKNO.htm](equipment-effects/08-2iR5uP6vgPzgKKNO.htm)|Effect: Red-Rib Gill Mask (Moderate)|
 |[08-3O5lvuX4VHqtpCkU.htm](equipment-effects/08-3O5lvuX4VHqtpCkU.htm)|Effect: Lover's Gloves|
-|[08-5lZWAvm0oGxvF4bm.htm](equipment-effects/08-5lZWAvm0oGxvF4bm.htm)|Effect: Exsanguinating Ammunition (Greater)|
 |[08-aXDtl9vMp1vIznya.htm](equipment-effects/08-aXDtl9vMp1vIznya.htm)|Effect: Eye of the Unseen|
-|[08-Bg4hNMqBx0yqmWYJ.htm](equipment-effects/08-Bg4hNMqBx0yqmWYJ.htm)|Effect: Clockwork Goggles (Major)|
 |[08-WHAp9cDOqnJ1VCcg.htm](equipment-effects/08-WHAp9cDOqnJ1VCcg.htm)|Equipment Effect: Orchestral Brooch|
 |[09-9e6iVkPpGqJYwMyb.htm](equipment-effects/09-9e6iVkPpGqJYwMyb.htm)|Effect: Brewer's Regret|
 |[09-9PASRixhNM0ogqmG.htm](equipment-effects/09-9PASRixhNM0ogqmG.htm)|Effect: Triton's Conch|
 |[09-cg5qyeMJUh6b4fta.htm](equipment-effects/09-cg5qyeMJUh6b4fta.htm)|Effect: Belt of the Five Kings (Wearer)|
-|[09-DfAyZW2vkhTygZVC.htm](equipment-effects/09-DfAyZW2vkhTygZVC.htm)|Effect: Prepared Camouflage Suit (Superb)|
 |[09-E4B02mJmNexQLa8F.htm](equipment-effects/09-E4B02mJmNexQLa8F.htm)|Effect: Inspiring Spotlight|
 |[09-fbSFwwp60AuDDKpK.htm](equipment-effects/09-fbSFwwp60AuDDKpK.htm)|Effect: Belt of the Five Kings (Allies)|
 |[09-i0tm2ZHekp7rGGR3.htm](equipment-effects/09-i0tm2ZHekp7rGGR3.htm)|Effect: Stole of Civility|
 |[09-KAEWiyE8TQwofNj9.htm](equipment-effects/09-KAEWiyE8TQwofNj9.htm)|Effect: Impossible Cake (Greater)|
 |[09-M3EFomnN5xArdQmV.htm](equipment-effects/09-M3EFomnN5xArdQmV.htm)|Equipment Effect: Moderate Healer's Gel|
-|[09-ytqvHyF0oMKbo65P.htm](equipment-effects/09-ytqvHyF0oMKbo65P.htm)|Effect: Crimson Fulcrum Lens|
 |[10-1S51uIRb9bnZtpFU.htm](equipment-effects/10-1S51uIRb9bnZtpFU.htm)|Effect: Winged Boots|
 |[10-bri7UVNCfHhCIvXN.htm](equipment-effects/10-bri7UVNCfHhCIvXN.htm)|Effect: Immolation Clan Pistol|
 |[10-eQqi3tWSHwV4SHqK.htm](equipment-effects/10-eQqi3tWSHwV4SHqK.htm)|Equipment Effect: South Wind's Scorch Song (Speed Boost)|
@@ -128,16 +56,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[10-hy6LAC13QIJNDYXm.htm](equipment-effects/10-hy6LAC13QIJNDYXm.htm)|Equipment Effect: South Wind's Scorch Song (Damage)|
 |[10-ioGzmVSmMGXWWBYb.htm](equipment-effects/10-ioGzmVSmMGXWWBYb.htm)|Effect: Cloak of the Bat|
 |[10-P7Y7pO2ulZ5wBgxU.htm](equipment-effects/10-P7Y7pO2ulZ5wBgxU.htm)|Effect: Barding of the Zephyr|
-|[10-UlalLihKzDxcOdXL.htm](equipment-effects/10-UlalLihKzDxcOdXL.htm)|Effect: Thurible of Revelation (Moderate)|
 |[10-uXEp1rPU5fY4OiBf.htm](equipment-effects/10-uXEp1rPU5fY4OiBf.htm)|Effect: Clandestine Cloak (Greater)|
-|[11-csA4UAD2tQq7RjT8.htm](equipment-effects/11-csA4UAD2tQq7RjT8.htm)|Effect: Tanglefoot Bag (Greater)|
-|[11-nJRoiSyd67eQ1dYj.htm](equipment-effects/11-nJRoiSyd67eQ1dYj.htm)|Effect: Frost Vial (Greater)|
-|[11-RLsdvhmTh64Mmty9.htm](equipment-effects/11-RLsdvhmTh64Mmty9.htm)|Effect: Frost Vial (Lesser)|
 |[12-4uy4Ygf5KD2WrtGW.htm](equipment-effects/12-4uy4Ygf5KD2WrtGW.htm)|Effect: Nosoi Charm (Diplomacy)|
 |[12-9j1uTGBGAc7GIhjm.htm](equipment-effects/12-9j1uTGBGAc7GIhjm.htm)|Effect: Dragonfly Potion|
 |[12-ApGnHnZEK7nv3IqL.htm](equipment-effects/12-ApGnHnZEK7nv3IqL.htm)|Equipment Effect: Greater Codex of Unimpeded Sight|
 |[12-MesQvxSazhl7Xvg8.htm](equipment-effects/12-MesQvxSazhl7Xvg8.htm)|Effect: Nosoi Charm (Performance)|
-|[12-mrwg2XftLtSLj197.htm](equipment-effects/12-mrwg2XftLtSLj197.htm)|Effect: Exsanguinating Ammunition (Major)|
 |[12-p2aGtovaY1feytws.htm](equipment-effects/12-p2aGtovaY1feytws.htm)|Effect: Aeon Stone (Black Pearl)|
 |[12-viCX9fZzTWGuoO85.htm](equipment-effects/12-viCX9fZzTWGuoO85.htm)|Effect: Cloak of Elvenkind (Greater)|
 |[12-VsHhBBLApZsOCJRL.htm](equipment-effects/12-VsHhBBLApZsOCJRL.htm)|Effect: Fire and Iceberg (Greater)|
@@ -147,7 +70,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[13-6dsPjRKjCPd9BWPt.htm](equipment-effects/13-6dsPjRKjCPd9BWPt.htm)|Equipment Effect: Greater Healer's Gel|
 |[13-F8nQOLVWmpp9G5hZ.htm](equipment-effects/13-F8nQOLVWmpp9G5hZ.htm)|Effect: Dragon's Blood Pudding (Greater)|
 |[13-gDefAEEMXVVZgqXH.htm](equipment-effects/13-gDefAEEMXVVZgqXH.htm)|Effect: Celestial Armor|
-|[13-OMW71UJzYCUr4ubh.htm](equipment-effects/13-OMW71UJzYCUr4ubh.htm)|Effect: Ablative Armor Plating (Major)|
 |[14-1ihy7Jvw5PY4WYbP.htm](equipment-effects/14-1ihy7Jvw5PY4WYbP.htm)|Effect: Eye of the Unseen (Greater)|
 |[14-EpNflrkmWzQ0lEb4.htm](equipment-effects/14-EpNflrkmWzQ0lEb4.htm)|Effect: Glaive of the Artist|
 |[14-Ja3PlqLuD9aSaPNZ.htm](equipment-effects/14-Ja3PlqLuD9aSaPNZ.htm)|Effect: Brewer's Regret (Greater)|
@@ -161,10 +83,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[16-KiurLemTV8GV7OyM.htm](equipment-effects/16-KiurLemTV8GV7OyM.htm)|Effect: Rowan Rifle (Sonic)|
 |[16-vOU4Yv2MyAfYBbmF.htm](equipment-effects/16-vOU4Yv2MyAfYBbmF.htm)|Effect: Aeon Stone (Orange Prism) (Occultism)|
 |[16-yvabfuAO74pvH8hh.htm](equipment-effects/16-yvabfuAO74pvH8hh.htm)|Effect: Aeon Stone (Orange Prism) (Arcana)|
-|[17-4G9qnI0oRyL6eKFQ.htm](equipment-effects/17-4G9qnI0oRyL6eKFQ.htm)|Effect: Frost Vial (Major)|
 |[17-exwQF6E1FWmuxwBc.htm](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|
 |[17-iK6JeCsZwm5Vakks.htm](equipment-effects/17-iK6JeCsZwm5Vakks.htm)|Effect: Anklets of Alacrity|
-|[17-ITAFsW3dQPupJ3DW.htm](equipment-effects/17-ITAFsW3dQPupJ3DW.htm)|Effect: Tanglefoot Bag (Major)|
 |[17-ohMdE8BmQHuLs40b.htm](equipment-effects/17-ohMdE8BmQHuLs40b.htm)|Effect: Impossible Cake (Major)|
 |[17-yP45Rqu4jvCfXBkp.htm](equipment-effects/17-yP45Rqu4jvCfXBkp.htm)|Effect: Fire and Iceberg (Major)|
 |[18-0rkg7SVzs2AetUXw.htm](equipment-effects/18-0rkg7SVzs2AetUXw.htm)|Effect: Nosoi Charm (Greater) (Lifesense)|
@@ -172,8 +92,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[18-J0YS8mQsQ1BmT6Xv.htm](equipment-effects/18-J0YS8mQsQ1BmT6Xv.htm)|Equipment Effect: Emberheart|
 |[18-LHOd4aqzb4q9ZuEH.htm](equipment-effects/18-LHOd4aqzb4q9ZuEH.htm)|Effect: Nosoi Charm (Greater) (Performance)|
 |[18-NdfhpKCjSS80LiUz.htm](equipment-effects/18-NdfhpKCjSS80LiUz.htm)|Effect: Nosoi Charm (Greater) (Diplomacy)|
-|[18-QapoFh0tbUgMwSIB.htm](equipment-effects/18-QapoFh0tbUgMwSIB.htm)|Effect: Thurible of Revelation (Greater)|
-|[19-yt8meGTS7wLa6Fg2.htm](equipment-effects/19-yt8meGTS7wLa6Fg2.htm)|Effect: Ablative Armor Plating (True)|
 |[20-ah41XCrV4LFsVyzl.htm](equipment-effects/20-ah41XCrV4LFsVyzl.htm)|Effect: Shield of the Unified Legion|
 
 ## Liste des éléments vides ne pouvant pas être traduits
@@ -201,10 +119,92 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-4JULykNCgQoypsu8.htm](equipment-effects/01-4JULykNCgQoypsu8.htm)|Effect: Spiderfoot Brew (Major)|Effet : Infusion de pattes d'araignée majeure|libre|
 |[01-4RnEUeYEzC919GZR.htm](equipment-effects/01-4RnEUeYEzC919GZR.htm)|Effect: Energizing Rune (Sonic)|Effet : Rune énergisante (son)|libre|
 |[01-5KXsyN9J78glG25I.htm](equipment-effects/01-5KXsyN9J78glG25I.htm)|Effect: Ochre Fulcrum Lens|Effet : Lentille à pivot ocre|libre|
+|[01-68xcDyxsNgD3JddD.htm](equipment-effects/01-68xcDyxsNgD3JddD.htm)|Effect: Energizing Rune (Cold)|Effet : Rune énergisante de froid|libre|
 |[01-6alqXfVq0qWQC359.htm](equipment-effects/01-6alqXfVq0qWQC359.htm)|Effect: Energy Robe of Fire|Effet : Robe d'énergie de feu|libre|
 |[01-6p2Sjl7XxCc55ft4.htm](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)|Effect: Mudrock Snare (Success)|Effet : Piège artisanal de boue solidifiée (Succès)|libre|
+|[01-9BsFdrEc7hkPWgSd.htm](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)|Effect: Energizing Rune (Electricity)|Effet : Rune d'énergie d'électricité|libre|
 |[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|libre|
 |[01-ascxqSlMEN9R6OOy.htm](equipment-effects/01-ascxqSlMEN9R6OOy.htm)|Effect: Energizing Rune (Fire)|Effet : Rune énergisante de feu|libre|
 |[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|Effet : Robe d'énergie d'électricité|libre|
 |[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|Effet : Rune énergisante d'acide|libre|
+|[01-cozi2kUELY40Dcv3.htm](equipment-effects/01-cozi2kUELY40Dcv3.htm)|Effect: Malleable Mixture (Lesser)|Effet : Mixture de mollesse inférieur|libre|
+|[01-dchlrZqQ2oEmgNlN.htm](equipment-effects/01-dchlrZqQ2oEmgNlN.htm)|Effect: Silkspinner's Shield (Animated Strike)|Effet : Bouclier de la fileuse de soie (Frappe animée)|libre|
+|[01-e3RzlURndODzBnMt.htm](equipment-effects/01-e3RzlURndODzBnMt.htm)|Effect: Grit (Stage 1)|Effet : Grit (stade 2)|libre|
+|[01-fRlvmul3LbLo2xvR.htm](equipment-effects/01-fRlvmul3LbLo2xvR.htm)|Effect: Parry|Effet : Parade|libre|
+|[01-fuQVJiPPUsvL6fi5.htm](equipment-effects/01-fuQVJiPPUsvL6fi5.htm)|Effect: Sulfur Bomb (Failure)|Effet : Bombe de souffre (Échec)|libre|
+|[01-fYe48HmFgfmcqbvL.htm](equipment-effects/01-fYe48HmFgfmcqbvL.htm)|Effect: Taljjae's Mask (The Hero)|Effet : Masque de Taljjae (le héros)|libre|
+|[01-fYZIanbYu0Vc4JEL.htm](equipment-effects/01-fYZIanbYu0Vc4JEL.htm)|Effect: Tanglefoot Bag (Lesser)|Effet : Sacoche immobilisante inférieur|libre|
+|[01-Gj6u2Za5okFlsTvT.htm](equipment-effects/01-Gj6u2Za5okFlsTvT.htm)|Effect: Deadweight Snare (Failure/Critical Failure)|Effet : Piège du poids-mort (Échec/Échec critique)|libre|
 |[01-I9lfZUiCwMiGogVi.htm](equipment-effects/01-I9lfZUiCwMiGogVi.htm)|Cover|Abri|libre|
+|[01-ImgHXPEbN1mPyNTu.htm](equipment-effects/01-ImgHXPEbN1mPyNTu.htm)|Effect: Sylvan Wine|Effet : Vin sylvestre|libre|
+|[01-IZkHdaqWBJIIWO7F.htm](equipment-effects/01-IZkHdaqWBJIIWO7F.htm)|Effect: Ebon Fulcrum Lens (Reaction)|Effet : Lentille à pivot ébène (Réaction)|libre|
+|[01-jlVYoiPVRRVGBj5G.htm](equipment-effects/01-jlVYoiPVRRVGBj5G.htm)|Effect: Ablative Armor Plating (Lesser)|Effet : Blindage ablatif d'armure inférieur|libre|
+|[01-K21XQMoDVSPqzRla.htm](equipment-effects/01-K21XQMoDVSPqzRla.htm)|Equipment Effect: Sage's Lash (Turquoise)|Effet : Ceinture du sage (turquoise)|libre|
+|[01-kMPPl4AqFb6GclOL.htm](equipment-effects/01-kMPPl4AqFb6GclOL.htm)|Effect: Malleable Mixture (Greater)|Effet : Mixture de molesse supérieure|libre|
+|[01-M0hhLRC86sASVOk7.htm](equipment-effects/01-M0hhLRC86sASVOk7.htm)|Effect: Tteokguk of Time Advancement|Effet : Tteokguk du déroulement du temps|libre|
+|[01-mkjcgwDBeaOUolVe.htm](equipment-effects/01-mkjcgwDBeaOUolVe.htm)|Effect: Major Fanged Rune Animal Form|Effet : Forme d'animal de rune de crocs majeur|libre|
+|[01-Nbgf8zvHimdQqIu6.htm](equipment-effects/01-Nbgf8zvHimdQqIu6.htm)|Effect: Skyrider Sword|Effet : Chevaucheur d'épée|libre|
+|[01-NYOi1F9cW3axHrdc.htm](equipment-effects/01-NYOi1F9cW3axHrdc.htm)|Effect: Deadweight Snare (Success)|Effet : Piège du poids-mort (Succès)|libre|
+|[01-oaR6YGiZKg8a2971.htm](equipment-effects/01-oaR6YGiZKg8a2971.htm)|Effect: Clockwork Goggles|Effet : Lunettes mécaniques|libre|
+|[01-oiO3cQfqp8MuxR82.htm](equipment-effects/01-oiO3cQfqp8MuxR82.htm)|Effect: Blast Boots (Major)|Effet : Bottes d'explosion majeures|libre|
+|[01-ORdhj3IAvYACNGkJ.htm](equipment-effects/01-ORdhj3IAvYACNGkJ.htm)|Effect: Shrine Inarizushi|Effet : Autel d'Inarizushi|libre|
+|[01-s95P3L72BDKvzYhn.htm](equipment-effects/01-s95P3L72BDKvzYhn.htm)|Effect: Curse of Potent Poison|Effet : Malédiction du poison puissant|libre|
+|[01-SbYcOry1cxbndSve.htm](equipment-effects/01-SbYcOry1cxbndSve.htm)|Effect: Silkspinner's Shield (Climb)|Effet : Bouclier de la fileuse de soie (Escalade)|libre|
+|[01-u35Qzft0c84UySq2.htm](equipment-effects/01-u35Qzft0c84UySq2.htm)|Effect: Ebon Fulcrum Lens (2 Action)|Effet : Lentille à pivot ébène (2 Actions)|libre|
+|[01-UTtX0xLGYci6P43I.htm](equipment-effects/01-UTtX0xLGYci6P43I.htm)|Effect: Mudrock Snare (Failure)|Effet : Piège artisanal de boue solidifiée (Échec)|libre|
+|[01-uVxs1qFMQsGWXNs6.htm](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)|Equipment Effect: Potion of Stable Form|Effet : Potion de forme stable|libre|
+|[01-UzSrsR9S2pgMDbbp.htm](equipment-effects/01-UzSrsR9S2pgMDbbp.htm)|Effect: Cape of the Open Sky|Effet : Cape du ciel ouvert|libre|
+|[01-vj2hkcSbwwRYNLk5.htm](equipment-effects/01-vj2hkcSbwwRYNLk5.htm)|Effect: Jack's Tattered Cape|Effet : Cape en loques de Jack|libre|
+|[01-vOgD9wfStLX1utte.htm](equipment-effects/01-vOgD9wfStLX1utte.htm)|Effect: Skyrider Sword (Greater)|Effet : Chevaucheur d'épée supérieur|libre|
+|[01-W9tKQlA7tVIcAuzw.htm](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)|Equipment Effect: Greater Potion of Stable Form|Effet : Potion de forme stable supérieure|libre|
+|[01-wFP3SqPoO0bCPmyK.htm](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)|Effect: Kraken's Guard|Effet : Gardien kraken|libre|
+|[01-wNCxSxruzLVGtLE4.htm](equipment-effects/01-wNCxSxruzLVGtLE4.htm)|Effect: Spiderfoot Brew (Lesser)|Effet : Infusion de pattes d'araignée inférieure|libre|
+|[01-WXsWkFosSGBrptwF.htm](equipment-effects/01-WXsWkFosSGBrptwF.htm)|Effect: Ivory Baton|Effet: Bâton d'ivoire|libre|
+|[01-X2ZZgTqanpoCMDmd.htm](equipment-effects/01-X2ZZgTqanpoCMDmd.htm)|Effect: Taljjae's Mask (The General)|Effet : Masque de Taljjae (le général)|libre|
+|[01-XzxADtNpUlRff972.htm](equipment-effects/01-XzxADtNpUlRff972.htm)|Effect: Greater Fanged Rune Animal Form|Effet : Forme d'animal à runes de crocs supérieure|libre|
+|[01-YI7QQqXO6nosaAKr.htm](equipment-effects/01-YI7QQqXO6nosaAKr.htm)|Effect: Spiderfoot Brew (Greater)|Effet : Infusion de pattes d'araignée supérieure|libre|
+|[01-ZV9rtVOD1eDTwcY4.htm](equipment-effects/01-ZV9rtVOD1eDTwcY4.htm)|Effect: Grit (Stage 3)|Effet : Grit (stade 3)|libre|
+|[01-zY7cemRcFD2zAVbC.htm](equipment-effects/01-zY7cemRcFD2zAVbC.htm)|Effect: Oath of the Devoted|Effet : Serment du dévoué|libre|
+|[02-0qJEtpXWPb7JJBbY.htm](equipment-effects/02-0qJEtpXWPb7JJBbY.htm)|Effect: Aromatic Ammunition|Effet : Munition aromatique|libre|
+|[02-5dhm66yN0LQTOePw.htm](equipment-effects/02-5dhm66yN0LQTOePw.htm)|Effect: Holy Steam Ball|Effet : Bille de vapeur sacrée|libre|
+|[02-cjQHrvoXDCGOsptN.htm](equipment-effects/02-cjQHrvoXDCGOsptN.htm)|Equipment Effect: Flask of Fellowship|Effet : Gourde de fraternité|libre|
+|[02-iEkH8BKLMUa2wxLX.htm](equipment-effects/02-iEkH8BKLMUa2wxLX.htm)|Effect: Glamorous Buckler|Effet : Targe étincelante|libre|
+|[02-UDfVCATxdLdSzJYJ.htm](equipment-effects/02-UDfVCATxdLdSzJYJ.htm)|Effect: Red-Rib Gill Mask (Lesser)|Effet : Masque branchies de côte rouge inférieur|libre|
+|[03-bP40jr6wE6MCsRvY.htm](equipment-effects/03-bP40jr6wE6MCsRvY.htm)|Effect: Golden Legion Epaulet|Effet : Épaulette de la Légion dorée|libre|
+|[03-dv0IKm5syOdP759w.htm](equipment-effects/03-dv0IKm5syOdP759w.htm)|Effect: Frost Vial (Moderate)|Effet : Fiole givrée modérée|libre|
+|[03-H29JukjrSpHe5DXR.htm](equipment-effects/03-H29JukjrSpHe5DXR.htm)|Effect: Impossible Cake|Effet : Gâteau de l'impossible|libre|
+|[03-HaZ5LB1wh1LY5wUy.htm](equipment-effects/03-HaZ5LB1wh1LY5wUy.htm)|Equipment Effect: Potion of Minute Echoes|Effet : Potion de l'écho-minute|libre|
+|[03-jgaDboqENQJaS1sW.htm](equipment-effects/03-jgaDboqENQJaS1sW.htm)|Effect: Prepared Camouflage Suit|Effet : Tenue de camouflage préparée|libre|
+|[03-lLP56tbG689TNKW5.htm](equipment-effects/03-lLP56tbG689TNKW5.htm)|Effect: Bracelet of Dashing|Effet : Bracelets de fougue|libre|
+|[03-lO95TwgihBdTilAB.htm](equipment-effects/03-lO95TwgihBdTilAB.htm)|Effect: Thurible of Revelation|Effet : Encensoir de révélation inférieur|libre|
+|[03-MEreOgnjoRiXPEuq.htm](equipment-effects/03-MEreOgnjoRiXPEuq.htm)|Effect: Tanglefoot Bag (Moderate)|Effet : Sacoche immobilisante modéré|libre|
+|[03-mn39aML7EWKbttKT.htm](equipment-effects/03-mn39aML7EWKbttKT.htm)|Effect: Ablative Armor Plating (Moderate)|Effet : Blindage ablatif d'armure modéré|libre|
+|[03-PeiuJ951kkBPTCSM.htm](equipment-effects/03-PeiuJ951kkBPTCSM.htm)|Effect: Bracers of Missile Deflection|Effet : Protège-bras de déviation de projectiles|libre|
+|[03-T27uDXdMVc5ZFwKw.htm](equipment-effects/03-T27uDXdMVc5ZFwKw.htm)|Effect: Enhanced Hearing Aids|Effet : Appareil auditif augmenté|libre|
+|[04-ccMa75bqXo3ZnlHM.htm](equipment-effects/04-ccMa75bqXo3ZnlHM.htm)|Equipment Effect: Major Five-Feather Wreath|Effet : Couronne à cinq plumes majeure|libre|
+|[04-D7teqZ68L21aZCpd.htm](equipment-effects/04-D7teqZ68L21aZCpd.htm)|Effect: Glittering Snare (Failure)|Effet : Piège scintillant (Échec)|libre|
+|[04-E2uy6gqOXi1HRVBU.htm](equipment-effects/04-E2uy6gqOXi1HRVBU.htm)|Effect: Clockwork Goggles (Greater)|Effet : Lunettes mécaniques supérieures|libre|
+|[04-eNVSBXuOiAaN152C.htm](equipment-effects/04-eNVSBXuOiAaN152C.htm)|Effect: Energized Cartridge (Electricity)|Effet : Cartouche énergisée (électricité)|libre|
+|[04-Fz3cSffzDAxhCh2D.htm](equipment-effects/04-Fz3cSffzDAxhCh2D.htm)|Effect: Exsanguinating Ammunition|Effet : Munition exsangue|libre|
+|[04-GNFNDyx8nfNXrgV6.htm](equipment-effects/04-GNFNDyx8nfNXrgV6.htm)|Effect: Glittering Snare (Critical Failure)|Effet : Piège scintillant (Échec critique)|libre|
+|[04-LH0IDLLF4RsT3KvM.htm](equipment-effects/04-LH0IDLLF4RsT3KvM.htm)|Effect: Energized Cartridge (Fire)|Effet : Cartouche énergisée (feu)|libre|
+|[04-nQ6vM1CRLyvQdGLG.htm](equipment-effects/04-nQ6vM1CRLyvQdGLG.htm)|Equipment Effect: Five-Feather Wreath|Effet : Couronne à cinq plumes|libre|
+|[04-tLGzSCcfxflLSqzw.htm](equipment-effects/04-tLGzSCcfxflLSqzw.htm)|Effect: Energized Cartridge (Cold)|Effet : Cartouche énergisée (froid)|libre|
+|[04-vKooOkXHvtqCgZYg.htm](equipment-effects/04-vKooOkXHvtqCgZYg.htm)|Effect: Energized Cartridge (Acid)|Effet : Cartouche énergisée (acide)|libre|
+|[04-w0LUnfS2whVhDBUF.htm](equipment-effects/04-w0LUnfS2whVhDBUF.htm)|Effect: Glittering Snare (Success)|Effet : Piège scintillant (Succès)|libre|
+|[04-ZP9Uq4PVTgzJ3wEi.htm](equipment-effects/04-ZP9Uq4PVTgzJ3wEi.htm)|Equipment Effect: Greater Five-Feather Wreath|Effet : Couronne à cinq plumes supérieure|libre|
+|[07-DlqcczhwjfaEf7G1.htm](equipment-effects/07-DlqcczhwjfaEf7G1.htm)|Effect: Ablative Armor Plating (Greater)|Effet : Blindage ablatif d'armure supérieur|libre|
+|[08-5lZWAvm0oGxvF4bm.htm](equipment-effects/08-5lZWAvm0oGxvF4bm.htm)|Effect: Exsanguinating Ammunition (Greater)|Effet : Munition exsangue supérieure|libre|
+|[08-Bg4hNMqBx0yqmWYJ.htm](equipment-effects/08-Bg4hNMqBx0yqmWYJ.htm)|Effect: Clockwork Goggles (Major)|Effet : Lunettes mécaniques majeures|libre|
+|[09-DfAyZW2vkhTygZVC.htm](equipment-effects/09-DfAyZW2vkhTygZVC.htm)|Effect: Prepared Camouflage Suit (Superb)|Effet : Tenue de camouflage superbe|libre|
+|[09-ytqvHyF0oMKbo65P.htm](equipment-effects/09-ytqvHyF0oMKbo65P.htm)|Effect: Crimson Fulcrum Lens|Effet : Lentille cramoisie|libre|
+|[10-UlalLihKzDxcOdXL.htm](equipment-effects/10-UlalLihKzDxcOdXL.htm)|Effect: Thurible of Revelation (Moderate)|Effet : Encensoir de révélation modéré|libre|
+|[11-csA4UAD2tQq7RjT8.htm](equipment-effects/11-csA4UAD2tQq7RjT8.htm)|Effect: Tanglefoot Bag (Greater)|Effet : Sacoche immobilisante supérieur|libre|
+|[11-nJRoiSyd67eQ1dYj.htm](equipment-effects/11-nJRoiSyd67eQ1dYj.htm)|Effect: Frost Vial (Greater)|Effet : Fiole givrée supérieure|libre|
+|[11-RLsdvhmTh64Mmty9.htm](equipment-effects/11-RLsdvhmTh64Mmty9.htm)|Effect: Frost Vial (Lesser)|Effet : Fiole givrée inférieure|libre|
+|[12-mrwg2XftLtSLj197.htm](equipment-effects/12-mrwg2XftLtSLj197.htm)|Effect: Exsanguinating Ammunition (Major)|Effet : Munition exsangue majeur|libre|
+|[13-OMW71UJzYCUr4ubh.htm](equipment-effects/13-OMW71UJzYCUr4ubh.htm)|Effect: Ablative Armor Plating (Major)|Effet : Blindage ablatif d'armure majeur|libre|
+|[17-4G9qnI0oRyL6eKFQ.htm](equipment-effects/17-4G9qnI0oRyL6eKFQ.htm)|Effect: Frost Vial (Major)|Effet : Fiole givrée majeure|libre|
+|[17-ITAFsW3dQPupJ3DW.htm](equipment-effects/17-ITAFsW3dQPupJ3DW.htm)|Effect: Tanglefoot Bag (Major)|Effet : Sacoche immobilisante majeur|libre|
+|[18-QapoFh0tbUgMwSIB.htm](equipment-effects/18-QapoFh0tbUgMwSIB.htm)|Effect: Thurible of Revelation (Greater)|Effet : Encensoir de révélation supérieur|libre|
+|[19-yt8meGTS7wLa6Fg2.htm](equipment-effects/19-yt8meGTS7wLa6Fg2.htm)|Effect: Ablative Armor Plating (True)|Effet : Blindage ablatif d'armure ultime|libre|

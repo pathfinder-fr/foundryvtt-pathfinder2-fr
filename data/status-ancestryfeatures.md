@@ -4,7 +4,7 @@
  * **officielle**: 3
 
 
-Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -40,4 +40,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[feat-00-vPhPgzpRjYDMT9Kq.htm](ancestryfeatures/feat-00-vPhPgzpRjYDMT9Kq.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[feat-00-vt67b8uoNEbskcBv.htm](ancestryfeatures/feat-00-vt67b8uoNEbskcBv.htm)|Hydration|Hydratation|libre|
 |[feat-00-y1EmCv2cEb5hXBwx.htm](ancestryfeatures/feat-00-y1EmCv2cEb5hXBwx.htm)|Keen Eyes|Yeux perçants|officielle|
-|[feat-00-Ymg6WqeJqOyLJLEr.htm](ancestryfeatures/feat-00-Ymg6WqeJqOyLJLEr.htm)|Change Shape|Changer de forme|libre|
+|[feat-00-Ymg6WqeJqOyLJLEr.htm](ancestryfeatures/feat-00-Ymg6WqeJqOyLJLEr.htm)|Change Shape|Changer de forme (Kitsune)|libre|

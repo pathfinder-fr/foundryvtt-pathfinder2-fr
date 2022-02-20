@@ -1,10 +1,10 @@
 # État de la traduction (boons-and-curses)
 
- * **changé**: 116
- * **libre**: 4
+ * **changé**: 115
+ * **libre**: 5
 
 
-Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -32,7 +32,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[AfuH02H6ib4KYS6C.htm](boons-and-curses/AfuH02H6ib4KYS6C.htm)|Torag - Moderate Curse|Torag - Malédiction modérée|changé|
 |[AohWtOzgk2Qr9ADl.htm](boons-and-curses/AohWtOzgk2Qr9ADl.htm)|Gozreh - Moderate Curse|Gozreh - Malédiction modérée|changé|
 |[aOVXhHVkLw9dLCdR.htm](boons-and-curses/aOVXhHVkLw9dLCdR.htm)|Zon-Kuthon - Moderate Curse|Zon-Kuthon - Malédiction modérée|changé|
-|[aV1I9VmMQBaFU9M9.htm](boons-and-curses/aV1I9VmMQBaFU9M9.htm)|Asmodeus - Moderate Boon|Asmodéus - Bénédiction modérée|changé|
 |[AvjRCVzLmxapFOLV.htm](boons-and-curses/AvjRCVzLmxapFOLV.htm)|Gozreh - Moderate Boon|Gozreh - Bénédiction modérée|changé|
 |[c2wwILmpgyXIjlfe.htm](boons-and-curses/c2wwILmpgyXIjlfe.htm)|Torag - Major Curse|Torag - Malédiction majeure|changé|
 |[C6Ercv1ugcTsbVA9.htm](boons-and-curses/C6Ercv1ugcTsbVA9.htm)|Erastil - Major Curse|Érastil - Malédiction majeure|changé|
@@ -132,6 +131,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[aV1I9VmMQBaFU9M9.htm](boons-and-curses/aV1I9VmMQBaFU9M9.htm)|Asmodeus - Moderate Boon|Asmodéus - Bénédiction modérée|libre|
 |[DSfHCm8PDL5hLzZ0.htm](boons-and-curses/DSfHCm8PDL5hLzZ0.htm)|Irori - Minor Curse|Irori - Malédiction mineure|libre|
 |[fV0Xa1Bd3BoWACgT.htm](boons-and-curses/fV0Xa1Bd3BoWACgT.htm)|Irori - Minor Boon|Irori - Bénédiction mineure|libre|
 |[qhVfbZCxZJS8NmB3.htm](boons-and-curses/qhVfbZCxZJS8NmB3.htm)|Irori - Moderate Curse|Irori - Malédiction modérée|libre|

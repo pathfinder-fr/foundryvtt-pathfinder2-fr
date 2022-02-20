@@ -97,7 +97,7 @@
         {
             "id": "Repair Module",
             "name": "Repair Module",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous déclenchez le programme de réparation de votre corps, permettant à vos nanites de soigner vos blessures.</p>p>\n<p>Vous obtenez guérison accélérée égale à la moitié de votre niveau pendant 1 minute. tant que le module de réparation est actif, vous ne pouvez pas utiliser d'autres capacités qui nécessitent l'utilisation de vos nanites.</p>\n<p>@Compendium[pf2e.feat-effects.DjxZpQ4xJWWvYQqY]{Effet: Module de réparation}</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous déclenchez le programme de réparation de votre corps, permettant à vos nanites de soigner vos blessures.</p>\n<p>Vous obtenez guérison accélérée égale à la moitié de votre niveau pendant 1 minute. tant que le module de réparation est actif, vous ne pouvez pas utiliser d'autres capacités qui nécessitent l'utilisation de vos nanites.</p>\n<p>@Compendium[pf2e.feat-effects.DjxZpQ4xJWWvYQqY]{Effet: Module de réparation}</p>"
         },
         {
             "id": "Tenacious Toxins",
@@ -168,7 +168,7 @@
         {
             "id": "Cut From The Air",
             "name": "Cut From The Air",
-            "description": "<p><strong>Déclencheur</strong> Vous êtes la cible d'une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à distance physique.</p>\n<p><strong>Prérequis</strong> Vous êtes conscient de l'attaque, pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} à son encontre et vous avez soit une main libre, soit vous maniez une arme au corps-à-corps.</p>\n<hr>\n<p>Vous pouvez écarter les attaques à distance. Vous obtenez un bonus de circonstances de +4 à la CA contre l'attaque déclencheuse. Si l'attaque vous manque, vous l'avez écartée ou l'avez découpée dans les airs.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous êtes la cible d'une @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} à distance physique.</p>\n<p><strong>Prérequis</strong> Vous êtes conscient de l'attaque, pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} à son encontre et vous avez soit une main libre, soit vous maniez une arme au corps-à-corps.</p>\n<hr>\n<p>Vous pouvez écarter les attaques à distance. Vous obtenez un bonus de circonstances de +4 à la CA contre l'attaque déclencheuse. Si l'attaque vous manque, vous l'avez écartée ou l'avez découpée dans les airs.</p>\n<p>@Compendium[pf2e.feat-effects.gWwG7MNAesJgpmRW]{Effet : Découper en l'air}</p>"
         },
         {
             "id": "Stumbling Stance",
@@ -390,7 +390,7 @@
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p>Vous harmonisez une arme pour l’accorder aux préceptes de votre divinité. Quand vous choisissez ce don, choisissez également l’alignement bon, chaotique, loyal ou mauvais. Votre choix doit correspondre à l’un des composants de l’alignement de votre divinité. Cette action a le trait correspondant au composant d’alignement choisi.</p>\n<p>Quand vous effectuez cette action, vous touchez une arme. Pendant un round, cette arme inflige 1d6 dégâts supplémentaires du type choisi aux créatures à l’alignement opposé. Par exemple, si vous choisissez l’alignement bon, l’arme inflige 1d6 dégâts bons supplémentaires aux créatures d’alignement mauvais. Si vous utilisez de nouveau Arsenal aligné, toute arme précédemment alignée n’inflige plus ces dégâts supplémentaires</p>\n<p>@Compendium[pf2e.feat-effects.XC3dRbwfu35vuvmM]{Effet : Arsenal aligné (Chaotique)}</p>\n<p>@Compendium[pf2e.feat-effects.eA14bUF7xhNCzw2v]{Effet : Arsenal aligné (Mal)}</p>\n<p>@Compendium[pf2e.feat-effects.bl4HXm1e4NQ0iJs5]{Effet : Arsenal aligné (Bon)}</p>\n<p>@Compendium[pf2e.feat-effects.KkbFlNfcQQUfSVXd]{Effet : Arsenal aligné (Loyal)}</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez sélectionner ce don une deuxième fois, en choisissant l’autre composant de l’alignement de votre divinité. Quand vous utilisez Arsenal aligné, vous pouvez choisir l’un ou l’autre des composants d’alignement.</p>",
             "prereq": [
                 {
-                    "value": "divinité bonne, chaotique, loyale ou mauvaise"
+                    "value": "Divinité bonne, chaotique, loyale ou mauvaise"
                 }
             ]
         },
@@ -931,7 +931,7 @@
         {
             "id": "Aura Of Preservation",
             "name": "Aura Of Preservation",
-            "description": "<p>Votre aura protège conter les pouvoirs déformants des aberrations. Vous et tous vos alliés à 4,5 m obtenez un bonus de statut de +1 aux jets de Vigueur et de Volonté contre les effets provenant des aberrations.</p>\n<p>Vous gagnez aussi un bonus de statut de +1 aux jets de Vigueur contre les effets de transformation et de métamorphose et aux jets de Volonté contre les effets mentaux ; ce bonus passe à +2 contre les effets de métamorphose, de transformation ou mentaux provenant des aberrations.</p>",
+            "description": "<p>Votre aura protège conter les pouvoirs déformants des aberrations. Vous et tous vos alliés à 4,5 mètres obtenez un bonus de statut de +1 aux jets de Vigueur et de Volonté contre les effets provenant des aberrations.</p>\n<p>Vous gagnez aussi un bonus de statut de +1 aux jets de Vigueur contre les effets de transformation et de métamorphose et aux jets de Volonté contre les effets mentaux ; ce bonus passe à +2 contre les effets de métamorphose, de transformation ou mentaux provenant des aberrations.</p>\n<p>@Compendium[pf2e.feat-effects.18FHJoazfEmgNkfk]{Effet : Aura de préservation}</p>",
             "prereq": [
                 {
                     "value": "Serment ésotérique"
@@ -2809,7 +2809,7 @@
         {
             "id": "Discordant Voice",
             "name": "Discordant Voice",
-            "description": "<p>Votre Inspiration vaillante relâche un son discordant qui imprègne les attaques de vos alliés avec de puissantes réverbérations sonores.</p>\n<p>Lorsque vos alliés sont affectés par votre @Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{inspiration vaillante}, leurs @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappes} avec des armes et leurs attaques à mains nues infligent [[/r {1d6}[sonic]]]{1d6 dégâts de son} supplémentaires.</p>\n<p>@Compendium[pf2e.feat-effects.oXG7eX26FmePmwUF]{Effet : Voix discordante}</p>",
+            "description": "<p>Votre Inspiration vaillante relâche un son discordant qui imprègne les attaques de vos alliés avec de puissantes réverbérations sonores.</p>\n<p>Lorsque vos alliés sont affectés par votre <em>@Compendium[pf2e.spells-srd.IAjvwqgiDr3qGYxY]{Inspiration vaillante}</em>, leurs Frappes avec des armes et leurs attaques à mains nues infligent [[/r {1d6}[sonic]]]{1d6 dégâts de son} supplémentaires.</p>\n<p>@Compendium[pf2e.feat-effects.oXG7eX26FmePmwUF]{Effet : Voix discordante}</p>",
             "prereq": [
                 {
                     "value": "Inspiration vaillante"
@@ -3079,10 +3079,10 @@
         {
             "id": "Assisting Shot",
             "name": "Assisting Shot",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Avec un tir rapide, vous interférez avec un ennemi en combat. Portez une Frappe avec une arme à distance. Si la frappe touche, la prochaine créature autre que vous qui attaque la même cible avant le début de votre prochain tour obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un succès critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Avec un tir rapide, vous interférez avec un ennemi en combat. Portez une Frappe avec une arme à distance. Si la Frappe touche, la prochaine créature autre que vous, qui attaque la même cible avant le début de votre prochain tour, obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un succès critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>",
             "prereq": [
                 {
-                    "value": "Vous mainez une arme à distance"
+                    "value": "Vous maniez une arme à distance"
                 }
             ]
         },
@@ -4265,7 +4265,7 @@
         {
             "id": "Dragonslayer Oath (Liberator)",
             "name": "Dragonslayer Oath (Liberator)",
-            "description": "<p>Vous avez fait le serment de pourfendre des dragons maléfiques. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez tuer les dragons maléfiques que vous rencontrez si vous avez des chances raisonnables de l’emporter. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un dragon d’alignement mauvais, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et il peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effet : Pas libérateur (Dragon)}</p>\n<p>Vous ne considérez pas les dragons d’alignement mauvais comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
+            "description": "<p>Vous avez fait le serment de pourfendre des dragons maléfiques. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez tuer les dragons maléfiques que vous rencontrez si vous avez des chances raisonnables de l’emporter. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un dragon d’alignement mauvais, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.iyONT1qgeRgoYHsZ]{Effet : Pas libérateur (Dragon)}</p>\n<p>Vous ne considérez pas les dragons d’alignement mauvais comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
             "prereq": [
                 {
                     "value": "principes du bien"
@@ -5232,10 +5232,10 @@
         {
             "id": "Formation Training",
             "name": "Formation Training",
-            "description": "<p>Vous avez appris à vous battre en formation avec vos frères.</p>\n<p>Lorsque vous êtes adjacent à au moins deux alliés hobgobelins, vous gagnez un bonus de circonstances de +1 à votre CA et à vos jets de sauvegarde. Ce bonus passe à +2 sur vos jets de Réflexes contre les effets de zone.</p>",
+            "description": "<p>Vous avez appris à vous battre en formation avec vos frères.</p>\n<p>Lorsque vous êtes adjacent à au moins deux alliés hobgobelins, vous gagnez un bonus de circonstances de +1 à votre CA et à vos jets de sauvegarde. Ce bonus passe à +2 sur vos jets de Réflexes contre les effets de zone.</p>\n<p>@Compendium[pf2e.feat-effects.LVPodfYEWKtK3fUW]{Effet : Combat en formation}</p>",
             "prereq": [
                 {
-                    "value": "qualifié avec les armes de guerre"
+                    "value": "Qualifié avec les armes de guerre"
                 }
             ]
         },
@@ -8254,7 +8254,7 @@
         {
             "id": "Monster Hunter",
             "name": "Monster Hunter",
-            "description": "<p>Vous évaluez rapidement votre proie et mettez en pratique ce que vous savez à son propos.</p>\n<p>Dans le cadre de l’action utilisée pour Chasser votre proie, vous pouvez tenter un test pour Vous souvenir d’une information sur votre proie. Quand vous obtenez un succès critique lors de l’identification de votre proie avec Se Souvenir, vous relevez une faiblesse dans ses défenses. Vous et les alliés avec qui vous partagez cette information bénéficiez d’un bonus de circonstances de +1 à leur prochain jet d’attaque contre cette proie.</p>\n<p>Vous pouvez octroyer les bonus de Chasseur de monstres une fois par jour seulement contre une créature en particulier.</p>\n<p>@Compendium[pf2e.feat-effects.W2tWq0gdAcnoz2MO]{Effet : Chasseur de monstres}</p>"
+            "description": "<p>Vous évaluez rapidement votre proie et mettez en pratique ce que vous savez à son propos.</p>\n<p>Dans le cadre de l’action utilisée pour Chasser votre proie, vous pouvez tenter un test pour @Compendium[pf2e.actionspf2e.eT1jXYvz2YH70Ovp{]Vous souvenir} d’une information sur votre proie. Quand vous obtenez un succès critique lors de l’identification de votre proie avec Se Souvenir, vous relevez une faiblesse dans ses défenses. Vous et les alliés avec qui vous partagez cette information bénéficiez d’un bonus de circonstances de +1 à leur prochain jet d’attaque contre cette proie.</p>\n<p>Vous pouvez octroyer les bonus de Chasseur de monstres une fois par jour seulement contre une créature en particulier.</p>\n<p>@Compendium[pf2e.feat-effects.W2tWq0gdAcnoz2MO]{Effet : Chasseur de monstres}</p>"
         },
         {
             "id": "Tengu Lore",
@@ -8603,7 +8603,7 @@
         {
             "id": "Vitality-Manipulating Stance",
             "name": "Vitality-Manipulating Stance",
-            "description": "<p>Vous avez appris à attaquer les méridiens et les points de pression comme votre rival Shino Hakusa. Vous gagnez une Frappe à mains nues à distance d'explosion de vitalité qui inflige [[/r {1d4}[negative]]]{1d4 dégâts négatifs}, a une portée de 9 mètres et possède les traits à mains nues et polyvalent positif.</p>\n<p>En outre, lorsque vous utilisez Poing étourdissant, au lieu d'effectuer un jet de sauvegarde contre l'effet d'étourdissement, vous pouvez faire le choix d'mposer à la cible d'effectuer un jet de Vigueur contre votre DD de classe avec les résultats suivants. Vous devez choisir de le faire avant que la cible ne lance son jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Les muscles de la cible deviennent temporairement plus faibles. Pendant 1 round, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2, et chaque fois qu'elle tente d'entreprendre une action avec le trait manipulation, l'action est interrompue à moins qu'elle ne réussisse un test nu avec un DD égal à 5 + sa valeur Affaiblie.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> Comme en cas de succès, mais la durée est de 1 minute, le DD du test nu est de 11 et la cible subit une pénalité de statut de -3 mètres à toutes les Vitesses pendant la durée.</p>",
+            "description": "<p>Vous avez appris à attaquer les méridiens et les points de pression comme votre rival Shino Hakusa. Vous gagnez une Frappe à mains nues à distance d'explosion de vitalité qui inflige [[/r {1d4}[negative]]]{1d4 dégâts négatifs}, a une portée de 9 mètres et possède les traits à mains nues et polyvalent positif.</p>\n<p>En outre, lorsque vous utilisez Poing étourdissant, au lieu d'effectuer un jet de sauvegarde contre l'effet d'étourdissement, vous pouvez faire le choix d'mposer à la cible d'effectuer un jet de Vigueur contre votre DD de classe avec les résultats suivants. Vous devez choisir de le faire avant que la cible ne lance son jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Les muscles de la cible deviennent temporairement plus faibles. Pendant 1 round, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2, et chaque fois qu'elle tente d'entreprendre une action avec le trait manipulation, l'action est interrompue à moins qu'elle ne réussisse un test nu avec un DD égal à 5 + sa valeur Affaiblie.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> Comme en cas de succès, mais la durée est de 1 minute, le DD du test nu est de 11 et la cible subit une pénalité de statut de -3 mètres à toutes les Vitesses pendant la durée.</p>\n<p>@Compendium[pf2e.feat-effects.h45sUZFs5jhuQdCE]{Posture : Posture de manipulation de la vitalité}",
             "prereq": [
                 {
                     "value": "Poing étourdissant"
@@ -8674,10 +8674,10 @@
         {
             "id": "Aura of Faith",
             "name": "Aura of Faith",
-            "description": "<p>Vous émettez une aura de pure croyance qui imprègne de puissance divine vos attaques et celles de vos alliés proches.</p>\n<p>Vos Frappes infligent 1 dégât bon supplémentaire contre les créatures d’alignement mauvais. De plus, chaque allié d’alignement bon dans un rayon de 4,50 m bénéficie de cet avantage lors de sa première Frappe réussie chaque round contre une créature d’alignement mauvais.</p>\n<p>@Compendium[pf2e.feat-effects.VOOShYoB4gTopZtg]{Effet : Aura de foi}</p>",
+            "description": "<p>Vous émettez une aura de pure croyance qui imprègne de puissance divine vos attaques et celles de vos alliés proches.</p>\n<p>Vos Frappes infligent 1 dégât bon supplémentaire contre les créatures d’alignement mauvais. De plus, chaque allié d’alignement bon dans un rayon de 4,50 mètres bénéficie de cet avantage lors de sa première Frappe réussie chaque round contre une créature d’alignement mauvais.</p>\n<p>@Compendium[pf2e.feat-effects.VOOShYoB4gTopZtg]{Effet : Aura de foi}</p>",
             "prereq": [
                 {
-                    "value": "principes du bien"
+                    "value": "Principes du bien"
                 }
             ]
         },
@@ -9533,7 +9533,7 @@
                     "value": "Dévouement du guetteur"
                 },
                 {
-                    "value": "maître en Perception"
+                    "value": "Maître en Perception"
                 }
             ]
         },
@@ -10716,7 +10716,7 @@
         {
             "id": "Reflective Ripple Stance",
             "name": "Reflective Ripple Stance",
-            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous prenez une posture de grace fluide comme si de petites quantités d'eau accompagnaient vos déplacements et vos attaques. Vous pouvez porter des attaques de vagues coulantes qui infligent [[[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>\n<p>@Compendium[pf2e.feat-effects.QDQwHxNowRwzUx9R]{Effet : Posture de l'onde réfléchissante}\n<hr />\n<p><strong>Spécial</strong> Ce don obtient à votre choix le trait divin ou occulte, correspondant à la tradition de vos sorts de ki si c'est possible.</p>"
         },
         {
             "id": "Log Roll",
@@ -11499,7 +11499,7 @@
         {
             "id": "Engine of Destruction",
             "name": "Engine of Destruction",
-            "description": "<p>Votre créature artificielle libère une large gamme de dévastations en séparant ses membres, en déployant des armements cachés ou en utilisant des techniques similaires pour faire des ravages. Vous Dirigez votre innovation. Au lieu de ses actions normales, elle Marche rapidement une fois puis effectue une Frappe contre chaque ennemi se trouvant à 9 mètres de lui avec un bonus de circonstances de +2 à ses jets d'attaque. La pénalité d'attaques multiples n'augmente qu'après que la créature artificielle a effectué toutes ses attaques.</p>",
+            "description": "<p>Votre créature artificielle libère une large gamme de dévastations en séparant ses membres, en déployant des armements cachés ou en utilisant des techniques similaires pour faire des ravages. Vous Dirigez votre innovation. Au lieu de ses actions normales, elle Marche rapidement une fois puis effectue une Frappe contre chaque ennemi se trouvant à 9 mètres de lui avec un bonus de circonstances de +2 à ses jets d'attaque. La pénalité d'attaques multiples n'augmente qu'après que la créature artificielle a effectué toutes ses attaques.</p>\n<p>@Compendium[pf2e.feat-effects.nlMZCi8xi9YSvlYR]{Effet : Machine de destruction}",
             "prereq": [
                 {
                     "value": "Innovation de créature artificielle"
@@ -12214,7 +12214,7 @@
         {
             "id": "Emblazon Armament",
             "name": "Emblazon Armament",
-            "description": "<p>Vous vous préparez au combat en gravant minutieusement une image sacrée sur un objet physique.</p>\n<p>Vous pouvez passer 10 minutes à blasonner une arme ou un bouclier d’un symbole de votre divinité. Le symbole ne disparaît qu’au bout d’un an mais si vous utilisez Arsenal blasonné sur un objet, tout symbole que vous avez précédemment gravé et tout symbole déjà gravé sur cet objet disparaît instantanément. L’objet devient un symbole religieux de votre divinité ; il peut être utilisé comme focaliseur divin tant qu’il reste blasonné, et bénéficie d’un autre avantage déterminé par le type d’objet. Seuls les fidèles de la divinité correspondant au symbole représenté peuvent en bénéficier.</p>\n<p><strong>Bouclier</strong> Le bouclier bénéficie d’un bonus de statut de +1 à sa Solidité (il réduit ainsi plus de dégâts lorsqu’on effectue la réaction Blocage au bouclier).</p>\n<p><strong>@Compendium[pf2e.feat-effects.U1MpMtRnFqEDBJwd]{Arme}</strong> L’utilisateur de l’arme bénéficie d’un bonus de statut de +1 aux jets de dégâts.</p>"
+            "description": "<p>Vous vous préparez au combat en gravant minutieusement une image sacrée sur un objet physique.</p>\n<p>Vous pouvez passer 10 minutes à blasonner une arme ou un bouclier d’un symbole de votre divinité. Le symbole ne disparaît qu’au bout d’un an mais si vous utilisez Arsenal blasonné sur un objet, tout symbole que vous avez précédemment gravé et tout symbole déjà gravé sur cet objet disparaît instantanément. L’objet devient un symbole religieux de votre divinité ; il peut être utilisé comme focaliseur divin tant qu’il reste blasonné, et bénéficie d’un autre avantage déterminé par le type d’objet. Seuls les fidèles de la divinité correspondant au symbole représenté peuvent en bénéficier.</p>\n<p><strong>Bouclier</strong> Le bouclier bénéficie d’un bonus de statut de +1 à sa Solidité (il réduit ainsi plus de dégâts lorsqu’on effectue la réaction Blocage au bouclier).</p>\n<p><strong>Arme</strong> L’utilisateur de l’arme bénéficie d’un bonus de statut de +1 aux jets de dégâts.</p>"
         },
         {
             "id": "Aquatic Camouflage",
@@ -12503,7 +12503,7 @@
         {
             "id": "Avenge in Glory",
             "name": "Avenge in Glory",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 mètres est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 mètres est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>\n<p>@Compendium[pf2e.feat-effects.JQUoBlZKT5N5zO5k]{Effet : Revanche dans la gloire}</p>"
         },
         {
             "id": "School Spell Redirection",
@@ -13234,10 +13234,10 @@
             "description": "<p>Vous remplissez d'énergie positive revigorante un allié vivant. Si la prochaine action que vous utilisez consiste à lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} pour restaurer des Points de vie à une unique créature vivante, la cible inflige [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires avec ses armes au corps-à-corps et ses attaques à mains nues jusqu'à la fin de son prochain tour.</p>\n<p>Si le sort de <em>Guérison</em> est d'au moins du niveau 5, ces dégâts passent à [[/r {2d6}[positive]]]{2d6 dégâts positifs} ou à [[/r {3d6}[positive]]]{3d6 dégâts positifs} si le sort est au moins du niveau 8.</p>\n<p>@Compendium[pf2e.feat-effects.cH8JD3ub4eEKuIAD]{Effet : Imprégnation irradiante}</p>",
             "prereq": [
                 {
-                    "value": "alignement bon"
+                    "value": "Alignement bon"
                 },
                 {
-                    "value": "source de guérison"
+                    "value": "Source de guérison"
                 }
             ]
         },
@@ -13292,7 +13292,7 @@
             "description": "<p>Votre présence telle une incarnation maléfique rend vos adversaires plus susceptibles à la peur et il leur est presque impossible de récupérer de leur peur lorsque vous êtes à proximité.</p>\n<p>Les adversaires dans les 4,5 mètres de vous, subissent une pénalité de circonstances de -1 à leurs jets de sauvegarde contre la peur. En plus, un ennemi qui termine son tour dans les 4,5 mètres de vous ne peut réduire la valeur de sa condition @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé} en dessous de 1.</p>\n<p>@Compendium[pf2e.feat-effects.MNkIxAishE22TqL3]{Effet : Aura de Désespoir}</p>",
             "prereq": [
                 {
-                    "value": "préceptes du mal"
+                    "value": "Préceptes du mal"
                 }
             ]
         },
@@ -14794,7 +14794,7 @@
         {
             "id": "Azarketi Purification",
             "name": "Azarketi Purification",
-            "description": "<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]{Purifier la nourriture et la boisson}</em> comme un sort primordial inné, mais seulement sur les liquides. Vous pouvez lancer ce sort une fois toutes les 10 minutes. Vous pouvez aussi utiliser votre sort <em>Purifier la nourriture et la boisson</em> sur une créature touchée à la place d'un liquide pour purifier leur sang, donnant à cette créature un bonus de statut de +2 pendant 1 minute sur leur jet courant contre les poisons déjà présents dans leur organisme au moment où vous lancez le sort.</p>"
+            "description": "<p>Vous pouvez Lancer <em>@Compendium[pf2e.spells-srd.qXTB7Ec9yYh5JPPV]{Purifier la nourriture et la boisson}</em> comme un sort primordial inné, mais seulement sur les liquides. Vous pouvez lancer ce sort une fois toutes les 10 minutes. Vous pouvez aussi utiliser votre sort <em>Purifier la nourriture et la boisson</em> sur une créature touchée à la place d'un liquide pour purifier leur sang, donnant à cette créature un bonus de statut de +2 pendant 1 minute sur leur jet courant contre les poisons déjà présents dans leur organisme au moment où vous lancez le sort.</p>\n<p>@Compendium[pf2e.feat-effects.8rDbWcWmQL0N5FFG]{Effet : Purification azarketi}</p>"
         },
         {
             "id": "Advanced Synergy",
@@ -15250,10 +15250,10 @@
         {
             "id": "Legendary Monster Hunter",
             "name": "Legendary Monster Hunter",
-            "description": "<p>Vos connaissances sur les monstres sont si impressionnantes qu’elles vous permettent de connaître sans vous tromper toutes les faiblesses de votre proie.</p>\n<p>Le bonus de Chasseur de monstres (et celui de Garde-monstres, si vous l’avez) passe de +1 à +2 pour vous et les alliés qui en bénéficient.</p>\n<p>@Compendium[pf2e.feat-effects.LB0PTV5yqMlBmRFj]{Effet : Chasseur de monstres légendaire}</p>\n<p>@Compendium[pf2e.feat-effects.aUpcWqaLBlmpnJgW]{Effet : Garde-monstres légendaire}</p>",
+            "description": "<p>Vos connaissances sur les monstres sont si impressionnantes qu’elles vous permettent de connaître sans vous tromper toutes les faiblesses de votre proie.</p>\n<p>Le bonus de @Compendium[pf2e.feats-srd.YTTJqRKH8QZl6al2]{Chasseur de monstres} (et celui de @Compendium[pf2e.feats-srd.2yq3l8e2Vzz34yRV]{Garde-monstres}, si vous l’avez) passe de +1 à +2 pour vous et les alliés qui en bénéficient.</p>\n<p>@Compendium[pf2e.feat-effects.LB0PTV5yqMlBmRFj]{Effet : Chasseur de monstres légendaire}</p>\n<p>@Compendium[pf2e.feat-effects.aUpcWqaLBlmpnJgW]{Effet : Garde-monstres légendaire}</p>",
             "prereq": [
                 {
-                    "value": "légendaire en Nature"
+                    "value": "Légendaire en Nature"
                 },
                 {
                     "value": "Maître chasseur de monstres"
@@ -15714,7 +15714,7 @@
         {
             "id": "Enforce Oath",
             "name": "Enforce Oath",
-            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous faites appel à votre serment pour vous raffermir au combat. Lorsque vous renforcez votre serment, choisissez une créature que vous pouvez voir que vous avez juré de vaincre du fait de votre serment.</p>\n<p>Vous obtenez un bonus de statut de +1 à la CA et aux jets de protection contre les attaques et les effets de la créature choisie. Vous obtenez aussi un bonus de statut de +1 aux jets d'attaque contre la créature choisie.</p>\n<p>Quoi qu'il en soit, votre dévotion à renforcer votre serment distrait votre attention de tous vos autres ennemis. Lorsque vous renforcez votre serment, vous subissez une pénalité de statut de –1 à la CA, aux jets d'attaque et aux jets de sauvegarde contre toutes les autres créatures jusqu'à ce que vous cessiez de renforcer votre serment.</p>\n<p>Vous arrêtez de renforcer votre serment une fois que la créature choisie est réduite à 0 Points de vie ou lorsqu'elle offre une reddition légitime à vous ou vos alliés. Vous arrêtez immédiatement de Renforcer votre Serment si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} ou si la créature choisie n'est plus @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{Détectée} par vous durant plus d'une minute. Vous pouvez aussi cesser de renforcer votre serment n'importe quand durant votre tour par une action libre.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Vous faites appel à votre serment pour vous raffermir au combat. Lorsque vous renforcez votre serment, choisissez une créature que vous pouvez voir que vous avez juré de vaincre du fait de votre serment.</p>\n<p>Vous obtenez un bonus de statut de +1 à la CA et aux jets de protection contre les attaques et les effets de la créature choisie. Vous obtenez aussi un bonus de statut de +1 aux jets d'attaque contre la créature choisie.</p>\n<p>Quoi qu'il en soit, votre dévotion à renforcer votre serment distrait votre attention de tous vos autres ennemis. Lorsque vous renforcez votre serment, vous subissez une pénalité de statut de –1 à la CA, aux jets d'attaque et aux jets de sauvegarde contre toutes les autres créatures jusqu'à ce que vous cessiez de renforcer votre serment.</p>\n<p>Vous arrêtez de renforcer votre serment une fois que la créature choisie est réduite à 0 Points de vie ou lorsqu'elle offre une reddition légitime à vous ou vos alliés. Vous arrêtez immédiatement de Renforcer votre Serment si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} ou si la créature choisie n'est plus @Compendium[pf2e.conditionitems.9evPzg9E6muFcoSk]{Inaperçu} par vous durant plus d'une minute. Vous pouvez aussi cesser de renforcer votre serment n'importe quand durant votre tour par une action libre.</p>",
             "prereq": [
                 {
                     "value": "Vous avez prêté un serment contre un type spécifique de créature."
@@ -16057,7 +16057,7 @@
         {
             "id": "Cavalier's Banner",
             "name": "Cavalier's Banner",
-            "description": "<p><strong>Conditions</strong> Vous vous êtes voué au service d'une organisation spécifique ou à un idéal (voir les vœux du cavalier ci-dessous).</p>\n<hr />\n<p>Vous déployez la bannière correspondant à votre vœu depuis votre monture pour soutenir le moral de vos alliés. Vous et tous vos alliés dans les 9 mètres obtenez un bonus de circonstances de +1 aux jets de Volonté et au DD contre les effets de terreur. Si votre bannière est détruite ou retirée, vos alliés dans les 9 mètres deviennent @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayés} 1.</p>\n<hr />\n<p><strong>Vœux du Cavalier</strong></p>\n<p>Beaucoup de cavaliers se vouent eux-mêmes au service d'une organisation spécifique ou à un individu tel qu'une famille noble ou un souverain en exercice, un ordre de chevalier ou à une autre organisation, voire à un idéal particulier. Un cavalier voué à un ordre ou à un idéal doit respecter ses édits et respectes les anathèmes qu'il possède ; par exemple, un cavalier voué à une cabale de druide de l'ordre animal serait lié à cet anathème, alors qu'un cavalier voué à l'église d'Abadar serait tenu aux même règles qu'un prêtre de ce dieu. Si vous vous vouez vous-même à une entité ou une cause dépourvue d'anathème défini, vous devriez voir avec le MJ à déterminer les édits et les anathèmes associés à ce vœu.</p>\n<p>Les cavaliers qui ont formé un vœu peuvent obtenir accès à certaines capacités en lien avec ce vœu, comme la Bannière du cavalier. Si vous violez l'anathème de votre vœu, vous perdez l'accès à ces dons jusqu'à ce que vous puissiez bénéficier d'un rituel de @Compendium[pf2e.spells-srd.7Fd4lxozd11MQ55N]{Pénitence}. Changer l'objet de votre vœu est équivalent au Réapprentissage d'une capacité de classe.</p>",
+            "description": "<p><strong>Conditions</strong> Vous vous êtes voué au service d'une organisation spécifique ou à un idéal (voir les vœux du cavalier ci-dessous).</p>\n<p>@Compendium[pf2e.feat-effects.xDT10fUWp8UStSZR]{Effet : Bannière du Cavalier}</p>\n<hr />\n<p>Vous déployez la bannière correspondant à votre vœu depuis votre monture pour soutenir le moral de vos alliés. Vous et tous vos alliés dans les 9 mètres obtenez un bonus de circonstances de +1 aux jets de Volonté et au DD contre les effets de terreur. Si votre bannière est détruite ou retirée, vos alliés dans les 9 mètres deviennent @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayés} 1.</p>\n<hr />\n<p><strong>Vœux du Cavalier</strong></p>\n<p>Beaucoup de cavaliers se vouent eux-mêmes au service d'une organisation spécifique ou à un individu tel qu'une famille noble ou un souverain en exercice, un ordre de chevalier ou à une autre organisation, voire à un idéal particulier. Un cavalier voué à un ordre ou à un idéal doit respecter ses édits et respectes les anathèmes qu'il possède ; par exemple, un cavalier voué à une cabale de druide de l'ordre animal serait lié à cet anathème, alors qu'un cavalier voué à l'église d'Abadar serait tenu aux même règles qu'un prêtre de ce dieu. Si vous vous vouez vous-même à une entité ou une cause dépourvue d'anathème défini, vous devriez voir avec le MJ à déterminer les édits et les anathèmes associés à ce vœu.</p>\n<p>Les cavaliers qui ont formé un vœu peuvent obtenir accès à certaines capacités en lien avec ce vœu, comme la Bannière du cavalier. Si vous violez l'anathème de votre vœu, vous perdez l'accès à ces dons jusqu'à ce que vous puissiez bénéficier d'un rituel de @Compendium[pf2e.spells-srd.7Fd4lxozd11MQ55N]{Pénitence}. Changer l'objet de votre vœu est équivalent au Réapprentissage d'une capacité de classe.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du cavalier"
@@ -17151,10 +17151,10 @@
             "description": "<p>Votre allié lame devient un outil encore plus puissant contre les scélérats. Désignez un adversaire dans votre champ de vision. Jusqu’à la fin de votre prochain tour, vos Frappes contre cet adversaire, avec l’arme dans laquelle votre allié lame est logé, infligent 4 dégâts bons supplémentaires, 6 si vous êtes un maître avec cette arme. Si l’adversaire attaque l’un de vos alliés, la durée se prolonge jusqu’à la fin du prochain tour de l’adversaire. Si l’adversaire continue d’attaquer vos alliés chaque tour, la durée se prolonge à chaque fois.</p>\n<p>@Compendium[pf2e.feat-effects.AlnxieIRjqNqsdVu]{Effet : Châtiment du mal}</p>",
             "prereq": [
                 {
-                    "value": "allié divin (lame)"
+                    "value": "Allié divin (lame)"
                 },
                 {
-                    "value": "principes du bien"
+                    "value": "Principes du bien"
                 }
             ]
         },
@@ -17181,7 +17181,7 @@
         {
             "id": "Cat Nap",
             "name": "Cat Nap",
-            "description": "<p>Vous pouvez dormir brièvement pour regagner votre énergie rapidement. Une fois par heure, en dormant pendant 10 minutes, vous pouvez obtenir des Points de vie temporaires égaux à votre niveau qui durent pendant 10 minutes.</p>\n<p>@Compendium[pf2e.feat-effects.l3S9i2UWGhSO58YX]{Effet: Sieste féline}</p>"
+            "description": "<p>Vous pouvez dormir brièvement pour regagner votre énergie rapidement. Une fois par heure, en dormant pendant 10 minutes, vous pouvez obtenir des Points de vie temporaires égaux à votre niveau qui durent pendant 10 minutes.</p>\n<p>@Compendium[pf2e.feat-effects.l3S9i2UWGhSO58YX]{Effet : Sieste féline}</p>"
         },
         {
             "id": "Skull Creeper",
@@ -17285,7 +17285,7 @@
         {
             "id": "Deep Freeze",
             "name": "Deep Freeze",
-            "description": "<p>Vous évacuez un jet de fluide super refroidi de votre innovation, en infligeant des dégâts à un ennemi tout en le ralentissant. Ciblez une créature dans un rayon de 18 mètres. Cette créature subit des dégâts de froid égaux à votre niveau, dont les effets dépendent de son jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts et une pénalité de statut de -1,5 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts et une pénalité de statut de -3 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Echec critique</strong> La cible subit des dégâts doublés, est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 pendant 1 round et subit une pénalité de statut de -4,5 mètres à ses Vitesses pendant 1 round.</p>\n<hr />\n<p><strong>Fonction instable</strong> Votre innovation déverse un énorme cône de fluide super refroidi, provoquant potentiellement des pannes en cascade. Ajoutez le trait Instable à Congélation profonde. Cette capacité affecte toutes les créatures situées dans un @Template[type:cone|distance:60]{cône de 18 mètres} au lieu d'une cible unique et elle inflige des dégâts de froid égaux au double de votre niveau au lieu d'être égaux à votre niveau.</p>\n<p>Si vous disposez de la capacité de classe Innovation révolutionnaire, vous pouvez choisir entre un @Template[type:cone|distance:60]{cône de 18 mètres} ou un @Template[type:cone|distance:90]{cône de 27 mètres} lorsque vous utilisez Congélation instable. </p>\n<hr />\n<p><strong>Spécial</strong> Si votre innovation est un sbire, il peut effectuer cette action à votre place.</p>"
+            "description": "<p>Vous évacuez un jet de fluide super refroidi de votre innovation, en infligeant des dégâts à un ennemi tout en le ralentissant. Ciblez une créature dans un rayon de 18 mètres. Cette créature subit des dégâts de froid égaux à votre niveau, dont les effets dépendent de son jet de Réflexes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts et une pénalité de statut de -1,5 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts et une pénalité de statut de -3 mètres à ses Vitesses pendant 1 round.</p>\n<p><strong>Echec critique</strong> La cible subit des dégâts doublés, est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 pendant 1 round et subit une pénalité de statut de -4,5 mètres à ses Vitesses pendant 1 round.</p>\n<p>@Compendium[pf2e.feat-effects.WKbsjhjYIMv59JQg]{Effet : Congélation profonde(Succès)}</p>\n<p>@Compendium[pf2e.feat-effects.vQj9I3FShzx3lNoG]{Effet : Congélation profonde(Échec)}</p>\n<p>@Compendium[pf2e.feat-effects.MRo1SI1Y5PgdNf8r]{Effet : Congélation profonde(Échec critique)}</p>\n<hr />\n<p><strong>Fonction instable</strong> Votre innovation déverse un énorme cône de fluide super refroidi, provoquant potentiellement des pannes en cascade. Ajoutez le trait Instable à Congélation profonde. Cette capacité affecte toutes les créatures situées dans un @Template[type:cone|distance:60]{cône de 18 mètres} au lieu d'une cible unique et elle inflige des dégâts de froid égaux au double de votre niveau au lieu d'être égaux à votre niveau.</p>\n<p>Si vous disposez de la capacité de classe Innovation révolutionnaire, vous pouvez choisir entre un @Template[type:cone|distance:60]{cône de 18 mètres} ou un @Template[type:cone|distance:90]{cône de 27 mètres} lorsque vous utilisez Congélation instable. </p>\n<hr />\n<p><strong>Spécial</strong> Si votre innovation est un sbire, il peut effectuer cette action à votre place.</p>"
         },
         {
             "id": "Volatile Grease",
@@ -18191,7 +18191,7 @@
         {
             "id": "Silencing Strike",
             "name": "Silencing Strike",
-            "description": "<p>Une frappe rapide au visage ou à la bouche réduit au silence votre adversaire. Faites une Frappe de mêlée contre un ennemi. L'ennemi doit réussir un jet de Vigueur contre votre DD de classe.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible est étourdie et peut à peine parler. Elle est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1 et sa voix est rauque et son discours difficile à comprendre. Elle doit réussir un test nu contre un DD18 pour utiliser des actions linguistiques ou fournir des composantes de sort verbales jusqu'à la fin de son prochain tour.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais la créature est Étourdie 3 au lieu d'Étourdie 1.</p>"
+            "description": "<p>Une frappe rapide au visage ou à la bouche réduit au silence votre adversaire. Faites une Frappe de corps-à-corps contre un ennemi. L'ennemi doit réussir un jet de Vigueur contre votre DD de classe.</p>\n<hr />\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible est étourdie et peut à peine parler. Elle est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1, sa voix est rauque et son discours difficile à comprendre. Elle doit réussir un test nu DD18 pour utiliser des actions linguistiques ou fournir des composantes de sort verbales jusqu'à la fin de son prochain tour.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais la créature est Étourdie 3 au lieu d'Étourdie 1.</p>"
         },
         {
             "id": "Paragon Battle Medicine",
@@ -19411,7 +19411,7 @@
         {
             "id": "Heaven's Thunder",
             "name": "Heaven's Thunder",
-            "description": "<p>Avec un cri sonore, vous relâchez votre ki dans un éclat crépitant de tonnerre et d'éclair qui engloutit votre corps.</p>\n<p>Jusqu'à la fin de votre prochain tour, vos attaques à mains nues et d'armes que vous maniez qui ont le trait moine infligent des dégâts supplémentaires d'électricité égaux à votre niveau et des dégâts de sons supplémentaires égaux à la moitié de votre niveau.</p>\n<p>Si vous connaissez également le sort de ki <em>@Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]{Explosion ki}</em>, vous pouvez choisir d'infliger les dégâts supplémentaires d'électricité ou des dégâts de son avec le sort au lieu de dégâts de force lorsque cet effet est actif (<em>explosion ki</em> perd le trait force et obtient le trait électricité ou son à la place). Chaque créature qui réussit à vous @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} ou que vous réussissez à Saisir subit ces dégâts immédiatement après avoir effectué le test pour Saisir.</p>",
+            "description": "<p>Avec un cri sonore, vous relâchez votre ki dans un éclat crépitant de tonnerre et d'éclair qui engloutit votre corps.</p>\n<p>Jusqu'à la fin de votre prochain tour, vos attaques à mains nues et d'armes que vous maniez qui ont le trait moine infligent des dégâts supplémentaires d'électricité égaux à votre niveau et des dégâts de sons supplémentaires égaux à la moitié de votre niveau.</p>\n<p>Si vous connaissez également le sort de ki <em>@Compendium[pf2e.spells-srd.oo7YcRC2gcez81PV]{Explosion ki}</em>, vous pouvez choisir d'infliger les dégâts supplémentaires d'électricité ou des dégâts de son avec le sort au lieu de dégâts de force lorsque cet effet est actif (<em>explosion ki</em> perd le trait force et obtient le trait électricité ou son à la place). Chaque créature qui réussit à vous @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} ou que vous réussissez à Saisir subit ces dégâts immédiatement après avoir effectué le test pour Saisir.</p>\n<p>@Compendium[pf2e.feat-effects.L9g3EMCT3imX650b]{Effet : Tonnerre du Paradis}</p>",
             "prereq": [
                 {
                     "value": "Dévouement de Chercheur du Paradis du Jalmeray"
@@ -19863,7 +19863,7 @@
         {
             "id": "Shared Clarity",
             "name": "Shared Clarity",
-            "description": "<p>Vous pouvez projeter votre clarté prémonitoire sur vos alliés.</p>\n<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.2h8a6pKhXTXwpJjP]{Clarté prémonitoire}, vos alliés à 4,5 m de vous qui ont obtenu un échec au même jet de protection contre le même effet mental peuvent aussi utiliser leurs réactions pour relancer le jet de protection avec un bonus de circonstances de +2.</p>\n<p>@Compendium[pf2e.feat-effects.CUtvkuGSxq1raBIB]{Effet : Clarté partagée}</p>",
+            "description": "<p>Vous pouvez projeter votre clarté prémonitoire sur vos alliés.</p>\n<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.2h8a6pKhXTXwpJjP]{Clarté prémonitoire}, vos alliés à 4,5 mètres de vous qui ont obtenu un échec au même jet de protection contre le même effet mental peuvent aussi utiliser leurs réactions pour relancer le jet de protection avec un bonus de circonstances de +2.</p>\n<p>@Compendium[pf2e.feat-effects.CUtvkuGSxq1raBIB]{Effet : Clarté partagée}</p>",
             "prereq": [
                 {
                     "value": "Clarté prémonitoire"
@@ -22561,7 +22561,7 @@
         {
             "id": "Bespell Weapon",
             "name": "Bespell Weapon",
-            "description": "<p><strong>Fréquence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre action la plus récente a consisté à @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort} autre qu’un tour de magie.</p>\n<hr />\n<p>Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.</p>\n<ul>\n<li><strong>Abjuration</strong> @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{dégâts de force},</li>\n<li><strong>Invocation ou Transmutation</strong> @Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]{dégâts du même type que ceux de l'arme},</li>\n<li><strong>Divination, Enchantment ou Illusion</strong> @Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]{dégâts mentaux},</li>\n<li><strong>Évocation</strong> d'un type infligé par le sort ou @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{dégâts de force} si le sort n'inflige pas de dégâts,</li>\n<li><strong>Nécromancie</strong> @Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]{dégâts négatifs}</li>\n</ul>"
+            "description": "<p><strong>Fréquence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre action la plus récente a consisté à Lancer un sort autre qu’un tour de magie.</p>\n<hr />\n<p>Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.</p>\n<ul>\n<li><strong>Abjuration</strong> @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{Dégâts de force},</li>\n<li><strong>Invocation ou Transmutation</strong> @Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]{Dégâts du même type que ceux de l'arme},</li>\n<li><strong>Divination, Enchantment ou Illusion</strong> @Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]{Dégâts mentaux},</li>\n<li><strong>Évocation</strong> d'un type infligé par le sort ou @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{Dégâts de force} si le sort n'inflige pas de dégâts,</li>\n<li><strong>Nécromancie</strong> @Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]{Dégâts négatifs}</li>\n</ul>"
         },
         {
             "id": "Tongue of Sun and Moon",
@@ -23089,7 +23089,7 @@
         {
             "id": "Fleet Tempo",
             "name": "Fleet Tempo",
-            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Pour vous précipiter à la poursuite d'un criminel ou pour rejoindre quelqu'un dans le besoin, vous sonnez un ton enjoué. Vous et tous les alliés dans un rayon de 9 m obtenez un bonus de statut de +3 m à toutes vos Vitesses pendant 1 minute.</p>\n<p>@Compendium[pf2e.feat-effects.pQ9e5njvIOe5QzFa]{Effet : Tempo rapide}</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par heure</p>\n<hr />\n<p>Pour vous précipiter à la poursuite d'un criminel ou pour rejoindre quelqu'un dans le besoin, vous sonnez un ton enjoué. Vous et tous les alliés dans un rayon de 9 mètres obtenez un bonus de statut de +3 mètres à toutes vos Vitesses pendant 1 minute.</p>\n<p>@Compendium[pf2e.feat-effects.pQ9e5njvIOe5QzFa]{Effet : Tempo rapide}</p>",
             "prereq": [
                 {
                     "value": "Dévouement de Sonneur de carillon de Nantambu"
@@ -23205,7 +23205,7 @@
         {
             "id": "Fiendsbane Oath (Liberator)",
             "name": "Fiendsbane Oath (Liberator)",
-            "description": "<p>Vous avez fait le serment de bannir les fiélons corrupteurs vers les plans obscurs d’où ils proviennent. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez bannir ou tuer les fiélons que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un fiélon d’alignement bon, vous n’avez pas à le bannir ou à le tuer. »</p>\n<p> Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et il peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effet : Pas libérateur (Fiélon)}</p>\n<p>Vous ne considérez pas les fiélons comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
+            "description": "<p>Vous avez fait le serment de bannir les fiélons corrupteurs vers les plans obscurs d’où ils proviennent. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez bannir ou tuer les fiélons que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un fiélon d’alignement bon, vous n’avez pas à le bannir ou à le tuer. »</p>\n<p> Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effet : Pas libérateur (Fiélon)}</p>\n<p>Vous ne considérez pas les fiélons comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
             "prereq": [
                 {
                     "value": "principes du bien"
@@ -23366,7 +23366,7 @@
         {
             "id": "Aura of Life",
             "name": "Aura of Life",
-            "description": "<p>Votre aura protège contre les effets nécromantiques. Vous et tous les alliés dans un rayon de 4,50 m gagnez une résistance 5 contre l’énergie négative et un bonus de statut de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>\n<p>@Compendium[pf2e.feat-effects.FPuICuxBLiDaEbDX]{Effet : Aura de Vie}</p>",
+            "description": "<p>Votre aura protège contre les effets nécromantiques. Vous et tous les alliés dans un rayon de 4,50 mètres gagnez une résistance 5 contre l’énergie négative et un bonus de statut de +1 aux jets de sauvegarde contre les effets de nécromancie.</p>\n<p>@Compendium[pf2e.feat-effects.FPuICuxBLiDaEbDX]{Effet : Aura de Vie}</p>",
             "prereq": [
                 {
                     "value": "Serment de lumière"
@@ -24424,7 +24424,7 @@
         {
             "id": "Shared Avoidance",
             "name": "Shared Avoidance",
-            "description": "<p>Vous pouvez projeter votre prémonition du danger à vos alliés. Lorsque vous utilisez @Compendium[pf2e.feats-srd.KYl1rWFOHe0e6VqJ]{Évitement prémonitoire}, vos alliés à 4,5 m de vous qui lance le même jet de sauvegarde contre le même danger obtiennent aussi le bonus de circonstances de +2 à leur jet de sauvegarde.</p>\n<p>@Compendium[pf2e.feat-effects.svVczVV174KfJRDf]{Effet : Évitement partagé}</p>",
+            "description": "<p>Vous pouvez projeter votre prémonition du danger à vos alliés. Lorsque vous utilisez @Compendium[pf2e.feats-srd.KYl1rWFOHe0e6VqJ]{Évitement prémonitoire}, vos alliés à 4,5 mètres de vous qui lance le même jet de sauvegarde contre le même danger obtiennent aussi le bonus de circonstances de +2 à leur jet de sauvegarde.</p>\n<p>@Compendium[pf2e.feat-effects.svVczVV174KfJRDf]{Effet : Évitement partagé}</p>",
             "prereq": [
                 {
                     "value": "Évitement prémonitoire"
@@ -25911,7 +25911,7 @@
         {
             "id": "Guardian's Deflection (Fighter)",
             "name": "Guardian's Deflection (Fighter)",
-            "description": "<p><strong>Déclencheur</strong> Une attaque touche un allié à portée de votre allonge au corps-à-corps, l’attaquant est dans votre champ de vision et l’allié qui bénéficie alors d’un bonus de circonstances de +2 à la CA pourra transformer le succès critique en succès ou le succès en échec.</p>\n<p><strong>Conditions</strong> Vous maniez une seule arme de corps-à-corps à une main et votre autre main (ou mains) est libre.</p>\n<hr />\n<p>Vous utilisez votre arme vous dévier l’attaque contre votre allié, ce qui lui confère un bonus de circonstances de +2 à sa CA contre l’attaque à l’origine du déclenchement. Ceci transforme le coup critique déclencheur en un coup normal ou le coup déclencheur normal en un échec.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une attaque touche un allié à portée de votre allonge au corps-à-corps, l’attaquant est dans votre champ de vision et l’allié qui bénéficie alors d’un bonus de circonstances de +2 à la CA pourra transformer le succès critique en succès ou le succès en échec.</p>\n<p><strong>Conditions</strong> Vous maniez une seule arme de corps-à-corps à une main et votre autre main (ou mains) est libre.</p>\n<hr />\n<p>Vous utilisez votre arme vous dévier l’attaque contre votre allié, ce qui lui confère un bonus de circonstances de +2 à sa CA contre l’attaque à l’origine du déclenchement. Ceci transforme le coup critique déclencheur en un coup normal ou le coup déclencheur normal en un échec.</p>\n<p>@Compendium[pf2e.feat-effects.w6X7io56B2HHTOvs]{Effet : Déviation du Gardien}</p>"
         },
         {
             "id": "Janni Magic",
@@ -27446,13 +27446,13 @@
         {
             "id": "Shining Oath (Liberator)",
             "name": "Shining Oath (Liberator)",
-            "description": "<p>Vous avez fait le serment de mettre un terme à l’existence des morts-vivants. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez mettre un terme à l’existence des morts-vivants que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un mort-vivant d’alignement bon, vous pouvez tenter de trouver une solution plus pacifique pour l’aider à le soigner de son état de mort-vivant au lieu de le détruire en combat. Vous pouvez l’aider à résoudre le problème qui l’empêche de trouver le repos éternel, par exemple. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu'il est déclenché par un mort-vivant, votre allié bénéficie d'un bonus de circonstances de +4 aux tests accordés par votre Pas libérateur et il peut ensuite @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effet : Pas libérateur (morts-vivants)}</p>\n<p>Vous ne considérez pas les morts-vivants comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
+            "description": "<p>Vous avez fait le serment de mettre un terme à l’existence des morts-vivants. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez mettre un terme à l’existence des morts-vivants que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un mort-vivant d’alignement bon, vous pouvez tenter de trouver une solution plus pacifique pour l’aider à le soigner de son état de mort-vivant au lieu de le détruire en combat. Vous pouvez l’aider à résoudre le problème qui l’empêche de trouver le repos éternel, par exemple. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu'il est déclenché par un mort-vivant, votre allié bénéficie d'un bonus de circonstances de +4 aux tests accordés par votre Pas libérateur et votre allié peut ensuite @Compendium[pf2e.actionspf2e.UHpkTuCtyaPqiCAB]{Faire un pas} deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.ZnKnOPPq3cG54PlG]{Effet : Pas libérateur (morts-vivants)}</p>\n<p>Vous ne considérez pas les morts-vivants comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
             "prereq": [
                 {
-                    "value": "principes du bien"
+                    "value": "Principes du bien"
                 },
                 {
-                    "value": "cause du libérateur"
+                    "value": "Cause du libérateur"
                 }
             ]
         },

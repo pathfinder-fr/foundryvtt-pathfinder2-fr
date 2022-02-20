@@ -753,7 +753,7 @@
         {
             "id": "Levitate",
             "name": "Lévitation (Levitate)",
-            "description": "<p>Vous défiez la gravité et faites léviter la cible à 1,50 m au-dessus du sol. Pendant la durée du sort, vous pouvez déplacer la cible de 3 m vers le haut ou le bas avec une action unique dotée du trait concentration. Une créature en lévitation grâce à ce sort subit un malus de circonstances de −2 aux jets d’attaque. Une créature en lévitation peut effectuer l’action Interagir pour se stabiliser et annuler ce malus pour le reste de son tour. Si la cible est adjacente à un objet ou à un terrain suffisamment stable, elle peut l’escalader (si la surface est verticale, comme un mur) ou ramper dessus (si elle est horizontale, comme un plafond). Le MJ détermine quelles surfaces il est possible d’escalader ou sur lesquelles on peut ramper.</p>",
+            "description": "<p>Vous défiez la gravité et faites léviter la cible à 1,50 mètres au-dessus du sol. Pendant la durée du sort, vous pouvez déplacer la cible de 3 mètres vers le haut ou le bas avec une action unique dotée du trait concentration. Une créature en lévitation grâce à ce sort subit un malus de circonstances de −2 aux jets d’attaque. Une créature en lévitation peut effectuer l’action Interagir pour se stabiliser et annuler ce malus pour le reste de son tour. Si la cible est adjacente à un objet ou à un terrain suffisamment stable, elle peut l’escalader (si la surface est verticale, comme un mur) ou ramper dessus (si elle est horizontale, comme un plafond). Le MJ détermine quelles surfaces il est possible d’escalader ou sur lesquelles on peut ramper.</p>\n<p>@Compendium[pf2e.spell-effects.JqrTrvwV7pYStMXz]{Effet : Lévitation}</p>",
             "range": "contact",
             "target": "1 objet non tenu ou une créature volontaire"
         },
@@ -1462,7 +1462,7 @@
         {
             "id": "Litany of Depravity",
             "name": "Litanie de dépravation (Litany of Depravity)",
-            "description": "<p>Votre litanie remet en question la morale que votre ennemi tient pour acquise. La cible obtient une faiblesse 7 contre le mal puis devient temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>",
+            "description": "<p>Votre litanie remet en question la morale que votre ennemi tient pour acquise. La cible obtient une faiblesse 7 contre le mal puis devient temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.CTdEsMIwVYqqkH50]{Effet : Litanie de dépravation}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>",
             "range": "9 mètres",
             "target": "1 créature bonne"
         },
@@ -1590,7 +1590,7 @@
         {
             "id": "Ki Blast",
             "name": "Explosion Ki (Ki Blast)",
-            "description": "<p>Vous déchaînez votre ki sous la forme d’une explosion infligeant [[/r {2d6}[force]]]{2d6 dégâts de force}.</p>\n<p>Si vous utilisez 2 actions pour lancer explosion ki, la taille du cône passe à 9 mètres et les dégâts à [[/r {3d6}[force]]]{3d6 dégâts de force}.</p>\n<p>Si vous utilisez 3 actions pour lancer explosion ki, la taille du cône passe à 18 mètres et les dégâts à [[/r {4d6}[force]]]{4d6 dégâts de force}.</p>\n<p>Chaque créature dans la zone doit effectuer un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature reçoit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature reçoit la totalité des dégâts et elle est repoussée de 1,50 mètres.</p>\n<p><strong>Échec critique</strong> La créature reçoit le double de dégâts et elle est repoussée de 3 mètres.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6 ou de 2d6 si vous utilisez 2 ou 3 actions.</p>",
+            "description": "<p>Vous déchaînez votre ki sous la forme d’une explosion infligeant [[/r {2d6}[force]]]{2d6 dégâts de force}.</p>\n<p>Si vous utilisez 2 actions pour lancer explosion ki, la taille du cône passe à @Template[type:cone|distance:30]{9 mètres} et les dégâts à [[/r {3d6}[force]]]{3d6 dégâts de force}.</p>\n<p>Si vous utilisez 3 actions pour lancer explosion ki, la taille du cône passe à @Template[type:cone|distance:60]{18 mètres} et les dégâts à [[/r {4d6}[force]]]{4d6 dégâts de force}.</p>\n<p>Chaque créature dans la zone doit effectuer un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature reçoit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature reçoit la totalité des dégâts et elle est repoussée de 1,50 mètres.</p>\n<p><strong>Échec critique</strong> La créature reçoit le double de dégâts et elle est repoussée de 3 mètres.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d6 ou de [[/r 2d6]]{2d6} si vous utilisez 2 ou 3 actions.</p>",
             "areasize": "cône de 4,5 mètres"
         },
         {
@@ -1610,7 +1610,7 @@
         {
             "id": "Litany of Righteousness",
             "name": "Litanie de vertu (Litany of Righteousness)",
-            "description": "<p>Votre litanie accuse un scélérat, le rendant sensible aux pouvoirs du bien.</p>\n<p>La cible gagne faiblesse 7 au bien. Elle est temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>",
+            "description": "<p>Votre litanie accuse un scélérat, le rendant sensible aux pouvoirs du bien. La cible gagne faiblesse 7 au bien. Elle est temporairement immunisée à toutes vos litanies pendant 1 minute.</p>\n<p>@Compendium[pf2e.spell-effects.46vCC77mBNBWtmx3]{Effet : Litanie de vertu}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>",
             "range": "9 mètres",
             "target": "1 créature mauvaise"
         },
@@ -1662,7 +1662,7 @@
         {
             "id": "Weapon Storm",
             "name": "Tempête d'armes (Weapon Storm)",
-            "description": "<p>Vous lancez une arme que vous tenez et elle se multiplie magiquement en copies qui frappent toutes les créatures dans le cône ou l’émanation. Ce tourbillon inflige quatre dés de dégâts aux créatures dans la zone. Ces dégâts sont du même type que l’arme et utilisent la même taille de dés. Déterminez la taille des dés comme si vous aviez attaqué avec l’arme ; par exemple, si vous teniez une arme à deux mains avec vos deux mains, vous utilisez ses dés de dégâts à deux mains.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts.</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et est soumise à l’effet critique spécialisé de l’arme.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Ajouter un dé de dégâts supplémentaire.</p>",
+            "description": "<p>Vous lancez une arme que vous tenez et elle se multiplie magiquement en copies qui frappent toutes les créatures dans @Template[type:cone|distance:30]{un cône de 9 mètres} ou @Template[type:emanation|distance:10]{une émanation de 3 mètres}. Ce tourbillon inflige quatre dés de dégâts aux créatures dans la zone. Ces dégâts sont du même type que l’arme et utilisent la même taille de dés. Déterminez la taille des dés comme si vous aviez attaqué avec l’arme ; par exemple, si vous teniez une arme à deux mains avec vos deux mains, vous utilisez ses dés de dégâts à deux mains.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La cible subit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La cible subit la totalité des dégâts.</p>\n<p><strong>Échec critique</strong> La cible subit le double des dégâts et est soumise à l’effet critique spécialisé de l’arme.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Ajouter un dé de dégâts supplémentaire.</p>",
             "areasize": "cône de 9 mètres ou émanation de 3 mètres"
         },
         {
@@ -2631,7 +2631,7 @@
         {
             "id": "Vital Beacon",
             "name": "Fanal de vie (Vital Beacon)",
-            "description": "<p>Vous irradiez de vitalité, permettant aux autres de supplier et de recevoir des soins.</p>\n<p>Une fois par round, vous ou un allié pouvez utiliser l’action Interagir pour implorer et poser les mains sur vous afin de regagner des points de vie. Chaque fois que le fanal soigne quelqu’un, sa force diminue. Il redonne 4d10 points de vie à la première créature, 4d8 à la seconde, 4d6 à la troisième et 4d4 à la quatrième, après quoi le sort prend fin. Vous ne pouvez avoir qu’un seul fanal de vie actif à la fois.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le fanal restaure un dé supplémentaire de points de vie chaque fois qu’il soigne, utilisant le dé de la même catégorie que les autres à chaque étape.</p>"
+            "description": "<p>Vous irradiez de vitalité, permettant aux autres de supplier et de recevoir des soins.</p>\n<p>Une fois par round, vous ou un allié pouvez utiliser l’action Interagir pour implorer et poser les mains sur vous afin de regagner des points de vie. Chaque fois que le fanal soigne quelqu’un, sa force diminue. Il redonne 4d10 points de vie à la première créature, 4d8 à la seconde, 4d6 à la troisième et 4d4 à la quatrième, après quoi le sort prend fin. Vous ne pouvez avoir qu’un seul fanal de vie actif à la fois.</p>\n<p>@Compendium[pf2e.spell-effects.WWtSEJGwKY4bQpUn]{Effet : Fanal de vie}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le fanal restaure un dé supplémentaire de points de vie chaque fois qu’il soigne, utilisant le dé de la même catégorie que les autres à chaque étape.</p>"
         },
         {
             "id": "Curse Of Lost Time",
@@ -2817,7 +2817,7 @@
         {
             "id": "Lucky Number",
             "name": "Nombre porte bonheur (Lucky Number)",
-            "description": "<p>Lorsque vous Lancez ce sort, lancez [[/r 1d20]] et prenez note du résultat. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.kUME7DMhhHH6eIiH]{C'est mon numéro} ; une fois que vous avez utilisé la réaction, le sort se termine et vous êtes temporairement immunisé à Numéro porte bonheur jusqu'à ce que vous fassiez de nouveau vos préparatifs quotidiens.</p>"
+            "description": "<p>Lorsque vous Lancez ce sort, lancez [[/r 1d20]] et prenez note du résultat. Vous obtenez la réaction @Compendium[pf2e.actionspf2e.kUME7DMhhHH6eIiH]{C'est mon numéro} ; une fois que vous avez utilisé la réaction, le sort se termine et vous êtes temporairement immunisé à <em>Numéro porte bonheur</em> jusqu'à ce que vous fassiez de nouveau vos préparatifs quotidiens.</p>\n<p>@Compendium[pf2e.spell-effects.fvIlSZPwojixVvyZ]{Effet : Nombre porte bonheur}</p>"
         },
         {
             "id": "Moment of Renewal",
@@ -2971,7 +2971,7 @@
         {
             "id": "Corrosive Body",
             "name": "Corps corrosif (Corrosive Body)",
-            "description": "<p>Vous expirez un gaz corrosif, et des sécrétions acides recouvrent votre peau lorsque vous vous transformez en un être d'acide vivant. Vous obtenez une immunité à l'acide. Toute créature qui vous touche ou vous endommage avec une attaque au corps-à-corps à mains nues ou une arme de corps-à-corps sans allonge subit [[/r {3d6}[acid]]]{3d6 dégâts d'acide} et vos attaques à mains nues infligent 1d4 dégâts d'acide supplémentaires. La première fois par round que vous infligez des dégâts d'acide à une créature de cette manière, vous gagnez [[/r 3d6 #pv temporaires]]{3d6 PV temporaires} car votre corps digère la matière érodée et la transforme en un acide protecteur. Lorsque le sort prend fin, les PV temporaires restants expirent également. Vos sorts d'acide infligent un dé supplémentaire de dégâts d'acide (du même dé de dégâts que celui utilisé par le sort). Vous pouvez lancer Aspersion d'acide comme un sort inné ; les dégâts d'éclaboussure affectent toutes les créatures situées dans un rayon de 4,5 m au lieu de 1,5 mètres normalement.</p>\n<p>@Compendium[pf2e.spell-effects.LT5AV9vSN3T9x3J9]{Effet : Corps corrosif}</p>\n<hr />\n<p><strong>Intensifié (9e)</strong> Les créatures qui vous touchent subissent [[/r {4d6}[acid]]]{4d6 dégâts d'acide} au lieu de 3d6, vos attaques à mains nues infligent 2d4 dégâts d'acide supplémentaires et vous obtenez [[/r 5d6 #PV temporaires]]{5d6 PV temporaires}.</p>\n<p> @Compendium[pf2e.spell-effects.xKJVqN1ETnNH3tFg]{Effet : Corps corrosif (Intensifié (9e))}</p>"
+            "description": "<p>Vous expirez un gaz corrosif, et des sécrétions acides recouvrent votre peau lorsque vous vous transformez en un être d'acide vivant. Vous obtenez une immunité à l'acide. Toute créature qui vous touche ou vous endommage avec une attaque au corps-à-corps à mains nues ou une arme de corps-à-corps sans allonge subit [[/r {3d6}[acid]]]{3d6 dégâts d'acide} et vos attaques à mains nues infligent 1d4 dégâts d'acide supplémentaires. La première fois par round que vous infligez des dégâts d'acide à une créature de cette manière, vous gagnez [[/r 3d6 #pv temporaires]]{3d6 PV temporaires} car votre corps digère la matière érodée et la transforme en un acide protecteur. Lorsque le sort prend fin, les PV temporaires restants expirent également. Vos sorts d'acide infligent un dé supplémentaire de dégâts d'acide (du même dé de dégâts que celui utilisé par le sort). Vous pouvez lancer <em>Aspersion d'acide</em> comme un sort inné ; les dégâts d'éclaboussure affectent toutes les créatures situées dans un rayon de 4,5 m au lieu de 1,5 mètres normalement.</p>\n<p>@Compendium[pf2e.spell-effects.LT5AV9vSN3T9x3J9]{Effet : Corps corrosif}</p>\n<hr />\n<p><strong>Intensifié (9e)</strong> Les créatures qui vous touchent subissent [[/r {4d6}[acid]]]{4d6 dégâts d'acide} au lieu de 3d6, vos attaques à mains nues infligent 2d4 dégâts d'acide supplémentaires et vous obtenez [[/r 5d6 #PV temporaires]]{5d6 PV temporaires}.</p>\n<p> @Compendium[pf2e.spell-effects.xKJVqN1ETnNH3tFg]{Effet : Corps corrosif (Intensifié (9e))}</p>"
         },
         {
             "id": "Day's Weight",
@@ -4101,7 +4101,7 @@
         {
             "id": "Life Connection",
             "name": "Connexion vitale (Life Connection)",
-            "description": "<p>Lorsque vous lancez ce sort, vous placez une sécurité intégrée profondément au sein de la force vitale de la cible. Vous pouvez sentir lorsque la cible subit des dégâts, pourvu que vous soyez dans les 1,5 km l'un de l'autre. Une créature ne peut avoir plus d'une connexion vitale de manière simultanée. Lorsque le sort est terminé, vous obtenez la réaction @Compendium[pf2e.actionspf2e.5V49l0K460CcvBOO]{Défendre la vie} ; une fois que vous utilisez la réaction, le sort se termine.</p>",
+            "description": "<p>Lorsque vous lancez ce sort, vous placez une sécurité intégrée profondément au sein de la force vitale de la cible. Vous pouvez sentir lorsque la cible subit des dégâts, pourvu que vous soyez dans les 1,5 kilomètres l'un de l'autre. Une créature ne peut avoir plus d'une connexion vitale de manière simultanée. Lorsque le sort est terminé, vous obtenez la réaction @Compendium[pf2e.actionspf2e.5V49l0K460CcvBOO]{Défendre la vie} ; une fois que vous utilisez la réaction, le sort se termine.</p>\n<p>@Compendium[pf2e.spell-effects.j9l4LDnAwg9xzYsy]{Effet : Connexion vitale}</p>",
             "range": "contact",
             "target": "1 créature vivante"
         },
@@ -4676,7 +4676,7 @@
         {
             "id": "Ventriloquism",
             "name": "Ventriloquie (Ventriloquism)",
-            "description": "<p>Chaque fois que vous parlez ou émettez un autre son vocalement, vous pouvez donner l’impression que votre voix provient d’un autre endroit dans un rayon de 18 m, et vous pouvez changer librement cet emplacement à mesure que vous vocalisez. Toute créature qui entend le son peut tenter de discerner votre illusion.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> La durée du sort passe à 1 h et vous pouvez également changer le ton, la qualité ou d’autres aspects de votre voix. Avant qu’une créature puisse tenter de discerner votre illusion, elle doit tenter activement un test de Perception ou du moins utiliser des actions pour interagir avec le son.</p>"
+            "description": "<p>Chaque fois que vous parlez ou émettez un autre son vocalement, vous pouvez donner l’impression que votre voix provient d’un autre endroit dans un rayon de 18 m, et vous pouvez changer librement cet emplacement à mesure que vous vocalisez. Toute créature qui entend le son peut tenter de discerner votre illusion.</p>\n<hr />\n<p><strong>Intensifié (2e)</strong> La durée du sort passe à 1 heure et vous pouvez également changer le ton, la qualité ou d’autres aspects de votre voix. Avant qu’une créature puisse tenter de discerner votre illusion, elle doit tenter activement un test de Perception ou du moins utiliser des actions pour interagir avec le son.</p>"
         },
         {
             "id": "Cloak of Light",
@@ -4858,7 +4858,7 @@
         {
             "id": "Divine Decree",
             "name": "Décret divin (Divine Decree)",
-            "description": "<p>Vous déclamez une puissante litanie de votre religion, un mandat qui blesse tous ceux qui s’opposent à vos idéaux. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité ou si elle est neutre strict. Ce sort adopte le trait de l’alignement que vous avez choisi. Vous infligez 7d10 dégâts aux créatures de la zone. Chacune fait un jet de Vigueur. Le sort n’affecte pas les créatures possédant le même alignement que celui que vous avez choisi. Celles dont l’alignement ne s’oppose pas à celui de votre choix et ne lui correspond pas non plus traitent le résultat de leur jet de sauvegarde comme d’un cran meilleur qu’en réalité et ne souffrent pas d’effets néfastes en dehors des dégâts.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature reçoit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature reçoit la totalité des dégâts et est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2 pendant 1 minute.</p>\n<p><strong>Échec critique</strong> La créature reçoit le double des dégâts et est Affaiblie 2 pendant 1 minute. Si vous êtes sur votre plan natal, une créature victime d’un échec critique est bannie, comme si elle avait fait un échec au jet de sauvegarde de @Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]{Bannissement}. Une créature de niveau 10 ou moins doit faire un jet de Volonté. Sur un échec, elle est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 minute ; sur un échec critique, elle meurt.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d10 et le niveau des créatures qui doivent tenter un jet de sauvegarde en cas d'échec critique augment de 2.</p>",
+            "description": "<p>Vous déclamez une puissante litanie de votre religion, un mandat qui blesse tous ceux qui s’opposent à vos idéaux. Choisissez un alignement que possède votre divinité (chaotique, mauvais, bon ou loyal). Vous ne pouvez pas lancer ce sort si vous n’avez pas de divinité ou si elle est neutre strict. Ce sort adopte le trait de l’alignement que vous avez choisi. Vous infligez 7d10 dégâts aux créatures de la zone. Chacune fait un jet de Vigueur. Le sort n’affecte pas les créatures possédant le même alignement que celui que vous avez choisi. Celles dont l’alignement ne s’oppose pas à celui de votre choix et ne lui correspond pas non plus traitent le résultat de leur jet de sauvegarde comme d’un cran meilleur qu’en réalité et ne souffrent pas d’effets néfastes en dehors des dégâts.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature reçoit la moitié des dégâts.</p>\n<p><strong>Échec</strong> La créature reçoit la totalité des dégâts et est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2 pendant 1 minute.</p>\n<p><strong>Échec critique</strong> La créature reçoit le double des dégâts et est Affaiblie 2 pendant 1 minute. Si vous êtes sur votre plan natal, une créature victime d’un échec critique est bannie, comme si elle avait fait un échec au jet de sauvegarde de <em>@Compendium[pf2e.spells-srd.bay4AfSu2iIozNNW]{Bannissement}</em>. Une créature de niveau 10 ou moins doit faire un jet de Volonté. Sur un échec, elle est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 minute ; sur un échec critique, elle meurt.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 1d10 et le niveau des créatures qui doivent tenter un jet de sauvegarde en cas d'échec critique augment de 2.</p>",
             "areasize": "émanation de 12 mètres",
             "range": "12 mètres"
         },
@@ -4912,7 +4912,7 @@
         {
             "id": "Light",
             "name": "Lumière (Light)",
-            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 m (et une lumière faible dans les 6 m au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort Lumière sur le premier prend fin.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong> L’objet émet une lumière vive dans un rayon de 18 m (et une lumière faible dans les 18 m au-delà).</p>",
+            "description": "<p>L’objet luit en émettant une lumière vive dans un rayon de 6 mètres (et une lumière faible dans les 6 mètres au-delà), comme une torche. Si vous lancez ce sort une nouvelle fois sur un deuxième objet, le sort Lumière sur le premier prend fin.</p>\n<hr />\n<p><strong>Intensifié (4e)</strong> L’objet émet une lumière vive dans un rayon de 18 mètres (et une lumière faible dans les 18 mètres au-delà).</p>\n<p>@Compendium[pf2e.spell-effects.cVVZXNbV0nElVOPZ]{Effet : Lumière}</p>",
             "range": "contact",
             "target": "1 objet de 1 Encombrement maximum, soit non tenu, soit en votre possession ou celle d'un allié volontaire"
         },
@@ -5603,7 +5603,7 @@
         {
             "id": "Countless Eyes",
             "name": "Yeux innombrables (Countless Eyes)",
-            "description": "<p>De yeux se forment sur le corps de la créature touchée, l'autorisant à voir dans toutes les directions au même moment. Le sujet ne peut être pris en tenaille pendant la durée du sort. De plus, lorsque le sujet @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherche}, il peut chercher dans une émanation de 9 m centrée sur lui-même ou jusqu'à quatre explosions de 4,5 m dans sa ligne de mire.</p>",
+            "description": "<p>Des yeux se forment sur le corps de la créature touchée, l'autorisant à voir dans toutes les directions au même moment. Le sujet ne peut être pris en tenaille pendant la durée du sort. De plus, lorsque le sujet @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherche}, il peut chercher dans une émanation de 9 mètres centrée sur lui-même ou jusqu'à quatre explosions de 4,5 mètres dans sa ligne de mire.</p>\n<p>@Compendium[pf2e.spell-effects.BfaFe1cI9IkpvmmY]{Effet : Yeux innombrables}</p>",
             "range": "contact",
             "target": "1 créature"
         },
@@ -5667,8 +5667,8 @@
         {
             "id": "Boost Eidolon",
             "name": "Booster l'eidolon (Boost Eidolon)",
-            "description": "<p>Vous vous concentrez profondément sur le lien entre vous et votre eidolon et augmentez la puissance des attaques de votre eidolon. Votre eidolon bénéficie d'un bonus de statut de +2 aux jets de dégâts avec ses attaques à mains nues. Si les Frappes de votre eidolon infligent plus d'un dé de dégâts d'arme, le bonus de statut augmente de 2 par dé de dégâts d'arme, jusqu'à un maximum de +8 pour quatre dés de dégâts d'arme.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.spell-effects.eFxUcQDkxcX9KoE1]{Effet : Booster l'eidolon (1 Dé)}</li>\n<li>@Compendium[pf2e.spell-effects.xFvNsjmhvTkVk59U]{Effet : Booster l'eidolon (2 Dés)}</li>\n<li>@Compendium[pf2e.spell-effects.d0jsFEx8kq9idSlo]{Effet : Booster l'eidolon (3 Dés)}</li>\n<li>@Compendium[pf2e.spell-effects.JJ7HZkXXm8sTapcu]{Effet : Booster l'eidolon (4 Dés)}</li>\n</ul>",
-            "target": "votre eidolon"
+            "description": "<p>Vous vous concentrez profondément sur le lien entre vous et votre eidolon et augmentez la puissance des attaques de votre eidolon. Votre eidolon bénéficie d'un bonus de statut de +2 aux jets de dégâts avec ses attaques à mains nues. Si les Frappes de votre eidolon infligent plus d'un dé de dégâts d'arme, le bonus de statut augmente de 2 par dé de dégâts d'arme, jusqu'à un maximum de +8 pour quatre dés de dégâts d'arme.</p>\n<p>@Compendium[pf2e.spell-effects.h0CKGrgjGNSg21BW]{Effet : Booster l'eidolon}</p>",
+            "target": "Votre eidolon"
         },
         {
             "id": "Nightmare",
@@ -6679,7 +6679,7 @@
         {
             "id": "Gravity Weapon",
             "name": "Arme pesante (Gravity Weapon)",
-            "description": "<p>Vous renforcez la force de gravité et la canalisez dans vos coups, permettant de plus puissantes attaques avec les lames comme avec les arcs. Sur votre première @Compendium[pf2e.actionspf2e.VjxZFuUXrCU94MWR]{Frappe} d'arme à chaque round, vous obtenez un bonus de statut aux dégats égal au nombre de dés de l'arme.</p>\n<p>@Compendium[pf2e.spell-effects.U2dJnkoGSCYOsQFI]{Effet : Arme pesante (1 Dé)}</p>\n<p>@Compendium[pf2e.spell-effects.uJNDI3CGGOtcG8nB]{Effet : Arme pesante (2 Dés)}</p>\n<p>@Compendium[pf2e.spell-effects.oi5M6yQBlTKvLy29]{Effet : Arme pesante (3 Dés)}</p>\n<p>@Compendium[pf2e.spell-effects.tNryw0Rl4L8LF8Yq]{Effet : Arme pesante (4 Dés)}</p>"
+            "description": "<p>Vous renforcez la force de gravité et la canalisez dans vos coups, permettant de plus puissantes attaques avec les lames comme avec les arcs. Sur votre première Frappe d'arme à chaque round, vous obtenez un bonus de statut aux dégats égal au nombre de dés de l'arme.</p>\n<p>@Compendium[pf2e.spell-effects.tNjimcyUwn8afeH6]{Effet : Arme pesante}</p>"
         },
         {
             "id": "Life Link",
@@ -6736,7 +6736,7 @@
         {
             "id": "Lure Dream",
             "name": "Attirer le rêve (Lure Dream)",
-            "description": "<p>Vous vous rapprochez du royaume des rêves, invitant un rêve animé à vos côtés. Cela fonctionne comme @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocation d'animal}, sauf que vous convoquez un @Compendium[pf2e.pathfinder-bestiary-2.Y9SDbANT1DWI1DKU]{Rêve animé}.</p>",
+            "description": "<p>Vous vous rapprochez du royaume des rêves, invitant un rêve animé à vos côtés. Cela fonctionne comme <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocation d'animal}</em>, sauf que vous convoquez un @Compendium[pf2e.pathfinder-bestiary-2.Y9SDbANT1DWI1DKU]{Rêve animé}.</p>",
             "range": "9 mètres"
         },
         {

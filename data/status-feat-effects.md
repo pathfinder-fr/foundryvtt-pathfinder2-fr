@@ -1,11 +1,11 @@
 # État de la traduction (feat-effects)
 
- * **libre**: 79
- * **aucune**: 116
+ * **libre**: 183
+ * **aucune**: 12
  * **vide**: 2
 
 
-Dernière mise à jour: 2022-02-15 20:37 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,121 +13,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
-|[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
-|[01-h45sUZFs5jhuQdCE.htm](feat-effects/01-h45sUZFs5jhuQdCE.htm)|Stance: Vitality-Manipulation Stance|
-|[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|
 |[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|
-|[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|
-|[01-JF2xCqL6t4UJZtUi.htm](feat-effects/01-JF2xCqL6t4UJZtUi.htm)|Effect: Blizzard Evasion|
-|[01-JQUoBlZKT5N5zO5k.htm](feat-effects/01-JQUoBlZKT5N5zO5k.htm)|Effect: Avenge in Glory|
-|[01-K1IgNCf3Hh2EJwQ9.htm](feat-effects/01-K1IgNCf3Hh2EJwQ9.htm)|Effect: Divine Aegis|
-|[01-KBEJVRrie2JTHWIK.htm](feat-effects/01-KBEJVRrie2JTHWIK.htm)|Effect: Dread Marshal Stance|
-|[01-KceTcamIZ4ZrQJLD.htm](feat-effects/01-KceTcamIZ4ZrQJLD.htm)|Effect: Educate Allies (Self)|
-|[01-l3S9i2UWGhSO58YX.htm](feat-effects/01-l3S9i2UWGhSO58YX.htm)|Effect: Cat Nap|
-|[01-L9g3EMCT3imX650b.htm](feat-effects/01-L9g3EMCT3imX650b.htm)|Effect: Heaven's Thunder|
 |[01-lbe8XDSZB8gwyg90.htm](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|
-|[01-ltIvO9ZQlmqGD89Y.htm](feat-effects/01-ltIvO9ZQlmqGD89Y.htm)|Effect: Hunter's Edge, Outwit|
-|[01-mkIamZGtQaSsUWLk.htm](feat-effects/01-mkIamZGtQaSsUWLk.htm)|Effect: Control Tower|
-|[01-mNk0KxsZMFnDjUA0.htm](feat-effects/01-mNk0KxsZMFnDjUA0.htm)|Effect: Hunter's Edge, Precision|
-|[01-MRo1SI1Y5PgdNf8r.htm](feat-effects/01-MRo1SI1Y5PgdNf8r.htm)|Effect: Deep Freeze (Critical Failure)|
-|[01-nlaxROgSSLVHZ1hx.htm](feat-effects/01-nlaxROgSSLVHZ1hx.htm)|Effect: Monster Warden|
-|[01-nlMZCi8xi9YSvlYR.htm](feat-effects/01-nlMZCi8xi9YSvlYR.htm)|Effect: Engine of Destruction|
-|[01-nnF7RSVlC6swbSw8.htm](feat-effects/01-nnF7RSVlC6swbSw8.htm)|Effect: Anoint Ally|
 |[01-oKJr59FYdDORxLcR.htm](feat-effects/01-oKJr59FYdDORxLcR.htm)|Effect: Worldly Mentor Boon (PFS)|
 |[01-OKOqC1wswrh9jXqP.htm](feat-effects/01-OKOqC1wswrh9jXqP.htm)|Effect: Protective Mentor Boon (Liked) (PFS)|
-|[01-oXG7eX26FmePmwUF.htm](feat-effects/01-oXG7eX26FmePmwUF.htm)|Effect: Discordant Voice|
-|[01-pTYTanMHMwSgJ8TN.htm](feat-effects/01-pTYTanMHMwSgJ8TN.htm)|Effect: Defensive Instincts|
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
-|[01-QDQwHxNowRwzUx9R.htm](feat-effects/01-QDQwHxNowRwzUx9R.htm)|Effect: Reflective Ripple Stance|
-|[01-qIOEe4kUN7FOBifb.htm](feat-effects/01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
-|[01-ugeStF0Rj8phBPWL.htm](feat-effects/01-ugeStF0Rj8phBPWL.htm)|Effect: Witch's Charge|
-|[01-uXCU8GgriUjuj5FV.htm](feat-effects/01-uXCU8GgriUjuj5FV.htm)|Effect: Hunter's Edge, Flurry|
-|[01-vhSYlQiAQMLuXqoc.htm](feat-effects/01-vhSYlQiAQMLuXqoc.htm)|Effect: Clue In|
-|[01-vQj9I3FShzx3lNoG.htm](feat-effects/01-vQj9I3FShzx3lNoG.htm)|Effect: Deep Freeze (Failure)|
-|[01-W2tWq0gdAcnoz2MO.htm](feat-effects/01-W2tWq0gdAcnoz2MO.htm)|Effect: Monster Hunter|
 |[01-W8HWQ47YNHWB8kj6.htm](feat-effects/01-W8HWQ47YNHWB8kj6.htm)|Effect: Topple Giants|
-|[01-WKbsjhjYIMv59JQg.htm](feat-effects/01-WKbsjhjYIMv59JQg.htm)|Effect: Deep Freeze (Success)|
-|[01-WrWSieH9Acy6XuzV.htm](feat-effects/01-WrWSieH9Acy6XuzV.htm)|Effect: Educate Allies (Ally)|
-|[01-X1pGyhMKrCTvHB0q.htm](feat-effects/01-X1pGyhMKrCTvHB0q.htm)|Effect: Favorable Winds|
-|[01-xDT10fUWp8UStSZR.htm](feat-effects/01-xDT10fUWp8UStSZR.htm)|Effect: Cavalier's Banner|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
-|[02-9dCt0asv0kt7DR4q.htm](feat-effects/02-9dCt0asv0kt7DR4q.htm)|Effect: Liberating Step (vs. Fiend)|
-|[02-AAgoUuwMvHzqNhIN.htm](feat-effects/02-AAgoUuwMvHzqNhIN.htm)|Effect: Assisting Shot (Critical Hit)|
-|[02-iyONT1qgeRgoYHsZ.htm](feat-effects/02-iyONT1qgeRgoYHsZ.htm)|Effect: Liberating Step (vs. Dragon)|
-|[02-tAsFXMzNkpj964X4.htm](feat-effects/02-tAsFXMzNkpj964X4.htm)|Effect: Liberating Step (vs. Aberration)|
-|[02-U1MpMtRnFqEDBJwd.htm](feat-effects/02-U1MpMtRnFqEDBJwd.htm)|Effect: Emblazon Armament (Weapon)|
-|[02-UzIamWcEJTOjwfoA.htm](feat-effects/02-UzIamWcEJTOjwfoA.htm)|Effect: Spin Tale|
-|[02-zcJii1XyOne9EvMr.htm](feat-effects/02-zcJii1XyOne9EvMr.htm)|Effect: Assisting Shot|
-|[02-ZnKnOPPq3cG54PlG.htm](feat-effects/02-ZnKnOPPq3cG54PlG.htm)|Effect: Liberating Step (vs. Undead)|
-|[04-bIU1q05vzkKBtFj2.htm](feat-effects/04-bIU1q05vzkKBtFj2.htm)|Effect: Necrotic Infusion|
-|[04-cH8JD3ub4eEKuIAD.htm](feat-effects/04-cH8JD3ub4eEKuIAD.htm)|Effect: Radiant Infusion|
-|[04-E8MiV00QEhH5n18L.htm](feat-effects/04-E8MiV00QEhH5n18L.htm)|Effect: Bespell Weapon|
-|[04-G1IRkppxJCYdfqXo.htm](feat-effects/04-G1IRkppxJCYdfqXo.htm)|Effect: Bespell Weapon (Negative)|
-|[04-GbbwJhwSNLw06XpO.htm](feat-effects/04-GbbwJhwSNLw06XpO.htm)|Effect: Bespell Weapon (Force)|
-|[04-MNkIxAishE22TqL3.htm](feat-effects/04-MNkIxAishE22TqL3.htm)|Effect: Aura of Despair|
-|[04-pQ9e5njvIOe5QzFa.htm](feat-effects/04-pQ9e5njvIOe5QzFa.htm)|Effect: Fleet Tempo|
-|[04-raoz523QRsj5WjcF.htm](feat-effects/04-raoz523QRsj5WjcF.htm)|Effect: Harsh Judgement|
-|[04-rUKtp4q8y73AvCbo.htm](feat-effects/04-rUKtp4q8y73AvCbo.htm)|Effect: Clue In (Detective's Readiness)|
-|[04-RxDDXK52lwyHXl7v.htm](feat-effects/04-RxDDXK52lwyHXl7v.htm)|Effect: Scout's Warning|
-|[04-w6X7io56B2HHTOvs.htm](feat-effects/04-w6X7io56B2HHTOvs.htm)|Effect: Guardian's Deflection|
-|[04-ZSgB3imGveukWUxs.htm](feat-effects/04-ZSgB3imGveukWUxs.htm)|Effect: Bespell Weapon (Mental)|
-|[05-LVPodfYEWKtK3fUW.htm](feat-effects/05-LVPodfYEWKtK3fUW.htm)|Effect: Formation Training|
-|[06-2MIn8qyPTmz4ZyO1.htm](feat-effects/06-2MIn8qyPTmz4ZyO1.htm)|Effect: Smite Good|
-|[06-6YhbQmOmbmy84W1C.htm](feat-effects/06-6YhbQmOmbmy84W1C.htm)|Effect: Crimson Shroud|
-|[06-AclYG5JuBFrjCY3I.htm](feat-effects/06-AclYG5JuBFrjCY3I.htm)|Effect: Divine Weapon (Evil)|
-|[06-AlnxieIRjqNqsdVu.htm](feat-effects/06-AlnxieIRjqNqsdVu.htm)|Effect: Smite Evil|
-|[06-DhvSMIFs6xifgQHX.htm](feat-effects/06-DhvSMIFs6xifgQHX.htm)|Effect: Current Spell (Water)|
-|[06-dvOfGUuvG8ihcN8d.htm](feat-effects/06-dvOfGUuvG8ihcN8d.htm)|Effect: Divine Weapon (Good)|
-|[06-GlpZyxAGhy5QNqkm.htm](feat-effects/06-GlpZyxAGhy5QNqkm.htm)|Effect: Divine Weapon (Lawful)|
-|[06-LF8xzzFsFJKxejqv.htm](feat-effects/06-LF8xzzFsFJKxejqv.htm)|Effect: Enforce Oath|
-|[06-OkcblqWj4aHVAkrp.htm](feat-effects/06-OkcblqWj4aHVAkrp.htm)|Effect: Divine Weapon (Chaotic)|
-|[06-pwbFFD6NzDooobKo.htm](feat-effects/06-pwbFFD6NzDooobKo.htm)|Effect: Reflexive Shield|
-|[06-T5rsLTqS274B9Mly.htm](feat-effects/06-T5rsLTqS274B9Mly.htm)|Effect: Current Spell (Air)|
-|[06-zZ25N1zpXA8GNhFL.htm](feat-effects/06-zZ25N1zpXA8GNhFL.htm)|Effect: Divine Weapon (Force)|
-|[08-2c30Drdg84bWLcRn.htm](feat-effects/08-2c30Drdg84bWLcRn.htm)|Effect: Emblazon Energy (Weapon, Sonic)|
-|[08-5TzKmEqFyLHBG2ua.htm](feat-effects/08-5TzKmEqFyLHBG2ua.htm)|Effect: Emblazon Energy (Weapon, Cold)|
-|[08-bl4HXm1e4NQ0iJs5.htm](feat-effects/08-bl4HXm1e4NQ0iJs5.htm)|Effect: Align Armament (Good)|
-|[08-Cumdy84uIkUHG9zF.htm](feat-effects/08-Cumdy84uIkUHG9zF.htm)|Effect: Resounding Bravery (vs. Fear)|
-|[08-eA14bUF7xhNCzw2v.htm](feat-effects/08-eA14bUF7xhNCzw2v.htm)|Effect: Align Armament (Evil)|
-|[08-GCEOngH5zL0rRyle.htm](feat-effects/08-GCEOngH5zL0rRyle.htm)|Effect: Emblazon Energy (Weapon, Fire)|
-|[08-KkbFlNfcQQUfSVXd.htm](feat-effects/08-KkbFlNfcQQUfSVXd.htm)|Effect: Align Armament (Lawful)|
-|[08-NMmsJyeMTawpgLVR.htm](feat-effects/08-NMmsJyeMTawpgLVR.htm)|Effect: Resounding Bravery|
-|[08-oX51Db6IxnUI64dT.htm](feat-effects/08-oX51Db6IxnUI64dT.htm)|Effect: Emblazon Energy (Weapon, Electricity)|
-|[08-T7AJQbfmlA57y625.htm](feat-effects/08-T7AJQbfmlA57y625.htm)|Effect: Vivacious Bravado|
-|[08-v2HDcrxQF2Dncjbs.htm](feat-effects/08-v2HDcrxQF2Dncjbs.htm)|Effect: Flamboyant Cruelty|
-|[08-x4Sb3qaMJo8x1r3X.htm](feat-effects/08-x4Sb3qaMJo8x1r3X.htm)|Effect: Emblazon Energy (Weapon, Acid)|
-|[08-XC3dRbwfu35vuvmM.htm](feat-effects/08-XC3dRbwfu35vuvmM.htm)|Effect: Align Armament (Chaotic)|
-|[09-8rDbWcWmQL0N5FFG.htm](feat-effects/09-8rDbWcWmQL0N5FFG.htm)|Effect: Azarketi Purification|
-|[09-DjxZpQ4xJWWvYQqY.htm](feat-effects/09-DjxZpQ4xJWWvYQqY.htm)|Effect: Repair Module|
-|[09-k1J2SaHPwZb2Y6Bp.htm](feat-effects/09-k1J2SaHPwZb2Y6Bp.htm)|Effect: Wings of Air|
-|[09-MrdT7LiOZMN8J4GK.htm](feat-effects/09-MrdT7LiOZMN8J4GK.htm)|Effect: Fiendish Wings|
-|[09-uA1Ofqoyi0UiZIPk.htm](feat-effects/09-uA1Ofqoyi0UiZIPk.htm)|Effect: Clue In (Expertise)|
-|[09-z4pnE8KyUdEkJmru.htm](feat-effects/09-z4pnE8KyUdEkJmru.htm)|Effect: Clue In (Detective's Readiness, Expertise)|
-|[10-7ogytOgDmh4h2g5d.htm](feat-effects/10-7ogytOgDmh4h2g5d.htm)|Effect: Heroic Recovery|
-|[10-gWwG7MNAesJgpmRW.htm](feat-effects/10-gWwG7MNAesJgpmRW.htm)|Effect: Cut from the Air|
-|[10-svVczVV174KfJRDf.htm](feat-effects/10-svVczVV174KfJRDf.htm)|Effect: Shared Avoidance|
-|[11-HKPmrxkZwHRND5Um.htm](feat-effects/11-HKPmrxkZwHRND5Um.htm)|Favored Terrain (Increase Swim Speed)|
-|[11-IpRfT9lL3YR6MH6w.htm](feat-effects/11-IpRfT9lL3YR6MH6w.htm)|Favored Terrain (Increase Climb Speed)|
-|[11-OhLcaJeQy4Nf5Mwo.htm](feat-effects/11-OhLcaJeQy4Nf5Mwo.htm)|Favored Terrain (Gain Swim Speed)|
-|[11-sDftJWPPSUeSZD3A.htm](feat-effects/11-sDftJWPPSUeSZD3A.htm)|Favored Terrain (Gain Climb Speed)|
-|[12-jwxurN6JPQm9wXug.htm](feat-effects/12-jwxurN6JPQm9wXug.htm)|Effect: Defensive Recovery|
-|[12-RyGaB5hDRcOeb34Q.htm](feat-effects/12-RyGaB5hDRcOeb34Q.htm)|Effect: Emblazon Antimagic (Weapon)|
-|[12-VOOShYoB4gTopZtg.htm](feat-effects/12-VOOShYoB4gTopZtg.htm)|Effect: Aura of Faith|
-|[14-18FHJoazfEmgNkfk.htm](feat-effects/14-18FHJoazfEmgNkfk.htm)|Effect: Aura of Preservation|
-|[14-FPuICuxBLiDaEbDX.htm](feat-effects/14-FPuICuxBLiDaEbDX.htm)|Effect: Aura of Life|
-|[16-72THfaqak0F4XnON.htm](feat-effects/16-72THfaqak0F4XnON.htm)|Effect: Didactic Strike|
-|[16-aUpcWqaLBlmpnJgW.htm](feat-effects/16-aUpcWqaLBlmpnJgW.htm)|Effect: Legendary Monster Warden|
-|[16-COsdMolZraFRTdP8.htm](feat-effects/16-COsdMolZraFRTdP8.htm)|Effect: Prevailing Position|
-|[16-LB0PTV5yqMlBmRFj.htm](feat-effects/16-LB0PTV5yqMlBmRFj.htm)|Effect: Legendary Monster Hunter|
-|[16-XM1AA8z5cHm8sJXM.htm](feat-effects/16-XM1AA8z5cHm8sJXM.htm)|Effect: Enlightened Presence|
-|[17-4UNQfMrwfWirdwoV.htm](feat-effects/17-4UNQfMrwfWirdwoV.htm)|Effect: Masterful Hunter's Edge, Flurry|
-|[17-iqvurepX0zyu9OlI.htm](feat-effects/17-iqvurepX0zyu9OlI.htm)|Effect: Masterful Hunter's Edge, Outwit|
-|[17-Lt5iSfx8fxHSdYXz.htm](feat-effects/17-Lt5iSfx8fxHSdYXz.htm)|Effect: Masterful Hunter's Edge, Precision|
-|[18-CUtvkuGSxq1raBIB.htm](feat-effects/18-CUtvkuGSxq1raBIB.htm)|Effect: Shared Clarity|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -169,6 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-5bEnBqVOgdp4gROP.htm](feat-effects/01-5bEnBqVOgdp4gROP.htm)|Effect: Catfolk Dance|Effet : Danse homme-félin|libre|
 |[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|Effet : Œil des Seigneurs de l'Arc|libre|
 |[01-5v0ndPPMfZwhiVZF.htm](feat-effects/01-5v0ndPPMfZwhiVZF.htm)|Effect: Predictable!|Effet : Présivisible ! (Succès)|libre|
+|[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|Chant Gobelin (Succès)|libre|
 |[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|Posture : Protection du Parangon|libre|
 |[01-6LgJB4ypaSTWSJLu.htm](feat-effects/01-6LgJB4ypaSTWSJLu.htm)|Effect: Blade Ally Fearsome Rune|Effet : Allié lame rune Effrayante|libre|
 |[01-7hRgBo0fRQBxMK7g.htm](feat-effects/01-7hRgBo0fRQBxMK7g.htm)|Effect: Distracting Feint|Effet : Feinte de diversion|libre|
@@ -196,26 +93,129 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-Gf7h44DcTB43464h.htm](feat-effects/01-Gf7h44DcTB43464h.htm)|Effect: Blade Ally Keen Rune|Effet : Allié lame rune Acérée|libre|
 |[01-GGebXpRPyONZB3eS.htm](feat-effects/01-GGebXpRPyONZB3eS.htm)|Stance: Everstand Stance|Posture : Posture toujours en position|libre|
 |[01-GoSls6SKCFmSoDxT.htm](feat-effects/01-GoSls6SKCFmSoDxT.htm)|Effect: Bon Mot|Effet : Bon Mot (Succès)|libre|
+|[01-h45sUZFs5jhuQdCE.htm](feat-effects/01-h45sUZFs5jhuQdCE.htm)|Stance: Vitality-Manipulation Stance|Posture : Posture de manipulation de la vitalité|libre|
 |[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|Effet : Herbes endémiques Plaine|libre|
+|[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|Effet : Allié lame Pertubatrice supérieur|libre|
 |[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|Effet : Présivisible ! (Succès critique)|libre|
+|[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|Effet : Lire les signes distinctifs|libre|
+|[01-JF2xCqL6t4UJZtUi.htm](feat-effects/01-JF2xCqL6t4UJZtUi.htm)|Effect: Blizzard Evasion|Effet : Évasion du blizzard|libre|
+|[01-JQUoBlZKT5N5zO5k.htm](feat-effects/01-JQUoBlZKT5N5zO5k.htm)|Effect: Avenge in Glory|Effet : Revanche dans la gloire|libre|
 |[01-jZYRxGHyArCci6AF.htm](feat-effects/01-jZYRxGHyArCci6AF.htm)|Effect: Desert Endemic Herbs|Effet : Herbes endémiques Désert|libre|
+|[01-K1IgNCf3Hh2EJwQ9.htm](feat-effects/01-K1IgNCf3Hh2EJwQ9.htm)|Effect: Divine Aegis|Effet : Égide divine|libre|
 |[01-kAgUld9PcI4XkHbq.htm](feat-effects/01-kAgUld9PcI4XkHbq.htm)|Effect: Decry Thief (Critical Success)|Effet : Fléau des voleurs (Succès critique)|libre|
+|[01-KBEJVRrie2JTHWIK.htm](feat-effects/01-KBEJVRrie2JTHWIK.htm)|Effect: Dread Marshal Stance|Posture : Posture du terrible Capitaine|libre|
+|[01-KceTcamIZ4ZrQJLD.htm](feat-effects/01-KceTcamIZ4ZrQJLD.htm)|Effect: Educate Allies (Self)|Effet : Alliés instruits (Vous-même)|libre|
 |[01-KgR1myc4OLzVxfxn.htm](feat-effects/01-KgR1myc4OLzVxfxn.htm)|Effect: Predictable! (Critical Failure)|Effet : Présivisible ! (Échec critique)|libre|
 |[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|Posture : Danse en duel|libre|
 |[01-kzEPq4aczYb6OD2h.htm](feat-effects/01-kzEPq4aczYb6OD2h.htm)|Effect: Inspiring Marshal Stance|Effet : Posture du Capitaine inspirant|libre|
+|[01-l3S9i2UWGhSO58YX.htm](feat-effects/01-l3S9i2UWGhSO58YX.htm)|Effect: Cat Nap|Effet : Sieste féline|libre|
 |[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|Effet : Allié lame rune Sainte|libre|
+|[01-L9g3EMCT3imX650b.htm](feat-effects/01-L9g3EMCT3imX650b.htm)|Effect: Heaven's Thunder|Effet : Tonnerre du Paradis|libre|
+|[01-ltIvO9ZQlmqGD89Y.htm](feat-effects/01-ltIvO9ZQlmqGD89Y.htm)|Effect: Hunter's Edge, Outwit|Effet : Spécialité du chasseur, Ruse|libre|
+|[01-mkIamZGtQaSsUWLk.htm](feat-effects/01-mkIamZGtQaSsUWLk.htm)|Effect: Control Tower|Effet : Tour de contrôle|libre|
+|[01-mNk0KxsZMFnDjUA0.htm](feat-effects/01-mNk0KxsZMFnDjUA0.htm)|Effect: Hunter's Edge, Precision|Effet : Spécialité du chasseur, Précision|libre|
+|[01-MRo1SI1Y5PgdNf8r.htm](feat-effects/01-MRo1SI1Y5PgdNf8r.htm)|Effect: Deep Freeze (Critical Failure)|Effet : Congélation profonde(Échec critique)|libre|
 |[01-MZDh3170EFIfOwTO.htm](feat-effects/01-MZDh3170EFIfOwTO.htm)|Effect: Overdrive (Success)|Effet : Surrégime (Succès)|libre|
+|[01-nlaxROgSSLVHZ1hx.htm](feat-effects/01-nlaxROgSSLVHZ1hx.htm)|Effect: Monster Warden|Effet : Garde-monstre|libre|
+|[01-nlMZCi8xi9YSvlYR.htm](feat-effects/01-nlMZCi8xi9YSvlYR.htm)|Effect: Engine of Destruction|Effet : Machine de destruction|libre|
+|[01-nnF7RSVlC6swbSw8.htm](feat-effects/01-nnF7RSVlC6swbSw8.htm)|Effect: Anoint Ally|Effet : Oindre un allié|libre|
 |[01-NviQYIVZbPCSWLqT.htm](feat-effects/01-NviQYIVZbPCSWLqT.htm)|Effect: Aquatic Endemic Herbs|Effet : Herbes endémiques Aquatique|libre|
+|[01-oXG7eX26FmePmwUF.htm](feat-effects/01-oXG7eX26FmePmwUF.htm)|Effect: Discordant Voice|Effet : Voix discordante|libre|
 |[01-P80mwvCAEncR2snK.htm](feat-effects/01-P80mwvCAEncR2snK.htm)|Stance: Six Pillars Stance|Posture: Posture des six piliers|libre|
 |[01-pkcr9w5x6bKzl3om.htm](feat-effects/01-pkcr9w5x6bKzl3om.htm)|Stance: Jellyfish Stance|Posture : Posture de la méduse|libre|
+|[01-pTYTanMHMwSgJ8TN.htm](feat-effects/01-pTYTanMHMwSgJ8TN.htm)|Effect: Defensive Instincts|Effet : Instinct défensif|libre|
+|[01-QDQwHxNowRwzUx9R.htm](feat-effects/01-QDQwHxNowRwzUx9R.htm)|Effect: Reflective Ripple Stance|Effet : Posture de l'onde réfléchissante|libre|
+|[01-qIOEe4kUN7FOBifb.htm](feat-effects/01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
 |[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|Effet : Herbes endémiques Montagnes|libre|
 |[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|Effet : Allié lame rune Spectrale|libre|
 |[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|Effet : Allié lame rune Impie|libre|
 |[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|Posture : Posture de la flamme ravivée|libre|
 |[01-SXYcrnGzWCuj8zq7.htm](feat-effects/01-SXYcrnGzWCuj8zq7.htm)|Effect: Poison Weapon|Effet : Arme empoisonnée|libre|
+|[01-ugeStF0Rj8phBPWL.htm](feat-effects/01-ugeStF0Rj8phBPWL.htm)|Effect: Witch's Charge|Effet : Fardeau du sorcier|libre|
+|[01-uXCU8GgriUjuj5FV.htm](feat-effects/01-uXCU8GgriUjuj5FV.htm)|Effect: Hunter's Edge, Flurry|Effet : Spécialisation du chasseur, Déluge|libre|
+|[01-vhSYlQiAQMLuXqoc.htm](feat-effects/01-vhSYlQiAQMLuXqoc.htm)|Effect: Clue In|Effet : Partager les indices|libre|
 |[01-VIScVb6Hl7KwoWfH.htm](feat-effects/01-VIScVb6Hl7KwoWfH.htm)|Effect: Bolera's Interrogation (Critical Failure)|Effet : Interrogatoire de Boléra (échec critique)|libre|
+|[01-vQj9I3FShzx3lNoG.htm](feat-effects/01-vQj9I3FShzx3lNoG.htm)|Effect: Deep Freeze (Failure)|Effet : Congélation profonde(Échec)|libre|
+|[01-W2tWq0gdAcnoz2MO.htm](feat-effects/01-W2tWq0gdAcnoz2MO.htm)|Effect: Monster Hunter|Effet : Chasseur de monstres|libre|
+|[01-WKbsjhjYIMv59JQg.htm](feat-effects/01-WKbsjhjYIMv59JQg.htm)|Effect: Deep Freeze (Success)|Effet : Congélation profonde (Succès)|libre|
+|[01-WrWSieH9Acy6XuzV.htm](feat-effects/01-WrWSieH9Acy6XuzV.htm)|Effect: Educate Allies (Ally)|Effet : Alliés instruits (Allié)|libre|
+|[01-X1pGyhMKrCTvHB0q.htm](feat-effects/01-X1pGyhMKrCTvHB0q.htm)|Effect: Favorable Winds|Effet : Vents favorables|libre|
+|[01-xDT10fUWp8UStSZR.htm](feat-effects/01-xDT10fUWp8UStSZR.htm)|Effect: Cavalier's Banner|Effet : Bannière du Cavalier|libre|
 |[01-xLXFK4mtzgAF4zvx.htm](feat-effects/01-xLXFK4mtzgAF4zvx.htm)|Effect: Blade Ally Anarchic Rune|Effet : Allié lame rune Anarchique|libre|
 |[01-YxYr18vleIt2t3RS.htm](feat-effects/01-YxYr18vleIt2t3RS.htm)|Effect: Blade Ally Flaming Rune|Effet : Allié lame rune Enflammée|libre|
-|[01-ZzE6jPbCyUqEqhcb.htm](feat-effects/01-ZzE6jPbCyUqEqhcb.htm)|Effect: Blade Ally Axiomatic Rune|Effet : Allié lame|libre|
+|[01-ZzE6jPbCyUqEqhcb.htm](feat-effects/01-ZzE6jPbCyUqEqhcb.htm)|Effect: Blade Ally Axiomatic Rune|Effet : Allié lame rune Axiomatique|libre|
+|[02-9dCt0asv0kt7DR4q.htm](feat-effects/02-9dCt0asv0kt7DR4q.htm)|Effect: Liberating Step (vs. Fiend)|Effet : Pas libérateur (Fiélon)|libre|
+|[02-AAgoUuwMvHzqNhIN.htm](feat-effects/02-AAgoUuwMvHzqNhIN.htm)|Effect: Assisting Shot (Critical Hit)|Effet : Tir de soutien (coup critique)|libre|
+|[02-iyONT1qgeRgoYHsZ.htm](feat-effects/02-iyONT1qgeRgoYHsZ.htm)|Effect: Liberating Step (vs. Dragon)|Effet : Pas libérateur (Dragon)|libre|
+|[02-tAsFXMzNkpj964X4.htm](feat-effects/02-tAsFXMzNkpj964X4.htm)|Effect: Liberating Step (vs. Aberration)|Effet : Pas libérateur (Aberration)|libre|
+|[02-U1MpMtRnFqEDBJwd.htm](feat-effects/02-U1MpMtRnFqEDBJwd.htm)|Effect: Emblazon Armament (Weapon)|Effet : Arsenal blasonné (Arme)|libre|
+|[02-UzIamWcEJTOjwfoA.htm](feat-effects/02-UzIamWcEJTOjwfoA.htm)|Effect: Spin Tale|Effet : Broder un conte|libre|
+|[02-zcJii1XyOne9EvMr.htm](feat-effects/02-zcJii1XyOne9EvMr.htm)|Effect: Assisting Shot|Effet : Tir de soutien|libre|
+|[02-ZnKnOPPq3cG54PlG.htm](feat-effects/02-ZnKnOPPq3cG54PlG.htm)|Effect: Liberating Step (vs. Undead)|Effet : Pas libérateur (morts-vivants)|libre|
+|[04-bIU1q05vzkKBtFj2.htm](feat-effects/04-bIU1q05vzkKBtFj2.htm)|Effect: Necrotic Infusion|Effet : Injection nécrotique|libre|
+|[04-cH8JD3ub4eEKuIAD.htm](feat-effects/04-cH8JD3ub4eEKuIAD.htm)|Effect: Radiant Infusion|Effet : Imprégnation irradiante|libre|
+|[04-E8MiV00QEhH5n18L.htm](feat-effects/04-E8MiV00QEhH5n18L.htm)|Effect: Bespell Weapon|Effet : Arme enchantée|libre|
+|[04-G1IRkppxJCYdfqXo.htm](feat-effects/04-G1IRkppxJCYdfqXo.htm)|Effect: Bespell Weapon (Negative)|Effet : Arme enchantée (Négatif)|libre|
+|[04-GbbwJhwSNLw06XpO.htm](feat-effects/04-GbbwJhwSNLw06XpO.htm)|Effect: Bespell Weapon (Force)|Effet : Arme enchantée (Force)|libre|
+|[04-MNkIxAishE22TqL3.htm](feat-effects/04-MNkIxAishE22TqL3.htm)|Effect: Aura of Despair|Effet : Aura de Désespoir|libre|
+|[04-pQ9e5njvIOe5QzFa.htm](feat-effects/04-pQ9e5njvIOe5QzFa.htm)|Effect: Fleet Tempo|Effet : Tempo rapide|libre|
+|[04-raoz523QRsj5WjcF.htm](feat-effects/04-raoz523QRsj5WjcF.htm)|Effect: Harsh Judgement|Effet : Jugement sévère|libre|
+|[04-rUKtp4q8y73AvCbo.htm](feat-effects/04-rUKtp4q8y73AvCbo.htm)|Effect: Clue In (Detective's Readiness)|Effet : Partager les indices (Vivacité du détective)|libre|
+|[04-RxDDXK52lwyHXl7v.htm](feat-effects/04-RxDDXK52lwyHXl7v.htm)|Effect: Scout's Warning|Effet : Avertissement de l'éclaireur|libre|
+|[04-w6X7io56B2HHTOvs.htm](feat-effects/04-w6X7io56B2HHTOvs.htm)|Effect: Guardian's Deflection|Effet : Déviation du Gardien|libre|
+|[04-ZSgB3imGveukWUxs.htm](feat-effects/04-ZSgB3imGveukWUxs.htm)|Effect: Bespell Weapon (Mental)|Effet : Arme enchantée (Mental)|libre|
+|[05-LVPodfYEWKtK3fUW.htm](feat-effects/05-LVPodfYEWKtK3fUW.htm)|Effect: Formation Training|Effet : Combat en formation|libre|
+|[06-2MIn8qyPTmz4ZyO1.htm](feat-effects/06-2MIn8qyPTmz4ZyO1.htm)|Effect: Smite Good|Effet : Châtiment du bien|libre|
+|[06-6YhbQmOmbmy84W1C.htm](feat-effects/06-6YhbQmOmbmy84W1C.htm)|Effect: Crimson Shroud|Effet : Voile pourpre|libre|
+|[06-AclYG5JuBFrjCY3I.htm](feat-effects/06-AclYG5JuBFrjCY3I.htm)|Effect: Divine Weapon (Evil)|Effet : Arme Divine (Mauvais)|libre|
+|[06-AlnxieIRjqNqsdVu.htm](feat-effects/06-AlnxieIRjqNqsdVu.htm)|Effect: Smite Evil|Effet : Châtiment du mal|libre|
+|[06-DhvSMIFs6xifgQHX.htm](feat-effects/06-DhvSMIFs6xifgQHX.htm)|Effect: Current Spell (Water)|Effet : Courant de sort (Eau)|libre|
+|[06-dvOfGUuvG8ihcN8d.htm](feat-effects/06-dvOfGUuvG8ihcN8d.htm)|Effect: Divine Weapon (Good)|Effet : Arme Divine (Bon)|libre|
+|[06-GlpZyxAGhy5QNqkm.htm](feat-effects/06-GlpZyxAGhy5QNqkm.htm)|Effect: Divine Weapon (Lawful)|Effet : Arme Divine (Loyal)|libre|
+|[06-LF8xzzFsFJKxejqv.htm](feat-effects/06-LF8xzzFsFJKxejqv.htm)|Effect: Enforce Oath|Effet : Serment renforcé|libre|
 |[06-LxSev4GNKv26DbZw.htm](feat-effects/06-LxSev4GNKv26DbZw.htm)|Stance: Disarming Stance|Posture : Posture désarmante|libre|
+|[06-OkcblqWj4aHVAkrp.htm](feat-effects/06-OkcblqWj4aHVAkrp.htm)|Effect: Divine Weapon (Chaotic)|Effet : Arme Divine (Chaotique)|libre|
+|[06-pwbFFD6NzDooobKo.htm](feat-effects/06-pwbFFD6NzDooobKo.htm)|Effect: Reflexive Shield|Effet : Bouclier instinctif|libre|
+|[06-T5rsLTqS274B9Mly.htm](feat-effects/06-T5rsLTqS274B9Mly.htm)|Effect: Current Spell (Air)|Effet : Courant de sort (air)|libre|
+|[06-zZ25N1zpXA8GNhFL.htm](feat-effects/06-zZ25N1zpXA8GNhFL.htm)|Effect: Divine Weapon (Force)|Effet : Arme Divine (Force)|libre|
+|[08-2c30Drdg84bWLcRn.htm](feat-effects/08-2c30Drdg84bWLcRn.htm)|Effect: Emblazon Energy (Weapon, Sonic)|Effet : Énergie blasonnée (Arme, Son)|libre|
+|[08-5TzKmEqFyLHBG2ua.htm](feat-effects/08-5TzKmEqFyLHBG2ua.htm)|Effect: Emblazon Energy (Weapon, Cold)|Effet : Énergie blasonnée (Arme, Froid)|libre|
+|[08-bl4HXm1e4NQ0iJs5.htm](feat-effects/08-bl4HXm1e4NQ0iJs5.htm)|Effect: Align Armament (Good)|Effet : Arsenal aligné (Bon)|libre|
+|[08-Cumdy84uIkUHG9zF.htm](feat-effects/08-Cumdy84uIkUHG9zF.htm)|Effect: Resounding Bravery (vs. Fear)|Effet : Bravoure retentissante (contre la peur)|libre|
+|[08-eA14bUF7xhNCzw2v.htm](feat-effects/08-eA14bUF7xhNCzw2v.htm)|Effect: Align Armament (Evil)|Effet : Arsenal aligné (Mal)|libre|
+|[08-GCEOngH5zL0rRyle.htm](feat-effects/08-GCEOngH5zL0rRyle.htm)|Effect: Emblazon Energy (Weapon, Fire)|Effet : Énergie blasonnée (Arme, Feu)|libre|
+|[08-KkbFlNfcQQUfSVXd.htm](feat-effects/08-KkbFlNfcQQUfSVXd.htm)|Effect: Align Armament (Lawful)|Effet : Arsenal aligné (Loyal)|libre|
+|[08-NMmsJyeMTawpgLVR.htm](feat-effects/08-NMmsJyeMTawpgLVR.htm)|Effect: Resounding Bravery|Effet : Bravoure retentissante|libre|
+|[08-oX51Db6IxnUI64dT.htm](feat-effects/08-oX51Db6IxnUI64dT.htm)|Effect: Emblazon Energy (Weapon, Electricity)|Effet : Énergie blasonnée (Arme, Électricité)|libre|
+|[08-T7AJQbfmlA57y625.htm](feat-effects/08-T7AJQbfmlA57y625.htm)|Effect: Vivacious Bravado|Effet: Bravade vivifiante|libre|
+|[08-v2HDcrxQF2Dncjbs.htm](feat-effects/08-v2HDcrxQF2Dncjbs.htm)|Effect: Flamboyant Cruelty|Effet : Cruauté flamboyante|libre|
+|[08-x4Sb3qaMJo8x1r3X.htm](feat-effects/08-x4Sb3qaMJo8x1r3X.htm)|Effect: Emblazon Energy (Weapon, Acid)|Effet : Énergie blasonnée (Arme, Acide)|libre|
+|[08-XC3dRbwfu35vuvmM.htm](feat-effects/08-XC3dRbwfu35vuvmM.htm)|Effect: Align Armament (Chaotic)|Effet : Arsenal aligné (Chaotique)|libre|
+|[09-8rDbWcWmQL0N5FFG.htm](feat-effects/09-8rDbWcWmQL0N5FFG.htm)|Effect: Azarketi Purification|Effet : Purification azarketi|libre|
+|[09-DjxZpQ4xJWWvYQqY.htm](feat-effects/09-DjxZpQ4xJWWvYQqY.htm)|Effect: Repair Module|Effet: Module de réparation|libre|
+|[09-k1J2SaHPwZb2Y6Bp.htm](feat-effects/09-k1J2SaHPwZb2Y6Bp.htm)|Effect: Wings of Air|Effet : Ailes d'air|libre|
+|[09-MrdT7LiOZMN8J4GK.htm](feat-effects/09-MrdT7LiOZMN8J4GK.htm)|Effect: Fiendish Wings|Effet : Ailes fiélones|libre|
+|[09-uA1Ofqoyi0UiZIPk.htm](feat-effects/09-uA1Ofqoyi0UiZIPk.htm)|Effect: Clue In (Expertise)|Effet : Partager les indices (Expertise de l'enquêteur)|libre|
+|[09-z4pnE8KyUdEkJmru.htm](feat-effects/09-z4pnE8KyUdEkJmru.htm)|Effect: Clue In (Detective's Readiness, Expertise)|Effet : Partager les indices (Vivacité du détective et expertise de l'enquêteur)|libre|
+|[10-7ogytOgDmh4h2g5d.htm](feat-effects/10-7ogytOgDmh4h2g5d.htm)|Effect: Heroic Recovery|Effet : Récupération héroïque|libre|
+|[10-gWwG7MNAesJgpmRW.htm](feat-effects/10-gWwG7MNAesJgpmRW.htm)|Effect: Cut from the Air|Effet : Découper en l'air|libre|
+|[10-svVczVV174KfJRDf.htm](feat-effects/10-svVczVV174KfJRDf.htm)|Effect: Shared Avoidance|Effet : Évitement partagé|libre|
+|[11-HKPmrxkZwHRND5Um.htm](feat-effects/11-HKPmrxkZwHRND5Um.htm)|Favored Terrain (Increase Swim Speed)|Effet : Environnement de prédilection (Augmenter la vitesse de nage)|libre|
+|[11-IpRfT9lL3YR6MH6w.htm](feat-effects/11-IpRfT9lL3YR6MH6w.htm)|Favored Terrain (Increase Climb Speed)|Effet : Environnement de prédilection (Augmenter la vitesse d'escalade)|libre|
+|[11-OhLcaJeQy4Nf5Mwo.htm](feat-effects/11-OhLcaJeQy4Nf5Mwo.htm)|Favored Terrain (Gain Swim Speed)|Effet : Environnement de prédilection (Obtenir une vitesse de nage)|libre|
+|[11-sDftJWPPSUeSZD3A.htm](feat-effects/11-sDftJWPPSUeSZD3A.htm)|Favored Terrain (Gain Climb Speed)|Effet : Environnement de prédilection (Obtenir une vitesse d'escalade)|libre|
+|[12-jwxurN6JPQm9wXug.htm](feat-effects/12-jwxurN6JPQm9wXug.htm)|Effect: Defensive Recovery|Effet : Récupération défensive|libre|
+|[12-RyGaB5hDRcOeb34Q.htm](feat-effects/12-RyGaB5hDRcOeb34Q.htm)|Effect: Emblazon Antimagic (Weapon)|Effet : Antimagie blasonnée (Arme)|libre|
+|[12-VOOShYoB4gTopZtg.htm](feat-effects/12-VOOShYoB4gTopZtg.htm)|Effect: Aura of Faith|Effet : Aura de foi|libre|
+|[14-18FHJoazfEmgNkfk.htm](feat-effects/14-18FHJoazfEmgNkfk.htm)|Effect: Aura of Preservation|Effet : Aura de préservation|libre|
+|[14-FPuICuxBLiDaEbDX.htm](feat-effects/14-FPuICuxBLiDaEbDX.htm)|Effect: Aura of Life|Effet : Aura de Vie|libre|
+|[16-72THfaqak0F4XnON.htm](feat-effects/16-72THfaqak0F4XnON.htm)|Effect: Didactic Strike|Effet : Frappe didactique|libre|
+|[16-aUpcWqaLBlmpnJgW.htm](feat-effects/16-aUpcWqaLBlmpnJgW.htm)|Effect: Legendary Monster Warden|Effet : Garde-monsres légendaire|libre|
+|[16-COsdMolZraFRTdP8.htm](feat-effects/16-COsdMolZraFRTdP8.htm)|Effect: Prevailing Position|Effet : Position prédominante|libre|
 |[16-l4QUaedYofnfXig0.htm](feat-effects/16-l4QUaedYofnfXig0.htm)|Stance: Multishot Stance|Posture : Posture de tirs multiples|libre|
+|[16-LB0PTV5yqMlBmRFj.htm](feat-effects/16-LB0PTV5yqMlBmRFj.htm)|Effect: Legendary Monster Hunter|Effet : Chasseur de monstres légendaire|libre|
+|[16-XM1AA8z5cHm8sJXM.htm](feat-effects/16-XM1AA8z5cHm8sJXM.htm)|Effect: Enlightened Presence|Effet : Présence éclairée|libre|
+|[17-4UNQfMrwfWirdwoV.htm](feat-effects/17-4UNQfMrwfWirdwoV.htm)|Effect: Masterful Hunter's Edge, Flurry|Effet : Spécialité Maître chasseur, Déluge|libre|
+|[17-iqvurepX0zyu9OlI.htm](feat-effects/17-iqvurepX0zyu9OlI.htm)|Effect: Masterful Hunter's Edge, Outwit|Effet : Spécialité Maître chasseur, Ruse|libre|
+|[17-Lt5iSfx8fxHSdYXz.htm](feat-effects/17-Lt5iSfx8fxHSdYXz.htm)|Effect: Masterful Hunter's Edge, Precision|Effet : Spécialité Maître chasseur, Précision|libre|
+|[18-CUtvkuGSxq1raBIB.htm](feat-effects/18-CUtvkuGSxq1raBIB.htm)|Effect: Shared Clarity|Effet : Clarté partagée|libre|
