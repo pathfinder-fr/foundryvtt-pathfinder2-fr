@@ -1,30 +1,33 @@
 # Module pathfinder 2 pour Foundry VTT
 
 Ce dépôt est un module pour foundry VTT (https://foundryvtt.com/).  
+
 Le module permet de disposer des compendiums du système de jeu Pathfinder2 développé par Paizo en français en disposant des données des compendiums anglophones traduits soit en version française intégrale, soit en vo-vf ou en vf-vo pour améliorer la recherche et favoriser les tables qui utilisent plusieurs langues.  
-Le module rend nécessaire l'utilisation du module Babele
 
-Ce module est complémentaire du module qui vous permet de disposer de la version française du système pf2. Le module du système est nécessaire pour disposer de l'interface en français. Il fait l'objet d'un module distinct pour permettre aux francophones de jouer en vo en disposant de l'interface en français tout en disposant du contenu en anglais.
+Le module rend indispensable d'utiliser le module Babele
 
-- La traduction du Livre de base est pour l'essentiel la reprise de la traduction officielle réalisée par Black Book Edition.
-- La description des monstres du Bestiaire 1 est la traduction officielle.
-- La traduction du compendium du Guide du Maître
+Le module de traduction des compendium est complémentaire de celui qui permet de disposer la version française de l'interface utilisateur du système pf2. Il fait l'objet d'un module distinct permettant aux francophones de jouer avec les données en vo tout en disposant de l'interface de jeu en français.
 
-Les traductions officielles ont cependant été l'objet d'un travail complémentaire des contributeurs du système pour supprimer les références des pages, insérer les liens nécessaires pour naviguer sous Foundry, réaliser les automatisations permises par le système. 
 
-Les fichiers font l'objet de l'insertion progressive des erratas publiés par Paizo. 
-
-Certains textes ont aussi été légèrement repris par souci de cohérence dans l'utilisation de certains mots ou lorsque la traduction n'a pas parue la mieux adaptée ou erronée.
-
-Le reste de la traduction qui est proposée est pour le reste le fruit du travail des fans qui ont assuré la traduction des livres ultérieurs. L'objectif est de rester à jour de la traduction anglophone pour pouvoir continuer à jouer au rythme de la parution des aventures publiées par Paizo.
-
-En aucun cas, le fuit de ce site n'est un site officiel de Paizo ou de Black Book Editions. 
-
+En aucun cas, Paizo ou Black Book Editions ne reconnaîssent, ne sont à l'origine ou ne sont les mécènes de ce projet.
 
 La gamme Pathfinder est une création de Paizo Publishing. Elle fait l'objet d'une publication en français par Black Book Editions.
 
-La traduction est réalisée en application des licences Open Game License (ogl) et Pathfinder Community Use Policy (PCUP).
+La traduction est réalisée en application des licences Open Game License (ogl) et Pathfinder Community Use Policy (PCUP) en vue d'utiliser le système Pathfinder 2e avec le logiciel Foundry VTT.
 
+Si vous entendez utiliser les traductions réalisées à d'autres fins, vous devez respecter les licences ogl et PCUP. 
+
+Vous ne pouvez notamment utiliser ces traductions à des fins commerciales.
+
+- La traduction du Livre de base est actuellement et pour l'essentiel la reprise de la traduction officielle réalisée par Black Book Edition.
+- La description des monstres du Bestiaire 1 est également issu de la traduction officielle.
+- La traduction du compendium du Guide du Maître est également issu de la traduction officielle.
+
+Les traductions officielles utilisées ont été l'objet d'un travail complémentaire des contributeurs du système pour supprimer les références des pages, insérer les liens nécessaires pour naviguer sous Foundry, réaliser les automatisations permises par le système. Les fichiers ont fait l'objet de l'insertion progressive des erratas publiés par Paizo. 
+
+Certains textes ont aussi été légèrement repris par souci de cohérence dans l'utilisation de certains mots ou lorsque la traduction n'a pas parue la mieux adaptée ou est erronée.
+
+Le reste de la traduction des fichiers anglophones qui est proposée dans ce module est le fruit du travail passionné de fans qui tentent d'assurer la traduction des ouvrages Paizo au rythme de leur parution.
 
 ## Traducteurs
 
