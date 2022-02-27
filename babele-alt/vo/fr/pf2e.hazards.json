@@ -311,7 +311,7 @@
             "id": "Planar Rift",
             "name": "Planar Rift",
             "description": "<p>Une faille tente d’emporter les créatures vers un autre plan (choisi par le MJ).</p>",
-            "disable": "<p>@Check[type:thievery|dc:33|name:Sceller la faille|traits:magical]{Vol} (maître) DD 33 pour assembler un sceau à la faille en utilisant les objets solidement ancrés au sol ou @Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie} (niveau 7 ; DD 31 pour contrer) pour contrer la faille</p>"
+            "disable": "<p>@Check[type:thievery|dc:33|name:Sceller la faille|traits:magical]{Vol} (maître) DD 33 pour assembler un sceau à la faille en utilisant les objets solidement ancrés au sol ou <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie}</em> (niveau 7 ; DD 31 pour contrer) pour contrer la faille</p>"
         },
         {
             "id": "Polymorph Trap",

@@ -14,7 +14,7 @@
         {
             "id": "Master's Form",
             "name": "Forme du maître",
-            "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
+            "description": "<p>Votre familier peut changer de forme par une unique action, se transformant en un humanoïde de votre héritage avec le même âge, le même genre et la même constitution que celle de sa véritable forme, bien qu'il présente toujours un reste surnaturel évident de sa nature, comme des yeux de chat ou une langue de serpent. Cette forme est toujours la même chaque fois qu'il utilise cette capacité. Cela utilise autrement les effets de <em>@Compendium[pf2e.spells-srd.2qGqa33E4GPUCbMV]{Forme humanoïde}</em>, sauf que le changement est purement cosmétique. Il apparaît seulement comme humanoïde mais ne gagne aucune capacité nouvelle. Votre familier doit avoir les capacités @Compendium[pf2e.familiar-abilities.cT5octWchU4gjrhP]{dextérité manuelle} et @Compendium[pf2e.familiar-abilities.zyMRLQnFCQVpltiR]{parole} pour pouvoir sélectionner cette capacité.</p>"
         },
         {
             "id": "Fast Movement: Fly",
@@ -204,7 +204,7 @@
         {
             "id": "Plant Form",
             "name": "Forme de plante",
-            "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Très petite plante d'un type à peu près similaire à la nature du familier. Cela utilise autrement les effets de @Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}. Vous devez avoir un familier avec le trait plante, tel qu'un léchi, pour choisir cette capacité.</p>"
+            "description": "<p>Votre familier plante peut changer de forme par une unique action, en transformant en une Très petite plante d'un type à peu près similaire à la nature du familier. Cela utilise autrement les effets de <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}</em>. Vous devez avoir un familier avec le trait plante, tel qu'un léchi, pour choisir cette capacité.</p>"
         },
         {
             "id": "Major Resistance",

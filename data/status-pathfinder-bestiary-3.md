@@ -4,7 +4,7 @@
  * **libre**: 266
 
 
-Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -126,7 +126,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9RNisBYwGOCQan1S.htm](pathfinder-bestiary-3/9RNisBYwGOCQan1S.htm)|Haniver|Haniver (Gremlin)|libre|
 |[9SW7NWlTisAjNwAu.htm](pathfinder-bestiary-3/9SW7NWlTisAjNwAu.htm)|Nyktera|Nyctère (sprite)|libre|
 |[9uP6Dfv53H4Fa32c.htm](pathfinder-bestiary-3/9uP6Dfv53H4Fa32c.htm)|Consonite Choir|Choeur consonite|libre|
-|[A7TFAr1rBtKJyprn.htm](pathfinder-bestiary-3/A7TFAr1rBtKJyprn.htm)|Sulfur Zombie|Zombie de souffre|libre|
+|[A7TFAr1rBtKJyprn.htm](pathfinder-bestiary-3/A7TFAr1rBtKJyprn.htm)|Sulfur Zombie|Zombie de soufre|libre|
 |[abSsuJM94EvvyQYw.htm](pathfinder-bestiary-3/abSsuJM94EvvyQYw.htm)|Giant Flying Squirrel|Écureuil géant volant|libre|
 |[aeLTz7wO9ajPaQ0V.htm](pathfinder-bestiary-3/aeLTz7wO9ajPaQ0V.htm)|Hermit Crab Swarm|Nuée de bernard-l'hermite|libre|
 |[aepfNXXy2juozgzB.htm](pathfinder-bestiary-3/aepfNXXy2juozgzB.htm)|Weasel|Belette|libre|

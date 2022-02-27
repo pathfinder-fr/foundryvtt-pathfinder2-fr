@@ -919,7 +919,7 @@
         {
             "id": "Grig",
             "name": "Grig (Grig)",
-            "description": "<p>Vous avez l'arrière train d'un criquet et adorez l'art et la musique. Vos pattes de criquet vous accordent un bonus de circonstances de +2 aux tests d'Athlétisme pour Sauter en hauteur ou Sauter en longueur et vous obtenez le tour de magie primordial inné @Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son imaginaire}.</p>"
+            "description": "<p>Vous avez l'arrière train d'un criquet et adorez l'art et la musique. Vos pattes de criquet vous accordent un bonus de circonstances de +2 aux tests d'Athlétisme pour Sauter en hauteur ou Sauter en longueur et vous obtenez le tour de magie primordial inné <em>@Compendium[pf2e.spells-srd.atlgGNI1E1Ox3O3a]{Son imaginaire}</em>.</p>"
         },
         {
             "id": "Cactus Leshy",
@@ -964,7 +964,7 @@
         {
             "id": "Oathkeeper Dwarf",
             "name": "Oathkeeper Dwarf (Nain gardeserment)",
-            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols}.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} et au DD de Perception contre les tentatives de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}. De plus, vous obtenez un bonus de circonstances de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstance de –4 pour Mentir et a votre test de Duperie contre une tentative pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner vos Intentions}.</p>"
+            "description": "<p>En grandissant, vous n'avez jamais cherché à mentir pour obtenir ce que vous désiriez et même lorsque cela a été nécessaire, mentir vous a mis mal à l'aise. Les membres particulièrement croyants ont même pu penser que vous avez été béni par le dieu nain du devoir, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols}.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux tests de Perception pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} et au DD de Perception contre les tentatives de vous @Compendium[pf2e.actionspf2e.ewwCglB7XOPLUz72]{Mentir}. De plus, vous obtenez un bonus de circonstances de +2 aux tests de Diplomatie pour convaincre les autres que vous dites la vérité lorsque vous la dites et vous subissez une pénalité de circonstances de –4 pour Mentir et a votre test de Duperie contre une tentative pour @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner vos Intentions}.</p>"
         },
         {
             "id": "Warmarch Hobgoblin",

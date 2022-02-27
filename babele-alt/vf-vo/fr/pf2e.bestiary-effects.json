@@ -19,7 +19,7 @@
         {
             "id": "Effect: Commander's Aura",
             "name": "Effet : Aura de commandement (Effect: Commander's Aura)",
-            "description": "<p>La créature obtient un bonus de circonstance de +1 aux jets d'attaques, aux jets de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
+            "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques, aux jets de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
         },
         {
             "id": "Effect: Volcanic Purge",
@@ -69,7 +69,7 @@
         {
             "id": "Effect: Inspirational Presence",
             "name": "Effet : Présence inspirante (Effect: Inspirational Presence)",
-            "description": "<p>Chaque étudiant de dans l'aura de l'enseignant obtient un bonus de circonstance de +1 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</p>"
+            "description": "<p>Chaque étudiant de dans l'aura de l'enseignant obtient un bonus de circonstances de +1 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</p>"
         },
         {
             "id": "Effect: Rune of Flames (Longspear)",
@@ -134,7 +134,7 @@
         {
             "id": "Effect: Brutal Rally",
             "name": "Effet : Ralliement brutal (Effect: Brutal Rally)",
-            "description": "<p>La créature obtient un bonus de circonstance de +1 aux jets d'attaque.</p>"
+            "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaque.</p>"
         },
         {
             "id": "Effect: Graveknight's Curse",
@@ -145,6 +145,11 @@
             "id": "Effect: Fanatical Frenzy",
             "name": "Effet : Frénésie fanatique (Effect: Fanatical Frenzy)",
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaque et un bonus de +2 aux jets de dégâts et subit une pénalité de statut de -2 à la CA.</p>"
+        },
+        {
+            "id": "Effect: Rune of Flames (Greatsword)",
+            "name": "Effet : Rune de flammes (épée à deux mains) (Effect: Rune of Flames (Greatsword))",
+            "description": "<p>L'épée à deux mains inflige 3d6 dégâts de feu supplémentaire sur toutes les attaques.</p>"
         },
         {
             "id": "Effect: Tail Lash (Skill Check)",

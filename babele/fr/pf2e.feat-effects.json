@@ -169,7 +169,7 @@
         {
             "id": "Effect: Radiant Infusion",
             "name": "Effet : Imprégnation irradiante",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.JcXzKwrdMkNszrJQ]{Imprégnation irradiante}.</p>\n<p>Si la prochaine action que vous utilisez consiste à lancer @Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison} pour restaurer des Points de vie à une unique créature vivante, la cible inflige [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires avec ses armes au corps-à-corps et ses attaques à mains nues jusqu'à la fin de son prochain tour.</p>\n<p>Si le sort de <em>Guérison</em> est d'au moins du niveau 5, ces dégâts passent à [[/r {2d6}[positive]]]{2d6 dégâts positifs} ou à [[/r {3d6}[positive]]]{3d6 dégâts positifs} si le sort est au moins du niveau 8.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.JcXzKwrdMkNszrJQ]{Imprégnation irradiante}.</p>\n<p>Si la prochaine action que vous utilisez consiste à lancer <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> pour restaurer des Points de vie à une unique créature vivante, la cible inflige [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires avec ses armes au corps-à-corps et ses attaques à mains nues jusqu'à la fin de son prochain tour.</p>\n<p>Si le sort de <em>Guérison</em> est d'au moins du niveau 5, ces dégâts passent à [[/r {2d6}[positive]]]{2d6 dégâts positifs} ou à [[/r {3d6}[positive]]]{3d6 dégâts positifs} si le sort est au moins du niveau 8.</p>"
         },
         {
             "id": "Stance: Rain of Embers Stance",
@@ -194,7 +194,7 @@
         {
             "id": "Effect: Clue In (Expertise)",
             "name": "Effet : Partager les indices (Expertise de l'enquêteur)",
-            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur possède le don @Compendium[pf2e.classfeatures.PFvB79O2VFdiAeSj]{Expertise de l'enquêteur}</p>\n<p>Lorsque vous tentez un jet de Perception ou un jet de Compétence pour enquêter le sujet de votre piste, vous gagnez un bonus de circonstance de +2 à votre jet<p>"
+            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur possède le don @Compendium[pf2e.classfeatures.PFvB79O2VFdiAeSj]{Expertise de l'enquêteur}</p>\n<p>Lorsque vous tentez un jet de Perception ou un jet de Compétence pour enquêter le sujet de votre piste, vous gagnez un bonus de circonstances de +2 à votre jet<p>"
         },
         {
             "id": "Effect: Arctic Endemic Herb",
@@ -269,7 +269,7 @@
         {
             "id": "Stance: Cobra Stance (Cobra Envenom)",
             "name": "Posture : Posture du cobra",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Posture du cobra} si vous avez @Compendium[pf2e.feats-srd.xQuNswWB3eg1UM28]{Venin du cobra}, qui augmente le bonus de circonstance aux jets de sauvegarde Vigueur et augmente le DD Vigueur à +2.</p>\n<p>Vous prenez une posture tendue en spirale comme celle du cobra dressé avec vos mains prêtes comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules Frappes que vous pouvez faire sont les attaques à mains nues des crochets du cobra. Elles infligent 1d4 dégâts de poison ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, finesse, mortel d10, non-létal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +2 aux jets de Vigueur, au DD de Vigueur et vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Posture du cobra} si vous avez @Compendium[pf2e.feats-srd.xQuNswWB3eg1UM28]{Venin du cobra}, qui augmente le bonus de circonstances aux jets de sauvegarde Vigueur et augmente le DD Vigueur à +2.</p>\n<p>Vous prenez une posture tendue en spirale comme celle du cobra dressé avec vos mains prêtes comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules Frappes que vous pouvez faire sont les attaques à mains nues des crochets du cobra. Elles infligent 1d4 dégâts de poison ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, finesse, mortel d10, non-létal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +2 aux jets de Vigueur, au DD de Vigueur et vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>"
         },
         {
             "id": "Effect: Emblazon Energy (Weapon, Fire)",
@@ -294,7 +294,7 @@
         {
             "id": "Stance: Dueling Dance",
             "name": "Posture : Danse en duel",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.9VGmE7X4aK2W8YWj]{Danse en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]{Danse en duel (Guerrier))}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li> Bonus de circonstance de +2 à a CA</li>\n</ul>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.9VGmE7X4aK2W8YWj]{Danse en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]{Danse en duel (Guerrier))}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li> Bonus de circonstances de +2 à a CA</li>\n</ul>"
         },
         {
             "id": "Effect: Blade Ally Disrupting Rune (Greater)",
@@ -304,7 +304,7 @@
         {
             "id": "Stance: Jellyfish Stance",
             "name": "Posture : Posture de la méduse",
-            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous relâchez votre posture et détendez vos articulations, vous permettant de vous déplacer avec une incroyable fluidité. Vous pouvez porter des attaques de tentacules urticantes qui infligent 1d8 dégâts tranchants. Ces attaques sont dans le groupe pugilat et possèdent les trait finesse, non létal, allonge et à mains nues.</p>\n<p>Tant que vous êtes dans la posture de la méduse, vous obtenez un bonus de circonstance de +2 aux jets de Réflexes et sur les tests pour s'@Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} et @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler}.</p>"
+            "description": "<p><strong>Conditions</strong> Vous ne portez pas d'armure.</p>\n<hr />\n<p>Vous relâchez votre posture et détendez vos articulations, vous permettant de vous déplacer avec une incroyable fluidité. Vous pouvez porter des attaques de tentacules urticantes qui infligent 1d8 dégâts tranchants. Ces attaques sont dans le groupe pugilat et possèdent les trait finesse, non létal, allonge et à mains nues.</p>\n<p>Tant que vous êtes dans la posture de la méduse, vous obtenez un bonus de circonstances de +2 aux jets de Réflexes et sur les tests pour s'@Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Échapper} et @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler}.</p>"
         },
         {
             "id": "Stance: Sky and Heaven Stance",
@@ -394,7 +394,7 @@
         {
             "id": "Effect: Eye of the Arclords",
             "name": "Effet : Œil des Seigneurs de l'Arc",
-            "description": "<p>Accordé par  @Compendium[pf2e.feats-srd.OtV7esAwza1U6Kwr]{Œil des Seigneurs de l'Arc}.</p>\n<p>Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez @Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir} ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<hr />\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n<li>ous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée</li>\n</ul>"
+            "description": "<p>Accordé par  @Compendium[pf2e.feats-srd.OtV7esAwza1U6Kwr]{Œil des Seigneurs de l'Arc}.</p>\n<p>Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez <em>@Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir}</em> ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<hr />\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n<li>ous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée</li>\n</ul>"
         },
         {
             "id": "Effect: Liberating Step (vs. Dragon)",
@@ -424,7 +424,7 @@
         {
             "id": "Effect: Reflective Ripple Stance",
             "name": "Effet : Posture de l'onde réfléchissante",
-            "description": "<p>Vous pouvez porter des attaques de vagues coulantes qui infligent [[[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstance de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>"
+            "description": "<p>Vous pouvez porter des attaques de vagues coulantes qui infligent [[[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}. Ces attaques sont dans le groupe pugilat et possèdent les traits agile, désarmer, finesse, non létal, croc-en-jambe, à mains nues et eau.</p>\n<p>Tant que vous êtes dans la posture de l'onde réfléchissante, vous obtenez un bonus de circonstances de +1 aux tests d'Athlétisme pour @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou pour faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} et vous obtenee un bonus de circonstances de +2 à votre DD de Réflexes pour éviter d'être Désarmé ou contre les Croc-en-Jambe.</p>"
         },
         {
             "id": "Effect: Underground Endemic Herbs",
@@ -719,7 +719,7 @@
         {
             "id": "Effect: Clue In (Detective's Readiness, Expertise)",
             "name": "Effet : Partager les indices (Vivacité du détective et expertise de l'enquêteur)",
-            "description": "Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur possède les dons @Compendium[pf2e.feats-srd.5cYFHKQK6OZCwavI]{Vivacité du détective} and @Compendium[pf2e.classfeatures.PFvB79O2VFdiAeSj]{Expertise de l'enquêteur}.</p>\n<p>Lorsque vous tentez un jet de sauvegarde à l'encontre du sujet de votre piste, vous gagnez un bonus de circonstance de +2 à votre test</p>"
+            "description": "Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur possède les dons @Compendium[pf2e.feats-srd.5cYFHKQK6OZCwavI]{Vivacité du détective} and @Compendium[pf2e.classfeatures.PFvB79O2VFdiAeSj]{Expertise de l'enquêteur}.</p>\n<p>Lorsque vous tentez un jet de sauvegarde à l'encontre du sujet de votre piste, vous gagnez un bonus de circonstances de +2 à votre test</p>"
         },
         {
             "id": "Effect: Current Spell (Air)",
@@ -784,7 +784,7 @@
         {
             "id": "Effect: Clue In",
             "name": "Effet : Partager les indices",
-            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices}.</p>\n<p>Vous gagnez un bonus de circonstance de +1 à votre Perception ou aux compétences pour enquêter sur une piste que vous suivez</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices}.</p>\n<p>Vous gagnez un bonus de circonstances de +1 à votre Perception ou aux compétences pour enquêter sur une piste que vous suivez</p>"
         },
         {
             "id": "Effect: Masterful Hunter's Edge, Precision",
@@ -799,7 +799,7 @@
         {
             "id": "Effect: Dueling Parry",
             "name": "Effet : Parade en duel",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.WcY7H7mRiK2VDquV]{Parade en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel (Guerrier)}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus de circonstance de +2 à la CA</li>\n</ul"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.WcY7H7mRiK2VDquV]{Parade en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.n7nQQR940OvFbw7T]{Parade en duel (Guerrier)}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n</ul"
         },
         {
             "id": "Effect: Aura of Preservation",
@@ -814,7 +814,7 @@
         {
             "id": "Effect: Avenge in Glory",
             "name": "Effet : Revanche dans la gloire",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 mètres est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>\n<p>Effets appliqués:</p>\n<ul>\n<li>Points de vie temporaires basés sur le niveau</li>\n<li>Fixe un bonus de circonstance de +1 aux jets d'attaque et au jet de dégâts.</li>\n</ul>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Ethnie nain des montagnes</p>\n<p><strong>Déclencheur</strong> Un allié dans les 9 mètres est affecté par la condition @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant}</p>\n<hr />\n<p>Vous honorez le sacrifice de votre allié, en obtenant des points de vie temporaires en nombre égal à votre niveau pendant 1 minute. tant que vous les conservez, vous obtenez un bonus de circonstances de +1 à vos jets d'attaque et de dégâts.</p>\n<p>Effets appliqués:</p>\n<ul>\n<li>Points de vie temporaires basés sur le niveau</li>\n<li>Fixe un bonus de circonstances de +1 aux jets d'attaque et au jet de dégâts.</li>\n</ul>"
         },
         {
             "id": "Effect: Shared Clarity",
@@ -859,7 +859,7 @@
         {
             "id": "Effect: Clue In (Detective's Readiness)",
             "name": "Effet : Partager les indices (Vivacité du détective)",
-            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur a le don @Compendium[pf2e.feats-srd.5cYFHKQK6OZCwavI]{Vivacité du détective}.</p>\n<p>Lorsque vous tentez un jet de sauvegarde à l'encontre du sujet d'une piste, vous gagnez un bonus de circonstance de +1 à votre test</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices} si l'enquêteur a le don @Compendium[pf2e.feats-srd.5cYFHKQK6OZCwavI]{Vivacité du détective}.</p>\n<p>Lorsque vous tentez un jet de sauvegarde à l'encontre du sujet d'une piste, vous gagnez un bonus de circonstances de +1 à votre test</p>"
         },
         {
             "id": "Effect: Blade Ally Anarchic Rune",

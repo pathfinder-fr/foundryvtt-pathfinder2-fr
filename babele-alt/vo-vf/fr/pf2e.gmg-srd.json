@@ -144,7 +144,7 @@
         {
             "id": "The Void",
             "name": "The Void (Le néant)",
-            "description": "<p>Votre esprit est emprisonné à jamais. La carte est capricieuse mais elle emprisonne souvent l’esprit dans un objet situé sur une planète ou un plan lointain. Un @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{souhait} ou une magie similaire peut révéler l’endroit où est emprisonné votre esprit mais cela ne permet pas de le libérer. Votre corps comateux continue à vivre. Vous ne piochez plus de carte.</p>"
+            "description": "<p>Votre esprit est emprisonné à jamais. La carte est capricieuse mais elle emprisonne souvent l’esprit dans un objet situé sur une planète ou un plan lointain. Un <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{souhait}</em> ou une magie similaire peut révéler l’endroit où est emprisonné votre esprit mais cela ne permet pas de le libérer. Votre corps comateux continue à vivre. Vous ne piochez plus de carte.</p>"
         },
         {
             "id": "Gem",
@@ -379,7 +379,7 @@
         {
             "id": "Donjon",
             "name": "Donjon (Donjon)",
-            "description": "<p>Vous êtes emprisonné par un rituel d'@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]{Emprisonnement} de niveau 10. Cela utilise l'option prison et généralement vous vous retrouvez séquestré dans une région lointaine du monde. Vous perdez également tous vos objets. Vous ne piochez plus de carte.</p>"
+            "description": "<p>Vous êtes emprisonné par un rituel d'<em>@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]{Emprisonnement}</em> de niveau 10. Cela utilise l'option prison et généralement vous vous retrouvez séquestré dans une région lointaine du monde. Vous perdez également tous vos objets. Vous ne piochez plus de carte.</p>"
         },
         {
             "id": "Won a Competition",
@@ -394,7 +394,7 @@
         {
             "id": "Moon",
             "name": "Moon (Lune)",
-            "description": "<p>Lancez <a class=\"inline-roll roll\" ; title=\"1d4\" ; data-mode=\"roll\" ; data-flavor=\"\" ; data-formula=\"1d4\">< ; i class=\"fas fa-dice-d20\"></i> 1d4</a> pour déterminer le nombre de souhaits accordés par cette carte, ce qui affecteaussi la phase de la lune représentée sur la carte (1 : croissant de lune ; 2 : demi-lune ; 3 : lune gibbeuse ; 4 : pleine lune). Il faut une action pour formuler chacun de ces vœux et ils ont le même effet qu’un \nsort @Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}.</p>"
+            "description": "<p>Lancez <a class=\"inline-roll roll\" ; title=\"1d4\" ; data-mode=\"roll\" ; data-flavor=\"\" ; data-formula=\"1d4\">< ; i class=\"fas fa-dice-d20\"></i> 1d4</a> pour déterminer le nombre de souhaits accordés par cette carte, ce qui affecteaussi la phase de la lune représentée sur la carte (1 : croissant de lune ; 2 : demi-lune ; 3 : lune gibbeuse ; 4 : pleine lune). Il faut une action pour formuler chacun de ces vœux et ils ont le même effet qu’un \nsort <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}</em>.</p>"
         },
         {
             "id": "The Relative",

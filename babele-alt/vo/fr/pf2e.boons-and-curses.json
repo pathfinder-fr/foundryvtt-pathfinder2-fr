@@ -29,7 +29,7 @@
         {
             "id": "Irori - Major Boon",
             "name": "Irori - Major Boon",
-            "description": "<p>Vous pouvez temporairement atteindre une forme supérieure.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.MMCQsh12TPaDdPbV]{Force du colosse} au niveau 8 une fois par jour comme un sort occulte inné. Lorsque vous le faites, votre forme apparaît ordinaire, plutôt que revêtue d'un arsenal puissant.</p>"
+            "description": "<p>Vous pouvez temporairement atteindre une forme supérieure.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.MMCQsh12TPaDdPbV]{Force du colosse}</em> au niveau 8 une fois par jour comme un sort occulte inné. Lorsque vous le faites, votre forme apparaît ordinaire, plutôt que revêtue d'un arsenal puissant.</p>"
         },
         {
             "id": "Calistria - Minor Boon",
@@ -249,7 +249,7 @@
         {
             "id": "Erastil - Major Boon",
             "name": "Erastil - Major Boon",
-            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un ami de la terre.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Communication avec les plantes} comme un sort inné divin.</p>\n<p>Lorsque vous vous trouvez dans un environnement naturel sain, la terre vous permet de subsister sans avoir besoin de vous nourrir ou de boire.</p>\n<p>Vous pouvez lancer le rituel @Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]{Communion avec la Nature} sans incantateur secondaire ou faire de test secondaire.</p>"
+            "description": "<p><strong>Bénédiction majeure</strong> Vous devenez un ami de la terre.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.qvwIwJ9QBihy8R0t]{Communication avec les plantes}</em> comme un sort inné divin.</p>\n<p>Lorsque vous vous trouvez dans un environnement naturel sain, la terre vous permet de subsister sans avoir besoin de vous nourrir ou de boire.</p>\n<p>Vous pouvez lancer le rituel <em>@Compendium[pf2e.spells-srd.l4LFwY7iuzX6sDXr]{Communion avec la Nature}</em> sans incantateur secondaire ou faire de test secondaire.</p>"
         },
         {
             "id": "Urgathoa - Minor Curse",
@@ -269,7 +269,7 @@
         {
             "id": "Iomedae - Moderate Curse",
             "name": "Iomedae - Moderate Curse",
-            "description": "<p><strong>Malédiction modérée</strong> Les avantages tactiques ne semblent jamais fonctionner comme vous les avez planifiés.</p> Vous ne pouvez recevoir un bonus de circonstance à vos jets d'attaque  et vos ennemis ne subissent jamais de pénalités de circonstances à leur CA contre vos attaques.</p>"
+            "description": "<p><strong>Malédiction modérée</strong> Les avantages tactiques ne semblent jamais fonctionner comme vous les avez planifiés.</p> Vous ne pouvez recevoir un bonus de circonstances à vos jets d'attaque  et vos ennemis ne subissent jamais de pénalités de circonstances à leur CA contre vos attaques.</p>"
         },
         {
             "id": "Norgorber - Moderate Boon",
@@ -289,7 +289,7 @@
         {
             "id": "Zon-Kuthon - Minor Boon",
             "name": "Zon-Kuthon - Minor Boon",
-            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Le Seigneur de Minuit transforme votre sang et votre douleur en des chaînes d'obsucrité de minuit pour détruire vos adversaires.</p>\n<p>Une fois, pendant 1 minute, lorsque vous subissez des dégâts perforants, tranchants ou des dégâts de saignement, des chains s'écoulent de votre corps, affectant les créatures dans une ligne partant de votre position dans la direction de l'attaque (ou dans la direction de votre choix pour les dégâts de saignement ou si vous vous infligez à vous-même les dégâts) avec les effets d'un sort de @Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes} dont le niveau est égal à la moitié de votre niveau arrondi à l'entier supérieur  et dont le DD est votre plus haut DD de sort (ou 10 + votre niveau + votre modificateur de Sagesse si vous n'avez pas de DD de sort).</p>"
+            "description": "<p><strong>Bénédiction mineure (Usage unique)</strong> Le Seigneur de Minuit transforme votre sang et votre douleur en des chaînes d'obsucrité de minuit pour détruire vos adversaires.</p>\n<p>Une fois, pendant 1 minute, lorsque vous subissez des dégâts perforants, tranchants ou des dégâts de saignement, des chains s'écoulent de votre corps, affectant les créatures dans une ligne partant de votre position dans la direction de l'attaque (ou dans la direction de votre choix pour les dégâts de saignement ou si vous vous infligez à vous-même les dégâts) avec les effets d'un sort de <em>@Compendium[pf2e.spells-srd.k34hDOfIIMAxNL4a]{Sinistres volutes}</em> dont le niveau est égal à la moitié de votre niveau arrondi à l'entier supérieur  et dont le DD est votre plus haut DD de sort (ou 10 + votre niveau + votre modificateur de Sagesse si vous n'avez pas de DD de sort).</p>"
         },
         {
             "id": "Zon-Kuthon - Moderate Boon",
@@ -314,7 +314,7 @@
         {
             "id": "Shelyn - Moderate Boon",
             "name": "Shelyn - Moderate Boon",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes inspiré pour créer de belles œuvres et devenez un virtuose dans tous les arts.</p>\n<p>Vous obtenz le don Artisanat spécialiséet le don @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Virtuosic Performer} dans toutes les catégories d'Artisanat et de Représentation.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
+            "description": "<p><strong>Bénédiction modérée</strong> Vous êtes inspiré pour créer de belles œuvres et devenez un virtuose dans tous les arts.</p>\n<p>Vous obtenez le don Artisanat spécialiséet le don @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Virtuosic Performer} dans toutes les catégories d'Artisanat et de Représentation.</p>\n<hr />\n<ul>\n<li>@Compendium[pf2e.feats-srd.XVnpntqV6w94PoOb]{Artisanat spécialisé (Alchimie)}</li>\n<li>@Compendium[pf2e.feats-srd.59FN13nU6agKT4oa]{Artisanat spécialisé (Confection de livres)}</li>\n<li>@Compendium[pf2e.feats-srd.tbIMWrIRI9P9cubM]{Artisanat spécialisé (Construction navale)}</li>\n<li>@Compendium[pf2e.feats-srd.B06QKNvKYqxYGwPU]{Artisanat spécialisé (Couture)}</li>\n<li>@Compendium[pf2e.feats-srd.YvoiGWZhtbHH6NMF]{Artisanat spécialisé (Ébénisterie)}</li>\n<li>@Compendium[pf2e.feats-srd.S8mPrjJjuObotmjZ]{Artisanat spécialisé (Forge)}</li>\n<li>@Compendium[pf2e.feats-srd.WddEyALYHfpeUjZB]{Artisanat spécialisé (Maroquinerie)}</li>\n<li>@Compendium[pf2e.feats-srd.8XC2xJ7Y1xlr6Xor]{Artisanat spécialisé (Poterie)}</li>\n<li>@Compendium[pf2e.feats-srd.22HUfCajd6IkATOR]{Artisanat spécialisé (Sens artistique)}</li>\n<li>@Compendium[pf2e.feats-srd.TWkwy0uQvTGlgEFG]{Artisanat spécialisé (Taille de pierre)}</li>\n<li>@Compendium[pf2e.feats-srd.dTjzxCy9pku5gL0F]{Artisanat spécialisé (Tissage)}</li>\n<li>@Compendium[pf2e.feats-srd.YmzLnj4ojlf9INNP]{Artisanat spécialisé (Verrerie)}</li>\n</ul>"
         },
         {
             "id": "Nethys - Minor Boon",
@@ -334,17 +334,17 @@
         {
             "id": "Abadar - Major Curse",
             "name": "Abadar - Major Curse",
-            "description": "<p><strong>Malédiction majeure</strong> Vous devenez presque trop honnête. Vous subissez constamment l'effet d'un échec critique de @Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]{Zone de vérité}. De plus, vous vous voyez toujours offrir la pire proposition lorsque vous faites affaire.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Vous devenez presque trop honnête. Vous subissez constamment l'effet d'un échec critique de <em>@Compendium[pf2e.spells-srd.aewxsale5xWEPKLk]{Zone de vérité}</em>. De plus, vous vous voyez toujours offrir la pire proposition lorsque vous faites affaire.</p>"
         },
         {
             "id": "Urgathoa - Minor Boon",
             "name": "Urgathoa - Minor Boon",
-            "description": "<p><strong>Bénédiction mineure</strong> Vous festoyez sur les déchets de lavie et de lamort.</p>\n<p>Vous obtenez les avantages de l'héritage @Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]{Gobelin boyaud'fer}, quel que soit votre ascendance. Si vous possédez déjà cet héritage, le bonus de circonstance passe à +4.</p>"
+            "description": "<p><strong>Bénédiction mineure</strong> Vous festoyez sur les déchets de lavie et de lamort.</p>\n<p>Vous obtenez les avantages de l'héritage @Compendium[pf2e.ancestryfeatures.gyoN45SVfRZwHMkk]{Gobelin boyaud'fer}, quel que soit votre ascendance. Si vous possédez déjà cet héritage, le bonus de circonstances passe à +4.</p>"
         },
         {
             "id": "Gozreh - Minor Curse",
             "name": "Gozreh - Minor Curse",
-            "description": "<p><strong>Malédiction mineure</strong> Les éclairs commencent à frapper deux fois. Vous obtenz une faiblesse 5 contre l'électricité et n'importe quelle décharge d'électricité magique ou naturelle vous prend toujours pour cible au lieu de frapper les créatures autour de vous.</p>"
+            "description": "<p><strong>Malédiction mineure</strong> Les éclairs commencent à frapper deux fois. Vous obtenez une faiblesse 5 contre l'électricité et n'importe quelle décharge d'électricité magique ou naturelle vous prend toujours pour cible au lieu de frapper les créatures autour de vous.</p>"
         },
         {
             "id": "Shelyn - Minor Boon",
@@ -389,7 +389,7 @@
         {
             "id": "Lamashtu - Moderate Boon",
             "name": "Lamashtu - Moderate Boon",
-            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Vous répandez les cauchemars de Lamashtu partout où vous allez.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion} une fois par jour comme un sort inné divin.</p>"
+            "description": "<p><strong>Bénédiction modérée (quotidienne)</strong> Vous répandez les cauchemars de Lamashtu partout où vous allez.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.LiGbewa9pO0yjbsY]{Confusion}</em> une fois par jour comme un sort inné divin.</p>"
         },
         {
             "id": "Zon-Kuthon - Moderate Curse",
@@ -454,7 +454,7 @@
         {
             "id": "Urgathoa - Major Boon",
             "name": "Urgathoa - Major Boon",
-            "description": "<p><strong>Bénédiction majeure</strong> Lorsque vous contractez des maladies contagieuses, vous expérimentez des rêves prémonitoires liés à la fièvre.</p>\n<p>Une fois affligé par une maladie, Vous obtenez les effets de @Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]{Prémonition} avec vous même comme cible jusqu'à ce que vous ne soyez plus longtemps affligé par la moindre maladie.</p>"
+            "description": "<p><strong>Bénédiction majeure</strong> Lorsque vous contractez des maladies contagieuses, vous expérimentez des rêves prémonitoires liés à la fièvre.</p>\n<p>Une fois affligé par une maladie, Vous obtenez les effets de <em>@Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]{Prémonition}</em> avec vous même comme cible jusqu'à ce que vous ne soyez plus longtemps affligé par la moindre maladie.</p>"
         },
         {
             "id": "Irori - Moderate Curse",
@@ -474,12 +474,12 @@
         {
             "id": "Asmodeus - Minor Boon",
             "name": "Asmodeus - Minor Boon",
-            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Ravi de votre talent pour la manipulation, Asmodéus amplifie vos compétences. Une fois, lorsque vous manquez un test de Diplomatie pour faire une @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation} significative ou ayant des conséquences, vous pouvez lancer @Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion} sur la cible de votre @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation}, en suggérant la même évolution. C'est un sort divin inné.</p>"
+            "description": "<p><strong>Bénédiction mineure (Utilisation unique)</strong> Ravi de votre talent pour la manipulation, Asmodéus amplifie vos compétences. Une fois, lorsque vous manquez un test de Diplomatie pour faire une @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation} significative ou ayant des conséquences, vous pouvez lancer <em>@Compendium[pf2e.spells-srd.qwlh6aDgi86U3Q7H]{Suggestion}</em> sur la cible de votre @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Sollicitation}, en suggérant la même évolution. C'est un sort divin inné.</p>"
         },
         {
             "id": "Irori - Moderate Boon",
             "name": "Irori - Moderate Boon",
-            "description": "<p><strong>Bénédiction modérée</p> Votre corps se reconstruit après l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer @Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Plénitude physique} comme un sort de ki occulte. Si vous n'en aviez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation et êtes qualifié avec les attaques de sorts et les DD de sorts occultes.</p>"
+            "description": "<p><strong>Bénédiction modérée</p> Votre corps se reconstruit après l'affrontement, en devenant plus fort.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.qJZZdYBdNaWRJFER]{Plénitude physique}</em> comme un sort de ki occulte. Si vous n'en aviez pas déjà une, vous obtenez une réserve de focalisation avec 1 Point de focalisation et êtes qualifié avec les attaques de sorts et les DD de sorts occultes.</p>"
         },
         {
             "id": "Erastil - Moderate Curse",

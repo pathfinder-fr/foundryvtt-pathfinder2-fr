@@ -2,11 +2,18 @@
 
  * **libre**: 176
  * **officielle**: 25
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[KaokXdiE3ewXprdL.htm](heritages/KaokXdiE3ewXprdL.htm)|Pine Leshy|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

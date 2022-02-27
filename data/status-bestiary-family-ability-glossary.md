@@ -1,50 +1,37 @@
 # État de la traduction (bestiary-family-ability-glossary)
 
- * **officielle**: 41
- * **libre**: 16
- * **aucune**: 36
- * **changé**: 58
+ * **officielle**: 62
+ * **libre**: 29
+ * **changé**: 37
+ * **aucune**: 23
 
 
-Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[49aAeGbH5p2IJ5Fz.htm](bestiary-family-ability-glossary/49aAeGbH5p2IJ5Fz.htm)|(Kuworsys) Rapid Bombadment|
-|[9wX6EFimVFYFZjD7.htm](bestiary-family-ability-glossary/9wX6EFimVFYFZjD7.htm)|(Ulgrem-Axaan) Ichor Coating|
-|[awFTdoQfYva84HkU.htm](bestiary-family-ability-glossary/awFTdoQfYva84HkU.htm)|(Ulgrem-Axaan) Befouling Odor|
-|[d6eWuFd6pw6ffvPC.htm](bestiary-family-ability-glossary/d6eWuFd6pw6ffvPC.htm)|(Melfish Monster) Swell|
-|[eXleBXdAemiEoHA8.htm](bestiary-family-ability-glossary/eXleBXdAemiEoHA8.htm)|(Nymph Queen) Change Shape|
-|[G4yIjHMzD0KVpaCm.htm](bestiary-family-ability-glossary/G4yIjHMzD0KVpaCm.htm)|(Melfish Monster) Burrowing Grasp|
-|[hEWAzlIoJg3NzA7Q.htm](bestiary-family-ability-glossary/hEWAzlIoJg3NzA7Q.htm)|(Spring-Heeled Jack) Change Shape|
-|[HKFoOZZV4WdjkeeJ.htm](bestiary-family-ability-glossary/HKFoOZZV4WdjkeeJ.htm)|(Protean) Warpwave|
-|[i4WBOAb7CmY53doM.htm](bestiary-family-ability-glossary/i4WBOAb7CmY53doM.htm)|(Melfish Monster) False Synapses|
-|[IFQd4GiHlV33p7oK.htm](bestiary-family-ability-glossary/IFQd4GiHlV33p7oK.htm)|(Nymph Queen) Inspiration|
-|[iiIhLkjuPYJ93Upw.htm](bestiary-family-ability-glossary/iiIhLkjuPYJ93Upw.htm)|(Melfish Monster) Smolderstench|
+|[i4WBOAb7CmY53doM.htm](bestiary-family-ability-glossary/i4WBOAb7CmY53doM.htm)|(Melfesh Monster) False Synapses|
 |[IOk0MRs3f9FrarKL.htm](bestiary-family-ability-glossary/IOk0MRs3f9FrarKL.htm)|(Protean) Protean Anatomy|
-|[jjWisLWwcdxsqv8o.htm](bestiary-family-ability-glossary/jjWisLWwcdxsqv8o.htm)|(Kallas Devil) Blameless|
-|[kG4fDd16fYEFvmgy.htm](bestiary-family-ability-glossary/kG4fDd16fYEFvmgy.htm)|(Nymph Queen) Nymph's Beauty|
-|[KJrQdJQ0ZEmKYH4Y.htm](bestiary-family-ability-glossary/KJrQdJQ0ZEmKYH4Y.htm)|(Kallas Devil) Suffer the Children|
 |[KwmYKsaXHKfZgB2c.htm](bestiary-family-ability-glossary/KwmYKsaXHKfZgB2c.htm)|(Spring-Heeled Jack) Vanishing Leap|
 |[LOd8QwaKP3hnyGkc.htm](bestiary-family-ability-glossary/LOd8QwaKP3hnyGkc.htm)|(Kallas Devil) Cold Currents|
 |[na1WJDEaoqpcQuOR.htm](bestiary-family-ability-glossary/na1WJDEaoqpcQuOR.htm)|(Kallas Devil) Infectious Water|
 |[NSO2l1jXK32oTnVP.htm](bestiary-family-ability-glossary/NSO2l1jXK32oTnVP.htm)|(Kallas Devil)  Freezing Touch|
-|[oD1cA9uXYQ8evT8f.htm](bestiary-family-ability-glossary/oD1cA9uXYQ8evT8f.htm)|(Melfish Monster) Vent Flames|
+|[oD1cA9uXYQ8evT8f.htm](bestiary-family-ability-glossary/oD1cA9uXYQ8evT8f.htm)|(Melfesh Monster) Vent Flames|
 |[pEJkjqjjBXj4YjYZ.htm](bestiary-family-ability-glossary/pEJkjqjjBXj4YjYZ.htm)|(Kuworsys) Careless Block|
 |[PjYwPIUUrirQFiee.htm](bestiary-family-ability-glossary/PjYwPIUUrirQFiee.htm)|(Kallas Devil) Underwater Views|
 |[qlNOqsfJH2gj7DCs.htm](bestiary-family-ability-glossary/qlNOqsfJH2gj7DCs.htm)|(Kallas Devil) Waterfall Torrent|
-|[qs21GajPmFYel3pc.htm](bestiary-family-ability-glossary/qs21GajPmFYel3pc.htm)|(Melfish Monster) Corpse Bomb|
+|[qs21GajPmFYel3pc.htm](bestiary-family-ability-glossary/qs21GajPmFYel3pc.htm)|(Melfesh Monster) Corpse Bomb|
 |[RQ9NaIerG95wkhjl.htm](bestiary-family-ability-glossary/RQ9NaIerG95wkhjl.htm)|(Ulgrem-Axaan) Fallen Victim|
 |[RvzFTym3r22VhMrm.htm](bestiary-family-ability-glossary/RvzFTym3r22VhMrm.htm)|(Kuworsys) Smash and Grab|
 |[SEmSk1INZDmeoB5R.htm](bestiary-family-ability-glossary/SEmSk1INZDmeoB5R.htm)|(Nymph Queen) Focus Beauty|
-|[tQY2xmcIhzCM7oCC.htm](bestiary-family-ability-glossary/tQY2xmcIhzCM7oCC.htm)|(Melfish Monster) Torrential Advance|
+|[tQY2xmcIhzCM7oCC.htm](bestiary-family-ability-glossary/tQY2xmcIhzCM7oCC.htm)|(Melfesh Monster) Torrential Advance|
 |[UHuA1hue5xrRM6KK.htm](bestiary-family-ability-glossary/UHuA1hue5xrRM6KK.htm)|(Nymph Queen) Tied to the Land|
-|[UOqq8lkBPcPtKoCN.htm](bestiary-family-ability-glossary/UOqq8lkBPcPtKoCN.htm)|(Melfish Monster) Flame Lash|
-|[VXKiqiW7gXfFCz1U.htm](bestiary-family-ability-glossary/VXKiqiW7gXfFCz1U.htm)|(Melfish Monster) Mycelial Tomb|
-|[wdO3EvDCGoDYW44S.htm](bestiary-family-ability-glossary/wdO3EvDCGoDYW44S.htm)|(Melfish Monster) Death Throes|
+|[UOqq8lkBPcPtKoCN.htm](bestiary-family-ability-glossary/UOqq8lkBPcPtKoCN.htm)|(Melfesh Monster) Flame Lash|
+|[VXKiqiW7gXfFCz1U.htm](bestiary-family-ability-glossary/VXKiqiW7gXfFCz1U.htm)|(Melfesh Monster) Mycelial Tomb|
+|[wdO3EvDCGoDYW44S.htm](bestiary-family-ability-glossary/wdO3EvDCGoDYW44S.htm)|(Melfesh Monster) Death Throes|
 |[WtRxZEPH963RkUCj.htm](bestiary-family-ability-glossary/WtRxZEPH963RkUCj.htm)|(Kuworsys) Rain Blows|
 |[Y46uZK6X7J7iMsgq.htm](bestiary-family-ability-glossary/Y46uZK6X7J7iMsgq.htm)|(Ulgrem-Axaan) Crocodile Tears|
 |[yaDe9hO9fm2N4SqH.htm](bestiary-family-ability-glossary/yaDe9hO9fm2N4SqH.htm)|(Spring-Heeled Jack) Resonant Terror|
@@ -54,39 +41,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[5dbzWZbiTyPKgwKS.htm](bestiary-family-ability-glossary/5dbzWZbiTyPKgwKS.htm)|(Graveknight) Graveknight's Curse|(Chevalier sépulcre) Malédiction du chevalier sépulcre|changé|
-|[5lv9r2ubDCov4dFn.htm](bestiary-family-ability-glossary/5lv9r2ubDCov4dFn.htm)|(Ghost) Pyre's Memory|(Fantôme) Mémoire de bûcher funéraire|changé|
-|[6Alm4mLj3ORxCXC2.htm](bestiary-family-ability-glossary/6Alm4mLj3ORxCXC2.htm)|(Ravener) Cowering Fear|(Dévoreur draconique) Recroquevillé de terreur|changé|
-|[6isn9nqnvfRrC1wW.htm](bestiary-family-ability-glossary/6isn9nqnvfRrC1wW.htm)|(Graveknight) Weapon Master|(Chevalier sépulcre) Maître d'armes|changé|
-|[871jo3ZGnybF6dC8.htm](bestiary-family-ability-glossary/871jo3ZGnybF6dC8.htm)|(Lich) Blasphemous Utterances|(Liche) Paroles blasphématoires|changé|
-|[98twzz56mMGN5Ftw.htm](bestiary-family-ability-glossary/98twzz56mMGN5Ftw.htm)|(Vampire, Vrykolakas) Drink Blood|(Vampire, vrykolakas) Boire le sang|changé|
-|[aiwlPSmNY9b6Psvd.htm](bestiary-family-ability-glossary/aiwlPSmNY9b6Psvd.htm)|(Ghost) Frightful Moan|(Fantôme) Lamentation d'épouvante|changé|
-|[AydIHjDNbOZizj5U.htm](bestiary-family-ability-glossary/AydIHjDNbOZizj5U.htm)|(Ghost) Cold Spot|(Fantôme) Point froid|changé|
-|[bTJnxBQjr7G8yr30.htm](bestiary-family-ability-glossary/bTJnxBQjr7G8yr30.htm)|(Graveknight) Sacrilegious Aura|(Chevalier sépulcre) Aura sacrilège|changé|
-|[bVZ6KizWVTLJUBXi.htm](bestiary-family-ability-glossary/bVZ6KizWVTLJUBXi.htm)|(Ghast) Paralysis|(Blême) Paralysie|changé|
-|[c04ICnrzygyFG3PK.htm](bestiary-family-ability-glossary/c04ICnrzygyFG3PK.htm)|(Vampire, Basic) Drink Blood|(Vampire, de base) Boire le sang|changé|
-|[CxiEpXt7Gw3tSIOh.htm](bestiary-family-ability-glossary/CxiEpXt7Gw3tSIOh.htm)|(Zombie) Rotting Aura|(Zombie) Aura de pourrissement|changé|
-|[eSp48kG7v1GNuGgh.htm](bestiary-family-ability-glossary/eSp48kG7v1GNuGgh.htm)|(Visitant) Vengeful Presence|(Revenant) Présence vengeresse|changé|
-|[FA0ri2fAcMa1HgZe.htm](bestiary-family-ability-glossary/FA0ri2fAcMa1HgZe.htm)|(Werecreature) Moon Frenzy|(Créature garou) Frénésie lunaire|changé|
-|[fmUBaLklyVmNt3VD.htm](bestiary-family-ability-glossary/fmUBaLklyVmNt3VD.htm)|(Graveknight) Clutching Armor|(Chevalier sépulcre) Armure agrippante|changé|
-|[fqZhojt2M5LfSKSH.htm](bestiary-family-ability-glossary/fqZhojt2M5LfSKSH.htm)|(Lich) Drain Soul Cage|(Liche) Canaliser le phylactère|changé|
-|[FsqVhavMWAoFro1L.htm](bestiary-family-ability-glossary/FsqVhavMWAoFro1L.htm)|(Ravener) Soul Ward|(Dévoreur draconique) Armure d’âmes|changé|
-|[fVyoHEO3fSR737M1.htm](bestiary-family-ability-glossary/fVyoHEO3fSR737M1.htm)|(Ghost) Draining Touch|(Fantôme) Toucher affaiblissant|changé|
-|[FW4KAUHb7r8WkxUc.htm](bestiary-family-ability-glossary/FW4KAUHb7r8WkxUc.htm)|(Ghoul) Paralysis|(Goule) Paralysie|changé|
-|[FXHjmH1oce7Z3tZb.htm](bestiary-family-ability-glossary/FXHjmH1oce7Z3tZb.htm)|(Vampire, Basic) Coffin Restoration|(Vampire, de base) Cercueil restorateur|changé|
-|[ga0Oj7mmjSwWQgmR.htm](bestiary-family-ability-glossary/ga0Oj7mmjSwWQgmR.htm)|(Ghost) Corrupting Gaze|(Fantôme) Regard corrupteur|changé|
-|[hA6HsM4i4yPfEsDH.htm](bestiary-family-ability-glossary/hA6HsM4i4yPfEsDH.htm)|(Ghast) Ghast Fever|(Blême) Fièvre des blêmes|changé|
-|[haMVGGDY3mLuKy9s.htm](bestiary-family-ability-glossary/haMVGGDY3mLuKy9s.htm)|(Vampire, Vrykolakas Master) Bubonic Plague|(Vampire, maître vrykolakas) Peste bubonique|changé|
-|[HLPLYJ9bOazb2ZPX.htm](bestiary-family-ability-glossary/HLPLYJ9bOazb2ZPX.htm)|(Ravener) Discorporate|(Dévoreur draconique) Dématérialisation|changé|
-|[i7m74TphAiFYvzPL.htm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Ghost) Ghost Storm|(Fantôme) Tempête Fantôme|changé|
+|[49aAeGbH5p2IJ5Fz.htm](bestiary-family-ability-glossary/49aAeGbH5p2IJ5Fz.htm)|(Kuworsys) Rapid Bombardment|(Kuworsys) Bombardement rapide|changé|
+|[d6eWuFd6pw6ffvPC.htm](bestiary-family-ability-glossary/d6eWuFd6pw6ffvPC.htm)|(Melfesh Monster) Swell|(Monstre melfesh) Gonfler|changé|
+|[G4yIjHMzD0KVpaCm.htm](bestiary-family-ability-glossary/G4yIjHMzD0KVpaCm.htm)|(Melfesh Monster) Burrowing Grasp|(Monstre melfesh) Poigne creusante|changé|
 |[ICnpftxZEilrYjn0.htm](bestiary-family-ability-glossary/ICnpftxZEilrYjn0.htm)|(Werecreature) Curse of the Werecreature|(Créature garou) Malédiction du garou|changé|
+|[iiIhLkjuPYJ93Upw.htm](bestiary-family-ability-glossary/iiIhLkjuPYJ93Upw.htm)|(Melfesh Monster) Smolderstench|(Monstre melfesh) Puanteur brûlante|changé|
 |[IxJbFJ8dG5RbZWBD.htm](bestiary-family-ability-glossary/IxJbFJ8dG5RbZWBD.htm)|(Graveknight) Devastating Blast|(Chevalier sépulcre) Déflagration dévastatrice|changé|
 |[ixPqVlqLaYTB1b23.htm](bestiary-family-ability-glossary/ixPqVlqLaYTB1b23.htm)|(Ghoul) Consume Flesh|(Goule) Dévorer la chair|changé|
 |[jD0M3yV6gjkXafsJ.htm](bestiary-family-ability-glossary/jD0M3yV6gjkXafsJ.htm)|(Divine Warden) Divine Destruction|(Garde divin) Destruction divine|changé|
 |[JSBmboE6bYVxDT9d.htm](bestiary-family-ability-glossary/JSBmboE6bYVxDT9d.htm)|(Ghost) Inhabit Object|(Fantôme) Occuper un objet|changé|
 |[jTuK430yY8VgIByB.htm](bestiary-family-ability-glossary/jTuK430yY8VgIByB.htm)|(Ghost) Haunted House|(Fantôme) Maison hantée|changé|
 |[KcUHCVhHnkMD8j3k.htm](bestiary-family-ability-glossary/KcUHCVhHnkMD8j3k.htm)|(Greater Barghest) Mutation - Toxic Breath|(Barghest supérieur) Mutation - Souffle toxique|changé|
-|[kQZ6pzdSn6FaxWF2.htm](bestiary-family-ability-glossary/kQZ6pzdSn6FaxWF2.htm)|(Vistant) Visitant Spells|(Revenant) Sorts de revenant|changé|
+|[kQZ6pzdSn6FaxWF2.htm](bestiary-family-ability-glossary/kQZ6pzdSn6FaxWF2.htm)|(Visitant) Visitant Spells|(Revenant) Sorts de revenant|changé|
 |[m6teF5ADh7vuM8Zr.htm](bestiary-family-ability-glossary/m6teF5ADh7vuM8Zr.htm)|(Ghast) Consume Flesh|(Blême) Dévorer la chair|changé|
 |[MhymIeTQoxbacG1o.htm](bestiary-family-ability-glossary/MhymIeTQoxbacG1o.htm)|(Zombie) Plague-Ridden|(Zombie) Pestiféré|changé|
 |[mwEig0MYM7EIibSU.htm](bestiary-family-ability-glossary/mwEig0MYM7EIibSU.htm)|(Greater Barghest) Mutation - Vestigial Arm Strike|(Barghest supérieur) Mutation - Frappe de membre atrophié|changé|
@@ -124,26 +90,60 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4p06ewIsPnWZwuwc.htm](bestiary-family-ability-glossary/4p06ewIsPnWZwuwc.htm)|(Ghost) Lynchpin|(Fantôme) Pilier|libre|
 |[4UEZY3G3CiCP78Kx.htm](bestiary-family-ability-glossary/4UEZY3G3CiCP78Kx.htm)|(Visitant) Wrestle|(Revenant) Lutte|officielle|
 |[5arYoSY5kcRo8TeM.htm](bestiary-family-ability-glossary/5arYoSY5kcRo8TeM.htm)|(Vampire, Vrykolakas) Vrykolakas Vulnerabilities|(Vampire, Vrykolakas) Vulnérabilités des vrykolakas|officielle|
+|[5dbzWZbiTyPKgwKS.htm](bestiary-family-ability-glossary/5dbzWZbiTyPKgwKS.htm)|(Graveknight) Graveknight's Curse|(Chevalier sépulcre) Malédiction du chevalier sépulcre|officielle|
 |[5DuBTf37u88IrphJ.htm](bestiary-family-ability-glossary/5DuBTf37u88IrphJ.htm)|(Vampire, Basic) Vampire Weaknesses|(Vampire, de base) Faiblesses du vampire|officielle|
+|[5lv9r2ubDCov4dFn.htm](bestiary-family-ability-glossary/5lv9r2ubDCov4dFn.htm)|(Ghost) Pyre's Memory|(Fantôme) Mémoire de bûcher funéraire|libre|
+|[6Alm4mLj3ORxCXC2.htm](bestiary-family-ability-glossary/6Alm4mLj3ORxCXC2.htm)|(Ravener) Cowering Fear|(Dévoreur draconique) Recroquevillé de terreur|officielle|
+|[6isn9nqnvfRrC1wW.htm](bestiary-family-ability-glossary/6isn9nqnvfRrC1wW.htm)|(Graveknight) Weapon Master|(Chevalier sépulcre) Maître d'armes|officielle|
 |[7jWANvnDmNcQvFve.htm](bestiary-family-ability-glossary/7jWANvnDmNcQvFve.htm)|(Graveknight) Ruinous Weapons|(Chevalier sépulcre) Armes du désastre|officielle|
+|[871jo3ZGnybF6dC8.htm](bestiary-family-ability-glossary/871jo3ZGnybF6dC8.htm)|(Lich) Blasphemous Utterances|(Liche) Paroles blasphématoires|officielle|
+|[98twzz56mMGN5Ftw.htm](bestiary-family-ability-glossary/98twzz56mMGN5Ftw.htm)|(Vampire, Vrykolakas) Drink Blood|(Vampire, vrykolakas) Boire le sang|officielle|
 |[9oy2zWxy7Klk9FxR.htm](bestiary-family-ability-glossary/9oy2zWxy7Klk9FxR.htm)|(Skeleton) Blaze|(Squelette) Embrasement|libre|
+|[9wX6EFimVFYFZjD7.htm](bestiary-family-ability-glossary/9wX6EFimVFYFZjD7.htm)|(Ulgrem-Axaan) Ichor Coating|(Ulgrem-Axaan) Couvert d'ichor|libre|
 |[a7A4xY3NeWI2Ya4Z.htm](bestiary-family-ability-glossary/a7A4xY3NeWI2Ya4Z.htm)|(Lich) Rejuvenation|(Liche) Reconstruction|officielle|
+|[aiwlPSmNY9b6Psvd.htm](bestiary-family-ability-glossary/aiwlPSmNY9b6Psvd.htm)|(Ghost) Frightful Moan|(Fantôme) Lamentation d'épouvante|officielle|
 |[AjTkksppymqzCivT.htm](bestiary-family-ability-glossary/AjTkksppymqzCivT.htm)|(Vampire, True) Dominate|(Vampire, véritable) Domination|officielle|
+|[awFTdoQfYva84HkU.htm](bestiary-family-ability-glossary/awFTdoQfYva84HkU.htm)|(Ulgrem-Axaan) Befouling Odor|(Ulgrem-Axaan) Odeur de souillure|libre|
+|[AydIHjDNbOZizj5U.htm](bestiary-family-ability-glossary/AydIHjDNbOZizj5U.htm)|(Ghost) Cold Spot|(Fantôme) Point froid|libre|
 |[b3p8x6sgTa0BOvAb.htm](bestiary-family-ability-glossary/b3p8x6sgTa0BOvAb.htm)|(Lich) Siphon Life|(Liche) Siphonner la vie|officielle|
 |[BcSlVpaN72LoQ5BV.htm](bestiary-family-ability-glossary/BcSlVpaN72LoQ5BV.htm)|(Ghost) Site Bound|(Fantôme) Lié à un site|officielle|
 |[BgbSHRdkGH7raOgA.htm](bestiary-family-ability-glossary/BgbSHRdkGH7raOgA.htm)|(Graveknight) Phantom Mount|(Chevalier sépulcre) Monture fantôme|officielle|
 |[br5Oup4USIUXQani.htm](bestiary-family-ability-glossary/br5Oup4USIUXQani.htm)|(Vampire, Vrykolakas) Swift Tracker|(Vampire, vrykolakas) Pistage accéléré|officielle|
 |[BSLqIYqxcCVBb2Vp.htm](bestiary-family-ability-glossary/BSLqIYqxcCVBb2Vp.htm)|(Zombie) Unkillable|(Zombie) Intuable|officielle|
+|[bTJnxBQjr7G8yr30.htm](bestiary-family-ability-glossary/bTJnxBQjr7G8yr30.htm)|(Graveknight) Sacrilegious Aura|(Chevalier sépulcre) Aura sacrilège|officielle|
+|[bVZ6KizWVTLJUBXi.htm](bestiary-family-ability-glossary/bVZ6KizWVTLJUBXi.htm)|(Ghast) Paralysis|(Blême) Paralysie|officielle|
+|[c04ICnrzygyFG3PK.htm](bestiary-family-ability-glossary/c04ICnrzygyFG3PK.htm)|(Vampire, Basic) Drink Blood|(Vampire, de base) Boire le sang|officielle|
+|[CxiEpXt7Gw3tSIOh.htm](bestiary-family-ability-glossary/CxiEpXt7Gw3tSIOh.htm)|(Zombie) Rotting Aura|(Zombie) Aura de pourrissement|officielle|
 |[cYkEpJzpMu3mCrFc.htm](bestiary-family-ability-glossary/cYkEpJzpMu3mCrFc.htm)|(Ghost) Phantasmagoria|(Fantôme) Phantasmagorie|libre|
 |[DlHTe9jLssEELY6a.htm](bestiary-family-ability-glossary/DlHTe9jLssEELY6a.htm)|(Divine Warden) Divine Innate Spells|(Garde divin) Sorts divins innés|libre|
 |[EM6YZCt6vFCFhXmb.htm](bestiary-family-ability-glossary/EM6YZCt6vFCFhXmb.htm)|(Goblin) Goblin Scuttle|(Gobelin) Précipitation gobeline|officielle|
+|[eSp48kG7v1GNuGgh.htm](bestiary-family-ability-glossary/eSp48kG7v1GNuGgh.htm)|(Visitant) Vengeful Presence|(Revenant) Présence vengeresse|officielle|
+|[eXleBXdAemiEoHA8.htm](bestiary-family-ability-glossary/eXleBXdAemiEoHA8.htm)|(Nymph Queen) Change Shape|(Reine Nymphe) Changement de forme|libre|
+|[FA0ri2fAcMa1HgZe.htm](bestiary-family-ability-glossary/FA0ri2fAcMa1HgZe.htm)|(Werecreature) Moon Frenzy|(Créature garou) Frénésie lunaire|officielle|
+|[fmUBaLklyVmNt3VD.htm](bestiary-family-ability-glossary/fmUBaLklyVmNt3VD.htm)|(Graveknight) Clutching Armor|(Chevalier sépulcre) Armure agrippante|libre|
+|[fqZhojt2M5LfSKSH.htm](bestiary-family-ability-glossary/fqZhojt2M5LfSKSH.htm)|(Lich) Drain Soul Cage|(Liche) Canaliser le phylactère|officielle|
+|[FsqVhavMWAoFro1L.htm](bestiary-family-ability-glossary/FsqVhavMWAoFro1L.htm)|(Ravener) Soul Ward|(Dévoreur draconique) Armure d’âmes|officielle|
 |[fTk5nmm7HHtXOdSo.htm](bestiary-family-ability-glossary/fTk5nmm7HHtXOdSo.htm)|(Lich) Dark Deliverance|(Liche) Sombre salut|officielle|
+|[fVyoHEO3fSR737M1.htm](bestiary-family-ability-glossary/fVyoHEO3fSR737M1.htm)|(Ghost) Draining Touch|(Fantôme) Toucher affaiblissant|officielle|
+|[FW4KAUHb7r8WkxUc.htm](bestiary-family-ability-glossary/FW4KAUHb7r8WkxUc.htm)|(Ghoul) Paralysis|(Goule) Paralysie|officielle|
+|[FXHjmH1oce7Z3tZb.htm](bestiary-family-ability-glossary/FXHjmH1oce7Z3tZb.htm)|(Vampire, Basic) Coffin Restoration|(Vampire, de base) Cercueil restorateur|officielle|
 |[fYDrunTldWmFvfjl.htm](bestiary-family-ability-glossary/fYDrunTldWmFvfjl.htm)|(Ravener) Soulsense|(Dévoreur draconique) Perception de l’âme|officielle|
+|[ga0Oj7mmjSwWQgmR.htm](bestiary-family-ability-glossary/ga0Oj7mmjSwWQgmR.htm)|(Ghost) Corrupting Gaze|(Fantôme) Regard corrupteur|officielle|
+|[hA6HsM4i4yPfEsDH.htm](bestiary-family-ability-glossary/hA6HsM4i4yPfEsDH.htm)|(Ghast) Ghast Fever|(Blême) Fièvre des blêmes|officielle|
+|[haMVGGDY3mLuKy9s.htm](bestiary-family-ability-glossary/haMVGGDY3mLuKy9s.htm)|(Vampire, Vrykolakas Master) Bubonic Plague|(Vampire, maître vrykolakas) Peste bubonique|officielle|
 |[HdSaMUb4uEsbtQTn.htm](bestiary-family-ability-glossary/HdSaMUb4uEsbtQTn.htm)|(Skeleton) Skeleton of Roses|(Squelette) Squelette de roses|libre|
+|[hEWAzlIoJg3NzA7Q.htm](bestiary-family-ability-glossary/hEWAzlIoJg3NzA7Q.htm)|(Spring-Heeled Jack) Change Shape|(Jack à ressort) Changement de forme|libre|
+|[HKFoOZZV4WdjkeeJ.htm](bestiary-family-ability-glossary/HKFoOZZV4WdjkeeJ.htm)|(Protean) Warpwave|(Protéen) Vagues de distorsion|libre|
+|[HLPLYJ9bOazb2ZPX.htm](bestiary-family-ability-glossary/HLPLYJ9bOazb2ZPX.htm)|(Ravener) Discorporate|(Dévoreur draconique) Dématérialisation|officielle|
+|[i7m74TphAiFYvzPL.htm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Ghost) Ghost Storm|(Fantôme) Tempête Fantôme|libre|
 |[iAXHLkxuuCUOwqkN.htm](bestiary-family-ability-glossary/iAXHLkxuuCUOwqkN.htm)|(Werecreature) Animal Empathy|(Créature garou) Empathie animale|officielle|
+|[IFQd4GiHlV33p7oK.htm](bestiary-family-ability-glossary/IFQd4GiHlV33p7oK.htm)|(Nymph Queen) Inspiration|(Reine nymphe) Inspiration|libre|
 |[ipGBYIXk4u47Mp1D.htm](bestiary-family-ability-glossary/ipGBYIXk4u47Mp1D.htm)|(Zombie) Feast|(Zombie) Festoyer|officielle|
 |[iwLj14liESK5OBN8.htm](bestiary-family-ability-glossary/iwLj14liESK5OBN8.htm)|(Ghost) Malevolent Possession|(Fantôme) Possession malveillante|officielle|
+|[jjWisLWwcdxsqv8o.htm](bestiary-family-ability-glossary/jjWisLWwcdxsqv8o.htm)|(Kallas Devil) Blameless|(Diablesse Kallas) Irréprochable|libre|
 |[K5bNE90vmeFzktnM.htm](bestiary-family-ability-glossary/K5bNE90vmeFzktnM.htm)|(Skeleton) Collapse|(Squelette) Écroulement|officielle|
+|[kG4fDd16fYEFvmgy.htm](bestiary-family-ability-glossary/kG4fDd16fYEFvmgy.htm)|(Nymph Queen) Nymph's Beauty|(Reine nymphe) Beauté de la reine|libre|
+|[KJrQdJQ0ZEmKYH4Y.htm](bestiary-family-ability-glossary/KJrQdJQ0ZEmKYH4Y.htm)|(Kallas Devil) Suffer the Children|(Diablesse kallas) Subir les enfants|libre|
 |[L80gn6WOWi9roJW3.htm](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)|(Divine Warden) Instrument of Faith|(Garde divin) Instrument de foi|libre|
 |[MAC97gjFcdiqLyhp.htm](bestiary-family-ability-glossary/MAC97gjFcdiqLyhp.htm)|(Skeleton) Screaming Skull|(Squelette) Crâne hurlant|officielle|
 |[mEbrInCpag7YThH2.htm](bestiary-family-ability-glossary/mEbrInCpag7YThH2.htm)|(Dragon) Change Shape|(Dragon) Changement de forme|officielle|

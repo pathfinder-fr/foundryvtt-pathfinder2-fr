@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-effects)
 
- * **libre**: 32
+ * **libre**: 33
  * **vide**: 10
  * **aucune**: 86
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-02-20 13:53 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -90,6 +90,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vUFIbQ74jz22rOXw.htm](bestiary-effects/vUFIbQ74jz22rOXw.htm)|Effect: Mortal Reflection|
 |[Vz9Cb8FEzNwfH3mE.htm](bestiary-effects/Vz9Cb8FEzNwfH3mE.htm)|Effect: Breach the Abyss - Negative|
 |[WfiaKdXNSxC3POcs.htm](bestiary-effects/WfiaKdXNSxC3POcs.htm)|Effect: Bosun's Command - Attack Bonus|
+|[wHQZO70bSECtSUZn.htm](bestiary-effects/wHQZO70bSECtSUZn.htm)|Effect: Ancestral Journey|
 |[wJsOZsYI2ZUVcGxc.htm](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)|Effect: Fiddle|
 |[wPIGBcpCqCWgrCiq.htm](bestiary-effects/wPIGBcpCqCWgrCiq.htm)|Effect: Blood Soak|
 |[wX9L6fbqVMLP05hn.htm](bestiary-effects/wX9L6fbqVMLP05hn.htm)|Effect: Stench|
@@ -99,7 +100,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[YIXeQFdrt0vPvmsW.htm](bestiary-effects/YIXeQFdrt0vPvmsW.htm)|Effect: Snake Form|
 |[Yqq4AkZ9lrm4CcID.htm](bestiary-effects/Yqq4AkZ9lrm4CcID.htm)|Effect: Battle Cry|
 |[yrenENpzVgBKsnNi.htm](bestiary-effects/yrenENpzVgBKsnNi.htm)|Effect: Alchemical Strike|
-|[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -157,3 +157,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dVVc5MYx4G3QPHoa.htm](bestiary-effects/dVVc5MYx4G3QPHoa.htm)|Effect: Guildmaster's Lead|Effet : Conduite du Maître de guilde|libre|
 |[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|Effet : Festin inspiré|libre|
 |[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|Effets : Spores brillantes|libre|
+|[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|Effet : Rune de flammes (épée à deux mains)|libre|
