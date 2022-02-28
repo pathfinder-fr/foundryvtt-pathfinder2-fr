@@ -1,7 +1,6 @@
 Name: Singularity Ammunition
 Nom: Munition de sigularité
-État: changé
-État d'origine: libre
+État: libre
 
 ------ Description (en) ------
 <p><strong>Ammunition</strong> Any</p>
@@ -12,4 +11,4 @@ Nom: Munition de sigularité
 <p><strong>Munitions</strong> Toutes</p>
 <p><strong>Activation</strong> <span class="pf2-icon">1</span> Interagir</p>
 <hr />
-<p>Les munitions de singularité semblent attirer la lumière autour d'elles, tourbillonnant le long de la surface en formant un motif brumeux. Une flèche de singularité activée crée une forte force gravitationnelle, centrée sur la créature touchée. Toutes les créatures situées dans une <span data-pf2-effect-area="emanation" data-pf2-distance="10">émanation de 3 mètres</span> autour de la cible doivent réussir un jet de <span data-pf2-check="fortitude" data-pf2-traits="uncommon,ammunition,consumable,evocation,magical" data-pf2-label="DD pour résister à l'attraction" data-pf2-dc="30" data-pf2-show-dc="gm">Vigueur</span> DD 30 ou être attirée 1,5 mètres plus près de la cible. La singularité explose alors, infligeant [[/r {7d12}[bludgeoning]]]{7d12 dégâts contondants} à la cible initiale et à toutes les créatures dans une <span data-pf2-effect-area="emanation" data-pf2-distance="5">émanation de 1,5 mètres</span> (<span data-pf2-check="reflex" data-pf2-traits="uncommon,ammunition,consumable,evocation,magical,damaging-effect" data-pf2-label="DD éviter les dégats de la munition" data-pf2-dc="28" data-pf2-show-dc="gm">Réflexes basique</span>) DD 28.</p>
+<p>Les munitions de singularité semblent attirer la lumière autour d'elles, tourbillonnant le long de la surface en formant un motif brumeux. Une flèche de singularité activée crée une forte force gravitationnelle, centrée sur la créature touchée. Toutes les créatures situées dans une @Template[type:emanation|distance:10]>{émanation de 3 mètres} autour de la cible doivent réussir un jet de @Check[type:fortitude|dc:30|name:Resist Singularity Ammunition Pull|traits:uncommon]{Vigueur DD 30} ou être attirée 1,5 mètres plus près de la cible. La singularité explose alors, infligeant [[/r {7d12}[bludgeoning]]]{7d12 dégâts contondants} à la cible initiale et à toutes les créatures dans une @Template[type:emanation|distance:5]{émanation de 1,5 mètres} (@Check[type:reflex|dc:28|basic:true|name:Resist Singularity Ammunition Pull|traits:uncommon]{Réflexes basique DD 28}.</p>
