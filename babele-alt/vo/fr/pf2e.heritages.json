@@ -322,6 +322,11 @@
             "description": "<p>Une trace de magie draconique coule à travers vos veines. Choisissez un tour de magie de la liste de sort arcanique. Vous pouvez Lancer ce sort comme un sort inné arcanique à volonté. Un tour de magie est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au supérieur. Vous devenez qualifié en jets d'attaque de sorts arcaniques et en DD de sort et votre caractéristique essentielle d'incantation est le Charisme.</p>"
         },
         {
+            "id": "Pine Leshy",
+            "name": "Pine Leshy",
+            "description": "<p>Vous excrétez de votre chair semblable à l'écorce une sève épaisse et collante, vous facilitant l'escalade et rafermissant la poigne sur votre équipement. Vous obtenez le don @Compendium[pf2e.feats-srd.09PurtIanNUPfNRq]{Combattant-grimpeur} en don supplémentaire et vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes contre les tentatives pour vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}.</p>"
+        },
+        {
             "id": "Nightglider Strix",
             "name": "Nightglider Strix",
             "description": "<p>Vous êtes un oiseau nocturne, conservant la veille et chassant dans les environnements les plus dépourvus de lumière. Vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir}.</p>"

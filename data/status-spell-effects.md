@@ -3,10 +3,10 @@
  * **libre**: 350
  * **officielle**: 23
  * **changé**: 12
- * **aucune**: 7
+ * **aucune**: 8
 
 
-Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,6 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-JhihziXQuoteftdd.htm](spell-effects/01-JhihziXQuoteftdd.htm)|Spell Effect: Lay on Hands (Vs. Undead)|
+|[01-Qr5rgoZvI4KmFY0N.htm](spell-effects/01-Qr5rgoZvI4KmFY0N.htm)|Spell Effect: Calm Emotions|
 |[03-LldX5hnNhKzGtOS0.htm](spell-effects/03-LldX5hnNhKzGtOS0.htm)|Spell Effect: Elemental Absorption|
 |[04-6GAztnHuQSwAp1k1.htm](spell-effects/04-6GAztnHuQSwAp1k1.htm)|Spell Effect: Adaptive Ablation|
 |[04-DHYWmMGmKOpRSqza.htm](spell-effects/04-DHYWmMGmKOpRSqza.htm)|Spell Effect: Chromatic Armor|

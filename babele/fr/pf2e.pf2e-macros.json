@@ -47,11 +47,6 @@
             "description": ""
         },
         {
-            "id": "Take Cover",
-            "name": "Se mettre à l'abri",
-            "description": ""
-        },
-        {
             "id": "Open Compendium Browser",
             "name": "Ouvrir le navigateur de compendium",
             "description": ""

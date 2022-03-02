@@ -1,9 +1,9 @@
 # État de la traduction (pf2e-macros)
 
- * **libre**: 11
+ * **libre**: 10
 
 
-Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -15,7 +15,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4nEbRlo2cB9KkK7T.htm](pf2e-macros/4nEbRlo2cB9KkK7T.htm)|Toggle Mountain Stance|(Dés)activer posture de la montagne|libre|
 |[6duZj0Ygiqv712rq.htm](pf2e-macros/6duZj0Ygiqv712rq.htm)|Treat Wounds|Soigner les blessures|libre|
 |[aS6F7PSUlS9JM5jr.htm](pf2e-macros/aS6F7PSUlS9JM5jr.htm)|Take a Breather|Faire une pause|libre|
-|[jO4Ipjz3BGo6ZzG9.htm](pf2e-macros/jO4Ipjz3BGo6ZzG9.htm)|Take Cover|Se mettre à l'abri|libre|
 |[MAHxEeGf31wqv3jp.htm](pf2e-macros/MAHxEeGf31wqv3jp.htm)|XP|PX|libre|
 |[mxHKWibjPrgfJTDg.htm](pf2e-macros/mxHKWibjPrgfJTDg.htm)|Earn Income|Gagner de l'argent|libre|
 |[NQkc5rKoeFemdVHr.htm](pf2e-macros/NQkc5rKoeFemdVHr.htm)|Travel Duration|Durée du voyage|libre|

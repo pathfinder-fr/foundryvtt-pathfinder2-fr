@@ -1,19 +1,12 @@
 # État de la traduction (heritages)
 
- * **libre**: 176
+ * **libre**: 177
  * **officielle**: 25
- * **aucune**: 1
 
 
-Dernière mise à jour: 2022-02-27 00:44 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[KaokXdiE3ewXprdL.htm](heritages/KaokXdiE3ewXprdL.htm)|Pine Leshy|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -118,6 +111,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jEtVesbqYcWGbBYk.htm](heritages/jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|libre|
 |[K124fCpU03SJvmeP.htm](heritages/K124fCpU03SJvmeP.htm)|Warmarch Hobgoblin|Hobgobelin Marchebataille|libre|
 |[k4AU5tjtngDOIqrB.htm](heritages/k4AU5tjtngDOIqrB.htm)|Deep Fetchling (Cold)|Fetchelin des profondeurs (froid)|libre|
+|[KaokXdiE3ewXprdL.htm](heritages/KaokXdiE3ewXprdL.htm)|Pine Leshy|Léchi pin|libre|
 |[KbG2BZ3Sbr3xU1sW.htm](heritages/KbG2BZ3Sbr3xU1sW.htm)|Pixie|Pixie|libre|
 |[KcozzlkFAqShDEzo.htm](heritages/KcozzlkFAqShDEzo.htm)|Stronggut Shisk|Shisk aux instestins solides|libre|
 |[kHHcvJBJNiPJTuna.htm](heritages/kHHcvJBJNiPJTuna.htm)|Wisp Fetchling|Fetchelin volute|libre|

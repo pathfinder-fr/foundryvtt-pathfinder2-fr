@@ -1294,6 +1294,11 @@
             "description": "<p>Vous clignotez entre le plan matériel et éthéré. Vous gagnez une résistance de 5 à tous les dégâts (sauf de force). Vous pouvez Maintenir le sort pour disparaître et réapparaître à 3 mètres dans une direction aléatoire déterminée par le MJ. Ce mouvement ne déclenche pas de réaction. À la fin de votre tour, vous disparaissez et réapparaissez comme dit précédemment.</p>\n<p>@Compendium[pf2e.spell-effects.ZlsuhS9J0S3PuvCO]{Effet : Clignotement}</p>\n<hr />\n<p><strong>Intensifié (+2)</strong>La résistance augmente de 3</p>"
         },
         {
+            "id": "Bone Spray",
+            "name": "Bone Spray (Aspersion d'os)",
+            "description": "<p>Vous lancez un torrent d'échardes déchiquetées d'os de vos mains, infligeant 2d10 dégâts perfrants et [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistants} à toutes les créatures dans la zone.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts perforants augmentent de 1d10 et les dégâts de saignement persistants augmentent de 1 ([[/r (@spell.level-1)[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]).</p>"
+        },
+        {
             "id": "Unimpeded Stride",
             "name": "Unimpeded Stride (Déplacement sans réserve)",
             "description": "<p>Rien ne peut vous clouer sur place.</p>\n<p>Vous évitez immédiatement tous les effets magiques susceptibles de vous @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobiliser} ou de vous @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoigner}, à moins qu’ils soient d’un niveau supérieur à celui de votre déplacement sans entrave. Vous Marchez rapidement ensuite. Durant ce déplacement, vous ignorez le terrain difficile et tous les malus de circonstances ou de statut à votre Vitesse </p>"
