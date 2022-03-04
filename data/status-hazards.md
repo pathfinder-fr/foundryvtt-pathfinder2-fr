@@ -1,19 +1,12 @@
 # État de la traduction (hazards)
 
  * **libre**: 16
- * **officielle**: 36
- * **changé**: 1
+ * **officielle**: 37
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[A93flWUsot3FmC7t.htm](hazards/A93flWUsot3FmC7t.htm)|Yellow Mold|Moisissure jaune|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -30,6 +23,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8ewUvJlvn6LVjoXJ.htm](hazards/8ewUvJlvn6LVjoXJ.htm)|Second Chance|Deuxième chance|officielle|
 |[8gAoSgBJN8QqzP1R.htm](hazards/8gAoSgBJN8QqzP1R.htm)|Frozen Moment|Instant figé|officielle|
 |[98rS64gLzy1ReXoR.htm](hazards/98rS64gLzy1ReXoR.htm)|Hampering Web|Toile entravante|officielle|
+|[A93flWUsot3FmC7t.htm](hazards/A93flWUsot3FmC7t.htm)|Yellow Mold|Moisissure jaune|officielle|
 |[AM3YY2Zfe2ChJHd7.htm](hazards/AM3YY2Zfe2ChJHd7.htm)|Telekinetic Swarm Trap|Piège de nuée télékinésique|officielle|
 |[BHq5wpQU8hQEke8D.htm](hazards/BHq5wpQU8hQEke8D.htm)|Hidden Pit|Fosse dissimulée|officielle|
 |[BsZ6o2YrwVovKfNh.htm](hazards/BsZ6o2YrwVovKfNh.htm)|Armageddon Orb|Orbe de l'armageddon|officielle|

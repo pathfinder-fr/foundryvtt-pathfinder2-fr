@@ -22539,6 +22539,11 @@
             "description": "<p>Vous avez touché à de nombreux domaines et avez ainsi acquis des pouvoirs mineurs dans une tradition magique.</p>\n<p>Choisissez une des traditions magiques suivantes, dans laquelle vous gagnez deux tours de magie sélectionnés dans la liste des tours de magie courants : arcanique, divine, occulte ou primordiale.</p>\n<p>Vous utilisez le Charisme comme caractéristique essentielle d’incantation. Vous êtes formé aux DD et aux jets d’attaque de sorts issus de la tradition des tours de magie que vous avez choisis.</p>"
         },
         {
+            "id": "Climate Adaptation",
+            "name": "Climate Adaptation",
+            "description": "<p>À l'instar des arbres à feuilles persistantes, qui restent en bonne santé et pleins de vie de l'hiver à l'été, vous pouvez vous adapter à une variété de climats extrêmes. Vous n'êtes pas affecté par les effets environnementaux du froid ou de la chaleur et lorsque vous êtes dans un froid ou une chaleur intense, vous subissez les effets du froid ou de la chaleur moyenne. Cela ne vous protège pas contre le froid ou la chaleur extrêmes ou incroyables.</p>"
+        },
+        {
             "id": "Monastic Weaponry",
             "name": "Monastic Weaponry",
             "description": "<p>Vous êtes formé au maniement des armes traditionnelles de votre monastère ou de votre école.</p>\n<p>Vous avez accès aux armes peu courantes qui ont le trait moine et vous êtes qualifié au maniement des armes de moine simples et de guerre. Quand votre rang de maîtrise avec les attaques à mains nues passe à expert ou maître, votre rang de maîtrise avec ces armes fait de même. Vous pouvez utiliser les armes de moine de corps-à-corps avec n’importe quels dons ou capacités de moine nécessitant normalement des attaques à mains nues, mais ce n’est pas le cas si le don ou la capacité nécessite l’utilisation d’un seul type d’attaque particulier, telle que Posture de la grue.</p>"
@@ -28035,6 +28040,16 @@
             ]
         },
         {
+            "id": "Defensive Needles",
+            "name": "Defensive Needles",
+            "description": "<p>Votre corps est couverts de fines aiguilles ou d'épines que vous pouvez utiliser pour vous défendre vous-même. Chaque fois que vous êtes @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} par une créature ou qu'une créature adjacente vous touche avec une attaque à mains nues, vous vous tordez et vous débattez, en infligeant [[/r {2}[piercing]]]{2 dégâts perforants} à cette créature. Ces dégâts passent à 3 au niveau 9, à 4 au niveau 13 et à 5 au niveau 17.</p>",
+            "prereq": [
+                {
+                    "value": "Héritage Léchi cactus ou Léchi pin"
+                }
+            ]
+        },
+        {
             "id": "True Perception",
             "name": "True Perception",
             "description": "<p>Vos facultés de perception et votre capacité à interpréter les informations sensorielles sont tellement au-delà des limites que vous remarquez les moindres divergences dans toutes sortes d'illusions et de transmutations. Vous êtes constamment sous l'effet d'un sort de <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide}</em> de niveau 6, en utilisant votre modificateur de Perception pour le test de contre.</p>",
@@ -28382,6 +28397,16 @@
             ]
         },
         {
+            "id": "Towering Growth",
+            "name": "Towering Growth",
+            "description": "<p>Vous êtes capable de grandir aussi haut qu'un pin pendant un court moment. Vous obtenez le sort <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</em> au niveau 2 comme un sort primordial inné. Vous pouvez lancez ce sort deux fois par jour et vous devez vous cibler vous-même.</p>",
+            "prereq": [
+                {
+                    "value": "Héritage léchi pin"
+                }
+            ]
+        },
+        {
             "id": "Rough Rider",
             "name": "Rough Rider",
             "description": "<p>Vous êtes particulièrement bon cavalier sur les montures traditionnelles des gobelins. Vous gagnez le don @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher} même si vous n’en possédez pas les prérequis. Vous gagnez un bonus de circonstances de +1 à vos tests de Nature pour utiliser @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal} en montant un chien gobelin ou un loup. Vous avez la possibilité de choisir un loup comme compagnon animal, même si vous devriez normalement choisir un compagnon animal possédant le pouvoir spécial monture, comme c’est le cas du destrier d’un champion.</p>"
@@ -28395,6 +28420,11 @@
             "id": "Sap Life",
             "name": "Sap Life",
             "description": "<p>Vous aspirez la force vitale de vos ennemis pour soigner vos propres blessures.</p>\n<p>Quand vous lancez une mise à mal et blessez au moins une créature vivante avec ce sort, vous récupérez un nombre de points de vie égal au niveau du sort. Si vous n’êtes pas une créature vivante, vous ne pouvez pas profiter des avantages de ce don.</p>"
+        },
+        {
+            "id": "Pyrophilic Recovery",
+            "name": "Pyrophilic Recovery",
+            "description": "<p>You rely on fire and extreme heat to sprout and regrow. Whenever you take fire damage, at the beginning of your next turn, you regain Hit Points equal to half your character level (minimum 1). The total number of Hit Points you recover in this way, including any adjustments that increase the effects of healing, can't exceed half the Hit Points you lost from the fire damage you took. For example, if an effect deals 15 fire Damage and you have fire resistance 5, you would take 10 fire Damage and Pyrophilic Recovery could recover at most 5 Hit Points, regardless of any other effects that increase healing. If you take fire damage more than once before your next turn, the Hit Points recovered from Pyrophilic Recovery are cumulative, though still no more than half the fire damage taken each time.</p>"
         },
         {
             "id": "Elemental Summons",

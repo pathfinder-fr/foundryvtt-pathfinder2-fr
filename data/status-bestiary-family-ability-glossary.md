@@ -1,42 +1,13 @@
 # État de la traduction (bestiary-family-ability-glossary)
 
  * **officielle**: 62
- * **libre**: 29
+ * **libre**: 52
  * **changé**: 37
- * **aucune**: 23
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[i4WBOAb7CmY53doM.htm](bestiary-family-ability-glossary/i4WBOAb7CmY53doM.htm)|(Melfesh Monster) False Synapses|
-|[IOk0MRs3f9FrarKL.htm](bestiary-family-ability-glossary/IOk0MRs3f9FrarKL.htm)|(Protean) Protean Anatomy|
-|[KwmYKsaXHKfZgB2c.htm](bestiary-family-ability-glossary/KwmYKsaXHKfZgB2c.htm)|(Spring-Heeled Jack) Vanishing Leap|
-|[LOd8QwaKP3hnyGkc.htm](bestiary-family-ability-glossary/LOd8QwaKP3hnyGkc.htm)|(Kallas Devil) Cold Currents|
-|[na1WJDEaoqpcQuOR.htm](bestiary-family-ability-glossary/na1WJDEaoqpcQuOR.htm)|(Kallas Devil) Infectious Water|
-|[NSO2l1jXK32oTnVP.htm](bestiary-family-ability-glossary/NSO2l1jXK32oTnVP.htm)|(Kallas Devil)  Freezing Touch|
-|[oD1cA9uXYQ8evT8f.htm](bestiary-family-ability-glossary/oD1cA9uXYQ8evT8f.htm)|(Melfesh Monster) Vent Flames|
-|[pEJkjqjjBXj4YjYZ.htm](bestiary-family-ability-glossary/pEJkjqjjBXj4YjYZ.htm)|(Kuworsys) Careless Block|
-|[PjYwPIUUrirQFiee.htm](bestiary-family-ability-glossary/PjYwPIUUrirQFiee.htm)|(Kallas Devil) Underwater Views|
-|[qlNOqsfJH2gj7DCs.htm](bestiary-family-ability-glossary/qlNOqsfJH2gj7DCs.htm)|(Kallas Devil) Waterfall Torrent|
-|[qs21GajPmFYel3pc.htm](bestiary-family-ability-glossary/qs21GajPmFYel3pc.htm)|(Melfesh Monster) Corpse Bomb|
-|[RQ9NaIerG95wkhjl.htm](bestiary-family-ability-glossary/RQ9NaIerG95wkhjl.htm)|(Ulgrem-Axaan) Fallen Victim|
-|[RvzFTym3r22VhMrm.htm](bestiary-family-ability-glossary/RvzFTym3r22VhMrm.htm)|(Kuworsys) Smash and Grab|
-|[SEmSk1INZDmeoB5R.htm](bestiary-family-ability-glossary/SEmSk1INZDmeoB5R.htm)|(Nymph Queen) Focus Beauty|
-|[tQY2xmcIhzCM7oCC.htm](bestiary-family-ability-glossary/tQY2xmcIhzCM7oCC.htm)|(Melfesh Monster) Torrential Advance|
-|[UHuA1hue5xrRM6KK.htm](bestiary-family-ability-glossary/UHuA1hue5xrRM6KK.htm)|(Nymph Queen) Tied to the Land|
-|[UOqq8lkBPcPtKoCN.htm](bestiary-family-ability-glossary/UOqq8lkBPcPtKoCN.htm)|(Melfesh Monster) Flame Lash|
-|[VXKiqiW7gXfFCz1U.htm](bestiary-family-ability-glossary/VXKiqiW7gXfFCz1U.htm)|(Melfesh Monster) Mycelial Tomb|
-|[wdO3EvDCGoDYW44S.htm](bestiary-family-ability-glossary/wdO3EvDCGoDYW44S.htm)|(Melfesh Monster) Death Throes|
-|[WtRxZEPH963RkUCj.htm](bestiary-family-ability-glossary/WtRxZEPH963RkUCj.htm)|(Kuworsys) Rain Blows|
-|[Y46uZK6X7J7iMsgq.htm](bestiary-family-ability-glossary/Y46uZK6X7J7iMsgq.htm)|(Ulgrem-Axaan) Crocodile Tears|
-|[yaDe9hO9fm2N4SqH.htm](bestiary-family-ability-glossary/yaDe9hO9fm2N4SqH.htm)|(Spring-Heeled Jack) Resonant Terror|
-|[yfcqbMRmCkfPWV9O.htm](bestiary-family-ability-glossary/yfcqbMRmCkfPWV9O.htm)|(Ulgrem-Axaan) Crushing Weight|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -135,42 +106,65 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[hEWAzlIoJg3NzA7Q.htm](bestiary-family-ability-glossary/hEWAzlIoJg3NzA7Q.htm)|(Spring-Heeled Jack) Change Shape|(Jack à ressort) Changement de forme|libre|
 |[HKFoOZZV4WdjkeeJ.htm](bestiary-family-ability-glossary/HKFoOZZV4WdjkeeJ.htm)|(Protean) Warpwave|(Protéen) Vagues de distorsion|libre|
 |[HLPLYJ9bOazb2ZPX.htm](bestiary-family-ability-glossary/HLPLYJ9bOazb2ZPX.htm)|(Ravener) Discorporate|(Dévoreur draconique) Dématérialisation|officielle|
+|[i4WBOAb7CmY53doM.htm](bestiary-family-ability-glossary/i4WBOAb7CmY53doM.htm)|(Melfesh Monster) False Synapses|(Monstre melfesh) Faux synapses|libre|
 |[i7m74TphAiFYvzPL.htm](bestiary-family-ability-glossary/i7m74TphAiFYvzPL.htm)|(Ghost) Ghost Storm|(Fantôme) Tempête Fantôme|libre|
 |[iAXHLkxuuCUOwqkN.htm](bestiary-family-ability-glossary/iAXHLkxuuCUOwqkN.htm)|(Werecreature) Animal Empathy|(Créature garou) Empathie animale|officielle|
 |[IFQd4GiHlV33p7oK.htm](bestiary-family-ability-glossary/IFQd4GiHlV33p7oK.htm)|(Nymph Queen) Inspiration|(Reine nymphe) Inspiration|libre|
+|[IOk0MRs3f9FrarKL.htm](bestiary-family-ability-glossary/IOk0MRs3f9FrarKL.htm)|(Protean) Protean Anatomy|Anatomie protéenne|libre|
 |[ipGBYIXk4u47Mp1D.htm](bestiary-family-ability-glossary/ipGBYIXk4u47Mp1D.htm)|(Zombie) Feast|(Zombie) Festoyer|officielle|
 |[iwLj14liESK5OBN8.htm](bestiary-family-ability-glossary/iwLj14liESK5OBN8.htm)|(Ghost) Malevolent Possession|(Fantôme) Possession malveillante|officielle|
 |[jjWisLWwcdxsqv8o.htm](bestiary-family-ability-glossary/jjWisLWwcdxsqv8o.htm)|(Kallas Devil) Blameless|(Diablesse Kallas) Irréprochable|libre|
 |[K5bNE90vmeFzktnM.htm](bestiary-family-ability-glossary/K5bNE90vmeFzktnM.htm)|(Skeleton) Collapse|(Squelette) Écroulement|officielle|
 |[kG4fDd16fYEFvmgy.htm](bestiary-family-ability-glossary/kG4fDd16fYEFvmgy.htm)|(Nymph Queen) Nymph's Beauty|(Reine nymphe) Beauté de la reine|libre|
 |[KJrQdJQ0ZEmKYH4Y.htm](bestiary-family-ability-glossary/KJrQdJQ0ZEmKYH4Y.htm)|(Kallas Devil) Suffer the Children|(Diablesse kallas) Subir les enfants|libre|
+|[KwmYKsaXHKfZgB2c.htm](bestiary-family-ability-glossary/KwmYKsaXHKfZgB2c.htm)|(Spring-Heeled Jack) Vanishing Leap|(JAck à ressort) Saut évanouissant|libre|
 |[L80gn6WOWi9roJW3.htm](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)|(Divine Warden) Instrument of Faith|(Garde divin) Instrument de foi|libre|
+|[LOd8QwaKP3hnyGkc.htm](bestiary-family-ability-glossary/LOd8QwaKP3hnyGkc.htm)|(Kallas Devil) Cold Currents|(diablesse Kallas) Courants froids|libre|
 |[MAC97gjFcdiqLyhp.htm](bestiary-family-ability-glossary/MAC97gjFcdiqLyhp.htm)|(Skeleton) Screaming Skull|(Squelette) Crâne hurlant|officielle|
 |[mEbrInCpag7YThH2.htm](bestiary-family-ability-glossary/mEbrInCpag7YThH2.htm)|(Dragon) Change Shape|(Dragon) Changement de forme|officielle|
 |[mZpX54PgTxPta5y4.htm](bestiary-family-ability-glossary/mZpX54PgTxPta5y4.htm)|(Graveknight) Graveknight's Shield|(Chevalier sépulcre) Bouclier du chevalier sépulcre|libre|
+|[na1WJDEaoqpcQuOR.htm](bestiary-family-ability-glossary/na1WJDEaoqpcQuOR.htm)|(Kallas Devil) Infectious Water|(Diablesse Kallas) Eau infectieuse|libre|
 |[Nnl5wg6smOzieTop.htm](bestiary-family-ability-glossary/Nnl5wg6smOzieTop.htm)|(Vampire, True) Turn to Mist|(Vampire, véritable) Se changer en brume|officielle|
 |[noOXyIXmwYN2rRd1.htm](bestiary-family-ability-glossary/noOXyIXmwYN2rRd1.htm)|(Vampire, True) Children of the Night|(Vampire, véritable) Enfant de la nuit|officielle|
+|[NSO2l1jXK32oTnVP.htm](bestiary-family-ability-glossary/NSO2l1jXK32oTnVP.htm)|(Kallas Devil)  Freezing Touch|(Diablesse Kallas) Contact frigorifiant|libre|
+|[oD1cA9uXYQ8evT8f.htm](bestiary-family-ability-glossary/oD1cA9uXYQ8evT8f.htm)|(Melfesh Monster) Vent Flames|(Monstre Melfesh) Évents de fammes|libre|
 |[OD3VPUalSKDTYFmF.htm](bestiary-family-ability-glossary/OD3VPUalSKDTYFmF.htm)|(Greater Barghest) Mutation - Wings|(Barghest supérieur) Mutation - Ailes|officielle|
 |[OMSsLUcnRj6ycEUa.htm](bestiary-family-ability-glossary/OMSsLUcnRj6ycEUa.htm)|(Graveknight) Channel Magic|(Chevalier sépulcre) Canaliser la magie|libre|
 |[OPGu0WsUHpHSmu80.htm](bestiary-family-ability-glossary/OPGu0WsUHpHSmu80.htm)|(Divine Warden) Faith Bound|(Garde divin) Liens de foi|libre|
 |[P5YTG6I8ci4lwhZ1.htm](bestiary-family-ability-glossary/P5YTG6I8ci4lwhZ1.htm)|(Skeleton) Bloody|(Squellette) Sanglant|officielle|
+|[pEJkjqjjBXj4YjYZ.htm](bestiary-family-ability-glossary/pEJkjqjjBXj4YjYZ.htm)|(Kuworsys) Careless Block|(Kuworsys) Blocage insouciant|libre|
+|[PjYwPIUUrirQFiee.htm](bestiary-family-ability-glossary/PjYwPIUUrirQFiee.htm)|(Kallas Devil) Underwater Views|(Diablesse kallas) Vues sous marines|libre|
 |[pxiSbjfWaKCG1xLD.htm](bestiary-family-ability-glossary/pxiSbjfWaKCG1xLD.htm)|(Graveknight) Betrayed Revivification|(Chevalier sépulcre) Résurrection vengeresse|officielle|
+|[qlNOqsfJH2gj7DCs.htm](bestiary-family-ability-glossary/qlNOqsfJH2gj7DCs.htm)|(Kallas Devil) Waterfall Torrent|(Diablesse Kallas) Cascade torrentielle|libre|
 |[QMWvYf8Qowj2Fzmx.htm](bestiary-family-ability-glossary/QMWvYf8Qowj2Fzmx.htm)|(Graveknight) Dark Deliverance|(Chevalier sépulcre) Sombre salut|officielle|
+|[qs21GajPmFYel3pc.htm](bestiary-family-ability-glossary/qs21GajPmFYel3pc.htm)|(Melfesh Monster) Corpse Bomb|(Monstre Melfesh) Bombe cadavérique|libre|
 |[QuHeuVNDnmOCS9M1.htm](bestiary-family-ability-glossary/QuHeuVNDnmOCS9M1.htm)|(Vampire, Vrykolakas Master) Create Spawn|(Vampire, maître vrykolakas) Création de rejetons|officielle|
 |[r34QDwKiWZoVymJa.htm](bestiary-family-ability-glossary/r34QDwKiWZoVymJa.htm)|(Golem) Golem Antimagic|(Golem) Antimagie des golems|officielle|
 |[RgYpzTk3XapgVeXZ.htm](bestiary-family-ability-glossary/RgYpzTk3XapgVeXZ.htm)|(Skeleton) Bone Missile|(Squelette) Côte missile|libre|
+|[RQ9NaIerG95wkhjl.htm](bestiary-family-ability-glossary/RQ9NaIerG95wkhjl.htm)|(Ulgrem-Axaan) Fallen Victim|(Ulgrem-Axaan) Victime déchue|libre|
+|[RvzFTym3r22VhMrm.htm](bestiary-family-ability-glossary/RvzFTym3r22VhMrm.htm)|(Kuworsys) Smash and Grab|(Kuworsys) Frapper et saisir|libre|
 |[sAyR4uJbsWukZFZf.htm](bestiary-family-ability-glossary/sAyR4uJbsWukZFZf.htm)|(Vampire, True) Mist Escape|(Vampire, véritable) Fuite brumeuse|officielle|
 |[sECjzfaYaW68vbLV.htm](bestiary-family-ability-glossary/sECjzfaYaW68vbLV.htm)|(Vampire, Vrykolakas Master) Change Shape|(Vampire, maître vrykolakas) Changement de forme|officielle|
+|[SEmSk1INZDmeoB5R.htm](bestiary-family-ability-glossary/SEmSk1INZDmeoB5R.htm)|(Nymph Queen) Focus Beauty|(Reine nymphe) Focalisation de beauté|libre|
 |[tKixfds07IRH2nnh.htm](bestiary-family-ability-glossary/tKixfds07IRH2nnh.htm)|(Vampire, Vrykolakas Master) Children of the Night|(Vampire, maître vrykolakas) Enfants de la nuit|officielle|
+|[tQY2xmcIhzCM7oCC.htm](bestiary-family-ability-glossary/tQY2xmcIhzCM7oCC.htm)|(Melfesh Monster) Torrential Advance|(Monstre melfesh) Avancée torrentielle|libre|
+|[UHuA1hue5xrRM6KK.htm](bestiary-family-ability-glossary/UHuA1hue5xrRM6KK.htm)|(Nymph Queen) Tied to the Land|(Reine nymphe) Liée au territoire|libre|
 |[UlKGxPaKtRGWuq3V.htm](bestiary-family-ability-glossary/UlKGxPaKtRGWuq3V.htm)|(Divine Warden) Faithful Weapon|(Garde divin) Arme fidèle|libre|
 |[unR8VVR4yyRnsmnB.htm](bestiary-family-ability-glossary/unR8VVR4yyRnsmnB.htm)|(Ghost) Rejuvenation|(Fantôme) Reconstruction|officielle|
+|[UOqq8lkBPcPtKoCN.htm](bestiary-family-ability-glossary/UOqq8lkBPcPtKoCN.htm)|(Melfesh Monster) Flame Lash|(Monstre melfesh) Lâcher de flammes|libre|
 |[UU1Fp3PRuTFONjC9.htm](bestiary-family-ability-glossary/UU1Fp3PRuTFONjC9.htm)|(Ghoul) Swift Leap|(Goule) Bond rapide|officielle|
 |[uV4jf2pkMRGLdhJX.htm](bestiary-family-ability-glossary/uV4jf2pkMRGLdhJX.htm)|(Ghost) Dreamwalker|(Fantôme) Marcheur de rêves|libre|
+|[VXKiqiW7gXfFCz1U.htm](bestiary-family-ability-glossary/VXKiqiW7gXfFCz1U.htm)|(Melfesh Monster) Mycelial Tomb|(Monstre melfesh) Tombe mycélienne|libre|
 |[W5fD1ebH6Ri8HNzh.htm](bestiary-family-ability-glossary/W5fD1ebH6Ri8HNzh.htm)|(Graveknight) Create Grave Squire|(Chevalier sépulcre) Grand écuyer du sépulcre|officielle|
+|[wdO3EvDCGoDYW44S.htm](bestiary-family-ability-glossary/wdO3EvDCGoDYW44S.htm)|(Melfesh Monster) Death Throes|(Monstre Melfesh) Affres de la mort|libre|
 |[wlhvSroB6r5cSd8Y.htm](bestiary-family-ability-glossary/wlhvSroB6r5cSd8Y.htm)|(Greater Barghest) Mutation - Poison Fangs|(Barghest supérieur) Mutation - Crocs poison|officielle|
 |[WQjFPBQPDu6vyJny.htm](bestiary-family-ability-glossary/WQjFPBQPDu6vyJny.htm)|(Ghost) Corporeal Manifestation|(Fantôme) Manifestation corporelle|libre|
+|[WtRxZEPH963RkUCj.htm](bestiary-family-ability-glossary/WtRxZEPH963RkUCj.htm)|(Kuworsys) Rain Blows|(Kuworsys) Pluie de coups|libre|
 |[wzezkgOufQev7BLK.htm](bestiary-family-ability-glossary/wzezkgOufQev7BLK.htm)|(Ghost) Revenant|(Fantôme) Revenant|libre|
 |[X2mdpb1Dhl890YbA.htm](bestiary-family-ability-glossary/X2mdpb1Dhl890YbA.htm)|(Worm That Walks) Swarm Shape|(Ver-qui-marche) Forme de nuée|officielle|
+|[Y46uZK6X7J7iMsgq.htm](bestiary-family-ability-glossary/Y46uZK6X7J7iMsgq.htm)|(Ulgrem-Axaan) Crocodile Tears|(Ulgreem--Aaxan) Larmes de crocodile|libre|
+|[yaDe9hO9fm2N4SqH.htm](bestiary-family-ability-glossary/yaDe9hO9fm2N4SqH.htm)|(Spring-Heeled Jack) Resonant Terror|(Jack à ressort) Terreur résonnante|libre|
+|[yfcqbMRmCkfPWV9O.htm](bestiary-family-ability-glossary/yfcqbMRmCkfPWV9O.htm)|(Ulgrem-Axaan) Crushing Weight|(Ulgrem-Axaan) Poids écrasant|libre|
 |[ZIFaA4jDQjM0vq8q.htm](bestiary-family-ability-glossary/ZIFaA4jDQjM0vq8q.htm)|(Graveknight) Rejuvenation|(Chevalier sépulcre) Reconstruction|officielle|
 |[ZMTnwyXjyfy7Ryi6.htm](bestiary-family-ability-glossary/ZMTnwyXjyfy7Ryi6.htm)|(Vampire, True) Change Shape|(Vampire, véritable) Changement de forme|officielle|
 |[zwgUxJBNFqWOuaBX.htm](bestiary-family-ability-glossary/zwgUxJBNFqWOuaBX.htm)|(Vampire, Vrykolakas Master) Dominate Animal|(Vampire, maître vrykolakas) Domination animale|officielle|

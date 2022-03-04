@@ -20,7 +20,7 @@
             "id": "Yellow Mold",
             "name": "Yellow Mold",
             "description": "<p>Les spores de la moisissure empoisonnent les créatures à proximité.</p>",
-            "disable": "<p>@Check[type:survival|dc:26|name:Retirer la moisissure]{Survie} (expert) DD 26 pour enlever la moisissure sans déclencher le nuage de spores.</p>"
+            "disable": "<p>@Check[type:survival|dc:26|name:Retirer la moisissure]{Survie DD 26} (expert) pour enlever la moisissure sans déclencher le nuage de spores.</p>"
         },
         {
             "id": "Snowfall",

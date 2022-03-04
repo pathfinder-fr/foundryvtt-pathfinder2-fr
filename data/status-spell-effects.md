@@ -1,26 +1,20 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 350
+ * **libre**: 356
  * **officielle**: 23
  * **changé**: 12
- * **aucune**: 8
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[01-JhihziXQuoteftdd.htm](spell-effects/01-JhihziXQuoteftdd.htm)|Spell Effect: Lay on Hands (Vs. Undead)|
-|[01-Qr5rgoZvI4KmFY0N.htm](spell-effects/01-Qr5rgoZvI4KmFY0N.htm)|Spell Effect: Calm Emotions|
 |[03-LldX5hnNhKzGtOS0.htm](spell-effects/03-LldX5hnNhKzGtOS0.htm)|Spell Effect: Elemental Absorption|
 |[04-6GAztnHuQSwAp1k1.htm](spell-effects/04-6GAztnHuQSwAp1k1.htm)|Spell Effect: Adaptive Ablation|
-|[04-DHYWmMGmKOpRSqza.htm](spell-effects/04-DHYWmMGmKOpRSqza.htm)|Spell Effect: Chromatic Armor|
-|[04-lEU3DH1tGjAigpEt.htm](spell-effects/04-lEU3DH1tGjAigpEt.htm)|Spell Effect: Energy Absorption|
-|[05-FD9Ce5pqcZYstcMI.htm](spell-effects/05-FD9Ce5pqcZYstcMI.htm)|Spell Effect: Blessing of Defiance|
-|[05-w9HpSwBLByNyRXvi.htm](spell-effects/05-w9HpSwBLByNyRXvi.htm)|Spell Effect: Blessing of Defiance (2 Action)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -113,6 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-i9YITDcrq1nKjV5l.htm](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Spell Effect: Infectious Melody|Effet : Mélodie infectieuse|libre|
 |[01-J60rN48XzBGHmR6m.htm](spell-effects/01-J60rN48XzBGHmR6m.htm)|Spell Effect: Element Embodied (Air)|Effet : Incarnation élémentaire (Air)|libre|
 |[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|libre|
+|[01-JhihziXQuoteftdd.htm](spell-effects/01-JhihziXQuoteftdd.htm)|Spell Effect: Lay on Hands (Vs. Undead)|Effet : Imposition des mains (contre les morts-vivants)|libre|
 |[01-JJ7HZkXXm8sTapcu.htm](spell-effects/01-JJ7HZkXXm8sTapcu.htm)|Spell Effect: Boost Eidolon (4 Dice)|Effet : Booster l'eidolon (4 Dés)|libre|
 |[01-jKrLpG74nLHYGyWB.htm](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Spell Effect: Nudge Fate|Effet : Coup de pouce au destin|libre|
 |[01-jp88SCE3VCRAyE6x.htm](spell-effects/01-jp88SCE3VCRAyE6x.htm)|Spell Effect: Element Embodied (Earth)|Effet : Incarnation élémentaire (Terre)|libre|
@@ -153,6 +148,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-qkwb5DD3zmKwvbk0.htm](spell-effects/01-qkwb5DD3zmKwvbk0.htm)|Spell Effect: Mage Armor|Effet : Armure du mage|libre|
 |[01-qlz0sJIvqc0FdUdr.htm](spell-effects/01-qlz0sJIvqc0FdUdr.htm)|Spell Effect: Weapon Surge|Effet : Arme améliorée|libre|
 |[01-qQLHPbUFASKFky1W.htm](spell-effects/01-qQLHPbUFASKFky1W.htm)|Spell Effect: Hyperfocus|Effet : Hyperfocalisation|libre|
+|[01-Qr5rgoZvI4KmFY0N.htm](spell-effects/01-Qr5rgoZvI4KmFY0N.htm)|Spell Effect: Calm Emotions|Effet : Apaisement des émotions|libre|
 |[01-QrULQZsSRGSa6qOt.htm](spell-effects/01-QrULQZsSRGSa6qOt.htm)|Spell Effect: Dragon Claw (Fire)|Effet : Griffes de dragon (Feu)|libre|
 |[01-qVngSDWvHcnht0fP.htm](spell-effects/01-qVngSDWvHcnht0fP.htm)|Spell Effect: Protection from Good|Effet : Protection contre le Bien|officielle|
 |[01-R3j6song8sYLY5vG.htm](spell-effects/01-R3j6song8sYLY5vG.htm)|Spell Effect: Community Repair (Critical Success)|Effet : Réparation communautaire (Succès critique)|libre|
@@ -280,6 +276,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-c4cIfS2974nUJDPt.htm](spell-effects/04-c4cIfS2974nUJDPt.htm)|Spell Effect: Fey Form (Dryad)|Effet : Forme de fée (dryade)|libre|
 |[04-cNZRAPd2kVrM3Iuo.htm](spell-effects/04-cNZRAPd2kVrM3Iuo.htm)|Spell Effect: Energy Absorption (Acid)|Effet : Absorption d'énergie (Acide)|libre|
 |[04-db9lXpF4OsPz9cXL.htm](spell-effects/04-db9lXpF4OsPz9cXL.htm)|Spell Effect: Energy Absorption (Fire)|Effet : Absorption d'énergie (Feu)|libre|
+|[04-DHYWmMGmKOpRSqza.htm](spell-effects/04-DHYWmMGmKOpRSqza.htm)|Spell Effect: Chromatic Armor|Effet : Armure chromatique|libre|
 |[04-DwM5qcFp4JgKhXrY.htm](spell-effects/04-DwM5qcFp4JgKhXrY.htm)|Spell Effect: Fey Form (Unicorn)|Effet : Forme de fée (Licorne)|libre|
 |[04-fCIT9YgGUwIc3Z9G.htm](spell-effects/04-fCIT9YgGUwIc3Z9G.htm)|Spell Effect: Draw the Lightning|Effet : Attirer la foudre|libre|
 |[04-GlggmEqkGVj1noOD.htm](spell-effects/04-GlggmEqkGVj1noOD.htm)|Spell Effect: Bottle the Storm|Effet : Tempête en bouteille|libre|
@@ -291,6 +288,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-KcBqo33ekJHxZLHo.htm](spell-effects/04-KcBqo33ekJHxZLHo.htm)|Spell Effect: Fey Form (Naiad)|Effet : Forme de fée (Naïade)|libre|
 |[04-KkDRRDuycXwKPa6n.htm](spell-effects/04-KkDRRDuycXwKPa6n.htm)|Spell Effect: Dinosaur Form (Brontosaurus)|Effet : Forme de dinosaure (Brontosaure)|libre|
 |[04-KtAJN4Qr2poTL6BB.htm](spell-effects/04-KtAJN4Qr2poTL6BB.htm)|Spell Effect: Bestial Curse (Critical Failure)|Effet : Malédiction bestiale (Échec critique)|libre|
+|[04-lEU3DH1tGjAigpEt.htm](spell-effects/04-lEU3DH1tGjAigpEt.htm)|Spell Effect: Energy Absorption|Effet : Absorption d'énergie|libre|
 |[04-LMXxICrByo7XZ3Q3.htm](spell-effects/04-LMXxICrByo7XZ3Q3.htm)|Spell Effect: Downpour|Effet : Déluge|libre|
 |[04-nbW4udOUTrCGL3Gf.htm](spell-effects/04-nbW4udOUTrCGL3Gf.htm)|Spell Effect: Shifting Form (Climb Speed)|Effet : Forme changeante (Escalade)|libre|
 |[04-NhauZhE2kQKw8MRx.htm](spell-effects/04-NhauZhE2kQKw8MRx.htm)|Spell Effect: Adaptive Ablation (Fire)|Effet : Ablation adaptative (Feu)|libre|
@@ -328,6 +326,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|Effet : Voyageur en transit (Vol)|libre|
 |[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|Effet : Forme élémentaire (Air)|libre|
 |[05-Dr7KMMtE4twxO6Ks.htm](spell-effects/05-Dr7KMMtE4twxO6Ks.htm)|Spell Effect: Blessing of Defiance (2 Action Fortitude)|Effet : Bénédiction du défi (2 actions Vigueur)|libre|
+|[05-FD9Ce5pqcZYstcMI.htm](spell-effects/05-FD9Ce5pqcZYstcMI.htm)|Spell Effect: Blessing of Defiance|Effet : Bénédiction du défi (1 action)|libre|
 |[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|Effet : Forme de plante (Grand tertre)|libre|
 |[05-FT5Tt2DKBRutDqbV.htm](spell-effects/05-FT5Tt2DKBRutDqbV.htm)|Spell Effect: Dread Ambience (Critical Success)|Effet : Ambiance terrifiante (Succès critique)|libre|
 |[05-gKGErrsS1WoAyWub.htm](spell-effects/05-gKGErrsS1WoAyWub.htm)|Spell Effect: Aberrant Form (Gogiteth)|Effet : Forme d'aberration (Gogiteth)|libre|
@@ -349,6 +348,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-tu8FyCtmL3YYR2jL.htm](spell-effects/05-tu8FyCtmL3YYR2jL.htm)|Spell Effect: Plant Form (Arboreal)|Effet : Forme de plante (Arboréen)|libre|
 |[05-u0AznkjTZAVnCMNp.htm](spell-effects/05-u0AznkjTZAVnCMNp.htm)|Spell Effect: Evolution Surge (Fly)|Effet : Flux d'évolution (Vol)|libre|
 |[05-V7jAnItnVqtfCAKt.htm](spell-effects/05-V7jAnItnVqtfCAKt.htm)|Spell Effect: Dragon Wings (60 Feet)|Effet : Ailes de dragon (18 mètres)|libre|
+|[05-w9HpSwBLByNyRXvi.htm](spell-effects/05-w9HpSwBLByNyRXvi.htm)|Spell Effect: Blessing of Defiance (2 Action)|Effet : Bénédiction du défi (2 actions)|libre|
 |[05-wqh8D9kHGItZBvtQ.htm](spell-effects/05-wqh8D9kHGItZBvtQ.htm)|Spell Effect: Mantle of the Frozen Heart (Icy Claws)|Effet : Manteau du cœur gelé (Griffes de glace)|libre|
 |[05-xsy1yaCj0SVsn502.htm](spell-effects/05-xsy1yaCj0SVsn502.htm)|Spell Effect: Aberrant Form (Chuul)|Effet : Forme d'aberration (Chuul)|libre|
 |[05-YCno88Te0nfwFgVo.htm](spell-effects/05-YCno88Te0nfwFgVo.htm)|Spell Effect: Mantle of the Frozen Heart (Ice Glide)|Effet : Manteau du cœur gelé (Glissement glacé)|libre|

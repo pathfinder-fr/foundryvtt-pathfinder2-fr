@@ -97,6 +97,11 @@
             "description": "<p>L'agression protectrice prend fin si l'ennemi que vous avez attaqué meurt ou à la fin de tout tour au cours duquel vous n'avez pas touché cet ennemi avec une frappe au corps-à-corps.</p>\n<hr />\n<p>Vous obtenez un bonus de statut de +2 à la CA contre l'ennemi.</p>"
         },
         {
+            "id": "Spell Effect: Chromatic Armor",
+            "name": "Spell Effect: Chromatic Armor (Effet : Armure chromatique)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.NBSBFHxBm88qxQUy]{Armure chromatique}</p>"
+        },
+        {
             "id": "Spell Effect: Sweet Dream (Insight)",
             "name": "Spell Effect: Sweet Dream (Insight) (Effet : Doux rêve (Intuition))",
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.BRtKFk0PKfWIlCAB]{Doux rêve}</em>.</p>\n<p>Vous gagnez un bonus de statut de +1 aux tests de compétence basés sur l'Intelligence.</p>"
@@ -482,6 +487,11 @@
             "description": "<p>Accordé en lançant <em>@Compendium[pf2e.spells-srd.KhM8MhoUgoUjBMIz]{Forme de dinosaure}</em>.</p>\n<p>Vous canalisez les forces primitives de la nature pour vous transformer en une forme de combat de Grand animal, plus précisément celle d'un dinosaure puissant et terrifiant. Vous devez avoir de l'espace pour vous étendre, sinon le sort est perdu.</p>\n<p>Vous pouvez décider du type d'animal spécifique, mais cela n'a aucun effet sur la Taille ou les statistiques de la forme. Lorsque vous êtes sous cette forme, vous gagnez les traits de l'animal et du dinosaure. Vous pouvez annuler le sort.</p>\n<p>Vous gagnez les statistiques et capacités suivantes, quelle que soit la forme de combat que vous choisissez :</p>\n<ul >\n<li>CA = 18 + votre niveau. Ignorez la pénalité de contrôle et la réduction de vitesse de votre armure.</li>\n<li>15 points de vie temporaires.</li>\n<li>Vision nocturne et odorat imprécis à 9 mètres.</li>\n<li>Une ou plusieurs attaques au corps-à-corps, à mains nues spécifique à la forme de combat que vous choisissez, qui sont les seules attaques que vous pouvez utiliser. Vous êtes entraîné à les utiliser. Votre modificateur d'attaque est de +16, et votre bonus de dégâts est de +9. Ces attaques sont basées sur la Force (pour les besoins de la condition @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}, par exemple). Si votre modificateur d'attaque à mains nues est plus élevé, vous pouvez l'utiliser à la place.</li>\n<li>Modificateur d'Athlétisme de +18, sauf si votre propre modificateur est plus élevé.</li>\n</ul>\n<p>Vous gagnez également des capacités spécifiques en fonction de la forme que vous choisissez :</p>\n<ul>\n<li><strong>Tyrannosaure</strong>\n<ul>\n<li>Vitesse 9 mètres</li> \n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Mâchoires (mortel, allonge 3 mètres), <strong>Dégâts</strong> 1d12 perforants; \n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> Queue (allonge 3 mètres), <strong>Dégâts</strong> 1d10 contondants.</li>\n</ul>\n<hr />\n<p><strong>Intensifié (5e)</strong> Votre forme de combat est Très grande et vos attaques ont une portée de 4,5 mètres, ou de 6 mètres si elles avaient au départ une portée de 4,50 mètres. À la place, vous gagnez 20 PV temporaires, un modificateur d'attaque de +18, un bonus aux dégâts de +6, le double des dés de dégâts, et modificateur d'Athlétisme +21.</p>\n<p><strong>Intensifié (7e)</strong> Votre forme de combat est Gigantesque et vos attaques ont une portée de 6 mètres, ou de 7,50 mètres si elles avaient une portée de 4,50 mètres au départ. À la place, vous gagnez une CA égale à 21 + votre niveau, 25 PV temporaires, un modificateur d'attaque de +25, un bonus aux dégâts de +15, le double des dés de dégâts et un modificateur d'Athlétisme de +25.</p>"
         },
         {
+            "id": "Spell Effect: Calm Emotions",
+            "name": "Spell Effect: Calm Emotions (Effet : Apaisement des émotions)",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.b515AZlB0sridKSq]{Apaisement des émotions}</p>\n<hr />\n<p>une envie de calme impose une pénalité de statut de -1 aux jets d'attaques des créatures.</p>"
+        },
+        {
             "id": "Spell Effect: Nymph's Token",
             "name": "Spell Effect: Nymph's Token (Effet : Amulette de la nymphe)",
             "description": "<p>Accordé en portant l'amulette créee par <em>@Compendium[pf2e.spells-srd.pHrVvoTKygXeczVG]{Amulette de la nymphe}</em></p>"
@@ -560,6 +570,11 @@
             "id": "Spell Effect: Ki Strike (Lawful)",
             "name": "Spell Effect: Ki Strike (Lawful) (Effet : Frappe ki (Loi))",
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Frappe ki}</em>, et en sélectionnant Loyal (si vous êtes Loyal).</p>\n<p>Ou, accordée par <em>@Compendium[pf2e.spells-srd.ZL8NTvB22NeEWhVG]{Ki Strike}</em> si vous avez @Compendium[pf2e.feats-srd.Ux0DSklFlIlcvnhO]{Ki sacré} et en sélectionnant Loi.</p>"
+        },
+        {
+            "id": "Spell Effect: Blessing of Defiance (2 Action)",
+            "name": "Spell Effect: Blessing of Defiance (2 Action) (Effet : Bénédiction du défi (2 actions))",
+            "description": "<p>Granted by <em>@Compendium[pf2e.spells-srd.1b55SgYTV65JvmQd]{Blessing of Defiance}</em></p>\n<p>Choisissez un jet de sauvegarde : Vigueur, Réflexes, ou Volonté. La cible bénéficie d'un bonus de statut de +4 à ce jet de sauvegarde pendant 1 round. Si vous avez choisi Vigueur, la cible obtient une résistance 15 au poison. Si vous avez choisi Réflexes, la cible obtient un bonus de statut de +4,5 mètres à ses Vitesses. Si vous avez choisi Volonté, la cible obtient une résistance 15 aux dégâts mentaux.</p>"
         },
         {
             "id": "Spell Effect: Dragon Form (Blue)",
@@ -1007,6 +1022,11 @@
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.GUnw9YXaW3YyaCAU]{Adaptation de soi}</em>.</p>\n<p>Vous gagnez une Vitesse de nage égale à la moitié de votre Vitesse</p>"
         },
         {
+            "id": "Spell Effect: Lay on Hands (Vs. Undead)",
+            "name": "Spell Effect: Lay on Hands (Vs. Undead) (Effet : Imposition des mains (contre les morts-vivants))",
+            "description": "<p>Accordé par @Compendium[pf2e.spells-srd.IxyD7YdRbSSucxZp]{Imposition des mains (contre un Mort-vivant)}</p>\n<p>Si la cible est un mort-vivant, il obtient aussi une pénalité de statut de -2 à la CA pendant 1 round.</p>"
+        },
+        {
             "id": "Spell Effect: Disrupting Weapons",
             "name": "Spell Effect: Disrupting Weapons (Effet : Armes perturbatrices)",
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.2iQKhCQBijhj5Rf3]{Armes perturbatrices}</em></p>\n<p>Vous imprégnez des armes d’énergie positive. Les attaques exécutées avec ces armes infligent 1d4 dégâts positifs de plus aux morts-vivants.</p>\n<hr />\n<p><strong>Intensifié (3e)</strong> Les dégâts passent à 2d4.</p>\n<p><strong>Intensifié (5e)</strong> Vise jusqu’à trois armes, les dégâts passent à 3d4.</p>"
@@ -1442,6 +1462,11 @@
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.tYP8unoR0a5Dq9EA]{Litany of Depravity}</em>.</p>\n<p>Vous gagnez une faiblesse 7 au mal.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La faiblesse augmente de 1.</p>"
         },
         {
+            "id": "Spell Effect: Blessing of Defiance",
+            "name": "Spell Effect: Blessing of Defiance (Effet : Bénédiction du défi (1 action))",
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.1b55SgYTV65JvmQd]{Bénédiction du défi}</em></p>\n<p>Choisissez un jet de sauvegarde : Vigueur, Réflexes, ou Volonté. La cible bénéficie d'un bonus de statut de +4 à ce jet de sauvegarde pendant 1 round.</p>"
+        },
+        {
             "id": "Spell Effect: Life Boost",
             "name": "Spell Effect: Life Boost (Effet : Gain de vie)",
             "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.fAlzXtQAASaJx0mY]{Gain de vie}</em>.</p>"
@@ -1555,6 +1580,11 @@
             "id": "Spell Effect: Necromancer's Generosity",
             "name": "Spell Effect: Necromancer's Generosity (Effet : Générosité du nécromant)",
             "description": "<p>Votre minion mort-vivant obtient un bonus de statut de +2 aux jets de sauvegarde contre les effets positifs pendant la durée.</p>"
+        },
+        {
+            "id": "Spell Effect: Energy Absorption",
+            "name": "Spell Effect: Energy Absorption (Effet : Absorption d'énergie)",
+            "description": "<p>Accordé par le sort <em>@Compendium[pf2e.spells-srd.LoBjvguamA12iyW0]{Absorption d'énergie}</em></p>\n<p>Vous obtenez une résistance à l'acide, au froid, à l'électricité ou au feu de l'effet déclencheur (un type de votre choix). La résistance ne s'applique qu'aux dégâts initiaux de l'effet déclencheur.</p>"
         },
         {
             "id": "Spell Effect: Primal Summons (Water)",

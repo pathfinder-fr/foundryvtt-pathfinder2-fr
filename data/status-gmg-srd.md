@@ -1,18 +1,17 @@
 # État de la traduction (gmg-srd)
 
- * **changé**: 52
- * **officielle**: 45
+ * **officielle**: 46
+ * **changé**: 51
  * **libre**: 1
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Formé par un Mentor|changé|
 |[7qsQBWD5sSGz7Fik.htm](gmg-srd/7qsQBWD5sSGz7Fik.htm)|Mercantile Expertise|Expertise marchande|changé|
 |[8NKe8N5NsULPShPX.htm](gmg-srd/8NKe8N5NsULPShPX.htm)|The Dead One|Lé défunt|changé|
 |[a0mJO7io1hcwMAjJ.htm](gmg-srd/a0mJO7io1hcwMAjJ.htm)|Lost in the Wilderness|Perdu dans la nature|changé|
@@ -69,6 +68,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[2cyhXgGkmoFe3Phw.htm](gmg-srd/2cyhXgGkmoFe3Phw.htm)|Trained by a Mentor|Formé par un Mentor|officielle|
 |[3g3uXFsHbfcad8eA.htm](gmg-srd/3g3uXFsHbfcad8eA.htm)|The Fool|Le bouffon|officielle|
 |[3Uwfn0ui7tS277iE.htm](gmg-srd/3Uwfn0ui7tS277iE.htm)|Metropolis|Métropole|officielle|
 |[5KDGPcdZpdZumUYy.htm](gmg-srd/5KDGPcdZpdZumUYy.htm)|Itinerant|Itinérant|officielle|

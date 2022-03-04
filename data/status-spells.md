@@ -1,20 +1,13 @@
 # État de la traduction (spells)
 
- * **libre**: 605
- * **officielle**: 553
- * **changé**: 8
- * **aucune**: 1
+ * **libre**: 607
+ * **officielle**: 554
+ * **changé**: 6
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[necromancy-02-zdNUbHqqZzjA07oM.htm](spells/necromancy-02-zdNUbHqqZzjA07oM.htm)|Boneshaker|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -23,8 +16,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|changé|
 |[abjuration-04-LoBjvguamA12iyW0.htm](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|changé|
 |[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|Armure chromatique|changé|
-|[abjuration-05-1b55SgYTV65JvmQd.htm](spells/abjuration-05-1b55SgYTV65JvmQd.htm)|Blessing of Defiance|Bénédiction du défi|changé|
-|[enchantment-02-b515AZlB0sridKSq.htm](spells/enchantment-02-b515AZlB0sridKSq.htm)|Calm Emotions|Apaisement des émotions|changé|
 |[necromancy-01-IxyD7YdRbSSucxZp.htm](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|Imposition des mains (sur un mort-vivant)|changé|
 |[transmutation-03-0gdZrT9lwO17EIxc.htm](spells/transmutation-03-0gdZrT9lwO17EIxc.htm)|Ooze Form|Forme de vase|changé|
 
@@ -113,6 +104,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-tYLBjOTvBVn9JtRb.htm](spells/abjuration-04-tYLBjOTvBVn9JtRb.htm)|Unity|Unité|officielle|
 |[abjuration-04-y7Tusv3CieZktkkV.htm](spells/abjuration-04-y7Tusv3CieZktkkV.htm)|Flame Barrier|Barrière de flammes|officielle|
 |[abjuration-04-yY1H5zhO5dHmD8lz.htm](spells/abjuration-04-yY1H5zhO5dHmD8lz.htm)|Font of Serenity|Source de sérénité|libre|
+|[abjuration-05-1b55SgYTV65JvmQd.htm](spells/abjuration-05-1b55SgYTV65JvmQd.htm)|Blessing of Defiance|Bénédiction du défi|libre|
 |[abjuration-05-bay4AfSu2iIozNNW.htm](spells/abjuration-05-bay4AfSu2iIozNNW.htm)|Banishment|Bannissement|officielle|
 |[abjuration-05-forsqeofEszBNtLq.htm](spells/abjuration-05-forsqeofEszBNtLq.htm)|Chromatic Wall|Mur chromatique|officielle|
 |[abjuration-05-h47yv6j6x1pUtzlr.htm](spells/abjuration-05-h47yv6j6x1pUtzlr.htm)|Arcane Countermeasure|Contre-mesure arcanique|officielle|
@@ -455,6 +447,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-YVK3JUkPVzHIeGXQ.htm](spells/enchantment-01-YVK3JUkPVzHIeGXQ.htm)|Cackle|Gloussement|libre|
 |[enchantment-02-29JyWqqZ0thCFr1C.htm](spells/enchantment-02-29JyWqqZ0thCFr1C.htm)|Mind Games|Jeux d'esprit|libre|
 |[enchantment-02-5pwK2FZX6QwgtfqX.htm](spells/enchantment-02-5pwK2FZX6QwgtfqX.htm)|Inveigle|Envoûtement|officielle|
+|[enchantment-02-b515AZlB0sridKSq.htm](spells/enchantment-02-b515AZlB0sridKSq.htm)|Calm Emotions|Apaisement des émotions|officielle|
 |[enchantment-02-bH0kPuf7UKxRvi2P.htm](spells/enchantment-02-bH0kPuf7UKxRvi2P.htm)|Inspire Defense|Inspiration défensive|officielle|
 |[enchantment-02-c8R2fpk88fBwJ1ie.htm](spells/enchantment-02-c8R2fpk88fBwJ1ie.htm)|Triple Time|À trois temps|officielle|
 |[enchantment-02-CQb8HtQ1BPeZmu9h.htm](spells/enchantment-02-CQb8HtQ1BPeZmu9h.htm)|Touch of Idiocy|Idiotie|officielle|
@@ -932,6 +925,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-xlRv8vCTHh1NeMpw.htm](spells/necromancy-02-xlRv8vCTHh1NeMpw.htm)|Mimic Undead|Imiter un mort-vivant|libre|
 |[necromancy-02-xRgU9rrhmGAgG4Rc.htm](spells/necromancy-02-xRgU9rrhmGAgG4Rc.htm)|Gentle Repose|Préservation des morts|officielle|
 |[necromancy-02-Xrz6wPXDBUr27izR.htm](spells/necromancy-02-Xrz6wPXDBUr27izR.htm)|Grave Impressions|Impressions de la tombe|libre|
+|[necromancy-02-zdNUbHqqZzjA07oM.htm](spells/necromancy-02-zdNUbHqqZzjA07oM.htm)|Boneshaker|Secoueur d'os|libre|
 |[necromancy-03-0chL1b4OFIZxpN3v.htm](spells/necromancy-03-0chL1b4OFIZxpN3v.htm)|Steal Shadow|Vol d'ombre|libre|
 |[necromancy-03-0JWyMwVnLxX9CDYQ.htm](spells/necromancy-03-0JWyMwVnLxX9CDYQ.htm)|Rouse Skeletons|Réveil de squelettes|libre|
 |[necromancy-03-10siFBMF4pIDhVmf.htm](spells/necromancy-03-10siFBMF4pIDhVmf.htm)|Cup of Dust|Tasse de poussière|libre|

@@ -1,23 +1,13 @@
 # État de la traduction (feats)
 
- * **libre**: 2504
+ * **libre**: 2508
  * **officielle**: 910
- * **aucune**: 4
  * **changé**: 5
 
 
-Dernière mise à jour: 2022-03-02 08:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[ancestry-01-BF5B2kDrSruQpqgS.htm](feats/ancestry-01-BF5B2kDrSruQpqgS.htm)|Pyrophilic Recovery|
-|[ancestry-05-0u1SZ1c6gDo6l0hS.htm](feats/ancestry-05-0u1SZ1c6gDo6l0hS.htm)|Climate Adaptation|
-|[ancestry-05-B9IytVeJ1SMSJawB.htm](feats/ancestry-05-B9IytVeJ1SMSJawB.htm)|Defensive Needles|
-|[ancestry-09-fiA3rfqPcCKFCI83.htm](feats/ancestry-09-fiA3rfqPcCKFCI83.htm)|Towering Growth|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -108,6 +98,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-b60ZCgKoaVDgMhBk.htm](feats/ancestry-01-b60ZCgKoaVDgMhBk.htm)|Kitsune Lore|Connaissance des kitsunes|libre|
 |[ancestry-01-Bc0Lehf8hxT4vouG.htm](feats/ancestry-01-Bc0Lehf8hxT4vouG.htm)|Ceremony of the Evened Hand (Claws)|Cérémonie de la main levée (griffes)|libre|
 |[ancestry-01-bEh5qUgX5eFaQwzU.htm](feats/ancestry-01-bEh5qUgX5eFaQwzU.htm)|Catfolk Weapon Familiarity|Familiarité avec les armes des hommes-félins|libre|
+|[ancestry-01-BF5B2kDrSruQpqgS.htm](feats/ancestry-01-BF5B2kDrSruQpqgS.htm)|Pyrophilic Recovery|Récupération pyrophilique|libre|
 |[ancestry-01-BGe0nKhzssqALYzt.htm](feats/ancestry-01-BGe0nKhzssqALYzt.htm)|Sprite's Spark (Grig)|Étincellle du sprite (Grig)|libre|
 |[ancestry-01-Bn9yK3FBndHkbVsu.htm](feats/ancestry-01-Bn9yK3FBndHkbVsu.htm)|Spine Stabber|Poignardeur de piquants|libre|
 |[ancestry-01-Bni2NcuQn6Z546RE.htm](feats/ancestry-01-Bni2NcuQn6Z546RE.htm)|Twitchy|Nerveux|libre|
@@ -411,6 +402,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-0FqbyC5tR2DC0DOk.htm](feats/ancestry-05-0FqbyC5tR2DC0DOk.htm)|Pack Stalker|Traqueur en meute|libre|
 |[ancestry-05-0ihK3qYItmi8eVZs.htm](feats/ancestry-05-0ihK3qYItmi8eVZs.htm)|Eclectic Obsession|Obsession éclectique|libre|
 |[ancestry-05-0Iv3VbR1DMPbZIjD.htm](feats/ancestry-05-0Iv3VbR1DMPbZIjD.htm)|Drag Down|Tirer dans l'eau|libre|
+|[ancestry-05-0u1SZ1c6gDo6l0hS.htm](feats/ancestry-05-0u1SZ1c6gDo6l0hS.htm)|Climate Adaptation|Acclimatation|libre|
 |[ancestry-05-14u6604yUXvoiIf3.htm](feats/ancestry-05-14u6604yUXvoiIf3.htm)|Malicious Bane|Imprécation malicieuse|libre|
 |[ancestry-05-1gAehVvstGY885kJ.htm](feats/ancestry-05-1gAehVvstGY885kJ.htm)|Bristle|Hirsute|libre|
 |[ancestry-05-1LFbIRhb3Fgk4203.htm](feats/ancestry-05-1LFbIRhb3Fgk4203.htm)|Sealed Poppet|Poupée ignifugée|libre|
@@ -458,6 +450,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-05-B4e8V5nExlScjojY.htm](feats/ancestry-05-B4e8V5nExlScjojY.htm)|Shoki's Argument|Argument de Shoki|libre|
 |[ancestry-05-B6eoSmowSFNlhj9h.htm](feats/ancestry-05-B6eoSmowSFNlhj9h.htm)|Hobgoblin Weapon Discipline|Discipline des armes hobgobelines|libre|
 |[ancestry-05-b8BZl7wbm83ObEtO.htm](feats/ancestry-05-b8BZl7wbm83ObEtO.htm)|Integrated Armament|Arsenal intégré|libre|
+|[ancestry-05-B9IytVeJ1SMSJawB.htm](feats/ancestry-05-B9IytVeJ1SMSJawB.htm)|Defensive Needles|Aiguilles défensives|libre|
 |[ancestry-05-BiPQAcvaEO0P2snr.htm](feats/ancestry-05-BiPQAcvaEO0P2snr.htm)|Healer's Halo|Halo du guérisseur|libre|
 |[ancestry-05-bJzANqEGTkho1bv6.htm](feats/ancestry-05-bJzANqEGTkho1bv6.htm)|Arcane Safeguards|Protections arcaniques|libre|
 |[ancestry-05-bKc8MMFEOpOJJihb.htm](feats/ancestry-05-bKc8MMFEOpOJJihb.htm)|Heat Wave|Vague de chaleur|libre|
@@ -685,6 +678,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-esKk5XrnlqRayDPG.htm](feats/ancestry-09-esKk5XrnlqRayDPG.htm)|Angelic Magic|Magie des anges|libre|
 |[ancestry-09-Ezk3OgfPaRlEEyAD.htm](feats/ancestry-09-Ezk3OgfPaRlEEyAD.htm)|Virtue-Forged Tattoos|Tatouages vertus-forgés|libre|
 |[ancestry-09-fcSzCdQ9y800BdOv.htm](feats/ancestry-09-fcSzCdQ9y800BdOv.htm)|Velstrac Magic|Magie Velstrac|libre|
+|[ancestry-09-fiA3rfqPcCKFCI83.htm](feats/ancestry-09-fiA3rfqPcCKFCI83.htm)|Towering Growth|Croissance vertigineuse|libre|
 |[ancestry-09-FrzskqwNWexKY5BA.htm](feats/ancestry-09-FrzskqwNWexKY5BA.htm)|Terrain Advantage|Avantage du terrain|libre|
 |[ancestry-09-ftntYtiKGoPBpvcv.htm](feats/ancestry-09-ftntYtiKGoPBpvcv.htm)|Qlippoth Magic|Magie qlippoth|libre|
 |[ancestry-09-fu1cTh93zgGweduf.htm](feats/ancestry-09-fu1cTh93zgGweduf.htm)|Wary Skulker|Rôdeur prudent|libre|

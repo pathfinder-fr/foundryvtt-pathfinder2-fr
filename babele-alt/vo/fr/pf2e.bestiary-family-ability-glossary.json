@@ -32,6 +32,11 @@
             "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:5|damaging:yes]{1,5 mètres}</p>\n<hr />\n<p>L'air d'une aura de 1,5 mètres autour du fantôme est d'un froid supernaturel. Les personnages qui entrent dans cette aura ou commencent leur tour dans cette aura subissent  [[/r {1d6}[cold]]]{1d6 dégâts de froid} par tranche de 3 niveaux de fantôme (avec un jet de (@Check[type:fortitude|dc:|basic:true]).</p>"
         },
         {
+            "id": "(Kuworsys) Smash and Grab",
+            "name": "(Kuworsys) Smash and Grab",
+            "description": "<p>Kuworsys Marche rapidement jusqu'à deux fois sa vitesse. À la fin de son déplacement, elle peut faire une Frappe de membre au crps-à-corps. Si la Frappe est réussie, la créature est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{SAisie} jusqu'à la fin du prochain tour de Kuworsys.</p>"
+        },
+        {
             "id": "(Spring-Heeled Jack) Change Shape",
             "name": "(Spring-Heeled Jack) Change Shape",
             "description": "<p>Jack à ressort prend l'apparence d'un humanoïde de taille Moyenne habillé  dans des atours exquis. Cela ne change ni sa Vitesse ni ses modificateurs d'attaques ou de dégâts avec ses Frappes. Sous cette forme, Jack à ressort obtient un modificateur de Diplomatie égal à son modificateur d'Intimidation.</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
@@ -50,6 +55,11 @@
             "id": "(Skeleton) Explosive Death",
             "name": "(Skeleton) Explosive Death",
             "description": "<p>Quand le squelette est détruit, l’énergie nécromantique qui l’animait est libérée et fait exploser ses os.</p>\n<p>Les créatures adjacentes subissent [[/r {1d6}[slashing]]]{1d6 dégâts tranchants} par tranche de 2 niveaux (avec un minimum de 1d6) et peuvent faire un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"Explosive Death DC\" data-pf2-show-dc=\"gm\">Réflexes basique</span></p>."
+        },
+        {
+            "id": "(Melfesh Monster) Torrential Advance",
+            "name": "(Melfesh Monster) Torrential Advance",
+            "description": "<p>Le Monstre melfesh se dissout en une masse de fils fongiques et se propulse en avant. Elle @Compendium[pf2e.bestiary-ability-glossary-srd.UNah0bxXxkcZjxO3]{Piétine} (Moyenne ou inférieure, membre, @Check[type:reflex|dc:21|basic:true|name:Piétiner]{Réflexes DD 21}), laissant un nuage de spores dans les cases à travers lesquelles elle se déplace qui dure jusqu'à la fin de son prochain tour. Une créature qui rentre ou commence son tour dans le nuage inhale des spores et doivent réussir un jet de @Check[type:fortitude|dc:21|name:Avancée torrentielle]{Vigueur DD 21} ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} sur un échec critique). Cette capacité remplace Envelopper et Nuage de spores.</p>"
         },
         {
             "id": "(Divine Warden) Faith Bound",
@@ -87,6 +97,11 @@
             "description": "<p>Le fantôme fait jaillir sans avertissement de grandes éruptions de flammes.</p>\n<p>Le fantôme choisit une case de 1,5 mètres dans une zone de 9 mètres.  Les créatures qui commencent leur tour ou qui entrent dans une de ces cases subissent [[/r {1d6}[fire]]]{1d6 dégâts de feu} par tranche de 2 niveau du fantôme, avec un jet de @Check[type:reflex|dc:|basic:true].</p>\n<p>Les flammes durent une minute et n'enflamment pas d'autres objets, sauf si le fantôme le souhaite. Si le fantôme utilise à nouveau cette capacité, il annule les flammes existantes.</p>"
         },
         {
+            "id": "(Kallas Devil) Cold Currents",
+            "name": "(Kallas Devil) Cold Currents",
+            "description": "<p>Lorsque la diablesse Kallas est dans l'eau, elle obtient une résistance au froid 10 et une faiblesse à l'électricité 5.</p>"
+        },
+        {
             "id": "(Vampire, True) Dominate",
             "name": "(Vampire, True) Dominate",
             "description": "Le vampire peut lancer <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne le trait visuel au sort. Le DD du jet de sauvegarde utilise le DD du niveau du vampire (Livre de base p. 503). Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p> \n<p>La domination prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
@@ -117,6 +132,16 @@
             "description": "<p>Un maître vrykolakas peut se transformer de façon à adopter l’apparence qu’il avait étant vivant, avec les effets d’une forme humanoïde, mais sans limite de durée. Il perd ses Frappes de crocs et de griffes mais gagne un bonus de circonstances de +2 à ses tests de Duperie pour @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser} tant qu’il est sous cette apparence.</p>"
         },
         {
+            "id": "(Kallas Devil) Waterfall Torrent",
+            "name": "(Kallas Devil) Waterfall Torrent",
+            "description": "<p>La diablesse Kallas contrôle toute eau qu'elle touche. Lorsque la diablesse Kallasest dans l'eau, elle peut lancer <em>@Compendium[pf2e.spells-srd.jfVCuOpzC6mUrf6f]{Poussée hydraulique}</em> comme un sort inné occulte à volonté.</p>"
+        },
+        {
+            "id": "(Ulgrem-Axaan) Crushing Weight",
+            "name": "(Ulgrem-Axaan) Crushing Weight",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Ulgrem-Axaan a une créature saisie avec sa queue</p>\n<hr />\n<p><strong>Effet</strong> La queue d'Ulgrem-Axaan clamps down autour de la créature, infligeant [[/r {2d4+8}[bludgeoning]]]{2d4+8 dégâts contondants} (@Check[type:fortitude|dc:25|basic:true|name:Poids écrasant]{Vigueur DD 25}).</p>"
+        },
+        {
             "id": "(Skeleton) Collapse",
             "name": "(Skeleton) Collapse",
             "description": "<p data-visibility=\"gm\"><strong>TDéclencheur</strong> Le squelette est touché par un coup critique.</p>\n<p><strong>Effet</strong> Le squelette s’écroule, formant un tas d’os, et l’attaque inflige seulement les dégâts normaux. Le squelette peut se reformer et se relever par une action mais, tant qu’il ne l’a pas fait, il se trouve @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>"
@@ -137,6 +162,11 @@
             "description": "<p>La fronde de Kuworsys devient une arme à rechargement 0 au lieu de rechargement 1.</p>"
         },
         {
+            "id": "(Melfesh Monster) False Synapses",
+            "name": "(Melfesh Monster) False Synapses",
+            "description": "<p>Le monstre melfesh contrôle partiellement une créature dans les 18 m qui a inhalé ses spores. Cela a les effets d'un sort d'Injonction (@Check[type:will|dc:24|name:Faux synapses]{Volonté (DD 24)}). Cette capacité remplace vision de spore et Nuage de spores.</p>"
+        },
+        {
             "id": "(Dragon) Change Shape",
             "name": "(Dragon) Change Shape",
             "description": "<p>Le dragon peut prendre l’apparence de n’importe quel humanoïde de Petite ou Moyenne taille. Cela ne modifie pas sa Vitesse ou le bonus à l’attaque et aux dégâts de sa Frappe mais cela peut modifier le type de dégâts infligés avec une Frappe (généralement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
@@ -145,6 +175,11 @@
             "id": "(Vampire, Vrykolakas) Vrykolakas Vulnerabilities",
             "name": "(Vampire, Vrykolakas) Vrykolakas Vulnerabilities",
             "description": "Les vrykolakas possèdent les vulnérabilités suivantes.<p> \n<ul>\n<li><strong>Lié à un site funéraire</strong> Un vrykolakas est lié au lieu de sa mort ou de son inhumation. Il doit revenir dans ce lieu une fois par semaine et s’enterrer pendant 24 heures, au cours desquelles il est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé et peut être décapité. S’il n’a pas la possibilité de retourner sur ce site, il est réduit à 0 PV et tente une Corruption sauvage ; si son animal hôte ne peut pas revenir sur le site funéraire avant que l’effet de possession prenne fin, le vrykolakas est détruit et l’animal hôte revient à la normale.</p>\n<li><strong>Vulnérable à la décapitation</strong> Un vrykolakas qui est décapité ne peut pas utiliser sa Possession férale, et un corps décapité ne peut pas revenir sous la forme d’un vrykolakas.</li>\n</ul>"
+        },
+        {
+            "id": "(Kallas Devil) Underwater Views",
+            "name": "(Kallas Devil) Underwater Views",
+            "description": "<p>Tant qu'elle est sous l'eau, la diablesse Kallas peut se mêler à l'environnement avoisinant et se cache d'autres créatures en tentant un test de Discrétion. Elle a un bonus de circonstances de +4 à ce test.</p>"
         },
         {
             "id": "(Lich) Dark Deliverance",
@@ -177,9 +212,19 @@
             "description": "<p data-visibility=\"gm\"><strong>Fréquence une fois par jour</p>\n<p><strong>Effet</strong> La liche puise dans l’énergie du <em>@Compendium[pf2e.equipment-srd.NEbr7nKuiluJgBHT]{Phylactère}</em> pour lancer n’importe quel sort arcanique qu’elle est capable de lancer, même si ce n’est pas un de ses sorts préparés. Le <em>Phylactère</em> de la liche n’a pas besoin d’être présent pour que la liche utilise ce pouvoir.</p>"
         },
         {
+            "id": "(Melfesh Monster) Vent Flames",
+            "name": "(Melfesh Monster) Vent Flames",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le monstre melfesh termine son déplacement à proximité ou subit des dégâts d'une créature adjacente</p>\n<hr />\n<p><strong>Effet</strong> Les failles dans le corps du monstre de Melfesh crachent des gaz brûlants. La créature déclencheuse doit réussir un jet de @Check[type:reflex|dc:21|name:Vent Flames|traits:damaging-effect]{Réflexes} ou à inhaler les spores qui restent dans son corps pendant 1 minute, subit [[/r {2d6}[fire]]]{2d6 dégâts de feu} et est @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (sur un échec critique, doublez les dégâts et @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2}). Catte capacité remplace Croissance réactive.</p>"
+        },
+        {
             "id": "(Ghost) Ghost Storm",
             "name": "(Ghost) Ghost Storm",
             "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 mètres}</p>\n<hr />\n<p>Le vent enveloppe le fantôme dans une zone de 9 mètres. Le vent éteint tout feu non magique, disperse le brouillard et la brume, fait voler les objets d'Encombrement léger ou moins, et repousse les objets plus large. La zone dans l'aura du vent sont considéré comme étant terrain difficile et les créatures volantes se déplacent toujours contre le vent.</p>\n<p>Le fantôme peut révoquer ou réinitialiser le vent en une action qui a le trait concentration.</p>"
+        },
+        {
+            "id": "(Melfesh Monster) Corpse Bomb",
+            "name": "(Melfesh Monster) Corpse Bomb",
+            "description": "<p>Le Monstre Melfesh injecte au cadavre d'une créature de spores sur une durée de 10 minutes, le conduisant à exploser. Ces spores durent 1 jour et le Monstre Melfesh ne peut avoir seulement trois cadavres primed en même temps ; s'il en primes un autre, la plus ancienne bombe cadavérique se désactive de manière inoffensive. Les créatures qui réussissent un test de @Check[type:perception|dc:21|name:Remarquer une bombe cadavérique|traits:action:seek,action:investigate,secret]{Perception DD 21} lorsqu'elles Cherchent ou Remarquent la nature explosive de la bombe cadavérique. Les créatures peuvent tenter de désarmer une bombe cadavérique avec un test de @Check[type:nature|dc:21|name:Désarmer une bombe cadavérique (Nature)|traits:action:disable-a-device]{Nature DD 21}, de @Check[type:survival|dc:21|name:Désactiver une bombe cadavérique (Survie)|traits:action:disable-a-device]{Survie DD 21} ou de @Check[type:thievery|dc:21|name:Désactiver une bombe cadavérique (Vol)|traits:action:disable-a-device]{Vol DD 21} pour Désamorcer un mécanisme. Une bombe cadavérique  explose dans un @Template[type:burst|distance:10]{rayon de 3 m} si une créature vient dans les 1,5 m ou si le Monstre Melfesh le fait exploser par une action unique, qu'il peut utiliser une fois par round. Cela inflige [[/r {2d8}[fire]+{2d8}[poison]]]{2d8 dégâts de feu et 2d8 dégâts de poison} (@Check[type:reflex|dc:21|basic:true|name:Bombe cadavérique]{Réflexes DD 21}) et laisse un nuage de spores persistant de 3 m de rayon. Une créature qui rentre ou commence son tour dans le nuage inhale des spores qui restent dans son corps pendant 1 minute. Cette capacité remplace Nuage de spores.</p>"
         },
         {
             "id": "(Ghost) Phantasmagoria",
@@ -190,6 +235,11 @@
             "id": "(Werecreature) Animal Empathy",
             "name": "(Werecreature) Animal Empathy",
             "description": "<p>Un garou peut communiquer avec des animaux semblables à lui.<p>"
+        },
+        {
+            "id": "(Protean) Protean Anatomy",
+            "name": "(Protean) Protean Anatomy",
+            "description": "<p>Les organes vitaux d'un protéen se transforme et changent de forme et de position constamment. Immédiatement après avoir subi des dégâts d’acide, d’électricité ou de son, il gagne une résistance à ce type de dégât indiqué. Cet effet dure 1 heure ou jusqu'à ce que le protéen subisse des dégâts d’un autre type (auquel cas sa résistance change pour adopter celle contre ce nouveau type de dégâts).</p>\n<p>Le protéen est immunisé contre les effets de métamorphose à moins d’être une cible consentante. S’il est rendu @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveugle} ou @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd}, le protéen récupère automatiquement de nouveaux organes sensoriels à la fin de son tour suivant qui croissent pour remplacer les organes compromis.</p>"
         },
         {
             "id": "(Ghost) Dreamwalker",
@@ -267,9 +317,24 @@
             "description": "<div data-visibility=\"gm\">\n<p>Cette malédiction affecte seulement les humanoïdes.</p>\n<hr /></div>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:|name:Malédiction du garou] Le DD du jet de Vigueur correspond au DD standard pour le nouveau niveau du garou −1.</p>\n<div data-visibility=\"gm\">\n<p>À chaque pleine lune, la créature maudite doit réussir un nouveau jet de Vigueur ou se changer en garou jusqu’à l’aube.</p> \n<p>Le garou est sous le contrôle du MJ et saccage tout ce qu’il trouve pendant la moitié de la nuit, après quoi il tombe inconscient jusqu’à l’aube.</p>\n</div>"
         },
         {
+            "id": "(Melfesh Monster) Death Throes",
+            "name": "(Melfesh Monster) Death Throes",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le monstre Melfesh meurt</p>\n<hr />\n<p><strong>Effet</strong> Le monstre Melfesh explose dans un rayon de @Template[type:burst|distance:30]{9 m}. Les créatures dans la zone subissent [[/r {3d8}[fire]+{3d8}[poison]]]{3d8 dégâts de feu et 3d8 dégâts de poison} (@Check[type:reflex|dc:24|basic:true|name:Death Throes]{Réflexes DD 24}). Cette capacité remplace Croissance réactive.</p>"
+        },
+        {
             "id": "(Skeleton) Bone Missile",
             "name": "(Skeleton) Bone Missile",
             "description": "<p>Le squelette arrache un côte de sa cage thoracique et l'utilise comme une flèche ou un javelot. Le squelette perd des PV égaux à son niveau (minimum 1), puis effectue une Attaque à distance.</p>\n<p>Cette attaque utilise le bonus d'attaque de la frappe du squelette le plus élevé et inflige des dégâts perforants égaux aux dégâts de cette frappe plus le niveau du squelette (minimum 1).</p>"
+        },
+        {
+            "id": "(Kuworsys) Rain Blows",
+            "name": "(Kuworsys) Rain Blows",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Kuworsys est Retourné en arrière</p>\n<hr />\n<p><strong>Effet</strong> Kuworsys Frappe chaque créature dans son allonge, jusqu'à un  maximum de quatre Frappes (une pour chaque membre disponible). Il peut faire des Frappes de membres ou des Frappes d'arme, y compris avec des armes à distance, mais peut utiliser chaque arme une fois seulement. Chaque attaque est décomptée pour calculer la pénalité d'attaques multiples de Kuworsys, mais la pénalité d'attaques multiples n'augmente pas  avant qu'il n'ait fait toutes les attaques.</p>"
+        },
+        {
+            "id": "(Nymph Queen) Tied to the Land",
+            "name": "(Nymph Queen) Tied to the Land",
+            "description": "<p>Une reine nymphe est intrinsèquement liée à une région spécifique, telle qu'une forêt pour une reine dryade. Tant que la reine est en bonne santé, l'environnement est exceptionnellement résistant, permettant à la reine nymphe de tenter automatiquement de contrer les sorts et les rituels tels que <em>@Compendium[pf2e.spells-srd.7yWXx3qC4eFNHhxD]{Blight}</em> qui devraient enommager l'environnement, en utilisant son DD de sort avec un modificateur de contre égal au sort de druide de plus haut niveau qu'elle peut lancer. Lorsque la reine nymphe est physiquement ou psychologiquement en mauvaise santé, quoi qu'il en soit, la régione sous sa garde finit par devenir tordue ou atteinte à son tour. Dans ce cas, soigner la reine nymphe permet de soigner rapidement la région entière.</p>"
         },
         {
             "id": "(Visitant) Noxious Breath",
@@ -290,6 +355,11 @@
             "id": "(Ghast) Ghast Fever",
             "name": "(Ghast) Ghast Fever",
             "description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:]</p>\n<hr />\n<p><strong>Stade 1</strong> pas d’effet sur le porteur (1 jour)</p> \n<p><strong>Stade 2</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et le malade récupère seulement la moitié des points de vie conférés par les soins (1 jour)</p>\n<p><strong>Stade 3</strong> comme le stade 2 (1 jour)</p>\n<p><strong>Stade 4</strong> [[/r {3d8}[negative]]]{3d8 dégâts négatifs} et les soins ne fonctionnent plus sur le malade (1 jour)</p> \n<p><strong>Stade 5</strong> comme stade 4 (1 jour)</p>\n<p><strong>Stade 6</strong> la créature meurt et se relève sous forme de @Compendium[pf2e.pathfinder-bestiary.VC7rtYR4hLxwg7WZ]{Blême} aux prochains coups de minuit.</p>"
+        },
+        {
+            "id": "(Kallas Devil) Infectious Water",
+            "name": "(Kallas Devil) Infectious Water",
+            "description": "<p>La diablesse Kallas  a une tendance à la vengeance et possède la capacité d'infecter les puits et les réserves d'eau de Riverton avec une brume d'égout. Elle peut infecter les réserves d'eau [[/br 1d6 #jours]]{1d6 jours} après le Festival des sabots écorchés si le sacrifice rituel du festival n'est pas accompli.</p>"
         },
         {
             "id": "(Vampire, True) Create Spawn",
@@ -352,6 +422,11 @@
             "description": "<p>Le fantôme hurle de douleur et d’angoisse en faisant voler en tous sens des débris et des petits objets dans une @Template[type:emanation|distance:30]{émanation de 9 mètres}. Les créatures dans cette zone subissent chacune [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}  + 1d6 tous les 2 niveaux. Elles ont chacune droit à un jet de @Check[type:reflex|dc:|basic:true]{Réflexes basique}.</p>"
         },
         {
+            "id": "(Kallas Devil)  Freezing Touch",
+            "name": "(Kallas Devil)  Freezing Touch",
+            "description": "<p>Lorsque l'hiver arrive à Riverton, la diablesse Kallas aiguise ses griffes avec des blocs de glace. Lorsque la diablesse Kallas porte une attaque de mâchoires ou de griffes, elle inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} supplémentaires.</p>"
+        },
+        {
             "id": "(Graveknight) Channel Magic",
             "name": "(Graveknight) Channel Magic",
             "description": "<p>Le chevalier sépulcre redirige les énergies magiques au travers de son armure, lui donnant la possibilité d'attaquer avec de la magie.</p>\n<p>Le chevalier sépulcre Lance un sort qui prend 1 ou 2 actions et demande une attaque de sort. Les effets du sort n'apparaissent pas immédiatement mais sont plutôt infusés dans une attaque. Le chevalier sépulcre effectue une attaque au corps-à-corps avec une arme ou à mains nues. Le sort est combiné à l'attaque, en utilisant le résultat du jet d'attaque pour déterminer les effets de la frappe et du sort.</p>\n<p>Cela compte comme deux attaques en ce qui concerne la pénalité d'attaque multiple du chevalier du sépulcre, mais la pénalité n'est appliquée qu'après qu'il ait terminé de canaliser la magie.</p>\n<p data-visibility=\"gm\">Le chevalier sépulcre ne peut plus utiliser la magie pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
@@ -402,6 +477,11 @@
             "description": "<p>Il est presque impossible de détruire ce zombie. Le zombie perd sa faiblesse aux dégâts tranchants et gagne une résistance contre tous les dégâts égale à son niveau (avec un minimum de 3), ainsi qu’une faiblesse aux coups critiques égale à deux fois son niveau (avec un minimum de 6).</p>\n<p>Si vous donnez ce pouvoir à un zombie augmentez son son niveau de 1 </p>"
         },
         {
+            "id": "(Ulgrem-Axaan) Fallen Victim",
+            "name": "(Ulgrem-Axaan) Fallen Victim",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature dans l'allonge d'Ulgrem Axaan est À terre et Ulgrem-Axaan ne saisit pas actuellement une autre créature</p>\n<hr />\n<p><strong>Effet</strong> Ulgrem-Axaan tente une Frappe de mâchoires contre la créature. Si elle est réussie, Ulgrem-Axaan @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisit} immédiatement la créature et la créature subit [[/r {2d10}[bludgeoning]]]{2d10 dégâts contondants} supplémentaires.</p>"
+        },
+        {
             "id": "(Vampire, True) Change Shape",
             "name": "(Vampire, True) Change Shape",
             "description": "<p>Le vampire se change en l’une de ses formes animales ou reprend sa forme normale. La plupart des vampires peuvent se changer en chauve-souris, mais certains se transforment en d’autres créatures, comme un rat ou un loup.</p>\n<p>Utilisez les options des sorts <em>@Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne et @Compendium[pf2e.spells-srd.wp09USMB3GIW1qbp]{Forme animale}</em> comme guides.</p>\n<p><strong>Chauve-souris</strong> Le vampire se change en chauve-souris ou en @Compendium[pf2e.pathfinder-bestiary.C9s5tBxVValC2HTE]{Chauve-souris géante}. Il gagne écholocation à 12 mètres, une Vitesse au sol de 6 mètres, une Vitesse de vol de 9 mètres et une Frappe avec les crocs dotée du même bonus d’attaque que son meilleur bonus d’attaque au corps-à-corps. Ces crocs infligent les mêmes dégâts que les griffes du vampire, mais ils sont de nature perforante et non tranchante.</p>"
@@ -410,6 +490,11 @@
             "id": "(Divine Warden) Divine Destruction",
             "name": "(Divine Warden) Divine Destruction",
             "description": "<p>Lorsque le Garde divin est réduit à 0 PV, il explose en une énergie divine d'une émanation de 9 mètres infligeant [[/r {1d6}]]{1d6 dégâts} par niveau. Ces dégâts sont soit positifs soit négatifs, déterminés par la nature divine de la divinité protectrice (choisie à la création du gardien divin si la divinité offre un choix), et cette capacité gagne le trait correspondant. Chaque créature dans la zone doit tenter un jet de sauvegarde Volonté avec les résultats suivants :</p>\n<hr />\n<p><strong>Succès critique</strong> La créature subit la moitié des dégâts</p>\n<p><strong>Succès</strong> La créature subit tous les dégâts.</p>\n<p><strong>Échec</strong> La créature subit tous les dégâts et devient temporairement maudite par la divinité protectrice. La créature devient  @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1 et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée} 1 pendant 1 jour; Ceci est un effet de malédiction qui utilise le DD de jet de sauvegarde Volonté comme DD de contre.</p>\n<p><strong>Échec critique</strong> Comme Échec, sauf que la créature devient Affaibilie 2 et Stupéfiée 2.</p>"
+        },
+        {
+            "id": "(Nymph Queen) Focus Beauty",
+            "name": "(Nymph Queen) Focus Beauty",
+            "description": "<p>La reine nymphe focalise sa beauté sur une cible dans son aura. La créature doit tenter un jet de @Check[type:will|dc:0]{Volonté}. En cas d'échec, elle est affectée comme si elle était de l'aura de beauté de la reine nymphe ; si elle était déjà affectée par l'aura, elle subit un effet plus grand décrit dans l'entrée de la reine nymphe. Une reine nymphe peut Foclaiser la beauté sur une créature donnée seulement une fois par tour.</p>"
         },
         {
             "id": "(Ravener) Soulsense",
@@ -492,6 +577,11 @@
             "description": "<p>Cette malédiction affecte quiconque porte l’armure du chevalier sépulcre pendant au moins une heure.</p>\n<hr />\n<p><strong>Jet de sauvegarde</strong> @Check[type:will|dc:]</p>\n<hr />\n<p><strong>Délai</strong> 1 heure</p> \n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné 1} et ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 2</strong> Condamné 2, la vitesse de la créature est réduite de 3 m et elle ne peut retirer l’armure (1 jour)</p>\n<p><strong>Stade 3</strong> meurt et se transforme en Chevalier sépulcre de l’armure.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.6rnB7nK6J6zF4vea]{Effet : Malédiction du chevalier sépulcre}</p>"
         },
         {
+            "id": "(Melfesh Monster) Flame Lash",
+            "name": "(Melfesh Monster) Flame Lash",
+            "description": "<p>Le monstre Melfesh asperge du gaz enflammé dans un @Template[type:cone|distance:15]{cône de 4,5 m} ou une @Template[type:line|distance:30]{ligne de 9 m}. Les créatures dans la zone subissent [[/r {4d6}[fire]]]{4d6 dégâts de feu} (@Check[type:reflex|dc:21|basic:true|name:Flame Lash]{Réflexes DD 21}). Cette capacipté remplace la Frappe à distance de lance de feu.</p>"
+        },
+        {
             "id": "(Ghost) Haunted House",
             "name": "(Ghost) Haunted House",
             "description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois toutes les 10 minutes</p>\n<p><strong>Effect</strong> Le fantôme étend sa présence à l'ensemble de son site lié jusqu'à la fin de son prochain tour. Dans cette zone, le fantôme peut étendre ses sens et bénéficier de @Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]{Vision à 360°}, et peut effectuer des attaques de main fantomatique ou utiliser des capacités spéciales provenant de n'importe quelle partie de la zone.</p>"
@@ -510,6 +600,11 @@
             "id": "(Ghost) Beatific Appearance",
             "name": "(Ghost) Beatific Appearance",
             "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature dont le fantôme a connaissance, cible le fantôme pour une attaque.</p>\n<p><strong>Effect</strong> Le fantôme a une apparence inhabituellement pitoyable ou peut changer ses traits pour ressembler à un proche de l'attaquant, ce qui fait reculer la cible dans son attaque.</p>\n<p>La créature déclencheuse doit réussit un jet de @Check[type:will|dc:]{Volonté}. Sur un échec, la créature subit une pénalité de circonstances de -1 à son jet d'attaque (-2 sur un échec critique).</p>"
+        },
+        {
+            "id": "(Melfesh Monster) Mycelial Tomb",
+            "name": "(Melfesh Monster) Mycelial Tomb",
+            "description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature est dans les 27 m du monstre Melfesh et se tient sur le sol</p>\n<hr />\n<p><strong>Effet</strong> Des fils fongiques émergent du sol. La créature doit réussir un jet de @Check[type:reflex|dc:21|name:Tombe mycélienne]{Réflexes DD 21} ou elle inhale les spores de Melfesh qui restent dans son corps pendant 1 minute, est encastrée dans le mycellium et est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 2}. Le mycellium possède une Solidité de 8 et 16 PV et le DD pour en Forcer l'ouvertue est de 21. En libérant du mycélium la créature, vous mettez un terme à l'effet Ralenti. Si quelqu'un d'autre que les créatures encastrées brisent le mycelium de l'extérieur, la créature est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie 1} et subit tout les dégâts infligés par l'effet qui le brise et qui excèdent les Points de Vie du mycellium. Cela remplace la capacité Envelopper.</p>"
         },
         {
             "id": "(Ghost) Malevolent Possession",
@@ -557,6 +652,11 @@
             "description": "<p>PV __; CA __, Vig +__, Réf +__, Vol +__</p>\n<hr />\n<p>Le chevalier sépulcre invoque une monture surnaturelle comme avec le sort <em>@Compendium[pf2e.spells-srd.WPKJOhEihhcIm2uQ]{Coursier fantôme}</em> intensfié jusqu’à un niveau égal à la moitié de celui du chevalier.</p>\n<p>Contrairement à <em>Coursier fantôme</em>, la CA et les bonus aux jets de sauvegarde de la monture sont inférieurs de 4 points à ceux du chevalier et la monture a un tiers des points de vie du Chevalier sépulcre (arrondi à l’inférieur).</p>\n<p>Si la monture est détruite, le chevalier doit attendre 1 heure avant de pouvoir de nouveau utiliser ce pouvoir.</p>"
         },
         {
+            "id": "(Spring-Heeled Jack) Resonant Terror",
+            "name": "(Spring-Heeled Jack) Resonant Terror",
+            "description": "<p>Jack à ressort regarde fixement une créature qu'il peut voir dans les 9 m. La cible doit immédiatement tenter un jet de Volonté (DD égal au DD de l'arme de Souffle de Jack) ou être @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 1} (@Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 2} sur un échec critique) et il ne peut réduire sa condition Effrayé en dessous de 1 pendant 24 heures ou jusqu'à ce que la malédiction jusqu'à ce que la malédiction soit retirée. Après avoir tenté ce jet de sauvegarde, la créature est temporairement immunisé à cette capacité pendant 24 heures.</p>"
+        },
+        {
             "id": "(Ravener) Consume Soul",
             "name": "(Ravener) Consume Soul",
             "description": "<p data-visibility=\"gm\"><strong>Déclencheur. Une créature vivante dans un rayon de 9 mètres périt</p> \n<p><strong>Effet</strong> Le dévoreur arrache l’âme du corps de la créature d’un coup de croc et l’engloutit. La créature mourante doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"death,divine,necromancy\" data-pf2-label=\"Consume Soul DC\" data-pf2-show-dc=\"gm\">Vigueur</span> contre le même DD que le souffle du dévoreur draconique.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> Le dévoreur arrache un bout de l’âme de la créature. Si la victime est ramenée à la vie, elle est [pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée} 1 en plus des autres effets secondaires éventuellement liés à sa résurrection. Le dévoreur ajoute un montant de PV égal à la moitié du niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec</strong> Comme un succès, mais l’âme de la créature est déchiquetée. La créature est Drainée 3 et le dévoreur ajoute un montant de PV égal au niveau de la créature à son armure d’âmes.</p>\n<p><strong>Échec critique</strong> Comme pour un échec, mais le dévoreur consume la totalité de l’âme. Tant que le dévoreur draconique existe, il est impossible de ramener la victime à la vie, à moins d’utiliser un effet de niveau 10 comme <em>@Compendium[pf2e.spells-srd.YfJTXyVGzLhM6V8U]{Miracle}</em> ou <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}</em>. Le dévoreur ajoute un montant de PV égal au double du niveau de la créature à son armure d’âmes.</p>\n</div>"
@@ -575,6 +675,11 @@
             "id": "(Graveknight) Ruinous Weapons",
             "name": "(Graveknight) Ruinous Weapons",
             "description": "<p>Au moment de sa création, un chevalier sépulcre choisit un des types suivants d’énergie qui avait un rapport avec sa vie ou avec sa mort : acide, électricité, feu ou froid.</p>\n<p>Toute arme utilisée par le chevalier sépulcre gagne les effets de la rune d’arme corrosive, froid, foudre ou enflammée, respectivement, en plus d’une rune de frappe +1.</p>\n<p>Si le chevalier sépulcre est au moins de niveau 14, son arme gagne à la place les effets de la version supérieure de ces deux runes.</p>"
+        },
+        {
+            "id": "(Spring-Heeled Jack) Vanishing Leap",
+            "name": "(Spring-Heeled Jack) Vanishing Leap",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Jack à ressort utilise Chambre forte</p>\n<hr />\n<p><strong>Effet</strong> Jack à ressort est @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} pendant 1 round.</p>"
         },
         {
             "id": "(Vampire, Vrykolakas Master) Children of the Night",
@@ -607,6 +712,11 @@
             "description": "<p>La Frappe de main de la liche inflige des dégâts de froid au lieu de dégâts négatifs et au lieu d’être paralysée, la cible est Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 2.</p>\n<p>Un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"arcane,curse,necromancy\" data-pf2-label=\"DD Au-delà dir froid\" data-pf2-show-dc=\"gm\">Vigueur</span> réussi permet de réduire cet état à Ralenti 1 (ou annuler cet état en cas de succès critique).</p>"
         },
         {
+            "id": "(Kuworsys) Careless Block",
+            "name": "(Kuworsys) Careless Block",
+            "description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature tente une Frappe contre Kuworsys</p>\n<hr />\n<p><strong>Effet</strong> Kuworsys bloque la Frappe déclencheuse en interposant sa fronde ou une arme volée en une position de blocage. Les dégâts sont infligés à l'arme de Kuworsys en premier. Si l'arme devrait être détruits, les dégâts en excès sont infligés à Kuworsys.</p>"
+        },
+        {
             "id": "(Ghost) Inhabit Object",
             "name": "(Ghost) Inhabit Object",
             "description": "<p>Le fantôme possède un objet de Grande taille ou plus petit situé à 6 mètres ou moins de lui et en fait un objet animé. Le niveau de cet objet animé ne peut pas être supérieur à celui du fantôme −2. Si l’objet ciblé est tenu par une créature, celle-ci peut faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Inhabit Object DC\" data-pf2-show-dc=\"gm\">Volonté</span> pour empêcher la possession.</p> \n<p data-visibility=\"gm\">Cette possession prend fin quand l’objet est détruit ou si le fantôme en sort. Le cas échéant, le fantôme réapparaît dans la case de l’objet et ne peut de nouveau Occuper un objet avant[[/br 1d4 #rounds]](1d4 rounds}.</p>"
@@ -625,6 +735,11 @@
             "id": "(Worm That Walks) Swarm Shape",
             "name": "(Worm That Walks) Swarm Shape",
             "description": "<p>Le ver-qui-marche s’effondre en une nuée de vers informe. Il lâche tous les objets qu’il tient ou porte. Tant qu’il se trouve ainsi fragmenté, le ver-quimarche ne peut pas utiliser d’actions pour attaquer ni lancer de sorts, mais il peut traverser n’importe quelle zone dans laquelle ses vers peuvent se déplacer individuellement sans avoir besoin de Se faufiler. Il peut utiliser la même action pour reprendre sa forme normale.</p>"
+        },
+        {
+            "id": "(Ulgrem-Axaan) Crocodile Tears",
+            "name": "(Ulgrem-Axaan) Crocodile Tears",
+            "description": "<p>Ulgrem-Axaan peut imiter le son d'un animal traqué blessé en tentant un test de Duperie pour Mentir. Il obtient un bonus de circonstances de +4 à ce test.</p>"
         },
         {
             "id": "(Melfesh Monster) Burrowing Grasp",
