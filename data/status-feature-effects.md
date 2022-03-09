@@ -1,30 +1,18 @@
 # État de la traduction (feature-effects)
 
- * **aucune**: 59
- * **vide**: 7
+ * **libre**: 14
+ * **vide**: 6
+ * **aucune**: 46
 
 
-Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[01-0H4WuqjCxpXX67eK.htm](feature-effects/01-0H4WuqjCxpXX67eK.htm)|Effect: Major Skillful Ancestor Curse|
-|[01-2uZfgqV279rxX4NK.htm](feature-effects/01-2uZfgqV279rxX4NK.htm)|Effect: Minor Skillful Ancestor Curse|
-|[01-2XEYQNZTCGpdkyR6.htm](feature-effects/01-2XEYQNZTCGpdkyR6.htm)|Effect: Battle Medicine Immunity|
-|[01-3gGBZHcUFsHLJeQH.htm](feature-effects/01-3gGBZHcUFsHLJeQH.htm)|Effect: Elemental Blood Magic (Self)|
-|[01-5q4JYkYlqOK2kXWy.htm](feature-effects/01-5q4JYkYlqOK2kXWy.htm)|Effect: Moderate Battle Curse|
-|[01-6fb15XuSV4TNuVAT.htm](feature-effects/01-6fb15XuSV4TNuVAT.htm)|Effect: Hag Blood Magic|
 |[01-74K4QxDp37huY8dm.htm](feature-effects/01-74K4QxDp37huY8dm.htm)|Effect: Moderate Bones Curse|
-|[01-7BFd8A9HFrmg6vwL.htm](feature-effects/01-7BFd8A9HFrmg6vwL.htm)|Effect: Psychopomp Blood Magic (Self)|
-|[01-922SDayUnipK4wlx.htm](feature-effects/01-922SDayUnipK4wlx.htm)|Effect: Minor Battle Curse|
-|[01-9AUcoY48H5LrVZiF.htm](feature-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|
-|[01-9GIlMB09zKCsnuBP.htm](feature-effects/01-9GIlMB09zKCsnuBP.htm)|Effect: Moderate Life Curse|
-|[01-aKRo5TIhUtu0kyEr.htm](feature-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|
-|[01-c6yRHikgf6cm7cyB.htm](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
-|[01-cCouACwRwxjEgy7u.htm](feature-effects/01-cCouACwRwxjEgy7u.htm)|Effect: Major Cosmos Curse|
 |[01-d0fXbhu8qH1TQwXE.htm](feature-effects/01-d0fXbhu8qH1TQwXE.htm)|Effect: Moderate Flames Curse|
 |[01-FClOlGn44lFLqmbA.htm](feature-effects/01-FClOlGn44lFLqmbA.htm)|Effect: Moderate Spellcasting Ancestor Curse|
 |[01-FNTTeJHiK6iOjrSq.htm](feature-effects/01-FNTTeJHiK6iOjrSq.htm)|Effect: Draconic Blood Magic|
@@ -81,9 +69,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-I0g5oaSwaqZ8fFAV.htm](feature-effects/01-I0g5oaSwaqZ8fFAV.htm)|Effect: Tempest Curse|vide|
 |[01-rwDsr5XsrYcH7oFT.htm](feature-effects/01-rwDsr5XsrYcH7oFT.htm)|Effect: Cosmos Curse|vide|
 |[01-Tju9kpQlwcKkyKor.htm](feature-effects/01-Tju9kpQlwcKkyKor.htm)|Effect: Lore Curse|vide|
-|[01-V6lnFOq998B76Rr0.htm](feature-effects/01-V6lnFOq998B76Rr0.htm)|Effect: Ancestor Curse|vide|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[01-0H4WuqjCxpXX67eK.htm](feature-effects/01-0H4WuqjCxpXX67eK.htm)|Effect: Major Skillful Ancestor Curse|Effet : Malédiction majeure de l'ancêtre talentueux|libre|
+|[01-2uZfgqV279rxX4NK.htm](feature-effects/01-2uZfgqV279rxX4NK.htm)|Effect: Minor Skillful Ancestor Curse|Effet : Malédiction mineure l'ancêtre talentueux|libre|
+|[01-2XEYQNZTCGpdkyR6.htm](feature-effects/01-2XEYQNZTCGpdkyR6.htm)|Effect: Battle Medicine Immunity|Effet : Immunité à Médecine militaire|libre|
+|[01-3gGBZHcUFsHLJeQH.htm](feature-effects/01-3gGBZHcUFsHLJeQH.htm)|Effect: Elemental Blood Magic (Self)|Effet : Magie du sang élémentare (soi-même)|libre|
+|[01-5q4JYkYlqOK2kXWy.htm](feature-effects/01-5q4JYkYlqOK2kXWy.htm)|Effect: Moderate Battle Curse|Effet : Malédiction modérée du combat|libre|
+|[01-6fb15XuSV4TNuVAT.htm](feature-effects/01-6fb15XuSV4TNuVAT.htm)|Effect: Hag Blood Magic|Effet : Magie du sang guenaude|libre|
+|[01-7BFd8A9HFrmg6vwL.htm](feature-effects/01-7BFd8A9HFrmg6vwL.htm)|Effect: Psychopomp Blood Magic (Self)|Effet : Magie du sang psychopompe (soi-même)|libre|
+|[01-922SDayUnipK4wlx.htm](feature-effects/01-922SDayUnipK4wlx.htm)|Effect: Minor Battle Curse|Effet : Malédiction mineure du combat|libre|
+|[01-9AUcoY48H5LrVZiF.htm](feature-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|Effet : Magie du sang génie (soi-même)|libre|
+|[01-9GIlMB09zKCsnuBP.htm](feature-effects/01-9GIlMB09zKCsnuBP.htm)|Effect: Moderate Life Curse|Effet : Malédiction modérée de la vie|libre|
+|[01-aKRo5TIhUtu0kyEr.htm](feature-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|Effet : Magie du sang démoniaque (Soi-même)|libre|
+|[01-c6yRHikgf6cm7cyB.htm](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même)|libre|
+|[01-cCouACwRwxjEgy7u.htm](feature-effects/01-cCouACwRwxjEgy7u.htm)|Effect: Major Cosmos Curse|Effet : Malédiction majeure du cosmos|libre|
+|[01-V6lnFOq998B76Rr0.htm](feature-effects/01-V6lnFOq998B76Rr0.htm)|Effect: Ancestor Curse|Effet : Malédiction des ancêtres|libre|

@@ -151,7 +151,7 @@
         },
         {
             "id": "Pactbound Dedication",
-            "name": "Dévouement de Lié par un pacte (Pactbound Dedication)",
+            "name": "Dévouement : Lié par un pacte (Pactbound Dedication)",
             "description": "<p>Vous vous êtes lié d'amitié avec l'un des derniers saumen kar et avez reçu une fraction de leur pouvoir, ce qui vous donne la possibilité de devenir un gardien de leur ancien pacte. Vous gagnez une résistance au froid égale à la moitié de votre niveau. Vous pouvez @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{vous Cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} lorsqu'il neige, même légèrement, même si la neige n'est pas assez épaisse pour vous permettre de vous Masquer. Enfin, tous les saumen kar peuvent sentir la marque de leur pacte sur vous et leur attitude envers vous est généralement un cran au-dessus de ce qu'elle serait autrement (hostile à inamical, inamical à indifférent, etc.) La plupart des saumen kar sont inamicaux envers les étrangers ; cela devrait les rendre indifférents envers vous.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons dans l'archétype d'Initié lié par un pacte.</p>",
             "prereq": [
                 {
@@ -285,7 +285,7 @@
         },
         {
             "id": "Cavalier Dedication",
-            "name": "Dévouement de Cavalier (Cavalier Dedication)",
+            "name": "Dévouement : Cavalier (Cavalier Dedication)",
             "description": "<p>Vous obtenez un compagnon animal jeune qui vous sert de monture. Vous pouvez choisir parmi les compagnons animaux disposant de la capacité spéciale monture, ainsi que toute option supplémentaire liée à votre choix, à la discrétion du MJ. Vous devez choisir un compagnon animal qui est au moins d'une taille supérieure à la vôtre, mais si l'animal débute habituellement en étant Petit, vous pouvez commencer avec une version Moyenne de cet animal (sans changer d'autre caractéristique que sa taille).</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir pris deux autres dons dans l'archétype de cavalier. Cette restriction est levée si vous vous êtes voué à l'organisation associée avec un autre don de dévouement. Par exemple, si vous vous vouez à un ordre de Chevalier infernal, vous pourriez prendre les dons de dévouement des Chevaliers infernaux sans avoir besoin de prendre en premier d'autres dons de l'archétype de cavalier.</p>",
             "prereq": [
                 {
@@ -401,7 +401,7 @@
         },
         {
             "id": "Weapon Improviser Dedication",
-            "name": "Dévouement d'improvisateur d'arme (Weapon Improviser Dedication)",
+            "name": "Dévouement : Improvisateur d'arme (Weapon Improviser Dedication)",
             "description": "<p>Vous ne subissez pas la pénalité habituelle de -2 aux jets d'attaque avec les armes improvisées. De plus, lorsque vous obtenez une capacité de classe qui vous donne la maîtrise experte ou supérieure avec n'importe quelle arme, vous obtenez aussi cette maîtrise avec les armes improvisées.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype d'improvisateur d'arme.</p>",
             "prereq": [
                 {
@@ -489,7 +489,7 @@
         },
         {
             "id": "Spellmaster Dedication",
-            "name": "Dévouement du Maître des sorts (Spellmaster Dedication)",
+            "name": "Dévouement : Maître des sorts (Spellmaster Dedication)",
             "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
             "prereq": [
                 {
@@ -825,7 +825,7 @@
         },
         {
             "id": "Ghost Hunter Dedication",
-            "name": "Dévouement de Chasseur de fantômes (Ghost Hunter Dedication)",
+            "name": "Dévouement : Chasseur de fantômes (Ghost Hunter Dedication)",
             "description": "<p>Vous avez concentré votre entraînement sur la chasse et à vaincre les fantômes, les esprits et toutes les sortes d'apparitions. Prenez Connaissance des esprits ou Connaissance des apparitions ; vous devenez qualifié dans cette compétence. Si vous étiez déjà qualifié dans les deux compétences, vous devenez qualifié dans une nouvelle Connaissance de votre choix.</p>\n<p>Choisissez deux tours de magie de la liste de sorts occultes. Chaque tour de magie doit avoir le trait divination, enchantement ou nécromancie. Vous pouvez lancer ces sorts comme des sorts innés occultes. Vous obtenez accès à l'activité Lancer un sort si vous ne l'aviez pas déjà. Vous êtes qualifié en jets d'attaques de sort occulte et en DD de sort occulte. Vous pouvez ordinairement remplacer les composantes matérielles avec des composantes somatiques, de sorte que vous n'avez pas besoin de sacoche de composantes. Votre caractéristique essentielle pour ces sorts est le Charisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de chasseur de fantômes.</p>",
             "prereq": [
                 {
@@ -960,7 +960,7 @@
         },
         {
             "id": "Oozemorph Dedication",
-            "name": "Dévouement de Vasemorphe (Oozemorph Dedication)",
+            "name": "Dévouement : Vasemorphe (Oozemorph Dedication)",
             "description": "<p>Vous êtes victime de réarrangements sporadiques qui vous accordent une idée de ce que vivent d'autres créatures avec des anatomies inhabituelles. Vous devenez qualifié en Occultisme et en Connaissance des vases ; si vous étiez déjà qualifié, vous devenez un expert à la place. Vous obtenez un bonus de circonstances de +2 aux jets de Réflexes pour éviter d'être @Compendium[pf2e.bestiary-ability-glossary-srd.zU3Ovaet4xQ5Gmvy]{Englouti} par des créatures et aux tests pour @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Vous échapper} après avoir été Englouti.</p>\n<p>Au fur et à mesure que vous développez davantage de capacités basées sur votre affliction amorphe, vous devenez de plus en plus rebutant pour les créatures communes. Vous subissez une pénalité aux tests de Diplomatie contre les animaux et les humanoïdes. Cette pénalité est égale au nombre de dons de classe de l'archétype de Vasemorphe, jusqu'à un maximum de -4 pour 4 dons et plus.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Vasemorphe.</p>"
         },
         {
@@ -1259,7 +1259,7 @@
         },
         {
             "id": "Shadowdancer Dedication",
-            "name": "Dévouement de Danseur de l'ombre (Shadowdancer Dedication)",
+            "name": "Dévouement : Danseur de l'ombre (Shadowdancer Dedication)",
             "description": "<p>Vous vous dédiez aux ombres. Votre coloration devient grise et sombre, vos sens s'ajustent à l'obscurité et vous pouvez être furtif dans l'obscurité avec facilité. Vous obtenez @Compendium[pf2e.ancestryfeatures.vPhPgzpRjYDMT9Kq]{Vision dans le noir supérieure}. Vous obtenez aussi un bonus de circonstances de +2 aux tests de Discrétion lorsque vous êtes dans une zone de lumière faible ou dans l'obscurité.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Danseur de l'ombre.</p>",
             "prereq": [
                 {
@@ -1612,7 +1612,7 @@
         },
         {
             "id": "Scroll Trickster Dedication",
-            "name": "Dévouement d'Usurpateur de parchemins (Scroll Trickster Dedication)",
+            "name": "Dévouement : Usurpateur de parchemins (Scroll Trickster Dedication)",
             "description": "<p>Vous avez étudié les parchemins en profondeur. Cela pourrait avoir été le fruit d'une éducation exhaustive dans un cadre formel ou la sorte d'éducation liée au fait d'avoir obtenu un grand nombre de parchemins et d'avoir essayé de ne rien faire exploser d'autre ce que vous aviez l'intention de faire exploser. Vous obtenez le don @Compendium[pf2e.feats-srd.uR62fVC9FyQAMCO1]{Usurpation d'objet magique} et vous obtenez un bonus de circonstances de +2 aux jets de compétence pour Usurper des parchemins. Si vous obtenez un échec critique lorsque vous Usurpez un objet magique qui est un parchemin, vous obtenez à la place un échec.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype d'Usurpateur de parchemins.</p>",
             "prereq": [
                 {
@@ -1678,7 +1678,7 @@
         },
         {
             "id": "Elementalist Dedication",
-            "name": "Dévouement d'élémentaliste (Elementalist Dedication)",
+            "name": "Dévouement : Élémentaliste (Elementalist Dedication)",
             "description": "<p>Chaque jour, lorsque vous faites vos préparatifs quotidiens, vous pouvez vous accorder avec un élément de votre choix : l'air, la terre, le feu ou l'eau.</p>\n<p>Vous obtenez une résistance égale à la moitié de votre niveau (une résistance de 1 au minimum) contre les dégâts infligés par les effets avec le trait élémentaire auquel vous vous êtes accordé.</p>\n<p>Cette harmonisation dure jusqu'à vos prochains préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas gagné deux autres dons de l'archétype élémentaliste.</p>",
             "prereq": [
                 {
@@ -1881,7 +1881,7 @@
         },
         {
             "id": "Cathartic Mage Dedication",
-            "name": "Dévouement de mage cathartique (Cathartic Mage Dedication)",
+            "name": "Dévouement : Mage cathartique (Cathartic Mage Dedication)",
             "description": "<p>Vous avez appris à maîtriser une émotion particulière et à l'intégrer à votre magie. Choisissez une émotion parmi les États émotionnels pour être votre émotion de catharsis.</p>\n<p>Si vous ne lancez pas déjà des sorts à partir d'emplacements de sorts, vous apprenez à lancer des sorts spontanés et gagnez l'activité Lancer un sort. Vous gagnez un répertoire de sorts avec un tour de magie de votre choix issu d'une liste de sorts de votre choix. Vous choisissez ce tour de magie parmi les sorts courants de la liste de sorts de votre choix ou parmi les autres sorts auxquels vous avez accès sur cette liste. Vous êtes qualifié avec les jets d'attaque de sorts et le DD de sorts de cette tradition. Votre caractéristique d'incantation pour ces sorts est le Charisme.</p>\n<p>Si vous pouvez déjà lancer des sorts à partir d'emplacements de sorts, vous apprenez un tour de magie supplémentaire de votre tradition de lanceur de sorts. Si vous êtes un lanceur de sorts préparé, vous pouvez préparer ce sort en plus de vos tours de magie habituels quotidiens ; si vous êtes un lanceur de sorts spontané, vous ajoutez ce tour de magie à votre répertoire de sorts.</p>\n<p>Vous obtenez la réaction @Compendium[pf2e.actionspf2e.2424g94rpoiN1IPh]{Catharsis} et l'activité @Compendium[pf2e.actionspf2e.EhLvRWFKhZ3HtrZO]{Maîtriser ses émotions}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype de Mage cathartique.</p>",
             "prereq": [
                 {
@@ -1969,7 +1969,7 @@
         },
         {
             "id": "Firebrand Braggart Dedication",
-            "name": "Dévouement d'Agitateur vantard (Firebrand Braggart Dedication)",
+            "name": "Dévouement : Agitateur vantard (Firebrand Braggart Dedication)",
             "description": "<p>Votre entraînement d'Agitateur vous a enseigné que terminer quelque chose est plus satisfaisant si vous vous en êtes vanté d'abord. Vous lancez une vantardise à propos d'une action de compétence particulière, comme Garder l'équilibre, Démoraliser ou Vous souvenir. La première fois que vous essayez cette action au cours de la prochaine minute dans un contexte que le MJ estime être un défi acceptable et significatif, vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstances de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstances de –1 sur les tests pour tenter la même action pendant 1 heure.</p>\n<p>Si l'action choisie peut être utilisée avec de multiples compétences, comme Identifier la magie ou Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser Arcanes pour Identifier la magie et votre bonus ou pénalité après la vantardise ne s'applique qu'aux tests qui utilisent cette compétence pour cette action. Une fois que vous avez lancé une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir cette même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.</p>\n<p>Typiquement une tâche qui constitue un défi est une tâche ayant au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succès ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.</p>",
             "prereq": [
                 {
@@ -2008,7 +2008,7 @@
         {
             "id": "Heart of the Kaiju",
             "name": "Cœur de Kaiju (Heart of the Kaiju)",
-            "description": "<p>Ayant été témoin de près la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a réveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant Morphologie monstrueuse, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, de froid, d'électricité, de feu ou soniques ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gargantuesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<ul>\n<li><strong>Kaiju</strong> Vitesse 12 mètres ; résistance 5 dégâts physiques ;</li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Mâchoires (portée 6 mètres), <strong>Dégâts</strong> [[/r {3d12+20}[piercing]]]{3d12+20 perforants} </li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Griffes (agile, allonge 6 mètres), <strong>Dégâts</strong>[[/r {3d8+20}[slashing]]]{3d8+20 tranchants}</li>\n<li><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un @Template[type:cone|distance:60]{cône de 18 mètres}  subit [[/r {15d6}]]{15d6 dégâts} (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois utilisée, votre arme de souffle ne peut plus être utilisée pendant [[/br 1d4 #rounds]]{1d4 rounds}.</li>\n</ul>",
+            "description": "<p>Le fait d'avoir été témoin de près de la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a éveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant <em>Morphologie monstrueuse</em>, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, d'électricité, de feu, de froid ou de son ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gigantesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<ul>\n<li><strong>Kaiju</strong> Vitesse 12 mètres ; résistance 5 dégâts physiques</li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Mâchoires (portée 6 mètres), <strong>Dégâts</strong> [[/r {3d12+20}[piercing]]]{3d12+20 perforants} </li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Griffes (agile, allonge 6 mètres), <strong>Dégâts</strong>[[/r {3d8+20}[slashing]]]{3d8+20 tranchants}</li>\n<li><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un @Template[type:cone|distance:60]{cône de 18 mètres} subit [[/r {15d6}]]{15d6 dégâts} (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois activée, votre arme de souffle ne peut plus être utilisée pendant [[/br 1d4 #rounds]]{1d4 rounds}.</li>\n</ul>",
             "prereq": [
                 {
                     "value": "Morphologie monstrueuse"
@@ -2078,7 +2078,7 @@
         },
         {
             "id": "Golden League Xun Dedication",
-            "name": "Dévouement de Xun de la Ligue dorée (Golden League Xun Dedication)",
+            "name": "Dévouement : Xun de la Ligue dorée (Golden League Xun Dedication)",
             "description": "<p>Vous êtes un Xun de la Ligue dorée, aidant l'organisation. Vous gagnez la maîtrise experte dans deux des compétences suivantes (ou dans deux autres compétences de votre choix dans lesquelles vous êtes qualifié, si vous étiez déjà un expert dans les compétences listées) : Athlétisme, Discrétion, Duperie ou Intimidation. De plus, si vous utilisez Connaissance de la pègre pour Gagner des revenus ou Vous souvenir, lorsque vous obtenez un succès, vous obtenez un succès critique à la place.</p>.\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype Xun de la Ligue dorée.</p>",
             "prereq": [
                 {
@@ -3088,7 +3088,7 @@
         },
         {
             "id": "Martial Artist Dedication",
-            "name": "Dévouement d'Artiste martial (Martial Artist Dedication)",
+            "name": "Dévouement : Artiste martial (Martial Artist Dedication)",
             "description": "<p>Vous vous êtes entraîné à utiliser vos poings comme des armes mortelles. Le dé de dégâts pour votre attaque à mains nues de poings devient [[/r 1d6]] au lieu de 1d4. Vous ne subissez pas la pénalité de circonstances de -2 lorsque vous portez des attaques létales avec vos attaques à mains nues non létales. Lorsque vous obtenez une capacité de classe qui vous donne la maîtrise experte ou supérieure avec certaines armes, vous obtenez aussi ce rang de maîtrise avec toutes vos attaques à mains nues.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Artiste martial.</p>"
         },
         {
@@ -3399,7 +3399,7 @@
         },
         {
             "id": "Red Mantis Assassin Dedication",
-            "name": "Dévouement d'Assassin des Mantes rouges (Red Mantis Assassin Dedication)",
+            "name": "Dévouement : Assassin des Mantes rouges (Red Mantis Assassin Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire de l’île de Médiogalti.</p>\n<hr />\n<p>Vous avez appris à traquer vos ennemis et à les assassiner au sabre dentelé.</p>\n<p>Vous êtes qualifié en Discrétion et en Connaissances des assassins ; si vous êtes déjà qualifié, vous devenez expert. Lorsque votre rang de maîtrise dans le maniement de n’importe quelle arme augmente au rang d’expert ou plus, vous gagnez également ce nouveau rang de maîtrise pour les @Compendium[pf2e.equipment-srd.wkzxLpSe7LN6c5Ld]{Sabres dentelés}.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un nouveau don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Assassin des Mantes rouges.</p>",
             "prereq": [
                 {
@@ -3418,7 +3418,7 @@
         },
         {
             "id": "Aldori Duelist Dedication",
-            "name": "Dévouement de Duelliste Aldori (Aldori Duelist Dedication)",
+            "name": "Dévouement : Duelliste Aldori (Aldori Duelist Dedication)",
             "description": "<p><strong>Accès</strong>  Vous êtes originaire de la région des Terres brisées</p>\n<hr />\n<p>Votre formation de duelliste aldori vous enseigne des techniques martiales et renforce votre dévouement envers l’épée de duel aldorie. Vous êtes qualifié au choix dans la compétence Acrobaties ou Athlétisme et dans la compétence Connaissance des duels ; si vous êtes déjà qualifié, vous devenez expert. Lorsque votre rang de maîtrise dans le maniement de n’importe quelle arme augmente au rang d’expert ou plus, vous gagnez également ce nouveau rang de maîtrise avec les épées de duel aldories. Vous avez accès aux épées de duel aldories.</p>\n<hr />\n<p><strong>Spécial</strong>  Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de duelliste aldori.</p>",
             "prereq": [
                 {
@@ -3530,7 +3530,7 @@
         {
             "id": "Replenishing Hydration",
             "name": "Hydratation complète (Replenishing Hydration)",
-            "description": "<p>Vous vous régénérez en puisant la vie de l'eau qui vous entoure. Si vous vous submergez dans l'eau et vous reposez pendant 10 minutes, vous regagnez des Points de vie égaux à votre modificateur de [[/r {(floor(@actor.level/2))*(@actor.abilities.con.mod)}[healing]]]{Constitution × la moitié de votre niveau}.</p>"
+            "description": "<p>Vous vous régénérez en puisant la vie de l'eau qui vous entoure. Si vous vous immergez dans l'eau et vous reposez pendant 10 minutes, vous regagnez des Points de vie égaux à votre modificateur de [[/r {(floor(@actor.level/2))*(@actor.abilities.con.mod)}[healing]]]{Constitution × la moitié de votre niveau}.</p>"
         },
         {
             "id": "Miraculous Flight",
@@ -3919,7 +3919,7 @@
         },
         {
             "id": "Nantambu Chime-Ringer Dedication",
-            "name": "Dévouement de Sonneur de carillon de Nantambu (Nantambu Chime-Ringer Dedication)",
+            "name": "Dévouement : Sonneur de carillon de Nantambu (Nantambu Chime-Ringer Dedication)",
             "description": "<p>Vous avez étudié les bases de l'harmonie et de la résonance en magie, illustrées par le tintement des carillons. Vous gagnez un unique tour de magie arcanique ou occulte de votre choix, intensifié à un niveau de sort égal à la moitié de votre niveau, arrondi au supérieur. Si vous ne l'étiez pas déjà, vous êtes qualifié en DD des sorts et aux jets d'attaque de sorts de cette tradition, avec l'Intelligence comme caractéristique d'incantation si vous choisissez Arcanes ou Charisme comme comme caractéristique d'incantation si vous choisissez l'Occultisme. Quel que soit votre choix, vous devenez également soit qualifié en Arcanes soit en Occultisme, soit expert dans l'une de ces compétences si vous êtes déjà qualifié dans les deux.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype Sonneur de carillon de Nantambu.</p>",
             "prereq": [
                 {
@@ -3983,7 +3983,7 @@
         },
         {
             "id": "Inventor Dedication",
-            "name": "Dévouement d'Inventeur (Inventor Dedication)",
+            "name": "Dévouement : Inventeur (Inventor Dedication)",
             "description": "<p>Vous êtes qualifié en Artisanat et dans le DD de classe d'Inventeur. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.XR95taODq1sq82Du]{Inventeur}, même si vous ne remplissez pas les prérequis du don. Choisissez une innovation. Vous obtenez cette innovation, bien que vous n'obteniez aucune autre capacité qui modifie ou utilise cette innovation, tels que des modifications ou Exploser.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir d'autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype d'Inventeur.</p>",
             "prereq": [
                 {
@@ -4063,7 +4063,7 @@
         },
         {
             "id": "Pirate Dedication",
-            "name": "Dévouement du Pirate (Pirate Dedication)",
+            "name": "Dévouement : Pirate (Pirate Dedication)",
             "description": "<p>En qualité de pirate, vous naviguez sur les océans à la recherche de navires ennemis à piller. Vous êtes qualifié en Connaissance de la Navigation ou devenez expert si vous étiez déjà qualifié.</p>\n<p>Vous ignorez les effets du terrain difficile ou d'un sol inégal provoqué par les déplacements d'un bateau. De plus, vous obtenez l'action @Compendium[pf2e.actionspf2e.vZltxwRNvF5khf9a]{Assaut d'abordage}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de Dévouement avant d'avoir choisi deux autres dont de l'archétype de pirate.</p>",
             "prereq": [
                 {
@@ -4407,7 +4407,7 @@
         },
         {
             "id": "Swordmaster Dedication",
-            "name": "Dévouement de Maître des épées (Swordmaster Dedication)",
+            "name": "Dévouement : Maître des épées (Swordmaster Dedication)",
             "description": "<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes lorsque des adversaires essaient de vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstances de +2 grâce à Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Maître des épées.</p>",
             "prereq": [
                 {
@@ -4635,7 +4635,7 @@
         },
         {
             "id": "Unexpected Sharpshooter Dedication",
-            "name": "Dévouement de Tireur d'élite inattendu (Unexpected Sharpshooter Dedication)",
+            "name": "Dévouement : Tireur d'élite inattendu (Unexpected Sharpshooter Dedication)",
             "description": "<p>Qui a besoin de compétence lorsque vous avez déjà une satanée chance ? Quelques fois, votre tir touche de manière miraculeuse, en dépit du fait que vous avez semblé glisser lorsque vous avez tiré sur la détente ou que vous ne visiez pas votre adversaire lorsque vous avez tiré. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.FzZAYGib08aEq5P2]{Tir accidentel}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Tireur d'élite inattendu.</p>"
         },
         {
@@ -5047,7 +5047,7 @@
         },
         {
             "id": "Acrobat Dedication",
-            "name": "Dévouement d'Acrobate (Acrobat Dedication)",
+            "name": "Dévouement : Acrobate (Acrobat Dedication)",
             "description": "<p>Vous devenez un expert en Acrobaties. Au niveau 7, vous devenez maître en Acrobaties et au niveau 15, vous devenez légendaire en Acrobaties. Lorsque vous obtenez une réussite critique sur un test d'Acrobaties pour réaliser un @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Déplacement acrobatique} dans la case d'un ennemi, vous ne considérez pas la case de l'adversaire comme un terrain difficile.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l'Archétype d'Acrobate.</p>",
             "prereq": [
                 {
@@ -5352,7 +5352,7 @@
         },
         {
             "id": "Cleric Dedication",
-            "name": "Dévouement du prêtre (Cleric Dedication)",
+            "name": "Dévouement : Prêtre (Cleric Dedication)",
             "description": "<p>Vous lancez des sorts comme un prêtre. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie courants à partir de la liste des sorts divins du livre de base ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype prêtre est la Sagesse et ce sont des sorts de prêtre divins.</p>\n<p>Choisissez une divinité comme si vous étiez un prêtre. Vous devenez lié par l’anathème de cette divinité.</p>\n<p>Vous devenez qualifié en Religion et dans la compétence associée à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre divinité.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de prêtre.</p>",
             "prereq": [
                 {
@@ -5433,7 +5433,7 @@
         },
         {
             "id": "Barbarian Dedication",
-            "name": "Dévouement de barbare (Barbarian Dedication)",
+            "name": "Dévouement : Barbare (Barbarian Dedication)",
             "description": "<p>Vous devenez qualifié en Athlétisme ; si vous l’étiez déjà, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de barbare. Vous pouvez utiliser l’action @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Rage}. Choisissez un instinct comme si vous étiez un barbare. Vous avez cet instinct dans tous les cas de figure et devenez lié par son anathème, mais il ne vous confère aucune autre capacité.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype barbare.</p>",
             "prereq": [
                 {
@@ -5741,7 +5741,7 @@
         },
         {
             "id": "Rogue Dedication",
-            "name": "Dévouement du roublard (Rogue Dedication)",
+            "name": "Dévouement : Roublard (Rogue Dedication)",
             "description": "<p>Vous gagnez un don de compétence et la capacité de classe @Compendium[pf2e.classfeatures.w6rMqmGzhUahdnA7]{Attaque surprise} du roublard. Vous devenez qualifié en armures légères. En outre, vous devenez qualifié en Discrétion ou en Vol, plus une compétence de votre choix ; si vous êtes déjà qualifié en Discrétion et en Vol, vous devenez à la place qualifié dans une compétence supplémentaire de votre choix. Vous devenez qualifié dans le DD de classe de roublard.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype roublard.</p>",
             "prereq": [
                 {
@@ -6013,7 +6013,7 @@
         },
         {
             "id": "Gladiator Dedication",
-            "name": "Dévouement du Gladiateur (Gladiator Dedication)",
+            "name": "Dévouement : Gladiateur (Gladiator Dedication)",
             "description": "<p>Vous savez comment transformer un combat en une forme de spectacle.</p>\n<p>Vous êtes qualifié en connaissance des Gladiateurs ; si vous êtes déjà entraîné en connaissance des Gladiateurs, vous devenez dans une autre compétence de connaissance de votre choix.</p>\n<p>Au début d'une rencontre de combat, si vous disposez de spectateurs, vous obtenez un nombre de PV temporaires égaux à votre niveau de personnage pendant 1 minute et vous pouvez lancer Représentation pour déterminer votre initiative.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de Dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype du Gladiateur.</p>",
             "prereq": [
                 {
@@ -6080,7 +6080,7 @@
         {
             "id": "Blind-Fight",
             "name": "Combat en aveugle (Blind-Fight)",
-            "description": "<p>Vos intuitions dans la bataille vous rendent plus attentifs à vos opposants masqués ou invisibles. Vous n'avez pas besoin de réussir de test nu pour cibler les créatures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}.</p>\n<p>Vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} face aux créatures qui vous sont @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} (à moins que vous ne soyez Pris au dépourvu pour d'autres raisons que celle liée à la condition Cachée) et nous n'avez besoin seulument que d'un test nu réussi contre un DD5 pour cibler une créature Cachée.</p>\n<p>Lorsque vous êtes adjacent à une créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} de votre niveau ou plus faible, vous considérez qu'elle vous est à seulement Cachée.</p>",
+            "description": "<p>Vos intuitions dans la bataille vous rendent plus attentifs à vos opposants masqués ou invisibles. Vous n'avez pas besoin de réussir de test nu pour cibler les créatures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}.</p>\n<p>Vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} face aux créatures qui vous sont @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} (à moins que vous ne soyez Pris au dépourvu pour d'autres raisons que celle liée à la condition Cachée) et vous avez uniquement besoin d'un test nu réussi contre un DD 5 pour cibler une créature Cachée.</p>\n<p>Lorsque vous êtes adjacent à une créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} de votre niveau ou plus faible, vous considérez qu'elle vous est à seulement Cachée.</p>",
             "prereq": [
                 {
                     "value": "maître en Perception"
@@ -6328,7 +6328,7 @@
         },
         {
             "id": "Medic Dedication",
-            "name": "Dévouement de Médecin (Medic Dedication)",
+            "name": "Dévouement : Médecin (Medic Dedication)",
             "description": "<p>Vous devenez un expert en Médecine.</p>\n<p>Lorsque vous obtenez un Succès avec @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire} ou @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures}, la cible récupère 5 PV supplémentaire avec un DD 20, 10 PV avec un DD 30 ou 15 PV avec un DD 40.</p>\n<p>Une fois par jour, vous pouvez utiliser Médecine militaire sur une créature qui est temporairement immunisée. Si vous êtes maître en Médecine, Vous pouvez le faire une fois par heure.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Médecin.</p>",
             "prereq": [
                 {
@@ -6471,7 +6471,7 @@
             "description": "<p>Vous découvrez les secrets de l'intégration des pierres d'éternité dans votre chair. Vous passez 1 jour à vous harmoniser à une pierre d'éternité et à l'intégrer physiquement dans votre peau. Alors que la pierre est intégrée de la sorte, vous obtenez les avantages de la pierre d'éternité comme si elle orbitait au dessus de votre tête, mais elle empêche que la pierre soit remarquée ou volée aussi facilement. Les pierres d'éternité dans votre chair doivnt être investies pour fonctionner comme à l'ordinaire.</p>\n<p>Vous pouvez aussi utiliser cette activité pour retirer sans danger une pierre d'éternité intégrée en 1 jour. Quelqu'un qui ne dispose pas de ce don peut tenter de la retirer  chirugicalement sans danger en passant 1 journée et en réussissant un test de Médecine DD 30, ou à la hâte en l'arrachant simplement d'un cadavre.</p>",
             "prereq": [
                 {
-                    "value": "Dévouement de Seigneur des runes"
+                    "value": "Dévouement : Seigneur des runes"
                 },
                 {
                     "value": "qualifié en Artisanat"
@@ -6704,7 +6704,7 @@
         },
         {
             "id": "Student of Perfection Dedication",
-            "name": "Dévouement de l'Étudiant en perfection (Student of Perfection Dedication)",
+            "name": "Dévouement : Étudiant en perfection (Student of Perfection Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes de Jalmeray</p>\n<hr />\n<p>Vous avez appris les techniques martiales de votre maison de la Perfection. Vous êtes qualifié au choix dans la compétence Acrobatie ou Athlétisme et dans la compétence Connaissance de la guerre ; si vous êtes déjà qualifié vous devenez expert. Vous gagnez le don de classe de moine @Compendium[pf2e.feats-srd.3a07jkWezSuORSpS]{Frappe Ki}, qui vous donne le sort de ki frappe ki et une réserve de focalisation de 1 point, que vous pouvez recharger grâce à l’activité Refocaliser, comme les moines. Vos sorts de ki issus d’Étudiant en perfection sont des sorts occultes.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype étudiant en perfection.</p>",
             "prereq": [
                 {
@@ -6717,7 +6717,7 @@
         },
         {
             "id": "Drow Shootist Dedication",
-            "name": "Dévouement de Tireur drow (Drow Shootist Dedication)",
+            "name": "Dévouement : Tireur drow (Drow Shootist Dedication)",
             "description": "<p>Dès que vous en avez l'occasion, vous vous entraînez avec l'arbalète de poing pour améliorer la vitesse avec laquelle vous la dégainez et votre précision. Chaque fois que vous obtenez une capacité de classe qui vous confère la maîtrise experte ou supérieure dans une ou plusieurs armes données, vous obtenez également cette maîtrise avec l'arbalète de poing.</p>\n<p>Si vous êtes au moins expert avec l'arbalète de poing que vous utilisez, vous avez accès à son effet de critique spécialisé.</p>\n<p>Vous gagnez également l'action @Compendium[pf2e.actionspf2e.hV9wXLvgH2LBaBwk]{Rapidité du tireur}.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir acquis deux autres dons de l'archétype de Tireur drow.</p>",
             "prereq": [
                 {
@@ -6727,7 +6727,7 @@
         },
         {
             "id": "Oracle Dedication",
-            "name": "Dévouement d'Oracle (Oracle Dedication)",
+            "name": "Dévouement : Oracle (Oracle Dedication)",
             "description": "<p>Choisissez un @Compendium[pf2e.classfeatures.PRJYLksQEwT39bTl]{Mystère}. Vous êtes qualifié en Religion et dans la compétence correspondant au mystère ; si vous étiez déjà qualifié, vous devenez qualifié dans une compétence de votre choix.</p>\n<p>Vous obtenez les effets constants légers de la malédiction du mystère décrite dans son premier paragraphe mais pas les autres effets que le mystère accorde habituellement.</p>\n<p>Vous lancez des sorts comme un oracle et obtenez l'activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}. Vous obtenez un répertoire de sorts avec deux tours de magie, soit des tours de magie courants divins ou des tours de magie divine que vous apprenez ou découvrez. Vous êtes qualifié avec les jets d'attaque des sorts divins et le DD des sorts divins. Votre caractéristique essentielle pour les sorts de l'archétype d'Oracle est le Charisme et il s'agit de sorts divins d'oracle.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'oracle.</p>",
             "prereq": [
                 {
@@ -6949,7 +6949,7 @@
         },
         {
             "id": "Dandy Dedication",
-            "name": "Dévouement du Dandy (Dandy Dedication)",
+            "name": "Dévouement : Dandy (Dandy Dedication)",
             "description": "<p>Vous êtes un étudiant accompli de la dignité, de l'étiquette et de la mode.</p>\n<p>Vous pouvez utiliser la compétence Diplomatie pour accomplir l'activité spéciale d'intermède Influencer la rumeur, en passant au moins un jour d'intermède pour en manipuler le cours, le ton ou le contenu à votre avantage.</p>\n<p>La difficulté pour Influencer une rumeur est déterminée par le MJ et elle est fonction de la taille de la communauté, de la réceptivité relative de ses habitants et de l'influence des autres colporteurs de rumeurs, mais elle débute typiquement avec un DD 15 minimum dans un petit village et passe à au moins un DD 20 dans une ville, un DD 30 dans une cité et un DD 40 au minimum dans une métropole.</p>\n<p>Vous devenez qualifié en Duperie et en Société ; si vous l'étiez déjà, vous devenez expert à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l'archétype du Dandy.</p>",
             "prereq": [
                 {
@@ -7073,7 +7073,7 @@
         },
         {
             "id": "Knight Reclaimant Dedication",
-            "name": "Dévouement de Chevalier récupérateur (Knight Reclaimant Dedication)",
+            "name": "Dévouement : Chevalier récupérateur (Knight Reclaimant Dedication)",
             "description": "<p>Vous avez prêté le Serment écarlate et êtes devenu un membre à part entière des Reconquérants écarlates. Vous devenez expert en Discrétion et en Survie. Lorsque vous obtenez un succès sur un jet de sauvegarde contre une capacité spéciale d'un mort-vivant, vous obtenez un succès critique à la place. Cela s'applique à toutes les capacités qui viennent de l'état de mort-vivant, incluant les sorts innés des morts-vivants (mais pas leurs sorts préparés ou spontanés).</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Chevalier reconquérant.</p>",
             "prereq": [
                 {
@@ -7213,7 +7213,7 @@
         },
         {
             "id": "Linguist Dedication",
-            "name": "Dévouement du linguiste (Linguist Dedication)",
+            "name": "Dévouement : Linguiste (Linguist Dedication)",
             "description": "<p>Vous avez étudié les langues et leurs développements. Vous devenez qualifié en Société ; si vous étiez déjà qualifié en Société, vous devenez à la place expert en Société. Vous obtenez le don de compétence  @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Polyglotte} deux fois.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Linguiste.</p>",
             "prereq": [
                 {
@@ -7236,7 +7236,7 @@
         },
         {
             "id": "Hellknight Signifer Dedication",
-            "name": "Dévouement du Signifer (Hellknight Signifer Dedication)",
+            "name": "Dévouement : Signifer (Hellknight Signifer Dedication)",
             "description": "<p>Vous avez renforcé votre force de volonté avec le pouvoir de la Mesure et de la Chaîne. Lors de votre initiation, vous recevez un masque de signifer, souvent dépourvu de fentes pour les yeux ou de tout autre ornement décoratif.</p>\n<p>Le masque ne vous obscurcit pas la vision, bien qu'il rende impossible à ceux qui vous regardent de voir vos yeux. Lorsque vous portez votre masque de signifer, vous obtenez un bonus de circonstances de +1 aux tests de Duperie pour Mentir, aux tests d'Intimidation et au DD de Duperie lorsque que quelqu'un cherche à @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner vos intentions}. vous obtenez la maîtrise experte en Intimidation (ou en une autre compétence dans laquelle vous êtes déjà qualifié de votre choix si vous étiez déjà un expert en Intimidation) ainsi qu'à votre choix en Arcanes, en Nature, en Occultisme ou en Religion.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir de nouveau don de dévouement avant d'avoir obtenu deux autres dons d'archétypes de @Compendium[pf2e.archetypes.GwItivMACzBmW82g]{Signifer Chevalier infernal} ou d'@Compendium[pf2e.archetypes.LYYDozZfXok19VYW]{Écuyer chevalier infernal}.</p>",
             "prereq": [
                 {
@@ -7313,7 +7313,7 @@
         },
         {
             "id": "Archer Dedication",
-            "name": "Dévouement de l'Archer (Archer Dedication)",
+            "name": "Dévouement : Archer (Archer Dedication)",
             "description": "<p>Vous êtes qualifié avec toutes les armes simples et de guerre figurant dans le groupe des arcs. Lorsque vous obtenez une capacité de classe qui vous accorde une maîtrise experte ou supérieure avec certaines armes, vous obtenez également ce rang de maîtrise avec toutes les armes simples et de guerre du groupe des arcs. Si vous êtes au moins expert dans l'arc que vous maniez, vous obtenez accès à l'effet de critique spécialisé avec cet arc.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'Archer.</p>"
         },
         {
@@ -7504,7 +7504,7 @@
         },
         {
             "id": "Demolitionist Dedication",
-            "name": "Dévouement de Démolisseur (Demolitionist Dedication)",
+            "name": "Dévouement : Démolisseur (Demolitionist Dedication)",
             "description": "<p>Vous savez comment placer des explosifs pour qu'ils provoquent le plus possible de dégâts aux bâtiment et aux autre structures. Vous êtes qualifié en Connaissance de l'Ingénierie ou devenez expert si vous étiez déjà qualifié. Vous obtenez l'action @Compendium[pf2e.actionspf2e.vvYsE7OiSSCXhPdr]{Placer des explosifs}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Démolisseur.</p>"
         },
         {
@@ -7884,7 +7884,7 @@
         },
         {
             "id": "Beastmaster Dedication",
-            "name": "Dévouement de Maître des bêtes (Beastmaster Dedication)",
+            "name": "Dévouement : Maître des bêtes (Beastmaster Dedication)",
             "description": "<p>Vous obtenez les services d'un jeune compagnon animal qui voyage avec vous et obéit à vos ordres. Contrairement aux règles habituelles pour les compagnons animaux, ce don peut vous accorder un deuxième compagnon animal. Si vous deviez obtenir plus d'un compagnon animal, vous obtenez l'action @Compendium[pf2e.actionspf2e.8kGpUUUSX1sB2OqQ]{Appeler un compagnon}. Voir Le Compagnon animal du Maître des bêtes ci-dessous</p>\n<p>Certains dons de maître des bêtes vous donnent des sorts de focalisation primordiales. Lorsque vous obtenez votre premier sort de focalisation de Maître des bêtes, vous devenez qualifié en attaques de sorts primordiaux et en DD de sort et votre caractéristique d'incantation pour ces sorts est le Charisme. Les dons qui vous accordent des sorts de focalisation vous permettent d'augmenter le nombre de Points de focalisation de votre réserve, mais si vous ne possédez pas encore de réserve de focalisation, vous en obtenez une à la place avec 1 Point de focalisation.</p>\n<p>Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en apportant des soins, en nourrissant, en jouant ou en vous occupant d'un compagnon animal.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons d'archétype de Maître des bêtes.</p>\n<hr />\n<p><strong>Animal Compagnon du Maître des bêtes</strong></p>\n<p>En tant que Maître des bêtes, vous pouvez avoir plus d'un compagnon animal à la fois - jusqu'à quatre compagnons - mais un seul de ces compagnons, votre \"compagnon actif\", vous suit pendant l'exploration et les rencontres ; les autres sont à proximité, généralement en train de chercher de la nourriture ou de chasser. Dès que vous obtenez un deuxième compagnon animal grâce à l'archétype Maître des bêtes, vous obtenez également Appeler compagnon pour changer votre compagnon actif. Ces règles s'appliquent à tous vos compagnons, que le compagnon animal soit issu de l'archétype du Maître des bêtes ou d'une autre source.</p>",
             "prereq": [
                 {
@@ -7962,7 +7962,7 @@
         },
         {
             "id": "Sorcerer Dedication",
-            "name": "Dévouement de l'ensorceleur (Sorcerer Dedication)",
+            "name": "Dévouement : Ensorceleur (Sorcerer Dedication)",
             "description": "<p>Choisissez @Compendium[pf2e.classfeatures.2goYo6VNbwC6aKF1]{un lignage}. Vous devenez qualifié dans deux compétences de ce lignage ; pour chacune de ces compétences dans laquelle vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix.</p>\n<p>Vous obtenez l'accès à l'activité Lancer un sort. Vous gagnez un répertoire de sorts avec deux tours de magie courants issus de la liste de sorts associée à votre lignage, issus des sorts accordés par votre lignage ou que vous avez découverts ou appris et qui appartiennent à cette tradition. Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts de votre tradition. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype ensorceleur est le Charisme et il s’agit de sorts d’ensorceleur de la tradition de votre lignage. Vous ne gagnez aucune autre capacité venant du choix de votre lignage.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype ensorceleur.</p>",
             "prereq": [
                 {
@@ -8090,7 +8090,7 @@
         },
         {
             "id": "Reach Beyond",
-            "name": "Atteindre audelà (Reach Beyond)",
+            "name": "Atteindre l'au-delà (Reach Beyond)",
             "description": "<p>Vous avez appris à déplacer votre énergie spirituelle au-delà de vous-même pour attaquer les esprits là où les autres ne le peuvent pas. Vous pouvez porter des Frappes au corps-à-corps contre les créatures incorporelles qui se trouvent à l'intérieur d'objets solides, tant que l'objet est à votre portée. Une créature incorporelle se trouvant à l'intérieur d'un objet solide est Cachée, ce qui vous oblige à réussir un test nu contre un DD 11 lorsque vous la ciblez. Vous pouvez dépenser une action, qui possède le trait concentration, pour vous concentrer sur une créature à l'intérieur d'un objet solide. Si vous le faites, la prochaine Frappe au corps-à-corps que vous effectuez ce tour ne nécessite de réussir qu'un test nu DD 6 pour affecter la créature.</p>",
             "prereq": [
                 {
@@ -8165,7 +8165,7 @@
         },
         {
             "id": "Pathfinder Agent Dedication",
-            "name": "Dévouement d'Agent des Éclaireurs (Pathfinder Agent Dedication)",
+            "name": "Dévouement : Agent des Éclaireurs (Pathfinder Agent Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire d'Absalom.</p>\n<hr />\n<p>Votre entraînement d'Éclaireur a élargi vos horizons et vous a rendu plus polyvalent dans des compétences variées, car vous ne savez jamais si vous pourrez avoir besoin de connaissances obscures pour achever votre mission.</p>\n<p>Vous devenez qualifié en une compétence de votre choix, ou expert dans une compétence de votre choix dans laquelle vous êtes déjà qualifié. Vous devenez qualifié en Connaissance des Éclaireurs ou expert si vous étiez déjà qualifié. Lorsque vous utilisez une compétence dans laquelle vous êtes inexpérimenté, votre bonus de compétence est égal à votre niveau au lieu de 0. Vous obtenez l'accès aux guides magiques des éclaireurs.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez obtenir d'autre don de dévouement avant d'avoir obtenu deux autres dons dans l'archétype d'Agent des Éclaireurs.</p>",
             "prereq": [
                 {
@@ -8653,7 +8653,7 @@
         },
         {
             "id": "Folklorist Dedication",
-            "name": "Dévouement de Folkloriste (Folklorist Dedication)",
+            "name": "Dévouement : Folkloriste (Folklorist Dedication)",
             "description": "<p>Vous êtes un maître de l'archivage et du divertissement, capable de tirer des enseignements des histoires que vous racontez et de tisser vos alliés et ennemis dans un récit puissant. Vous gagnez l'action @Compendium[pf2e.actionspf2e.hPZQ5vA9QHEPtjFW]{Broder un conte}</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir gagné deux autres dons de l'archétype Folkloriste.</p>",
             "prereq": [
                 {
@@ -8904,7 +8904,7 @@
         },
         {
             "id": "Herbalist Dedication",
-            "name": "Dévouement d'herboriste (Herbalist Dedication)",
+            "name": "Dévouement : Herboriste (Herbalist Dedication)",
             "description": "<p>Vous pouvez créer des remèdes et autres produits avec des herbes. Vous obtenez les avantages d'alchimie basique, bien que cette capacité ne s'applique qu'aux objets à base d'herbes : les objets alchimiques qui possèdent le trait guérison, les @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{antidotes} et les @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{Antimaladies}.</p>\n<p>Vous obtenez des lots de réactifs imprégnés par jour égaux à votre niveau ou à la moitié de votre niveau si vous n'avez pas effectué vos préparatifs quotidiens dans les étendues sauvages. Votre niveau d'@Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée} pour les créer est de 1 et n'augmente pas tout seul.</p>\n<p>Vous devenez un expert en Nature et pouvez utiliser Nature au lieu d'Artisanat pour @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets à base d'herbes. Vous n'avez pas besoin d'être qualifié en Artisanat ou de posséder le don @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique} pour le faire et vous pouvez utiliser des @Compendium[pf2e.equipment-srd.4ftXXUCBHcf4b0MH]{Outils de guérisseur} au lieu d'outils d'alchimiste.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype d'Herboriste.</p>",
             "prereq": [
                 {
@@ -8960,7 +8960,7 @@
         },
         {
             "id": "Alchemist Dedication",
-            "name": "Dévouement de l'alchimiste (Alchemist Dedication)",
+            "name": "Dévouement : Alchimiste (Alchemist Dedication)",
             "description": "<p>Vous aimez durant votre temps libre bricoler des formules et des substances alchimiques, et vos études ont dépassé le stade de la simple expérimentation.</p>\n<p>Vous mettez en pratique votre intérêt pour l’alchimie. Vous devenez qualifié dans les bombes alchimiques et l’Artisanat ; si vous étiez déjà qualifié en Artisanat, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe d’alchimiste. Vous gagnez la capacité de classe d’alchimiste @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Réactifs imprégnés}, en même temps qu’un nombre de réactifs quotidiens égal à votre niveau. Vous obtenez également le don @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique}, ainsi que quatre formules supplémentaires pour des objets alchimiques de niveau 1 et le pouvoir de créer des objets gratuits lors de vos préparatifs quotidiens. Votre niveau d’alchimie avancée est de 1 et n’augmente pas de son propre chef.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype alchimiste.</p>",
             "prereq": [
                 {
@@ -8995,7 +8995,7 @@
         },
         {
             "id": "Blessed One Dedication",
-            "name": "Dévouement d'Élu divin (Blessed One Dedication)",
+            "name": "Dévouement : Élu divin (Blessed One Dedication)",
             "description": "<p>Vous êtes touché par une divinité qui vous a accordé la faculté d'alléger les souffrances d'autrui. Vous obtenez le sort de dévotion <em>@Compendium[pf2e.spells-srd.zNN9212H2FGfM7VS]{Imposition des mains}</em>. Il faut dépenser 1 Point de focalisation pour lancer un sort de focalisation. Ce don vous accorde une réserve de focalisation de 1 Point de Focalisation que vous pouvez récupérer en utilisant l'activité @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser}.</p>\n<p>Vous pouvez Refocaliser en méditant, que vous souhaitiez refléter ou non le fait que vous êtes élu de la divinité, ce qui vous permet de remplir votre réserve de focalisation. Vos sorts de dévotion de l'archétype Élu divin sont des sorts divins.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Élu divin.</p>"
         },
         {
@@ -9187,7 +9187,7 @@
         },
         {
             "id": "Dual-Weapon Warrior Dedication",
-            "name": "Dévouement de combattant à deux armes (Dual-Weapon Warrior Dedication)",
+            "name": "Dévouement : Combattant à deux armes (Dual-Weapon Warrior Dedication)",
             "description": "<p>Vous êtes exceptionnel dans votre utilisation de deux armes.</p>\n<p>Vous obtenez le don de guerrier @Compendium[pf2e.feats-srd.onde0SxLoxLBTnvm]{Double taille}. Cela vous permet de considérer que vous bénéficiez de Double taille pour les besoins de remplir les prérequis.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype de Combattant à deux armes.</p>"
         },
         {
@@ -9622,7 +9622,7 @@
         },
         {
             "id": "Living Monolith Dedication",
-            "name": "Dévouement de Monolithe vivant (Living Monolith Dedication)",
+            "name": "Dévouement : Monolithe vivant (Living Monolith Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire de la région de la route Dorée</p>\n<hr />\n<p>Vous avez commencé la confection d’une pierre magique appelée <em>pierre de ka</em> que vous lierez un jour à votre âme. Vous acquérez des connaissances sur l’Ancien Osirion et un lien avec votre pierre de ka naissante. Si vous ratez un test de récupération alors que vous êtes Mourant, cet état n’empire pas et si vous obtenez un échec critique, votre état Mourant augmente seulement de 1. Vous devenez également qualifié dans la compétence Connaissance de l’Ancien Osirion ou expert si vous étiez déjà qualifié.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de monolithe vivant.</p>",
             "prereq": [
                 {
@@ -9911,7 +9911,7 @@
         },
         {
             "id": "Eldritch Researcher Dedication",
-            "name": "Dévouement de Chercheur Mystique (Eldritch Researcher Dedication)",
+            "name": "Dévouement : Chercheur mystique (Eldritch Researcher Dedication)",
             "description": "<p>Vous obtenez la capacité de lancer un unique tour de magie arcanique ou occulte de votre choix (qui est intensifié à un niveau de sort égal à la moitié de votre niveau, arrondi au supérieur). Si vous ne l'étiez pas déjà, vous devenez qualifié dans le DD de la tradition de ce sort et en jet d'attaque de sort avec l'Intelligence pour caractéristique d'incantation.</p>\n<p>Que vous ayez choisi un tour de magie occulte ou arcanique, vous devenez aussi un expert, à votre choix, soit en Arcanes soit en Occultisme. Vous obtenez aussi un bonus de circonstances de +1 aux tests pour tenter d'Enquêter ou d'Identifier la magie avec la compétence choisie.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l’archétype de Chercheur mystique.</p>",
             "prereq": [
                 {
@@ -10213,7 +10213,7 @@
         },
         {
             "id": "Turpin Rowe Lumberjack Dedication",
-            "name": "Dévouement de Bûcheron de Turpin Rowe (Turpin Rowe Lumberjack Dedication)",
+            "name": "Dévouement : Bûcheron de Turpin Rowe (Turpin Rowe Lumberjack Dedication)",
             "description": "<p><strong>Archétype</strong> @Compendium[pf2e.archetypes.VRUYc3QyRjjOjppc]{Bûcheron de Turpin Rowe}</p>\n<p><strong>Accès</strong> Vous devez vous lier d'amitié avec au moins un bûcheron de Turpin Rowe.</p>\n<hr />\n<p>Votre entraînement dans l'abattage des troncs vous a rendu intimement familier avec tous les aspects de la forêt et vous a entraîné à entourer les troncs et à utiliser leur stature à votre avantage. Vous devenez qualifié en Connaissance des scieries et Connaissance de la Forêt ou expert si vous étiez déjà qualifié  auparavant. Vous pouvez toujours vous @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mettre à l'abri} lorsque vous vous trouvez sur un terrain forestier pour obtenir un abri, même si vous n'êtes pas à proximité d'un obstacle derrière lequel vous pouvez vous mettre à l'abri. En outre, tout adversaire qui se met à l'abri derrière un arbre ne bénéficie que d'un abri partiel contre vos attaques (ou d'un abri standard si l'ennemi obtient autrement un abri important).</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de Bûcheron de Turpin Rowe.</p>",
             "prereq": [
                 {
@@ -10258,7 +10258,7 @@
         },
         {
             "id": "Gunslinger Dedication",
-            "name": "Dévouement de franc-tireur (Gunslinger Dedication)",
+            "name": "Dévouement : Franc-tireur (Gunslinger Dedication)",
             "description": "<p>Vous êtes qualifié avec les arbalètes simples et de guerre et les armes à feu simples et de guerre. Vous êtes qualifié dans le DD de classe de Franc-tireur. Choisissez une Voie de @Compendium[pf2e.classfeatures.LDqVxLKrwEqSegiu]{Franc-tireur}. Vous devenez qualifié dans la compétence associée ; si vous l'étiez déjà, vous êtes qualifié dans une compétence de votre choix. Vous n'obtenez pas d'autres capacité de votre choix de voie.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Franc-tireur.</p>",
             "prereq": [
                 {
@@ -10534,7 +10534,7 @@
         },
         {
             "id": "Ranger Dedication",
-            "name": "Dévouement du rôdeur (Ranger Dedication)",
+            "name": "Dévouement : Rôdeur (Ranger Dedication)",
             "description": "<p>Vous devenez qualifié en Survie ; si c’était déjà le cas, vous devenez à la place qualifié dans une autre compétence de votre choix. Vous devenez qualifié dans le DD de classe de rôdeur. Vous pouvez utiliser l’action @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie}.</p>\n<hr />\n<p><strong>Spécial</strong>  Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de rôdeur</p>",
             "prereq": [
                 {
@@ -11221,7 +11221,7 @@
         },
         {
             "id": "Investigator Dedication",
-            "name": "Dévouement d'Enquêteur (Investigator Dedication)",
+            "name": "Dévouement : Enquêteur (Investigator Dedication)",
             "description": "<p>vous obtenez la capacité de classe @Compendium[pf2e.classfeatures.6FasgIXUJ1X8ekRn]{Sur l'affaire}, qui vous accorde à la fois l'activité @Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]{Suivre une piste} et la réaction @Compendium[pf2e.actionspf2e.25WDi1cVUrW92sUj]{Partager les indices}. Vous devenez qualifié en Société et une autre compétence de votre choix. Si vous étiez déjà qualifié en Société, vous devenez qualifié en une compétence supplémentaire de votre choix. Vous devenez qualifié en DD de classe d'Enquêteur.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas choisi deux autres dons de l'archétype d'enquêteur.</p>",
             "prereq": [
                 {
@@ -11370,7 +11370,7 @@
         },
         {
             "id": "Staff Acrobat Dedication",
-            "name": "Dévouement du Funambule (Staff Acrobat Dedication)",
+            "name": "Dévouement : Funambule (Staff Acrobat Dedication)",
             "description": "<p>Lorsque vous @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Sautez en hauteur}, @Compendium[pf2e.actionspf2e.d5I6018Mci2SWokk]{Bondissez} ou @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Sautez en longueur} alors que vous maniez votre bâton, vous obtenez un bonus de circonstances de +2 à tout test d'Athlétisme nécessaire et ajoutez +1,5 m à la distance que vous pouvez franchir verticalement et horizontalement. Vous pouvez @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} et faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} même si vous n'avez pas de main libre, pourvu que vous maniez votre bâton. Enfin, lorsque vous obtenez un succès sur un test pour @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Garder l'équilibre} lorsque vous maniez votre bâton, vous obtenez un succès critique à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Funambule.</p>",
             "prereq": [
                 {
@@ -11609,7 +11609,7 @@
         },
         {
             "id": "Trapsmith Dedication",
-            "name": "Dévouement de Fabricant de pièges (Trapsmith Dedication)",
+            "name": "Dévouement : Fabricant de pièges (Trapsmith Dedication)",
             "description": "<p>Vous utilisez des engrenages scintillants et des mécanismes grinçants pour fabriquer des pièges à l'aide de pièces spécialisées. Vos pièges artisanaux comprennent des roues crantées et des engrenages mécaniques utilisant la vapeur et le jaillissement de vapeur peut gêner ceux que vous emprisonnez. Si vous choisissez de construire un piège artisanal en utilisant des engrenages et qu'une créature rate son jet de sauvegarde contre le piège artisanal, toutes les créatures sont masquées à cette créature pendant 1 round car un jet de vapeur obscurcit sa vision.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre exploit de dévouement avant d'avoir acquis deux autres dons des archétypes de Fabricant de pièges artisanaux ou de Fabricant de pièges.</p>",
             "prereq": [
                 {
@@ -11771,7 +11771,7 @@
         },
         {
             "id": "Wellspring Mage Dedication",
-            "name": "Dévouement de mage de la source (Wellspring Mage Dedication)",
+            "name": "Dévouement : Mage de la source (Wellspring Mage Dedication)",
             "description": "<p>Il n'y a plus de limite au nombre d'emplacements de sorts temporaires que vous obtenez par jour de la magie de la source.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Mage de la source.</p>"
         },
         {
@@ -11874,7 +11874,7 @@
         },
         {
             "id": "Hellknight Dedication",
-            "name": "Dévouement de Chevalier infernal (Hellknight Dedication)",
+            "name": "Dévouement : Chevalier infernal (Hellknight Dedication)",
             "description": "<p>Vous avez forgé votre corps pour respecter les injonctions de votre esprit - des ordres issus de la Mesure et de la Chaîne.</p>\n<p>Vous devenez expert en Intimidation (ou dans une autre compétence dans laquelle vous êtes déjà qualifié de votre choix, si vous étiez déjà expert en Intimidation). Vous obtenez les effets de spécialisation d'armure avec l'armure de plaques de Chevalier infernal et la résistance issue de cette spécialisation d'armure est supérieure de 1 par rapport à la normale. De plus, vous obtenez un bonus de circonstances de +1 aux tests d'Intimidation lorsque vous portez votre armure de Chevalier infernal.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez obtenir de nouveau don de dévouement avant d'avoir obtenu deux autres dons d'archétypes de Chevalier infernal ou d'Écuyer chevalier infernal.</p>",
             "prereq": [
                 {
@@ -11933,7 +11933,7 @@
         },
         {
             "id": "Scrounger Dedication",
-            "name": "Dévouement du Bricoleur (Scrounger Dedication)",
+            "name": "Dévouement : Bricoleur (Scrounger Dedication)",
             "description": "<p>Vous pouvez @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer} des objets même sans disposer des outils appropriés ou d'un atelier, bien que vous subissiez alors une pénalité d'objet de -2 à votre test d'Artisanat.</p>\n<p>De plus, vous n'avez pas besoin d'un formulaire pour vous rappeler de toutes vos formules ; vous payez le même coût que la normale lorsqu'il s'agit de les apprendre mais vous les mémorisez toutes.</p>\n<p>Vous pouvez Fabriquer des objets à partir de rien, avec n'importe quel matériau qui vous tombe sous la main, passant seulement 10 minutes à accomplir le test de Fabrication initial. L'objet temporaire doit être courant, non-magique, de niveau 1 ou inférieur et doit être une arme, une armure ou une partie non consommable d'équipement d'aventurier (l'équipement non consommable apparaît dans le livre de base). Au lieu d'un unique objet, vous pouvez créer 10 pièces d'une unique sorte de munition. C'est un objet de mauvaise qualité mais vous ne subissez pas la pénalité habituelle lorsque vous utilisez des objets de mauvaise qualité que vous avez fabriqués en utilisant ce don.</p>\n<p>Vos objets temporaires durent pendant  [[/r 1d4 #hours]]{1d4 heure} avant de retomber en morceaux dans ces matériaux bruts ; Le MJ tire le nombre d'heures en secret. Vous ne pouvez créer qu'un objet physique, et non des informations ou de la magie ; ainsi par exemple, alors que vous pourriez créer un journal vierge ou un nombre de pages aléatoires, vous ne pourriez l'utiliser comme une encyclopédie érudite ou un texte religieux.</p>\n<p>Vous pouvez incorporer tous les matériaux que vous avez sous la main, même s'il ne s'agit pas du type de materiaux habituellement utilisé pour Fabriquer l'objet, bien qu'il vous faille un volume suffisant de matériaux pour fabriquer l'objet que vous désirez.</p>\n<p>À moins que tous les matériaux que vous avez utilisés ne soient du type approprié pour Fabriquer l'objet, vous subissez une pénalité de -5 au test d'Artisanat (ou une pénalité de -10 si les matériaux que vous avez utilisés sont particulièrement inadaptés, à l'appréciation du MJ).</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bricoleur.</p>",
             "prereq": [
                 {
@@ -12228,7 +12228,7 @@
         },
         {
             "id": "Overwatch Dedication",
-            "name": "Dévouement du Guetteur (Overwatch Dedication)",
+            "name": "Dévouement : Guetteur (Overwatch Dedication)",
             "description": "<p>Vous avez un don inné pour l'observation tactique et vous avez innové pour appliquer ce talent de diverses manières qui vous permettent d'aider vos alliés. Grâce à un équipement visuel amélioré (tel qu'un télescope spécialement modifié, des lunettes avec viseur ou des jumelles), vous êtes parfaitement conscient des déplacements des combattants sur le champ de bataille. Vous diffusez rapidement et efficacement ces informations à vos alliés proches afin qu'ils puissent les utiliser pour orienter leurs propres observations et réagir face au danger.</p>\n<p>Vous êtes entouré par une aura de champ du guetteur dans une @Template[type:emanation|distance:30]{émanation de 9 mètres}. Votre aura de champ du guetteur vous accorde une perception augmentée et vous permet de crier des avertissements à vos alliés au sein de l'aura pour Attirer leur attention vers des menaces. Cette aura possède les traits visuel et audible. Vous et vos alliés dans le champs du guetteur recevez un bonus de circonstances de +2 lorsque vous faites des tests de Perception pour calculer l'Initiative.</p>\n<p>@Compendium[pf2e.feat-effects.AKKHagjg5bL1fMG5]{Effet : Champ du guetteur}</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype du guetteur.</p>",
             "prereq": [
                 {
@@ -12525,7 +12525,7 @@
         },
         {
             "id": "Familiar Master Dedication",
-            "name": "Dévouement de Maître familier (Familiar Master Dedication)",
+            "name": "Dévouement : Maître familier (Familiar Master Dedication)",
             "description": "<p>Vous avez noué un lien mystique avec une créature. Cela pourrait avoir impliqué des rituels complexes et des invocations, comme devoir méditer sous la lune jusqu'à ce que quelque chose sorte de la forêt. Ou peut-être avez vous juste fait quelque chose à l'autre, comme secouru la bête prise dans un piège ou l'avez sauvée face à un ennemi pour être ensuite sauvé en retour. Quels que soient les détails, vous êtes maintenant des compagnons jusqu'à ce que la mort vous sépare.</p>\n<p>Vous obtenez un Familier. Si vous en possédez déjà un, vous obtenez le don @Compendium[pf2e.feats-srd.N7dTFxpjXGn4ddq8]{Familier amélioré}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Maître Familier.</p>"
         },
         {
@@ -12733,7 +12733,7 @@
         },
         {
             "id": "Scrollmaster Dedication",
-            "name": "Dévouement du Maître des parchemins (Scrollmaster Dedication)",
+            "name": "Dévouement : Maître des parchemins (Scrollmaster Dedication)",
             "description": "<p>L'expérience acquise à tenir la chronique de vos aventures et de vos découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontré, les détails du briefing de votre mission et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstances de +2 aux tests réalisés pour vour rappeler d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposez du don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux} et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstances pour vous souvenir de connaissances concernant les créatures en utilisant ce don passe à +4.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Maître des parchemins.</p>",
             "prereq": [
                 {
@@ -13140,7 +13140,7 @@
         },
         {
             "id": "Butterfly Blade Dedication",
-            "name": "Dévouement des lames papillons (Butterfly Blade Dedication)",
+            "name": "Dévouement : Lame papillon (Butterfly Blade Dedication)",
             "description": "<p><strong>Accès</strong> Vaincre un membre des Lames papillon dans un combat organisé.</p>\n<hr />\n<p>Vous devenez qualifié en Duperie et en Discrétion ; si vous étiez déjà qualifié, vous devenez un expert à la place. Lorsque votre rang de maîtrise dans n'importe quelle arme passe à expert ou au delà, vous obtenez aussi ce nouveau rang de maîtrise avec les épées papillon. Vous obtenez l'accès aux épées papillon.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de cet archétype.</p>",
             "prereq": [
                 {
@@ -13566,7 +13566,7 @@
         },
         {
             "id": "Summoner Dedication",
-            "name": "Dévouement du Conjurateur (Summoner Dedication)",
+            "name": "Dévouement : Conjurateur (Summoner Dedication)",
             "description": "<p>Vous avez formé un lien avec un eidolon, une entité qui se manifeste dans un corps physique uniquement grâce à son lien avec votre force vitale. Votre lien est peut-être ténu, mais cela ne le rend pas moins spécial. Vous obtenez un eidolon ainsi que l'activité @Compendium[pf2e.actionspf2e.n5vwBnLSlIXL9ptp]{Manifester un eidolon}. En raison de votre lien ténu, vous ne pouvez pas obtenir ou utiliser des actions ayant le trait tandem. Comme vous ne disposez pas de l'action Agir ensemble, seul vous ou votre eidolon pouvez accomplir une activité d'exploration à la fois, ce qui signifie que vous ne pouvez pas tous deux Chercher ou Enquêter.</p>\n<p>Votre eidolon est qualifié dans les attaques à mains nues et la défense à mains nues et partage votre maîtrise en Perception, avec les jets de sauvegarde et aux tests de compétences. Choisissez un type d'eidolon. Vous êtes qualifié avec les compétences listées de votre eidolon. Pour chacune de ces compétences dans laquelle vous êtes déjà qualifié, vous devenez qualifié dans une compétence différente de votre choix.</p>\n<p>Les scores de caractéristique initiaux de votre eidolon sont réduits. Ils démarrent avec un 16 pour tout score de caractéristique indiqué à 18 sur la tableau des eidolons. Il obtient autrement les statistiques indiquées pour un eidolon de ce type. Au niveau 5, le score de caractéristique qui avait été réduit à 16 passe à 18, avant d'appliquer les primesde caractéristiques. Aux niveaux 5, 10, 15 et 20, votre eidolon obtient aussi quatre primes de caractéristiques, qui obéissent aux mêmes règles que les vôtres.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype de conjurateur.</p>",
             "prereq": [
                 {
@@ -13624,7 +13624,7 @@
         },
         {
             "id": "Halcyon Speaker Dedication",
-            "name": "Dévouement de l'Orateur paisible (Halcyon Speaker Dedication)",
+            "name": "Dévouement : Orateur paisible (Halcyon Speaker Dedication)",
             "description": "<p>Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.</p>",
             "prereq": [
                 {
@@ -13911,7 +13911,7 @@
         },
         {
             "id": "Zephyr Guard Dedication",
-            "name": "Dévouement de Garde Zéphyr (Zephyr Guard Dedication)",
+            "name": "Dévouement : Garde Zéphyr (Zephyr Guard Dedication)",
             "description": "<p>En tant que Garde zéphyr vous êtes toujours à l’affût de tout ce qui peut menacer la tranquillité de la ville.</p>\n<p>Vous gagnez un bonus de circonstances de +1 à vos tests de Perception contre toute tentative d’@Compendium[pf2e.actionspf2e.ijZ0DDFpMkWqaShd]{Escamoter un objet}, de @Compendium[pf2e.actionspf2e.RDXXE7wMrSPCLv5k]{Voler} ou de @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{Dissimuler un objet} (y compris quand vous Cherchez des objets dissimulés).</p>\n<p>Vous êtes qualifié en Société et en Connaissance de Katapesh ; si vous êtes déjà qualifié, vous devenez expert.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de Garde zéphyr</p>"
         },
         {
@@ -14119,7 +14119,7 @@
         },
         {
             "id": "Horizon Walker Dedication",
-            "name": "Dévouement d'Arpenteur d'horizon (Horizon Walker Dedication)",
+            "name": "Dévouement : Arpenteur d'horizon (Horizon Walker Dedication)",
             "description": "<p>Vous avez maîtrisé le voyage sur un type de terrain spécifique. Vous obtenez le don @Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]{Environnement de prédilection}.</p>\n<p>Lorsque vous êtes sur votre terrain de prédilection, vous obtenez un bonus de circonstances de +3 m à votre vitesse de Voyage. Lorsque d'autres créatures @Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Suivent l'expert} avec vous comme guide sur votre terrain de prédilection, ils obtiennent à la fois la capacité d'ignorer le terrain difficile non magique pour les besoin de déterminer leur vitesse de voyage et le bonus à la Vitesse de Voyage.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez choisi deux autres dons de l'archétype d'Arpenteur d'horizon.</p>",
             "prereq": [
                 {
@@ -14139,7 +14139,7 @@
         },
         {
             "id": "Firework Technician Dedication",
-            "name": "Dévouement d'Artificier (Firework Technician Dedication)",
+            "name": "Dévouement : Artificier (Firework Technician Dedication)",
             "description": "<p>Vous avez appris les secrets qui permettent de faire des fleurs de feu et de sons en utilisant la poudre noire, les métaux et le papier. Vous pouvez détenir ce savoir par le biais d'études savantes au sein d'une maison d'artificiers du Tian Xia ou une société d'artificiers du Vudra, bien que vous puissiez avoir aussi maîtrisé les feux d'artifice par vous-même après avoir découvert une cache secrète au sein d'une vieille épave.</p>\n<p>Vous êtes qualifié en Connaissance des feux d'artifice ou devenez expert si vous étiez déjà qualifié dans cette compétence. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artisanat alchimique}, une réserve de @Compendium[pf2e.classfeatures.wySB9VHOW1v3TX1L]{Réactifs imprégnés} égale à votre niveau et @Compendium[pf2e.classfeatures.Pe0zmIqyTBc2Td0I]{Alchimie avancée} (vous permettant de créer des objets alchimiques au cours de vos préparatifs quotidiens sans avoir à y passer le temps normal). Vous ne pouvez utiliser vos réactifs imprégnés que pour faire des feux d'artifice, pour réaliser une @Compendium[pf2e.actionspf2e.yUjuLbBMflVum8Yn]{Démonstration de feux d'artifice} et utiliser les autres dons de cet archétype. Votre niveau d'Alchimie avancée est de 1. Si vous obtenez des réactifs imprégnée de plus d'une source, vous utilisez le plus important nombre de réactifs imprégnés pour déterminer la taille de votre réserve plutôt que de les cumuler.</p>\n<p>Vous pouvez aussi créer une démonstration spécifique de feux d'artifice en utilisant vos réactifs imprégnés, conçus pour créer des effets distincts que vous pouvez utiliser pour émerveiller les observateurs et même obtenir un avantage en combat. Vous obtenez l'action Démonstration de feux d'artifice et apprendre certaines démonstrations de base et vous pouvez apprendre des démonstrations supplémentaires, plus complexes à travers des dons d'Artificier. Le DD pour toute démonstration est égale au plus élevé entre votre DD de classe ou de votre DD de sort.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype d'Artificier.</p>",
             "prereq": [
                 {
@@ -14617,7 +14617,7 @@
         },
         {
             "id": "Magaambyan Attendant Dedication",
-            "name": "Dévouement du Gardien de Magaambya (Magaambyan Attendant Dedication)",
+            "name": "Dévouement : Gardien de Magaambya (Magaambyan Attendant Dedication)",
             "description": "<p>Vous consacrez la plupart de votre temps d'étude à la magie paisible. Vous obtenez la capacité de lancer un unique tour de magie arcanique ou primordial de votre choix, (comme pour les autres tours de magie, il est intensifié à un niveau de sort égal à la moitié de votre niveau arrondi au niveau supérieur). Si vous ne l'étiez pas déjà, vous devenez qualifié dans les DD de la tradiction de ce sort et dans les jets d'attaque de sort, en prenant l'Intelligence comme caractéristique d'incantation si vous choisissez la tradition arcanique ou la Sagesse si vous choisissez la tradition primordiale.</p>\n<p>Que vous ayez choisi un tour de magie arcanique ou primordial, vous devenez à votre choix qualifié en Arcanes ou Nature ou un expert en une de ces compétences dans laquelle vous étiez déjà qualifié.</p>\n<p>Lorsque vous obtenez ce don, choisissez une affiliation entre celle des Tisseurs des flots, des Branches d'émeraude, des Scribes de la pluie, des Mages du Soleil tempétueux ou des Uzunjati. Cela vous accorde des dons supplémentaires accessibles seulement à cette branche.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un don de dévouement autre que le @Compendium[pf2e.feats-srd.7fU6e3HIT4NvwLYa]{dévouement d'Orateur paisible} avant d'avoir obtenu deux autres dons issu de celui de l'archetype de Gardien de Magaambya ou d'@Compendium[pf2e.archetypes.Qsmzm6w1ZNpHX7GD]{Orateur paisible}.</p>",
             "prereq": [
                 {
@@ -14759,7 +14759,7 @@
         },
         {
             "id": "Spell Trickster Dedication",
-            "name": "Dévouement de Mystificateur de sort (Spell Trickster Dedication)",
+            "name": "Dévouement : Mystificateur de sort (Spell Trickster Dedication)",
             "description": "<p>Votre expérience de la magie et de ses traditions vous permet de vous spécialiser dans l'incantation de certains sorts, en personnalisant des sorts familiers pour créer des effets inédits. Chaque fois que vous gagnez un don de cet archétype, soit vous apprenez à modifier les effets d'un seul sort, soit vous changez une des modifications d'un don précédent. À chaque fois que vous lancez le sort correspondant au don choisi, vous décidez de lancer sa version normale ou sa version modifiée. Vous ne pouvez appliquer qu'une seule modification à un sort à la fois, même si vous connaissez plus d'une modification pour ce sort. En dehors des modifications mentionnées dans le don, le sort fonctionne de façon ordinaire.</p>\n<p>Choisissez jusqu'à deux dons d'archétype de mystificateur de sort de niveau 4 pour lesquels vous remplissez les prérequis. Vous obtenez ces dons, en ignorant leurs prérequis de niveau.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de mystificateur de sort. Les deux dons que vous obtenez en prenant le don de dévouement ne comptent pas à cet égard.</p>",
             "prereq": [
                 {
@@ -14777,7 +14777,7 @@
         },
         {
             "id": "Pistol Phenom Dedication",
-            "name": "Dévouement de phénomène du pistolet (Pistol Phenom Dedication)",
+            "name": "Dévouement : Phénomène du pistolet (Pistol Phenom Dedication)",
             "description": "<p>Vous prenez un adversaire au dépourvu en faisant tourner votre arme. Vous gagnez le don de Franc-tireur @Compendium[pf2e.feats-srd.A2EBy2L4acrehiAA]{Tournoiement du pistolet}, qui vous permet de Feinter contre les créatures situées dans le premier facteur de portée de votre arme. Ce don remplace Tournoiement du pistolet pour satisfaire aux prérequis, bien que, comme à l'ordinaire, il ne compte pas comme un autre don de Phénomène du pistolet pour remplir la condition spéciale du Dévouement du Phénomène du pistolet en vue de choisir un autre archétype. Chaque fois que vous Feintez avec une arme à feu à une main, vous pouvez choisir de tenter un test de Représentation au lieu d'un test de Duperie.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype Phénomène du pistolet.</p>",
             "prereq": [
                 {
@@ -15168,7 +15168,7 @@
         },
         {
             "id": "Champion Dedication",
-            "name": "Dévouement du Champion (Champion Dedication)",
+            "name": "Dévouement : Champion (Champion Dedication)",
             "description": "<p>Choisissez une divinité et une cause comme si vous étiez un champion. Vous devenez qualifié en armure légère, moyenne et lourde. Vous devenez qualifié en Religion et dans la compétence associée à votre divinité ; pour chacune de ces compétences dans lesquelles vous étiez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de champion.</p>\n<p>Vous êtes lié par l’anathème de votre divinité et devez respecter le code du champion et les conditions d’alignement de votre cause. Vous ne gagnez aucune autre capacité venant du choix de votre divinité ou de votre cause.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype champion.</p>",
             "prereq": [
                 {
@@ -15377,7 +15377,7 @@
         },
         {
             "id": "Loremaster Dedication",
-            "name": "Dévouement du Maître savant (Loremaster Dedication)",
+            "name": "Dévouement : Maître savant (Loremaster Dedication)",
             "description": "<p>Vous avez compilé un vaste dépôt d'information qui touche à quasiment chaque sujet. Vous êtes qualifié en Connaissance du Maître savant, une compétence de Connaissance spéciale qui ne peut être utilisée que pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}, mais sur chaque sujet.</p>\n<p>Si vous êtes légendaire en une compétence utilisée pour Déchiffrer un texte, vous devenez expert en Connaissance du Maître savant, mais vous ne pouvez pas augmenter votre rang de maîtrise en Connaissance du Maître savant par un autre moyen.</p>\n<p>Vous pouvez choisir des dons figurant parmi les dons supplémentaires de l'archétype du Maître savant même si vous ne remplissez pas le prérequis @Compendium[pf2e.classfeatures.4ripp6EfdVpS0d60]{Muse Énigmatique}.</p>\n<p>Si vous possédez le don de classe @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}, vous obtenez un bonus de circonstances de +1 aux tests de compétence avec Connaissance bardique.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'Archétype de Maître savant.</p>",
             "prereq": [
                 {
@@ -15769,7 +15769,7 @@
         },
         {
             "id": "Fighter Dedication",
-            "name": "Dévouement de guerrier (Fighter Dedication)",
+            "name": "Dévouement : Guerrier (Fighter Dedication)",
             "description": "<p>Vous devenez qualifié avec les armes simples et les armes de guerre. Vous devenez qualifié à votre choix en Acrobaties ou en Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de guerrier.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype guerrier</p>",
             "prereq": [
                 {
@@ -15922,7 +15922,7 @@
         },
         {
             "id": "Edgewatch Detective Dedication",
-            "name": "Dévouement d'officier de la Garde du Précipice (Edgewatch Detective Dedication)",
+            "name": "Dévouement : Officier de la Garde du Précipice (Edgewatch Detective Dedication)",
             "description": "<p>Vous devenez qualifié en Société ou Vol ; si vous étiez déjà qualifié dans ces deux compétences, vous devenez qualifié en une compétence de votre choix. Vous pouvez utiliser Perception au lieu de Survie pour Pister et vous obtenez le don de compétence @Compendium[pf2e.feats-srd.urQZwmzg2kS53vd5]{Pisteur expérimenté}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de cet archétype.</p>"
         },
         {
@@ -16081,7 +16081,7 @@
         },
         {
             "id": "Crystal Keeper Dedication",
-            "name": "Dévouement de Gardien du Cristal (Crystal Keeper Dedication)",
+            "name": "Dévouement : Gardien du cristal (Crystal Keeper Dedication)",
             "description": "<p>Vous pouvez utiliser Arcanes, Occultisme, Religion ou Société pour Déchiffrer un texte, quelle que soit la langue dans laquelle il est écrit, en méditant devant un cristal. Si vous obtenez un échec critique alors que vous Déchiffrez un texte, il se transforme en simple échec. Si vous réussissez votre jet, vous obtenez un succès critique à la place.</p>\n<p>De plus, vous gagnez une résistance de 10 contre les dégâts issus de dangers associés aux cristaux.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir gagné deux autres dons de l’archétype Gardien de cristaux</p>",
             "prereq": [
                 {
@@ -16487,11 +16487,11 @@
         },
         {
             "id": "Captivator Dedication",
-            "name": "Dévouement du Captivant (Captivator Dedication)",
+            "name": "Dévouement : Captivant (Captivator Dedication)",
             "description": "<p>Votre capacité à captiver les autres frise le surnaturel. Vous êtes rarement désemparé dans les situations sociales et vous pouvez créer des enchantements ou des illusions mineures. Choisissez Duperie ou Diplomatie. Vous êtes qualifié dans cette compétence ou devenez expert si vous étiez déjà qualifié.</p>\n<p>Choisissez deux tours de magie tiré de la liste des sorts occultes ; chaque tour de magie doit appartenir à l'école d'enchantement ou d'illusion. Vous obtenez l'accès à l'activité Lancer un sort et pouvez lancer ces sorts comme des sorts innés occultes. Vous êtes qualifié en jets d'attaque de sorts occultes et au DD des sorts occultes. Si vous avez une main libre, vous pouvez généralement remplacer les composants matériels par des composants somatiques, de sorte que vous n'avez pas besoin d'utiliser une sacoche de composants de sorts. Votre caractéristique essentielle de lanceur de sorts pour ces sorts est le Charisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype de Captivant.</p>",
             "prereq": [
                 {
-                    "value": "Charismee 14"
+                    "value": "Charisme 14"
                 },
                 {
                     "value": "qualifié en Duperie ou en Diplomatie"
@@ -17049,7 +17049,7 @@
         },
         {
             "id": "Duelist Dedication",
-            "name": "Dévouement du Duelliste (Duelist Dedication)",
+            "name": "Dévouement : Duelliste (Duelist Dedication)",
             "description": "<p>Vous êtes toujours prêt à tirer votre arme et à entamer un duel, quelles que soient les circonstances. Vous obtenez le don de rôdeur @Compendium[pf2e.feats-srd.qFt6zyWVX1njJf1l]{Arme en main}, vous permettant à la fois de tirer votre arme et d'attaquer en une action. Cela répond aux prérequis nécessitant de posséder Arme en main.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de duelliste.</p>",
             "prereq": [
                 {
@@ -17160,7 +17160,7 @@
         },
         {
             "id": "Spellshot Dedication",
-            "name": "Dévouement de Sortiléro (Spellshot Dedication)",
+            "name": "Dévouement : Sortiléro (Spellshot Dedication)",
             "description": "<p>Vous vous êtes imprégné de la magie et des armes à feu au point de pouvoir conjurer des balles à partir de rien, en utilisant une connaissance rudimentaire de la théorie des arcanes pour créer une munition temporaire. Vous gagnez l'action @Compendium[pf2e.actionspf2e.KC6o1cvbr45xnMei]{Conjurer une balle}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement autre que celui des archétypes de sortiléro ou de tireur de gros gibier avant d'avoir obtenu deux autres dons des archétypes de sortiléro ou de tireur de gros gibier.</p>",
             "prereq": [
                 {
@@ -17320,7 +17320,7 @@
         },
         {
             "id": "Witch Dedication",
-            "name": "Dévouement de Sorcier (Witch Dedication)",
+            "name": "Dévouement : Sorcier (Witch Dedication)",
             "description": "<p>Vous lancez des sorts comme un sorcier. Choisissez un patron ; vous obtenez un familier avec deux tours de magie courants de votre choix de la tradition correspondant au patron choisi, mais à part la tradition, vous n'obtenez aucun autre des effets que le patron aurait habituellement accordé. Votre familier possède une capacité de familier de moins que la normale.</p>\n<p>Vous obtenez l'activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}. Vous pouvez préparer un tour de magie chaque jour par le biais de votre familier. Vous êtes qualifié en jet d'attaque de sort et en DD de sort dans la tradition de votre patron. Votre caractéristique d'incantation pour les sorts de l'archétype de sorcier est l'Intelligence et il s'agit de sorts de la tradition de votre patron.</p>\n<p>Vous devenez qualifié dans la compétence associée à la tradition de votre patron ; si vous étiez déjà qualifié dans cette compétence, vous devenez qualifié dans une autre compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de sorcier.</p>",
             "prereq": [
                 {
@@ -17330,7 +17330,7 @@
         },
         {
             "id": "Juggler Dedication",
-            "name": "Dévouement du Jongleur (Juggler Dedication)",
+            "name": "Dévouement : Jongleur (Juggler Dedication)",
             "description": "<p>Vous devenez qualifié en Représentation ; si vous l'étiez déjà, vous devenez qualifié dans une compétence de votre choix. Vous obtenez aussi le don de compétence @Compendium[pf2e.feats-srd.AYb8PmGJ37HwIMwj]{Jonglage}, même si vous n'en remplissez pas les conditions.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement avant d'avoir obtenu un autre don de l'archétype Jongleur.</p>",
             "prereq": [
                 {
@@ -17388,7 +17388,7 @@
         },
         {
             "id": "Animal Trainer Dedication",
-            "name": "Dévouement de Dompteur (Animal Trainer Dedication)",
+            "name": "Dévouement : Dompteur (Animal Trainer Dedication)",
             "description": "<p>Vous obtenez les services d'un jeune compagnon animal qui voyage avec vous et obéit à des ordres simples du mieux qu'il le peut. Cet animal entraîné est qualifié en Représentation au lieu de la compétence indiquée pour son type.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de dompteur.</p>",
             "prereq": [
                 {
@@ -17609,7 +17609,7 @@
         },
         {
             "id": "Eldritch Archer Dedication",
-            "name": "Dévouement d'Archer mystique (Eldritch Archer Dedication)",
+            "name": "Dévouement : Archer mystique (Eldritch Archer Dedication)",
             "description": "<p>Vous mêlez la magie avec votre archerie pour aboutir à de puissants résultats.</p>\n<p>Si vous ne possédez par des sorts dans des emplacements de sort, vous apprenez à lancer des sorts spontanés et obtenez l'activité @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancer un sort}. Vous obtenez un répertoire de sort avec un tour de magie de votre choix, d'une liste de sort de votre choix. Vous choisissez ce tour de magie parmi les sorts courants de la liste de sort que vous avez choisi ou parmi d'autres sorts auxquels vous avez accès sur cette liste. Ce tour de magie doit nécessiter un jet d'attaque de sort. Vous êtes qualifié en attaque de sort et en DD de sort pour cette tradition. Votre caractéristique essentielle d'incantation pour ces sorts est le Charisme.</p>\n<p>Si vous lancez déjà des sorts à partir d'emplacements de sort, vous apprenez un tour de magie supplémentaire de cette tradition. Si vous êtes un lanceur préparé, vous pouvez préparer ce sort en plus de vos tours de magie habituels par jour ; Si vous êtes un lanceur spontané, vous ajoutez ce tour de magie à votre répertoire de sort.</p>\n<p>Vous obtenez également @Compendium[pf2e.actionspf2e.DS9sDOWkXrz2xmHi]{Tir Mystique}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de Dévouement avant d'avoir gagné deux autres dons de l'archétype d'archer mystique.</p>",
             "prereq": [
                 {
@@ -18167,7 +18167,7 @@
         },
         {
             "id": "Vehicle Mechanic Dedication",
-            "name": "Dévouement de Mécanicien de véhicule (Vehicle Mechanic Dedication)",
+            "name": "Dévouement : Mécanicien de véhicule (Vehicle Mechanic Dedication)",
             "description": "<p>Vous êtes adepte de la conception et de l'entretien des véhicules mécaniques et vous avez jeté votre dévolu et votre ingéniosité sur un véhicule en particulier. Vous devenez expert en Artisanat et vous choissiez un véhicule que vous possédez - ou que votre groupe possède collèctivement - qui devient votre véhicule emblématique : le véhicule sur lequel vous passez votre temps à le modifier pour lui accorder différents avantages. Vous pouvez passer 1 semaine d'intermède avec un nouveau véhicule pour qu'il devienne votre véhicule emblématique à la place. Du fait de vos améliorations incroyables et de vos réglages, les conducteurs obtiennent un bonus de circonstances de +1 à tout test de conduite qu'ils effectuent pour contrôler votre véhicule emblématique. Si vous êtes maître en Artisanat, ce bonus passe à +2.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de mécanicien de véhicule.</p>",
             "prereq": [
                 {
@@ -18241,7 +18241,7 @@
         },
         {
             "id": "Wrestler Dedication",
-            "name": "Dévouement de Lutteur (Wrestler Dedication)",
+            "name": "Dévouement : Lutteur (Wrestler Dedication)",
             "description": "<p>Votre entraînement aux arts de la lutte vous a rendu particulièrement habile pour vous déplacer, pour frapper et pour vous agripper lorsque vous n'êtes pas encombré. Vous devenez un expert en Athlétisme et obtenez le don de compétence @Compendium[pf2e.feats-srd.KxaYlC50zzHysJj8]{Lutteur contre les titans}. Vous ne subissez pas la pénalité de circonstances de -2 lorsque vous effectuez une attaque létale avec vos attaques à mains nues non létales. De plus, vous gagnez un bonus de circonstances de +2 à votre DD de Vigueur lorsque vous résistez aux tentatives d'un adversaire de vous Saisir ou de vous Gober.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de lutteur.</p>",
             "prereq": [
                 {
@@ -18251,7 +18251,7 @@
         },
         {
             "id": "Talisman Dabbler Dedication",
-            "name": "Dévouement d'Amateur de talismans (Talisman Dabbler Dedication)",
+            "name": "Dévouement : Amateur de talismans (Talisman Dabbler Dedication)",
             "description": "<p>Vous avez la maîtrise de l'utilisation des talismans et de tout l'attirail magique de même nature. Cette maîtrise pourrait avoir été obtenue par le biais d'études classiques ou être un agglomérat de magie folklorique accumulé avec le temps. Vous pouvez fabriquer les talismans et connaissez les formules de tous les talismans courants du Livre de base de votre niveau et inférieurs. Vous vous souvenez des formules des talismans et n'avez pas besoin de formulaire à cette fin.</p>\n<p>De plus, vous portez une collection de babioles magiques que vous pouvez transformer en talismans temporaires. Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez faire deux talismans avec un niveau d'objet pas plus haut que la moitié de votre niveau. Vous devez connaître les formules de chaque talisman. Un talisman créé de cette manière est un objet temporaire et perd ses pouvoirs magiques la prochaine fois que vous faites vos préparatifs quotidiens si vous ne l'avez pas déjà utilisé avant.</p>\n<p>Enfin, lorsque vous @Compendium[pf2e.actionspf2e.UAaQk93a30nx0nYY]{Fixez un Talisman}, vous pouvez (dans n'importe quelle combinaison) fixer ou retirer jusqu'à quatre talismans sur une période de 10 minutes.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Amateur de talismans.</p>"
         },
         {
@@ -18311,12 +18311,12 @@
         },
         {
             "id": "Celebrity Dedication",
-            "name": "Dévouement de Célébrité (Celebrity Dedication)",
+            "name": "Dévouement : Célébrité (Celebrity Dedication)",
             "description": "<p>Plus les gens vous regardent, plus vous êtes content et vous profitez de chaque opportunité pour démontrer aux autres quand leurs représentations sont moins que parfaites.</p>\n<p>Vous obtenez la réaction @Compendium[pf2e.actionspf2e.F0JgJR2rXKOg9k1z]{Surpasser}. En plus, lorsque vous @Compendium[pf2e.actionspf2e.QyzlsLrqM0EEwd7j]{Gagnez de l'argent}, si le niveau de la tâche est plus élevé que votre niveau, vous obtenez un bonus de circonstances de +1 à votre test pour Gagner de l'argent.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Célébrité.</p>"
         },
         {
             "id": "Ghost Eater Dedication",
-            "name": "Dévouement de Mangeur de fantômes (Ghost Eater Dedication)",
+            "name": "Dévouement : Mangeur de fantômes (Ghost Eater Dedication)",
             "description": "<p>Vous vous êtes entrainé comme Mangeur de fantômes, un chasseur spécialisé dans la destruction des esprits. Vous savez comment canaliser voter propre énergie spirituelle pour blesser les esprits. Vos Frappes avec des armes et des attaques à mains nues deviennent magiques. Contre les créatures intangibles, elles obtiennent également les effet de la rune de propriété spectrale.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de cet archétype.</p>",
             "prereq": [
                 {
@@ -18361,7 +18361,7 @@
         },
         {
             "id": "Magus Dedication",
-            "name": "Dévouement de magus (Magus Dedication)",
+            "name": "Dévouement : Magus (Magus Dedication)",
             "description": "<p>Vous lancez des sorts comme un magus, en obtenant un grimoire contenant quatre tours de magie arcaniques courants de votre choix. Vous obtenez l'activité Lancer un sort. Vous pouvez préparer deux tours de magie chaque jour à partir de votre grimoire. Chaque fois que vous obtenez un emplacement de sort d'un nouveau niveau grâce à l'archétype de magus, ajoutez un sort de ce niveau ou inférieur à votre grimoire. Vous êtes qualifié avec les jets d'attaque de sorts et avec le DD des sorts arcaniques. Votre caractérstique essentielle d'incantation pour les sorts de l'archétype de magus est l'Intelligence et il s'agit de sorts arcaniques de magus. Vous devenez qualifié en Arcanes ; si vous étiez déjà qualifié en Arcanes, vous êtes à la place qualifié dans une compétence de votre choix. Vous êtes qualifié avec les armes simples.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir acquis deux autres dons de l'archétype de magus.</p>",
             "prereq": [
                 {
@@ -18424,7 +18424,7 @@
         },
         {
             "id": "Poisoner Dedication",
-            "name": "Dévouement d'Empoisonneur (Poisoner Dedication)",
+            "name": "Dévouement : Empoisonneur (Poisoner Dedication)",
             "description": "<p>Vous vous orgueillissez de toujours avoir quelques toxines à votre portée - vous ne savez jamais lorsque de l'arsenic ou son équivalent pourra se montrer utile.</p>\n<p>Vous obtenez les avantages d'Alchimie basique, bien que vous ne puissiez l'utiliser que pour des poisons alchimiques. Vous obtenez des lots de réactifs imprégnés par jour égaux à votre niveau. Votre niveau d'alchimie avancée pour les créer est de 1 et n'augmente pas de son propre chef.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu au moins deux autres dons de l'archétype d'Empoisonneur.</p>",
             "prereq": [
                 {
@@ -18528,7 +18528,7 @@
         {
             "id": "Ostentatious Arrival",
             "name": "Arrivée ostentatoire (Ostentatious Arrival)",
-            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>\n<p>Toutes les créatures situées dans une @Template[type:emanation|distance:10]>{émanation de 3 mètres} autour de la créature que vous avez invoquée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
+            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion.</p>\n<p>Toutes les créatures situées dans une @Template[type:emanation|distance:10]{émanation de 3 mètres} autour de la créature que vous avez conjurée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort de conjuration ou [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 dégâts par tranche de 2 niveaux} pour la Manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez conjurée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
         },
         {
             "id": "Snap Out Of It! (Pathfinder Agent)",
@@ -18858,7 +18858,7 @@
         },
         {
             "id": "Beast Gunner Dedication",
-            "name": "Dévouement de Bestioléro (Beast Gunner Dedication)",
+            "name": "Dévouement : Bestioléro (Beast Gunner Dedication)",
             "description": "<p>Vous vous êtes lié avec votre bestiolet et avez débloqué le premier indice de son potentiel caché. Vous traitez tous les bestiolets comme des armes à feu de guerre lorsqu'il s'agit de déterminer votre rang de maîtrise, même les bestiolets qui devraient normalement être des armes avancées. Vous pouvez changer de bestiolet lié pour un autre bestiolet que vous possédez chaque jour, au cours de vos préparatifs quotidiens, tant que vous avez accompli une chasse rituelle associée au nouveau bestiolet.</p>\n<p>Le bestiolet agit aussi comme un conduit, tirant et amplifiant tout pouvoir magique latent ou actif que vous possédez. Vous apprenez à lancer des sorts spontanés et obtenez l'activité Lancer un sort. Vous obtenez un répertoire de sort avec un tour de magie de votre choix, provenant soit de la liste de sorts arcanique ou de la liste de sorts primordiale. Vous choisissez ce tour de magie parmi les sorts courants de la liste de sorts choisie ou parmi les sorts auxquels vous avez accès sur cette liste. Ce tour de magie doit nécessiter un jet d'attaque de sort. Vous êtes qualifié en jet d'attaque de sorts et pour les DD des sorts arcaniques ou primordiaux, en fonction de la tradition que vous avez choisie. Votre caractéristique essentielle pour ces sorts est le Charisme.</p>\n<p>Si vous lancez déjà des sorts arcaniques ou primordiaux à partir d'emplacements de sorts, vous apprenez un tour de magie supplémentaire de cette tradition. Si vous êtes un lanceur préparé, vous pouvez préparer ce sort en plus de vos tours de magie habituelspar jour ; si vous êtes un incantateur spontané, vous ajoutez ce tour de magie à votre répertoire de sorts.</p>\n<p>Vous obtenez aussi @Compendium[pf2e.actionspf2e.VNuOwXIHafSLHvsZ]{Envoi de sort}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bestioléro.</p>",
             "prereq": [
                 {
@@ -18949,7 +18949,7 @@
         },
         {
             "id": "Artillerist Dedication",
-            "name": "Dévouement d'Artilleur (Artillerist Dedication)",
+            "name": "Dévouement : Artilleur (Artillerist Dedication)",
             "description": "<p>L'artillerie est un sport d'équipe, où chaque membre de l'équipage doit compter sur les autres membres. Au mieux, une erreur n'est qu'une perrte de temps. Au pire, un tir mal ajusté ou un badly set pin peut provoquer l'explosion du tout. Vous avez pris ces leçons à cœur et ainsi votre présence dans une équipe d'artilleurs aident l'entière équipe lors de chaque étape du déploiement et de l'utilisation de l'arme de siège. Si vous servez parmi les servants d'une arme de siège, vous et les autres membres de l'équipe obtenez un bonus de circonstances de +2 à tout test réalisé pour Charger, Viser, déplacer ou réparrer l'arme. Lorsque vous Visez avec une arme de siège, vous pouvez déplacez la visée de l'arme deux fois plus vite que la normale.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype d'Artilleur.</p>",
             "prereq": [
                 {
@@ -19553,7 +19553,7 @@
         },
         {
             "id": "Bright Lion Dedication",
-            "name": "Dévouement de Lion radieux (Bright Lion Dedication)",
+            "name": "Dévouement : Lion radieux (Bright Lion Dedication)",
             "description": "<p><strong>Accès</strong> Historique @Compendium[pf2e.backgrounds.skqghxn3svID1dyU]{Lion radieux}</p>\n<hr />\n<p>Vous devenez qualifié à votre choix en Duperie ou en Diplomatie et en connaissance de Mzali ; si vous étiez déjà qualifié, vous devenez un expert à la place. Vous intégrez suffisamment de la dévotion envers Walkena dans votre vie quotidienne pour éviter la suspicion. Vous n'avez typiquement pas besoin de Mentir ou de Vous déguiser pour vous faire passer pour un suivant de Walkena. Face à une inspection soigneuse, vous obtenez un bonus de circonstances de +4 aux tests de Duperie qui sont spécifiquement lancés pour vous faire passer pour une version de vous-même qui soit un suivant de Walkena.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un nouveau don de Dévouement jusqu'à ce que vous ayiez obtenu deux autres dons de l'archétype de Lion radieux.</p>",
             "prereq": [
                 {
@@ -19705,7 +19705,7 @@
         },
         {
             "id": "Wizard Dedication",
-            "name": "Dévouement du magicien (Wizard Dedication)",
+            "name": "Dévouement : Magicien (Wizard Dedication)",
             "description": "<p>Vous lancez des sorts comme un magicien et gagnez un grimoire comportant quatre tours de magie arcaniques ordinaires de votre choix. Vous gagnez l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie à partir de votre grimoire. Vous êtes qualifié dans les jets d’attaque de sorts et les DD des sorts arcaniques. Votre capacité essentielle d’incantation pour les sorts de l’archétype magicien est l’Intelligence, et il s’agit de sorts de magicien arcaniques.</p>\n<p>Vous devenez qualifié en Arcanes ; si vous l’étiez déjà, vous devenez à la place qualifié dans une compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype magicien.</p>",
             "prereq": [
                 {
@@ -20161,17 +20161,11 @@
         },
         {
             "id": "Archaeologist Dedication",
-            "name": "Dévouement d'archéologue (Archaeologist Dedication)",
+            "name": "Dévouement : Archéologue (Archaeologist Dedication)",
             "description": "<p>Vous étudiez les peuples et leurs histoires et êtes sans arrêt à la poursuite de connaissances et d'artefacts du passé. Vous devenez expert en Société et en Vol et vous obtenez un bonus de circonstances de +1 pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de l'histoire ancienne, des peuples et des cultures.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'archéologue.</p>",
             "prereq": [
                 {
-                    "value": "qualifié en Perception"
-                },
-                {
-                    "value": "qualifié en Société"
-                },
-                {
-                    "value": "qualifié en Vol"
+                    "value": "qualifié en Perception, en Société et en Vol"
                 }
             ]
         },
@@ -20245,11 +20239,11 @@
         },
         {
             "id": "Runelord Dedication",
-            "name": "Dévouement de Seigneur des runes (Runelord Dedication)",
+            "name": "Dévouement : Seigneur des runes (Runelord Dedication)",
             "description": "<p>Votre magie runique s'accroit et votre pratique avec l'arme associée à votre école. Vous obtenez un tour de magie supplémentaire de l'école arcanique choisie et chaque fois que vous obtenez un niveau (incluant ce niveau), vous ajoutez un sort supplémentaire de votre école arcanique choisie à votre grimoire, avec les mêmes restrictions que les deux sorts vous ajoutez normalement.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype Seigneur des runes.</p>",
             "prereq": [
                 {
-                    "value": "Spécialisation de seigneur des runes"
+                    "value": "Spécialisation de Seigneur des runes"
                 }
             ]
         },
@@ -21039,7 +21033,7 @@
         },
         {
             "id": "Flexible Spellcaster Dedication",
-            "name": "Dévouement d'Incantateur flexible (Flexible Spellcaster Dedication)",
+            "name": "Dévouement : Incantateur flexible (Flexible Spellcaster Dedication)",
             "description": "<p>Vous disposez désormais de quatre tours de magie par jour au lieu de trois. Au niveau 4, vous disposez de cinq tours de magie par jour au lieu de quatre.</p>",
             "prereq": [
                 {
@@ -21235,7 +21229,7 @@
         },
         {
             "id": "Geomancer Dedication",
-            "name": "Dévouement de géomancien (Geomancer Dedication)",
+            "name": "Dévouement : Géomancien (Geomancer Dedication)",
             "description": "<p>Vous ressentez un lien profond avec le monde, où que vous soyez, un phénomène connu sous le nom \"Harmonisation avec le terrain\". Lorsque vous dépensez un emplacement de sort pour lancer un sort dont le trait correspond au type de terrain dans lequel vous vous trouvez (comme indiqué ci-dessous), vous bénéficiez de l'effet d'harmonisation avec le terrain pour ce type de terrain. Le MJ peut déterminer qu'un effet d'harmonisation s'applique tant qu'il est suffisamment répandu autour de vous. Par exemple, vous pouvez être en terrain aquatique sur la rive d'une rivière ou sur un bateau. De même, un endroit peut être compté comme plusieurs types de terrain, comme une montagne dans le Grand Nord qui est à la fois arctique et montagneuse. Dans ce cas, vous ne choisissez qu'un seul effet d'harmonisation avec le terrain, même si le sort possède des caractéristiques qui s'appliquent à chaque type de terrain.</p>\n<p>Certaines harmonisations de terrain affectent vos ennemis à votre place. Si c'est le cas, lorsque vous lancez le sort, vous appliquez l'effet indiqué à tous les ennemis qui sont soit adjacents à vous, soit dans la zone du sort, soit ciblés par le sort. Ces ennemis bénéficient du jet de sauvegarde indiqué contre le DD de votre sort pour tenter d'éviter l'effet.</p>\n<ul>\n<li><strong>Aquatique</strong> (Eau) Vous suivez les courants de l'eau. Si vous êtes dans l'eau, vous gagnez une vitesse de nage égale à votre vitesse terrestre. Si vous êtes à la surface, des vagues d'eau temporaires suivent vos déplacements, vous permettant d'utiliser votre vitesse de nage - si vous en avez une - comme votre vitesse terrestre.</li>\n<li><strong>Arctique</strong> (Froid) Le givre arctique recouvre le corps de vos ennemis. Les ennemis doivent tenter un jet de Vigueur. Ils subissent une pénalité de statut de -1,5 mètres à leur vitesse pendant 2 rounds (-3 mètres en cas d'échec critique).</li>\n<li><strong>Désert</strong> (Feu) La chaleur torride du désert déshydrate vos ennemis. Les ennemis doivent tenter un jet de Vigueur. En cas d'échec, ils sont @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigués} jusqu'à ce qu'ils boivent de l'eau ou un autre liquide potable.</li>\n<li><strong>Forêt</strong> (Plante) Les branches et les lianes se tendent pour se mettre en travers du chemin de vos ennemis. Les ennemis doivent tenter un jet de Réflexes. En cas d'échec, ils deviennent @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 pendant 1 round (@Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 en cas d'échec critique).</li>\n<li><strong>Montagne</strong> (Terre) L'endurance robuste de la montagne vous protège de tout danger. Vous gagnez une résistance aux dégâts physiques (sauf adamantium) égale au niveau du sort pendant 1 round.</li>\n<li><strong>Plaines</strong> (Plante) Les champs qui poussent et la vitalité palpitante des plaines vous donnent de la vigueur. Vous gagnez des points de vie temporaires égaux au niveau du sort pendant 1 round.</li>\n<li><strong>Ciel</strong> (Air) Une rafale de vent vous transporte dans les airs. Vous pouvez vous envoler vers le haut jusqu'à 3 mètres de hauteur. Si vous êtes en l'air à la fin du tour et que vous n'avez pas de vitesse de vol, vous tombez.</li>\n<li><strong>Marais</strong> (Plante) Votre magie aspire les gaz nocifs des marais pour enfumer vos ennemis. Les ennemis affectés subissent des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant} égaux à la moitié du niveau du sort (minimum 1 dégât) avec une jet basique de Vigueur.</li>\n<li><strong>Souterrains</strong> (Terre) L'obscurité sans fin des profondeurs des cavernes ouvre ses secrets à vos sens. Pendant 1 round, vous gagnez la vision dans le noir ainsi que Perception des vibrations (imprécis) jusqu'à 4,5 mètres.</li>\n</ul>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype de géomancien.</p>",
             "prereq": [
                 {
@@ -21453,7 +21447,7 @@
         },
         {
             "id": "Dragon Disciple Dedication",
-            "name": "Dévouement du Disciple draconique (Dragon Disciple Dedication)",
+            "name": "Dévouement : Disciple draconique (Dragon Disciple Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes un kobold avec l'héritage @Compendium[pf2e.ancestryfeatures.nF5NUinK23fOLn5u]{Kobold à écaille de dragon} ou @Compendium[pf2e.ancestryfeatures.VRyX00OuPGsJSurM]{Kobold écailledesort}, un barbare avec l'@Compendium[pf2e.classfeatures.VDot7CDcXElxmkkz]{Instinct du dragon} ou un ensorceleur au @Compendium[pf2e.classfeatures.ZHabYxSgYK0XbjhM]{Lignage draconique}.</p>\n<hr />\n<p>Vous avez choisi d'étudier ou de vénérer un type de dragon et votre focalisation vous accorde une part de son pouvoir. Choisissez une couleur de dragon lorsque vous choisissez ce don ; si vous êtes un ensorceleur avec le lignage draconique, elle doit être du même type que celui de votre lignage.</p>\n<p>Vous obtenez une résistance égale à la moitié de votre niveau contre un type de dégâts déterminé par le type choisi. Le MJ peut vous autoriser à choisir un type de dragon qui n'est pas listé ci-après et déterminera le type de dégâts approprié à ce dragon.</p>\n<ul>\n<li><strong>Airain, Or ou Rouge</strong> Feu</li>\n<li><strong>Argent ou Blanc</strong> Froid</li>\n<li><strong>Bleu ou Bronze</strong> Électricité</li>\n<li><strong>Noir ou Cuivre</strong> Acide</li>\n<li><strong>Vert</strong> Poison</li>\n</ul>\n<p>Vous obtenez aussi un bonus de circonstances de +1 aux jets de sauvegarde contre les effets de sommeil et les effets qui auraient pour conséquence de vous @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralyser}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Disciple draconique. Si vous prenez plus tard l'archétype d'ensorceleur, vous devrez choisir le lignage draconique.</p>"
         },
         {
@@ -22310,7 +22304,7 @@
         },
         {
             "id": "Game Hunter Dedication",
-            "name": "Dévouement de chasseur de gibier (Game Hunter Dedication)",
+            "name": "Dévouement : Chasseur de gibier (Game Hunter Dedication)",
             "description": "<p>Vous avez acquis la compétence pour pister le gros gibier et les créatures similaires. Vous obtenez l'action @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie}, mais vous ne pouvez désigner que les animaux, les bêtes et les dragons en tant que proies. En plus des autres avantages de Chasser une proie, vous obtenez un bonus de circonstances aux tests de Discrétion contre la proie que vous Chassez.</p>\n<p>Lorsque vous réussissez une Frappe contre votre proie alors qu'elle est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu}, elle doit faire un test de Vigueur contre votre DD de classe. En cas d'échec, les vitesses de la proie sont réduites chacune de 3 mètres pendant 1 round ; En cas d'échec critique, la durée de l'effet est de 1 minute. La proie est alors temporairement immunisée à cet effet pendant 10 minutes.</p>\n<p>Si vous avez déjà Chasser une proie, vous devenez expert en Survie. Vous appliquez votre bonus à la Discrétion et la réduction de vitesse seulement si votre proie est un animal, une bête ou un dragon.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de chasseur de gibier.</p>",
             "prereq": [
                 {
@@ -22410,7 +22404,7 @@
         },
         {
             "id": "Scout Dedication",
-            "name": "Dévouement de l'Éclaireur (Scout Dedication)",
+            "name": "Dévouement : Éclaireur (Scout Dedication)",
             "description": "<p>Vous êtes un guide hautement compétent, capable de fournir à temps à vos alliés un avertissement sur n'importe quel danger. Vous obtenez le don de rôdeur @Compendium[pf2e.feats-srd.Tpcq3Lk7qEOZ3LDP]{Avertissement de l'éclaireur}.</p>\n<p>Lorsque vous utilisez l'activité d'exploration @Compendium[pf2e.actionspf2e.kV3XM0YJeS2KCSOb]{Reconnaissance}, vous accordez à vos alliés un bonus de circonstances de +2 à leurs tests d'initiative au lieu d'un bonus de circonstances de +1.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'achétype d'Éclaireur.</p>",
             "prereq": [
                 {
@@ -22625,7 +22619,7 @@
         },
         {
             "id": "Monk Dedication",
-            "name": "Dévouement du moine (Monk Dedication)",
+            "name": "Dévouement : Moine (Monk Dedication)",
             "description": "<p>Vous devenez qualifié dans les attaques à mains nues et bénéficiez de la capacité de classe @Compendium[pf2e.classfeatures.SB8UJ8rZmvbcBweJ]{Poings puissants}. Vous êtes qualifié à votre choix dans la compétence d’Acrobaties ou d’Athlétisme ; si vous êtes déjà qualifié dans ces deux compétences, vous devenez à la place qualifié dans une compétence de votre choix. Vous devenez qualifié dans le DD de classe de moine.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de moine.</p>",
             "prereq": [
                 {
@@ -23247,7 +23241,7 @@
         },
         {
             "id": "Assassin Dedication",
-            "name": "Dévouement d'Assassin (Assassin Dedication)",
+            "name": "Dévouement : Assassin (Assassin Dedication)",
             "description": "<p>Vous vous êtes entraîné à assassiner vos ennemis et vous le faites avec ténacité et précision. Vous obtenez l'activité @Compendium[pf2e.actionspf2e.orjJjLdm4XNAcFi8]{Marquer pour mort}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons d'assassin.</p>",
             "prereq": [
                 {
@@ -23337,7 +23331,7 @@
         },
         {
             "id": "Viking Dedication",
-            "name": "Dévouement de viking (Viking Dedication)",
+            "name": "Dévouement : Viking (Viking Dedication)",
             "description": "<p>Les vikings passent de longues périodes de temps en mer, bondissant seulement de leurs bateaux à un moment, pour charger dans les vagues et fondre sur leurs ennemis comme une tempête.</p>\n<p>Vous êtes qualifié en Connaissance de la navigation. Vous vous déplacez à travers l'eau en utilisant votre Vitesse, vous ignorez le terrain difficile résultant de l'eau peu profonde, comme celle des marais ou sur les plages.</p>\n<p>De plus, si vous obtenez un succès à votre test d'Athlétisme pour @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager}, vous considérez qu'il s'agit d'un succès critique à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de dévouement de l'archétype du Viking.</p>",
             "prereq": [
                 {
@@ -23566,7 +23560,7 @@
         },
         {
             "id": "Sterling Dynamo Dedication",
-            "name": "Dévouement de Dynamo sterling (Sterling Dynamo Dedication)",
+            "name": "Dévouement : Dynamo sterling (Sterling Dynamo Dedication)",
             "description": "<p>Vous obtenez une prothèse de dynamo sterling, qui vous permet de remplacer ou d'améliorer un membre ou même d'ajouter un membre simple, non préhesile, comme une queue. Si votre prothèse sterling peut remplacer un membre préhensile, tel qu'un bras, choisir d'ajouter un nouveau membre ne peut jamais augmenter le nombre de maines de votre personnage ou membre préhensiles au delà de deux, même en combinaison avec d'autres capacités ou effets.</p>\n<p>Votre prothèse dynamo sterling est optimisée spécialement pour le combat, vous accordant une attaque à mains nues au corps-à-corps de dynamo qui est dans le groupe pugilat et est faite d'argent (ce qui la rend plus efficace contre certains types de créatures, tels que les diables et les créatures garous).</p>\n<p>Vous disposez de plusieurs options pour adapter votre dynamo sterling. Premièrement, choisissez si vous avez une <em>dynamo conductrice de puissance</em>, qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants} et possède le trait pousser ou une <em>dynamo à frappe percussive</em> qui inflige [[/r {1d4}[bludgeoning]]]{1d4 dégâts contondants} et possède les traits agile et finesse. La plupart des dynamos sont automatisées, de sorte qu'elles ne nécessitent pas de disposer d'une main libre pour être utilisées, comme les autres attaques à mains nues. Quoi qu'il en soit, vous pouvez à la place faire le choix que votre dynamo soit contrôlée manuellement via un boîtier de commande, un levier ou un autre mécanisme ; Pour porter une attaquee avec une dynamo contrôlée manuellement, vous devez disposer d'une main libre pour pouvoir la faire fonctionner, mais l'avantage est un grand contrôle et une frappee plus dévastatrice. cela augmente le dé de dégâts d'une taille, passant à 1d8 pour une puissante dynamo conductrice ou à 1d6 pour une dynamo à frappe percussive. Les dynamos de bras sont toujours manuelles, mais elles utilisent la main de cec bras pour opérer la dynamo lorsque vous portez des frappes. Le contrôle manuel est requis seulement en plein combat, pas pour des activités quotidiennes ou moins épuisantes.</p>\n<p>Vous devez garder votre dynamo sterling remontée, mais le processus n'est pas particulièrement onéreux, de sorte que dans la plupart des situations, cela ne pose pas de problème. Si vous passez 1 minute à remonter votre dynamo, elle peut rester active pendant 24 heures avant d'avoir besoin d'eêtre de nouveau remontée. Quoi qu'il en soit, vos ennemis peuvent tenter de désactiver le mécanisme, qui possède un niveau égal au vôtre, pour réduire la durée de tetmps de fonctionnement restante d'1 heure ou de 2 heures en cas de succèss critique. Certaines autres capacités qui affectent la technologie pourraient aussi réduire le temps de fonctionnement de la dynamo. Lorsque votre dynamo est à court de temps de fonctionnement, vous pouvez toujours l'utiliser comme une prothèse normale, mais vous ne pouvez pas utiliser votre attaque à mains nues de dynamo ou toute autre capacité de cet archétype jusqu'à ce que vous remontiez la dynamo de nouveau. Vous pouvez remonter la dynamo pendant 1 minute à n'importe quel moment pour qu'elle revienne à çà durée de temps de fonctionnement maximal de 24 heures.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype de Dynamo sterling.</p>"
         },
         {
@@ -23601,7 +23595,7 @@
         },
         {
             "id": "Bounty Hunter Dedication",
-            "name": "Dévouement de Chasseur de primes (Bounty Hunter Dedication)",
+            "name": "Dévouement : Chasseur de primes (Bounty Hunter Dedication)",
             "description": "<p>Lorsque vous vous concentrez pour trouver votre proie, vous êtes implacable. Vous obtenez l'action @Compendium[pf2e.actionspf2e.JYi4MnsdFu618hPm]{Chasser une proie}. vous pouvez utiliser Chasser une proie pour désigner seulement une créature que vous avez aperçu, dont vous avez entendu parler ou sur laquelle vous avez obtenu des informations par d'autres moyens, comme par exemple une liste de récompense offerte ou des avis de recherche. En plus des autres avantages de Chasser une proie, vous obtenez un bonus de circonstances de +2 aux tests pour @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Recueillir des informations} concernant votre proie.</p>\n<p>Si vous avez déjà Chasser une proie, vous devenez expert en Survie et obtenez le bonus de circonstances pour Recueillir des informations sur votre proie et vous pouvez toujours désigner une créature que vous pistez durant l'exploration, en plus des conditions ci-dessus.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Chasseur de primes.</p>",
             "prereq": [
                 {
@@ -23656,7 +23650,7 @@
         },
         {
             "id": "Magic Warrior Dedication",
-            "name": "Dévouement du Guerrier Magique (Magic Warrior Dedication)",
+            "name": "Dévouement : Guerrier Magique (Magic Warrior Dedication)",
             "description": "<p><strong>Accès</strong> Vous venez des étendues du Mwangi</p>\n<hr />\n<p>Vous avez pris la décision de porter un masque anonyme et avait prêté le serment des guerriers magiques. Vous êtes qualifié au choix dans la compétence Arcanes ou Nature et dans la compétence Connaissances des guerriers magiques ; si vous êtes déjà qualifié vous devenez expert.</p>\n<p>Vous cachez votre identité derrière un masque à l’effigie d’un animal de votre choix parmi les types généraux d’animaux du sort forme animale. Vous gagnez un bonus de circonstances de +1 aux jets de sauvegarde contre des effets de Divination mais refuser d’ôter votre masque peut parfois vous apporter quelques ennuis dans les lieux qui ne respectent pas, ou ne comprennent pas, la tradition des guerriers magiques.</p>\n<p>Lorsque vous choisissez ce don, si une créature découvre votre vrai visage ou votre nom, vous perdez les pouvoirs de cet archétype. Ceci ne prend pas en compte les alliés proches qui étaient au courant de votre décision de porter le masque avant votre dévouement, à moins qu’ils en parlent à quelqu’un d’autre. Afin de regagner vos pouvoirs, vous devez abandonner votre masque, en obtenir un nouveau à l’effigie d’un autre animal et remplacer votre dévouement du guerrier magique par un nouveau dévouement du guerrier magique lié à votre nouveau masque.</p>\n<p>Vos sorts focalisés obtenus grâce à l’archétype guerrier magique ont la même tradition que vos autres sorts (choisissez-en une si\nvous avez des sorts de différentes traditions.)</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype du guerrier magique.</p>",
             "prereq": [
                 {
@@ -24040,7 +24034,7 @@
         },
         {
             "id": "Sixth Pillar Dedication",
-            "name": "Dévouement de Sixième pilier (Sixth Pillar Dedication)",
+            "name": "Dévouement : Sixième pilier (Sixth Pillar Dedication)",
             "description": "<p>Vous utilisez votre discipline physique pour canaliser votre magie. Si votre rang de compétence en attaques à mains nues est au moins expert, votre rang de compétence en attaques de sorts passe à expert. De même, si votre rang de compétence en attaques de sorts est au moins expert, votre rang de compétence en attaques à mains nues passe à expert. Vous devenez expert en athlétisme ou dans une autre compétence avec laquelle vous êtes qualifiée si vous étiez déjà expert en athlétisme.</p>\n<hr />\n</p><strong>Spécial</strong>Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype de Sixième pilier.</p>",
             "prereq": [
                 {
@@ -24305,7 +24299,7 @@
         },
         {
             "id": "Bastion Dedication",
-            "name": "Dévouement de Bastion (Bastion Dedication)",
+            "name": "Dévouement : Bastion (Bastion Dedication)",
             "description": "<p>Vous êtes particulièrement compétent dans l'utilisation de votre bouclier au combat. Vous obtenez le don de Guerrier @Compendium[pf2e.feats-srd.w8Ycgeq2zfyshtoS]{Bouclier réactif}. Cela vous permet de remplir tout prérequis nécessitant Bouclier réactif comme habituellement.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l'archétype de bastion.</p>",
             "prereq": [
                 {
@@ -24340,7 +24334,7 @@
         },
         {
             "id": "Jalmeri Heavenseeker Dedication",
-            "name": "Dévouement de Chercheur du Paradis du Jalmeray (Jalmeri Heavenseeker Dedication)",
+            "name": "Dévouement : Chercheur du Paradis du Jalmeray (Jalmeri Heavenseeker Dedication)",
             "description": "<p><strong>Accès</strong> entraîné par un membre actuel ou un ancien membre d'une Maison de la Perfection</p>\n<hr />\n<p>Votre compétence et votre dévotion vous ont tracé un chemin pour maîtriser les techniques des plus grands artistes martiaux du Jalmeray : les vainqueurs du Défi du Ciel et du Paradis. Vous devenez qualifié en Acrobaties ou en Occultisme. Vous obtenez soit le don de moine @Compendium[pf2e.feats-srd.yA9tsWT9uzL2REnw]{Ruée ki} soit @Compendium[pf2e.feats-srd.3a07jkWezSuORSpS]{Frappe Ki}, ce qui vous accorde un sort de ki et une réserve de focalisation de 1 Point de focalisation que vous pouvez récupérer en utilisant l'activité @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} comme le ferait un moine. Si vous possédez déjà ces deux dons, vous pouvez choisir un unique don de moine de niveau 1.</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Chercheur du Paradis du Jalmeray.</p>",
             "prereq": [
                 {
@@ -24350,7 +24344,7 @@
         },
         {
             "id": "Swashbuckler Dedication",
-            "name": "Dévouement de Bretteur (Swashbuckler Dedication)",
+            "name": "Dévouement : Bretteur (Swashbuckler Dedication)",
             "description": "<p>Choisissez un @Compendium[pf2e.classfeatures.beW1OqibVQ3fBvRw]{Style de bretteur}. Vous obtenez la capacité de classe @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache} et vous pouvez gagner du panache de toutes les manières possibles permettant à un bretteur disposant de votre style de le faire.</p>\n<p>Vous devenez qualifié en Acrobaties ou dans la compétence associée avec votre style. Si vous étiez déjà qualifié dans ces deux compétences, vous devenez qualifié dans une compétence de votre choix. Vous êtes aussi qualifié dans le DD de classe de bretteur. Vous n'obtenez aucun autre des effets du style de bretteur choisi.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bretteur.</p>",
             "prereq": [
                 {
@@ -24581,7 +24575,7 @@
         },
         {
             "id": "Lion Blade Dedication",
-            "name": "Dévouement de Lame du Lion (Lion Blade Dedication)",
+            "name": "Dévouement : Lame du Lion (Lion Blade Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire du Taldor</p>\n<hr />\n<p>Votre formation d’espion Lame du lion vous permet de dissimuler votre personne et votre identité. Vous êtes qualifié au choix dans la compétence Duperie ou Discrétion et dans la compétence Connaissances de l’espionnage ; si vous êtes déjà qualifié, vous devenez expert. Vous ne subissez jamais de malus de circonstances lorsque vous tentez de vous déguiser pour prendre l’apparence d’une autre ascendance, d’un autre âge, etc., tant que votre déguisement correspond à votre taille.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un nouveau don de dévouement avant d’avoir obtenu deux autres don de l’archétype Lame du lion.</p>",
             "prereq": [
                 {
@@ -24918,7 +24912,7 @@
         },
         {
             "id": "Knight Vigilant Dedication",
-            "name": "Dévouement de Chevalier vigilant (Knight Vigilant Dedication)",
+            "name": "Dévouement : Chevalier vigilant (Knight Vigilant Dedication)",
             "description": "<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence Religion. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.</p>",
             "prereq": [
                 {
@@ -24967,7 +24961,7 @@
         },
         {
             "id": "Soulforger Dedication",
-            "name": "Dévouement de Forgeur d'âme (Soulforger Dedication)",
+            "name": "Dévouement : Forgeur d'âme (Soulforger Dedication)",
             "description": "<p>Vous pouvez manifester la puissance de votre esprit au combat pour réaliser vos objectifs. Vous manifestez une armure, un bouclier ou une arme en tant qu'arsenal forgé par l'âme. Choisissez un pouvoir d'essence pour cet arsenal. Changer un pouvoir d'essence nécessite 1 semaine de reconversion et vous ne pouvez pas le reconvertir tant que vous êtes atteint par la corruption du forgeur d'âme.</p>\n<p>Vous pouvez @Compendium[pf2e.actionspf2e.KMKuJ0onVS72t9Fv]{Manifester l'arsenal du forgeur d'âme} pour invoquer votre arsenal en combat.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir gagné deux autres dons de l'archétype Forgeur d'âme.</p>\n<hr />\n<h3>Pouvoirs d'essence</h3>\n<p>L'arsenal forgé par votre âme possède un pouvoir d'essence que vous choisissez lorsque vous avez commencé à vous lier. Cet équipement obtient ce pouvoir temporairement lorsque vous manifestez sa forme d'essence. Chaque pouvoir engendre un défaut de corruption qui vous affecte si vous êtes atteint par la corruption du forgeur d'âme. Certains pouvoirs d'essence ne s'appliquent qu'au type d'arsenal indiqué.</p>\n<ul>\n<li><strong>Persona adaptable</strong> (transmutation) Armure seulement. Lorsque vous Manifestez la forme d'essence, vous obtenez à votre choix une vitesse d'Escalade ou une vitesse de Nage égale à votre Vitesse au sol. Si vous êtes de niveau 8 ou plus, vous pouvez choisir une vitesse de vol à la place. <em>Défaut de corruption</em> Vous subissez une pénalité de -3 m à toutes vos Vitesses.</li>\n<li><strong>Esprit lié</strong> Arme de corps-à-corps seulement. L'arme obtient le trait jet 9 m et possède la rune boomerang (même si l'arme possède déjà son nombre maximal de runes de propriété). <em>Défaut de corruption</em> Lorsque vous portez une Frappe avec une arme de jet ou une arme à distance et manquez votre cible, relancez la Frappe, en ciblant votre plus proche allié par rapport à la cible. Cette Frappe utilise la même pénalité d'attaques multiples que la Frappe manquée et ne compte pas par rapport à votre Pénalité d'attaques multiples.</li>\n<li><strong>Peur profondément ancrée</strong> Vous obtenez un bonus de statut de +2 à vos tests d'Intimidation et vous ne subissez aucune pénalité liée au fait de ne pas partager un langage lorsque vous Démoralisez des adversaires qui peuvent percevoir la forme d'essence de votre arsenal. Lorsque vous manifestez la forme d'essence, vous pouvez tenter de Démoraliser un ennemi qui peut percevoir la manifestation. <em>Défaut de corruption</em> Si vous tentez de Démoraliser une ennemi, votre Démoralisation cible aussi l'allié le plus proche de vous.</li>\n<li><strong>Robustesse déterminée</strong> Toutes les pénalités de statut que vous subissez des conditions suivantes sont inférieures de 1 à la valeur de cette condition : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit}, @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié}. Cela ne change pas la valeur réelle de la condition ou tout autre effet de la condition (tel que l'interruption provoquée par Stupéfié ni son DD). <em>Défaut de corruption</em> Lorsque vous subissez une pénalité de statut des conditions indiquées, vous subissez une pénalité de -1 à la même statistique.</li>\n<li><strong>Malice dommageable</strong> (nécromancie, négatif) Vos Frappes infligent 1d4 dégâts négatifs supplémentaires. Une fois au cours de la manifestation de l'armament, vous lancez <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> comme un sort inné, avec un niveau égal à la moitié de votre niveau arrondi au supérieur. <em>Défaut de corruption</em> Réduisez tout dégâts que vous devriez infliger de la moitié de votre niveau.</li>\n<li><strong>Cœur héroïque</strong> (enchantement, mental) Vous obtenez un bonus de statut de +1 à vos jets d'attaque, vos tests de Perception, tests de compétences et jets de sauvegarde. <em>Défaut de corruption</em> Vous subissez une pénalité -1 à vos jets d'attaque.</li>\n<li><strong>Grâce guérisseuse</strong> (soins, nécromancie, positif) Vous obtenez Guérison accélérée dont le montant est égal à la moitié de votre niveau. Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> une fois comme un sort inné avec un niveau égal à la moitié de votre niveau arrondi au supérieur. <em>Défaut de corruption</em> Réduisez tous les soins que vous devriez obtenir ou accorder avec un sort de la moitié de votre niveau.</li>\n<li><strong>Résistance magique</strong> (abjuration) Armure ou bouclier seulement. Vous obtenez un bonus de statut de +2 aux jets de sauvegarde et à la CA contre les sorts. Si vous êtes de niveau 5 ou supérieur, vous pouvez lancer <em>@Compendium[pf2e.spells-srd.9HpwDN4MYQJnW0LG]{Dissipation de la magie}</em> une fois comme un sort inné. Le niveau du sort est égal à 1 de moins que la moitié de votre niveau arrondi au supérieur (niveau 2 si vous êtes de niveau 5 ou 6, etc). <em>Défaut de corruption</em> Vous subissez une pénalité de -1 aux jets de sauvegarde et à la CA contre les sorts.</li>\n<li><strong>Lien planaire</strong> (abjuration) Armure ou bouclier seulement. Lorsque vous manifestez la forme d'essence, choisissez un type de dégâts : acide, chaotique, froid, électricité, mal, feu, bien, loyal, négatif, positif ou son. Vous obtenez une résistance égale à votre niveau + 2 aux dégâts du type choisi. <em>Défaut de corruption</em> Vous obtenez une faiblesse 1 à tous les dégâts.</li>\n<li><strong>Douleur planaire</strong> (évocation) Armes seulement. Lorsque vous manifestez la forme d'essence, choisissez un type de dégât: acide, chaotique, froid, électricité, mal, feu, bien, loyal, négatif, positif ou son. Les attacks avec l'arme infligent ce type de dégâts au lieu du type de leurs dégâts physiques avec un bonus de statut de +2 aux dégâts. <em>Défaut de corruption</em> Lorsque vous infligez des dégâts avec une arme ou une attaque à mains nues, vous subissez 2 dégâts du dernier type que vous avez choisi avec douleur planaire, même si ce type de dégâts ne devrait pas normalement vous blesser, tels que des dégâts du bien si vous n'êtes pas mauvais.</li>\n<li><strong>Mise en stase</strong> (transmutation) Armes seulement. Chaque fois que vous touchez avec l'arme forgée par votre âme, la cible subit une pénalité de -3 m à ses Vitesses durant 1 round. En cas de coup critique, la créature est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} pendant 1 round à la place. <em>Défaut de corruption</em> Vous subissez une pénalité de -3 m à toutes vos Vitesses.</li>\n<li><strong>Esprit réfléchissant</strong> Armure ou Bouclier seulement. Vous obtenez un bonus de statut de +2 à la CA contre les attaques à distance physiques. Si une attaque à distance  physique d'un ennemi vous manque, vous pouvez utiliser votre réaction pour immédiatement tenter une Frappe à distance contre l'attaquant en utilisant le projectile qui vous a manqué. <em>Défaut de corruption</em> Vous avez une faiblesse 5 contre les attaques physiques à distance.</li>\n<li><strong>Défiance résolue</strong> Bouclier seulement. Le bouclier obtient un bonus de statut de +2 à sa Solidité et obtient des Points de vie temporaires égaux à votre niveau + 2 qui durent jusqu'à ce que l'effet d'essence se termine. Si vous ne possédez pas la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier}, vous l'obtenez lorsque votre bouclier est manifesté. <em>Défaut de corruption</em> Lorsque vous subissez des dégâts en Levant un bouclier ou en utilisant Blocage au bouclier, faites un test nu DD 5. En cas d'échec, le bouclier est renvoyé s'il s'agit de votre arsenal de Forgeur d'âme ou est lâché si c'est un bouclier différent.</li>\n</ul>",
             "prereq": [
                 {
@@ -25022,7 +25016,7 @@
         },
         {
             "id": "Marshal Dedication",
-            "name": "Dévouement de Capitaine (Marshal Dedication)",
+            "name": "Dévouement : Capitaine (Marshal Dedication)",
             "description": "<p>Vous avez combiné vos compétences sociales et votre entraînement au combat pour devenir un leader talentueux au combat.</p>\n<p>Choisissez Diplomatie ou Intimidation. Vous devenez qualifié dans cette compétence ou devenez un expert si vous étiez déjà qualifié. De plus, vous êtes entouré d'une aura de capitaine dans une émanation de 3 m de rayon. Votre aura possède les traits émotion, mental et visuel et fournit à vos alliés qui se trouvent dans l'aura un bonus de statut de +1 aux jets de sauvegarde contre la peur.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi au moins deux autres dons de l'archétype de Capitaine.</p>",
             "prereq": [
                 {
@@ -25045,7 +25039,7 @@
         },
         {
             "id": "Golem Grafter Dedication",
-            "name": "Dévouement de Greffeur de golem (Golem Grafter Dedication)",
+            "name": "Dévouement : Greffeur de golem (Golem Grafter Dedication)",
             "description": "<p>Votre peau a été été traitée spécialement par les mêmes procédés alchimiques et arcaniques que ceux utilisés pour renforcer la peau d'un golem de chair. Augmentez votre maximum de Points de vie d'un montant égal à votre niveau. Vous obtenez une résistance aux dégâts physiques (sauf adamantium) égal à votre nombre de dons de classe de l'archétype de Greffeur de golem.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner d'autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de greffeur de golem.</p>",
             "prereq": [
                 {
@@ -25136,7 +25130,7 @@
         },
         {
             "id": "Bullet Dancer Dedication",
-            "name": "Dévouement de Danseur de balle (Bullet Dancer Dedication)",
+            "name": "Dévouement : Danseur de balle (Bullet Dancer Dedication)",
             "description": "<p>Vous avez appris comment synchroniser les arts martiaux traditionnels avec les pistolets. Vous obtenez l'action @Compendium[pf2e.actionspf2e.SMF1hTWPHtmlS8Cd]{Posture du Danseur de balle}. Lorsque votre compétence avec n'importe quelle arme passe au rang d'expert ou à un rang supérieur, vous obtenez ce nouveau rang de maîtrise avec les baïonnettes, les crosses renforcées, les armes à feu simples et les attaques à mains nues.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons d'archétype de Danseur de balle.</p>",
             "prereq": [
                 {
@@ -25279,7 +25273,7 @@
         },
         {
             "id": "Mauler Dedication",
-            "name": "Dévouement de Cogneur (Mauler Dedication)",
+            "name": "Dévouement : Cogneur (Mauler Dedication)",
             "description": "<p>Vous vous spécialisez dans les armes qui nécessitent deux mains. Vous devenez qualifié avec toutes les armes de corps-à-corps simples et de guerre qui nécessitent de les manier à deux mains ou qui possèdent le trait à deux-mains. Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou supérieure avec des armes, vous obtenez aussi ce rang de maîtrise avec ces armes. Si vous êtes au moins un expert dans une telle arme, vous obtenez l'accès aux effets de critique de spécialisation avec ces armes.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement jusqu'à ce que vous possédiez deux autres dons de l'archétype de Cogneur.</p>",
             "prereq": [
                 {
@@ -25809,7 +25803,7 @@
         },
         {
             "id": "Snarecrafter Dedication",
-            "name": "Dévouement de Fabricant de pièges artisanaux (Snarecrafter Dedication)",
+            "name": "Dévouement : Fabricant de pièges artisanaux (Snarecrafter Dedication)",
             "description": "<p>Vous avez appris à créer un nombre limité de pièges artisanaux sans aucun coût. Chaque jour, au cours de vos préparatifs quotidiens, vous pouvez préparer quatre pièges artisanaux à partir de votre livre de formules pour en permettre un déploiement rapide ; s'ils nécessitent une minute à @Compendium[pf2e.actionspf2e.rmwa3OyhTZ2i2AHl]{Fabriquer}, vous pouvez les fabriquer avec 3 actions @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir}. Le nombre de pièges artisanaux passe à six si vous êtes un maître en Artisanat et à huit si vous êtes légendaire.</p>\n<p>Les pièges artisanaux préparés de cette manière n'ont pas de côut et ne nécessitent pas de ressources pour être Fabriqués.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don compte comme @Compendium[pf2e.feats-srd.0haS0qXR9xTYKoTG]{Spécialiste des pièges artisanaux} lorsqu'il s'agit de remplir les prérequis d'un don. Si vous possédez aussi le don de rôdeur Spécialiste des pièges artisanaux, les pièges provenant de ces deux dons sont cumulables. Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Fabricant de pièges artisanaux.</p>",
             "prereq": [
                 {
@@ -26578,7 +26572,7 @@
         },
         {
             "id": "Ritualist Dedication",
-            "name": "Dévouement du Ritualiste (Ritualist Dedication)",
+            "name": "Dévouement : Ritualiste (Ritualist Dedication)",
             "description": "<p>Vous avez débuté la maîtrise de l'art difficile d'accomplir des rituels. Vous obtenez un bonus de circonstances de +2 à tous les tests primaires pour accompir un rituel. Vous apprenez deux rituels peu courants avec un niveau pas supérieur à la moitié de votre niveau ; Vous devez remplir tous les prérequis pour accomplir les rituels pour pouvoir le choisir. Au niveau 8 et tous les 4 niveau ensuite, vous apprenez un autre rituel peu courant avec un niveau qui n'est pas supérieur à la moitié de votre niveau pour lequel vous remplissez les prérequis. Vous pouvez les lancer comme incantateur primaire, mais vous ne pouvez pas les enseigner ou permettre à quelqu'un d'autre de servir d'incantateur primaire, à moins qu'il ne connaisse également le rituel.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Ritualiste. Si vous utilisez le réapprentissage pour perdre ce don, vous perdez les rituels appris gràce à lui.</p>",
             "prereq": [
                 {
@@ -26872,7 +26866,7 @@
         },
         {
             "id": "Druid Dedication",
-            "name": "Dévouement du druide (Druid Dedication)",
+            "name": "Dévouement : Druide (Druid Dedication)",
             "description": "<p>Vous lancez des sorts comme un druide. Vous accédez à l’activité Lancer un sort. Vous pouvez préparer quotidiennement deux tours de magie courants à partir de la liste de sorts primordiaux du livre de base ou de tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et dans les DD des sorts primordiaux. Votre caractéristique essentielle d’incantation pour les sorts de l’archétype druide est la Sagesse, et ce sont des sorts de druide primordiaux. Vous apprenez la langue druidique.</p>\n<p>Choisissez un ordre comme si vous étiez un druide. Vous devenez membre de cet ordre et êtes lié par son anathème, ce qui vous permet de prendre les dons de cet ordre. Vous êtes qualifié en Nature et dans les compétences associées à votre ordre ; pour chacune de ces compétences dans lesquelles vous seriez déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Vous ne gagnez aucune autre capacité venant du choix de votre ordre.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de druide.</p>",
             "prereq": [
                 {
@@ -27081,7 +27075,7 @@
         },
         {
             "id": "Runescarred Dedication",
-            "name": "Dévouement de scarifié des runes (Runescarred Dedication)",
+            "name": "Dévouement : Scarifié des runes (Runescarred Dedication)",
             "description": "<p><strong>Accès</strong>  Vous êtes originaire des Terres des sagas.</p>\n<hr />\n<p>Que ce soit par votre sang (si vous êtes Varisien, Shoanti ou Nouveau Thassilonien) ou suite à une forte exposition à la magie des runes, vous êtes devenu un scarifié des runes, avec des runes visibles et luisantes sur votre corps sous forme de tatouages ou de cicatrices. Il se peut que vous les ayez acquises avant d’obtenir cet archétype, mais vous êtes devenu un scarifié des runes seulement lorsque vous avez décidé d’étudier leur puissance et de puiser en elles. Vous devenez expert en Arcanes et qualifié en Connaissance du Thassilon ou expert dans cette Connaissance si vous étiez déjà qualifié.</p>\n<p>Choisissez un tour de magie dans la liste des sorts arcaniques. L’une des runes de votre corps correspond au tour de magie choisi. Vous pouvez le lancer comme un sort arcanique inné.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype scarifié des runes.</p>",
             "prereq": [
                 {
@@ -27329,7 +27323,7 @@
         },
         {
             "id": "Trick Driver Dedication",
-            "name": "Dévouement de Conducteur astucieux (Trick Driver Dedication)",
+            "name": "Dévouement : Conducteur astucieux (Trick Driver Dedication)",
             "description": "<p>Vous êtes à l'aise dans la conduite avec n'importe quel véhicule, vous vous adaptez instantanément à ses commandes, ses mouvements et aux manipulations variées. Chaque fois que la conduite d'un véhicule nécessite un test de connaissance du pilotage ou de Connaissance de la navigation, vous pouvez utiliser votre compétence en Connaissance de la conduite à la place. Vous pouvez utiliser la Dextérité à la place de l'Intelligence lorsque vous tentez des tests de pilotage avec Connaissance de la conduite. Vous devenez expert en Connaissance de la conduite . Au niveau 7, vous devenez maître en Connaissance de la conduite et au niveau 15, vous devenez légendaire en Connaissance de la conduite.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de conducteur astucieux.</p>"
         },
         {
@@ -27715,7 +27709,7 @@
         },
         {
             "id": "Provocator Dedication",
-            "name": "Dévouement du Provocator (Provocator Dedication)",
+            "name": "Dévouement : Provocator (Provocator Dedication)",
             "description": "<p><strong>Accès</strong> Avoir réussi à vaincre les Eberarks au sein de l'Irorium.</p>\n<hr />\n<p>Pour vous, combattre est davantage une affaire de style que de compétence.</p>\n<p>Vous devenez qualifié avec les armes simples, les armes de guerre et une arme avancée de votre choix. Lorsque vous réussissez un jet d'attaque en utilisant l'arme avancée que vous avez choisie, vous appliquez également l'effet critique spécialisé de cette arme.</p>\n<p>Vous devenez un expert en Représentation et à votre choix soit en Acrobaties, soit en Athlétisme. Si vous étiez déjà expert dans ces trois compétences, vous devenez un expert dans une compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir d'abord choisi deux autre dons de l'Archétype du Provocator.</p>",
             "prereq": [
                 {
@@ -27874,7 +27868,7 @@
         },
         {
             "id": "Shadowcaster Dedication",
-            "name": "Dévouement d'Incantateur de l'ombre (Shadowcaster Dedication)",
+            "name": "Dévouement : Incantateur de l'ombre (Shadowcaster Dedication)",
             "description": "<p>Vous avez sacrifié une partie de votre esprit, permettant aux pouvoirs de l'ombre d'entrer dans votre être en changeant la nature de votre magie. Vous ne pouvez plus lancer de sorts ayant le trait lumière ; si une capacité, comme une caractéristique de classe ou un don ancestral, vous accorde automatiquement un sort de lumière, comme @Compendium[pf2e.feats-srd.hT4INKGtly4QY8KN]{Initié au domaine} qui vous accorde le sort <em>@Compendium[pf2e.spells-srd.zul5cBTfr7NXHBZf]{Éclair éblouissant}</em>, vous n'obtenez pas ce sort.</p>\n<p>Vous obtenez le sort de domaine <em>@Compendium[pf2e.spells-srd.SE0fbgBj7atuukdv]{Manteau d'ombre}</em>. Cela coûte 1 Point de focalisation pour lancer un sort de focalisation. Ce don accorde une réserve de focalisation de 1 Point de focalisation que vous pouvez récupérer en utilisant l'activité @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser}. Vous pouvez Refocaliser en méditant pour siphonner la puissance du Plan de l'Ombre et remplir votre réserve de focalisation. Vos sorts de domaine de l'archétype Incantateur de l'ombre sont de la même tradition que les sorts que vous utilisez pour remplir les prérequis de l'archétype d'Incantateur de l'ombre.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype Incantateur de l'ombre.</p>",
             "prereq": [
                 {
@@ -27949,7 +27943,7 @@
         },
         {
             "id": "Vigilante Dedication",
-            "name": "Dévouement de Justicier (Vigilante Dedication)",
+            "name": "Dévouement : Justicier (Vigilante Dedication)",
             "description": "<p>Vous possédez deux identités, chacune portant son propre nom, son propre alignement et avec ses propres capacités. Votre identité sociale est celle d'un membre honnête de la société, alors que votre identité de Justicier est celle d'un combattant compétent et rusé. Aucune de ces identités n'est une simple façade ; vous êtes réellement ces deux personnes et comme telles, vos deux identités ne doivent être à plus d'un degré d'alignement l'une de l'autre (par exemple, vous pourriez être neutre sous une de ces identités et neutre mauvais dans l'autre, mais non chaotique mauvais).</p>\n<p>Si quelqu'un essaie de discerner votre seconde identité, il doit utiliser une action @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pour tenter un test de Perception contre votre DD de Duperie, comme si vous utilisiez l'action @Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]{Se déguiser}. Votre DD de Duperie contre de telles tentatives est de 20 + votre modificateur de compétence au lieu du DD habituel. Contrairement au fait de Se déguiser, vous n'avez pas à faire de test de Duperie pour @Compendium[pf2e.actionspf2e.pvQ5rY2zrtPI614F]{Interagir} avec quelqu'un pour camoufler votre identité - un test se produit seulement si quelqu'un d'autre essaie spécifiquement de découvrir votre autre identité.</p>\n<p>Passer d'une de vos identités à l'autre prend 1 minute et doit être entreprise hors de la vue des autres créatures. Comme ce processus implique à la fois des changements physiques comme des habits ou un maquillage ainsi qu'un état d'esprit altéré, les autres effets qui changent votre apparence ne réduisent pas le temps nécessaire pour changer d'identité.</p>\n<p>Vos deux identités sont complètement distinctes. Vous avez votre alignement actuel avec l'identité pour les effets qui se basent sur l'alignement, bien que vous soyez éligible pour les capacités qui nécessitent d'être d'un alignement (comme la divinité d'un prêtre) seulement si vos deux identités se qualifient pour en bénéficier. Les tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} de l'une de vos identités ne révèlent pas d'information à propos de l'autre à moins que la personne qui fait le test ne sache que vos identités s'appliquent à la même personne. Les effets qui vous détectent et basées sur votre identité, tel que le sort <em>@Compendium[pf2e.spells-srd.QnTtGCAvdWRU4spv]{Détection de l'alignement}</em>, fonctionnent seulement si vous êtes actuellement sous l'identité que l'effet tente de détecter ; autrement, l'effet échoue comme si la cible n'existait pas.</p>\n<p>Pour maintenir la séparation entre vos identités, certaines de vos capacités ont un trait parmi les deux suivants : social ou justicier. Vous pouvez utiliser les dons sociaux seulement lorsque vous êtes sous votre identité sociale. Vos dons de classe et de Justicier sont associés à votre identité de Justicier et les utiliser sous votre identité sociale vous expose à révéler que vous êtes un Justicier. Cela signifie que vous devez être particulièrement humble ou faire profil bas avant de prendre ce don, où votre identité pourrait être à mise à mal en présentant un fort risque d'être révélée. Si votre identité est exposée au public, vous perdez les avantages du dévouement de Justicier pour vous Déguiser, mais vous pouvez autrement utiliser à la fois vos capacités sociales et celles de Justicier de chaque identité à moins qu'elles ne supposent que votre identité ne soit un secret. Vous pouvez utiliser les dons qui n'ont ni l'un, ni l'autre de ces traits quelle que soit votre identité actuelle.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir pris deux autres dons de l'archétype de Justicier.</p>",
             "prereq": [
                 {
@@ -27959,7 +27953,7 @@
         },
         {
             "id": "Bard Dedication",
-            "name": "Dévouement du barde (Bard Dedication)",
+            "name": "Dévouement : Barde (Bard Dedication)",
             "description": "<p>Vous lancez des sorts comme un barde et gagnez l’activité Lancer un sort. Vous obtenez un répertoire de sorts avec deux tours de magie courants issus de la liste des sorts occultes ou tout autre tour de magie que vous apprenez ou découvrez. Vous êtes qualifié dans les jets d’attaque de sorts et les DD pour les sorts occultes. Votre caractéristique d’incantation essentielle pour les sorts de l’archétype du barde est le Charisme et il s’agit de sorts de barde occultes.</p>\n<p>Vous devenez qualifié en Occultisme et en Représentation ; pour chacune de ces compétences dans lesquelles vous êtes déjà qualifié, vous devenez à la place qualifié dans une compétence de votre choix. Choisissez une muse comme vous le feriez si vous étiez un barde. Vous avez cette muse pour remplir toute condition dont vous auriez besoin, ce qui vous permet de prendre les dons de cette muse, mais vous n'obtenez par ailleurs aucune des autres capacités qu’elle confère.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas gagner un autre don de dévouement avant d’avoir acquis deux autres dons de l’archétype barde.</p>",
             "prereq": [
                 {
@@ -27974,7 +27968,7 @@
         },
         {
             "id": "Bellflower Dedication",
-            "name": "Dévouement de la Campanule (Bellflower Dedication)",
+            "name": "Dévouement : Campanule (Bellflower Dedication)",
             "description": "<p>Vous avez dédié votre vie à libérer les esclaves et à les escorter vers la liberté.</p>\n<p>Vous obtenez un bonus de statut de 1,5 m à votre Vitesse. Choisissez jusqu'à six autres personnes pour former votre \"récolte\". Les membres de votre récolte peuvent utiliser votre Vitesse pour voyager si elle est supérieure à la leur. Les membres qui se trouvent à plus de 18 m de vous perdent le bénéfice (de ce don ou de tout autre don de Laboureur de la Campanule) de faire partie de votre récolte, mais le regagnent dès qu'ils y entrent à nouveau. Vous pouvez ajouter ou retirer quelqu'un de votre récolte en passant 10 minutes en conversation avec lui.</p>\n<p><strong>Spécial</strong> Vous ne pouvez obtenir un autre don de dévouement tant que vous n'avez pas obtenu deux autres dons de l'archétype Laboureur de la Campanule.</p>",
             "prereq": [
                 {
@@ -28501,7 +28495,7 @@
         },
         {
             "id": "Sniping Duo Dedication",
-            "name": "Dévouement de Duo de tireur d'élite (Sniping Duo Dedication)",
+            "name": "Dévouement : Duo de tireur d'élite (Sniping Duo Dedication)",
             "description": "<p>Lorsque vous prenez ce don de dévouement, choisissez un allié volontaire qui ne soit pas un sbire, pour agir comme votre guetteur. Dans le cadre de votre formation à cet archétype, vous formez votre guetteur aux habitudes et aux techniques nécessaires pour utiliser vos capacités automatiquement ; votre guetteur n'a pas besoin de dépenser ses propres dons pour en accorder les effets. Vous ne bénéficiez des avantages de votre archétype Duo de tireurs d'élite que si vous et votre guetteur êtes tous deux vivants et conscients. Vous et votre guetteur n'accordez pas à vos ennemis un abri moindre contre les Frappes de l'autre. Chaque fois que vous ou votre guetteur réussissez à frapper une cible, l'autre membre de votre duo obtient un bonus de circonstances de +1 par dé de dégâts d'arme sur le jet de dégâts de sa prochaine Frappe effectuée contre cette cible avant la fin de son prochain tour. Vous pouvez changer votre guetteur désigné en passant 3 jours d'Intermède à vous entraîner avec un autre allié.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype de duo de tireur d'élite.</p>",
             "prereq": [
                 {
@@ -28524,7 +28518,7 @@
         },
         {
             "id": "Sentinel Dedication",
-            "name": "Dévouement de Sentinelle (Sentinel Dedication)",
+            "name": "Dévouement : Sentinelle (Sentinel Dedication)",
             "description": "<p>Vous vous êtes entraîné avec soin pour maximizer les qualités protectrices de votre armure.</p>\n<p>Vous devenez qualifié avec les armures légères et les armures intermédiaires. Si vous étiez déjà qualifié avec les armures légères et les armures intermédiaires, vous devenez également qualifié avec les armures lourdes. Lorsque vous obtenez une capacité de classe qui vous accorde la maîtrise experte ou une maîtrise supérieure avec n'importe quel type d'armure (mais pas avec la défense sans armure), vous obtenez aussi cette maîtrise dans les types d'armure qui vous ont été accordés par ce don. Si vous êtes au moins au niveau 13 et que vous disposez d'une capacité de classe qui vous accorde la maîtrise experte en défense sans armure, vous devenez aussi expert dans les types d'armure qui vous ont été accordées par ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype de Sentinelle.</p>"
         },
         {
@@ -28901,7 +28895,7 @@
         },
         {
             "id": "Hellknight Armiger Dedication",
-            "name": "Dévouement d'Écuyer des Chevaliers infernaux (Hellknight Armiger Dedication)",
+            "name": "Dévouement : Écuyer des Chevaliers infernaux (Hellknight Armiger Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire de l’Ancien Chéliax</p>\n<hr />\n<p>Votre formation de Chevalier infernal vous enseigne à vous faire obéir par la peur mais vous étudiez également la structure et la hiérarchie des Enfers. Il vous faut surmonter des épreuves douloureuses pour votre corps et votre esprit, appelées jugements, visant à vous immuniser contre toute sorte de traumatismes. Vous gagnez une résistance aux dégâts mentaux égale à 1 + votre nombre de dons de l’archétype d’écuyer des Chevaliers infernaux et des autres archétypes de Chevalier infernal.</p>\n<p>Vous êtes qualifié en Intimidation et en Connaissances des Enfers ; si vous êtes déjà qualifié, vous devenez expert.</p>\n<hr />\n<p><strong>Spécial</strong> Hormis des dons de dévouement d’un grade supérieur au sein de l’ordre des Chevaliers infernaux, vous ne pouvez pas choisir un autre don de dévouement avant d’avoir gagné deux autres dons de l’archétype Écuyer des Chevaliers infernaux.</p>",
             "prereq": [
                 {
@@ -28940,7 +28934,7 @@
         },
         {
             "id": "Lastwall Sentry Dedication",
-            "name": "Dévouement de Sentinelle de Dernier-Rempart (Lastwall Sentry Dedication)",
+            "name": "Dévouement : Sentinelle de Dernier-Rempart (Lastwall Sentry Dedication)",
             "description": "<p><strong>Accès</strong> Vous êtes originaire de la région de l’Œil de l’effroi</p>\n<hr />\n<p>Vous avez juré d’être une sentinelle au service des Chevaliers du Dernier-Rempart, la première ligne de défense contre les incursions du Tyran qui Murmure sur Golarion. Vous êtes qualifié en Athlétisme et Connaissance des morts-vivants ; si vous êtes déjà qualifié, vous devenez expert. Enfin, vous recevez le don de guerrier @Compendium[pf2e.feats-srd.w8Ycgeq2zfyshtoS]{Bouclier réactif}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype sentinelle du Dernier-Rempart.</p>",
             "prereq": [
                 {

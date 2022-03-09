@@ -1,6 +1,77 @@
 {
     "label": "Effets des capacités",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
+            "name": "Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même)",
+            "description": "<p>La puissance draconique transparaît dans votre voix. Vous obtenez un bonus de statut de +1 aux tests d'intimidation pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Minor Battle Curse",
+            "name": "Effet : Malédiction mineure du combat",
+            "description": "<p>Votre corps est en manque lorsque vous n’apportez pas la douleur à vos ennemis.</p>\n<p>Vous subissez un malus de statut de -2 à la CA et aux jets de sauvegarde mais, chaque fois que vous effectuez une Frappe, ces malus sont temporairement suspendus jusqu’au début de votre prochain tour.</p>\n<hr />\n<p><em>Note : Les effets de cette malédiction sont appliqués automatiquement</em></p>"
+        },
+        {
+            "id": "Effect: Battle Medicine Immunity",
+            "name": "Effet : Immunité à Médecine militaire",
+            "description": "<p>Accordé lorsque quelqu'un utilise @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire} sur vous, vous rendant immunisé à l'effet de cet personne pendant la durée.</p>"
+        },
+        {
+            "id": "Effect: Moderate Battle Curse",
+            "name": "Effet : Malédiction modérée du combat",
+            "description": "<p>Le poids du conflit fatigue votre corps, même si vous en tirez de la vitalité.</p>\n<p>Vous subissez une pénalité de statut de -2 à la CA et aux jets de sauvegarde, mais chaque fois que vous portez une Frappe, vous pouvez réduire ces pénalités à -1 jusqu'au début de votre prochain tour.</p>\n<p>Vous obtenez un bonus de statut de +2 aux jets de dégâts avec les armes ou les attaques à mains nues.</p>\n<p>Vous obtenez également Guérison accélérée pour un montant égal à la moitié de votre niveau lorsque vous êtes impliqué dans une rencontre de combat non triviale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer Guérison accélérée manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Cosmos Curse",
+            "name": "Effet : Malédiction majeure du cosmos",
+            "description": "<p>Votre corps s’élève et vous flottez juste au-dessus du sol.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 4} et subissez un malus de -4 aux jets de sauvegarde et au DD contre les @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisies}, les @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussées} et les autres formes de déplacement forcé. Vous pouvez marcher sur des liquides comme s’ils étaient solides, vous gagnez les effets du don de compétence @Compendium[pf2e.feats-srd.TVFfTP9fHRidwBlW]{Saut plané} ; et vous ne laissez pas de traces, ne déclenchez pas les plaques de pression sensibles au poids et n’êtes pas en contact avec le sol en-dessous de vous.</p>\n<hr />\n<p><em>Note: Les bonus et les malus aux jets de sauvegarde sont appliqués automatiquement. Vous avez besoin d'appliquer manuellement les autres effets.</em></p>"
+        },
+        {
+            "id": "Effect: Minor Skillful Ancestor Curse",
+            "name": "Effet : Malédiction mineure l'ancêtre talentueux",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Genie Blood Magic (Self)",
+            "name": "Effet : Magie du sang génie (soi-même)",
+            "description": "<p>Votre incantation tord la réalité et distrait vos ennemis. Vous obtenez un bonus de statut de +1 aux tests de Duperie pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Psychopomp Blood Magic (Self)",
+            "name": "Effet : Magie du sang psychopompe (soi-même)",
+            "description": "<p>La frontière entre la vie et la mort est devenue floue pour vous. Vous obtenez un bonus de statut de +2 aux jets de Vigueur pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Demonic Blood Magic (Self)",
+            "name": "Effet : Magie du sang démoniaque (Soi-même)",
+            "description": "<p>La corruption pécheresse vous rend plus intimidant. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Elemental Blood Magic (Self)",
+            "name": "Effet : Magie du sang élémentare (soi-même)",
+            "description": "<p>L’énergie élémentaire vous enveloppe. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Major Skillful Ancestor Curse",
+            "name": "Effet : Malédiction majeure de l'ancêtre talentueux",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Hag Blood Magic",
+            "name": "Effet : Magie du sang guenaude",
+            "description": "<p>Vous maudissez vos ennemis avec véhémence. La première créature qui vous inflige des dégâts avant la fin de votre prochain tour subit 2 dégâts mentaux par niveau de sort (Volonté basique).</p>"
+        },
+        {
+            "id": "Effect: Ancestor Curse",
+            "name": "Effet : Malédiction des ancêtres",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Moderate Life Curse",
+            "name": "Effet : Malédiction modérée de la vie",
+            "description": "<p>L’énergie vitale continue à s’écouler de vous et ce phénomène ne peut pas être inversé.</p>\n <p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. En plus des effets de votre malédiction mineure, vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscients, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n <p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<hr />\n<p><em>Note : il vous faut appliquer les effets de cette malédiction manuellement.</em></p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

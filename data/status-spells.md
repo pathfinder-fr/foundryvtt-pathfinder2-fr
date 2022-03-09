@@ -1,11 +1,11 @@
 # État de la traduction (spells)
 
- * **libre**: 607
+ * **libre**: 606
  * **officielle**: 554
- * **changé**: 6
+ * **changé**: 7
 
 
-Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -18,6 +18,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|Armure chromatique|changé|
 |[necromancy-01-IxyD7YdRbSSucxZp.htm](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|Imposition des mains (sur un mort-vivant)|changé|
 |[transmutation-03-0gdZrT9lwO17EIxc.htm](spells/transmutation-03-0gdZrT9lwO17EIxc.htm)|Ooze Form|Forme de vase|changé|
+|[transmutation-04-0fYE64odlKqISzft.htm](spells/transmutation-04-0fYE64odlKqISzft.htm)|Rusting Grasp|Poigne oxydante|changé|
 
 ## Liste des traductions complétés
 
@@ -1112,7 +1113,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-03-vh1RpbWfqdNC4L3P.htm](spells/transmutation-03-vh1RpbWfqdNC4L3P.htm)|Meld into Stone|Fusion dans la pierre|officielle|
 |[transmutation-03-WsUwpfmhKrKwoIe3.htm](spells/transmutation-03-WsUwpfmhKrKwoIe3.htm)|Slow|Lenteur|officielle|
 |[transmutation-03-XI6Lzd2B5pernkPd.htm](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Insect Form|Forme d'insecte|officielle|
-|[transmutation-04-0fYE64odlKqISzft.htm](spells/transmutation-04-0fYE64odlKqISzft.htm)|Rusting Grasp|Poigne oxydante|libre|
 |[transmutation-04-1NLMPmyCB2MBoCuR.htm](spells/transmutation-04-1NLMPmyCB2MBoCuR.htm)|Tortoise and the Hare|La tortue et le lièvre|libre|
 |[transmutation-04-8rj45fKzCFcB0fxs.htm](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Enlarge Companion|Compagnon agrandi|libre|
 |[transmutation-04-A2JfEKe6BZcTG1S8.htm](spells/transmutation-04-A2JfEKe6BZcTG1S8.htm)|Fly|Vol|officielle|

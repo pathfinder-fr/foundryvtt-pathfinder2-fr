@@ -1,19 +1,22 @@
 # État de la traduction (equipment-effects)
 
  * **libre**: 180
- * **aucune**: 4
+ * **aucune**: 7
  * **vide**: 4
 
 
-Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[01-d7BDxmsnM1BUoEeT.htm](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|
+|[01-KSvkfMqMQ8mlGLiz.htm](equipment-effects/01-KSvkfMqMQ8mlGLiz.htm)|Effect: Goggles of Night|
 |[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|
 |[01-tGeMT4iHJcsjVbl3.htm](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|
+|[01-WXrqEuLT4uP48Bvo.htm](equipment-effects/01-WXrqEuLT4uP48Bvo.htm)|Effect: Goggles of Night (Major)|
 |[01-z3ATL8DcRVrT0Uzt.htm](equipment-effects/01-z3ATL8DcRVrT0Uzt.htm)|Effect: Disarm (Success)|
 |[17-exwQF6E1FWmuxwBc.htm](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|
 

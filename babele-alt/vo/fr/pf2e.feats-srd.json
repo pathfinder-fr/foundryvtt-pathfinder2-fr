@@ -2008,7 +2008,7 @@
         {
             "id": "Heart of the Kaiju",
             "name": "Heart of the Kaiju",
-            "description": "<p>Ayant été témoin de près la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a réveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant Morphologie monstrueuse, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, de froid, d'électricité, de feu ou soniques ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gargantuesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<ul>\n<li><strong>Kaiju</strong> Vitesse 12 mètres ; résistance 5 dégâts physiques ;</li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Mâchoires (portée 6 mètres), <strong>Dégâts</strong> [[/r {3d12+20}[piercing]]]{3d12+20 perforants} </li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Griffes (agile, allonge 6 mètres), <strong>Dégâts</strong>[[/r {3d8+20}[slashing]]]{3d8+20 tranchants}</li>\n<li><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un @Template[type:cone|distance:60]{cône de 18 mètres}  subit [[/r {15d6}]]{15d6 dégâts} (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois utilisée, votre arme de souffle ne peut plus être utilisée pendant [[/br 1d4 #rounds]]{1d4 rounds}.</li>\n</ul>",
+            "description": "<p>Le fait d'avoir été témoin de près de la puissance du roi kaiju Mogaru, d'Alru et de Toraloa a éveillé une nouvelle férocité en vous. Lorsque vous vous transformez en utilisant <em>Morphologie monstrueuse</em>, vous pouvez prendre la forme d'un kaiju. Lorsque vous prenez ce don, choisissez des dégâts d'acide, d'électricité, de feu, de froid ou de son ; ce sont les dégâts que votre arme de souffle inflige. Vous ne pourrez plus modifier ce choix par la suite. La forme de combat est de taille gigantesque avec les capacités spécifiques suivantes ; les valeurs de dégâts incluent déjà le dé supplémentaire dû au fait qu'il s'agit d'un sort de niveau 9.</p>\n<ul>\n<li><strong>Kaiju</strong> Vitesse 12 mètres ; résistance 5 dégâts physiques</li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Mâchoires (portée 6 mètres), <strong>Dégâts</strong> [[/r {3d12+20}[piercing]]]{3d12+20 perforants} </li>\n<li><strong>Corps-à-corps<span class=\"pf2-icon\">1</span></strong> Griffes (agile, allonge 6 mètres), <strong>Dégâts</strong>[[/r {3d8+20}[slashing]]]{3d8+20 tranchants}</li>\n<li><strong>Arme de souffle</strong><span class=\"pf2-icon\">2</span> (évocation, primordiale) Chaque créature dans un @Template[type:cone|distance:60]{cône de 18 mètres} subit [[/r {15d6}]]{15d6 dégâts} (du type de dégâts que vous avez choisi), avec un jet de Réflexes basique contre le DD de votre sort. Une fois activée, votre arme de souffle ne peut plus être utilisée pendant [[/br 1d4 #rounds]]{1d4 rounds}.</li>\n</ul>",
             "prereq": [
                 {
                     "value": "Morphologie monstrueuse"
@@ -3530,7 +3530,7 @@
         {
             "id": "Replenishing Hydration",
             "name": "Replenishing Hydration",
-            "description": "<p>Vous vous régénérez en puisant la vie de l'eau qui vous entoure. Si vous vous submergez dans l'eau et vous reposez pendant 10 minutes, vous regagnez des Points de vie égaux à votre modificateur de [[/r {(floor(@actor.level/2))*(@actor.abilities.con.mod)}[healing]]]{Constitution × la moitié de votre niveau}.</p>"
+            "description": "<p>Vous vous régénérez en puisant la vie de l'eau qui vous entoure. Si vous vous immergez dans l'eau et vous reposez pendant 10 minutes, vous regagnez des Points de vie égaux à votre modificateur de [[/r {(floor(@actor.level/2))*(@actor.abilities.con.mod)}[healing]]]{Constitution × la moitié de votre niveau}.</p>"
         },
         {
             "id": "Miraculous Flight",
@@ -6080,7 +6080,7 @@
         {
             "id": "Blind-Fight",
             "name": "Blind-Fight",
-            "description": "<p>Vos intuitions dans la bataille vous rendent plus attentifs à vos opposants masqués ou invisibles. Vous n'avez pas besoin de réussir de test nu pour cibler les créatures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}.</p>\n<p>Vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} face aux créatures qui vous sont @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} (à moins que vous ne soyez Pris au dépourvu pour d'autres raisons que celle liée à la condition Cachée) et nous n'avez besoin seulument que d'un test nu réussi contre un DD5 pour cibler une créature Cachée.</p>\n<p>Lorsque vous êtes adjacent à une créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} de votre niveau ou plus faible, vous considérez qu'elle vous est à seulement Cachée.</p>",
+            "description": "<p>Vos intuitions dans la bataille vous rendent plus attentifs à vos opposants masqués ou invisibles. Vous n'avez pas besoin de réussir de test nu pour cibler les créatures @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}.</p>\n<p>Vous n'êtes pas @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} face aux créatures qui vous sont @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachées} (à moins que vous ne soyez Pris au dépourvu pour d'autres raisons que celle liée à la condition Cachée) et vous avez uniquement besoin d'un test nu réussi contre un DD 5 pour cibler une créature Cachée.</p>\n<p>Lorsque vous êtes adjacent à une créature @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} de votre niveau ou plus faible, vous considérez qu'elle vous est à seulement Cachée.</p>",
             "prereq": [
                 {
                     "value": "maître en Perception"
@@ -6471,7 +6471,7 @@
             "description": "<p>Vous découvrez les secrets de l'intégration des pierres d'éternité dans votre chair. Vous passez 1 jour à vous harmoniser à une pierre d'éternité et à l'intégrer physiquement dans votre peau. Alors que la pierre est intégrée de la sorte, vous obtenez les avantages de la pierre d'éternité comme si elle orbitait au dessus de votre tête, mais elle empêche que la pierre soit remarquée ou volée aussi facilement. Les pierres d'éternité dans votre chair doivnt être investies pour fonctionner comme à l'ordinaire.</p>\n<p>Vous pouvez aussi utiliser cette activité pour retirer sans danger une pierre d'éternité intégrée en 1 jour. Quelqu'un qui ne dispose pas de ce don peut tenter de la retirer  chirugicalement sans danger en passant 1 journée et en réussissant un test de Médecine DD 30, ou à la hâte en l'arrachant simplement d'un cadavre.</p>",
             "prereq": [
                 {
-                    "value": "Dévouement de Seigneur des runes"
+                    "value": "Dévouement : Seigneur des runes"
                 },
                 {
                     "value": "qualifié en Artisanat"
@@ -16491,7 +16491,7 @@
             "description": "<p>Votre capacité à captiver les autres frise le surnaturel. Vous êtes rarement désemparé dans les situations sociales et vous pouvez créer des enchantements ou des illusions mineures. Choisissez Duperie ou Diplomatie. Vous êtes qualifié dans cette compétence ou devenez expert si vous étiez déjà qualifié.</p>\n<p>Choisissez deux tours de magie tiré de la liste des sorts occultes ; chaque tour de magie doit appartenir à l'école d'enchantement ou d'illusion. Vous obtenez l'accès à l'activité Lancer un sort et pouvez lancer ces sorts comme des sorts innés occultes. Vous êtes qualifié en jets d'attaque de sorts occultes et au DD des sorts occultes. Si vous avez une main libre, vous pouvez généralement remplacer les composants matériels par des composants somatiques, de sorte que vous n'avez pas besoin d'utiliser une sacoche de composants de sorts. Votre caractéristique essentielle de lanceur de sorts pour ces sorts est le Charisme.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres exploits de l'archétype de Captivant.</p>",
             "prereq": [
                 {
-                    "value": "Charismee 14"
+                    "value": "Charisme 14"
                 },
                 {
                     "value": "qualifié en Duperie ou en Diplomatie"
@@ -18528,7 +18528,7 @@
         {
             "id": "Ostentatious Arrival",
             "name": "Ostentatious Arrival",
-            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion..</p>\n<p>Toutes les créatures situées dans une @Template[type:emanation|distance:10]>{émanation de 3 mètres} autour de la créature que vous avez invoquée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort d'invocation, ou [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 dégâts par tranche de 2 niveaux} pour la manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez invoquée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
+            "description": "<p>Si la prochaine action que vous entreprenez est de manifester votre eidolon en utilisant une activité à trois actions ou de lancer un sort d'invocation à trois actions, la créature apparaît dans une explosion.</p>\n<p>Toutes les créatures situées dans une @Template[type:emanation|distance:10]{émanation de 3 mètres} autour de la créature que vous avez conjurée ou manifestée subissent [[/r {1d4}[fire]]]{1d4 dégâts de feu par niveau de sort} pour un sort de conjuration ou [[/r {(floor(@actor.level/2))d4}[fire]]]{1d4 dégâts par tranche de 2 niveaux} pour la Manifestation de votre eidolon.</p>\n<p>Si la créature que vous avez conjurée ou manifestée possède le trait acide, froid, électricité, feu, sonique ou eau, les dégâts sont de ce type à la place (ou des dégâts de froid pour le trait eau). Si la créature possède plus d'un de ces traits, vous choisissez le type de dégâts à infliger.</p>"
         },
         {
             "id": "Snap Out Of It! (Pathfinder Agent)",
@@ -20165,13 +20165,7 @@
             "description": "<p>Vous étudiez les peuples et leurs histoires et êtes sans arrêt à la poursuite de connaissances et d'artefacts du passé. Vous devenez expert en Société et en Vol et vous obtenez un bonus de circonstances de +1 pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de l'histoire ancienne, des peuples et des cultures.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'archéologue.</p>",
             "prereq": [
                 {
-                    "value": "qualifié en Perception"
-                },
-                {
-                    "value": "qualifié en Société"
-                },
-                {
-                    "value": "qualifié en Vol"
+                    "value": "qualifié en Perception, en Société et en Vol"
                 }
             ]
         },
@@ -20249,7 +20243,7 @@
             "description": "<p>Votre magie runique s'accroit et votre pratique avec l'arme associée à votre école. Vous obtenez un tour de magie supplémentaire de l'école arcanique choisie et chaque fois que vous obtenez un niveau (incluant ce niveau), vous ajoutez un sort supplémentaire de votre école arcanique choisie à votre grimoire, avec les mêmes restrictions que les deux sorts vous ajoutez normalement.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype Seigneur des runes.</p>",
             "prereq": [
                 {
-                    "value": "Spécialisation de seigneur des runes"
+                    "value": "Spécialisation de Seigneur des runes"
                 }
             ]
         },

@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -2995,7 +2995,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Attaque surprise](feats/archetype-04-io6eJGrw701WbmYe.htm)|Surprise Attack|`@Compendium[pf2e.feats-srd.io6eJGrw701WbmYe]`|
 |[Attaque éclair](feats/class-12-d1jQ0HyIOyUdCCaN.htm)|Spring Attack|`@Compendium[pf2e.feats-srd.d1jQ0HyIOyUdCCaN]`|
 |[Attaque éclair à deux armes](feats/archetype-10-04Smj4ZsEBD8WIXv.htm)|Dual-Weapon Blitz|`@Compendium[pf2e.feats-srd.04Smj4ZsEBD8WIXv]`|
-|[Atteindre audelà](feats/archetype-04-QMycbf2StuPcUbzO.htm)|Reach Beyond|`@Compendium[pf2e.feats-srd.QMycbf2StuPcUbzO]`|
+|[Atteindre l'au-delà](feats/archetype-04-QMycbf2StuPcUbzO.htm)|Reach Beyond|`@Compendium[pf2e.feats-srd.QMycbf2StuPcUbzO]`|
 |[Atteindre les étoiles](feats/class-18-GWnQMjSAIG6qcV8J.htm)|Reach for the Stars|`@Compendium[pf2e.feats-srd.GWnQMjSAIG6qcV8J]`|
 |[Atterrissage impressionnant](feats/class-10-QO8l5Dao8HnaFQE4.htm)|Impressive Landing|`@Compendium[pf2e.feats-srd.QO8l5Dao8HnaFQE4]`|
 |[Attirer l'attention](feats/archetype-10-N0gJ4Q69nslbdXHg.htm)|Command Attention|`@Compendium[pf2e.feats-srd.N0gJ4Q69nslbdXHg]`|
@@ -3743,133 +3743,133 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dévotion avancée](feats/archetype-06-7JjNWSuutkjrMrd0.htm)|Advanced Devotion|`@Compendium[pf2e.feats-srd.7JjNWSuutkjrMrd0]`|
 |[Dévotion basique](feats/archetype-04-uKBT0D9gxdwMcwNl.htm)|Basic Devotion|`@Compendium[pf2e.feats-srd.uKBT0D9gxdwMcwNl]`|
 |[Dévotion envers les cinq](feats/bonus-00-UHejQS4uCNGRI45t.htm)|Dedication to the Five|`@Compendium[pf2e.feats-srd.UHejQS4uCNGRI45t]`|
-|[Dévouement d'Acrobate](feats/archetype-02-aFygWxgSv82WyCsl.htm)|Acrobat Dedication|`@Compendium[pf2e.feats-srd.aFygWxgSv82WyCsl]`|
-|[Dévouement d'Agent des Éclaireurs](feats/archetype-02-QnB5ArlO4wlRXQ2E.htm)|Pathfinder Agent Dedication|`@Compendium[pf2e.feats-srd.QnB5ArlO4wlRXQ2E]`|
-|[Dévouement d'Agitateur vantard](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|`@Compendium[pf2e.feats-srd.NagTqSLK8bAlo2nY]`|
-|[Dévouement d'Amateur de talismans](feats/archetype-02-1t5479E6bdvFs4E7.htm)|Talisman Dabbler Dedication|`@Compendium[pf2e.feats-srd.1t5479E6bdvFs4E7]`|
-|[Dévouement d'Archer mystique](feats/archetype-06-oyLkqhDGwGGj40ME.htm)|Eldritch Archer Dedication|`@Compendium[pf2e.feats-srd.oyLkqhDGwGGj40ME]`|
-|[Dévouement d'Arpenteur d'horizon](feats/archetype-02-pZMBq7gn66SEEA0n.htm)|Horizon Walker Dedication|`@Compendium[pf2e.feats-srd.pZMBq7gn66SEEA0n]`|
-|[Dévouement d'Artificier](feats/archetype-02-MVbNnjqQOK9d8Ki3.htm)|Firework Technician Dedication|`@Compendium[pf2e.feats-srd.MVbNnjqQOK9d8Ki3]`|
-|[Dévouement d'Artilleur](feats/archetype-02-txWKzKuJus7UBebX.htm)|Artillerist Dedication|`@Compendium[pf2e.feats-srd.txWKzKuJus7UBebX]`|
-|[Dévouement d'Artiste martial](feats/archetype-02-zn7arorE3VJLNYsb.htm)|Martial Artist Dedication|`@Compendium[pf2e.feats-srd.zn7arorE3VJLNYsb]`|
-|[Dévouement d'Assassin](feats/archetype-02-iBmqKjsq4iTtoqvl.htm)|Assassin Dedication|`@Compendium[pf2e.feats-srd.iBmqKjsq4iTtoqvl]`|
-|[Dévouement d'Assassin des Mantes rouges](feats/archetype-02-UuPZ7drPBnSmI8Eo.htm)|Red Mantis Assassin Dedication|`@Compendium[pf2e.feats-srd.UuPZ7drPBnSmI8Eo]`|
-|[Dévouement d'Empoisonneur](feats/archetype-02-y7DDs03GtDnmhxFp.htm)|Poisoner Dedication|`@Compendium[pf2e.feats-srd.y7DDs03GtDnmhxFp]`|
-|[Dévouement d'Enquêteur](feats/archetype-02-CZXhJS55rG5H6PpB.htm)|Investigator Dedication|`@Compendium[pf2e.feats-srd.CZXhJS55rG5H6PpB]`|
-|[Dévouement d'Incantateur de l'ombre](feats/archetype-02-ncrNQcwm4gOQRAA3.htm)|Shadowcaster Dedication|`@Compendium[pf2e.feats-srd.ncrNQcwm4gOQRAA3]`|
-|[Dévouement d'Incantateur flexible](feats/archetype-02-CrS0iDwHmjKqvKti.htm)|Flexible Spellcaster Dedication|`@Compendium[pf2e.feats-srd.CrS0iDwHmjKqvKti]`|
-|[Dévouement d'Inventeur](feats/archetype-02-JIpjpZ8VneQomkZw.htm)|Inventor Dedication|`@Compendium[pf2e.feats-srd.JIpjpZ8VneQomkZw]`|
-|[Dévouement d'Oracle](feats/archetype-02-OUNj8nXTHwGcEdlh.htm)|Oracle Dedication|`@Compendium[pf2e.feats-srd.OUNj8nXTHwGcEdlh]`|
-|[Dévouement d'Usurpateur de parchemins](feats/archetype-02-uxHWqFbYD0ZvkeF8.htm)|Scroll Trickster Dedication|`@Compendium[pf2e.feats-srd.uxHWqFbYD0ZvkeF8]`|
-|[Dévouement d'archéologue](feats/archetype-02-PRKe5rWYZMZgEpFU.htm)|Archaeologist Dedication|`@Compendium[pf2e.feats-srd.PRKe5rWYZMZgEpFU]`|
-|[Dévouement d'herboriste](feats/archetype-02-5CRt5Dy9eLv5LpRF.htm)|Herbalist Dedication|`@Compendium[pf2e.feats-srd.5CRt5Dy9eLv5LpRF]`|
-|[Dévouement d'improvisateur d'arme](feats/archetype-02-MndcBMz6I7e6SRqx.htm)|Weapon Improviser Dedication|`@Compendium[pf2e.feats-srd.MndcBMz6I7e6SRqx]`|
-|[Dévouement d'officier de la Garde du Précipice](feats/archetype-02-6b8DiNx4c1zPZ7RP.htm)|Edgewatch Detective Dedication|`@Compendium[pf2e.feats-srd.6b8DiNx4c1zPZ7RP]`|
-|[Dévouement d'Écuyer des Chevaliers infernaux](feats/archetype-02-qhs0mWbaLKsdckZX.htm)|Hellknight Armiger Dedication|`@Compendium[pf2e.feats-srd.qhs0mWbaLKsdckZX]`|
-|[Dévouement d'Élu divin](feats/archetype-02-eBdajOzs8kiJDic2.htm)|Blessed One Dedication|`@Compendium[pf2e.feats-srd.eBdajOzs8kiJDic2]`|
-|[Dévouement d'élémentaliste](feats/archetype-02-tx9pkrpmtqe4FnvS.htm)|Elementalist Dedication|`@Compendium[pf2e.feats-srd.tx9pkrpmtqe4FnvS]`|
-|[Dévouement de Bastion](feats/archetype-02-s6wXcQYmHbew14gC.htm)|Bastion Dedication|`@Compendium[pf2e.feats-srd.s6wXcQYmHbew14gC]`|
-|[Dévouement de Bestioléro](feats/archetype-06-L1gD3VMD5X9JNJzE.htm)|Beast Gunner Dedication|`@Compendium[pf2e.feats-srd.L1gD3VMD5X9JNJzE]`|
-|[Dévouement de Bretteur](feats/archetype-02-eAlrvPVb8qt8Lruw.htm)|Swashbuckler Dedication|`@Compendium[pf2e.feats-srd.eAlrvPVb8qt8Lruw]`|
-|[Dévouement de Bûcheron de Turpin Rowe](feats/archetype-02-0icxuITlxUBfeomX.htm)|Turpin Rowe Lumberjack Dedication|`@Compendium[pf2e.feats-srd.0icxuITlxUBfeomX]`|
-|[Dévouement de Capitaine](feats/archetype-02-MYzRfNExDYp25rro.htm)|Marshal Dedication|`@Compendium[pf2e.feats-srd.MYzRfNExDYp25rro]`|
-|[Dévouement de Cavalier](feats/archetype-02-5Q69PI8jdQVkb1ZT.htm)|Cavalier Dedication|`@Compendium[pf2e.feats-srd.5Q69PI8jdQVkb1ZT]`|
-|[Dévouement de Chasseur de fantômes](feats/archetype-02-mkp6lhBbTASEmKwY.htm)|Ghost Hunter Dedication|`@Compendium[pf2e.feats-srd.mkp6lhBbTASEmKwY]`|
-|[Dévouement de Chasseur de primes](feats/archetype-02-tKaesXO5nlZ2sspx.htm)|Bounty Hunter Dedication|`@Compendium[pf2e.feats-srd.tKaesXO5nlZ2sspx]`|
-|[Dévouement de Chercheur Mystique](feats/archetype-02-lslR2UfP3ze7TFYu.htm)|Eldritch Researcher Dedication|`@Compendium[pf2e.feats-srd.lslR2UfP3ze7TFYu]`|
-|[Dévouement de Chercheur du Paradis du Jalmeray](feats/archetype-04-Ze9vb0wlRmWWqnXC.htm)|Jalmeri Heavenseeker Dedication|`@Compendium[pf2e.feats-srd.Ze9vb0wlRmWWqnXC]`|
-|[Dévouement de Chevalier infernal](feats/archetype-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|`@Compendium[pf2e.feats-srd.oNh2vedij8xbDbph]`|
-|[Dévouement de Chevalier récupérateur](feats/archetype-06-H86VNC6cNWhBI8Ed.htm)|Knight Reclaimant Dedication|`@Compendium[pf2e.feats-srd.H86VNC6cNWhBI8Ed]`|
-|[Dévouement de Chevalier vigilant](feats/class-06-1YFrl8I6ZGo7BIM9.htm)|Knight Vigilant Dedication|`@Compendium[pf2e.feats-srd.1YFrl8I6ZGo7BIM9]`|
-|[Dévouement de Cogneur](feats/archetype-02-AimSmPyiMhJZVZRq.htm)|Mauler Dedication|`@Compendium[pf2e.feats-srd.AimSmPyiMhJZVZRq]`|
-|[Dévouement de Conducteur astucieux](feats/archetype-02-1hyC4aiLMBSwM9Z1.htm)|Trick Driver Dedication|`@Compendium[pf2e.feats-srd.1hyC4aiLMBSwM9Z1]`|
-|[Dévouement de Célébrité](feats/archetype-02-MNArjo5Z5LUYITQm.htm)|Celebrity Dedication|`@Compendium[pf2e.feats-srd.MNArjo5Z5LUYITQm]`|
-|[Dévouement de Danseur de balle](feats/archetype-02-j1hhTLOq7o80XCyV.htm)|Bullet Dancer Dedication|`@Compendium[pf2e.feats-srd.j1hhTLOq7o80XCyV]`|
-|[Dévouement de Danseur de l'ombre](feats/archetype-08-1AgirzUGkyDdmENy.htm)|Shadowdancer Dedication|`@Compendium[pf2e.feats-srd.1AgirzUGkyDdmENy]`|
-|[Dévouement de Dompteur](feats/archetype-02-m3ANSHYfBrFyFUvo.htm)|Animal Trainer Dedication|`@Compendium[pf2e.feats-srd.m3ANSHYfBrFyFUvo]`|
-|[Dévouement de Duelliste Aldori](feats/archetype-02-pI97a5xSg4LbBY1g.htm)|Aldori Duelist Dedication|`@Compendium[pf2e.feats-srd.pI97a5xSg4LbBY1g]`|
-|[Dévouement de Duo de tireur d'élite](feats/archetype-02-6PP57Aa5HmSr0qIZ.htm)|Sniping Duo Dedication|`@Compendium[pf2e.feats-srd.6PP57Aa5HmSr0qIZ]`|
-|[Dévouement de Dynamo sterling](feats/archetype-02-fdSbB0EQVxFgLoEd.htm)|Sterling Dynamo Dedication|`@Compendium[pf2e.feats-srd.fdSbB0EQVxFgLoEd]`|
-|[Dévouement de Démolisseur](feats/archetype-02-M0D2CQgASNfdZBrl.htm)|Demolitionist Dedication|`@Compendium[pf2e.feats-srd.M0D2CQgASNfdZBrl]`|
-|[Dévouement de Fabricant de pièges](feats/archetype-04-uT9RnHLgIIcm7Hhs.htm)|Trapsmith Dedication|`@Compendium[pf2e.feats-srd.uT9RnHLgIIcm7Hhs]`|
-|[Dévouement de Fabricant de pièges artisanaux](feats/archetype-02-4MUbwilvb9dI0X59.htm)|Snarecrafter Dedication|`@Compendium[pf2e.feats-srd.4MUbwilvb9dI0X59]`|
-|[Dévouement de Folkloriste](feats/archetype-02-sG9fPQk4w9y6MmnY.htm)|Folklorist Dedication|`@Compendium[pf2e.feats-srd.sG9fPQk4w9y6MmnY]`|
-|[Dévouement de Forgeur d'âme](feats/archetype-02-SoocjFrWNOpchTVb.htm)|Soulforger Dedication|`@Compendium[pf2e.feats-srd.SoocjFrWNOpchTVb]`|
-|[Dévouement de Garde Zéphyr](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Zephyr Guard Dedication|`@Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]`|
-|[Dévouement de Gardien du Cristal](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Crystal Keeper Dedication|`@Compendium[pf2e.feats-srd.ELdUj5ihdivlgb3H]`|
-|[Dévouement de Greffeur de golem](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Grafter Dedication|`@Compendium[pf2e.feats-srd.MxNb97qr1yMhbjiP]`|
-|[Dévouement de Justicier](feats/archetype-02-uqIiSDbv80TbRwTQ.htm)|Vigilante Dedication|`@Compendium[pf2e.feats-srd.uqIiSDbv80TbRwTQ]`|
-|[Dévouement de Lame du Lion](feats/archetype-02-zNxbsYgQgPVxdTLV.htm)|Lion Blade Dedication|`@Compendium[pf2e.feats-srd.zNxbsYgQgPVxdTLV]`|
-|[Dévouement de Lion radieux](feats/archetype-02-rJ1XxUEACaQA9Lyo.htm)|Bright Lion Dedication|`@Compendium[pf2e.feats-srd.rJ1XxUEACaQA9Lyo]`|
-|[Dévouement de Lié par un pacte](feats/archetype-02-BVxcuJ5TWfN1px4L.htm)|Pactbound Dedication|`@Compendium[pf2e.feats-srd.BVxcuJ5TWfN1px4L]`|
-|[Dévouement de Lutteur](feats/archetype-02-5npovgLMUlvtot2J.htm)|Wrestler Dedication|`@Compendium[pf2e.feats-srd.5npovgLMUlvtot2J]`|
-|[Dévouement de Mangeur de fantômes](feats/archetype-02-r1um0cn7MRIMLqcq.htm)|Ghost Eater Dedication|`@Compendium[pf2e.feats-srd.r1um0cn7MRIMLqcq]`|
-|[Dévouement de Maître des bêtes](feats/archetype-02-wdmUH6hdat7jpEWt.htm)|Beastmaster Dedication|`@Compendium[pf2e.feats-srd.wdmUH6hdat7jpEWt]`|
-|[Dévouement de Maître des épées](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|`@Compendium[pf2e.feats-srd.SHpVHkPxtQggD9Cf]`|
-|[Dévouement de Maître familier](feats/archetype-02-4zaU3GlTGMNqLFS8.htm)|Familiar Master Dedication|`@Compendium[pf2e.feats-srd.4zaU3GlTGMNqLFS8]`|
-|[Dévouement de Monolithe vivant](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|`@Compendium[pf2e.feats-srd.c4ao7b2T92fiM8jR]`|
-|[Dévouement de Mystificateur de sort](feats/archetype-02-CbqaiI0TKsyDywDr.htm)|Spell Trickster Dedication|`@Compendium[pf2e.feats-srd.CbqaiI0TKsyDywDr]`|
-|[Dévouement de Mécanicien de véhicule](feats/archetype-02-fL5lO5Odp7iJPkan.htm)|Vehicle Mechanic Dedication|`@Compendium[pf2e.feats-srd.fL5lO5Odp7iJPkan]`|
-|[Dévouement de Médecin](feats/archetype-02-MJg24e9fJd7OASvF.htm)|Medic Dedication|`@Compendium[pf2e.feats-srd.MJg24e9fJd7OASvF]`|
-|[Dévouement de Seigneur des runes](feats/archetype-02-mz2x4HFrWT8usbEL.htm)|Runelord Dedication|`@Compendium[pf2e.feats-srd.mz2x4HFrWT8usbEL]`|
-|[Dévouement de Sentinelle](feats/archetype-02-8foxmfC6FFT3oYpV.htm)|Sentinel Dedication|`@Compendium[pf2e.feats-srd.8foxmfC6FFT3oYpV]`|
-|[Dévouement de Sentinelle de Dernier-Rempart](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Lastwall Sentry Dedication|`@Compendium[pf2e.feats-srd.bWYnjNa2RknMoibg]`|
-|[Dévouement de Sixième pilier](feats/archetype-08-cTeRwExCGhfwJbkl.htm)|Sixth Pillar Dedication|`@Compendium[pf2e.feats-srd.cTeRwExCGhfwJbkl]`|
-|[Dévouement de Sonneur de carillon de Nantambu](feats/archetype-02-57K9il2Jxs8PmsYL.htm)|Nantambu Chime-Ringer Dedication|`@Compendium[pf2e.feats-srd.57K9il2Jxs8PmsYL]`|
-|[Dévouement de Sorcier](feats/archetype-02-y0vdu6DGhKKElmE6.htm)|Witch Dedication|`@Compendium[pf2e.feats-srd.y0vdu6DGhKKElmE6]`|
-|[Dévouement de Sortiléro](feats/archetype-02-BwDIwjHasZwcd61Z.htm)|Spellshot Dedication|`@Compendium[pf2e.feats-srd.BwDIwjHasZwcd61Z]`|
-|[Dévouement de Tireur d'élite inattendu](feats/archetype-02-lotpVdFhxNsNP0Ru.htm)|Unexpected Sharpshooter Dedication|`@Compendium[pf2e.feats-srd.lotpVdFhxNsNP0Ru]`|
-|[Dévouement de Tireur drow](feats/archetype-02-NwMiszlcqNZWtezq.htm)|Drow Shootist Dedication|`@Compendium[pf2e.feats-srd.NwMiszlcqNZWtezq]`|
-|[Dévouement de Vasemorphe](feats/archetype-02-20jNBiIIxaiOVyi0.htm)|Oozemorph Dedication|`@Compendium[pf2e.feats-srd.20jNBiIIxaiOVyi0]`|
-|[Dévouement de Xun de la Ligue dorée](feats/archetype-08-jTOxxy19o2VRJTbH.htm)|Golden League Xun Dedication|`@Compendium[pf2e.feats-srd.jTOxxy19o2VRJTbH]`|
-|[Dévouement de barbare](feats/archetype-02-WVU0c8rgcpGSRqSi.htm)|Barbarian Dedication|`@Compendium[pf2e.feats-srd.WVU0c8rgcpGSRqSi]`|
-|[Dévouement de chasseur de gibier](feats/archetype-02-CowQy8gXP9POjuxq.htm)|Game Hunter Dedication|`@Compendium[pf2e.feats-srd.CowQy8gXP9POjuxq]`|
-|[Dévouement de combattant à deux armes](feats/archetype-02-YhnCjiHNlS3nCeoC.htm)|Dual-Weapon Warrior Dedication|`@Compendium[pf2e.feats-srd.YhnCjiHNlS3nCeoC]`|
-|[Dévouement de franc-tireur](feats/archetype-02-USt0jwK8XI5loG4E.htm)|Gunslinger Dedication|`@Compendium[pf2e.feats-srd.USt0jwK8XI5loG4E]`|
-|[Dévouement de guerrier](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Fighter Dedication|`@Compendium[pf2e.feats-srd.mvNa9KfQooHYEXoA]`|
-|[Dévouement de géomancien](feats/archetype-02-E8SDesgMD6Zbye2j.htm)|Geomancer Dedication|`@Compendium[pf2e.feats-srd.E8SDesgMD6Zbye2j]`|
-|[Dévouement de l'Archer](feats/archetype-02-4QFElZoWjg1X0vsg.htm)|Archer Dedication|`@Compendium[pf2e.feats-srd.4QFElZoWjg1X0vsg]`|
-|[Dévouement de l'Orateur paisible](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|`@Compendium[pf2e.feats-srd.7fU6e3HIT4NvwLYa]`|
-|[Dévouement de l'alchimiste](feats/archetype-02-CJMkxlxHiHZQYDCz.htm)|Alchemist Dedication|`@Compendium[pf2e.feats-srd.CJMkxlxHiHZQYDCz]`|
-|[Dévouement de l'ensorceleur](feats/archetype-02-5UQagWB13Z8xR5Z6.htm)|Sorcerer Dedication|`@Compendium[pf2e.feats-srd.5UQagWB13Z8xR5Z6]`|
-|[Dévouement de l'Éclaireur](feats/archetype-02-qMa2fIP2nqrFzHrq.htm)|Scout Dedication|`@Compendium[pf2e.feats-srd.qMa2fIP2nqrFzHrq]`|
-|[Dévouement de l'Étudiant en perfection](feats/archetype-02-eHjqNXgylSuvA887.htm)|Student of Perfection Dedication|`@Compendium[pf2e.feats-srd.eHjqNXgylSuvA887]`|
-|[Dévouement de la Campanule](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|`@Compendium[pf2e.feats-srd.dwL0Y0P2x4pn2cft]`|
-|[Dévouement de mage cathartique](feats/archetype-02-dkuY22d3yLUBcqhq.htm)|Cathartic Mage Dedication|`@Compendium[pf2e.feats-srd.dkuY22d3yLUBcqhq]`|
-|[Dévouement de mage de la source](feats/archetype-02-Zyb3RMGyhsKfTjEG.htm)|Wellspring Mage Dedication|`@Compendium[pf2e.feats-srd.Zyb3RMGyhsKfTjEG]`|
-|[Dévouement de magus](feats/archetype-02-TxKWgxor49xntDlU.htm)|Magus Dedication|`@Compendium[pf2e.feats-srd.TxKWgxor49xntDlU]`|
-|[Dévouement de phénomène du pistolet](feats/archetype-02-PFMsj4LtdAIuGn4R.htm)|Pistol Phenom Dedication|`@Compendium[pf2e.feats-srd.PFMsj4LtdAIuGn4R]`|
-|[Dévouement de scarifié des runes](feats/archetype-02-luKAFJAvdbAgEwV7.htm)|Runescarred Dedication|`@Compendium[pf2e.feats-srd.luKAFJAvdbAgEwV7]`|
-|[Dévouement de viking](feats/archetype-02-JuEUNrvsxOYdXeYL.htm)|Viking Dedication|`@Compendium[pf2e.feats-srd.JuEUNrvsxOYdXeYL]`|
-|[Dévouement des lames papillons](feats/archetype-04-txo0xFYUfAjdmyjt.htm)|Butterfly Blade Dedication|`@Compendium[pf2e.feats-srd.txo0xFYUfAjdmyjt]`|
-|[Dévouement du Bricoleur](feats/archetype-02-CaeCSWFWytWv8Fgu.htm)|Scrounger Dedication|`@Compendium[pf2e.feats-srd.CaeCSWFWytWv8Fgu]`|
-|[Dévouement du Captivant](feats/archetype-04-IrxtH1BFlUOS0DnQ.htm)|Captivator Dedication|`@Compendium[pf2e.feats-srd.IrxtH1BFlUOS0DnQ]`|
-|[Dévouement du Champion](feats/archetype-02-0YjetnLVIUz9zQt5.htm)|Champion Dedication|`@Compendium[pf2e.feats-srd.0YjetnLVIUz9zQt5]`|
-|[Dévouement du Conjurateur](feats/archetype-02-SwzPqEsLzZpNufvm.htm)|Summoner Dedication|`@Compendium[pf2e.feats-srd.SwzPqEsLzZpNufvm]`|
-|[Dévouement du Dandy](feats/archetype-02-4M5zIlJ8EvjQDtg9.htm)|Dandy Dedication|`@Compendium[pf2e.feats-srd.4M5zIlJ8EvjQDtg9]`|
-|[Dévouement du Disciple draconique](feats/archetype-02-oo34CloLefFRi72w.htm)|Dragon Disciple Dedication|`@Compendium[pf2e.feats-srd.oo34CloLefFRi72w]`|
-|[Dévouement du Duelliste](feats/archetype-02-r72qcTupGzyRDiGe.htm)|Duelist Dedication|`@Compendium[pf2e.feats-srd.r72qcTupGzyRDiGe]`|
-|[Dévouement du Funambule](feats/archetype-02-LoeoiYOpxSaEkWKv.htm)|Staff Acrobat Dedication|`@Compendium[pf2e.feats-srd.LoeoiYOpxSaEkWKv]`|
-|[Dévouement du Gardien de Magaambya](feats/archetype-02-ZhToff996PnTESwb.htm)|Magaambyan Attendant Dedication|`@Compendium[pf2e.feats-srd.ZhToff996PnTESwb]`|
-|[Dévouement du Gladiateur](feats/archetype-02-Dm0YMEvSY0qg0jA0.htm)|Gladiator Dedication|`@Compendium[pf2e.feats-srd.Dm0YMEvSY0qg0jA0]`|
-|[Dévouement du Guerrier Magique](feats/archetype-02-5FOqVC9Q0eEKEf3w.htm)|Magic Warrior Dedication|`@Compendium[pf2e.feats-srd.5FOqVC9Q0eEKEf3w]`|
-|[Dévouement du Guetteur](feats/archetype-02-t03Tc5I4B8RHsyqs.htm)|Overwatch Dedication|`@Compendium[pf2e.feats-srd.t03Tc5I4B8RHsyqs]`|
-|[Dévouement du Jongleur](feats/archetype-02-mNsNl6w3l5rXx8dL.htm)|Juggler Dedication|`@Compendium[pf2e.feats-srd.mNsNl6w3l5rXx8dL]`|
-|[Dévouement du Maître des parchemins](feats/class-06-uhfZtjbfJ8pZIWrF.htm)|Scrollmaster Dedication|`@Compendium[pf2e.feats-srd.uhfZtjbfJ8pZIWrF]`|
-|[Dévouement du Maître des sorts](feats/class-06-vuApM8xHOZs4o6oS.htm)|Spellmaster Dedication|`@Compendium[pf2e.feats-srd.vuApM8xHOZs4o6oS]`|
-|[Dévouement du Maître savant](feats/archetype-02-lyD6eXl4wc7Pq61q.htm)|Loremaster Dedication|`@Compendium[pf2e.feats-srd.lyD6eXl4wc7Pq61q]`|
-|[Dévouement du Pirate](feats/archetype-02-l1eCHNahsBb7rUkT.htm)|Pirate Dedication|`@Compendium[pf2e.feats-srd.l1eCHNahsBb7rUkT]`|
-|[Dévouement du Provocator](feats/archetype-10-VJ3wIsfmabK02SNg.htm)|Provocator Dedication|`@Compendium[pf2e.feats-srd.VJ3wIsfmabK02SNg]`|
-|[Dévouement du Ritualiste](feats/archetype-04-kU4K9jj9qnktoAaQ.htm)|Ritualist Dedication|`@Compendium[pf2e.feats-srd.kU4K9jj9qnktoAaQ]`|
-|[Dévouement du Signifer](feats/archetype-06-62hpJOuvYYSa4X7u.htm)|Hellknight Signifer Dedication|`@Compendium[pf2e.feats-srd.62hpJOuvYYSa4X7u]`|
-|[Dévouement du barde](feats/archetype-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|`@Compendium[pf2e.feats-srd.dIH771mt4PcVTyAs]`|
-|[Dévouement du druide](feats/archetype-02-vhw3n86TEs6laopA.htm)|Druid Dedication|`@Compendium[pf2e.feats-srd.vhw3n86TEs6laopA]`|
-|[Dévouement du linguiste](feats/archetype-02-u6SDVWbzHnBBPNMo.htm)|Linguist Dedication|`@Compendium[pf2e.feats-srd.u6SDVWbzHnBBPNMo]`|
-|[Dévouement du magicien](feats/archetype-02-oQ6EZRFXbHWCx08C.htm)|Wizard Dedication|`@Compendium[pf2e.feats-srd.oQ6EZRFXbHWCx08C]`|
-|[Dévouement du moine](feats/archetype-02-renUpSO6MJXPSXow.htm)|Monk Dedication|`@Compendium[pf2e.feats-srd.renUpSO6MJXPSXow]`|
-|[Dévouement du prêtre](feats/archetype-02-smCDaPlpRDA47xjK.htm)|Cleric Dedication|`@Compendium[pf2e.feats-srd.smCDaPlpRDA47xjK]`|
-|[Dévouement du roublard](feats/archetype-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|`@Compendium[pf2e.feats-srd.bCWieNDC1CD35tin]`|
-|[Dévouement du rôdeur](feats/archetype-02-R00qiDE5pBctgtyU.htm)|Ranger Dedication|`@Compendium[pf2e.feats-srd.R00qiDE5pBctgtyU]`|
+|[Dévouement : Acrobate](feats/archetype-02-aFygWxgSv82WyCsl.htm)|Acrobat Dedication|`@Compendium[pf2e.feats-srd.aFygWxgSv82WyCsl]`|
+|[Dévouement : Agent des Éclaireurs](feats/archetype-02-QnB5ArlO4wlRXQ2E.htm)|Pathfinder Agent Dedication|`@Compendium[pf2e.feats-srd.QnB5ArlO4wlRXQ2E]`|
+|[Dévouement : Agitateur vantard](feats/class-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|`@Compendium[pf2e.feats-srd.NagTqSLK8bAlo2nY]`|
+|[Dévouement : Alchimiste](feats/archetype-02-CJMkxlxHiHZQYDCz.htm)|Alchemist Dedication|`@Compendium[pf2e.feats-srd.CJMkxlxHiHZQYDCz]`|
+|[Dévouement : Amateur de talismans](feats/archetype-02-1t5479E6bdvFs4E7.htm)|Talisman Dabbler Dedication|`@Compendium[pf2e.feats-srd.1t5479E6bdvFs4E7]`|
+|[Dévouement : Archer](feats/archetype-02-4QFElZoWjg1X0vsg.htm)|Archer Dedication|`@Compendium[pf2e.feats-srd.4QFElZoWjg1X0vsg]`|
+|[Dévouement : Archer mystique](feats/archetype-06-oyLkqhDGwGGj40ME.htm)|Eldritch Archer Dedication|`@Compendium[pf2e.feats-srd.oyLkqhDGwGGj40ME]`|
+|[Dévouement : Archéologue](feats/archetype-02-PRKe5rWYZMZgEpFU.htm)|Archaeologist Dedication|`@Compendium[pf2e.feats-srd.PRKe5rWYZMZgEpFU]`|
+|[Dévouement : Arpenteur d'horizon](feats/archetype-02-pZMBq7gn66SEEA0n.htm)|Horizon Walker Dedication|`@Compendium[pf2e.feats-srd.pZMBq7gn66SEEA0n]`|
+|[Dévouement : Artificier](feats/archetype-02-MVbNnjqQOK9d8Ki3.htm)|Firework Technician Dedication|`@Compendium[pf2e.feats-srd.MVbNnjqQOK9d8Ki3]`|
+|[Dévouement : Artilleur](feats/archetype-02-txWKzKuJus7UBebX.htm)|Artillerist Dedication|`@Compendium[pf2e.feats-srd.txWKzKuJus7UBebX]`|
+|[Dévouement : Artiste martial](feats/archetype-02-zn7arorE3VJLNYsb.htm)|Martial Artist Dedication|`@Compendium[pf2e.feats-srd.zn7arorE3VJLNYsb]`|
+|[Dévouement : Assassin](feats/archetype-02-iBmqKjsq4iTtoqvl.htm)|Assassin Dedication|`@Compendium[pf2e.feats-srd.iBmqKjsq4iTtoqvl]`|
+|[Dévouement : Assassin des Mantes rouges](feats/archetype-02-UuPZ7drPBnSmI8Eo.htm)|Red Mantis Assassin Dedication|`@Compendium[pf2e.feats-srd.UuPZ7drPBnSmI8Eo]`|
+|[Dévouement : Barbare](feats/archetype-02-WVU0c8rgcpGSRqSi.htm)|Barbarian Dedication|`@Compendium[pf2e.feats-srd.WVU0c8rgcpGSRqSi]`|
+|[Dévouement : Barde](feats/archetype-02-dIH771mt4PcVTyAs.htm)|Bard Dedication|`@Compendium[pf2e.feats-srd.dIH771mt4PcVTyAs]`|
+|[Dévouement : Bastion](feats/archetype-02-s6wXcQYmHbew14gC.htm)|Bastion Dedication|`@Compendium[pf2e.feats-srd.s6wXcQYmHbew14gC]`|
+|[Dévouement : Bestioléro](feats/archetype-06-L1gD3VMD5X9JNJzE.htm)|Beast Gunner Dedication|`@Compendium[pf2e.feats-srd.L1gD3VMD5X9JNJzE]`|
+|[Dévouement : Bretteur](feats/archetype-02-eAlrvPVb8qt8Lruw.htm)|Swashbuckler Dedication|`@Compendium[pf2e.feats-srd.eAlrvPVb8qt8Lruw]`|
+|[Dévouement : Bricoleur](feats/archetype-02-CaeCSWFWytWv8Fgu.htm)|Scrounger Dedication|`@Compendium[pf2e.feats-srd.CaeCSWFWytWv8Fgu]`|
+|[Dévouement : Bûcheron de Turpin Rowe](feats/archetype-02-0icxuITlxUBfeomX.htm)|Turpin Rowe Lumberjack Dedication|`@Compendium[pf2e.feats-srd.0icxuITlxUBfeomX]`|
+|[Dévouement : Campanule](feats/archetype-06-dwL0Y0P2x4pn2cft.htm)|Bellflower Dedication|`@Compendium[pf2e.feats-srd.dwL0Y0P2x4pn2cft]`|
+|[Dévouement : Capitaine](feats/archetype-02-MYzRfNExDYp25rro.htm)|Marshal Dedication|`@Compendium[pf2e.feats-srd.MYzRfNExDYp25rro]`|
+|[Dévouement : Captivant](feats/archetype-04-IrxtH1BFlUOS0DnQ.htm)|Captivator Dedication|`@Compendium[pf2e.feats-srd.IrxtH1BFlUOS0DnQ]`|
+|[Dévouement : Cavalier](feats/archetype-02-5Q69PI8jdQVkb1ZT.htm)|Cavalier Dedication|`@Compendium[pf2e.feats-srd.5Q69PI8jdQVkb1ZT]`|
+|[Dévouement : Champion](feats/archetype-02-0YjetnLVIUz9zQt5.htm)|Champion Dedication|`@Compendium[pf2e.feats-srd.0YjetnLVIUz9zQt5]`|
+|[Dévouement : Chasseur de fantômes](feats/archetype-02-mkp6lhBbTASEmKwY.htm)|Ghost Hunter Dedication|`@Compendium[pf2e.feats-srd.mkp6lhBbTASEmKwY]`|
+|[Dévouement : Chasseur de gibier](feats/archetype-02-CowQy8gXP9POjuxq.htm)|Game Hunter Dedication|`@Compendium[pf2e.feats-srd.CowQy8gXP9POjuxq]`|
+|[Dévouement : Chasseur de primes](feats/archetype-02-tKaesXO5nlZ2sspx.htm)|Bounty Hunter Dedication|`@Compendium[pf2e.feats-srd.tKaesXO5nlZ2sspx]`|
+|[Dévouement : Chercheur du Paradis du Jalmeray](feats/archetype-04-Ze9vb0wlRmWWqnXC.htm)|Jalmeri Heavenseeker Dedication|`@Compendium[pf2e.feats-srd.Ze9vb0wlRmWWqnXC]`|
+|[Dévouement : Chercheur mystique](feats/archetype-02-lslR2UfP3ze7TFYu.htm)|Eldritch Researcher Dedication|`@Compendium[pf2e.feats-srd.lslR2UfP3ze7TFYu]`|
+|[Dévouement : Chevalier infernal](feats/archetype-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|`@Compendium[pf2e.feats-srd.oNh2vedij8xbDbph]`|
+|[Dévouement : Chevalier récupérateur](feats/archetype-06-H86VNC6cNWhBI8Ed.htm)|Knight Reclaimant Dedication|`@Compendium[pf2e.feats-srd.H86VNC6cNWhBI8Ed]`|
+|[Dévouement : Chevalier vigilant](feats/class-06-1YFrl8I6ZGo7BIM9.htm)|Knight Vigilant Dedication|`@Compendium[pf2e.feats-srd.1YFrl8I6ZGo7BIM9]`|
+|[Dévouement : Cogneur](feats/archetype-02-AimSmPyiMhJZVZRq.htm)|Mauler Dedication|`@Compendium[pf2e.feats-srd.AimSmPyiMhJZVZRq]`|
+|[Dévouement : Combattant à deux armes](feats/archetype-02-YhnCjiHNlS3nCeoC.htm)|Dual-Weapon Warrior Dedication|`@Compendium[pf2e.feats-srd.YhnCjiHNlS3nCeoC]`|
+|[Dévouement : Conducteur astucieux](feats/archetype-02-1hyC4aiLMBSwM9Z1.htm)|Trick Driver Dedication|`@Compendium[pf2e.feats-srd.1hyC4aiLMBSwM9Z1]`|
+|[Dévouement : Conjurateur](feats/archetype-02-SwzPqEsLzZpNufvm.htm)|Summoner Dedication|`@Compendium[pf2e.feats-srd.SwzPqEsLzZpNufvm]`|
+|[Dévouement : Célébrité](feats/archetype-02-MNArjo5Z5LUYITQm.htm)|Celebrity Dedication|`@Compendium[pf2e.feats-srd.MNArjo5Z5LUYITQm]`|
+|[Dévouement : Dandy](feats/archetype-02-4M5zIlJ8EvjQDtg9.htm)|Dandy Dedication|`@Compendium[pf2e.feats-srd.4M5zIlJ8EvjQDtg9]`|
+|[Dévouement : Danseur de balle](feats/archetype-02-j1hhTLOq7o80XCyV.htm)|Bullet Dancer Dedication|`@Compendium[pf2e.feats-srd.j1hhTLOq7o80XCyV]`|
+|[Dévouement : Danseur de l'ombre](feats/archetype-08-1AgirzUGkyDdmENy.htm)|Shadowdancer Dedication|`@Compendium[pf2e.feats-srd.1AgirzUGkyDdmENy]`|
+|[Dévouement : Disciple draconique](feats/archetype-02-oo34CloLefFRi72w.htm)|Dragon Disciple Dedication|`@Compendium[pf2e.feats-srd.oo34CloLefFRi72w]`|
+|[Dévouement : Dompteur](feats/archetype-02-m3ANSHYfBrFyFUvo.htm)|Animal Trainer Dedication|`@Compendium[pf2e.feats-srd.m3ANSHYfBrFyFUvo]`|
+|[Dévouement : Druide](feats/archetype-02-vhw3n86TEs6laopA.htm)|Druid Dedication|`@Compendium[pf2e.feats-srd.vhw3n86TEs6laopA]`|
+|[Dévouement : Duelliste](feats/archetype-02-r72qcTupGzyRDiGe.htm)|Duelist Dedication|`@Compendium[pf2e.feats-srd.r72qcTupGzyRDiGe]`|
+|[Dévouement : Duelliste Aldori](feats/archetype-02-pI97a5xSg4LbBY1g.htm)|Aldori Duelist Dedication|`@Compendium[pf2e.feats-srd.pI97a5xSg4LbBY1g]`|
+|[Dévouement : Duo de tireur d'élite](feats/archetype-02-6PP57Aa5HmSr0qIZ.htm)|Sniping Duo Dedication|`@Compendium[pf2e.feats-srd.6PP57Aa5HmSr0qIZ]`|
+|[Dévouement : Dynamo sterling](feats/archetype-02-fdSbB0EQVxFgLoEd.htm)|Sterling Dynamo Dedication|`@Compendium[pf2e.feats-srd.fdSbB0EQVxFgLoEd]`|
+|[Dévouement : Démolisseur](feats/archetype-02-M0D2CQgASNfdZBrl.htm)|Demolitionist Dedication|`@Compendium[pf2e.feats-srd.M0D2CQgASNfdZBrl]`|
+|[Dévouement : Empoisonneur](feats/archetype-02-y7DDs03GtDnmhxFp.htm)|Poisoner Dedication|`@Compendium[pf2e.feats-srd.y7DDs03GtDnmhxFp]`|
+|[Dévouement : Enquêteur](feats/archetype-02-CZXhJS55rG5H6PpB.htm)|Investigator Dedication|`@Compendium[pf2e.feats-srd.CZXhJS55rG5H6PpB]`|
+|[Dévouement : Ensorceleur](feats/archetype-02-5UQagWB13Z8xR5Z6.htm)|Sorcerer Dedication|`@Compendium[pf2e.feats-srd.5UQagWB13Z8xR5Z6]`|
+|[Dévouement : Fabricant de pièges](feats/archetype-04-uT9RnHLgIIcm7Hhs.htm)|Trapsmith Dedication|`@Compendium[pf2e.feats-srd.uT9RnHLgIIcm7Hhs]`|
+|[Dévouement : Fabricant de pièges artisanaux](feats/archetype-02-4MUbwilvb9dI0X59.htm)|Snarecrafter Dedication|`@Compendium[pf2e.feats-srd.4MUbwilvb9dI0X59]`|
+|[Dévouement : Folkloriste](feats/archetype-02-sG9fPQk4w9y6MmnY.htm)|Folklorist Dedication|`@Compendium[pf2e.feats-srd.sG9fPQk4w9y6MmnY]`|
+|[Dévouement : Forgeur d'âme](feats/archetype-02-SoocjFrWNOpchTVb.htm)|Soulforger Dedication|`@Compendium[pf2e.feats-srd.SoocjFrWNOpchTVb]`|
+|[Dévouement : Franc-tireur](feats/archetype-02-USt0jwK8XI5loG4E.htm)|Gunslinger Dedication|`@Compendium[pf2e.feats-srd.USt0jwK8XI5loG4E]`|
+|[Dévouement : Funambule](feats/archetype-02-LoeoiYOpxSaEkWKv.htm)|Staff Acrobat Dedication|`@Compendium[pf2e.feats-srd.LoeoiYOpxSaEkWKv]`|
+|[Dévouement : Garde Zéphyr](feats/archetype-02-UyyrFtPWOo0qvXOv.htm)|Zephyr Guard Dedication|`@Compendium[pf2e.feats-srd.UyyrFtPWOo0qvXOv]`|
+|[Dévouement : Gardien de Magaambya](feats/archetype-02-ZhToff996PnTESwb.htm)|Magaambyan Attendant Dedication|`@Compendium[pf2e.feats-srd.ZhToff996PnTESwb]`|
+|[Dévouement : Gardien du cristal](feats/archetype-04-ELdUj5ihdivlgb3H.htm)|Crystal Keeper Dedication|`@Compendium[pf2e.feats-srd.ELdUj5ihdivlgb3H]`|
+|[Dévouement : Gladiateur](feats/archetype-02-Dm0YMEvSY0qg0jA0.htm)|Gladiator Dedication|`@Compendium[pf2e.feats-srd.Dm0YMEvSY0qg0jA0]`|
+|[Dévouement : Greffeur de golem](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Grafter Dedication|`@Compendium[pf2e.feats-srd.MxNb97qr1yMhbjiP]`|
+|[Dévouement : Guerrier](feats/archetype-02-mvNa9KfQooHYEXoA.htm)|Fighter Dedication|`@Compendium[pf2e.feats-srd.mvNa9KfQooHYEXoA]`|
+|[Dévouement : Guerrier Magique](feats/archetype-02-5FOqVC9Q0eEKEf3w.htm)|Magic Warrior Dedication|`@Compendium[pf2e.feats-srd.5FOqVC9Q0eEKEf3w]`|
+|[Dévouement : Guetteur](feats/archetype-02-t03Tc5I4B8RHsyqs.htm)|Overwatch Dedication|`@Compendium[pf2e.feats-srd.t03Tc5I4B8RHsyqs]`|
+|[Dévouement : Géomancien](feats/archetype-02-E8SDesgMD6Zbye2j.htm)|Geomancer Dedication|`@Compendium[pf2e.feats-srd.E8SDesgMD6Zbye2j]`|
+|[Dévouement : Herboriste](feats/archetype-02-5CRt5Dy9eLv5LpRF.htm)|Herbalist Dedication|`@Compendium[pf2e.feats-srd.5CRt5Dy9eLv5LpRF]`|
+|[Dévouement : Improvisateur d'arme](feats/archetype-02-MndcBMz6I7e6SRqx.htm)|Weapon Improviser Dedication|`@Compendium[pf2e.feats-srd.MndcBMz6I7e6SRqx]`|
+|[Dévouement : Incantateur de l'ombre](feats/archetype-02-ncrNQcwm4gOQRAA3.htm)|Shadowcaster Dedication|`@Compendium[pf2e.feats-srd.ncrNQcwm4gOQRAA3]`|
+|[Dévouement : Incantateur flexible](feats/archetype-02-CrS0iDwHmjKqvKti.htm)|Flexible Spellcaster Dedication|`@Compendium[pf2e.feats-srd.CrS0iDwHmjKqvKti]`|
+|[Dévouement : Inventeur](feats/archetype-02-JIpjpZ8VneQomkZw.htm)|Inventor Dedication|`@Compendium[pf2e.feats-srd.JIpjpZ8VneQomkZw]`|
+|[Dévouement : Jongleur](feats/archetype-02-mNsNl6w3l5rXx8dL.htm)|Juggler Dedication|`@Compendium[pf2e.feats-srd.mNsNl6w3l5rXx8dL]`|
+|[Dévouement : Justicier](feats/archetype-02-uqIiSDbv80TbRwTQ.htm)|Vigilante Dedication|`@Compendium[pf2e.feats-srd.uqIiSDbv80TbRwTQ]`|
+|[Dévouement : Lame du Lion](feats/archetype-02-zNxbsYgQgPVxdTLV.htm)|Lion Blade Dedication|`@Compendium[pf2e.feats-srd.zNxbsYgQgPVxdTLV]`|
+|[Dévouement : Lame papillon](feats/archetype-04-txo0xFYUfAjdmyjt.htm)|Butterfly Blade Dedication|`@Compendium[pf2e.feats-srd.txo0xFYUfAjdmyjt]`|
+|[Dévouement : Linguiste](feats/archetype-02-u6SDVWbzHnBBPNMo.htm)|Linguist Dedication|`@Compendium[pf2e.feats-srd.u6SDVWbzHnBBPNMo]`|
+|[Dévouement : Lion radieux](feats/archetype-02-rJ1XxUEACaQA9Lyo.htm)|Bright Lion Dedication|`@Compendium[pf2e.feats-srd.rJ1XxUEACaQA9Lyo]`|
+|[Dévouement : Lié par un pacte](feats/archetype-02-BVxcuJ5TWfN1px4L.htm)|Pactbound Dedication|`@Compendium[pf2e.feats-srd.BVxcuJ5TWfN1px4L]`|
+|[Dévouement : Lutteur](feats/archetype-02-5npovgLMUlvtot2J.htm)|Wrestler Dedication|`@Compendium[pf2e.feats-srd.5npovgLMUlvtot2J]`|
+|[Dévouement : Mage cathartique](feats/archetype-02-dkuY22d3yLUBcqhq.htm)|Cathartic Mage Dedication|`@Compendium[pf2e.feats-srd.dkuY22d3yLUBcqhq]`|
+|[Dévouement : Mage de la source](feats/archetype-02-Zyb3RMGyhsKfTjEG.htm)|Wellspring Mage Dedication|`@Compendium[pf2e.feats-srd.Zyb3RMGyhsKfTjEG]`|
+|[Dévouement : Magicien](feats/archetype-02-oQ6EZRFXbHWCx08C.htm)|Wizard Dedication|`@Compendium[pf2e.feats-srd.oQ6EZRFXbHWCx08C]`|
+|[Dévouement : Magus](feats/archetype-02-TxKWgxor49xntDlU.htm)|Magus Dedication|`@Compendium[pf2e.feats-srd.TxKWgxor49xntDlU]`|
+|[Dévouement : Mangeur de fantômes](feats/archetype-02-r1um0cn7MRIMLqcq.htm)|Ghost Eater Dedication|`@Compendium[pf2e.feats-srd.r1um0cn7MRIMLqcq]`|
+|[Dévouement : Maître des bêtes](feats/archetype-02-wdmUH6hdat7jpEWt.htm)|Beastmaster Dedication|`@Compendium[pf2e.feats-srd.wdmUH6hdat7jpEWt]`|
+|[Dévouement : Maître des parchemins](feats/class-06-uhfZtjbfJ8pZIWrF.htm)|Scrollmaster Dedication|`@Compendium[pf2e.feats-srd.uhfZtjbfJ8pZIWrF]`|
+|[Dévouement : Maître des sorts](feats/class-06-vuApM8xHOZs4o6oS.htm)|Spellmaster Dedication|`@Compendium[pf2e.feats-srd.vuApM8xHOZs4o6oS]`|
+|[Dévouement : Maître des épées](feats/class-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|`@Compendium[pf2e.feats-srd.SHpVHkPxtQggD9Cf]`|
+|[Dévouement : Maître familier](feats/archetype-02-4zaU3GlTGMNqLFS8.htm)|Familiar Master Dedication|`@Compendium[pf2e.feats-srd.4zaU3GlTGMNqLFS8]`|
+|[Dévouement : Maître savant](feats/archetype-02-lyD6eXl4wc7Pq61q.htm)|Loremaster Dedication|`@Compendium[pf2e.feats-srd.lyD6eXl4wc7Pq61q]`|
+|[Dévouement : Moine](feats/archetype-02-renUpSO6MJXPSXow.htm)|Monk Dedication|`@Compendium[pf2e.feats-srd.renUpSO6MJXPSXow]`|
+|[Dévouement : Monolithe vivant](feats/archetype-02-c4ao7b2T92fiM8jR.htm)|Living Monolith Dedication|`@Compendium[pf2e.feats-srd.c4ao7b2T92fiM8jR]`|
+|[Dévouement : Mystificateur de sort](feats/archetype-02-CbqaiI0TKsyDywDr.htm)|Spell Trickster Dedication|`@Compendium[pf2e.feats-srd.CbqaiI0TKsyDywDr]`|
+|[Dévouement : Mécanicien de véhicule](feats/archetype-02-fL5lO5Odp7iJPkan.htm)|Vehicle Mechanic Dedication|`@Compendium[pf2e.feats-srd.fL5lO5Odp7iJPkan]`|
+|[Dévouement : Médecin](feats/archetype-02-MJg24e9fJd7OASvF.htm)|Medic Dedication|`@Compendium[pf2e.feats-srd.MJg24e9fJd7OASvF]`|
+|[Dévouement : Officier de la Garde du Précipice](feats/archetype-02-6b8DiNx4c1zPZ7RP.htm)|Edgewatch Detective Dedication|`@Compendium[pf2e.feats-srd.6b8DiNx4c1zPZ7RP]`|
+|[Dévouement : Oracle](feats/archetype-02-OUNj8nXTHwGcEdlh.htm)|Oracle Dedication|`@Compendium[pf2e.feats-srd.OUNj8nXTHwGcEdlh]`|
+|[Dévouement : Orateur paisible](feats/class-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|`@Compendium[pf2e.feats-srd.7fU6e3HIT4NvwLYa]`|
+|[Dévouement : Phénomène du pistolet](feats/archetype-02-PFMsj4LtdAIuGn4R.htm)|Pistol Phenom Dedication|`@Compendium[pf2e.feats-srd.PFMsj4LtdAIuGn4R]`|
+|[Dévouement : Pirate](feats/archetype-02-l1eCHNahsBb7rUkT.htm)|Pirate Dedication|`@Compendium[pf2e.feats-srd.l1eCHNahsBb7rUkT]`|
+|[Dévouement : Provocator](feats/archetype-10-VJ3wIsfmabK02SNg.htm)|Provocator Dedication|`@Compendium[pf2e.feats-srd.VJ3wIsfmabK02SNg]`|
+|[Dévouement : Prêtre](feats/archetype-02-smCDaPlpRDA47xjK.htm)|Cleric Dedication|`@Compendium[pf2e.feats-srd.smCDaPlpRDA47xjK]`|
+|[Dévouement : Ritualiste](feats/archetype-04-kU4K9jj9qnktoAaQ.htm)|Ritualist Dedication|`@Compendium[pf2e.feats-srd.kU4K9jj9qnktoAaQ]`|
+|[Dévouement : Roublard](feats/archetype-02-bCWieNDC1CD35tin.htm)|Rogue Dedication|`@Compendium[pf2e.feats-srd.bCWieNDC1CD35tin]`|
+|[Dévouement : Rôdeur](feats/archetype-02-R00qiDE5pBctgtyU.htm)|Ranger Dedication|`@Compendium[pf2e.feats-srd.R00qiDE5pBctgtyU]`|
+|[Dévouement : Scarifié des runes](feats/archetype-02-luKAFJAvdbAgEwV7.htm)|Runescarred Dedication|`@Compendium[pf2e.feats-srd.luKAFJAvdbAgEwV7]`|
+|[Dévouement : Seigneur des runes](feats/archetype-02-mz2x4HFrWT8usbEL.htm)|Runelord Dedication|`@Compendium[pf2e.feats-srd.mz2x4HFrWT8usbEL]`|
+|[Dévouement : Sentinelle](feats/archetype-02-8foxmfC6FFT3oYpV.htm)|Sentinel Dedication|`@Compendium[pf2e.feats-srd.8foxmfC6FFT3oYpV]`|
+|[Dévouement : Sentinelle de Dernier-Rempart](feats/archetype-02-bWYnjNa2RknMoibg.htm)|Lastwall Sentry Dedication|`@Compendium[pf2e.feats-srd.bWYnjNa2RknMoibg]`|
+|[Dévouement : Signifer](feats/archetype-06-62hpJOuvYYSa4X7u.htm)|Hellknight Signifer Dedication|`@Compendium[pf2e.feats-srd.62hpJOuvYYSa4X7u]`|
+|[Dévouement : Sixième pilier](feats/archetype-08-cTeRwExCGhfwJbkl.htm)|Sixth Pillar Dedication|`@Compendium[pf2e.feats-srd.cTeRwExCGhfwJbkl]`|
+|[Dévouement : Sonneur de carillon de Nantambu](feats/archetype-02-57K9il2Jxs8PmsYL.htm)|Nantambu Chime-Ringer Dedication|`@Compendium[pf2e.feats-srd.57K9il2Jxs8PmsYL]`|
+|[Dévouement : Sorcier](feats/archetype-02-y0vdu6DGhKKElmE6.htm)|Witch Dedication|`@Compendium[pf2e.feats-srd.y0vdu6DGhKKElmE6]`|
+|[Dévouement : Sortiléro](feats/archetype-02-BwDIwjHasZwcd61Z.htm)|Spellshot Dedication|`@Compendium[pf2e.feats-srd.BwDIwjHasZwcd61Z]`|
+|[Dévouement : Tireur d'élite inattendu](feats/archetype-02-lotpVdFhxNsNP0Ru.htm)|Unexpected Sharpshooter Dedication|`@Compendium[pf2e.feats-srd.lotpVdFhxNsNP0Ru]`|
+|[Dévouement : Tireur drow](feats/archetype-02-NwMiszlcqNZWtezq.htm)|Drow Shootist Dedication|`@Compendium[pf2e.feats-srd.NwMiszlcqNZWtezq]`|
+|[Dévouement : Usurpateur de parchemins](feats/archetype-02-uxHWqFbYD0ZvkeF8.htm)|Scroll Trickster Dedication|`@Compendium[pf2e.feats-srd.uxHWqFbYD0ZvkeF8]`|
+|[Dévouement : Vasemorphe](feats/archetype-02-20jNBiIIxaiOVyi0.htm)|Oozemorph Dedication|`@Compendium[pf2e.feats-srd.20jNBiIIxaiOVyi0]`|
+|[Dévouement : Viking](feats/archetype-02-JuEUNrvsxOYdXeYL.htm)|Viking Dedication|`@Compendium[pf2e.feats-srd.JuEUNrvsxOYdXeYL]`|
+|[Dévouement : Xun de la Ligue dorée](feats/archetype-08-jTOxxy19o2VRJTbH.htm)|Golden League Xun Dedication|`@Compendium[pf2e.feats-srd.jTOxxy19o2VRJTbH]`|
+|[Dévouement : Éclaireur](feats/archetype-02-qMa2fIP2nqrFzHrq.htm)|Scout Dedication|`@Compendium[pf2e.feats-srd.qMa2fIP2nqrFzHrq]`|
+|[Dévouement : Écuyer des Chevaliers infernaux](feats/archetype-02-qhs0mWbaLKsdckZX.htm)|Hellknight Armiger Dedication|`@Compendium[pf2e.feats-srd.qhs0mWbaLKsdckZX]`|
+|[Dévouement : Élu divin](feats/archetype-02-eBdajOzs8kiJDic2.htm)|Blessed One Dedication|`@Compendium[pf2e.feats-srd.eBdajOzs8kiJDic2]`|
+|[Dévouement : Élémentaliste](feats/archetype-02-tx9pkrpmtqe4FnvS.htm)|Elementalist Dedication|`@Compendium[pf2e.feats-srd.tx9pkrpmtqe4FnvS]`|
+|[Dévouement : Étudiant en perfection](feats/archetype-02-eHjqNXgylSuvA887.htm)|Student of Perfection Dedication|`@Compendium[pf2e.feats-srd.eHjqNXgylSuvA887]`|
 |[Effacement](feats/archetype-10-orTWiRwIQEc9FGJQ.htm)|Fading|`@Compendium[pf2e.feats-srd.orTWiRwIQEc9FGJQ]`|
 |[Efficacité des sorts accrue](feats/class-06-52cygjzHfSD0YhEA.htm)|Spell Penetration|`@Compendium[pf2e.feats-srd.52cygjzHfSD0YhEA]`|
 |[Effondrement de mur](feats/archetype-12-n1t6foOyrN48OVPK.htm)|Collapse Wall|`@Compendium[pf2e.feats-srd.n1t6foOyrN48OVPK]`|
@@ -6135,12 +6135,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (FR)   | Nom (EN)    | Lien compendium |
 |------------|-------------|-----------------|
+|[](equipment-effects/01-WXrqEuLT4uP48Bvo.htm)|Effect: Goggles of Night (Major)|`@Compendium[pf2e.equipment-effects.WXrqEuLT4uP48Bvo]`|
 |[](equipment-effects/01-z3ATL8DcRVrT0Uzt.htm)|Effect: Disarm (Success)|`@Compendium[pf2e.equipment-effects.z3ATL8DcRVrT0Uzt]`|
+|[](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|`@Compendium[pf2e.equipment-effects.d7BDxmsnM1BUoEeT]`|
 |[](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|`@Compendium[pf2e.equipment-effects.rH6RHxy6sNTLusKX]`|
 |[](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|`@Compendium[pf2e.equipment-effects.WQ0DxUzMgAvo0zy9]`|
 |[](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|`@Compendium[pf2e.equipment-effects.exwQF6E1FWmuxwBc]`|
 |[](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|`@Compendium[pf2e.equipment-effects.zZsdex5orF5Odpus]`|
 |[](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|`@Compendium[pf2e.equipment-effects.tGeMT4iHJcsjVbl3]`|
+|[](equipment-effects/01-KSvkfMqMQ8mlGLiz.htm)|Effect: Goggles of Night|`@Compendium[pf2e.equipment-effects.KSvkfMqMQ8mlGLiz]`|
 |[](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)|Spell Effect: Barkskin (Arboreal's Revenge)|`@Compendium[pf2e.equipment-effects.mCb9mWAmgWPQrkTY]`|
 |[](equipment-effects/09-LVy8SfUF8Jrd6X18.htm)|Effect: Leopard's Armor|`@Compendium[pf2e.equipment-effects.LVy8SfUF8Jrd6X18]`|
 |[Abri](equipment-effects/01-I9lfZUiCwMiGogVi.htm)|Cover|`@Compendium[pf2e.equipment-effects.I9lfZUiCwMiGogVi]`|
@@ -6329,64 +6332,48 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Nom (FR)   | Nom (EN)    | Lien compendium |
 |------------|-------------|-----------------|
-|[](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|`@Compendium[pf2e.feature-effects.c6yRHikgf6cm7cyB]`|
 |[](feature-effects/01-IrMgMRXf258bdIDo.htm)|Effect: Minor Martial Ancestor Curse|`@Compendium[pf2e.feature-effects.IrMgMRXf258bdIDo]`|
 |[](feature-effects/01-hqeR9faxHj0NDFFP.htm)|Effect: Flames Oracle|`@Compendium[pf2e.feature-effects.hqeR9faxHj0NDFFP]`|
 |[](feature-effects/01-Nv70aqcQgCBpDYp8.htm)|Effect: Shadow Blood Magic (Perception)|`@Compendium[pf2e.feature-effects.Nv70aqcQgCBpDYp8]`|
 |[](feature-effects/01-Tju9kpQlwcKkyKor.htm)|Effect: Lore Curse|`@Compendium[pf2e.feature-effects.Tju9kpQlwcKkyKor]`|
 |[](feature-effects/01-T6En6oEDwSycRyAG.htm)|Effect: Minor Flames Curse|`@Compendium[pf2e.feature-effects.T6En6oEDwSycRyAG]`|
-|[](feature-effects/01-922SDayUnipK4wlx.htm)|Effect: Minor Battle Curse|`@Compendium[pf2e.feature-effects.922SDayUnipK4wlx]`|
-|[](feature-effects/01-2XEYQNZTCGpdkyR6.htm)|Effect: Battle Medicine Immunity|`@Compendium[pf2e.feature-effects.2XEYQNZTCGpdkyR6]`|
 |[](feature-effects/01-IvXLHQySVNj4qMOi.htm)|Effect: Minor Tempest Curse|`@Compendium[pf2e.feature-effects.IvXLHQySVNj4qMOi]`|
-|[](feature-effects/01-5q4JYkYlqOK2kXWy.htm)|Effect: Moderate Battle Curse|`@Compendium[pf2e.feature-effects.5q4JYkYlqOK2kXWy]`|
 |[](feature-effects/01-gVzPZm12KujYWxMb.htm)|Effect: Major Spellcasting Ancestor Curse|`@Compendium[pf2e.feature-effects.gVzPZm12KujYWxMb]`|
 |[](feature-effects/01-JGNnron2gnYI1P78.htm)|Effect: Major Battle Curse|`@Compendium[pf2e.feature-effects.JGNnron2gnYI1P78]`|
 |[](feature-effects/01-rJpkKaPRGaH0pLse.htm)|Effect: Fey Blood Magic|`@Compendium[pf2e.feature-effects.rJpkKaPRGaH0pLse]`|
 |[](feature-effects/01-nX7fp5pZhTJH6Qfa.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|`@Compendium[pf2e.feature-effects.nX7fp5pZhTJH6Qfa]`|
 |[](feature-effects/01-Lb4q2bBAgxamtix5.htm)|Effect: Treat Wounds Immunity|`@Compendium[pf2e.feature-effects.Lb4q2bBAgxamtix5]`|
-|[](feature-effects/01-d0fXbhu8qH1TQwXE.htm)|Effect: Moderate Flames Curse|`@Compendium[pf2e.feature-effects.d0fXbhu8qH1TQwXE]`|
 |[](feature-effects/01-rhG0ZcTBxfxGve5k.htm)|Effect: Major Lore Curse|`@Compendium[pf2e.feature-effects.rhG0ZcTBxfxGve5k]`|
-|[](feature-effects/01-cCouACwRwxjEgy7u.htm)|Effect: Major Cosmos Curse|`@Compendium[pf2e.feature-effects.cCouACwRwxjEgy7u]`|
 |[](feature-effects/01-vguxP8ukwVTWWWaA.htm)|Effect: Imperial Blood Magic|`@Compendium[pf2e.feature-effects.vguxP8ukwVTWWWaA]`|
 |[](feature-effects/01-n1vhmOd7aNiuR3nk.htm)|Effect: Diabolic Blood Magic (Self)|`@Compendium[pf2e.feature-effects.n1vhmOd7aNiuR3nk]`|
 |[](feature-effects/01-zYKkObDPVRQOtwPh.htm)|Effect: Minor Lore Curse|`@Compendium[pf2e.feature-effects.zYKkObDPVRQOtwPh]`|
-|[](feature-effects/01-2uZfgqV279rxX4NK.htm)|Effect: Minor Skillful Ancestor Curse|`@Compendium[pf2e.feature-effects.2uZfgqV279rxX4NK]`|
 |[](feature-effects/01-fyuZlKJ4N0zScltj.htm)|Effect: Moderate Tempest Curse|`@Compendium[pf2e.feature-effects.fyuZlKJ4N0zScltj]`|
 |[](feature-effects/01-iZHqhBHIZ0TB5Dbn.htm)|Effect: Minor Spellcaster Ancestor Curse|`@Compendium[pf2e.feature-effects.iZHqhBHIZ0TB5Dbn]`|
 |[](feature-effects/01-usi1qa95gK4WnFIg.htm)|Effect: Minor Cosmos Curse|`@Compendium[pf2e.feature-effects.usi1qa95gK4WnFIg]`|
 |[](feature-effects/01-jB6iDPaOSWrgxsEh.htm)|Effect: Major Tempest Curse|`@Compendium[pf2e.feature-effects.jB6iDPaOSWrgxsEh]`|
-|[](feature-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|`@Compendium[pf2e.feature-effects.9AUcoY48H5LrVZiF]`|
 |[](feature-effects/01-KTNjMlO3WZFx7Suj.htm)|Effect: Major Life Curse|`@Compendium[pf2e.feature-effects.KTNjMlO3WZFx7Suj]`|
 |[](feature-effects/01-Osr01ZmGZNdArXyT.htm)|Effect: Major Bones Curse|`@Compendium[pf2e.feature-effects.Osr01ZmGZNdArXyT]`|
-|[](feature-effects/01-7BFd8A9HFrmg6vwL.htm)|Effect: Psychopomp Blood Magic (Self)|`@Compendium[pf2e.feature-effects.7BFd8A9HFrmg6vwL]`|
 |[](feature-effects/01-fsjO5oTKttsbpaKl.htm)|Stance: Arcane Cascade|`@Compendium[pf2e.feature-effects.fsjO5oTKttsbpaKl]`|
 |[](feature-effects/01-whf92aQ6aMwByjFn.htm)|Effect: Minor Bones Curse|`@Compendium[pf2e.feature-effects.whf92aQ6aMwByjFn]`|
-|[](feature-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|`@Compendium[pf2e.feature-effects.aKRo5TIhUtu0kyEr]`|
 |[](feature-effects/01-GaTJBSkIaDEG36Ot.htm)|Effect: Moderate Cosmos Curse|`@Compendium[pf2e.feature-effects.GaTJBSkIaDEG36Ot]`|
 |[](feature-effects/01-z3uyCMBddrPK5umr.htm)|Effect: Rage|`@Compendium[pf2e.feature-effects.z3uyCMBddrPK5umr]`|
 |[](feature-effects/01-SVGW8CLKwixFlnTv.htm)|Effect: Nymph Blood Magic (Self)|`@Compendium[pf2e.feature-effects.SVGW8CLKwixFlnTv]`|
 |[](feature-effects/01-yBTASi3FvnReAwHy.htm)|Effect: Debilitating Strike|`@Compendium[pf2e.feature-effects.yBTASi3FvnReAwHy]`|
-|[](feature-effects/01-3gGBZHcUFsHLJeQH.htm)|Effect: Elemental Blood Magic (Self)|`@Compendium[pf2e.feature-effects.3gGBZHcUFsHLJeQH]`|
 |[](feature-effects/01-ruRAfGJnik7lRavk.htm)|Effect: Nymph Blood Magic (Target)|`@Compendium[pf2e.feature-effects.ruRAfGJnik7lRavk]`|
-|[](feature-effects/01-74K4QxDp37huY8dm.htm)|Effect: Moderate Bones Curse|`@Compendium[pf2e.feature-effects.74K4QxDp37huY8dm]`|
 |[](feature-effects/01-XhOBnOBCju9GJ8Ts.htm)|Effect: Moderate Martial Ancestor Curse|`@Compendium[pf2e.feature-effects.XhOBnOBCju9GJ8Ts]`|
 |[](feature-effects/01-UTI8IkzXGlOHxrzc.htm)|Effect: Moderate Skillful Ancestor Curse|`@Compendium[pf2e.feature-effects.UTI8IkzXGlOHxrzc]`|
 |[](feature-effects/01-yfbP64r4a9e5oyli.htm)|Effect: Demonic Blood Magic (Target)|`@Compendium[pf2e.feature-effects.yfbP64r4a9e5oyli]`|
 |[](feature-effects/01-KVbS7AbhQdeuA0J6.htm)|Effect: Genie Blood Magic (Target)|`@Compendium[pf2e.feature-effects.KVbS7AbhQdeuA0J6]`|
 |[](feature-effects/01-EtFMN1ZLkL7sUk01.htm)|Effect: Life Curse|`@Compendium[pf2e.feature-effects.EtFMN1ZLkL7sUk01]`|
 |[](feature-effects/01-UQ7vZgmfK0VSFS8A.htm)|Effect: Aberrant Blood Magic|`@Compendium[pf2e.feature-effects.UQ7vZgmfK0VSFS8A]`|
-|[](feature-effects/01-0H4WuqjCxpXX67eK.htm)|Effect: Major Skillful Ancestor Curse|`@Compendium[pf2e.feature-effects.0H4WuqjCxpXX67eK]`|
 |[](feature-effects/01-s1tulrmW6teTFjVd.htm)|Effect: Angelic Blood Magic|`@Compendium[pf2e.feature-effects.s1tulrmW6teTFjVd]`|
-|[](feature-effects/01-6fb15XuSV4TNuVAT.htm)|Effect: Hag Blood Magic|`@Compendium[pf2e.feature-effects.6fb15XuSV4TNuVAT]`|
 |[](feature-effects/01-PX6WdrpzEdUzKRHx.htm)|Effect: Enduring Debilitating Strike|`@Compendium[pf2e.feature-effects.PX6WdrpzEdUzKRHx]`|
 |[](feature-effects/01-6fObd480rDBkFwZ3.htm)|Effect: Bones Curse|`@Compendium[pf2e.feature-effects.6fObd480rDBkFwZ3]`|
 |[](feature-effects/01-OzA7pUzYe2ZIprYJ.htm)|Effect: Major Martial Ancestor Curse|`@Compendium[pf2e.feature-effects.OzA7pUzYe2ZIprYJ]`|
 |[](feature-effects/01-GRX2p4ddGnoqihYC.htm)|Effect: Major Flames Curse|`@Compendium[pf2e.feature-effects.GRX2p4ddGnoqihYC]`|
-|[](feature-effects/01-V6lnFOq998B76Rr0.htm)|Effect: Ancestor Curse|`@Compendium[pf2e.feature-effects.V6lnFOq998B76Rr0]`|
 |[](feature-effects/01-I0g5oaSwaqZ8fFAV.htm)|Effect: Tempest Curse|`@Compendium[pf2e.feature-effects.I0g5oaSwaqZ8fFAV]`|
 |[](feature-effects/01-pQ3EjUm1lZW9t3el.htm)|Effect: Battle Curse|`@Compendium[pf2e.feature-effects.pQ3EjUm1lZW9t3el]`|
 |[](feature-effects/01-uBJsxCzNhje8m8jj.htm)|Effect: Panache|`@Compendium[pf2e.feature-effects.uBJsxCzNhje8m8jj]`|
-|[](feature-effects/01-9GIlMB09zKCsnuBP.htm)|Effect: Moderate Life Curse|`@Compendium[pf2e.feature-effects.9GIlMB09zKCsnuBP]`|
 |[](feature-effects/01-FClOlGn44lFLqmbA.htm)|Effect: Moderate Spellcasting Ancestor Curse|`@Compendium[pf2e.feature-effects.FClOlGn44lFLqmbA]`|
 |[](feature-effects/01-rwDsr5XsrYcH7oFT.htm)|Effect: Cosmos Curse|`@Compendium[pf2e.feature-effects.rwDsr5XsrYcH7oFT]`|
 |[](feature-effects/01-yR4XFhh3irGBgPmJ.htm)|Effect: Minor Life Curse|`@Compendium[pf2e.feature-effects.yR4XFhh3irGBgPmJ]`|
@@ -6395,6 +6382,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](feature-effects/01-OqH6IaeOwRWkGPrk.htm)|Effect: Shadow Blood Magic (Stealth)|`@Compendium[pf2e.feature-effects.OqH6IaeOwRWkGPrk]`|
 |[](feature-effects/09-HfXGhXc9D120gvl5.htm)|Effect: Celestial Wings|`@Compendium[pf2e.feature-effects.HfXGhXc9D120gvl5]`|
 |[](feature-effects/01-FNTTeJHiK6iOjrSq.htm)|Effect: Draconic Blood Magic|`@Compendium[pf2e.feature-effects.FNTTeJHiK6iOjrSq]`|
+|[Effet : Immunité à Médecine militaire](feature-effects/01-2XEYQNZTCGpdkyR6.htm)|Effect: Battle Medicine Immunity|`@Compendium[pf2e.feature-effects.2XEYQNZTCGpdkyR6]`|
+|[Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même)](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|`@Compendium[pf2e.feature-effects.c6yRHikgf6cm7cyB]`|
+|[Effet : Magie du sang démoniaque (Soi-même)](feature-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|`@Compendium[pf2e.feature-effects.aKRo5TIhUtu0kyEr]`|
+|[Effet : Magie du sang guenaude](feature-effects/01-6fb15XuSV4TNuVAT.htm)|Effect: Hag Blood Magic|`@Compendium[pf2e.feature-effects.6fb15XuSV4TNuVAT]`|
+|[Effet : Magie du sang génie (soi-même)](feature-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|`@Compendium[pf2e.feature-effects.9AUcoY48H5LrVZiF]`|
+|[Effet : Magie du sang psychopompe (soi-même)](feature-effects/01-7BFd8A9HFrmg6vwL.htm)|Effect: Psychopomp Blood Magic (Self)|`@Compendium[pf2e.feature-effects.7BFd8A9HFrmg6vwL]`|
+|[Effet : Magie du sang élémentare (soi-même)](feature-effects/01-3gGBZHcUFsHLJeQH.htm)|Effect: Elemental Blood Magic (Self)|`@Compendium[pf2e.feature-effects.3gGBZHcUFsHLJeQH]`|
+|[Effet : Malédiction des ancêtres](feature-effects/01-V6lnFOq998B76Rr0.htm)|Effect: Ancestor Curse|`@Compendium[pf2e.feature-effects.V6lnFOq998B76Rr0]`|
+|[Effet : Malédiction majeure de l'ancêtre talentueux](feature-effects/01-0H4WuqjCxpXX67eK.htm)|Effect: Major Skillful Ancestor Curse|`@Compendium[pf2e.feature-effects.0H4WuqjCxpXX67eK]`|
+|[Effet : Malédiction majeure du cosmos](feature-effects/01-cCouACwRwxjEgy7u.htm)|Effect: Major Cosmos Curse|`@Compendium[pf2e.feature-effects.cCouACwRwxjEgy7u]`|
+|[Effet : Malédiction mineure du combat](feature-effects/01-922SDayUnipK4wlx.htm)|Effect: Minor Battle Curse|`@Compendium[pf2e.feature-effects.922SDayUnipK4wlx]`|
+|[Effet : Malédiction mineure l'ancêtre talentueux](feature-effects/01-2uZfgqV279rxX4NK.htm)|Effect: Minor Skillful Ancestor Curse|`@Compendium[pf2e.feature-effects.2uZfgqV279rxX4NK]`|
+|[Effet : Malédiction modérée de la vie](feature-effects/01-9GIlMB09zKCsnuBP.htm)|Effect: Moderate Life Curse|`@Compendium[pf2e.feature-effects.9GIlMB09zKCsnuBP]`|
+|[Effet : Malédiction modérée des flammes](feature-effects/01-d0fXbhu8qH1TQwXE.htm)|Effect: Moderate Flames Curse|`@Compendium[pf2e.feature-effects.d0fXbhu8qH1TQwXE]`|
+|[Effet : Malédiction modérée des ossements](feature-effects/01-74K4QxDp37huY8dm.htm)|Effect: Moderate Bones Curse|`@Compendium[pf2e.feature-effects.74K4QxDp37huY8dm]`|
+|[Effet : Malédiction modérée du combat](feature-effects/01-5q4JYkYlqOK2kXWy.htm)|Effect: Moderate Battle Curse|`@Compendium[pf2e.feature-effects.5q4JYkYlqOK2kXWy]`|
 
 
 ## Effets des consommables
@@ -6500,6 +6503,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Nom (FR)   | Nom (EN)    | Lien compendium |
 |------------|-------------|-----------------|
 |[](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|`@Compendium[pf2e.feat-effects.q2kY0TzXloJ8HLNO]`|
+|[](feat-effects/01-aEuDaQY1GnrrnDRA.htm)|Effect: Aldori Parry|`@Compendium[pf2e.feat-effects.aEuDaQY1GnrrnDRA]`|
 |[](feat-effects/01-RcxDIOa68SUGyMun.htm)|Effect: Titan's Stature|`@Compendium[pf2e.feat-effects.RcxDIOa68SUGyMun]`|
 |[](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|`@Compendium[pf2e.feat-effects.lbe8XDSZB8gwyg90]`|
 |[](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|`@Compendium[pf2e.feat-effects.SKjVvQcRQmnDoouw]`|
@@ -10210,7 +10214,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dague du sommeil éternel](equipment/weapon-05-1S3RgLWa1DBitB9V.htm)|Dagger of Eternal Sleep|`@Compendium[pf2e.equipment-srd.1S3RgLWa1DBitB9V]`|
 |[Dague empoisonnée](equipment/weapon-05-hK5xPjOFd2hb81mi.htm)|Poisonous Dagger|`@Compendium[pf2e.equipment-srd.hK5xPjOFd2hb81mi]`|
 |[Dague vengeresse](equipment/equipment-08-C9wOlvuVCjVbz1YQ.htm)|Bloodbane|`@Compendium[pf2e.equipment-srd.C9wOlvuVCjVbz1YQ]`|
-|[Dague vengeresse supérieur](equipment/equipment-13-zEys8FeMMAwTqwgW.htm)|Bloodbane (Greater)|`@Compendium[pf2e.equipment-srd.zEys8FeMMAwTqwgW]`|
+|[Dague vengeresse supérieure](equipment/equipment-13-zEys8FeMMAwTqwgW.htm)|Bloodbane (Greater)|`@Compendium[pf2e.equipment-srd.zEys8FeMMAwTqwgW]`|
 |[Dague venimeuse](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|`@Compendium[pf2e.equipment-srd.ZvIEJCY60fHqzl6r]`|
 |[Daikyu](equipment/weapon-00-RN3m5Hb5LPbdZGoO.htm)|Daikyu|`@Compendium[pf2e.equipment-srd.RN3m5Hb5LPbdZGoO]`|
 |[Dansante (rune)](equipment/equipment-13-DCPsilr8wbPXxTUv.htm)|Dancing|`@Compendium[pf2e.equipment-srd.DCPsilr8wbPXxTUv]`|
@@ -10484,7 +10488,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Goutte Putride](equipment/consumable-07-TSbuKm91qmqdqQW3.htm)|Putrescent Glob|`@Compendium[pf2e.equipment-srd.TSbuKm91qmqdqQW3]`|
 |[Goutte d'assommoir](equipment/consumable-07-0XSl2DU7JvKXOqTo.htm)|Knockout Dram|`@Compendium[pf2e.equipment-srd.0XSl2DU7JvKXOqTo]`|
 |[Goutte parfaite](equipment/equipment-03-OoDp1T4IUUsNnrV6.htm)|Perfect Droplet|`@Compendium[pf2e.equipment-srd.OoDp1T4IUUsNnrV6]`|
-|[Goutte parfaite majeur](equipment/equipment-12-YG6HRwfMVK3jdslZ.htm)|Perfect Droplet (Major)|`@Compendium[pf2e.equipment-srd.YG6HRwfMVK3jdslZ]`|
+|[Goutte parfaite majeure](equipment/equipment-12-YG6HRwfMVK3jdslZ.htm)|Perfect Droplet (Major)|`@Compendium[pf2e.equipment-srd.YG6HRwfMVK3jdslZ]`|
 |[Goutte parfaite supérieure](equipment/equipment-08-X1uTEyn6CRXCzgqr.htm)|Perfect Droplet (Greater)|`@Compendium[pf2e.equipment-srd.X1uTEyn6CRXCzgqr]`|
 |[Grand pic de guerre](equipment/weapon-00-3Zv5hSXXtlaDatUv.htm)|Greatpick|`@Compendium[pf2e.equipment-srd.3Zv5hSXXtlaDatUv]`|
 |[Grande hache](equipment/weapon-00-8COlYvHe6hKCXY8x.htm)|Greataxe|`@Compendium[pf2e.equipment-srd.8COlYvHe6hKCXY8x]`|
@@ -10536,7 +10540,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gâteau de l'impossible majeur](equipment/consumable-17-IBJIBTkTilVV0BdC.htm)|Impossible Cake (Major)|`@Compendium[pf2e.equipment-srd.IBJIBTkTilVV0BdC]`|
 |[Gâteau de l'impossible supérieur](equipment/consumable-09-RkZgEViFodxXsLu3.htm)|Impossible Cake (Greater)|`@Compendium[pf2e.equipment-srd.RkZgEViFodxXsLu3]`|
 |[Géode de la trinité](equipment/equipment-03-lN3Fn9AuNcKbXucJ.htm)|Trinity Geode|`@Compendium[pf2e.equipment-srd.lN3Fn9AuNcKbXucJ]`|
-|[Géode de la trinité majeur](equipment/equipment-12-2sr23ZSpplB1oBHd.htm)|Trinity Geode (Major)|`@Compendium[pf2e.equipment-srd.2sr23ZSpplB1oBHd]`|
+|[Géode de la trinité majeure](equipment/equipment-12-2sr23ZSpplB1oBHd.htm)|Trinity Geode (Major)|`@Compendium[pf2e.equipment-srd.2sr23ZSpplB1oBHd]`|
 |[Géode de la trinité supérieure](equipment/equipment-08-5W86t6I92rRNSmwR.htm)|Trinity Geode (Greater)|`@Compendium[pf2e.equipment-srd.5W86t6I92rRNSmwR]`|
 |[Hache d'abordage](equipment/weapon-00-gTTJuNgwTcNmkDx2.htm)|Boarding Axe|`@Compendium[pf2e.equipment-srd.gTTJuNgwTcNmkDx2]`|
 |[Hache d'armes](equipment/weapon-00-War0uyLBx1jA0Ge7.htm)|Battle Axe|`@Compendium[pf2e.equipment-srd.War0uyLBx1jA0Ge7]`|
@@ -10727,7 +10731,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lanceur de filet](equipment/equipment-01-4CuEQqahVT8TmNld.htm)|Net Launcher|`@Compendium[pf2e.equipment-srd.4CuEQqahVT8TmNld]`|
 |[Lanceur de piquants](equipment/weapon-06-3qn56dTO5TYJHjbF.htm)|Spike Launcher|`@Compendium[pf2e.equipment-srd.3qn56dTO5TYJHjbF]`|
 |[Lanterne barbouilleuse inférieur](equipment/equipment-07-rJan8OyK6gmtxXmt.htm)|Queasy Lantern (Lesser)|`@Compendium[pf2e.equipment-srd.rJan8OyK6gmtxXmt]`|
-|[Lanterne barbouilleuse modéré](equipment/equipment-12-lqzVHgmpCDnOVZs3.htm)|Queasy Lantern (Moderate)|`@Compendium[pf2e.equipment-srd.lqzVHgmpCDnOVZs3]`|
+|[Lanterne barbouilleuse modérée](equipment/equipment-12-lqzVHgmpCDnOVZs3.htm)|Queasy Lantern (Moderate)|`@Compendium[pf2e.equipment-srd.lqzVHgmpCDnOVZs3]`|
 |[Lanterne barbouilleuse supérieur](equipment/equipment-17-ToSrWLocAD4AffSB.htm)|Queasy Lantern (Greater)|`@Compendium[pf2e.equipment-srd.ToSrWLocAD4AffSB]`|
 |[Lanterne crépusculaire inférieure](equipment/equipment-06-Q5YwZv3PbCHkEImh.htm)|Twilight Lantern (Lesser)|`@Compendium[pf2e.equipment-srd.Q5YwZv3PbCHkEImh]`|
 |[Lanterne crépusculaire majeur](equipment/equipment-18-0Bp6uVAX4AvjhsOI.htm)|Twilight Lantern (Major)|`@Compendium[pf2e.equipment-srd.0Bp6uVAX4AvjhsOI]`|
@@ -10737,7 +10741,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lanterne de midi inférieure](equipment/equipment-06-fsqAB2lS9N8MRaO5.htm)|Midday Lantern (Lesser)|`@Compendium[pf2e.equipment-srd.fsqAB2lS9N8MRaO5]`|
 |[Lanterne de midi majeur](equipment/equipment-18-W0tqTUmRE5lEhWUl.htm)|Midday Lantern (Major)|`@Compendium[pf2e.equipment-srd.W0tqTUmRE5lEhWUl]`|
 |[Lanterne de midi modérée](equipment/equipment-10-8usnglqucr4Q0YO6.htm)|Midday Lantern (Moderate)|`@Compendium[pf2e.equipment-srd.8usnglqucr4Q0YO6]`|
-|[Lanterne de midi supérieur](equipment/equipment-14-gvMmQh9icawtnmlR.htm)|Midday Lantern (Greater)|`@Compendium[pf2e.equipment-srd.gvMmQh9icawtnmlR]`|
+|[Lanterne de midi supérieure](equipment/equipment-14-gvMmQh9icawtnmlR.htm)|Midday Lantern (Greater)|`@Compendium[pf2e.equipment-srd.gvMmQh9icawtnmlR]`|
 |[Lanterne sourde](equipment/equipment-00-QrNvP9SgnK9DrerA.htm)|Lantern (Bull's Eye)|`@Compendium[pf2e.equipment-srd.QrNvP9SgnK9DrerA]`|
 |[Lanterne à capote](equipment/equipment-00-dIRZ0LL7G31fJNYz.htm)|Lantern (Hooded)|`@Compendium[pf2e.equipment-srd.dIRZ0LL7G31fJNYz]`|
 |[Lapis lazuli](equipment/treasure-00-DE4880DRtsRqax1N.htm)|Lapis lazuli|`@Compendium[pf2e.equipment-srd.DE4880DRtsRqax1N]`|
@@ -11309,6 +11313,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Piège artisanal d'expulsion](equipment/consumable-02-gYYlqHTW1lgwd6ri.htm)|Expulsion Snare|`@Compendium[pf2e.equipment-srd.gYYlqHTW1lgwd6ri]`|
 |[Piège artisanal d'écran de fumée inférieur](equipment/consumable-01-BJtpbzjSza4wUlQX.htm)|Smoke Screen Snare (Lesser)|`@Compendium[pf2e.equipment-srd.BJtpbzjSza4wUlQX]`|
 |[Piège artisanal d'écran de fumée supérieur](equipment/consumable-01-AUHgdsygq9gaOZh4.htm)|Smoke Screen Snare (Greater)|`@Compendium[pf2e.equipment-srd.AUHgdsygq9gaOZh4]`|
+|[Piège artisanal d'écran de fumée supérieur](equipment/consumable-07-AUHgdsygq9gaOZh4.htm)|Smoke Screen Snare (Greater)|`@Compendium[pf2e.equipment-srd.AUHgdsygq9gaOZh4]`|
 |[Piège artisanal d'épines irritantes](equipment/consumable-04-77D3QdU33DLcwNrJ.htm)|Irritating Thorn Snare|`@Compendium[pf2e.equipment-srd.77D3QdU33DLcwNrJ]`|
 |[Piège artisanal d'éviscération hachante](equipment/consumable-14-pV5M6IYoPDhTy6FA.htm)|Chopping Evisceration Snare|`@Compendium[pf2e.equipment-srd.pV5M6IYoPDhTy6FA]`|
 |[Piège artisanal d'éviscération instantanée](equipment/consumable-20-xqCz2vStMNJujfpp.htm)|Instant Evisceration Snare|`@Compendium[pf2e.equipment-srd.xqCz2vStMNJujfpp]`|

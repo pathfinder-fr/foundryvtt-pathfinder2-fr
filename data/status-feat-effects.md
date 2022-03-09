@@ -1,11 +1,11 @@
 # État de la traduction (feat-effects)
 
  * **libre**: 183
- * **aucune**: 12
+ * **aucune**: 13
  * **vide**: 2
 
 
-Dernière mise à jour: 2022-03-04 17:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,6 +13,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
+|[01-aEuDaQY1GnrrnDRA.htm](feat-effects/01-aEuDaQY1GnrrnDRA.htm)|Effect: Aldori Parry|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
