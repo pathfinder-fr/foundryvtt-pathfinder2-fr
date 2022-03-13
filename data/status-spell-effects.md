@@ -1,12 +1,12 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 356
+ * **libre**: 355
  * **officielle**: 23
- * **changé**: 12
+ * **changé**: 13
  * **aucune**: 2
 
 
-Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -30,6 +30,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-j9l4LDnAwg9xzYsy.htm](spell-effects/03-j9l4LDnAwg9xzYsy.htm)|Spell Effect: Life Connection|Effet : Connexion vitale|changé|
 |[03-JqrTrvwV7pYStMXz.htm](spell-effects/03-JqrTrvwV7pYStMXz.htm)|Spell Effect: Levitate|Effet : Lévitation|changé|
 |[03-PpkOZVoHkBZUmddx.htm](spell-effects/03-PpkOZVoHkBZUmddx.htm)|Spell Effect: Ooze Form (Ochre Jelly)|{Effet : Forme de vase (Gelée ocre)|changé|
+|[05-FD9Ce5pqcZYstcMI.htm](spell-effects/05-FD9Ce5pqcZYstcMI.htm)|Spell Effect: Blessing of Defiance|Effet : Bénédiction du défi (1 action)|changé|
 |[07-46vCC77mBNBWtmx3.htm](spell-effects/07-46vCC77mBNBWtmx3.htm)|Spell Effect: Litany of Righteousness|Effet : Litanie de vertu|changé|
 |[07-CTdEsMIwVYqqkH50.htm](spell-effects/07-CTdEsMIwVYqqkH50.htm)|Spell Effect: Litany of Depravity|Litanie de dépravation|changé|
 
@@ -326,7 +327,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-cTBYHfiXDOA09G4b.htm](spell-effects/05-cTBYHfiXDOA09G4b.htm)|Spell Effect: Traveler's Transit (Fly)|Effet : Voyageur en transit (Vol)|libre|
 |[05-DliizYpHcmBG130w.htm](spell-effects/05-DliizYpHcmBG130w.htm)|Spell Effect: Elemental Form (Air)|Effet : Forme élémentaire (Air)|libre|
 |[05-Dr7KMMtE4twxO6Ks.htm](spell-effects/05-Dr7KMMtE4twxO6Ks.htm)|Spell Effect: Blessing of Defiance (2 Action Fortitude)|Effet : Bénédiction du défi (2 actions Vigueur)|libre|
-|[05-FD9Ce5pqcZYstcMI.htm](spell-effects/05-FD9Ce5pqcZYstcMI.htm)|Spell Effect: Blessing of Defiance|Effet : Bénédiction du défi (1 action)|libre|
 |[05-fIloZhZVH1xTnX4B.htm](spell-effects/05-fIloZhZVH1xTnX4B.htm)|Spell Effect: Plant Form (Shambler)|Effet : Forme de plante (Grand tertre)|libre|
 |[05-FT5Tt2DKBRutDqbV.htm](spell-effects/05-FT5Tt2DKBRutDqbV.htm)|Spell Effect: Dread Ambience (Critical Success)|Effet : Ambiance terrifiante (Succès critique)|libre|
 |[05-gKGErrsS1WoAyWub.htm](spell-effects/05-gKGErrsS1WoAyWub.htm)|Spell Effect: Aberrant Form (Gogiteth)|Effet : Forme d'aberration (Gogiteth)|libre|

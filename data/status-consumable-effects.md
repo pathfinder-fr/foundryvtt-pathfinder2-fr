@@ -1,10 +1,10 @@
 # État de la traduction (consumable-effects)
 
- * **libre**: 12
- * **aucune**: 80
+ * **libre**: 13
+ * **aucune**: 79
 
 
-Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -68,7 +68,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[11-qit1mLbJUyRTYcPU.htm](consumable-effects/11-qit1mLbJUyRTYcPU.htm)|Effect: Cognitive Mutagen (Greater)|
 |[11-qwoLV4awdezlEJ60.htm](consumable-effects/11-qwoLV4awdezlEJ60.htm)|Effect: Drakeheart Mutagen (Greater)|
 |[11-qzRcSQ0HTTp58hV2.htm](consumable-effects/11-qzRcSQ0HTTp58hV2.htm)|Effect: Sixfingers Elixir (Moderate)|
-|[11-TsWUTODTVi487SEz.htm](consumable-effects/11-TsWUTODTVi487SEz.htm)|Effect: Skeptic's Elixir (Greater)|
 |[12-1xHHvQlW4pRR89qj.htm](consumable-effects/12-1xHHvQlW4pRR89qj.htm)|Effect: Stone Body Mutagen (Moderate)|
 |[12-9keegq0GdS1eSrNr.htm](consumable-effects/12-9keegq0GdS1eSrNr.htm)|Effect: Sea Touch Elixir (Moderate)|
 |[12-fYjvLx9DHIdCHdDx.htm](consumable-effects/12-fYjvLx9DHIdCHdDx.htm)|Effect: Applereed Mutagen (Moderate)|
@@ -97,14 +96,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[01-16tOZk4qy329s2aK.htm](consumable-effects/01-16tOZk4qy329s2aK.htm)|Effect: Shielding Salve|Effet : Onguent de bouclier|libre|
-|[01-1l139A2Qik4lBHKO.htm](consumable-effects/01-1l139A2Qik4lBHKO.htm)|Effect: Juggernaut Mutagen (Lesser)|Effet : Mutagène de Juggernaut inférieur|libre|
-|[01-5Gof60StUppR2Xn9.htm](consumable-effects/01-5Gof60StUppR2Xn9.htm)|Effect: Skeptic's Elixir (Lesser)|Effet : Élixir d'incrédule inférieur|libre|
+|[01-1l139A2Qik4lBHKO.htm](consumable-effects/01-1l139A2Qik4lBHKO.htm)|Effect: Juggernaut Mutagen (Lesser)|Effet : Mutagène de juggernaut inférieur|libre|
+|[01-5Gof60StUppR2Xn9.htm](consumable-effects/01-5Gof60StUppR2Xn9.htm)|Effect: Skeptic's Elixir (Lesser)|Effet : Élixir de l'incrédule inférieur|libre|
 |[01-5xgapIXn5DwbXHKh.htm](consumable-effects/01-5xgapIXn5DwbXHKh.htm)|Effect: Serene Mutagen (Lesser)|Effet : Mutagène de sérénité inférieur|libre|
 |[01-6A8jsLR7upLGuRiv.htm](consumable-effects/01-6A8jsLR7upLGuRiv.htm)|Effect: Lastwall Soup|Effet : Soupe de Dernier rempart|libre|
 |[03-fUrZ4xcMJz0CfTyG.htm](consumable-effects/03-fUrZ4xcMJz0CfTyG.htm)|Effect: Juggernaut Mutagen (Moderate)|Effet : Mutagène de juggernaut modéré|libre|
 |[03-yrbz0rZzp8aZEqbv.htm](consumable-effects/03-yrbz0rZzp8aZEqbv.htm)|Effect: Serene Mutagen (Moderate)|Effet : Mutagène de sérénité modéré|libre|
-|[06-mG6S6zm6hxaF7Tla.htm](consumable-effects/06-mG6S6zm6hxaF7Tla.htm)|Effect: Skeptic's Elixir (Moderate)|Effet : Élixir d'incrédule modéré|libre|
+|[06-mG6S6zm6hxaF7Tla.htm](consumable-effects/06-mG6S6zm6hxaF7Tla.htm)|Effect: Skeptic's Elixir (Moderate)|Effet : Élixir de l'incrédule modéré|libre|
 |[11-jw6Tr9FbErjLAFLQ.htm](consumable-effects/11-jw6Tr9FbErjLAFLQ.htm)|Effect: Serene Mutagen (Greater)|Effet : Mutagène de sérénité supérieur|libre|
+|[11-TsWUTODTVi487SEz.htm](consumable-effects/11-TsWUTODTVi487SEz.htm)|Effect: Skeptic's Elixir (Greater)|Effet : Élixir de l'incrédule supérieur|libre|
 |[11-xLilBqqf34ZJYO9i.htm](consumable-effects/11-xLilBqqf34ZJYO9i.htm)|Effect: Juggernaut Mutagen (Greater)|Effet : Mutagène de juggernaut supérieur|libre|
 |[17-2PNo8u4wxSbz5WEs.htm](consumable-effects/17-2PNo8u4wxSbz5WEs.htm)|Effect: Juggernaut Mutagen (Major)|Effet : Mutagène de juggernaut majeur|libre|
 |[17-t7VUJHSUT6bkVUjg.htm](consumable-effects/17-t7VUJHSUT6bkVUjg.htm)|Effect: Serene Mutagen (Major)|Effet : Mutagène de sérénité majeur|libre|

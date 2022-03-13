@@ -5,7 +5,7 @@
  * **changé**: 37
 
 
-Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -117,7 +117,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[K5bNE90vmeFzktnM.htm](bestiary-family-ability-glossary/K5bNE90vmeFzktnM.htm)|(Skeleton) Collapse|(Squelette) Écroulement|officielle|
 |[kG4fDd16fYEFvmgy.htm](bestiary-family-ability-glossary/kG4fDd16fYEFvmgy.htm)|(Nymph Queen) Nymph's Beauty|(Reine nymphe) Beauté de la reine|libre|
 |[KJrQdJQ0ZEmKYH4Y.htm](bestiary-family-ability-glossary/KJrQdJQ0ZEmKYH4Y.htm)|(Kallas Devil) Suffer the Children|(Diablesse kallas) Subir les enfants|libre|
-|[KwmYKsaXHKfZgB2c.htm](bestiary-family-ability-glossary/KwmYKsaXHKfZgB2c.htm)|(Spring-Heeled Jack) Vanishing Leap|(JAck à ressort) Saut évanouissant|libre|
+|[KwmYKsaXHKfZgB2c.htm](bestiary-family-ability-glossary/KwmYKsaXHKfZgB2c.htm)|(Spring-Heeled Jack) Vanishing Leap|(Jack à ressort) Saut évanouissant|libre|
 |[L80gn6WOWi9roJW3.htm](bestiary-family-ability-glossary/L80gn6WOWi9roJW3.htm)|(Divine Warden) Instrument of Faith|(Garde divin) Instrument de foi|libre|
 |[LOd8QwaKP3hnyGkc.htm](bestiary-family-ability-glossary/LOd8QwaKP3hnyGkc.htm)|(Kallas Devil) Cold Currents|(diablesse Kallas) Courants froids|libre|
 |[MAC97gjFcdiqLyhp.htm](bestiary-family-ability-glossary/MAC97gjFcdiqLyhp.htm)|(Skeleton) Screaming Skull|(Squelette) Crâne hurlant|officielle|

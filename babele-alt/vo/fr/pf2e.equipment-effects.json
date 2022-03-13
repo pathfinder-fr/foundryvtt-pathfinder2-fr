@@ -552,6 +552,11 @@
             "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +2 au jet d'intimidation.</p>"
         },
         {
+            "id": "Effect: Apricot of Bestial Might",
+            "name": "Effect: Apricot of Bestial Might",
+            "description": ""
+        },
+        {
             "id": "Effect: Succubus Kiss (Stage 1)",
             "name": "Effect: Succubus Kiss (Stage 1)",
             "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
@@ -687,6 +692,11 @@
             "description": "<p>Cette maille légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.</p>\n<p>Une tenue préparée de cette manière vous accorde un bonus d'objet de +2 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue  de camouflage appropriée à l'environnement.</p>"
         },
         {
+            "id": "Equipment Effect: Mask of Allure",
+            "name": "Equipment Effect: Mask of Allure",
+            "description": ""
+        },
+        {
             "id": "Effect: Belt of the Five Kings (Wearer)",
             "name": "Effect: Belt of the Five Kings (Wearer)",
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YCjVrQnHfOtpmjYW]{Ceinture des cinq rois} si vous êtes le porteur.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un nombre de Points de vie temporaires égal à votre niveau</li>\n</ul>"
@@ -777,6 +787,11 @@
             "description": "<p>Vous obtenez une résistance 5 au feu et au froid pendant 1 minute.</p>"
         },
         {
+            "id": "Spell Effect: Barkskin (Arboreal's Revenge)",
+            "name": "Spell Effect: Barkskin (Arboreal's Revenge)",
+            "description": ""
+        },
+        {
             "id": "Equipment Effect: Lesser Healer's Gel",
             "name": "Equipment Effect: Lesser Healer's Gel",
             "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 5 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
@@ -805,6 +820,11 @@
             "id": "Equipment Effect: South Wind's Scorch Song (Damage)",
             "name": "Equipment Effect: South Wind's Scorch Song (Damage)",
             "description": "<p>Tant que vous bénéficiez d'un bonus de statut à au moins une de vos Vitesses, vos frappes avec ce cimeterre qui inflige des dégâts de feu bénéficient d'un bonus de statut de +2 à leurs dégâts de feu. Le bonus de statut passe à +3 si l'arme possède une rune de Frappe supérieure et à +4 avec une rune de Frappe majeure.</p>\n<hr />\n<p><em>Note : Il n'est pas possible actuellement de faire en sorte que les dégâts augmentent automatiquement lorsque les dés de dégâts augmentent.</em></p>"
+        },
+        {
+            "id": "Effect: Leopard's Armor",
+            "name": "Effect: Leopard's Armor",
+            "description": ""
         },
         {
             "id": "Effect: Nosoi Charm (Performance)",

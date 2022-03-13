@@ -379,7 +379,7 @@
         {
             "id": "Cayden Cailean - Moderate Boon",
             "name": "Cayden Cailean - Bénédiction modérée",
-            "description": "<p><strong>Bénédiction modérée</strong> Vous partagez un part de bravoure dont Cayden a fait preuve durant son ascension.</p>\n<p>Lorsque vous obtenez un succès à un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place. Si vous possédez la capacité de classe @Compendium[pf2e.classfeatures.GJKJafDGuX4BeAeN]{Bravoure}, lorsquee vous obtenez un échec critique sur un jet de sauvegarde contre un effet de peur, vous obtenez un échec à la place.</p>"
+            "description": "<p><strong>Bénédiction modérée</strong> Vous partagez un peu de la bravoure dont Cayden a fait preuve durant son ascension.</p>\n<p>Lorsque vous obtenez un succès à un jet de sauvegarde contre un effet de peur, vous obtenez un succès critique à la place. Si vous possédez la capacité de classe de guerrier @Compendium[pf2e.classfeatures.GJKJafDGuX4BeAeN]{Bravoure}, lorsquee vous obtenez un échec critique sur un jet de sauvegarde contre un effet de peur, vous obtenez un échec à la place.</p>"
         },
         {
             "id": "Asmodeus - Moderate Boon",

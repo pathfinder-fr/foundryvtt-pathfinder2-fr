@@ -1,11 +1,11 @@
 # État de la traduction (equipment-effects)
 
- * **libre**: 180
- * **aucune**: 7
- * **vide**: 4
+ * **libre**: 183
+ * **changé**: 1
+ * **aucune**: 8
 
 
-Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,20 +14,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[01-d7BDxmsnM1BUoEeT.htm](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|
 |[01-KSvkfMqMQ8mlGLiz.htm](equipment-effects/01-KSvkfMqMQ8mlGLiz.htm)|Effect: Goggles of Night|
+|[01-R5ugeFK3MPwkbv0s.htm](equipment-effects/01-R5ugeFK3MPwkbv0s.htm)|Effect: Potency Crystal|
 |[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|
 |[01-tGeMT4iHJcsjVbl3.htm](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|
 |[01-WXrqEuLT4uP48Bvo.htm](equipment-effects/01-WXrqEuLT4uP48Bvo.htm)|Effect: Goggles of Night (Major)|
 |[01-z3ATL8DcRVrT0Uzt.htm](equipment-effects/01-z3ATL8DcRVrT0Uzt.htm)|Effect: Disarm (Success)|
 |[17-exwQF6E1FWmuxwBc.htm](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|
 
-## Liste des éléments vides ne pouvant pas être traduits
+## Liste des éléments changés en VO et devant être vérifiés
 
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[01-WQ0DxUzMgAvo0zy9.htm](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|vide|
-|[01-zZsdex5orF5Odpus.htm](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|vide|
-|[02-mCb9mWAmgWPQrkTY.htm](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)|Spell Effect: Barkskin (Arboreal's Revenge)|vide|
-|[09-LVy8SfUF8Jrd6X18.htm](equipment-effects/09-LVy8SfUF8Jrd6X18.htm)|Effect: Leopard's Armor|vide|
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|changé|
 
 ## Liste des traductions complétés
 
@@ -49,7 +47,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-6alqXfVq0qWQC359.htm](equipment-effects/01-6alqXfVq0qWQC359.htm)|Effect: Energy Robe of Fire|Effet : Robe d'énergie de feu|libre|
 |[01-6p2Sjl7XxCc55ft4.htm](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)|Effect: Mudrock Snare (Success)|Effet : Piège artisanal de boue solidifiée (Succès)|libre|
 |[01-9BsFdrEc7hkPWgSd.htm](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)|Effect: Energizing Rune (Electricity)|Effet : Rune d'énergie d'électricité|libre|
-|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|libre|
 |[01-ascxqSlMEN9R6OOy.htm](equipment-effects/01-ascxqSlMEN9R6OOy.htm)|Effect: Energizing Rune (Fire)|Effet : Rune énergisante de feu|libre|
 |[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|Effet : Robe d'énergie d'électricité|libre|
 |[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|Effet : Rune énergisante d'acide|libre|
@@ -86,16 +83,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-W9tKQlA7tVIcAuzw.htm](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)|Equipment Effect: Greater Potion of Stable Form|Effet : Potion de forme stable supérieure|libre|
 |[01-wFP3SqPoO0bCPmyK.htm](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)|Effect: Kraken's Guard|Effet : Gardien kraken|libre|
 |[01-wNCxSxruzLVGtLE4.htm](equipment-effects/01-wNCxSxruzLVGtLE4.htm)|Effect: Spiderfoot Brew (Lesser)|Effet : Infusion de pattes d'araignée inférieure|libre|
+|[01-WQ0DxUzMgAvo0zy9.htm](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|Effet : Abricot de puissance bestiale|libre|
 |[01-WXsWkFosSGBrptwF.htm](equipment-effects/01-WXsWkFosSGBrptwF.htm)|Effect: Ivory Baton|Effet: Bâton d'ivoire|libre|
 |[01-X2ZZgTqanpoCMDmd.htm](equipment-effects/01-X2ZZgTqanpoCMDmd.htm)|Effect: Taljjae's Mask (The General)|Effet : Masque de Taljjae (le général)|libre|
 |[01-XzxADtNpUlRff972.htm](equipment-effects/01-XzxADtNpUlRff972.htm)|Effect: Greater Fanged Rune Animal Form|Effet : Forme d'animal à runes de crocs supérieure|libre|
 |[01-YI7QQqXO6nosaAKr.htm](equipment-effects/01-YI7QQqXO6nosaAKr.htm)|Effect: Spiderfoot Brew (Greater)|Effet : Infusion de pattes d'araignée supérieure|libre|
 |[01-ZV9rtVOD1eDTwcY4.htm](equipment-effects/01-ZV9rtVOD1eDTwcY4.htm)|Effect: Grit (Stage 3)|Effet : Grit (stade 3)|libre|
 |[01-zY7cemRcFD2zAVbC.htm](equipment-effects/01-zY7cemRcFD2zAVbC.htm)|Effect: Oath of the Devoted|Effet : Serment du dévoué|libre|
+|[01-zZsdex5orF5Odpus.htm](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|Effet : Masque d'allure|libre|
 |[02-0qJEtpXWPb7JJBbY.htm](equipment-effects/02-0qJEtpXWPb7JJBbY.htm)|Effect: Aromatic Ammunition|Effet : Munition aromatique|libre|
 |[02-5dhm66yN0LQTOePw.htm](equipment-effects/02-5dhm66yN0LQTOePw.htm)|Effect: Holy Steam Ball|Effet : Bille de vapeur sacrée|libre|
 |[02-cjQHrvoXDCGOsptN.htm](equipment-effects/02-cjQHrvoXDCGOsptN.htm)|Equipment Effect: Flask of Fellowship|Effet : Gourde de fraternité|libre|
 |[02-iEkH8BKLMUa2wxLX.htm](equipment-effects/02-iEkH8BKLMUa2wxLX.htm)|Effect: Glamorous Buckler|Effet : Targe étincelante|libre|
+|[02-mCb9mWAmgWPQrkTY.htm](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)|Spell Effect: Barkskin (Arboreal's Revenge)|Effet : Peau d'écorce (Vengeance de l'arboréen)|libre|
 |[02-UDfVCATxdLdSzJYJ.htm](equipment-effects/02-UDfVCATxdLdSzJYJ.htm)|Effect: Red-Rib Gill Mask (Lesser)|Effet : Masque branchies de côte rouge inférieur|libre|
 |[03-bP40jr6wE6MCsRvY.htm](equipment-effects/03-bP40jr6wE6MCsRvY.htm)|Effect: Golden Legion Epaulet|Effet : Épaulette de la Légion dorée|libre|
 |[03-dv0IKm5syOdP759w.htm](equipment-effects/03-dv0IKm5syOdP759w.htm)|Effect: Frost Vial (Moderate)|Effet : Fiole givrée modérée|libre|
@@ -158,6 +158,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[09-fbSFwwp60AuDDKpK.htm](equipment-effects/09-fbSFwwp60AuDDKpK.htm)|Effect: Belt of the Five Kings (Allies)|Effet : Ceinture des cinq rois (Alliés)|libre|
 |[09-i0tm2ZHekp7rGGR3.htm](equipment-effects/09-i0tm2ZHekp7rGGR3.htm)|Effect: Stole of Civility|Effet : Étole de civilité|libre|
 |[09-KAEWiyE8TQwofNj9.htm](equipment-effects/09-KAEWiyE8TQwofNj9.htm)|Effect: Impossible Cake (Greater)|Effet : Gâteau de l'impossible supérieur|libre|
+|[09-LVy8SfUF8Jrd6X18.htm](equipment-effects/09-LVy8SfUF8Jrd6X18.htm)|Effect: Leopard's Armor|Effet : Armure du léopard|libre|
 |[09-M3EFomnN5xArdQmV.htm](equipment-effects/09-M3EFomnN5xArdQmV.htm)|Equipment Effect: Moderate Healer's Gel|Effet : Gel du guérisseur modéré|libre|
 |[09-ytqvHyF0oMKbo65P.htm](equipment-effects/09-ytqvHyF0oMKbo65P.htm)|Effect: Crimson Fulcrum Lens|Effet : Lentille cramoisie|libre|
 |[10-1S51uIRb9bnZtpFU.htm](equipment-effects/10-1S51uIRb9bnZtpFU.htm)|Effect: Winged Boots|Effet : Bottes ailées|libre|

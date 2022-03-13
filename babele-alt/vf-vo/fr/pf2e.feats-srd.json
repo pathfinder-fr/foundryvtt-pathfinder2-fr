@@ -585,6 +585,22 @@
             ]
         },
         {
+            "id": "Knight Vigilant Dedication",
+            "name": "Dévouement : Chevalier vigilant (Knight Vigilant Dedication)",
+            "description": "<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence Religion. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Religion"
+                },
+                {
+                    "value": "n'importe que alignement Bon"
+                },
+                {
+                    "value": "membre des Chevaliers de Dernier Rempart au rang de Chevalier"
+                }
+            ]
+        },
+        {
             "id": "Ratfolk Growth",
             "name": "Croissance Homme-rat (Ratfolk Growth)",
             "description": "<p>Vous faites appel aux liens familiaux que vous partagez avec les autres ysokis pour les défendre au combat.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</em> comme un sort inné primordial de niveau 6 une fois par jour. Vous ne pouvez cibler que vous et les autres hommes-rats avec ce sort.</p>"
@@ -1092,7 +1108,7 @@
         {
             "id": "First Revelation (Tempest Mystery)",
             "name": "Première révélation (Mystère de la tempête) (First Revelation (Tempest Mystery))",
-            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : <em>@Compendium[pf2e.spells-srd.EzB9i7R6aBRAtJCh]{Toucher tempêtueux}</em>. Lancer ce sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure de la tempête</h4>\n<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:5]{émanation de 1,5 mètres} autour de vous et dans votre espace. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura.<p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une vulnérabilité de 2 à l’électricité et les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>\n<p>@Compendium[pf2e.feature-effects.IvXLHQySVNj4qMOi]{Effet : Malédiction mineure de la tempête}</p>",
+            "description": "<p>Vous obtenez le sort de révélation initial de votre mystère : <em>@Compendium[pf2e.spells-srd.EzB9i7R6aBRAtJCh]{Toucher tempêtueux}</em>. Lancer ce sort fait progresser votre @Compendium[pf2e.classfeatures.ibX2EhKkyUtbOHLj]{Malédiction oraculaire}. Utilisez la malédiction mineure de votre mystère, mais lorsque vous la faites progresser encore, au lieu de subir les effets de la malédiction modérée, vous devenez @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} en plus des effets de la malédiction mineure.</p>\n<p>Si vous n'en possédez pas, vous obtenez une réserve de focalisation contenant un point de focalisation. Vous pouvez @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocaliser} en réconciliant la nature conflictuelle de votre mystère, ce qui réduit aussi votre malédiction pour la ramener à son effet mineur.</p>\n<h4>Malédiction mineure de la tempête</h4>\n<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:5]{émanation de 1,5 mètres} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura.<p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une vulnérabilité de 2 à l’électricité et les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>\n<p>@Compendium[pf2e.feature-effects.IvXLHQySVNj4qMOi]{Effet : Malédiction mineure de la tempête}</p>",
             "prereq": [
                 {
                     "value": "Dévouement d'Oracle"
@@ -1467,7 +1483,7 @@
         {
             "id": "Enduring Debilitation",
             "name": "Incapacité persistante (Enduring Debilitation)",
-            "description": "<p><strong>Déclencheur</strong> Vous appliquez un handicap à une créature.</p>\n<p><strong>Fréquence</strong> une fois par minute</p>\n<hr />\n<p>Vous pouvez faire en sorte que le handicap dure pendant un temps exceptionnellement long. Le handicap déclencheur dure pendant 1 minute au lieu de durer jusqu'à la fin de votre prochain tour.</p>\n<p>@Compendium[pf2e.feature-effects.PX6WdrpzEdUzKRHx]{Effet: Frappe d'Incapacité persistante}</p>",
+            "description": "<p><strong>Déclencheur</strong> Vous appliquez un handicap à une créature.</p>\n<p><strong>Fréquence</strong> une fois par minute</p>\n<hr />\n<p>Vous pouvez faire en sorte que le handicap dure pendant un temps exceptionnellement long. Le handicap déclencheur dure pendant 1 minute au lieu de durer jusqu'à la fin de votre prochain tour.</p>\n<p>@Compendium[pf2e.feature-effects.PX6WdrpzEdUzKRHx]{Effet : Frappe incapacitante persistante}</p>",
             "prereq": [
                 {
                     "value": "Frappe incapacitante"
@@ -3045,6 +3061,19 @@
             "id": "Cat's Luck",
             "name": "Chance féline (Cat's Luck)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous manquez un jet de réflexes.</p>\n<hr />\n<p>Vous évitez de manière instinctive le danger. Vous pouvez relancer le jet déclencheur et utiliser le meilleur résultat.</p>"
+        },
+        {
+            "id": "Firebrand Braggart Dedication",
+            "name": "Dévouement : Agitateur vantard (Firebrand Braggart Dedication)",
+            "description": "<p>Votre entraînement d'Agitateur vous a enseigné que terminer quelque chose est plus satisfaisant si vous vous en êtes vanté d'abord. Vous lancez une vantardise à propos d'une action de compétence particulière, comme Garder l'équilibre, Démoraliser ou Vous souvenir. La première fois que vous essayez cette action au cours de la prochaine minute dans un contexte que le MJ estime être un défi acceptable et significatif, vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstances de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstances de –1 sur les tests pour tenter la même action pendant 1 heure.</p>\n<p>Si l'action choisie peut être utilisée avec de multiples compétences, comme Identifier la magie ou Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser Arcanes pour Identifier la magie et votre bonus ou pénalité après la vantardise ne s'applique qu'aux tests qui utilisent cette compétence pour cette action. Une fois que vous avez lancé une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir cette même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.</p>\n<p>Typiquement une tâche qui constitue un défi est une tâche ayant au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succès ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.</p>",
+            "prereq": [
+                {
+                    "value": "Charisme 14"
+                },
+                {
+                    "value": "membre de second rang des Agitateurs vantards"
+                }
+            ]
         },
         {
             "id": "Soaring Dynamo",
@@ -11820,10 +11849,10 @@
         {
             "id": "Aldori Parry",
             "name": "Parade Aldorie (Aldori Parry)",
-            "description": "<p><strong>Conditions</strong> Vous brandissez seulement une épée de duel aldorie et votre (ou vos) autre main est libre.</p>\n<hr>\n<p>Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous répondez aux conditions.</p>",
+            "description": "<p><strong>Conditions</strong> Vous brandissez seulement une épée de duel aldorie et votre (ou vos) autre main est libre.</p>\n<hr>\n<p>Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous remplissez les conditions.</p>\n<p>@Compendium[pf2e.feat-effects.aEuDaQY1GnrrnDRA]{Effet : Parade aldorie}</p>",
             "prereq": [
                 {
-                    "value": "Dévouement de Duelliste Aldori"
+                    "value": "Dévouement : Duelliste Aldori"
                 }
             ]
         },
@@ -16093,6 +16122,22 @@
             "id": "No Escape",
             "name": "Pas d’échappatoire (No Escape)",
             "description": "<p>Vous suivez l’adversaire pendant qu’il s’éloigne.</p>\n<p>Vous Marchez rapidement d’une distance maximum égale à votre Vitesse en suivant l’adversaire et en le gardant à portée tout au long de son déplacement et jusqu’à ce qu’il s’arrête ou que vous vous soyez déplacé de toute votre Vitesse. Vous pouvez utiliser Pas d’échappatoire pour Creuser, Escalader, Voler ou Nager au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
+        },
+        {
+            "id": "Spellmaster Dedication",
+            "name": "Dévouement : Maître des sorts (Spellmaster Dedication)",
+            "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
+            "prereq": [
+                {
+                    "value": "Intelligence, Sagesse ou Charisme 14"
+                },
+                {
+                    "value": "capacité à lancer des sorts de focalisation"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affilié à l'École des sorts"
+                }
+            ]
         },
         {
             "id": "That Was a Close One, Huh?",
@@ -21042,6 +21087,19 @@
             ]
         },
         {
+            "id": "Swordmaster Dedication",
+            "name": "Dévouement : Maître des épées (Swordmaster Dedication)",
+            "description": "<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes lorsque des adversaires essaient de vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstances de +2 grâce à Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Maître des épées.</p>",
+            "prereq": [
+                {
+                    "value": "Force, Dextérité ou Constitution 14"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affilié à l'École des Épées"
+                }
+            ]
+        },
+        {
             "id": "Graceful Guidance",
             "name": "Assistance gracieuse (Graceful Guidance)",
             "description": "<p>Vous pouvez démontrer comment vous écarter rapidement du passage de dangereux effets. Vous pouvez utiliser l'action Aider pour accorder à un allié un bonus au jet de Réflexes. Comme habituellement avec Aider, vous avez besoin de vous préparer en utilisant une action lors de votre tour pour encourager l'allié.</p>"
@@ -22901,6 +22959,19 @@
                 },
                 {
                     "value": "au moins deux autres dons de l'archétype de classe de Vasemorphe"
+                }
+            ]
+        },
+        {
+            "id": "Halcyon Speaker Dedication",
+            "name": "Dévouement : Orateur paisible (Halcyon Speaker Dedication)",
+            "description": "<p>Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Gardien de Magaambya"
+                },
+                {
+                    "value": "Membre de l'Académie de Magaambya avec un rang de connaisseur"
                 }
             ]
         },
@@ -28747,6 +28818,19 @@
                 },
                 {
                     "value": "cause du paladin"
+                }
+            ]
+        },
+        {
+            "id": "Scrollmaster Dedication",
+            "name": "Dévouement : Maître des parchemins (Scrollmaster Dedication)",
+            "description": "<p>L'expérience acquise à tenir la chronique de vos aventures et de vos découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontré, les détails du briefing de votre mission et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstances de +2 aux tests réalisés pour vour rappeler d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposez du don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux} et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstances pour vous souvenir de connaissances concernant les créatures en utilisant ce don passe à +4.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Maître des parchemins.</p>",
+            "prereq": [
+                {
+                    "value": "expert dans n'importe quelle compétence de Connaissance"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affiliée à l'École des parchemins"
                 }
             ]
         },

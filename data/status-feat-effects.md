@@ -1,11 +1,10 @@
 # État de la traduction (feat-effects)
 
- * **libre**: 183
- * **aucune**: 13
- * **vide**: 2
+ * **libre**: 188
+ * **aucune**: 10
 
 
-Dernière mise à jour: 2022-03-09 11:03 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,25 +12,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
-|[01-aEuDaQY1GnrrnDRA.htm](feat-effects/01-aEuDaQY1GnrrnDRA.htm)|Effect: Aldori Parry|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|
-|[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|
 |[01-lbe8XDSZB8gwyg90.htm](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|
 |[01-oKJr59FYdDORxLcR.htm](feat-effects/01-oKJr59FYdDORxLcR.htm)|Effect: Worldly Mentor Boon (PFS)|
 |[01-OKOqC1wswrh9jXqP.htm](feat-effects/01-OKOqC1wswrh9jXqP.htm)|Effect: Protective Mentor Boon (Liked) (PFS)|
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
-|[01-W8HWQ47YNHWB8kj6.htm](feat-effects/01-W8HWQ47YNHWB8kj6.htm)|Effect: Topple Giants|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
-
-## Liste des éléments vides ne pouvant pas être traduits
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[01-6VrKQ0PhRXuteusQ.htm](feat-effects/01-6VrKQ0PhRXuteusQ.htm)|Effect: Giant's Stature|vide|
-|[01-RcxDIOa68SUGyMun.htm](feat-effects/01-RcxDIOa68SUGyMun.htm)|Effect: Titan's Stature|vide|
 
 ## Liste des traductions complétés
 
@@ -69,9 +58,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|Chant Gobelin (Succès)|libre|
 |[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|Posture : Protection du Parangon|libre|
 |[01-6LgJB4ypaSTWSJLu.htm](feat-effects/01-6LgJB4ypaSTWSJLu.htm)|Effect: Blade Ally Fearsome Rune|Effet : Allié lame rune Effrayante|libre|
+|[01-6VrKQ0PhRXuteusQ.htm](feat-effects/01-6VrKQ0PhRXuteusQ.htm)|Effect: Giant's Stature|Effet : Stature de géant|libre|
 |[01-7hRgBo0fRQBxMK7g.htm](feat-effects/01-7hRgBo0fRQBxMK7g.htm)|Effect: Distracting Feint|Effet : Feinte de diversion|libre|
 |[01-9HPxAKpP3WJmICBx.htm](feat-effects/01-9HPxAKpP3WJmICBx.htm)|Stance: Point-Blank Shot|Posture : Tir à bout portant|libre|
 |[01-9kNbiZPOM2wy60ao.htm](feat-effects/01-9kNbiZPOM2wy60ao.htm)|Effect: Ceremony of Protection|Effet : Cérémonie de protection|libre|
+|[01-aEuDaQY1GnrrnDRA.htm](feat-effects/01-aEuDaQY1GnrrnDRA.htm)|Effect: Aldori Parry|Effet : Parade aldorie|libre|
 |[01-AJlunjfAIOq2Sg0p.htm](feat-effects/01-AJlunjfAIOq2Sg0p.htm)|Effect: Underground Endemic Herbs|Effet : Herbes endémiques Souterrains|libre|
 |[01-AKKHagjg5bL1fMG5.htm](feat-effects/01-AKKHagjg5bL1fMG5.htm)|Effect: Overwatch Field|Effet : Champ du guetteur|libre|
 |[01-aWOvmdaTK1jS3H72.htm](feat-effects/01-aWOvmdaTK1jS3H72.htm)|Effect: Lost in the Crowd (10 Creatures)|Effet : Se perdre dans la foule (10 créatures)|libre|
@@ -98,6 +89,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|Effet : Herbes endémiques Plaine|libre|
 |[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|Effet : Allié lame Pertubatrice supérieur|libre|
 |[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|Effet : Présivisible ! (Succès critique)|libre|
+|[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|Effet : Manœuvres hydrauliques|libre|
 |[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|Effet : Lire les signes distinctifs|libre|
 |[01-JF2xCqL6t4UJZtUi.htm](feat-effects/01-JF2xCqL6t4UJZtUi.htm)|Effect: Blizzard Evasion|Effet : Évasion du blizzard|libre|
 |[01-JQUoBlZKT5N5zO5k.htm](feat-effects/01-JQUoBlZKT5N5zO5k.htm)|Effect: Avenge in Glory|Effet : Revanche dans la gloire|libre|
@@ -128,6 +120,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-QDQwHxNowRwzUx9R.htm](feat-effects/01-QDQwHxNowRwzUx9R.htm)|Effect: Reflective Ripple Stance|Effet : Posture de l'onde réfléchissante|libre|
 |[01-qIOEe4kUN7FOBifb.htm](feat-effects/01-qIOEe4kUN7FOBifb.htm)|Effect: Hybrid Form|Effet : Forme hybride|libre|
 |[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|Effet : Herbes endémiques Montagnes|libre|
+|[01-RcxDIOa68SUGyMun.htm](feat-effects/01-RcxDIOa68SUGyMun.htm)|Effect: Titan's Stature|Effet : Stature de titan|libre|
 |[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|Effet : Allié lame rune Spectrale|libre|
 |[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|Effet : Allié lame rune Impie|libre|
 |[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|Posture : Posture de la flamme ravivée|libre|
@@ -138,6 +131,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-VIScVb6Hl7KwoWfH.htm](feat-effects/01-VIScVb6Hl7KwoWfH.htm)|Effect: Bolera's Interrogation (Critical Failure)|Effet : Interrogatoire de Boléra (échec critique)|libre|
 |[01-vQj9I3FShzx3lNoG.htm](feat-effects/01-vQj9I3FShzx3lNoG.htm)|Effect: Deep Freeze (Failure)|Effet : Congélation profonde(Échec)|libre|
 |[01-W2tWq0gdAcnoz2MO.htm](feat-effects/01-W2tWq0gdAcnoz2MO.htm)|Effect: Monster Hunter|Effet : Chasseur de monstres|libre|
+|[01-W8HWQ47YNHWB8kj6.htm](feat-effects/01-W8HWQ47YNHWB8kj6.htm)|Effect: Topple Giants|Effet : Renverser les géants|libre|
 |[01-WKbsjhjYIMv59JQg.htm](feat-effects/01-WKbsjhjYIMv59JQg.htm)|Effect: Deep Freeze (Success)|Effet : Congélation profonde (Succès)|libre|
 |[01-WrWSieH9Acy6XuzV.htm](feat-effects/01-WrWSieH9Acy6XuzV.htm)|Effect: Educate Allies (Ally)|Effet : Alliés instruits (Allié)|libre|
 |[01-X1pGyhMKrCTvHB0q.htm](feat-effects/01-X1pGyhMKrCTvHB0q.htm)|Effect: Favorable Winds|Effet : Vents favorables|libre|

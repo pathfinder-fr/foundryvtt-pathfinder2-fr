@@ -247,6 +247,11 @@
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.dHUoQVzDa9Cf4QCG]{Bouclier instinctif} lorsque vous Levez le bouclier qui vous octroie un bonus de circonstances de +2 à votre CA.</p>\n<p>Vous bénéficiez du bonus de circonstances de votre bouclier sur vos jets de Réflexes.</p>"
         },
         {
+            "id": "Effect: Aldori Parry",
+            "name": "Effect: Aldori Parry",
+            "description": "<p><strong>Conditions</strong> Vous brandissez seulement une épée de duel aldorie et votre (ou vos) autre main est libre.</p>\n<hr>\n<p>Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous remplissez les conditions.</p>"
+        },
+        {
             "id": "Effect: Bolera's Interrogation (failure)",
             "name": "Effect: Bolera's Interrogation (failure)",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.cBYTVYqw1EFVEuzs]{Interrogatoire de Boléra}</p>\n<p>En cas d'échec, la créature est incapable de proférer n'importe quel mensonge intentionnellement set subit une pénalité de circonstances de -2 aux tests de Duperie. Cet effet dure pendant 10 minutes tant que vous restez dans les 9 mètres de la cible et que la cible est consciente que vous utilisez cette capacité contre elle. Si vous commencez un nouvel interrogatoire, cet effet se termine pour n'importe quelle cible précédente. Lorsque votre interrogatoire est terminé, la cible est immunisée à cette capacité pendant 24 heures.</p>"
@@ -270,6 +275,11 @@
             "id": "Stance: Cobra Stance (Cobra Envenom)",
             "name": "Stance: Cobra Stance (Cobra Envenom)",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AkV4Jyllo6nlK2Sl]{Posture du cobra} si vous avez @Compendium[pf2e.feats-srd.xQuNswWB3eg1UM28]{Venin du cobra}, qui augmente le bonus de circonstances aux jets de sauvegarde Vigueur et augmente le DD Vigueur à +2.</p>\n<p>Vous prenez une posture tendue en spirale comme celle du cobra dressé avec vos mains prêtes comme des crochets venimeux.</p>\n<p>Dans cette posture, Les seules Frappes que vous pouvez faire sont les attaques à mains nues des crochets du cobra. Elles infligent 1d4 dégâts de poison ; elles sont dans le groupe pugilat ; elles possèdent les traits à mains nues, agile, finesse, mortel d10, non-létal et poison.</p>\n<p>Dans la posture du Cobra, vous obtenez un bonus de circonstances de +2 aux jets de Vigueur, au DD de Vigueur et vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>"
+        },
+        {
+            "id": "Effect: Titan's Stature",
+            "name": "Effect: Titan's Stature",
+            "description": ""
         },
         {
             "id": "Effect: Emblazon Energy (Weapon, Fire)",
@@ -410,6 +420,11 @@
             "id": "Stance: Everstand Stance",
             "name": "Stance: Everstand Stance",
             "description": "<p>Dans cette posture, vous tenez le bouclier avec vos deux mains. Lorsque vous le tenez de cette façon, vous augmentez le dé de dégât de l'embossement ou des piques du bouclier d'une catégorie et vous augmentez la Solidité du bouclier de 2 lorsque vous utilisez la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier}.</p>"
+        },
+        {
+            "id": "Effect: Giant's Stature",
+            "name": "Effect: Giant's Stature",
+            "description": ""
         },
         {
             "id": "Effect: Liberating Step (vs. Aberration)",
@@ -587,6 +602,11 @@
             "description": "<p>GAccordé par @Compendium[pf2e.feats-srd.xoIxiRtBVHV27Rvd]{Égide divine}</p>\n<p>Jusqu'au début de votre prochain tour, vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets magiques non divins, mais subissez aussi une pénalité de circonstances de –1 aux jets de sauvegarde contre les effets divins.</p>"
         },
         {
+            "id": "Effect: Topple Giants",
+            "name": "Effect: Topple Giants",
+            "description": "<p>Lorsqu'un allié dans votre champ du guetteur tente de @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}, de @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou de faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} à un adversaire dans votre champ de guetteur et obtient un échec, vous coordonnez les efforts pour procurer un bonus de circonstances de +2 au prochain test d'Athlétisme lancé par un allié différent pour tenter la même action sur la même cible avant le prochain tour de cette cible.</p>"
+        },
+        {
             "id": "Effect: Formation Training",
             "name": "Effect: Formation Training",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.aoz9dCq2NynyUYEf]{Combat en formation}</p>\n<hr />\n<p>Vous avez appris à vous battre en formation avec vos frères. Lorsque vous êtes adjacent à au moins deux alliés hobgobelins, vous gagnez un bonus de circonstances de +1 à votre CA et à vos jets de sauvegarde. Ce bonus passe à +2 sur vos jets de Réflexes contre les effets de zone.</p>"
@@ -760,6 +780,11 @@
             "id": "Effect: Divine Weapon (Force)",
             "name": "Effect: Divine Weapon (Force)",
             "description": "<p>Accordé par @Compendium[pf2e.feats-srd.Trj5azJlaOk5jgBi]{Arme divine}.</p>\n<p>Jusqu'à la fin de votre tour, votre arme inflige 1d4 dégâts de force supplémentaires.</p>"
+        },
+        {
+            "id": "Effect: Hydraulic Deflection",
+            "name": "Effect: Hydraulic Deflection",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.kqRFoXfErUFEndIs]{Manœuvres Hydrauliques}</p>"
         },
         {
             "id": "Effect: Legendary Monster Hunter",

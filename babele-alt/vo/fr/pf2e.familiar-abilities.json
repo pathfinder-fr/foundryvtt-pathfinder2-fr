@@ -254,12 +254,12 @@
         {
             "id": "Restorative Familiar",
             "name": "Restorative Familiar",
-            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait Concentration pour partager un peu de son énergie vitale et vous guérir. Il doit être dans votre espace pour pouvoir le faire.  Il vous restaure un nombre de points de vie égal à [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 fois la moitié de votre niveau} (minimum 1d8).</p>"
+            "description": "<p>Une fois par jour, votre familier peut utiliser 2 actions avec le trait Concentration pour partager un peu de son énergie vitale et vous guérir. Il doit être dans votre case pour pouvoir le faire.  Il vous permet de récupérer un nombre de points de vie égal à [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 fois la moitié de votre niveau} (minimum 1d8).</p>"
         },
         {
             "id": "Lab Assistant",
             "name": "Lab Assistant",
-            "description": "<p>Votre familier peut utiliser votre action Alchimie rapide. Vous devez posséder Alchimie rapide et votre familier doit se trouver dans votre espace. Il l'accomplit au même coût et aux mêmes conditions que si vous l’utilisiez. Votre familier doit avoir le pouvoir Dextérité manuelle pour pouvoir sélectionner ce pouvoir.</p>"
+            "description": "<p>Votre familier peut utiliser votre action Alchimie rapide. Vous devez posséder Alchimie rapide et votre familier doit se trouver dans votre case. Il l'accomplit au même coût et aux mêmes conditions que si vous l’utilisiez. Votre familier doit avoir le pouvoir Dextérité manuelle pour pouvoir sélectionner ce pouvoir.</p>"
         },
         {
             "id": "Grasping Tendrils",
