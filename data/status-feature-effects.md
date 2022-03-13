@@ -38,7 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-OzA7pUzYe2ZIprYJ.htm](feature-effects/01-OzA7pUzYe2ZIprYJ.htm)|Effect: Major Martial Ancestor Curse|
 |[01-pQ3EjUm1lZW9t3el.htm](feature-effects/01-pQ3EjUm1lZW9t3el.htm)|Effect: Battle Curse|
 |[01-PX6WdrpzEdUzKRHx.htm](feature-effects/01-PX6WdrpzEdUzKRHx.htm)|Effect: Enduring Debilitating Strike|
-|[01-Q5FUu7yhWPJlcXei.htm](feature-effects/01-Q5FUu7yhWPJlcXei.htm)|Effect: Hydration|
+|[01-Q5FUu7yhWPJlcXei.htm](feature-effects/01-Q5FUu7yhWPJAgrlcXei.htm)|Effect: Hydration|
 |[01-rhG0ZcTBxfxGve5k.htm](feature-effects/01-rhG0ZcTBxfxGve5k.htm)|Effect: Major Lore Curse|
 |[01-rJpkKaPRGaH0pLse.htm](feature-effects/01-rJpkKaPRGaH0pLse.htm)|Effect: Fey Blood Magic|
 |[01-ruRAfGJnik7lRavk.htm](feature-effects/01-ruRAfGJnik7lRavk.htm)|Effect: Nymph Blood Magic (Target)|
