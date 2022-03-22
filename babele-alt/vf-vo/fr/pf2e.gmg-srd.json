@@ -24,12 +24,12 @@
         {
             "id": "Fool",
             "name": "Fou (Fool)",
-            "description": "<p>Vous perdez <a class=\"inline-roll roll\" title=\"1d10*100\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d10*100\"><i class=\"fas fa-dice-d20\"></i> 1d10×100</a> PX à moins de piocher deux autres cartes.</p>"
+            "description": "<p>Vous perdez [[/r 1d10*100 #XP]]{1d10×100 PX} à moins de piocher deux autres cartes.</p>"
         },
         {
             "id": "Dullard",
             "name": "Idiot (Dullard)",
-            "description": "<p>Perdez immédiatement 1d4+1 d'Intelligence. Vous pouvez alors piocher une carte supplémentaire et la carte de l'idiot disparaît à jamais.</p>"
+            "description": "<p>Perdez immédiatement [[/r {1d4+1} #Dullard Intelligence Decrease]]{1d4+1 d'Intelligence}. Vous pouvez alors piocher une carte supplémentaire et la carte de l'idiot disparaît à jamais.</p>"
         },
         {
             "id": "Magician",
@@ -68,13 +68,13 @@
         },
         {
             "id": "The Dead One",
-            "name": "Lé défunt (The Dead One)",
-            "description": "<p>Une des personnes vous ayant le plus influencé était une créature morte-vivante intelligente, comme un fantôme, une liche, un chevalier sépulcre ou un vampire. Au cours de cette étrange relation, il vous a raconté sa vie de mortel et vous a ainsi permis de mettre en perspective votre propre vie.</p><p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.</p>"
+            "name": "Le défunt (The Dead One)",
+            "description": "<p>Une des personnes vous ayant le plus influencé était une créature morte-vivante intelligente, comme un fantôme, une liche, un chevalier sépulcre ou un vampire. Au cours de cette étrange relation, il vous a raconté sa vie de mortel et vous a ainsi permis de mettre en perspective votre propre vie.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.</p>"
         },
         {
             "id": "Knight",
             "name": "Chevalier (Knight)",
-            "description": "<p>Un <a class=\"entity-link\" ; draggable=\"true\" ; data-pack=\"pf2e. npc-gallery\" ; data-id=\"B13dyXTo1xWVyj2R\"><i class=\"fas fa-user\"></i>Garde du palais</a> arrive et vous jure une fidélité sans faille.</p>"
+            "description": "<p>Un @Compendium[pf2e.npc-gallery.B13dyXTo1xWVyj2R]{Garde du palais} arrive et vous jure une fidélité sans faille.</p>"
         },
         {
             "id": "Timely Cure",
@@ -103,7 +103,7 @@
         },
         {
             "id": "Comrade-in-Arms",
-            "name": "Fréres d'armes (Comrade-in-Arms)",
+            "name": "Frères d'armes (Comrade-in-Arms)",
             "description": "<p>Ce Personnage et vous avez autrefois servi dans la même armée et vous vous étes entraînés ensemble pour améliorer votre condition physique.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} associé a l'Athlétisme à vos options d'historique.</p>"
         },
         {
@@ -119,12 +119,12 @@
         {
             "id": "Itinerant",
             "name": "Itinérant (Itinerant)",
-            "description": "<p>Vous n'avez jamais eu de foyer à proprement parler. Vous avez peut-être grandi dans une caravane nomade, avec un groupe de bateleurs itinérants, ou une bande de contrebandiers</p>\n<p>Ajoutez Connaissance du cirque, Connaissance de la voyance, Connaissance des jeux, Connaissance du travail et Connaissance de la Pègre à vos options d'historique.</p>"
+            "description": "<p>Vous n'avez jamais eu de foyer à proprement parler. Vous avez peut-être grandi dans une caravane nomade, avec un groupe de bateleurs itinérants ou un cercle de contrebandiers</p>\n<p>Ajoutez Connaissance du cirque, Connaissance de la voyance, Connaissance ludique, Connaissance du travail et Connaissance de la Pègre à vos options d'historique.</p>"
         },
         {
             "id": "Captured by Giants",
             "name": "Capturé par des géants (Captured by Giants)",
-            "description": "<p>Vous avez été capturé par des géants en maraude et vous avez été forcé de vous battre pour leurs échapper.</p>\n<p>Ajoutez le don de compétence Lutte contre les titans a vos options d'historique.</p>"
+            "description": "<p>Vous avez été capturé par des géants en maraude et vous avez été forcé de vous battre pour leurs échapper.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.KxaYlC50zzHysJj8]{Lutte contre les titans} a vos options d'historique.</p>"
         },
         {
             "id": "Attained a Magical Gift",
@@ -144,7 +144,7 @@
         {
             "id": "The Void",
             "name": "Le néant (The Void)",
-            "description": "<p>Votre esprit est emprisonné à jamais. La carte est capricieuse mais elle emprisonne souvent l’esprit dans un objet situé sur une planète ou un plan lointain. Un <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{souhait}</em> ou une magie similaire peut révéler l’endroit où est emprisonné votre esprit mais cela ne permet pas de le libérer. Votre corps comateux continue à vivre. Vous ne piochez plus de carte.</p>"
+            "description": "<p>Votre esprit est emprisonné à jamais. La carte est capricieuse mais elle emprisonne souvent l’esprit dans un objet situé sur une planète ou un plan lointain. Un <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}</em> ou une magie similaire peut révéler l’endroit où est emprisonné votre esprit mais cela ne permet pas de le libérer. Votre corps comateux continue à vivre. Vous ne piochez plus de carte.</p>"
         },
         {
             "id": "Gem",
@@ -154,7 +154,7 @@
         {
             "id": "Throne",
             "name": "Trône (Throne)",
-            "description": "<p>Vous gagnez un bonus de statut de +4 permanent à vos tests de Diplomatie et vous possédez désormais un petit château dans la région dégagée de votre choix. Vous devez choisir sa localisation dans un délai d’une heure.</p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spell-effects\" data-id=\"Zb8RYgmzCI6fQE0o\"><i class=\"fas fa-suitcase\"></i>Effet : Carte Trône</a></p>"
+            "description": "<p>Vous gagnez un bonus de statut de +4 permanent à vos tests de Diplomatie et vous possédez désormais un petit château dans la région dégagée de votre choix. Vous devez choisir sa localisation dans un délai d’une heure.</p>\n<p>@Compendium[pf2e.equipment-effects.Zb8RYgmzCI6fQE0o]{Effet : Carte Trône}</p>"
         },
         {
             "id": "Matter of Might",
@@ -179,7 +179,7 @@
         {
             "id": "Euryale (curse)",
             "name": "Euryale (malédiction) (Euryale (curse))",
-            "description": "<p>L’image d’une méduse vous maudit avec un malus de statut permanent de −1 à tous vos jets de sauvegarde. Cette malédiction ne peut être levée que par une divinité ou la carte Les Parques.</p>\n<p><a class=\"entity-link\" draggable=\"true\" data-pack=\"pf2e.spell-effects\" data-id=\"8ersuvNJXX00XaIQ\"><i class=\"fas fa-suitcase\"></i>Effet : carte Euryale (malédiction)</a></p>"
+            "description": "<p>L’image d’une méduse vous maudit avec un malus de statut permanent de −1 à tous vos jets de sauvegarde. Cette malédiction ne peut être levée que par une divinité ou la carte Les Parques.</p>\n<p>@Compendium[pf2e.equipment-effects.8ersuvNJXX00XaIQ]{Effet : carte Euryale (malédiction)}</p>"
         },
         {
             "id": "Academy Trained",
@@ -274,7 +274,7 @@
         {
             "id": "Called Before Judges",
             "name": "Convoqué devant les juges (Called Before Judges)",
-            "description": "Des informations fournies par ce personnage (intentionnellement ou non) vous ont mené à devoir vous défendre devant un groupe de bureaucrates ou de magistrats.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe} à vos options d’historique.</p>"
+            "description": "<p>Des informations fournies par ce personnage (intentionnellement ou non) vous ont mené à devoir vous défendre devant un groupe de bureaucrates ou de magistrats.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Bonne impression de groupe} à vos options d’historique.</p>"
         },
         {
             "id": "Homelessness",
@@ -329,7 +329,7 @@
         {
             "id": "Jester",
             "name": "Bouffon (Jester)",
-            "description": "<p>Soit vous piochez deux autres cartes, soit vous gagnez <a class=\"inline-roll roll\" title=\"1d10*100\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d10*100\"><i class=\"fas fa-dice-d20\"></i>1d10×100</a> PX. Puis cette carte disparaît à jamais.</p>"
+            "description": "<p>Soit vous piochez deux autres cartes, soit vous gagnez [[/r 1d10*100 #XP]]{1d10*100 XP}{1d10×100 PX}. Puis cette carte disparaît à jamais.</p>"
         },
         {
             "id": "Talons",
@@ -389,12 +389,12 @@
         {
             "id": "Missing Child",
             "name": "Enfant perdu (Missing Child)",
-            "description": "<p>. Quand un enfant de votre famille a disparu dans un marché bondé, ce personnage vous a aidé à interroger les marchands et les clients et à retrouver l’enfant avant qu’il ne lui arrive malheur.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social} à vos options d’historique.</p>"
+            "description": "<p>Quand un enfant de votre famille a disparu dans un marché bondé, ce personnage vous a aidé à interroger les marchands et les clients et à retrouver l’enfant avant qu’il ne lui arrive malheur.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Animal social} à vos options d’historique.</p>"
         },
         {
             "id": "Moon",
             "name": "Lune (Moon)",
-            "description": "<p>Lancez <a class=\"inline-roll roll\" ; title=\"1d4\" ; data-mode=\"roll\" ; data-flavor=\"\" ; data-formula=\"1d4\">< ; i class=\"fas fa-dice-d20\"></i> 1d4</a> pour déterminer le nombre de souhaits accordés par cette carte, ce qui affecteaussi la phase de la lune représentée sur la carte (1 : croissant de lune ; 2 : demi-lune ; 3 : lune gibbeuse ; 4 : pleine lune). Il faut une action pour formuler chacun de ces vœux et ils ont le même effet qu’un \nsort <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}</em>.</p>"
+            "description": "<p>Lancez Roll [[/r {1d4} #Wishes]]{1d4 Souhaits} pour déterminer le nombre de souhaits accordés par cette carte, ce qui affecte aussi la phase de la lune représentée sur la carte (1 : croissant de lune ; 2 : demi-lune ; 3 : lune gibbeuse ; 4 : pleine lune). Il faut une action pour formuler chacun de ces vœux et ils ont le même effet qu’un sort <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Souhait}</em>.</p>"
         },
         {
             "id": "The Relative",
@@ -424,7 +424,7 @@
         {
             "id": "Flames",
             "name": "Flammes (Flames)",
-            "description": "<p>Par colère, envie, jalousie ou pour une autre raison, vous suscitez l’hostilité d’un fiélon. Seule sa mort ou la vôtre peuvent mettre un terme à cette haine. Il vous attaque ou tente de vous contrer dans un délai de <a class=\"inline-roll roll\" title=\"1d20\" data-mode=\"roll\" data-flavor=\"\" data-formula=\"1d20\"><i class=\"fas fa-dice-d20\"></i>1d20</a> jours.</p>\n<p>Le MJ détermine les détails concernant ce fiélon.</p>"
+            "description": "<p>Par colère, envie, jalousie ou pour une autre raison, vous suscitez l’hostilité d’un fiélon. Seule sa mort ou la vôtre peuvent mettre un terme à cette haine. Il vous attaque ou tente de vous contrer dans un délai de [[/r 1d20 #days]]{1d20 jours}.</p>\n<p>Le MJ détermine les détails concernant ce fiélon.</p>"
         },
         {
             "id": "The Criminal",
@@ -474,7 +474,7 @@
         {
             "id": "Another Ancestry's Settlement",
             "name": "Une communauté d'une autre ascendance (Another Ancestry's Settlement)",
-            "description": "<p> Déterminez\naléatoirement une autre ascendance courante : vous avez grandi au milieu de membres de celle-ci. Relancez un dé dans ce tableau (avec un modificateur adapté à cette nouvelle ascendance le cas échéant) afin de déterminer le type de communauté dans laquelle vous avez grandi (par exemple si votre gnome a grandi avec des nains et obtient 3 à son jet de dé, il a alors grandi sous terre).</p>\n<p>Ajoutez le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} et la compétence de Connaissance associée à votre ascendance d’adoption (comme Connaissance des nains) à vos options d’historique. Si vous sélectionnez ce don au lieu d’un don de compétence, vous n’êtes pas qualifié dans une compétence d’historique.</p>"
+            "description": "<p> Déterminez aléatoirement une autre ascendance courante : vous avez grandi au milieu de membres de celle-ci. Relancez un dé dans ce tableau (avec un modificateur adapté à cette nouvelle ascendance le cas échéant) afin de déterminer le type de communauté dans laquelle vous avez grandi (par exemple si votre gnome a grandi avec des nains et obtient 3 à son jet de dé, il a alors grandi sous terre).</p>\n<p>Ajoutez le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} et la compétence de Connaissance associée à votre ascendance d’adoption (comme Connaissance des nains) à vos options d’historique. Si vous sélectionnez ce don au lieu d’un don de compétence, vous n’êtes pas qualifié dans une compétence d’historique.</p>"
         },
         {
             "id": "Academic Community",

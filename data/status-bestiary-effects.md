@@ -2,11 +2,11 @@
 
  * **libre**: 33
  * **vide**: 10
- * **aucune**: 86
+ * **aucune**: 87
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -49,13 +49,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pfG1S7yShwkHT9e0.htm](bestiary-effects/pfG1S7yShwkHT9e0.htm)|Effect: Calming Bioluminescence|
 |[PJxUFFeAvQJ4l52f.htm](bestiary-effects/PJxUFFeAvQJ4l52f.htm)|Effect: Choose Weakness|
 |[pMPe01GWvfwcYwUR.htm](bestiary-effects/pMPe01GWvfwcYwUR.htm)|Effect: Defensive Assault|
+|[pvA97TXnq7wCbXp6.htm](bestiary-effects/pvA97TXnq7wCbXp6.htm)|Effect: Call to Halt (Success)|
 |[QDs8t1U1IepzYlyi.htm](bestiary-effects/QDs8t1U1IepzYlyi.htm)|Effect: Sylvan Wine|
 |[Qomp2EujVCbzJb4X.htm](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|
 |[QpG9AaYpXJzDEjZA.htm](bestiary-effects/QpG9AaYpXJzDEjZA.htm)|Effect: Devour Soul|
 |[QqC9xymSXSVunDgl.htm](bestiary-effects/QqC9xymSXSVunDgl.htm)|Effect: Tail Lash (Attack Roll)|
 |[R8clbf7gtIlU3fIj.htm](bestiary-effects/R8clbf7gtIlU3fIj.htm)|Effect: Crush of Hundreds|
 |[RAKgTTFKc2YEbvrc.htm](bestiary-effects/RAKgTTFKc2YEbvrc.htm)|Effect: Hallucinogenic Pollen (Critical Failure)|
-|[rbgXQqXbpaQCcNNx.htm](bestiary-effects/rbgXQqXbpaQCcNNx.htm)|Read the Stars (Critical Success)|
+|[rbgXQqXbpaQCcNNx.htm](bestiary-effects/rbgXQqXbpaQCcNNx.htm)|Effect: Read the Stars (Critical Success)|
 |[rpxdrOlzY2SOtMWB.htm](bestiary-effects/rpxdrOlzY2SOtMWB.htm)|Effect: Whirlwind Form|
 |[ryY6fdqpC5Ztnagd.htm](bestiary-effects/ryY6fdqpC5Ztnagd.htm)|Effect: Dirty Bomb (Critical Failure)|
 |[S38CM3hyr7DnsmRR.htm](bestiary-effects/S38CM3hyr7DnsmRR.htm)|Effect: Devour Soul (Victim Level 15 or Higher)|

@@ -1,27 +1,18 @@
 # État de la traduction (spells)
 
- * **libre**: 604
- * **officielle**: 553
- * **changé**: 10
+ * **libre**: 612
+ * **officielle**: 554
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[abjuration-02-02J0rDTk37KN2sjt.htm](spells/abjuration-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|changé|
-|[abjuration-03-9TauMFkIsmvKJNzZ.htm](spells/abjuration-03-9TauMFkIsmvKJNzZ.htm)|Elemental Absorption|Absorption élémentaire|changé|
-|[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|changé|
 |[abjuration-04-LoBjvguamA12iyW0.htm](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|changé|
-|[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|Armure chromatique|changé|
-|[enchantment-02-b515AZlB0sridKSq.htm](spells/enchantment-02-b515AZlB0sridKSq.htm)|Calm Emotions|Apaisement des émotions|changé|
-|[necromancy-01-IxyD7YdRbSSucxZp.htm](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|Imposition des mains (sur un mort-vivant)|changé|
-|[necromancy-04-PtX16vbWzDehj8qc.htm](spells/necromancy-04-PtX16vbWzDehj8qc.htm)|Pernicious Poltergeist|Poltergeist pernicieux|changé|
-|[transmutation-03-0gdZrT9lwO17EIxc.htm](spells/transmutation-03-0gdZrT9lwO17EIxc.htm)|Ooze Form|Forme de vase|changé|
-|[transmutation-04-0fYE64odlKqISzft.htm](spells/transmutation-04-0fYE64odlKqISzft.htm)|Rusting Grasp|Poigne oxydante|changé|
 
 ## Liste des traductions complétés
 
@@ -61,6 +52,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-01-xM35hJacTM1BSXUl.htm](spells/abjuration-01-xM35hJacTM1BSXUl.htm)|Silver's Refrain|Refrain d'argent|libre|
 |[abjuration-01-Z7N5IxJCwrAdIgSg.htm](spells/abjuration-01-Z7N5IxJCwrAdIgSg.htm)|Message Rune|Rune messagère|libre|
 |[abjuration-01-zlnXpME1T2uvn8Lr.htm](spells/abjuration-01-zlnXpME1T2uvn8Lr.htm)|Pass Without Trace|Passage sans trace|officielle|
+|[abjuration-02-02J0rDTk37KN2sjt.htm](spells/abjuration-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|libre|
 |[abjuration-02-24U1b9K4Lj94cgaj.htm](spells/abjuration-02-24U1b9K4Lj94cgaj.htm)|Magnetic Repulsion|Répulsion magnétique|libre|
 |[abjuration-02-5esP2GVzvxWsMgaX.htm](spells/abjuration-02-5esP2GVzvxWsMgaX.htm)|Endure Elements|Endurance aux éléments|officielle|
 |[abjuration-02-66xBcxqzYcpbItBU.htm](spells/abjuration-02-66xBcxqzYcpbItBU.htm)|Purify Soul Path|Purifier le chemin de l'âme|libre|
@@ -73,6 +65,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-02-Y8cSjhU33oUqccxJ.htm](spells/abjuration-02-Y8cSjhU33oUqccxJ.htm)|Brand the Impenitent|Marquer l'impénitent|libre|
 |[abjuration-02-YWrfKetOqDwVFut7.htm](spells/abjuration-02-YWrfKetOqDwVFut7.htm)|Barkskin|Peau d'écorce|officielle|
 |[abjuration-03-3ipOKanMLnJrPwbr.htm](spells/abjuration-03-3ipOKanMLnJrPwbr.htm)|Guardian's Aegis|Égide du gardien|libre|
+|[abjuration-03-9TauMFkIsmvKJNzZ.htm](spells/abjuration-03-9TauMFkIsmvKJNzZ.htm)|Elemental Absorption|Absorption élémentaire|libre|
 |[abjuration-03-CIjj9CU5ekeq1oLT.htm](spells/abjuration-03-CIjj9CU5ekeq1oLT.htm)|Warding Aggression|Agression protectrice|libre|
 |[abjuration-03-EoKBlgf6Smt8opaU.htm](spells/abjuration-03-EoKBlgf6Smt8opaU.htm)|Nondetection|Antidétection|officielle|
 |[abjuration-03-FPnkOYyWIaOzkmqn.htm](spells/abjuration-03-FPnkOYyWIaOzkmqn.htm)|Untwisting Iron Buffer|Protection du fer qui ne plie pas|officielle|
@@ -95,10 +88,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-eG1fBodYwolaXK98.htm](spells/abjuration-04-eG1fBodYwolaXK98.htm)|Enduring Might|Puissance protectrice|officielle|
 |[abjuration-04-ER1LOEgCLtmEKd05.htm](spells/abjuration-04-ER1LOEgCLtmEKd05.htm)|Ravenous Portal|Portail affamé|libre|
 |[abjuration-04-GjmMFEJcDd6MDG2P.htm](spells/abjuration-04-GjmMFEJcDd6MDG2P.htm)|Spiritual Attunement|Harmonisation spirituelle|libre|
+|[abjuration-04-GoKkejPj5yWJPIPK.htm](spells/abjuration-04-GoKkejPj5yWJPIPK.htm)|Adaptive Ablation|Ablation adaptative|libre|
 |[abjuration-04-IT1aaqDBAISlHDUV.htm](spells/abjuration-04-IT1aaqDBAISlHDUV.htm)|Achaekek's Clutch|Étreinte d'Achaékek|libre|
 |[abjuration-04-JOdOpbPDl7nqvJUm.htm](spells/abjuration-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|Globe d'invulnérabilité|officielle|
 |[abjuration-04-ksLCg62cLOojw3gN.htm](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|Ancre dimensionnelle|officielle|
 |[abjuration-04-Mv5L4201uk8hnAtD.htm](spells/abjuration-04-Mv5L4201uk8hnAtD.htm)|Reflective Scales|Écailles réfléchisantes|libre|
+|[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|Armure chromatique|libre|
 |[abjuration-04-onjZCEHs3JJJRTD0.htm](spells/abjuration-04-onjZCEHs3JJJRTD0.htm)|Private Sanctum|Sanctuaire secret|officielle|
 |[abjuration-04-OsrtOeG0TvDNnEFH.htm](spells/abjuration-04-OsrtOeG0TvDNnEFH.htm)|Safeguard Secret|Secret bien gardé|officielle|
 |[abjuration-04-qJQADktwD0x8kLAy.htm](spells/abjuration-04-qJQADktwD0x8kLAy.htm)|Resilient Sphere|Sphère d'isolement|officielle|
@@ -450,6 +445,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-YVK3JUkPVzHIeGXQ.htm](spells/enchantment-01-YVK3JUkPVzHIeGXQ.htm)|Cackle|Gloussement|libre|
 |[enchantment-02-29JyWqqZ0thCFr1C.htm](spells/enchantment-02-29JyWqqZ0thCFr1C.htm)|Mind Games|Jeux d'esprit|libre|
 |[enchantment-02-5pwK2FZX6QwgtfqX.htm](spells/enchantment-02-5pwK2FZX6QwgtfqX.htm)|Inveigle|Envoûtement|officielle|
+|[enchantment-02-b515AZlB0sridKSq.htm](spells/enchantment-02-b515AZlB0sridKSq.htm)|Calm Emotions|Apaisement des émotions|officielle|
 |[enchantment-02-bH0kPuf7UKxRvi2P.htm](spells/enchantment-02-bH0kPuf7UKxRvi2P.htm)|Inspire Defense|Inspiration défensive|officielle|
 |[enchantment-02-c8R2fpk88fBwJ1ie.htm](spells/enchantment-02-c8R2fpk88fBwJ1ie.htm)|Triple Time|À trois temps|officielle|
 |[enchantment-02-CQb8HtQ1BPeZmu9h.htm](spells/enchantment-02-CQb8HtQ1BPeZmu9h.htm)|Touch of Idiocy|Idiotie|officielle|
@@ -876,6 +872,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-01-gSUQlTDYoLDGAsCP.htm](spells/necromancy-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|libre|
 |[necromancy-01-GYI4xloAgkm6tTrT.htm](spells/necromancy-01-GYI4xloAgkm6tTrT.htm)|Touch of Undeath|Toucher de la non-mort|officielle|
 |[necromancy-01-HG4afO9EOGEU9bZN.htm](spells/necromancy-01-HG4afO9EOGEU9bZN.htm)|Death's Call|Appel de la mort|officielle|
+|[necromancy-01-IxyD7YdRbSSucxZp.htm](spells/necromancy-01-IxyD7YdRbSSucxZp.htm)|Lay on Hands (Vs. Undead)|Imposition des mains (sur un mort-vivant)|libre|
 |[necromancy-01-J7Y7tl0bbdz7TcCc.htm](spells/necromancy-01-J7Y7tl0bbdz7TcCc.htm)|Ray of Enfeeblement|Rayon affaiblissant|officielle|
 |[necromancy-01-jFmWSIpJGGebim6y.htm](spells/necromancy-01-jFmWSIpJGGebim6y.htm)|Touch of Corruption|Toucher de corruption|libre|
 |[necromancy-01-JUJYVbtNNFdvyrBS.htm](spells/necromancy-01-JUJYVbtNNFdvyrBS.htm)|Necromancer's Generosity|Générosité du nécromant|libre|
@@ -968,6 +965,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-04-MTNlvZ0A9xY5sOg1.htm](spells/necromancy-04-MTNlvZ0A9xY5sOg1.htm)|Rest Eternal|Repos éternel|libre|
 |[necromancy-04-nEXkk85BQu1cREa4.htm](spells/necromancy-04-nEXkk85BQu1cREa4.htm)|Garden of Death|Jardin mortel|libre|
 |[necromancy-04-OyFCwQuw8XRazsNr.htm](spells/necromancy-04-OyFCwQuw8XRazsNr.htm)|Remove Curse|Délivrance des malédictions|officielle|
+|[necromancy-04-PtX16vbWzDehj8qc.htm](spells/necromancy-04-PtX16vbWzDehj8qc.htm)|Pernicious Poltergeist|Poltergeist pernicieux|libre|
 |[necromancy-04-QE9f3OxvvBThymD4.htm](spells/necromancy-04-QE9f3OxvvBThymD4.htm)|Ectoplasmic Interstice|Interstice ectoplasmique|libre|
 |[necromancy-04-qzsQmpiQodHBBWYI.htm](spells/necromancy-04-qzsQmpiQodHBBWYI.htm)|Malignant Sustenance|Alimentation maléfique|officielle|
 |[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|Insurrection interne|libre|
@@ -1097,6 +1095,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-02-vGEgI8e7AW6FQ3tP.htm](spells/transmutation-02-vGEgI8e7AW6FQ3tP.htm)|Animal Feature|Trait animal|libre|
 |[transmutation-02-wp09USMB3GIW1qbp.htm](spells/transmutation-02-wp09USMB3GIW1qbp.htm)|Animal Form|Forme animale|officielle|
 |[transmutation-02-wzctak6BxOW8xvFV.htm](spells/transmutation-02-wzctak6BxOW8xvFV.htm)|Enlarge|Agrandissement|officielle|
+|[transmutation-03-0gdZrT9lwO17EIxc.htm](spells/transmutation-03-0gdZrT9lwO17EIxc.htm)|Ooze Form|Forme de vase|libre|
 |[transmutation-03-AMEu5zzLN7uCX645.htm](spells/transmutation-03-AMEu5zzLN7uCX645.htm)|Ghostly Weapon|Arme fantomatique|officielle|
 |[transmutation-03-B3eLlbaPxOYHcs1o.htm](spells/transmutation-03-B3eLlbaPxOYHcs1o.htm)|Curse Of Lost Time|Malédiction du temps perdu|libre|
 |[transmutation-03-gPvtmKMRpg9I9D7H.htm](spells/transmutation-03-gPvtmKMRpg9I9D7H.htm)|Earthbind|Cloué à terre|officielle|
@@ -1113,6 +1112,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-03-vh1RpbWfqdNC4L3P.htm](spells/transmutation-03-vh1RpbWfqdNC4L3P.htm)|Meld into Stone|Fusion dans la pierre|officielle|
 |[transmutation-03-WsUwpfmhKrKwoIe3.htm](spells/transmutation-03-WsUwpfmhKrKwoIe3.htm)|Slow|Lenteur|officielle|
 |[transmutation-03-XI6Lzd2B5pernkPd.htm](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Insect Form|Forme d'insecte|officielle|
+|[transmutation-04-0fYE64odlKqISzft.htm](spells/transmutation-04-0fYE64odlKqISzft.htm)|Rusting Grasp|Poigne oxydante|libre|
 |[transmutation-04-1NLMPmyCB2MBoCuR.htm](spells/transmutation-04-1NLMPmyCB2MBoCuR.htm)|Tortoise and the Hare|La tortue et le lièvre|libre|
 |[transmutation-04-8rj45fKzCFcB0fxs.htm](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Enlarge Companion|Compagnon agrandi|libre|
 |[transmutation-04-A2JfEKe6BZcTG1S8.htm](spells/transmutation-04-A2JfEKe6BZcTG1S8.htm)|Fly|Vol|officielle|

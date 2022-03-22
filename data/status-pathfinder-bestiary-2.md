@@ -1,29 +1,16 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 35
- * **changé**: 323
+ * **libre**: 48
+ * **changé**: 310
 
 
-Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|changé|
-|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|changé|
-|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri (Protéen)|changé|
-|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable)|changé|
-|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon)|changé|
-|[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|Danseur de dunes Suli (Descendant de génie)|changé|
-|[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|Calamar vampire|changé|
-|[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|Quoppopak|changé|
-|[3VFHZyjSjNA1jbiO.htm](pathfinder-bestiary-2/3VFHZyjSjNA1jbiO.htm)|Sportlebore Swarm|Nuée de collemboles|changé|
-|[3YcsuATyahEMygNy.htm](pathfinder-bestiary-2/3YcsuATyahEMygNy.htm)|Revenant|Revenant|changé|
-|[48agy7vl9fQW1LLA.htm](pathfinder-bestiary-2/48agy7vl9fQW1LLA.htm)|Draugr|Draugr|changé|
-|[49y0g521xHESClzk.htm](pathfinder-bestiary-2/49y0g521xHESClzk.htm)|Young Magma Dragon|Jeune dragon de magma|changé|
-|[4x9trDSABU5dqq9w.htm](pathfinder-bestiary-2/4x9trDSABU5dqq9w.htm)|Blue Dracolisk|Dracolisque bleu|changé|
 |[4Y8UO8NloCoPxJ1E.htm](pathfinder-bestiary-2/4Y8UO8NloCoPxJ1E.htm)|Umonlee|Umonlee|changé|
 |[57pzXwM9qFiRTwq9.htm](pathfinder-bestiary-2/57pzXwM9qFiRTwq9.htm)|Dig-Widget|Infiltrateur mécanique|changé|
 |[5CixyyBkCLj2VI8q.htm](pathfinder-bestiary-2/5CixyyBkCLj2VI8q.htm)|Hippopotamus|Hippopotame|changé|
@@ -341,10 +328,23 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[0rhltfBkQtYkCwXd.htm](pathfinder-bestiary-2/0rhltfBkQtYkCwXd.htm)|Yellow Musk Thrall|Rejeton de mimule jaune|libre|
 |[10JbkieWjqKA5Hzc.htm](pathfinder-bestiary-2/10JbkieWjqKA5Hzc.htm)|Irlgaunt|Irlgaunt|libre|
+|[12vyw160K7p3M3Mt.htm](pathfinder-bestiary-2/12vyw160K7p3M3Mt.htm)|Quetz Couatl|Quetzalcoatl|libre|
 |[18NInoyRLIrWE0nt.htm](pathfinder-bestiary-2/18NInoyRLIrWE0nt.htm)|Chernobue|Chernobue (Qlippoth)|libre|
+|[1QWZDaBoefL5rWkz.htm](pathfinder-bestiary-2/1QWZDaBoefL5rWkz.htm)|Hodag|Hodag|libre|
+|[27R4ntwgch7eIQM6.htm](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|Akizendri (Protéen)|libre|
 |[2Kw49I6EZbKKlTtK.htm](pathfinder-bestiary-2/2Kw49I6EZbKKlTtK.htm)|Blizzardborn|Néblizzard (Élémentaire, eau)|libre|
 |[32HHvah2Ji6FjJnM.htm](pathfinder-bestiary-2/32HHvah2Ji6FjJnM.htm)|Giant Squid|Calamar géant|libre|
+|[340AwQpRXGblw1kF.htm](pathfinder-bestiary-2/340AwQpRXGblw1kF.htm)|Sarglagon|Sarglagon (Diable)|libre|
+|[37FAi1y5S8snofws.htm](pathfinder-bestiary-2/37FAi1y5S8snofws.htm)|Olethrodaemon|Oléthrodaémon (Daémon)|libre|
+|[3dlupMwDA9qv1xWS.htm](pathfinder-bestiary-2/3dlupMwDA9qv1xWS.htm)|Suli Dune Dancer|Danseur de dunes Suli (Descendant de génie)|libre|
 |[3DSqfobadad3pA6O.htm](pathfinder-bestiary-2/3DSqfobadad3pA6O.htm)|Giant Fly|Mouche géante|libre|
+|[3MDlKPlPhHBo1DId.htm](pathfinder-bestiary-2/3MDlKPlPhHBo1DId.htm)|Vampire Squid|Calamar vampire|libre|
+|[3u4toki9EeSRvcs2.htm](pathfinder-bestiary-2/3u4toki9EeSRvcs2.htm)|Quoppopak|Quoppopak|libre|
+|[3VFHZyjSjNA1jbiO.htm](pathfinder-bestiary-2/3VFHZyjSjNA1jbiO.htm)|Sportlebore Swarm|Nuée de collemboles|libre|
+|[3YcsuATyahEMygNy.htm](pathfinder-bestiary-2/3YcsuATyahEMygNy.htm)|Revenant|Revenant|libre|
+|[48agy7vl9fQW1LLA.htm](pathfinder-bestiary-2/48agy7vl9fQW1LLA.htm)|Draugr|Draugr|libre|
+|[49y0g521xHESClzk.htm](pathfinder-bestiary-2/49y0g521xHESClzk.htm)|Young Magma Dragon|Jeune dragon de magma|libre|
+|[4x9trDSABU5dqq9w.htm](pathfinder-bestiary-2/4x9trDSABU5dqq9w.htm)|Blue Dracolisk|Dracolisque bleu|libre|
 |[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcier|libre|
 |[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fey)|libre|
 |[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|Golem de bois|libre|

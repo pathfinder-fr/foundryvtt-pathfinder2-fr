@@ -1,10 +1,10 @@
 # État de la traduction (feat-effects)
 
  * **libre**: 188
- * **aucune**: 10
+ * **aucune**: 11
 
 
-Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -21,6 +21,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
+|[06-EfMaI6AnROP4X9lN.htm](feat-effects/06-EfMaI6AnROP4X9lN.htm)|Effect: Mountain Stronghold|
 
 ## Liste des traductions complétés
 

@@ -17,6 +17,11 @@
             "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort divin.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Religion</li>\n</ul>"
         },
         {
+            "id": "Effect: Potency Crystal",
+            "name": "Effet : Cristal de puissance (Effect: Potency Crystal)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]{Cristal de puissance}</p>\n<p>L’arme devient une <em>arme de frappe +1</em> pendant le reste de votre tour. Elle gagne un bonus d’objet de +1 aux jets d’attaque et ses dégâts sur un coup passent à deux fois ses dés de dégâts.</p>"
+        },
+        {
             "id": "Effect: Shield of the Unified Legion",
             "name": "Effet : Bouclier de la Légion Unifiée (Effect: Shield of the Unified Legion)",
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.PlYr5AhYwHIztMw2]{Bouclier de la Légion Unifiée}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus de circonstances de +2 à la CA tant que vous vous trouvez dans un rayon de 9 mètres du porteur du bouclier et que son bouclier est levé</li>\n</ul>"
@@ -122,9 +127,19 @@
             "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (malédiction)} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : -1 à tous les jets de sauvegarde.</p>"
         },
         {
+            "id": "Effect: Goggles of Night (Major)",
+            "name": "Effet : Lunettes de nyctalope majeures (Effect: Goggles of Night (Major))",
+            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.rXXNw6dwVn96giDi]{Lunettes de nyctalope majeures}</p>\n<hr />\n<p>Vous obtenez vision dans le noir supérieure, qui dure jusqu'à ce que vous tourniez les verres de nouveau ou que vous n'investissiez plus l'objet selon ce qui se produit en premier.</p>"
+        },
+        {
             "id": "Effect: Spellguard Shield",
             "name": "Effet : Bouclier Gardesort (Effect: Spellguard Shield)",
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Bouclier Gardesort}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n<li>Bonus du circonstances de +2 aux jets de sauvegarde contre les sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Disarm (Success)",
+            "name": "Effet : Désarmer (succès) (Effect: Disarm (Success))",
+            "description": "<p>La cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.</p>"
         },
         {
             "id": "Effect: Energized Cartridge (Acid)",
@@ -447,6 +462,11 @@
             "description": "<p>Vous obtenez Vision nocturne et Vision dans le noir pendant 10 minutes.</p>"
         },
         {
+            "id": "Effect: Emerald Fulcrum Lens (Saving Throw)",
+            "name": "Effet : Lentille à pivot émeraude (jet de sauvegarde) (Effect: Emerald Fulcrum Lens (Saving Throw))",
+            "description": "<p>Pendant 1 round, vous obtenez un bonus d'objet de +1 aux jets d'attaque ,de sauvegarde et aux DD.</p>"
+        },
+        {
             "id": "Equipment Effect: Major Five-Feather Wreath",
             "name": "Effet : Couronne à cinq plumes majeure (Equipment Effect: Major Five-Feather Wreath)",
             "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests d'Acrobatie et une résistance de 10 aux dégâts de chute.</p>"
@@ -657,6 +677,11 @@
             "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de feu jusqu'à la fin de votre prochain tour.</p>"
         },
         {
+            "id": "Effect: Protective Barrier",
+            "name": "Effet : Barrière protectrice (Effect: Protective Barrier)",
+            "description": "<p>Accordé par le Pont doré de Vontho</p>\n<p>Bien que les anneaux tourbillonnants du véhicule ne Masquent pas entièrement le pilote, ils offrent une protection incroyable, en maintenant magiquement la température à l'intérieur et en annulant les attaques physiques. Le pilote est protégé contre le froid intense, la chaleur intense, le froid extrême et la chaleur extrême. Le pilote gagne également une résistance de 10 à tous les dégâts physiques (sauf l'adamantium).</p>"
+        },
+        {
             "id": "Effect: Stole of Civility",
             "name": "Effet : Étole de civilité (Effect: Stole of Civility)",
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.dRVDcmkaB2p8zPcs]{Étole de civilité}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez 10 points de vie temporaires</li>\n</ul>"
@@ -709,7 +734,7 @@
         {
             "id": "Effect: Stonethroat Ammunition (Success)",
             "name": "Effet : Munition coince-gueule (Succès) (Effect: Stonethroat Ammunition (Success))",
-            "description": ""
+            "description": "<p>La munition vient se loger de manière peu contraignante au fond de la gorge de la cible.Pendant 1 round, la cible subit une pénalité de statut de -2 aux jets d'attaque avec ses mâchoires ou ses crocs et aux tests d'Athlétisme.</p>"
         },
         {
             "id": "Effect: Diplomat's Badge",
@@ -727,6 +752,11 @@
             "description": "<p>Le blindage accorde au porteur de l'armure 30 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
         },
         {
+            "id": "Effect: Metuak's Pendant",
+            "name": "Effet : Pendentif de Metuak (Effect: Metuak's Pendant)",
+            "description": "<p>La créature obtient un bonus de statut de +1 aux jets de sauvegarde contre les effets mentaux qui la rendrait confuse, contrôlée, effrayée ou stupéfiée.</p>"
+        },
+        {
             "id": "Effect: Spiderfoot Brew (Greater)",
             "name": "Effet : Infusion de pattes d'araignée supérieure (Effect: Spiderfoot Brew (Greater))",
             "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, de minuscules poils préhesiles poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 6 mètres et un bonus d'objet de +2 aux tests d'Athlétisme effectués pour grimper pendant 10 minutes.</p>"
@@ -735,6 +765,11 @@
             "id": "Effect: Nosoi Charm (Greater) (Lifesense)",
             "name": "Effet : Charme Nosoi (Sens de la vie) (Effect: Nosoi Charm (Greater) (Lifesense))",
             "description": "<p>Vous gagnez Sens de la vie comme un sens imprécis avec une portée de 9 mètres pendant 1 heure, tant que vous continuez à tenir le charme. Cela vous permet de sentir la force vitale qui anime les créatures vivantes et la force perverse qui anime les morts, bien que vous ne puissiez pas faire la distinction entre les deux.</p>"
+        },
+        {
+            "id": "Effect: Goggles of Night",
+            "name": "Effet : Lunettes de nyctalope (Effect: Goggles of Night)",
+            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.K7VHhUamFz3kTnm5]{Lunettes de nyctalope}</p>\n<hr />\n<p>Vous obtenez Vision dans le noir pendant 1 heure.</p>"
         },
         {
             "id": "Effect: Golden Legion Epaulet",

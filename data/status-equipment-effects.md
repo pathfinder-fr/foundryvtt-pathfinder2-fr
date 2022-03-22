@@ -1,11 +1,10 @@
 # État de la traduction (equipment-effects)
 
- * **libre**: 183
- * **changé**: 1
- * **aucune**: 8
+ * **libre**: 191
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-03-13 11:06 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,19 +12,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-d7BDxmsnM1BUoEeT.htm](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|
-|[01-KSvkfMqMQ8mlGLiz.htm](equipment-effects/01-KSvkfMqMQ8mlGLiz.htm)|Effect: Goggles of Night|
-|[01-R5ugeFK3MPwkbv0s.htm](equipment-effects/01-R5ugeFK3MPwkbv0s.htm)|Effect: Potency Crystal|
-|[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|
-|[01-tGeMT4iHJcsjVbl3.htm](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|
-|[01-WXrqEuLT4uP48Bvo.htm](equipment-effects/01-WXrqEuLT4uP48Bvo.htm)|Effect: Goggles of Night (Major)|
-|[01-z3ATL8DcRVrT0Uzt.htm](equipment-effects/01-z3ATL8DcRVrT0Uzt.htm)|Effect: Disarm (Success)|
-|[17-exwQF6E1FWmuxwBc.htm](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|changé|
 
 ## Liste des traductions complétés
 
@@ -47,6 +33,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-6alqXfVq0qWQC359.htm](equipment-effects/01-6alqXfVq0qWQC359.htm)|Effect: Energy Robe of Fire|Effet : Robe d'énergie de feu|libre|
 |[01-6p2Sjl7XxCc55ft4.htm](equipment-effects/01-6p2Sjl7XxCc55ft4.htm)|Effect: Mudrock Snare (Success)|Effet : Piège artisanal de boue solidifiée (Succès)|libre|
 |[01-9BsFdrEc7hkPWgSd.htm](equipment-effects/01-9BsFdrEc7hkPWgSd.htm)|Effect: Energizing Rune (Electricity)|Effet : Rune d'énergie d'électricité|libre|
+|[01-AJx8i8QX35vsG5Q4.htm](equipment-effects/01-AJx8i8QX35vsG5Q4.htm)|Effect: Stonethroat Ammunition (Success)|Effet : Munition coince-gueule (Succès)|libre|
 |[01-ascxqSlMEN9R6OOy.htm](equipment-effects/01-ascxqSlMEN9R6OOy.htm)|Effect: Energizing Rune (Fire)|Effet : Rune énergisante de feu|libre|
 |[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|Effet : Robe d'énergie d'électricité|libre|
 |[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|Effet : Rune énergisante d'acide|libre|
@@ -64,6 +51,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-jlVYoiPVRRVGBj5G.htm](equipment-effects/01-jlVYoiPVRRVGBj5G.htm)|Effect: Ablative Armor Plating (Lesser)|Effet : Blindage ablatif d'armure inférieur|libre|
 |[01-K21XQMoDVSPqzRla.htm](equipment-effects/01-K21XQMoDVSPqzRla.htm)|Equipment Effect: Sage's Lash (Turquoise)|Effet : Ceinture du sage (turquoise)|libre|
 |[01-kMPPl4AqFb6GclOL.htm](equipment-effects/01-kMPPl4AqFb6GclOL.htm)|Effect: Malleable Mixture (Greater)|Effet : Mixture de molesse supérieure|libre|
+|[01-KSvkfMqMQ8mlGLiz.htm](equipment-effects/01-KSvkfMqMQ8mlGLiz.htm)|Effect: Goggles of Night|Effet : Lunettes de nyctalope|libre|
 |[01-lgvjbbQiHBGKR3C6.htm](equipment-effects/01-lgvjbbQiHBGKR3C6.htm)|Effect: Rhino Shot|Effet : Tir de rhino|libre|
 |[01-M0hhLRC86sASVOk7.htm](equipment-effects/01-M0hhLRC86sASVOk7.htm)|Effect: Tteokguk of Time Advancement|Effet : Tteokguk du déroulement du temps|libre|
 |[01-mkjcgwDBeaOUolVe.htm](equipment-effects/01-mkjcgwDBeaOUolVe.htm)|Effect: Major Fanged Rune Animal Form|Effet : Forme d'animal de rune de crocs majeur|libre|
@@ -72,8 +60,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-oaR6YGiZKg8a2971.htm](equipment-effects/01-oaR6YGiZKg8a2971.htm)|Effect: Clockwork Goggles|Effet : Lunettes mécaniques|libre|
 |[01-oiO3cQfqp8MuxR82.htm](equipment-effects/01-oiO3cQfqp8MuxR82.htm)|Effect: Blast Boots (Major)|Effet : Bottes d'explosion majeures|libre|
 |[01-ORdhj3IAvYACNGkJ.htm](equipment-effects/01-ORdhj3IAvYACNGkJ.htm)|Effect: Shrine Inarizushi|Effet : Autel d'Inarizushi|libre|
+|[01-R5ugeFK3MPwkbv0s.htm](equipment-effects/01-R5ugeFK3MPwkbv0s.htm)|Effect: Potency Crystal|Effet : Cristal de puissance|libre|
+|[01-rH6RHxy6sNTLusKX.htm](equipment-effects/01-rH6RHxy6sNTLusKX.htm)|Effect: Emerald Fulcrum Lens (Saving Throw)|Effet : Lentille à pivot émeraude (jet de sauvegarde)|libre|
 |[01-s95P3L72BDKvzYhn.htm](equipment-effects/01-s95P3L72BDKvzYhn.htm)|Effect: Curse of Potent Poison|Effet : Malédiction du poison puissant|libre|
 |[01-SbYcOry1cxbndSve.htm](equipment-effects/01-SbYcOry1cxbndSve.htm)|Effect: Silkspinner's Shield (Climb)|Effet : Bouclier de la fileuse de soie (Escalade)|libre|
+|[01-tGeMT4iHJcsjVbl3.htm](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|Effet : Pendentif de Metuak|libre|
 |[01-u35Qzft0c84UySq2.htm](equipment-effects/01-u35Qzft0c84UySq2.htm)|Effect: Ebon Fulcrum Lens (2 Action)|Effet : Lentille à pivot ébène (2 Actions)|libre|
 |[01-UTtX0xLGYci6P43I.htm](equipment-effects/01-UTtX0xLGYci6P43I.htm)|Effect: Mudrock Snare (Failure)|Effet : Piège artisanal de boue solidifiée (Échec)|libre|
 |[01-uVxs1qFMQsGWXNs6.htm](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)|Equipment Effect: Potion of Stable Form|Effet : Potion de forme stable|libre|
@@ -84,10 +75,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-wFP3SqPoO0bCPmyK.htm](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)|Effect: Kraken's Guard|Effet : Gardien kraken|libre|
 |[01-wNCxSxruzLVGtLE4.htm](equipment-effects/01-wNCxSxruzLVGtLE4.htm)|Effect: Spiderfoot Brew (Lesser)|Effet : Infusion de pattes d'araignée inférieure|libre|
 |[01-WQ0DxUzMgAvo0zy9.htm](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|Effet : Abricot de puissance bestiale|libre|
+|[01-WXrqEuLT4uP48Bvo.htm](equipment-effects/01-WXrqEuLT4uP48Bvo.htm)|Effect: Goggles of Night (Major)|Effet : Lunettes de nyctalope majeures|libre|
 |[01-WXsWkFosSGBrptwF.htm](equipment-effects/01-WXsWkFosSGBrptwF.htm)|Effect: Ivory Baton|Effet: Bâton d'ivoire|libre|
 |[01-X2ZZgTqanpoCMDmd.htm](equipment-effects/01-X2ZZgTqanpoCMDmd.htm)|Effect: Taljjae's Mask (The General)|Effet : Masque de Taljjae (le général)|libre|
 |[01-XzxADtNpUlRff972.htm](equipment-effects/01-XzxADtNpUlRff972.htm)|Effect: Greater Fanged Rune Animal Form|Effet : Forme d'animal à runes de crocs supérieure|libre|
 |[01-YI7QQqXO6nosaAKr.htm](equipment-effects/01-YI7QQqXO6nosaAKr.htm)|Effect: Spiderfoot Brew (Greater)|Effet : Infusion de pattes d'araignée supérieure|libre|
+|[01-z3ATL8DcRVrT0Uzt.htm](equipment-effects/01-z3ATL8DcRVrT0Uzt.htm)|Effect: Disarm (Success)|Effet : Désarmer (succès)|libre|
 |[01-ZV9rtVOD1eDTwcY4.htm](equipment-effects/01-ZV9rtVOD1eDTwcY4.htm)|Effect: Grit (Stage 3)|Effet : Grit (stade 3)|libre|
 |[01-zY7cemRcFD2zAVbC.htm](equipment-effects/01-zY7cemRcFD2zAVbC.htm)|Effect: Oath of the Devoted|Effet : Serment du dévoué|libre|
 |[01-zZsdex5orF5Odpus.htm](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|Effet : Masque d'allure|libre|
@@ -202,6 +195,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[16-vOU4Yv2MyAfYBbmF.htm](equipment-effects/16-vOU4Yv2MyAfYBbmF.htm)|Effect: Aeon Stone (Orange Prism) (Occultism)|Effect: Pierre d'éternité (Prisme orange) (Occultisme)|libre|
 |[16-yvabfuAO74pvH8hh.htm](equipment-effects/16-yvabfuAO74pvH8hh.htm)|Effect: Aeon Stone (Orange Prism) (Arcana)|Effect: Pierre d'éternité (Prisme orange) (Arcanes)|libre|
 |[17-4G9qnI0oRyL6eKFQ.htm](equipment-effects/17-4G9qnI0oRyL6eKFQ.htm)|Effect: Frost Vial (Major)|Effet : Fiole givrée majeure|libre|
+|[17-exwQF6E1FWmuxwBc.htm](equipment-effects/17-exwQF6E1FWmuxwBc.htm)|Effect: Protective Barrier|Effet : Barrière protectrice|libre|
 |[17-iK6JeCsZwm5Vakks.htm](equipment-effects/17-iK6JeCsZwm5Vakks.htm)|Effect: Anklets of Alacrity|Effet : Chaînes de chevilles d'alacrité|libre|
 |[17-ITAFsW3dQPupJ3DW.htm](equipment-effects/17-ITAFsW3dQPupJ3DW.htm)|Effect: Tanglefoot Bag (Major)|Effet : Sacoche immobilisante majeur|libre|
 |[17-ohMdE8BmQHuLs40b.htm](equipment-effects/17-ohMdE8BmQHuLs40b.htm)|Effect: Impossible Cake (Major)|Effet : Gâteau de l'impossible majeur|libre|

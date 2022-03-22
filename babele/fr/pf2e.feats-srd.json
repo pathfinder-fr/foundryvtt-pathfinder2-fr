@@ -488,22 +488,6 @@
             "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #mauvais]]{1d4 dégâts mauvais} et qui possède les traits magique et propulsif.</p>"
         },
         {
-            "id": "Spellmaster Dedication",
-            "name": "Dévouement : Maître des sorts",
-            "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
-            "prereq": [
-                {
-                    "value": "Intelligence, Sagesse ou Charisme 14"
-                },
-                {
-                    "value": "capacité à lancer des sorts de focalisation"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affilié à l'École des sorts"
-                }
-            ]
-        },
-        {
             "id": "Confounding Image",
             "name": "Image confondante",
             "description": "<p>Lorsque vous Lancez Image miroir, vous pouvez modifier sa durée pour qu'elle soit Maintenue pendant 1 minute au maximum et modifier sa portée à 9 m. Dans ce cas, remplacez les effets ordinaires du sort par les suivants :</p>\n<p>Vous créez un double illusoire de vous-même qui apparaît dans une case inoccupée à portée. L'image occupe l'espace et a une allonge de 1,5 m et vos alliés peuvent prendre en tenaille avec l'image. Elle n'a pas d'autres attributs qu'une créature aurait normalement, si ce n'est une CA égale à votre DD de sort et des modificateurs de jet de sauvegarde égaux à votre DD de sort -10. Si l'image est touchée par une attaque ou obtient un échec sur un jet de sauvegarde ou si vous vous éloignez d'elle de plus de 9 m, le sort prend fin. Les créatures peuvent se déplacer dans son espace sans être gênées. Lorsque vous Maintenez le sort, vous pouvez déplacer l'image sur une case inoccupée à portée.</p>",
@@ -1980,19 +1964,6 @@
             "prereq": [
                 {
                     "value": "Dévouement d'agent des Éclaireurs"
-                }
-            ]
-        },
-        {
-            "id": "Firebrand Braggart Dedication",
-            "name": "Dévouement : Agitateur vantard",
-            "description": "<p>Votre entraînement d'Agitateur vous a enseigné que terminer quelque chose est plus satisfaisant si vous vous en êtes vanté d'abord. Vous lancez une vantardise à propos d'une action de compétence particulière, comme Garder l'équilibre, Démoraliser ou Vous souvenir. La première fois que vous essayez cette action au cours de la prochaine minute dans un contexte que le MJ estime être un défi acceptable et significatif, vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstances de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstances de –1 sur les tests pour tenter la même action pendant 1 heure.</p>\n<p>Si l'action choisie peut être utilisée avec de multiples compétences, comme Identifier la magie ou Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser Arcanes pour Identifier la magie et votre bonus ou pénalité après la vantardise ne s'applique qu'aux tests qui utilisent cette compétence pour cette action. Une fois que vous avez lancé une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir cette même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.</p>\n<p>Typiquement une tâche qui constitue un défi est une tâche ayant au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succès ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.</p>",
-            "prereq": [
-                {
-                    "value": "Charisme 14"
-                },
-                {
-                    "value": "membre de second rang des Agitateurs vantards"
                 }
             ]
         },
@@ -4431,19 +4402,6 @@
             "prereq": [
                 {
                     "value": "muse touche-à-tout"
-                }
-            ]
-        },
-        {
-            "id": "Swordmaster Dedication",
-            "name": "Dévouement : Maître des épées",
-            "description": "<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes lorsque des adversaires essaient de vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstances de +2 grâce à Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Maître des épées.</p>",
-            "prereq": [
-                {
-                    "value": "Force, Dextérité ou Constitution 14"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affilié à l'École des Épées"
                 }
             ]
         },
@@ -7102,7 +7060,7 @@
         },
         {
             "id": "Knight Reclaimant Dedication",
-            "name": "Dévouement : Chevalier récupérateur",
+            "name": "Dévouement : Chevalier reconquérant",
             "description": "<p>Vous avez prêté le Serment écarlate et êtes devenu un membre à part entière des Reconquérants écarlates. Vous devenez expert en Discrétion et en Survie. Lorsque vous obtenez un succès sur un jet de sauvegarde contre une capacité spéciale d'un mort-vivant, vous obtenez un succès critique à la place. Cela s'applique à toutes les capacités qui viennent de l'état de mort-vivant, incluant les sorts innés des morts-vivants (mais pas leurs sorts préparés ou spontanés).</p>\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Chevalier reconquérant.</p>",
             "prereq": [
                 {
@@ -10924,7 +10882,7 @@
         {
             "id": "Trick Shot",
             "name": "Tir astucieux",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arbalète ou une arme à feu chargée.</p>\n<hr />\n<p>Vous tirez non pas sur votre ennemi mais sur un objet à proximité. Effectuez une frappe avec votre arme à feu contre une CA égale à un DD facile pour votre niveau. En cas de réussite, au lieu de toucher votre ennemi, votre attaque touche un objet situé derrière ou sur le côté de votre cible, créant l'un des effets suivants. Le MJ peut déterminer qu'une CA différente est appropriée ou qu'un effet particulier n'est pas une option valide, comme par exemple utiliser l'option Tonneau explosif alors qu'il n'y a pas d'objet de ce type sur le champ de bataille. Le MJ devrait vous informer si un Tir astucieux est réalisable avant que vous ne dépensiez vos actions, car votre œil exercé peut facilement reconnaître les objets lâches ou les substances volatiles.</p>\n<ul>\n<li><strong>Déplacer l'objet</strong> Votre attaque renverse un objet sans surveillance de 2 Encombrements maximum, le déplaçant jusqu'à 3 mètres dans la direction de votre choix. Par exemple, l'arme peut faire tomber d'une table la boule de cristal d'un sorcier.</li>\n<li><strong>Tonneau explosif</strong> Votre attaque frappe un tonneau de rhum coûteux, une fiole de fluides alchimiques volatils, une pustule démoniaque jaillissant de la terre ou tout autre objet explosif. L'objet explose en une @Template[type:burst|distance:20]{explosion de 6 mètres} et les créatures dans la zone subissent 6d6 dégâts avec un jet de sauvegarde de base en Réflexes contre votre DD de classe. Le type de dégâts est choisi par le MJ, en fonction de l'objet qui explose. Augmentez les dégâts de 1d6 pour chaque tranche de 2 niveaux que vous avez au dessus du niveau 10.</li>\n</ul>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arbalète ou une arme à feu chargée.</p>\n<hr />\n<p>Vous tirez non pas sur votre ennemi mais sur un objet à proximité. Effectuez une frappe avec votre arme à feu contre une CA égale à un DD facile pour votre niveau. En cas de réussite, au lieu de toucher votre ennemi, votre attaque touche un objet situé derrière ou sur le côté de votre cible, créant l'un des effets suivants. Le MJ peut déterminer qu'une CA différente est appropriée ou qu'un effet particulier n'est pas une option valide, comme par exemple utiliser l'option Tonneau explosif alors qu'il n'y a pas d'objet de ce type sur le champ de bataille. Le MJ devrait vous informer si un Tir astucieux est réalisable avant que vous ne dépensiez vos actions, car votre œil exercé peut facilement reconnaître les objets lâches ou les substances volatiles.</p>\n<ul>\n<li><strong>Déplacer l'objet</strong> Votre attaque renverse un objet sans surveillance de 2 Encombrements maximum, le déplaçant jusqu'à 3 mètres dans la direction de votre choix. Par exemple, l'arme peut faire tomber d'une table la <em>boule de cristal</em> d'un sorcier.</li>\n<li><strong>Tonneau explosif</strong> Votre attaque frappe un tonneau de rhum coûteux, une fiole de fluides alchimiques volatils, une pustule démoniaque jaillissant de la terre ou tout autre objet explosif. L'objet explose en une @Template[type:burst|distance:20]{explosion de 6 mètres} et les créatures dans la zone subissent 6d6 dégâts avec un jet de sauvegarde de base en Réflexes contre votre DD de classe. Le type de dégâts est choisi par le MJ, en fonction de l'objet qui explose. Augmentez les dégâts de 1d6 pour chaque tranche de 2 niveaux que vous avez au dessus du niveau 10.</li>\n</ul>"
         },
         {
             "id": "Terrain Expertise (Plains)",
@@ -12761,19 +12719,6 @@
             "description": "<p>Vous êtes particulièrement doué pour aider les autres à accomplir une tâche. Vous obtenez un bonus de circonstances de +2 aux tests pour Aider et vous n'infligez pas à votre allié une pénalité de circonstances de -1 à son test si vous échouez de façon critique votre tentative pour l'Aider.</p>"
         },
         {
-            "id": "Scrollmaster Dedication",
-            "name": "Dévouement : Maître des parchemins",
-            "description": "<p>L'expérience acquise à tenir la chronique de vos aventures et de vos découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontré, les détails du briefing de votre mission et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstances de +2 aux tests réalisés pour vour rappeler d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposez du don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux} et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstances pour vous souvenir de connaissances concernant les créatures en utilisant ce don passe à +4.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Maître des parchemins.</p>",
-            "prereq": [
-                {
-                    "value": "expert dans n'importe quelle compétence de Connaissance"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affiliée à l'École des parchemins"
-                }
-            ]
-        },
-        {
             "id": "See the Unseen",
             "name": "Voir l'invisible",
             "description": "<p>Vous remarquez des choses que d'autres ne peuvent pas voir du tout. Lorsque vous êtes adjacent à une créature Non détectée de votre niveau ou inférieur, elle est seulement Cachée pour ce qui vous concerne. Vous n'avez besoin que d'un test nu contre un DD 5 pour cibler une créature @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}.</p>"
@@ -13648,19 +13593,6 @@
             "prereq": [
                 {
                     "value": "Un compagnon animal"
-                }
-            ]
-        },
-        {
-            "id": "Halcyon Speaker Dedication",
-            "name": "Dévouement : Orateur paisible",
-            "description": "<p>Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.</p>",
-            "prereq": [
-                {
-                    "value": "Dévouement du Gardien de Magaambya"
-                },
-                {
-                    "value": "Membre de l'Académie de Magaambya avec un rang de connaisseur"
                 }
             ]
         },
@@ -14599,7 +14531,7 @@
         {
             "id": "Tengu Weapon Familiarity",
             "name": "Familiarité avec les armes tengu",
-            "description": "<p>Vous vous êtes entraîné avec une lame et d'autres armes tengu depuis votre éclosion. Vous obtenez accès aux @Compendium[pf2e.equipment-srd.KgKSX95uVSg8iBBA]{Khakkaras}.</p>\n<p>De plus, choisissez deux armes du groupe des épées. Vous pouvez choisir parmi toutes les épées courantes de guerre, plus le @Compendium[pf2e.equipment-srd.Y1dkRsRd1Z7Jf2y6]{Katana}, @Compendium[pf2e.equipment-srd.NIsxR5zXtVa3PuyU]{l'Épée du temple} et le @Compendium[pf2e.equipment-srd.YOpopjoWgU7bkmwh]{Wakizashi}. Pour déterminer votre maîtrise, cette arme est une arme simple et si l'arme n'est pas courante, vous pouvez accèder à celle-ci. Si vous êtes qualifié avec toutes les armes de guerre, vous ajoutez les épées évoluées aux épées parmi lesquelles vous pouvez faire votre choix.</p>\n<p>Vous obtenez aussi l'accès à toutes les armes tengu peu courantes. Pour les besoins de déterminer votre maîtrise, les armes de guerre tengu sont considérées comme des armes simples et les armes avancées tengu sont considérées comme des armes de guerre.</p>"
+            "description": "<p>Vous vous êtes entraîné avec une lame et d'autres armes tengu depuis votre éclosion. Vous obtenez accès aux @Compendium[pf2e.equipment-srd.KgKSX95uVSg8iBBA]{Khakkaras}.</p>\n<p>De plus, choisissez deux armes du groupe des épées. Vous pouvez choisir parmi toutes les épées courantes de guerre, plus le @Compendium[pf2e.equipment-srd.Y1dkRsRd1Z7Jf2y6]{Katana}, @Compendium[pf2e.equipment-srd.NIsxR5zXtVa3PuyU]{l'Épée du temple} et le @Compendium[pf2e.equipment-srd.YOpopjoWgU7bkmwh]{Wakizashi}. Pour déterminer votre maîtrise, cette arme est une arme simple et si l'arme n'est pas courante, vous pouvez accèder à celle-ci. Si vous êtes qualifié avec toutes les armes de guerre, vous ajoutez les épées évoluées aux épées parmi lesquelles vous pouvez faire votre choix.</p>\n<p>Vous obtenez aussi l'accès à toutes les armes tengu peu courantes. Pour les besoins de déterminer votre maîtrise, les armes de guerre tengu sont considérées comme des armes simples et les évoluées tengu sont considérées comme des armes de guerre.</p>"
         },
         {
             "id": "Call Bonded Item",
@@ -18904,7 +18836,7 @@
         {
             "id": "Beast Gunner Dedication",
             "name": "Dévouement : Bestioléro",
-            "description": "<p>Vous vous êtes lié avec votre bestiolet et avez débloqué le premier indice de son potentiel caché. Vous traitez tous les bestiolets comme des armes à feu de guerre lorsqu'il s'agit de déterminer votre rang de maîtrise, même les bestiolets qui devraient normalement être des armes avancées. Vous pouvez changer de bestiolet lié pour un autre bestiolet que vous possédez chaque jour, au cours de vos préparatifs quotidiens, tant que vous avez accompli une chasse rituelle associée au nouveau bestiolet.</p>\n<p>Le bestiolet agit aussi comme un conduit, tirant et amplifiant tout pouvoir magique latent ou actif que vous possédez. Vous apprenez à lancer des sorts spontanés et obtenez l'activité Lancer un sort. Vous obtenez un répertoire de sort avec un tour de magie de votre choix, provenant soit de la liste de sorts arcanique ou de la liste de sorts primordiale. Vous choisissez ce tour de magie parmi les sorts courants de la liste de sorts choisie ou parmi les sorts auxquels vous avez accès sur cette liste. Ce tour de magie doit nécessiter un jet d'attaque de sort. Vous êtes qualifié en jet d'attaque de sorts et pour les DD des sorts arcaniques ou primordiaux, en fonction de la tradition que vous avez choisie. Votre caractéristique essentielle pour ces sorts est le Charisme.</p>\n<p>Si vous lancez déjà des sorts arcaniques ou primordiaux à partir d'emplacements de sorts, vous apprenez un tour de magie supplémentaire de cette tradition. Si vous êtes un lanceur préparé, vous pouvez préparer ce sort en plus de vos tours de magie habituelspar jour ; si vous êtes un incantateur spontané, vous ajoutez ce tour de magie à votre répertoire de sorts.</p>\n<p>Vous obtenez aussi @Compendium[pf2e.actionspf2e.VNuOwXIHafSLHvsZ]{Envoi de sort}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bestioléro.</p>",
+            "description": "<p>Vous vous êtes lié avec votre bestiolet et avez débloqué le premier indice de son potentiel caché. Vous traitez tous les bestiolets comme des armes à feu de guerre lorsqu'il s'agit de déterminer votre rang de maîtrise, même les bestiolets qui devraient normalement être des armes évoluées. Vous pouvez changer de bestiolet lié pour un autre bestiolet que vous possédez chaque jour, au cours de vos préparatifs quotidiens, tant que vous avez accompli une chasse rituelle associée au nouveau bestiolet.</p>\n<p>Le bestiolet agit aussi comme un conduit, tirant et amplifiant tout pouvoir magique latent ou actif que vous possédez. Vous apprenez à lancer des sorts spontanés et obtenez l'activité Lancer un sort. Vous obtenez un répertoire de sort avec un tour de magie de votre choix, provenant soit de la liste de sorts arcanique ou de la liste de sorts primordiale. Vous choisissez ce tour de magie parmi les sorts courants de la liste de sorts choisie ou parmi les sorts auxquels vous avez accès sur cette liste. Ce tour de magie doit nécessiter un jet d'attaque de sort. Vous êtes qualifié en jet d'attaque de sorts et pour les DD des sorts arcaniques ou primordiaux, en fonction de la tradition que vous avez choisie. Votre caractéristique essentielle pour ces sorts est le Charisme.</p>\n<p>Si vous lancez déjà des sorts arcaniques ou primordiaux à partir d'emplacements de sorts, vous apprenez un tour de magie supplémentaire de cette tradition. Si vous êtes un lanceur préparé, vous pouvez préparer ce sort en plus de vos tours de magie habituelspar jour ; si vous êtes un incantateur spontané, vous ajoutez ce tour de magie à votre répertoire de sorts.</p>\n<p>Vous obtenez aussi @Compendium[pf2e.actionspf2e.VNuOwXIHafSLHvsZ]{Envoi de sort}.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype de Bestioléro.</p>",
             "prereq": [
                 {
                     "value": "expert avec au moins un type d'arme à feu"
@@ -19327,7 +19259,7 @@
         {
             "id": "Catfolk Weapon Familiarity",
             "name": "Familiarité avec les armes des hommes-félins",
-            "description": "<p>Vous préférez les armes que vous pouvez utiliser pour porter des coups rapides et furtifs, comme les griffes d'un félin'. Vous êtes qualifié avec la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette}, le @Compendium[pf2e.equipment-srd.zSAoyzcf3nSeZCiF]{Kama}, le @Compendium[pf2e.equipment-srd.TDrO7Xdyn7juFy3c]{Kukri}, le @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre} et la @Compendium[pf2e.equipment-srd.ynnBwzkzsR6B73iO]{Serpe}.</p>\n<p>De plus, vous obtenez l'accès aux kamas, kukris et à toutes les armes des hommes félins peu courantes. Vous considérez les armes de guerre des hommes-félins comme des armes simples et les armes avancées des hommes-félins comme des armes de guerre.</p>"
+            "description": "<p>Vous préférez les armes que vous pouvez utiliser pour porter des coups rapides et furtifs, comme les griffes d'un félin'. Vous êtes qualifié avec la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette}, le @Compendium[pf2e.equipment-srd.zSAoyzcf3nSeZCiF]{Kama}, le @Compendium[pf2e.equipment-srd.TDrO7Xdyn7juFy3c]{Kukri}, le @Compendium[pf2e.equipment-srd.grmaV4GdoGD7sKbn]{Cimeterre} et la @Compendium[pf2e.equipment-srd.ynnBwzkzsR6B73iO]{Serpe}.</p>\n<p>De plus, vous obtenez l'accès aux kamas, kukris et à toutes les armes des hommes félins peu courantes. Vous considérez les armes de guerre des hommes-félins comme des armes simples et les armes évoluées des hommes-félins comme des armes de guerre.</p>"
         },
         {
             "id": "Hellknight Order Cross-Training",
@@ -20740,7 +20672,7 @@
             "description": "<p>Votre compétence et la ferveur qui vous anime vous autorisent à percer les défenses des morts-vivants et à exploiter leurs faiblesses. Lorsque vous portez une attaque en utilisant une arme dans laquelle vous êtes maître et que vous touchez une créature morte-vivante, vous ignorez 5 points des résistances de la créature et les faiblesses des morts-vivants sont plus élevées de 2 contre votre attaque.</p>",
             "prereq": [
                 {
-                    "value": "Dévouement de Chevalier récupérateur"
+                    "value": "Dévouement de Chevalier Reconquérant"
                 },
                 {
                     "value": "maître avec une arme"
@@ -21369,7 +21301,7 @@
         {
             "id": "Performance Weapon Expert",
             "name": "Expert avec les armes de scène",
-            "description": "<p>Votre expérience vous a rendu meilleur avec une large panoplie d'armes. Votre rang de compétence avec les armes simples et de guerre passe à expert, comme également votre maîtrise pour l'arme avancée choisie.</p>",
+            "description": "<p>Votre expérience vous a rendu meilleur avec une large panoplie d'armes. Votre rang de maîtrise avec les armes simples et de guerre passe à expert, tout comme votre maîtrise avec l'arme évoluée choisie.</p>",
             "prereq": [
                 {
                     "value": "Dévouement du Provocator"
@@ -24982,22 +24914,6 @@
             ]
         },
         {
-            "id": "Knight Vigilant Dedication",
-            "name": "Dévouement : Chevalier vigilant",
-            "description": "<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence Religion. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.</p>",
-            "prereq": [
-                {
-                    "value": "qualifié en Religion"
-                },
-                {
-                    "value": "n'importe que alignement Bon"
-                },
-                {
-                    "value": "membre des Chevaliers de Dernier Rempart au rang de Chevalier"
-                }
-            ]
-        },
-        {
             "id": "Duskwalker Lore",
             "name": "Connaissance des crépusculaires",
             "description": "<p>Soit vous avez trouvé un autre crépusculaire qui vous a appris les secrets de vos semblables, soit vous avez entrepris de faire des recherches sur votre héritage inhabituel. Vous êtes qualifié en Médecine et en Religion. Si vous deviez être automatiquement qualifié dans un des ces compétences (par votre historique ou votre classe, par exemple), vous devenez qualifié dans une compétence de votre choix à la place. Vous êtes aussi qualifié en connaissance du Cimetière.</p>"
@@ -27781,7 +27697,7 @@
         {
             "id": "Provocator Dedication",
             "name": "Dévouement : Provocator",
-            "description": "<p><strong>Accès</strong> Avoir réussi à vaincre les Eberarks au sein de l'Irorium.</p>\n<hr />\n<p>Pour vous, combattre est davantage une affaire de style que de compétence.</p>\n<p>Vous devenez qualifié avec les armes simples, les armes de guerre et une arme avancée de votre choix. Lorsque vous réussissez un jet d'attaque en utilisant l'arme avancée que vous avez choisie, vous appliquez également l'effet critique spécialisé de cette arme.</p>\n<p>Vous devenez un expert en Représentation et à votre choix soit en Acrobaties, soit en Athlétisme. Si vous étiez déjà expert dans ces trois compétences, vous devenez un expert dans une compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir d'abord choisi deux autre dons de l'Archétype du Provocator.</p>",
+            "description": "<p><strong>Accès</strong> Avoir réussi à vaincre les Eberarks au sein de l'Irorium.</p>\n<hr />\n<p>Pour vous, combattre est davantage une affaire de style que de compétence.</p>\n<p>Vous devenez qualifié avec les armes simples, les armes de guerre et une arme évoluée de votre choix. Lorsque vous réussissez un jet d'attaque en utilisant l'arme évoluée que vous avez choisie, vous appliquez également l'effet critique spécialisé de cette arme.</p>\n<p>Vous devenez un expert en Représentation et à votre choix soit en Acrobaties, soit en Athlétisme. Si vous étiez déjà expert dans ces trois compétences, vous devenez expert dans une compétence de votre choix.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir d'abord choisi deux autres dons de l'Archétype du Provocator.</p>",
             "prereq": [
                 {
                     "value": "Force 14"
