@@ -101,13 +101,13 @@ SUPPORTED = {
             'type2': "data.level.value"
         }
     },
-    #### Les divinités et les domaines qui n'ont pas encore été traités par les développeurs anglophones mais qu'il faudra traduire
-    # "deities":                        { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
-    # "domains":                        { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" } },
+    #### Les divinités
+    "deities-journal":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "content" } },
+    "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" } },
+    "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" } },
     #### Les règles du jeu : les actions, les conditions
     "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
-        #### Le compendium conditionspf2e a été fusionné avec le conditionitems et peut être supprimé
-    "conditionspf2e": {'transl': "Conditions", "paths": {'name': "name", 'desc': "content"}},
+        #### Les conditions et états
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
     #### L'opposition : bestiaires et dangers, capacités des monstres
         "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
