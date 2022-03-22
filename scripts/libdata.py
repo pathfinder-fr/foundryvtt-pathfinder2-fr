@@ -102,15 +102,15 @@ SUPPORTED = {
         }
     },
     #### Les divinités
-    "deities-journal":    { 'transl': "Divinités-journal", "paths": { 'name': "name", 'desc': "content" } },
-    "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" } },
-    "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" } },
+    "deities-journal":    { 'transl': "Divinités journal", "paths": { 'name': "name", 'desc': "content" }},
+    "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" }},
+    "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" }},
     #### Les règles du jeu : les actions, les conditions
     "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
-        #### Les conditions et états
+    #### Les conditions et états
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
     #### L'opposition : bestiaires et dangers, capacités des monstres
-        "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
     "hazards": {
