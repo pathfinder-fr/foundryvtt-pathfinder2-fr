@@ -1,12 +1,12 @@
 # État de la traduction (equipment)
 
  * **officielle**: 964
- * **libre**: 1809
+ * **libre**: 1808
  * **aucune**: 5
  * **changé**: 47
 
 
-Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-23 07:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1237,7 +1237,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-q3Eyp5ncO6lzvGnI.htm](equipment/equipment-00-q3Eyp5ncO6lzvGnI.htm)|Secret-Keeper's Mask (Father Skinsaw)|Masque des Sept (Père écorcheur)|libre|
 |[equipment-00-Q4KkKGGXq4bNGHh2.htm](equipment/equipment-00-Q4KkKGGXq4bNGHh2.htm)|Marked Playing Cards|Jeu de cartes marqués|libre|
 |[equipment-00-QbOlqr4lSkeOEfty.htm](equipment/equipment-00-QbOlqr4lSkeOEfty.htm)|Holly and Mistletoe|Houx et gui|officielle|
-|[equipment-00-qCEOZ6109Yo34tRx.htm](equipment/equipment-00-qCEOZ6109Yo34tRx.htm)|Formula Book (Blank)|Formulaire|officielle|
+|[equipment-00-qCEOZ6109Yo34tRx.htm](equipment/equipment-00-qCEOZ6109Yo34tRx.htm)|Formula Book (Blank)|Formulaire vierge|officielle|
 |[equipment-00-QFAHoE7FJ9TPCGWL.htm](equipment/equipment-00-QFAHoE7FJ9TPCGWL.htm)|Rubbing Set|Kit de décalcomanie|libre|
 |[equipment-00-QFzn6s5w9tzhcoM6.htm](equipment/equipment-00-QFzn6s5w9tzhcoM6.htm)|Basic Corrective Lenses|Verre correcteur basique|libre|
 |[equipment-00-QJb8S927Yj81EgHH.htm](equipment/equipment-00-QJb8S927Yj81EgHH.htm)|Writing Set|Nécessaire d'écriture|officielle|
@@ -2667,7 +2667,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-05-Dti9PZZoty6We8OV.htm](equipment/weapon-05-Dti9PZZoty6We8OV.htm)|Cinderclaw Gauntlet|Gantelet de griffe de braise|officielle|
 |[weapon-05-hK5xPjOFd2hb81mi.htm](equipment/weapon-05-hK5xPjOFd2hb81mi.htm)|Poisonous Dagger|Dague empoisonnée|libre|
 |[weapon-05-OKAR7GIyJac8dmsi.htm](equipment/weapon-05-OKAR7GIyJac8dmsi.htm)|Singing Sword|Épée chantante|officielle|
-|[weapon-05-q1mt1F9q1XmJWAKY.htm](equipment/weapon-05-q1mt1F9q1XmJWAKY.htm)|Pact-Bound Pistol|Pistolet du pacte|libre|
 |[weapon-05-YPo7jLMxob6E2p8b.htm](equipment/weapon-05-YPo7jLMxob6E2p8b.htm)|Auspicious Scepter|Sceptre de bonne augure|libre|
 |[weapon-05-ZvIEJCY60fHqzl6r.htm](equipment/weapon-05-ZvIEJCY60fHqzl6r.htm)|Dagger of Venom|Dague venimeuse|officielle|
 |[weapon-06-17Oza88ts0ASngdw.htm](equipment/weapon-06-17Oza88ts0ASngdw.htm)|Acrobat's Staff|Bâton de l'Acrobate|libre|

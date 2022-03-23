@@ -1,18 +1,11 @@
 # État de la traduction (equipment-effects)
 
- * **libre**: 191
- * **aucune**: 1
+ * **libre**: 192
 
 
-Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-23 07:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[01-d7BDxmsnM1BUoEeT.htm](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -38,6 +31,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-c0URo81HpSmCkuQc.htm](equipment-effects/01-c0URo81HpSmCkuQc.htm)|Effect: Energy Robe of Electricity|Effet : Robe d'énergie d'électricité|libre|
 |[01-ClsVhp5baFRjZQ23.htm](equipment-effects/01-ClsVhp5baFRjZQ23.htm)|Effect: Energizing Rune (Acid)|Effet : Rune énergisante d'acide|libre|
 |[01-cozi2kUELY40Dcv3.htm](equipment-effects/01-cozi2kUELY40Dcv3.htm)|Effect: Malleable Mixture (Lesser)|Effet : Mixture de mollesse inférieur|libre|
+|[01-d7BDxmsnM1BUoEeT.htm](equipment-effects/01-d7BDxmsnM1BUoEeT.htm)|Effect: Goggles of Night (Greater)|Effet : Lunettes de nycatlope supérieures|libre|
 |[01-dchlrZqQ2oEmgNlN.htm](equipment-effects/01-dchlrZqQ2oEmgNlN.htm)|Effect: Silkspinner's Shield (Animated Strike)|Effet : Bouclier de la fileuse de soie (Frappe animée)|libre|
 |[01-e3RzlURndODzBnMt.htm](equipment-effects/01-e3RzlURndODzBnMt.htm)|Effect: Grit (Stage 1)|Effet : Grit (stade 2)|libre|
 |[01-fRlvmul3LbLo2xvR.htm](equipment-effects/01-fRlvmul3LbLo2xvR.htm)|Effect: Parry|Effet : Parade|libre|

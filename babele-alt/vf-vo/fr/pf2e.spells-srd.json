@@ -1015,7 +1015,7 @@
         {
             "id": "Energy Absorption",
             "name": "Absorption d'énergie (Energy Absorption)",
-            "description": "<p><strong>Déclencheur</strong> Un effet devrait vous infliger des dégâts d’acide, d’électricité, de feu ou de froid</p>\n<hr />\n<p>Vous gagnez une résistance 15 à l’acide, à l’électricité, au feu ou au froid contre l’effet déclencheur (un type au choix). La résistance ne s’applique que contre les dégâts initiaux de l’effet déclencheur.</p>\n<p>@Compendium[pf2e.spell-effects.cNZRAPd2kVrM3Iuo]{Effet : Absorption d'énergie (Acide)}\n<p>@Compendium[pf2e.spell-effects.WquoEAIT621zDLpY]{Effet : Absorption d'énergie Froid)}\n<p>@Compendium[pf2e.spell-effects.0IxfOSTMen1GKQUW]{Effet : Absorption d'énergie (Électricité)}\n<p>@Compendium[pf2e.spell-effects.db9lXpF4OsPz9cXL]{Effet : Absorption d'énergie (Feu)}\n<hr />\n<p><strong>Intensifié (+1)</strong> La résistance augmente de 5.</p>"
+            "description": "<p><strong>Déclencheur</strong> Un effet devrait vous infliger des dégâts d’acide, d’électricité, de feu ou de froid</p>\n<hr />\n<p>Vous gagnez une résistance 15 à l’acide, à l’électricité, au feu ou au froid contre l’effet déclencheur (un type au choix). La résistance ne s’applique que contre les dégâts initiaux de l’effet déclencheur.</p>\n<p>@Compendium[pf2e.spell-effects.lEU3DH1tGjAigpEt]{Effet : Absorption d'énergie}</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La résistance augmente de 5.</p>"
         },
         {
             "id": "Concealment's Curtain",
@@ -6708,7 +6708,7 @@
         {
             "id": "Fleet Step",
             "name": "Pas rapide (Fleet Step)",
-            "description": "<p>Vous gagnez un bonus de statut de +3 mètres à votre Vitesse.</p>\n<p>@Compendium[pf2e.spell-effects.ThFug45WHkQQXcoF]{Effet : Pas rapide}</p>"
+            "description": "<p>Vous obtenez un bonus de statut de +9 mètres à votre Vitesse.</p>\n<p>@Compendium[pf2e.spell-effects.ThFug45WHkQQXcoF]{Effet : Pas rapide}</p>"
         },
         {
             "id": "Field of Life",

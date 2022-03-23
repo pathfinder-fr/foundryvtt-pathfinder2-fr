@@ -452,6 +452,11 @@
             "description": "<p>Zccordé par @Compendium[pf2e.equipment-srd.dipcMOtBFxtmsjkS]{Cape de la chauve-souris}</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres.</li>\n</ul>"
         },
         {
+            "id": "Effect: Goggles of Night (Greater)",
+            "name": "Effect: Goggles of Night (Greater)",
+            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.Tej30MsQo8Ek9aA6]{Lunettes de nyctalope supérieures}</p>\n<hr />\n<p>Vous obtenez Vision dans le noir jusqu'à ce que vous fassiez tourner les lentilles en arrière ou jusq'à ce que vous cessiez de les investir, selon ce qui se produit en premier.</p>"
+        },
+        {
             "id": "Effect: Clockwork Goggles",
             "name": "Effect: Clockwork Goggles",
             "description": "<p>Vous obtenez vision nocturne pendant 10 minutes.</p>"

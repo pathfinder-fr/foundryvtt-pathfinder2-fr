@@ -1,19 +1,12 @@
 # État de la traduction (spells)
 
- * **libre**: 612
+ * **libre**: 613
  * **officielle**: 554
- * **changé**: 1
 
 
-Dernière mise à jour: 2022-03-22 11:05 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-23 07:43 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[abjuration-04-LoBjvguamA12iyW0.htm](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -92,6 +85,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-04-IT1aaqDBAISlHDUV.htm](spells/abjuration-04-IT1aaqDBAISlHDUV.htm)|Achaekek's Clutch|Étreinte d'Achaékek|libre|
 |[abjuration-04-JOdOpbPDl7nqvJUm.htm](spells/abjuration-04-JOdOpbPDl7nqvJUm.htm)|Globe of Invulnerability|Globe d'invulnérabilité|officielle|
 |[abjuration-04-ksLCg62cLOojw3gN.htm](spells/abjuration-04-ksLCg62cLOojw3gN.htm)|Dimensional Anchor|Ancre dimensionnelle|officielle|
+|[abjuration-04-LoBjvguamA12iyW0.htm](spells/abjuration-04-LoBjvguamA12iyW0.htm)|Energy Absorption|Absorption d'énergie|officielle|
 |[abjuration-04-Mv5L4201uk8hnAtD.htm](spells/abjuration-04-Mv5L4201uk8hnAtD.htm)|Reflective Scales|Écailles réfléchisantes|libre|
 |[abjuration-04-NBSBFHxBm88qxQUy.htm](spells/abjuration-04-NBSBFHxBm88qxQUy.htm)|Chromatic Armor|Armure chromatique|libre|
 |[abjuration-04-onjZCEHs3JJJRTD0.htm](spells/abjuration-04-onjZCEHs3JJJRTD0.htm)|Private Sanctum|Sanctuaire secret|officielle|
@@ -1038,7 +1032,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|officielle|
 |[transmutation-01-1lmzILdCFENln8Cy.htm](spells/transmutation-01-1lmzILdCFENln8Cy.htm)|Physical Boost|Amélioration physique|officielle|
 |[transmutation-01-8RWfKConLYFZpQ9X.htm](spells/transmutation-01-8RWfKConLYFZpQ9X.htm)|Wild Shape|Morphologie sauvage|libre|
-|[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|officielle|
+|[transmutation-01-aEM2cttJ2eYcLssW.htm](spells/transmutation-01-aEM2cttJ2eYcLssW.htm)|Fleet Step|Pas rapide|libre|
 |[transmutation-01-AiWtiVmyasyL42J8.htm](spells/transmutation-01-AiWtiVmyasyL42J8.htm)|Crushing Ground|Sol écrasant|libre|
 |[transmutation-01-AUctDF2fqPZN2w4W.htm](spells/transmutation-01-AUctDF2fqPZN2w4W.htm)|Sigil|Symbole|officielle|
 |[transmutation-01-BA143r8fCqmSjdRf.htm](spells/transmutation-01-BA143r8fCqmSjdRf.htm)|Nettleskin|Peau d'épine|libre|
