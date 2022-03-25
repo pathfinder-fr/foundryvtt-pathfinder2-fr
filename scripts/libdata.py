@@ -102,7 +102,6 @@ SUPPORTED = {
         }
     },
     #### Les divinités
-    #### "deities-journal":    { 'transl': "Divinités journal", "paths": { 'name': "name", 'desc': "content" }},
     "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" }},
     "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" }},
     #### Les règles du jeu : les actions, les conditions
