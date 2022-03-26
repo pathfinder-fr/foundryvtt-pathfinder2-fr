@@ -3079,7 +3079,7 @@
         {
             "id": "Assisting Shot",
             "name": "Assisting Shot (Tir de soutien)",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Avec un tir rapide, vous interférez avec un ennemi en combat. Portez une Frappe avec une arme à distance. Si la Frappe touche, la prochaine créature autre que vous, qui attaque la même cible avant le début de votre prochain tour, obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un succès critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup  critique)}</p>",
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance.\n<hr />\n<p>Avec un tir rapide, vous interférez avec un ennemi en combat. Faites une Frappe avec une arme à distance. Si la Frappe touche, la prochaine créature autre que vous, qui attaque la même cible avant le début de votre prochain tour, obtient un bonus de circonstances de +1 à son jet ou un bonus de circonstances de +2 si votre Frappe était un coup critique.</p>\n<p>@Compendium[pf2e.feat-effects.zcJii1XyOne9EvMr]{Effet : Tir de soutien}</p>\n<p>@Compendium[pf2e.feat-effects.AAgoUuwMvHzqNhIN]{Effet : Tir de soutien (coup critique)}</p>",
             "prereq": [
                 {
                     "value": "Vous maniez une arme à distance"

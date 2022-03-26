@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-03-23 07:43 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-26 07:59 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -452,15 +452,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aasimar Redeemer](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Rédempteur Aasimar (Héritier des plans)|`@Compendium[pf2e.pathfinder-bestiary.gDMPUL0UiOHrUUd3]`|
 |[Adamantine Golem](pathfinder-bestiary/keCgklXcy4HZgQIL.htm)|Golem d’adamantium|`@Compendium[pf2e.pathfinder-bestiary.keCgklXcy4HZgQIL]`|
 |[Adult Black Dragon](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Dragon noir adulte (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.irrXrWxJ0LYSUCQB]`|
-|[Adult Black Dragon (Spellcaster)](pathfinder-bestiary/AQwxOoYBwDUAwvfh.htm)||`@Compendium[pf2e.pathfinder-bestiary.AQwxOoYBwDUAwvfh]`|
+|[Adult Black Dragon (Spellcaster)](pathfinder-bestiary/AQwxOoYBwDUAwvfh.htm)|Dragon noir adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.AQwxOoYBwDUAwvfh]`|
 |[Adult Blue Dragon](pathfinder-bestiary/i3N3udPyTGVPLpoq.htm)|Dragon bleu adulte (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.i3N3udPyTGVPLpoq]`|
 |[Adult Blue Dragon (Spellcaster)](pathfinder-bestiary/Dp6dq9Jd0TanufdU.htm)|Dragon bleu adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.Dp6dq9Jd0TanufdU]`|
 |[Adult Brass Dragon](pathfinder-bestiary/JnOgG1xfWleFGNt9.htm)|Dragon d'airain adulte (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.JnOgG1xfWleFGNt9]`|
-|[Adult Brass Dragon (Spellcaster)](pathfinder-bestiary/F99r7jcWX5YZB8xw.htm)||`@Compendium[pf2e.pathfinder-bestiary.F99r7jcWX5YZB8xw]`|
+|[Adult Brass Dragon (Spellcaster)](pathfinder-bestiary/F99r7jcWX5YZB8xw.htm)|Dragon d'airain adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.F99r7jcWX5YZB8xw]`|
 |[Adult Bronze Dragon](pathfinder-bestiary/IMasNR02C74jy3cT.htm)|Dragon de bronze adulte (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.IMasNR02C74jy3cT]`|
-|[Adult Bronze Dragon (Spellcaster)](pathfinder-bestiary/oj0vzfjflUc3xMBo.htm)||`@Compendium[pf2e.pathfinder-bestiary.oj0vzfjflUc3xMBo]`|
+|[Adult Bronze Dragon (Spellcaster)](pathfinder-bestiary/oj0vzfjflUc3xMBo.htm)|Dragon de bronze (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.oj0vzfjflUc3xMBo]`|
 |[Adult Copper Dragon](pathfinder-bestiary/Fzn4jHusVeyytgfx.htm)|Dragon de cuivre adulte (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.Fzn4jHusVeyytgfx]`|
-|[Adult Copper Dragon (Spellcaster)](pathfinder-bestiary/ouOt6d8xUFk8NhJ9.htm)||`@Compendium[pf2e.pathfinder-bestiary.ouOt6d8xUFk8NhJ9]`|
+|[Adult Copper Dragon (Spellcaster)](pathfinder-bestiary/ouOt6d8xUFk8NhJ9.htm)|Dragon de cuivre adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.ouOt6d8xUFk8NhJ9]`|
 |[Adult Gold Dragon](pathfinder-bestiary/aAiuQvMGPN9QXwKY.htm)|Dragon d'or adulte (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.aAiuQvMGPN9QXwKY]`|
 |[Adult Gold Dragon (Spellcaster)](pathfinder-bestiary/NgCKGq28Qvt6ZOSr.htm)|Dragon d'or adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.NgCKGq28Qvt6ZOSr]`|
 |[Adult Green Dragon](pathfinder-bestiary/zXi6UhZ0mXWpKk4A.htm)|Dragon vert adulte (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.zXi6UhZ0mXWpKk4A]`|
@@ -468,22 +468,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Adult Red Dragon](pathfinder-bestiary/JhQGNMlKARMx1n2D.htm)|Dragon rouge adulte (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.JhQGNMlKARMx1n2D]`|
 |[Adult Red Dragon (Spellcaster)](pathfinder-bestiary/pFmaszqtsA2yt7dv.htm)|Dragon rouge adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.pFmaszqtsA2yt7dv]`|
 |[Adult Silver Dragon](pathfinder-bestiary/v9eQFqibX6EYsmuX.htm)|Dragon d'argent adulte (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.v9eQFqibX6EYsmuX]`|
-|[Adult Silver Dragon (Spellcaster)](pathfinder-bestiary/tl1aGbwuPPUDKHbN.htm)||`@Compendium[pf2e.pathfinder-bestiary.tl1aGbwuPPUDKHbN]`|
+|[Adult Silver Dragon (Spellcaster)](pathfinder-bestiary/tl1aGbwuPPUDKHbN.htm)|Dragon d'argent (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.tl1aGbwuPPUDKHbN]`|
 |[Adult White Dragon](pathfinder-bestiary/024PqcF8yMRBrPuq.htm)|Dragon Blanc adulte (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.024PqcF8yMRBrPuq]`|
-|[Adult White Dragon (Spellcaster)](pathfinder-bestiary/MhEfUXkSfLtgpmfE.htm)||`@Compendium[pf2e.pathfinder-bestiary.MhEfUXkSfLtgpmfE]`|
+|[Adult White Dragon (Spellcaster)](pathfinder-bestiary/MhEfUXkSfLtgpmfE.htm)|Dragon blanc adulte (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.MhEfUXkSfLtgpmfE]`|
 |[Air Mephit](pathfinder-bestiary/KDRlxdIUADWHI6Vr.htm)|Méphite d'air (Élémentaire)|`@Compendium[pf2e.pathfinder-bestiary.KDRlxdIUADWHI6Vr]`|
 |[Alchemical Golem](pathfinder-bestiary/Tpuqwt6Af29EMtqX.htm)|Golem alchimique|`@Compendium[pf2e.pathfinder-bestiary.Tpuqwt6Af29EMtqX]`|
 |[Alghollthu Master](pathfinder-bestiary/tuIqEvsct8EO33xs.htm)|Maître Alghollthu|`@Compendium[pf2e.pathfinder-bestiary.tuIqEvsct8EO33xs]`|
 |[Ancient Black Dragon](pathfinder-bestiary/Lvdykf6wfqzZBlZd.htm)|Dragon noir vénérable (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.Lvdykf6wfqzZBlZd]`|
-|[Ancient Black Dragon (Spellcaster)](pathfinder-bestiary/pYNMxg5z2nRFmkMM.htm)||`@Compendium[pf2e.pathfinder-bestiary.pYNMxg5z2nRFmkMM]`|
+|[Ancient Black Dragon (Spellcaster)](pathfinder-bestiary/pYNMxg5z2nRFmkMM.htm)|Dragon noir vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.pYNMxg5z2nRFmkMM]`|
 |[Ancient Blue Dragon](pathfinder-bestiary/uPxh3VpA80zZdWfx.htm)|Dragon bleu vénérable (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.uPxh3VpA80zZdWfx]`|
 |[Ancient Blue Dragon (Spellcaster)](pathfinder-bestiary/4C3Sh2lO9oWi78Zo.htm)|Dragon bleu vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.4C3Sh2lO9oWi78Zo]`|
 |[Ancient Brass Dragon](pathfinder-bestiary/bSjF2lCgchtp2ocS.htm)|Dragon d'airain vénérable (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.bSjF2lCgchtp2ocS]`|
-|[Ancient Brass Dragon (Spellcaster)](pathfinder-bestiary/kbZ3t5HhHRJJ4AMn.htm)||`@Compendium[pf2e.pathfinder-bestiary.kbZ3t5HhHRJJ4AMn]`|
+|[Ancient Brass Dragon (Spellcaster)](pathfinder-bestiary/kbZ3t5HhHRJJ4AMn.htm)|Dragon d'airain vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.kbZ3t5HhHRJJ4AMn]`|
 |[Ancient Bronze Dragon](pathfinder-bestiary/BzBFDaNj51PP97RZ.htm)|Dragon de bronze vénérable (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.BzBFDaNj51PP97RZ]`|
-|[Ancient Bronze Dragon (Spellcaster)](pathfinder-bestiary/MLmwdUIW4o7ZSUEG.htm)||`@Compendium[pf2e.pathfinder-bestiary.MLmwdUIW4o7ZSUEG]`|
+|[Ancient Bronze Dragon (Spellcaster)](pathfinder-bestiary/MLmwdUIW4o7ZSUEG.htm)|Dragon de bronze vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.MLmwdUIW4o7ZSUEG]`|
 |[Ancient Copper Dragon](pathfinder-bestiary/B9KJUdZre51J3E3e.htm)|Dragon de cuivre vénérable (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.B9KJUdZre51J3E3e]`|
-|[Ancient Copper Dragon (Spellcaster)](pathfinder-bestiary/qGvK4f8Clc6dOwLU.htm)||`@Compendium[pf2e.pathfinder-bestiary.qGvK4f8Clc6dOwLU]`|
+|[Ancient Copper Dragon (Spellcaster)](pathfinder-bestiary/qGvK4f8Clc6dOwLU.htm)|Dragon de cuivre vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.qGvK4f8Clc6dOwLU]`|
 |[Ancient Gold Dragon](pathfinder-bestiary/nWiibOE9wVSlTdkx.htm)|Dragon d'or vénérable (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.nWiibOE9wVSlTdkx]`|
 |[Ancient Gold Dragon (Spellcaster)](pathfinder-bestiary/VEnjCj4geJBzTgBJ.htm)|Dragon d'or vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.VEnjCj4geJBzTgBJ]`|
 |[Ancient Green Dragon](pathfinder-bestiary/0FGz2eXm0SB04sJW.htm)|Dragon vert vénérable (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.0FGz2eXm0SB04sJW]`|
@@ -491,9 +491,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Ancient Red Dragon](pathfinder-bestiary/9H11QHnoKz8hHKSM.htm)|Dragon rouge vénérable (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.9H11QHnoKz8hHKSM]`|
 |[Ancient Red Dragon (Spellcaster)](pathfinder-bestiary/2T2cN4j4EzfDAIEe.htm)|Dragon rouge vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.2T2cN4j4EzfDAIEe]`|
 |[Ancient Silver Dragon](pathfinder-bestiary/SWOZ0e2IQifxzlgL.htm)|Dragon d'argent vénérable (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.SWOZ0e2IQifxzlgL]`|
-|[Ancient Silver Dragon (Spellcaster)](pathfinder-bestiary/jlEFaUJjAK4MTsLc.htm)||`@Compendium[pf2e.pathfinder-bestiary.jlEFaUJjAK4MTsLc]`|
+|[Ancient Silver Dragon (Spellcaster)](pathfinder-bestiary/jlEFaUJjAK4MTsLc.htm)|Dragon d'argent vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.jlEFaUJjAK4MTsLc]`|
 |[Ancient White Dragon](pathfinder-bestiary/mXkMSlj3LldzKxB9.htm)|Dragon blanc vénérable (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.mXkMSlj3LldzKxB9]`|
-|[Ancient White Dragon (Spellcaster)](pathfinder-bestiary/OqCiTKXZu7EWmAI0.htm)||`@Compendium[pf2e.pathfinder-bestiary.OqCiTKXZu7EWmAI0]`|
+|[Ancient White Dragon (Spellcaster)](pathfinder-bestiary/OqCiTKXZu7EWmAI0.htm)|Dragon blanc vénérable (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.OqCiTKXZu7EWmAI0]`|
 |[Animated Armor](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Armure animée (Objet animé)|`@Compendium[pf2e.pathfinder-bestiary.cZDiyluplFqRxmGy]`|
 |[Animated Broom](pathfinder-bestiary/ETwmjdnmSkqGdD5r.htm)|Balai animé (Objet animé)|`@Compendium[pf2e.pathfinder-bestiary.ETwmjdnmSkqGdD5r]`|
 |[Animated Statue](pathfinder-bestiary/PiAGhPEzJMC2egQk.htm)|Statue animée (Objet animé)|`@Compendium[pf2e.pathfinder-bestiary.PiAGhPEzJMC2egQk]`|
@@ -543,11 +543,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Centipede Swarm](pathfinder-bestiary/ZPAM4OavHmdgmGnw.htm)|Nuée de mille-pattes|`@Compendium[pf2e.pathfinder-bestiary.ZPAM4OavHmdgmGnw]`|
 |[Ceustodaemon](pathfinder-bestiary/NW1Ax1QGE9W4DmiN.htm)|Ceustodaémon (Daémon)|`@Compendium[pf2e.pathfinder-bestiary.NW1Ax1QGE9W4DmiN]`|
 |[Changeling Exile](pathfinder-bestiary/bAjHCeyNcPRqOmLv.htm)|Exilée Changeline|`@Compendium[pf2e.pathfinder-bestiary.bAjHCeyNcPRqOmLv]`|
-|[Chimera (Black Dragon)](pathfinder-bestiary/RTUp97xNDutzYpuY.htm)||`@Compendium[pf2e.pathfinder-bestiary.RTUp97xNDutzYpuY]`|
-|[Chimera (Blue Dragon)](pathfinder-bestiary/x81PGKEsOtPquFVa.htm)||`@Compendium[pf2e.pathfinder-bestiary.x81PGKEsOtPquFVa]`|
-|[Chimera (Green Dragon)](pathfinder-bestiary/YdlmpfZso6GwPr2D.htm)||`@Compendium[pf2e.pathfinder-bestiary.YdlmpfZso6GwPr2D]`|
-|[Chimera (Red Dragon)](pathfinder-bestiary/ScNPruIwcIJNuSHb.htm)|Chimère|`@Compendium[pf2e.pathfinder-bestiary.ScNPruIwcIJNuSHb]`|
-|[Chimera (White Dragon)](pathfinder-bestiary/nkWnoEHWUsBLgNje.htm)||`@Compendium[pf2e.pathfinder-bestiary.nkWnoEHWUsBLgNje]`|
+|[Chimera (Black Dragon)](pathfinder-bestiary/RTUp97xNDutzYpuY.htm)|Chmière (Dragon noir)|`@Compendium[pf2e.pathfinder-bestiary.RTUp97xNDutzYpuY]`|
+|[Chimera (Blue Dragon)](pathfinder-bestiary/x81PGKEsOtPquFVa.htm)|Chimère (Dragon bleu)|`@Compendium[pf2e.pathfinder-bestiary.x81PGKEsOtPquFVa]`|
+|[Chimera (Green Dragon)](pathfinder-bestiary/YdlmpfZso6GwPr2D.htm)|Chimère (Dragon vert)|`@Compendium[pf2e.pathfinder-bestiary.YdlmpfZso6GwPr2D]`|
+|[Chimera (Red Dragon)](pathfinder-bestiary/ScNPruIwcIJNuSHb.htm)|Chimère (Dragon rouge)|`@Compendium[pf2e.pathfinder-bestiary.ScNPruIwcIJNuSHb]`|
+|[Chimera (White Dragon)](pathfinder-bestiary/nkWnoEHWUsBLgNje.htm)|Chimère (Dragon blanc)|`@Compendium[pf2e.pathfinder-bestiary.nkWnoEHWUsBLgNje]`|
 |[Choral](pathfinder-bestiary/zUvgAbgeQH5t6DWs.htm)|Chœur (Ange)|`@Compendium[pf2e.pathfinder-bestiary.zUvgAbgeQH5t6DWs]`|
 |[Chuul](pathfinder-bestiary/aD76W2uEQhFFUrom.htm)|Chuul|`@Compendium[pf2e.pathfinder-bestiary.aD76W2uEQhFFUrom]`|
 |[Cinder Rat](pathfinder-bestiary/hiGwRWdxAsoCII4f.htm)|Rat des braises (Élémentaire, feu)|`@Compendium[pf2e.pathfinder-bestiary.hiGwRWdxAsoCII4f]`|
@@ -698,7 +698,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Janni](pathfinder-bestiary/tMxtnGthVV01wNQb.htm)|Jann (Génie)|`@Compendium[pf2e.pathfinder-bestiary.tMxtnGthVV01wNQb]`|
 |[Jinkin](pathfinder-bestiary/gfRXFd24U633OC9r.htm)|Jinkin (Gremlin)|`@Compendium[pf2e.pathfinder-bestiary.gfRXFd24U633OC9r]`|
 |[Jungle Drake](pathfinder-bestiary/vEFENJJixCdmBNl5.htm)|Drake de la jungle|`@Compendium[pf2e.pathfinder-bestiary.vEFENJJixCdmBNl5]`|
-|[Kapoacinth](pathfinder-bestiary/yq1BgQi0BsAMbU69.htm)||`@Compendium[pf2e.pathfinder-bestiary.yq1BgQi0BsAMbU69]`|
+|[Kapoacinth](pathfinder-bestiary/yq1BgQi0BsAMbU69.htm)|Kapoacinth|`@Compendium[pf2e.pathfinder-bestiary.yq1BgQi0BsAMbU69]`|
 |[Keketar](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Ké’ktar (Protéen)|`@Compendium[pf2e.pathfinder-bestiary.zBPGUUP788b0g1Ng]`|
 |[Kobold Scout](pathfinder-bestiary/rPaHIh0ICnTLnRO6.htm)|Éclaireur Kobold|`@Compendium[pf2e.pathfinder-bestiary.rPaHIh0ICnTLnRO6]`|
 |[Kobold Warrior](pathfinder-bestiary/r9w1n85mp9Ip4QiS.htm)|Guerrier kobold|`@Compendium[pf2e.pathfinder-bestiary.r9w1n85mp9Ip4QiS]`|
@@ -708,7 +708,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lamia](pathfinder-bestiary/IQsTNM8aXcCUmFu0.htm)|Lamie|`@Compendium[pf2e.pathfinder-bestiary.IQsTNM8aXcCUmFu0]`|
 |[Lamia Matriarch](pathfinder-bestiary/NymSyXbXqfkGLFWF.htm)|Matriarche Lamie|`@Compendium[pf2e.pathfinder-bestiary.NymSyXbXqfkGLFWF]`|
 |[Lantern Archon](pathfinder-bestiary/0HjVFx8qIKDCfblg.htm)|Archon lumineux|`@Compendium[pf2e.pathfinder-bestiary.0HjVFx8qIKDCfblg]`|
-|[Lantern Archon (Gestalt)](pathfinder-bestiary/gztjujplfVCBVXv0.htm)||`@Compendium[pf2e.pathfinder-bestiary.gztjujplfVCBVXv0]`|
+|[Lantern Archon (Gestalt)](pathfinder-bestiary/gztjujplfVCBVXv0.htm)|Archon lumineux (Gestalt)|`@Compendium[pf2e.pathfinder-bestiary.gztjujplfVCBVXv0]`|
 |[Leaf Leshy](pathfinder-bestiary/BeptBpCJ4Ny4biOH.htm)|Léchi de feuilles|`@Compendium[pf2e.pathfinder-bestiary.BeptBpCJ4Ny4biOH]`|
 |[Legion Archon](pathfinder-bestiary/4B47SUq57pcl3U9u.htm)|Archon Légionnaire|`@Compendium[pf2e.pathfinder-bestiary.4B47SUq57pcl3U9u]`|
 |[Lemure](pathfinder-bestiary/zJro50sLFmOcDLdO.htm)|Lémure (Diable)|`@Compendium[pf2e.pathfinder-bestiary.zJro50sLFmOcDLdO]`|
@@ -893,15 +893,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Xulgath Warrior](pathfinder-bestiary/RTzFvmdSCf5yhguy.htm)|Guerrier Xulgath|`@Compendium[pf2e.pathfinder-bestiary.RTzFvmdSCf5yhguy]`|
 |[Yeti](pathfinder-bestiary/7ZgQuis8r8YQyUnI.htm)|Yéti|`@Compendium[pf2e.pathfinder-bestiary.7ZgQuis8r8YQyUnI]`|
 |[Young Black Dragon](pathfinder-bestiary/v0GZ6zDWhD1Y3xs9.htm)|Jeune dragon noir (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.v0GZ6zDWhD1Y3xs9]`|
-|[Young Black Dragon (Spellcaster)](pathfinder-bestiary/kR1wGS61ubIpH8A6.htm)||`@Compendium[pf2e.pathfinder-bestiary.kR1wGS61ubIpH8A6]`|
+|[Young Black Dragon (Spellcaster)](pathfinder-bestiary/kR1wGS61ubIpH8A6.htm)|Jeune dragon noir (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.kR1wGS61ubIpH8A6]`|
 |[Young Blue Dragon](pathfinder-bestiary/ar0tszs8NAgQamHX.htm)|Jeune dragon bleu (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.ar0tszs8NAgQamHX]`|
 |[Young Blue Dragon (Spellcaster)](pathfinder-bestiary/fd3Bf10lloqMg2jW.htm)|Jeune dragon bleu (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.fd3Bf10lloqMg2jW]`|
 |[Young Brass Dragon](pathfinder-bestiary/uA0cv4OT5mQnym0V.htm)|Jeune dragon d'airain (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.uA0cv4OT5mQnym0V]`|
-|[Young Brass Dragon (Spellcaster)](pathfinder-bestiary/fcE9PgnC82e9haL5.htm)||`@Compendium[pf2e.pathfinder-bestiary.fcE9PgnC82e9haL5]`|
+|[Young Brass Dragon (Spellcaster)](pathfinder-bestiary/fcE9PgnC82e9haL5.htm)|Jeune dragon d'airain (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.fcE9PgnC82e9haL5]`|
 |[Young Bronze Dragon](pathfinder-bestiary/uQOTCiHslczvrNpt.htm)|Jeune dragon de bronze (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.uQOTCiHslczvrNpt]`|
-|[Young Bronze Dragon (Spellcaster)](pathfinder-bestiary/fsdCVADRbLxpBVT8.htm)||`@Compendium[pf2e.pathfinder-bestiary.fsdCVADRbLxpBVT8]`|
+|[Young Bronze Dragon (Spellcaster)](pathfinder-bestiary/fsdCVADRbLxpBVT8.htm)|Jeune dragon de bronze (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.fsdCVADRbLxpBVT8]`|
 |[Young Copper Dragon](pathfinder-bestiary/3W2PMV6IbVdouOB1.htm)|Jeune dragon de cuivre (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.3W2PMV6IbVdouOB1]`|
-|[Young Copper Dragon (Spellcaster)](pathfinder-bestiary/pzG7Od1aHj0DkTzS.htm)||`@Compendium[pf2e.pathfinder-bestiary.pzG7Od1aHj0DkTzS]`|
+|[Young Copper Dragon (Spellcaster)](pathfinder-bestiary/pzG7Od1aHj0DkTzS.htm)|Jeune dragon de cuivre (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.pzG7Od1aHj0DkTzS]`|
 |[Young Gold Dragon](pathfinder-bestiary/DolNTN9s2p79N8Cy.htm)|Jeune dragon d'or (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.DolNTN9s2p79N8Cy]`|
 |[Young Gold Dragon (Spellcaster)](pathfinder-bestiary/9xdl2PpfMEfJWhSO.htm)|Jeune dragon d'or (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.9xdl2PpfMEfJWhSO]`|
 |[Young Green Dragon](pathfinder-bestiary/xZQIChzzIYbNIEoT.htm)|Jeune dragon vert (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.xZQIChzzIYbNIEoT]`|
@@ -909,9 +909,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Young Red Dragon](pathfinder-bestiary/sUGKrcx7kbHkWnwG.htm)|Jeune dragon rouge (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.sUGKrcx7kbHkWnwG]`|
 |[Young Red Dragon (Spellcaster)](pathfinder-bestiary/oLdrCmarnzd62kA8.htm)|Jeune dragon rouge (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.oLdrCmarnzd62kA8]`|
 |[Young Silver Dragon](pathfinder-bestiary/YPLZkAlOuaj3F3nZ.htm)|Jeune dragon d'argent (Métallique)|`@Compendium[pf2e.pathfinder-bestiary.YPLZkAlOuaj3F3nZ]`|
-|[Young Silver Dragon (Spellcaster)](pathfinder-bestiary/dYbfZnB1ngiqPm4O.htm)||`@Compendium[pf2e.pathfinder-bestiary.dYbfZnB1ngiqPm4O]`|
+|[Young Silver Dragon (Spellcaster)](pathfinder-bestiary/dYbfZnB1ngiqPm4O.htm)|Jeune dragon d'argent (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.dYbfZnB1ngiqPm4O]`|
 |[Young White Dragon](pathfinder-bestiary/3OPUMuBQThM5EXjz.htm)|Jeune dragon blanc (Chromatique)|`@Compendium[pf2e.pathfinder-bestiary.3OPUMuBQThM5EXjz]`|
-|[Young White Dragon (Spellcaster)](pathfinder-bestiary/csfVqep68nYGHExr.htm)||`@Compendium[pf2e.pathfinder-bestiary.csfVqep68nYGHExr]`|
+|[Young White Dragon (Spellcaster)](pathfinder-bestiary/csfVqep68nYGHExr.htm)|Jeune dragon blanc (Incantateur)|`@Compendium[pf2e.pathfinder-bestiary.csfVqep68nYGHExr]`|
 |[Zaramuun](pathfinder-bestiary/31kXa1P0LUl38jYG.htm)|Zaramuun|`@Compendium[pf2e.pathfinder-bestiary.31kXa1P0LUl38jYG]`|
 |[Zephyr Hawk](pathfinder-bestiary/cBHpMcVaLRPZu9po.htm)|Faucon Zéphyr (Élémentaire, air)|`@Compendium[pf2e.pathfinder-bestiary.cBHpMcVaLRPZu9po]`|
 |[Zombie Brute](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Brute zombie|`@Compendium[pf2e.pathfinder-bestiary.Ix1PziAEk9IIMYBz]`|
@@ -8445,7 +8445,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Blindness](spells/necromancy-03-VosLNn2M8S7JH67D.htm)|Cécité|`@Compendium[pf2e.spells-srd.VosLNn2M8S7JH67D]`|
 |[Blink](spells/conjuration-04-zR67Rt3UMHKC5evy.htm)|Clignotement|`@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]`|
 |[Blink Charge](spells/conjuration-05-TDaMnCtZ72uyYrz8.htm)|Charge clignotante|`@Compendium[pf2e.spells-srd.TDaMnCtZ72uyYrz8]`|
-|[Blister](spells/necromancy-05-59NR1hA2jPSgg2sW.htm)|Boursouflure|`@Compendium[pf2e.spells-srd.59NR1hA2jPSgg2sW]`|
+|[Blister](spells/necromancy-05-59NR1hA2jPSgg2sW.htm)|Pustule|`@Compendium[pf2e.spells-srd.59NR1hA2jPSgg2sW]`|
 |[Blistering Invective](spells/enchantment-02-hoR6w8BqX2F35Tdx.htm)|Invectives torrides|`@Compendium[pf2e.spells-srd.hoR6w8BqX2F35Tdx]`|
 |[Blood Feast](spells/necromancy-05-ES6FkwXXqYr4ujQH.htm)|Festin de sang|`@Compendium[pf2e.spells-srd.ES6FkwXXqYr4ujQH]`|
 |[Blood Vendetta](spells/necromancy-02-TaaMEYdZXQXF0Sks.htm)|Vendetta du sang|`@Compendium[pf2e.spells-srd.TaaMEYdZXQXF0Sks]`|
@@ -9863,7 +9863,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Blue Dragon's Breath Potion (Wyrm)](equipment/consumable-17-ltILKAEnrZ8vKwY0.htm)|Potion de souffle de dracosire bleu|`@Compendium[pf2e.equipment-srd.ltILKAEnrZ8vKwY0]`|
 |[Blue Dragon's Breath Potion (Young)](equipment/consumable-07-xpVHMxLcwgXzL39e.htm)|Potion de souffle du jeune dragon bleu|`@Compendium[pf2e.equipment-srd.xpVHMxLcwgXzL39e]`|
 |[Blue Dragonfly Poison](equipment/consumable-03-rfyWXgrVD2lm91CC.htm)|Poison de Libellule bleue|`@Compendium[pf2e.equipment-srd.rfyWXgrVD2lm91CC]`|
-|[Blueblisters](equipment/consumable-03-3iRTGS2vYXz7SBrn.htm)|Boursouflure bleue|`@Compendium[pf2e.equipment-srd.3iRTGS2vYXz7SBrn]`|
+|[Blueblisters](equipment/consumable-03-3iRTGS2vYXz7SBrn.htm)|Boursouflures bleues|`@Compendium[pf2e.equipment-srd.3iRTGS2vYXz7SBrn]`|
 |[Blunderbuss](equipment/weapon-00-csXSDzgZASX4RWr4.htm)|Tromblon|`@Compendium[pf2e.equipment-srd.csXSDzgZASX4RWr4]`|
 |[Bo Staff](equipment/weapon-00-hMYdSFmMWzidzHih.htm)|Bô|`@Compendium[pf2e.equipment-srd.hMYdSFmMWzidzHih]`|
 |[Boarding Axe](equipment/weapon-00-gTTJuNgwTcNmkDx2.htm)|Hache d'abordage|`@Compendium[pf2e.equipment-srd.gTTJuNgwTcNmkDx2]`|
@@ -9956,7 +9956,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Buugeng](equipment/weapon-00-7WRzbBTOCsJx5f7L.htm)|Buugeng|`@Compendium[pf2e.equipment-srd.7WRzbBTOCsJx5f7L]`|
 |[Buzzsaw Axe](equipment/weapon-11-aBfyzL0WBFMBAbuI.htm)|Hache tourbillonante|`@Compendium[pf2e.equipment-srd.aBfyzL0WBFMBAbuI]`|
 |[Buzzsaw Axe (Greater)](equipment/weapon-15-mXlVJIxv6EpzwTJs.htm)|Hache tourbillonnante supérieure|`@Compendium[pf2e.equipment-srd.mXlVJIxv6EpzwTJs]`|
-|[Buzzsaw Axe (Major)](equipment/weapon-20-D2CnWGQ84bSjh5bz.htm)|Hache tourbillonnante majeur|`@Compendium[pf2e.equipment-srd.D2CnWGQ84bSjh5bz]`|
+|[Buzzsaw Axe (Major)](equipment/weapon-20-D2CnWGQ84bSjh5bz.htm)|Hache tourbillonnante majeure|`@Compendium[pf2e.equipment-srd.D2CnWGQ84bSjh5bz]`|
 |[Called](equipment/equipment-03-QHc7AnKoMpcqsI2d.htm)|Appelé (rune)|`@Compendium[pf2e.equipment-srd.QHc7AnKoMpcqsI2d]`|
 |[Caltrop Snare](equipment/consumable-01-kF761P3ibBIFmLm9.htm)|Piège artisanal de chausse-trappes|`@Compendium[pf2e.equipment-srd.kF761P3ibBIFmLm9]`|
 |[Caltrops](equipment/equipment-00-7fSnvJ2xoSfa6JXD.htm)|Chausse-trappes|`@Compendium[pf2e.equipment-srd.7fSnvJ2xoSfa6JXD]`|
@@ -10216,8 +10216,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Deck of Many Things](equipment/equipment-22-Gyi4IVrAVJRPJF2s.htm)|Paquet de cartes merveilleuses|`@Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]`|
 |[Deck of Mischief](equipment/equipment-04-7ZfWiHqDyb6NllN1.htm)|Jeu de cartes espiègle|`@Compendium[pf2e.equipment-srd.7ZfWiHqDyb6NllN1]`|
 |[Deck of illusions](equipment/equipment-06-0zTY4ogkffTxmJUj.htm)|Jeu de carte des illusions|`@Compendium[pf2e.equipment-srd.0zTY4ogkffTxmJUj]`|
-|[Deepdread Claw](equipment/weapon-14-jE5H6jmDJEzxGvSP.htm)|Griffe de l'érudit|`@Compendium[pf2e.equipment-srd.jE5H6jmDJEzxGvSP]`|
-|[Deflecting Branch](equipment/weapon-14-zXUmfJEBQ7Pfovve.htm)|Massue de déviation|`@Compendium[pf2e.equipment-srd.zXUmfJEBQ7Pfovve]`|
+|[Deepdread Claw](equipment/weapon-14-jE5H6jmDJEzxGvSP.htm)|Griffe de la terreur profonde|`@Compendium[pf2e.equipment-srd.jE5H6jmDJEzxGvSP]`|
+|[Deflecting Branch](equipment/weapon-14-zXUmfJEBQ7Pfovve.htm)|Branche de déviation|`@Compendium[pf2e.equipment-srd.zXUmfJEBQ7Pfovve]`|
 |[Demilich Eye Gem](equipment/equipment-15-Q4o8pEdxSY0bnJQZ.htm)|Œil de Demi-liche|`@Compendium[pf2e.equipment-srd.Q4o8pEdxSY0bnJQZ]`|
 |[Demolishing](equipment/equipment-06-i9hF185TRK0cH8B4.htm)|Démolisseuse (rune)|`@Compendium[pf2e.equipment-srd.i9hF185TRK0cH8B4]`|
 |[Demon Armor](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Armure démoniaque|`@Compendium[pf2e.equipment-srd.hYBZK1kaGPeR85CH]`|
@@ -10475,17 +10475,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Feather Token (Balloon)](equipment/consumable-06-cgWT0BUa6b6V7zDg.htm)|Plume magique (Dirigeable)|`@Compendium[pf2e.equipment-srd.cgWT0BUa6b6V7zDg]`|
 |[Feather Token (Bird)](equipment/consumable-03-fFq8nsGvSUgzVeND.htm)|Plume magique (oiseau)|`@Compendium[pf2e.equipment-srd.fFq8nsGvSUgzVeND]`|
 |[Feather Token (Chest)](equipment/consumable-03-Dn2KQgIeWNijaUzL.htm)|Plume magique (coffre)|`@Compendium[pf2e.equipment-srd.Dn2KQgIeWNijaUzL]`|
-|[Feather Token (Chest) (Ammunition)](equipment/consumable-05-BUZ8yiAXgXH8otmM.htm)||`@Compendium[pf2e.equipment-srd.BUZ8yiAXgXH8otmM]`|
+|[Feather Token (Chest) (Ammunition)](equipment/consumable-05-BUZ8yiAXgXH8otmM.htm)|Jeton en plume coffre (munition)|`@Compendium[pf2e.equipment-srd.BUZ8yiAXgXH8otmM]`|
 |[Feather Token (Fan)](equipment/consumable-04-3Fmbw9wJkqZBV9De.htm)|Plume magique (éventail)|`@Compendium[pf2e.equipment-srd.3Fmbw9wJkqZBV9De]`|
 |[Feather Token (Holly Bush)](equipment/consumable-02-cwurQLvQaqjK70UI.htm)|Plume magique (buisson de houx)|`@Compendium[pf2e.equipment-srd.cwurQLvQaqjK70UI]`|
-|[Feather Token (Holly Bush) (Ammunition)](equipment/consumable-04-eONI7XvfdGF34z74.htm)||`@Compendium[pf2e.equipment-srd.eONI7XvfdGF34z74]`|
+|[Feather Token (Holly Bush) (Ammunition)](equipment/consumable-04-eONI7XvfdGF34z74.htm)|Jeton en plume buisson de houx (munition)|`@Compendium[pf2e.equipment-srd.eONI7XvfdGF34z74]`|
 |[Feather Token (Ladder)](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Plume magique (échelle)|`@Compendium[pf2e.equipment-srd.3cWko20JPnjeoofV]`|
-|[Feather Token (Ladder) (Ammunition)](equipment/consumable-03-RmVh6urcDFWrcLxq.htm)||`@Compendium[pf2e.equipment-srd.RmVh6urcDFWrcLxq]`|
+|[Feather Token (Ladder) (Ammunition)](equipment/consumable-03-RmVh6urcDFWrcLxq.htm)|Jeton en plume échelle (munition)|`@Compendium[pf2e.equipment-srd.RmVh6urcDFWrcLxq]`|
 |[Feather Token (Puddle)](equipment/consumable-03-vQ2XU6y1MBVDtQgr.htm)|Plume magique (Flaque)|`@Compendium[pf2e.equipment-srd.vQ2XU6y1MBVDtQgr]`|
 |[Feather Token (Swan Boat)](equipment/consumable-08-WzsKbMMewXbf1nws.htm)|Plume magique (bateau cygne)|`@Compendium[pf2e.equipment-srd.WzsKbMMewXbf1nws]`|
-|[Feather Token (Swan Boat) (Ammunition)](equipment/consumable-10-BbhoGheRSwcfQ5z2.htm)||`@Compendium[pf2e.equipment-srd.BbhoGheRSwcfQ5z2]`|
+|[Feather Token (Swan Boat) (Ammunition)](equipment/consumable-10-BbhoGheRSwcfQ5z2.htm)|Jeton en plume bateau cygne (Munition)|`@Compendium[pf2e.equipment-srd.BbhoGheRSwcfQ5z2]`|
 |[Feather Token (Tree)](equipment/consumable-06-4owFeOy4zxy8rv7W.htm)|Plume magique (arbre)|`@Compendium[pf2e.equipment-srd.4owFeOy4zxy8rv7W]`|
-|[Feather Token (Tree) (Ammunition)](equipment/consumable-08-wRBz9mjTO9ZqXch6.htm)||`@Compendium[pf2e.equipment-srd.wRBz9mjTO9ZqXch6]`|
+|[Feather Token (Tree) (Ammunition)](equipment/consumable-08-wRBz9mjTO9ZqXch6.htm)|Jeton en plume arbre (Munition)|`@Compendium[pf2e.equipment-srd.wRBz9mjTO9ZqXch6]`|
 |[Feather Token (Whip)](equipment/consumable-09-XAuWVlZYGgCguzwz.htm)|Plume magique (fouet)|`@Compendium[pf2e.equipment-srd.XAuWVlZYGgCguzwz]`|
 |[Fiendish Teleportation](equipment/equipment-11-OI20gS0SRKVAORqm.htm)|Téléportation fiélonne|`@Compendium[pf2e.equipment-srd.OI20gS0SRKVAORqm]`|
 |[Fighter's Fork](equipment/weapon-03-Kx6FQS5GyVB6jlrW.htm)|Fourche de guerre|`@Compendium[pf2e.equipment-srd.Kx6FQS5GyVB6jlrW]`|
@@ -11750,7 +11750,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Singing Bowl of the Versatile Stance](equipment/equipment-11-A7TCZXIwyxdqYSas.htm)|Bol chantant de la posture polyvalente|`@Compendium[pf2e.equipment-srd.A7TCZXIwyxdqYSas]`|
 |[Singing Muse](equipment/consumable-06-NhCFZ043brhFTsni.htm)|Muse chantante|`@Compendium[pf2e.equipment-srd.NhCFZ043brhFTsni]`|
 |[Singing Shortbow](equipment/weapon-14-tVcI2ypPhfhchwMp.htm)|Arc court chantant|`@Compendium[pf2e.equipment-srd.tVcI2ypPhfhchwMp]`|
-|[Singing Shortbow (Greater)](equipment/weapon-18-ul4LuDff24Kz9n7e.htm)|Arc court composite chantant supérieur|`@Compendium[pf2e.equipment-srd.ul4LuDff24Kz9n7e]`|
+|[Singing Shortbow (Greater)](equipment/weapon-18-ul4LuDff24Kz9n7e.htm)|Arc court chantant supérieur|`@Compendium[pf2e.equipment-srd.ul4LuDff24Kz9n7e]`|
 |[Singing Sword](equipment/weapon-05-OKAR7GIyJac8dmsi.htm)|Épée chantante|`@Compendium[pf2e.equipment-srd.OKAR7GIyJac8dmsi]`|
 |[Singularity Ammunition](equipment/consumable-13-Pde3rUX3rx7VSCHn.htm)|Munition de sigularité|`@Compendium[pf2e.equipment-srd.Pde3rUX3rx7VSCHn]`|
 |[Sinister Knight](equipment/equipment-08-QDYPr19De3TBIysx.htm)|Chevalier sinistre (rune)|`@Compendium[pf2e.equipment-srd.QDYPr19De3TBIysx]`|
@@ -11932,7 +11932,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Staff of Nature's Cunning (Greater)](equipment/equipment-11-fKCNfS3PnDJW4f6x.htm)|Bâton de la nature astucieuse supérieur|`@Compendium[pf2e.equipment-srd.fKCNfS3PnDJW4f6x]`|
 |[Staff of Nature's Cunning (Major)](equipment/equipment-15-jMvkWfsXsjPis6RA.htm)|Bâton de la nature astucieuse majeur|`@Compendium[pf2e.equipment-srd.jMvkWfsXsjPis6RA]`|
 |[Staff of Nature's Vengeance](equipment/weapon-10-aPbDAb6cJKPvCHk2.htm)|Bâton de vengeance de la nature|`@Compendium[pf2e.equipment-srd.aPbDAb6cJKPvCHk2]`|
-|[Staff of Nature's Vengeance (Greater)](equipment/weapon-14-gca5Pgt9Pg8G23VA.htm)|Bâton de Vengeance de la nature supérieur|`@Compendium[pf2e.equipment-srd.gca5Pgt9Pg8G23VA]`|
+|[Staff of Nature's Vengeance (Greater)](equipment/weapon-14-gca5Pgt9Pg8G23VA.htm)|Bâton de vengeance de la nature supérieur|`@Compendium[pf2e.equipment-srd.gca5Pgt9Pg8G23VA]`|
 |[Staff of Nature's Vengeance (Major)](equipment/weapon-18-hnx3dOQrYLBtsu3V.htm)|Bâton de Vengeance de la nature majeur|`@Compendium[pf2e.equipment-srd.hnx3dOQrYLBtsu3V]`|
 |[Staff of Necromancy](equipment/weapon-06-c40Zn2TCRr3inIBA.htm)|Bâton de nécromancie|`@Compendium[pf2e.equipment-srd.c40Zn2TCRr3inIBA]`|
 |[Staff of Necromancy (Greater)](equipment/weapon-10-Ab5EjJyoRSec5YrW.htm)|Bâton de nécromancie supérieur|`@Compendium[pf2e.equipment-srd.Ab5EjJyoRSec5YrW]`|
