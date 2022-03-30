@@ -163,15 +163,15 @@ SUPPORTED = {
     ###"pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.privateNotes"}}
 
     # Animal Companions
-    "ac-advanced-maneuvers": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-ancestries-and-class": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-construct-breakthroughs": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-construct-companions": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-eidolons": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-evolution-feats": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-feats": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-advanced-maneuvers": {'pack': "../packs-animal", 'transl': "Manœuvres avancées (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-ancestries-and-class": {'pack': "../packs-animal", 'transl': "Ascendances et classes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-construct-breakthroughs": {'pack': "../packs-animal", 'transl': "Constructs Breakthroughs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-construct-companions": {'pack': "../packs-animal", 'transl': "Constructs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-eidolons": {'pack': "../packs-animal", 'transl': "Eidolons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-evolution-feats": {'pack': "../packs-animal", 'transl': "Évolutions (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-feats": {'pack': "../packs-animal", 'transl': "Dons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
     "ac-features": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-support-benefits": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}}
+    "ac-support-benefits": {'pack': "../packs-animal", 'transl': "Bénéfices (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}}
 }
 
 

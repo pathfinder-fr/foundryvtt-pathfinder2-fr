@@ -125,7 +125,7 @@ for pack in packs:
   if not 'desc' in pack['paths']:
     continue
 
-  filename = PACKS + pack_id + ".db"
+  filename=pack["pack"] + "/" + pack_id + ".db" if "pack" in pack else PACKS + pack_id + ".db"
   descPathParts = pack['paths']['desc'].split('.')
 
   with open(filename, 'r', encoding='utf8') as f:
