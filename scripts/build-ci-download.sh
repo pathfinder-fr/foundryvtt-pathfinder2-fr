@@ -14,7 +14,8 @@ echo "Downloading animal companions packs"
 mkdir .ci/ || true
 wget -q https://github.com/TikaelSol/PF2e-Animal-Companions/archive/refs/heads/main.zip -O .ci/animal.zip
 unzip -o -d .ci/ .ci/animal.zip
-mv .ci/PF2e-Animal-Companions-main/packs/* ../packs
+ls .ci/PF2e-Animal-Companions-main/
+mv .ci/PF2e-Animal-Companions-main/packs ../packs-animal
 rm -rf .ci/
 
 echo "Done"
