@@ -38,7 +38,8 @@ translations = {}
 
 for p in packs:   
 
-  key = "%s.%s" % ("pf2e",p["name"])  
+  module = p["module"] if "module" in p else "pf2e"
+  key = "%s.%s" % (module,p["name"])
   translations[p["id"]] = []
   packName = p["transl"]
   
