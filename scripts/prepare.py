@@ -30,7 +30,7 @@ has_errors = False
 for p in packs:
   pack_id = p["id"]
   print('Preparing %s.db pack' % (pack_id))
-  FILE=ROOT + "packs/" + pack_id + ".db"
+  FILE=p["pack"] + "/" + pack_id + ".db" if "pack" in p else ROOT + "packs/" + pack_id + ".db"
   entries = {}
 
   # =================================

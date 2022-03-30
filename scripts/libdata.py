@@ -159,7 +159,19 @@ SUPPORTED = {
     "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
     "equipment-effects": {'transl': "Effets de l'équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
     "feat-effects": {'transl': "Effets des dons", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "feature-effects": {'transl': "Effets des capacités", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}}
+    "feature-effects": {'transl': "Effets des capacités", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    ###"pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.privateNotes"}}
+
+    # Animal Companions
+    "ac-advanced-maneuvers": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-ancestries-and-class": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-construct-breakthroughs": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-construct-companions": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-eidolons": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-evolution-feats": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-feats": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-features": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    "ac-support-benefits": {'pack': "../packs-animal", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}}
 }
 
 
@@ -187,6 +199,7 @@ def getPacks():
         "https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/raw/master/system.json").text)
     packs = []
 
+    # PF2 system
     for p in response["packs"]:
         match = re.search('packs/([-\w]+)\.db', p['path'])
         if match:
@@ -195,6 +208,20 @@ def getPacks():
             print("Error parsing ID from %s" % p['path'])
             exit(1)
 
+        if p['id'] in SUPPORTED:
+            packs.append({**p, **SUPPORTED[p['id']]})
+
+    # PF2 Animal Companion
+    response = json.loads(requests.get(
+        "https://raw.githubusercontent.com/TikaelSol/PF2e-Animal-Companions/main/module.json").text)
+
+    for p in response["packs"]:
+        match = re.search('packs/([-\w]+)\.db', p['path'])
+        if match:
+            p['id'] = match.group(1).strip()
+        else:
+            print("Error parsing ID from %s" % p['path'])
+            exit(1)
         if p['id'] in SUPPORTED:
             packs.append({**p, **SUPPORTED[p['id']]})
 
