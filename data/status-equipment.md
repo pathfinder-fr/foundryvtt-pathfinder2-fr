@@ -1,21 +1,12 @@
 # État de la traduction (equipment)
 
  * **officielle**: 967
- * **libre**: 1854
- * **changé**: 3
+ * **libre**: 1857
 
 
-Dernière mise à jour: 2022-03-26 07:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-29 20:27 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[weapon-06-PFmBfQ4xENK3jX4M.htm](equipment/weapon-06-PFmBfQ4xENK3jX4M.htm)|Conflagration Club|Massue de conflagration|changé|
-|[weapon-15-IuL8O6sR8st1mevo.htm](equipment/weapon-15-IuL8O6sR8st1mevo.htm)|Mountebank's Passage|Passage de Mountebanque|changé|
-|[weapon-15-mXlVJIxv6EpzwTJs.htm](equipment/weapon-15-mXlVJIxv6EpzwTJs.htm)|Buzzsaw Axe (Greater)|Hache tourbillonnante supérieure|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -23,7 +14,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-00-1k3AsSW7lpU0kEpY.htm](equipment/armor-00-1k3AsSW7lpU0kEpY.htm)|Buckler|Targe|officielle|
 |[armor-00-4tIVTg9wj56RrveA.htm](equipment/armor-00-4tIVTg9wj56RrveA.htm)|Leather Armor|Armure de cuir|officielle|
 |[armor-00-AnwzlOs0njF9Jqnr.htm](equipment/armor-00-AnwzlOs0njF9Jqnr.htm)|Hide Armor|Armure de peau|officielle|
-|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements (d'explorateur)|officielle|
+|[armor-00-dDIPA1WE9ESF67EB.htm](equipment/armor-00-dDIPA1WE9ESF67EB.htm)|Clothing (Explorer's)|Vêtements d'explorateur|officielle|
 |[armor-00-ewQZ0VeL38v3qFnN.htm](equipment/armor-00-ewQZ0VeL38v3qFnN.htm)|Studded Leather Armor|Armure de cuir clouté|officielle|
 |[armor-00-ezVp13Uw8cWW08Da.htm](equipment/armor-00-ezVp13Uw8cWW08Da.htm)|Wooden Shield|Bouclier en bois|officielle|
 |[armor-00-Kf4eJEXnFPuAsseP.htm](equipment/armor-00-Kf4eJEXnFPuAsseP.htm)|Chain Mail|Cotte de mailles|officielle|
@@ -60,35 +51,35 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-07-EBcZ7ftWs8lVW7Fj.htm](equipment/armor-07-EBcZ7ftWs8lVW7Fj.htm)|Staff-Storing Shield|Bouclier de stockage de bâton|libre|
 |[armor-07-HWQEGY2X0QXj2zfN.htm](equipment/armor-07-HWQEGY2X0QXj2zfN.htm)|Martyr's Shield|Bouclier du martyr|officielle|
 |[armor-07-K3cR9k4sZHNO4a12.htm](equipment/armor-07-K3cR9k4sZHNO4a12.htm)|Inubrix Shield (Standard Grade)|Bouclier en inubrix de qualité standard|libre|
-|[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent (qualité standard)|officielle|
+|[armor-07-KVj9RP2qvpsHHGqE.htm](equipment/armor-07-KVj9RP2qvpsHHGqE.htm)|Silver Shield (Standard-Grade)|Bouclier en argent de qualité standard|officielle|
 |[armor-07-LZAwOTKk3dKwsGDd.htm](equipment/armor-07-LZAwOTKk3dKwsGDd.htm)|Wovenwood Shield (Lesser)|Bouclier de bois tissé inférieur|libre|
 |[armor-07-nDZX25OwoN0Imrq6.htm](equipment/armor-07-nDZX25OwoN0Imrq6.htm)|Sturdy Shield (Lesser)|Bouclier renforcé inférieur|libre|
 |[armor-07-p1uYtIUYXXoNdVKg.htm](equipment/armor-07-p1uYtIUYXXoNdVKg.htm)|Cold Iron Shield (Standard-Grade)|Bouclier en fer froid (qualité standard)|officielle|
-|[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid (qualité standard)|officielle|
+|[armor-07-PsyfqGIzDbr1mX6d.htm](equipment/armor-07-PsyfqGIzDbr1mX6d.htm)|Cold Iron Buckler (Standard-Grade)|Targe en fer froid de qualité standard|officielle|
 |[armor-07-vHZSx5f093Wrivzn.htm](equipment/armor-07-vHZSx5f093Wrivzn.htm)|Moonlit Chain|Maille lunaire|officielle|
 |[armor-07-voMus7iKOUKYr2KC.htm](equipment/armor-07-voMus7iKOUKYr2KC.htm)|Siccatite Shield (Standard Grade)|Bouclier en siccatite de qualité standard|libre|
 |[armor-07-WDh4fb9N86mNLfDV.htm](equipment/armor-07-WDh4fb9N86mNLfDV.htm)|Spined Shield|Bouclier de la manticore|officielle|
-|[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium (qualité standard)|officielle|
+|[armor-08-2gMlhHlkQp3DuWw5.htm](equipment/armor-08-2gMlhHlkQp3DuWw5.htm)|Adamantine Shield (Standard-Grade)|Bouclier en adamantium de qualité standard|officielle|
 |[armor-08-3ytZSLqXQdNCuV4l.htm](equipment/armor-08-3ytZSLqXQdNCuV4l.htm)|Swarmsuit (Impenetrable)|Combinaison anti-nuées impénétrable|libre|
-|[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium (qualité standard)|officielle|
+|[armor-08-4aVkppixLHPg940o.htm](equipment/armor-08-4aVkppixLHPg940o.htm)|Adamantine Buckler (Standard-Grade)|Targe en adamantium de qualité standard|officielle|
 |[armor-08-5494MLdHHZI5GONx.htm](equipment/armor-08-5494MLdHHZI5GONx.htm)|Abysium Shield (Standard Grade)|Bouclier en abysium de qualité standard|libre|
-|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite (qualité standard)|officielle|
+|[armor-08-BUHV5rev5HVgCrUB.htm](equipment/armor-08-BUHV5rev5HVgCrUB.htm)|Darkwood Buckler (Standard-Grade)|Targe en ébénite de qualité standard|officielle|
 |[armor-08-CF9BCVE0ppxMmULb.htm](equipment/armor-08-CF9BCVE0ppxMmULb.htm)|Mithral Buckler (Standard-Grade)|Targe en mithral (qualité standard)|officielle|
 |[armor-08-daX1jX7XYo3mWZmP.htm](equipment/armor-08-daX1jX7XYo3mWZmP.htm)|Dragonhide Shield (Standard-Grade)|Bouclier en Peau de Dragon de Qualité Standard|officielle|
-|[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral (qualité standard)|officielle|
+|[armor-08-ETHbpwjh8aLGrXi0.htm](equipment/armor-08-ETHbpwjh8aLGrXi0.htm)|Mithral Shield (Standard-Grade)|Bouclier en mithral de qualité standard|officielle|
 |[armor-08-hSSusxBfMUvNTYxt.htm](equipment/armor-08-hSSusxBfMUvNTYxt.htm)|Abysium Buckler (Standard Grade)|Targe en abysium de qualité standard|libre|
 |[armor-08-icLG1NjjTowYWg7N.htm](equipment/armor-08-icLG1NjjTowYWg7N.htm)|Siccatite Buckler (Standard Grade)|Targe en siccatite de qualité standard|libre|
-|[armor-08-ip2KNbzryjauXdKC.htm](equipment/armor-08-ip2KNbzryjauXdKC.htm)|Djezet Shield (Standard Grade)|Bouclier en djezet qualité standard|libre|
+|[armor-08-ip2KNbzryjauXdKC.htm](equipment/armor-08-ip2KNbzryjauXdKC.htm)|Djezet Shield (Standard Grade)|Bouclier en djezet de qualité standard|libre|
 |[armor-08-rh4T08EsddrwfHcs.htm](equipment/armor-08-rh4T08EsddrwfHcs.htm)|Duelist's Beacon|Phare du duelliste|libre|
 |[armor-08-SJaFNXiHGILhwEMk.htm](equipment/armor-08-SJaFNXiHGILhwEMk.htm)|Silkspinner's Shield|Bouclier de la fileuse de soie|libre|
 |[armor-08-Snu8yjMrUi3ockyA.htm](equipment/armor-08-Snu8yjMrUi3ockyA.htm)|Darkwood Tower Shield (Standard-Grade)|Pavois en ébénite de qualité standard|officielle|
 |[armor-08-UdvSJPCtBr2Y1e22.htm](equipment/armor-08-UdvSJPCtBr2Y1e22.htm)|Darkwood Shield (Standard-Grade)|Bouclier en ébénite de qualité standard|officielle|
-|[armor-08-vfzzrp0tKXznWnhY.htm](equipment/armor-08-vfzzrp0tKXznWnhY.htm)|Dragonhide Buckler (Standard-Grade)|Targe en peau de dragon (qualité normale)|officielle|
-|[armor-09-Blp9Ha1YeIJOeFls.htm](equipment/armor-09-Blp9Ha1YeIJOeFls.htm)|Spangled Rider's Suit|Costume de chevaucheur pailleté|libre|
+|[armor-08-vfzzrp0tKXznWnhY.htm](equipment/armor-08-vfzzrp0tKXznWnhY.htm)|Dragonhide Buckler (Standard-Grade)|Targe en peau de dragon de qualité standard|officielle|
+|[armor-09-Blp9Ha1YeIJOeFls.htm](equipment/armor-09-Blp9Ha1YeIJOeFls.htm)|Spangled Rider's Suit|Costume de cavalier pailleté|libre|
 |[armor-09-C4XKMcHZoGzrAZBl.htm](equipment/armor-09-C4XKMcHZoGzrAZBl.htm)|Rhino Hide|Peau de rhinocéros|officielle|
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|officielle|
-|[armor-09-g5TZguADBpi6hDnv.htm](equipment/armor-09-g5TZguADBpi6hDnv.htm)|Djezet Buckler (Standard Grade)|Targe en djezet qualité standard|libre|
-|[armor-09-jAKYIqG2BNO7yffJ.htm](equipment/armor-09-jAKYIqG2BNO7yffJ.htm)|Leopard's Armor|Armure de léopard|libre|
+|[armor-09-g5TZguADBpi6hDnv.htm](equipment/armor-09-g5TZguADBpi6hDnv.htm)|Djezet Buckler (Standard Grade)|Targe en djezet de qualité standard|libre|
+|[armor-09-jAKYIqG2BNO7yffJ.htm](equipment/armor-09-jAKYIqG2BNO7yffJ.htm)|Leopard's Armor|Armure du léopard|libre|
 |[armor-09-nVlKU2et4EeReayr.htm](equipment/armor-09-nVlKU2et4EeReayr.htm)|Victory Plate|Harnois de la victoire|libre|
 |[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|Bouclier du pourfendeur de dragons|officielle|
 |[armor-10-63k6WWZstoY33LsH.htm](equipment/armor-10-63k6WWZstoY33LsH.htm)|Rampart Shield|Bouclier rempart|libre|
@@ -109,12 +100,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-13-AdJgj7vVvNGvPIEj.htm](equipment/armor-13-AdJgj7vVvNGvPIEj.htm)|Mail of Luck|Maille chanceuse|officielle|
 |[armor-13-BK1AKKi1gDMn5uBs.htm](equipment/armor-13-BK1AKKi1gDMn5uBs.htm)|Invisible Chain Shirt|Chemise de maille invisible|libre|
 |[armor-13-Fr75q2wqO9AFG53z.htm](equipment/armor-13-Fr75q2wqO9AFG53z.htm)|Wovenwood Shield (Greater)|Bouclier de bois tissé supérieur|libre|
-|[armor-13-GAu6v14pCSgLJh2D.htm](equipment/armor-13-GAu6v14pCSgLJh2D.htm)|Noxious Jerkin|Pourpoint nocif|libre|
+|[armor-13-GAu6v14pCSgLJh2D.htm](equipment/armor-13-GAu6v14pCSgLJh2D.htm)|Noxious Jerkin|Pourpoint nauséabond|libre|
 |[armor-13-hYBZK1kaGPeR85CH.htm](equipment/armor-13-hYBZK1kaGPeR85CH.htm)|Demon Armor|Armure démoniaque|officielle|
 |[armor-13-iCJrRoIsjdf665yE.htm](equipment/armor-13-iCJrRoIsjdf665yE.htm)|Psychic Brigandine|Clibanion psychique|libre|
 |[armor-13-n4kPBFzVh5LcJAMA.htm](equipment/armor-13-n4kPBFzVh5LcJAMA.htm)|Harmonic Hauberk|Haubert harmonique|libre|
 |[armor-13-nzQKwdUxzmmwWtzT.htm](equipment/armor-13-nzQKwdUxzmmwWtzT.htm)|Medusa's Scream|Bouclier du cri de la méduse|libre|
-|[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille Elfique (qualité standard)|officielle|
+|[armor-13-peAvz7u35GEfTXxp.htm](equipment/armor-13-peAvz7u35GEfTXxp.htm)|Elven Chain (Standard-Grade)|Maille elfique de qualité standard|officielle|
 |[armor-13-rrnWORxT2Ch4pUFb.htm](equipment/armor-13-rrnWORxT2Ch4pUFb.htm)|Sturdy Shield (Greater)|Bouclier renforcé supérieur|libre|
 |[armor-13-zPSImy0ENQjnRJNs.htm](equipment/armor-13-zPSImy0ENQjnRJNs.htm)|Forgotten Shell|Coquille oubliée|libre|
 |[armor-14-Iic9QpNemaumfkHc.htm](equipment/armor-14-Iic9QpNemaumfkHc.htm)|Medusa Armor|Armure de la méduse|officielle|
@@ -134,22 +125,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-16-3xsQ1AA4dyMHLxpw.htm](equipment/armor-16-3xsQ1AA4dyMHLxpw.htm)|Dragonplate|Harnois du dragon|officielle|
 |[armor-16-5dBSn9brsT9NISoR.htm](equipment/armor-16-5dBSn9brsT9NISoR.htm)|Mithral Shield (High-Grade)|bouclier en mithral de haute qualité|officielle|
 |[armor-16-8gcuJ2Ev3euFyXnS.htm](equipment/armor-16-8gcuJ2Ev3euFyXnS.htm)|Darkwood Tower Shield (High-Grade)|pavois en ébénite de haute qualité|officielle|
-|[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|Targe en adamantium (Haute qualité)|officielle|
+|[armor-16-AbYyx61j1K4F27tC.htm](equipment/armor-16-AbYyx61j1K4F27tC.htm)|Adamantine Buckler (High-Grade)|Targe en adamantium de haute qualité|officielle|
 |[armor-16-BWQzaHbGVqlBuMww.htm](equipment/armor-16-BWQzaHbGVqlBuMww.htm)|Sturdy Shield (Major)|Bouclier renforcé majeur|libre|
 |[armor-16-e9Xiei2wduOEGI5r.htm](equipment/armor-16-e9Xiei2wduOEGI5r.htm)|Wovenwood Shield (Major)|Bouclier de bois tissé majeur|libre|
 |[armor-16-EKXRigmEZgqmFA62.htm](equipment/armor-16-EKXRigmEZgqmFA62.htm)|Nethysian Bulwark|Rempart Néthysien|libre|
 |[armor-16-iUKXCYr8fHCjphyf.htm](equipment/armor-16-iUKXCYr8fHCjphyf.htm)|Djezet Buckler (High Grade)|Targe en djezet haute qualité|libre|
 |[armor-16-lhodTRc1mqKXuID4.htm](equipment/armor-16-lhodTRc1mqKXuID4.htm)|Siccatite Shield (High Grade)|Bouclier en siccatite de haute qualité|libre|
-|[armor-16-LVixPROPOwIfHgEK.htm](equipment/armor-16-LVixPROPOwIfHgEK.htm)|Dragonhide Shield (High-Grade)|Bouclier en Peau de Dragon (Haute Qualité)|libre|
+|[armor-16-LVixPROPOwIfHgEK.htm](equipment/armor-16-LVixPROPOwIfHgEK.htm)|Dragonhide Shield (High-Grade)|Bouclier en Peau de Dragon de haute Qualité|libre|
 |[armor-16-PGOWN2ZU21yviSMA.htm](equipment/armor-16-PGOWN2ZU21yviSMA.htm)|Siccatite Buckler (High Grade)|Targe en siccatite de haute qualité|libre|
 |[armor-16-POmxAltjkridB252.htm](equipment/armor-16-POmxAltjkridB252.htm)|Abysium Buckler (High Grade)|Targe en abysium de haute qualité|libre|
-|[armor-16-R1I1MEKwDYtCfZr3.htm](equipment/armor-16-R1I1MEKwDYtCfZr3.htm)|Dragonhide Buckler (High-Grade)|Targe en peau de dragon (Haute qualité)|officielle|
-|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|Bouclier en adamantium (Haute qualité)|officielle|
+|[armor-16-R1I1MEKwDYtCfZr3.htm](equipment/armor-16-R1I1MEKwDYtCfZr3.htm)|Dragonhide Buckler (High-Grade)|Targe en peau de dragon de haute qualité|officielle|
+|[armor-16-rA1hULhhqOP2u4Ze.htm](equipment/armor-16-rA1hULhhqOP2u4Ze.htm)|Adamantine Shield (High-Grade)|Bouclier en adamantium de haute qualité|officielle|
 |[armor-16-sRHR4cEo8WnowjU3.htm](equipment/armor-16-sRHR4cEo8WnowjU3.htm)|Darkwood Buckler (High-Grade)|targe en ébénite de haute qualité|officielle|
-|[armor-16-TyW1XOWYMM2xHGaI.htm](equipment/armor-16-TyW1XOWYMM2xHGaI.htm)|Medusa's Scream (Greater)|Bouclier du cri de la méduse (supérieur)|libre|
-|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant (supérieur)|officielle|
+|[armor-16-TyW1XOWYMM2xHGaI.htm](equipment/armor-16-TyW1XOWYMM2xHGaI.htm)|Medusa's Scream (Greater)|Bouclier du cri de la méduse supérieur|libre|
+|[armor-16-uAs0hUUgROrndceD.htm](equipment/armor-16-uAs0hUUgROrndceD.htm)|Floating Shield (Greater)|Bouclier flottant supérieur|officielle|
 |[armor-16-V4kbHwiODxwJOJga.htm](equipment/armor-16-V4kbHwiODxwJOJga.htm)|Darkwood Shield (High-Grade)|bouclier en ébénite de haute qualité|officielle|
-|[armor-16-Ywp05dNOBnfr40KG.htm](equipment/armor-16-Ywp05dNOBnfr40KG.htm)|Djezet Shield (High Grade)|Bouclier en djezet haute qualité|libre|
+|[armor-16-Ywp05dNOBnfr40KG.htm](equipment/armor-16-Ywp05dNOBnfr40KG.htm)|Djezet Shield (High Grade)|Bouclier en djezet de haute qualité|libre|
 |[armor-16-ZZrCiVcoKinA5wyu.htm](equipment/armor-16-ZZrCiVcoKinA5wyu.htm)|Mithral Buckler (High-Grade)|Targe en mithral de haute qualité|officielle|
 |[armor-17-630xJ5zceXFXiTi2.htm](equipment/armor-17-630xJ5zceXFXiTi2.htm)|Prismatic Plate|Cuirasse prismatique|libre|
 |[armor-17-aA2DR1BcxqJT15Cr.htm](equipment/armor-17-aA2DR1BcxqJT15Cr.htm)|Abysium Shield (High Grade)|Bouclier en abysium de haute qualité|libre|
@@ -160,7 +151,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-17-PeS3J9r4ss7gNytK.htm](equipment/armor-17-PeS3J9r4ss7gNytK.htm)|Orichalcum Shield (High-Grade)|bouclier en orichalque de haute qualité|officielle|
 |[armor-17-VFkMAtJvtWclDNx3.htm](equipment/armor-17-VFkMAtJvtWclDNx3.htm)|Noqual Shield (High Grade)|Bouclier en noqual de haute qualite|libre|
 |[armor-17-VioxW97SUADl3zTt.htm](equipment/armor-17-VioxW97SUADl3zTt.htm)|Cursebreak Bulwark|Rempart brise-malédiction|libre|
-|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Bouclier réfléchissant|officielle|
+|[armor-18-La9qYc5NHsg423Jb.htm](equipment/armor-18-La9qYc5NHsg423Jb.htm)|Reflecting Shield|Targe réfléchissante|officielle|
 |[armor-18-SUbYk6B1iPoGyyjh.htm](equipment/armor-18-SUbYk6B1iPoGyyjh.htm)|Indestructible Shield|Bouclier indestructible|officielle|
 |[armor-18-XKON66YXYLXlGPPg.htm](equipment/armor-18-XKON66YXYLXlGPPg.htm)|Breastplate of Command (Greater)|Cuirasse de commandement supérieur|officielle|
 |[armor-19-7ynjS9llFg7tPMoj.htm](equipment/armor-19-7ynjS9llFg7tPMoj.htm)|Robe of the Archmagi (Greater)|Robe de l'archimage supérieure|officielle|
@@ -168,8 +159,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-19-f6antZJS94JyijFl.htm](equipment/armor-19-f6antZJS94JyijFl.htm)|Kraken's Guard|Gardien kraken|libre|
 |[armor-19-qXzP7yH72fxAChNU.htm](equipment/armor-19-qXzP7yH72fxAChNU.htm)|Wovenwood Shield (True)|Bouclier en bois tissé ultime|libre|
 |[armor-20-FKNgrFDIRBumr6P5.htm](equipment/armor-20-FKNgrFDIRBumr6P5.htm)|Rebounding Breastplate|Cuirasse rebondissante|libre|
-|[armor-20-PlYr5AhYwHIztMw2.htm](equipment/armor-20-PlYr5AhYwHIztMw2.htm)|Shield of the Unified Legion|Bouclier de la Légion Unifiée|libre|
-|[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique (haute qualité)|officielle|
+|[armor-20-PlYr5AhYwHIztMw2.htm](equipment/armor-20-PlYr5AhYwHIztMw2.htm)|Shield of the Unified Legion|Bouclier de la Légion unifiée|libre|
+|[armor-20-PuqdH7DmNsN79HyE.htm](equipment/armor-20-PuqdH7DmNsN79HyE.htm)|Elven Chain (High-Grade)|Maille elfique de haute qualité|officielle|
 |[armor-20-xAOVPVH6cX3iVFlk.htm](equipment/armor-20-xAOVPVH6cX3iVFlk.htm)|Staff-Storing Shield (True)|Bouclier de stockage de bâton ultime|libre|
 |[backpack-00-3lgwjrFEsQVKzhh7.htm](equipment/backpack-00-3lgwjrFEsQVKzhh7.htm)|Backpack|Sac à dos|officielle|
 |[backpack-00-DujblC14ytJEZMaz.htm](equipment/backpack-00-DujblC14ytJEZMaz.htm)|Sack|Sac|officielle|
@@ -187,17 +178,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[backpack-06-0c7zLY9c88K2n0GC.htm](equipment/backpack-06-0c7zLY9c88K2n0GC.htm)|Pathfinder's Pouch|Bourse d'Éclaireur|libre|
 |[backpack-06-NBmOTmE2GAEI766h.htm](equipment/backpack-06-NBmOTmE2GAEI766h.htm)|Misdirecting Haversack|Sacoche trompeuse|libre|
 |[backpack-07-JBMBaN9dZLytfFLQ.htm](equipment/backpack-07-JBMBaN9dZLytfFLQ.htm)|Bag of Holding (Type II)|Sac sans fond (Type 2)|officielle|
-|[backpack-07-MN8SF2sArQhJg6QG.htm](equipment/backpack-07-MN8SF2sArQhJg6QG.htm)|Bag of Devouring Type I|Sac dévoreur (Type I)|officielle|
-|[backpack-09-3hv6NVC2rVu4QCNt.htm](equipment/backpack-09-3hv6NVC2rVu4QCNt.htm)|Sleeves of Storage (Greater)|Poches de manche (supérieur)|libre|
+|[backpack-07-MN8SF2sArQhJg6QG.htm](equipment/backpack-07-MN8SF2sArQhJg6QG.htm)|Bag of Devouring Type I|Sac dévoreur de type 1|officielle|
+|[backpack-09-3hv6NVC2rVu4QCNt.htm](equipment/backpack-09-3hv6NVC2rVu4QCNt.htm)|Sleeves of Storage (Greater)|Poches de manche supérieures|libre|
 |[backpack-09-rdF2RKgFK0vOlaeV.htm](equipment/backpack-09-rdF2RKgFK0vOlaeV.htm)|Knapsack of Halflingkind|Besace halfeline|officielle|
 |[backpack-09-yUPUxRqyYdZaPhkF.htm](equipment/backpack-09-yUPUxRqyYdZaPhkF.htm)|Lucky Draw Bandolier|Bandoulière du veinard|libre|
-|[backpack-11-EIBmADRICTyYzxik.htm](equipment/backpack-11-EIBmADRICTyYzxik.htm)|Bag of Devouring Type II|Sac dévoreur (Type II)|officielle|
+|[backpack-11-EIBmADRICTyYzxik.htm](equipment/backpack-11-EIBmADRICTyYzxik.htm)|Bag of Devouring Type II|Sac dévoreur de type 2|officielle|
 |[backpack-11-jkb2WNby4mjcYqq9.htm](equipment/backpack-11-jkb2WNby4mjcYqq9.htm)|Bag of Holding (Type III)|Sac sans fond (Type 3)|officielle|
 |[backpack-12-iAfqKpHyJ6beLGjB.htm](equipment/backpack-12-iAfqKpHyJ6beLGjB.htm)|Lucky Draw Bandolier (Greater)|Bandoulière du veinard supérieur|libre|
 |[backpack-13-34DA4rFy7bduRAld.htm](equipment/backpack-13-34DA4rFy7bduRAld.htm)|Bag of Holding (Type IV)|Sac sans fond (Type 4)|officielle|
 |[backpack-13-9cK0QVSjNd8tQtiQ.htm](equipment/backpack-13-9cK0QVSjNd8tQtiQ.htm)|Knapsack of Halflingkind (Greater)|Besace Halfeline supérieur|officielle|
 |[backpack-13-k5y89wYu3NX1AhVI.htm](equipment/backpack-13-k5y89wYu3NX1AhVI.htm)|Bomber's Saddle|Selle de Bombardier|libre|
-|[backpack-13-n3kJYoTrzXYwlYaV.htm](equipment/backpack-13-n3kJYoTrzXYwlYaV.htm)|Bag of Devouring Type III|sac dévoreur (Type III)|officielle|
+|[backpack-13-n3kJYoTrzXYwlYaV.htm](equipment/backpack-13-n3kJYoTrzXYwlYaV.htm)|Bag of Devouring Type III|sac dévoreur de type 3|officielle|
 |[backpack-17-LRSIRUERqBAJ1HGT.htm](equipment/backpack-17-LRSIRUERqBAJ1HGT.htm)|Voyager's Pack|Sac à dos du voyageur|officielle|
 |[backpack-20-HEvuhktgeFXdlDKm.htm](equipment/backpack-20-HEvuhktgeFXdlDKm.htm)|Extradimensional Stash|Cachette extradimensionnelle|libre|
 |[consumable-00-11b6MN3UQ8XKqAer.htm](equipment/consumable-00-11b6MN3UQ8XKqAer.htm)|Rounds (Three Peaked Tree)|Munition (Arbre à trois piques)|libre|
@@ -212,7 +203,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-7tweUS8kQ6N45fEu.htm](equipment/consumable-00-7tweUS8kQ6N45fEu.htm)|Popdust|Poussière explosive|libre|
 |[consumable-00-9SoOkO95cnS2UXI1.htm](equipment/consumable-00-9SoOkO95cnS2UXI1.htm)|Rounds (Spoon Gun)|Munition (Canon à cuillère)|libre|
 |[consumable-00-9w8MrBhFtvM7RrYN.htm](equipment/consumable-00-9w8MrBhFtvM7RrYN.htm)|Magazine with 5 Bolts|Magasin de 5 carreaux|libre|
-|[consumable-00-AITVZmakiu3RgfKo.htm](equipment/consumable-00-AITVZmakiu3RgfKo.htm)|Bolts|Carreau(x)|officielle|
+|[consumable-00-AITVZmakiu3RgfKo.htm](equipment/consumable-00-AITVZmakiu3RgfKo.htm)|Bolts|Carreaux|officielle|
 |[consumable-00-AOOQJfSkTPiSzfB9.htm](equipment/consumable-00-AOOQJfSkTPiSzfB9.htm)|Black Powder (Dose or Round)|Poudre noire (Dose ou munition)|libre|
 |[consumable-00-AqslI71DReZOzgAW.htm](equipment/consumable-00-AqslI71DReZOzgAW.htm)|Formulated Sunlight|Concoction de soleil|libre|
 |[consumable-00-BZCzkDWQP3TU1Bbp.htm](equipment/consumable-00-BZCzkDWQP3TU1Bbp.htm)|Rounds (Harmona Gun)|Munition (Fusil harmona)|libre|
@@ -221,7 +212,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-00-DKsfWwWZ23PHPIa1.htm](equipment/consumable-00-DKsfWwWZ23PHPIa1.htm)|Sun Shot|Balle soleil|libre|
 |[consumable-00-Dlsv1n0Bk1zVJaJM.htm](equipment/consumable-00-Dlsv1n0Bk1zVJaJM.htm)|Repeating Crossbow Magazine|Magasin d'arbalète à répétition|libre|
 |[consumable-00-dSZz8B96D20IWKZ5.htm](equipment/consumable-00-dSZz8B96D20IWKZ5.htm)|Rounds (Blunderbuss)|Munitions (Tromblon)|libre|
-|[consumable-00-Du05UxCyCM0ZWH8z.htm](equipment/consumable-00-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile|officielle|
+|[consumable-00-Du05UxCyCM0ZWH8z.htm](equipment/consumable-00-Du05UxCyCM0ZWH8z.htm)|Oil (1 pint)|Huile (1/2 l)|officielle|
 |[consumable-00-eCRZcG7ZxFRP8bpx.htm](equipment/consumable-00-eCRZcG7ZxFRP8bpx.htm)|Rounds (Jezail)|Munition (Fusil Jezaïl)|libre|
 |[consumable-00-F5JDZSMYYKYfyeEE.htm](equipment/consumable-00-F5JDZSMYYKYfyeEE.htm)|Repeating Heavy Crossbow Magazine|Magasin d'arbalète lourde à répétition|libre|
 |[consumable-00-FCoziiYnBoRJFVaM.htm](equipment/consumable-00-FCoziiYnBoRJFVaM.htm)|Rounds (Dagger Pistol)|Munitions (Pistolet dague)|libre|
@@ -2639,6 +2630,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-06-KXoJIPHbdz746Rec.htm](equipment/weapon-06-KXoJIPHbdz746Rec.htm)|Cooperative Blade|Lame coopérative|libre|
 |[weapon-06-ObmYN6I64Pjj7yEA.htm](equipment/weapon-06-ObmYN6I64Pjj7yEA.htm)|Staff of Divination|Bâton de divination|officielle|
 |[weapon-06-p1pysEaGypaNxTEL.htm](equipment/weapon-06-p1pysEaGypaNxTEL.htm)|Staff of Transmutation|Bâton de transmutation|officielle|
+|[weapon-06-PFmBfQ4xENK3jX4M.htm](equipment/weapon-06-PFmBfQ4xENK3jX4M.htm)|Conflagration Club|Massue de conflagration|libre|
 |[weapon-06-pjUACbrAXNIy9O7S.htm](equipment/weapon-06-pjUACbrAXNIy9O7S.htm)|Twining Staff|Bâton enroulé|officielle|
 |[weapon-06-Q2QHZdBaoOLkE1lX.htm](equipment/weapon-06-Q2QHZdBaoOLkE1lX.htm)|Staff of Illusion|Bâton d'illusion|officielle|
 |[weapon-06-rsqPU9IRM6tk2eHc.htm](equipment/weapon-06-rsqPU9IRM6tk2eHc.htm)|Chatterer of Follies|Bavardeur de folies|libre|
@@ -2771,7 +2763,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-15-ChLxhFpo4WSAKgLh.htm](equipment/weapon-15-ChLxhFpo4WSAKgLh.htm)|Petrification Cannon|Canon de pétrification|libre|
 |[weapon-15-dIUmjoLjlcrKgXbH.htm](equipment/weapon-15-dIUmjoLjlcrKgXbH.htm)|Golden Blade of Mzali|Lame dorée de Mzali|libre|
 |[weapon-15-fLqRH3XpvDZEMxOO.htm](equipment/weapon-15-fLqRH3XpvDZEMxOO.htm)|Radiant Lance|Lance radieuse|libre|
+|[weapon-15-IuL8O6sR8st1mevo.htm](equipment/weapon-15-IuL8O6sR8st1mevo.htm)|Mountebank's Passage|Passage de Mountebanque|libre|
 |[weapon-15-LGbyZ4z6SLRC1cuB.htm](equipment/weapon-15-LGbyZ4z6SLRC1cuB.htm)|Spider Gun (Major)|Fusil araignée majeur|libre|
+|[weapon-15-mXlVJIxv6EpzwTJs.htm](equipment/weapon-15-mXlVJIxv6EpzwTJs.htm)|Buzzsaw Axe (Greater)|Hache tourbillonnante supérieure|libre|
 |[weapon-15-tD4ZNDutHoCGIFQn.htm](equipment/weapon-15-tD4ZNDutHoCGIFQn.htm)|Blade of the Black Soverign|Lame du Souverain Noir|libre|
 |[weapon-16-6m9niDjhA6tBfp5x.htm](equipment/weapon-16-6m9niDjhA6tBfp5x.htm)|Staff of Power|Bâton de surpuissance|officielle|
 |[weapon-16-87IvbaQnkUOBgdD0.htm](equipment/weapon-16-87IvbaQnkUOBgdD0.htm)|Frost Brand|Epée de givre|officielle|
