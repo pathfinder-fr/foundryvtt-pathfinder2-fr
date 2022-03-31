@@ -1,10 +1,10 @@
 # État de la traduction (feat-effects)
 
- * **libre**: 188
- * **aucune**: 11
+ * **libre**: 187
+ * **aucune**: 10
 
 
-Dernière mise à jour: 2022-03-26 07:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -21,7 +21,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
-|[06-EfMaI6AnROP4X9lN.htm](feat-effects/06-EfMaI6AnROP4X9lN.htm)|Effect: Mountain Stronghold|
 
 ## Liste des traductions complétés
 
@@ -36,7 +35,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-gYpy9XBPScIlY93p.htm](feat-effects/00-gYpy9XBPScIlY93p.htm)|Stance: Mountain Stance|Posture : Posture de la Montagne|libre|
 |[00-Im5JBInybWFbHEYS.htm](feat-effects/00-Im5JBInybWFbHEYS.htm)|Stance: Rain of Embers Stance|Posture : Posture de la pluie de charbons ardents|libre|
 |[00-JefXqvhzUeBArkAP.htm](feat-effects/00-JefXqvhzUeBArkAP.htm)|Stance: Whirling Blade Stance|Posture : Posture de la lame tournoyante|libre|
-|[00-LXbVcutEIW8eWZEz.htm](feat-effects/00-LXbVcutEIW8eWZEz.htm)|Stance: Mountain Stance (Mountain Stronghold)|Posture : Posture de la Montagne (Bastion de la montagne)|libre|
 |[00-nwkYZs6YwXYAJ4ps.htm](feat-effects/00-nwkYZs6YwXYAJ4ps.htm)|Stance: Crane Stance|Posture : Posture de la grue|libre|
 |[00-pf9yvKNg6jZLrE30.htm](feat-effects/00-pf9yvKNg6jZLrE30.htm)|Stance: Tiger Stance|Posture : Posture du tigre|libre|
 |[00-PMHwCrnh9W4sMu5b.htm](feat-effects/00-PMHwCrnh9W4sMu5b.htm)|Stance: Tangled Forest Stance|Posture : Posture de la forêt enchevêtrée|libre|
@@ -47,7 +45,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-uFYvW3kFP9iyNfVX.htm](feat-effects/00-uFYvW3kFP9iyNfVX.htm)|Stance: Clinging Shadows Stance|Posture : Posture des ombres tenaces|libre|
 |[00-UZKIKLuwpQu47feK.htm](feat-effects/00-UZKIKLuwpQu47feK.htm)|Stance: Gorilla Stance (Gorilla Pound)|Posture : Posture du gorille (Martèlement du gorille)|libre|
 |[00-vjvcccAwdkOLA1Fc.htm](feat-effects/00-vjvcccAwdkOLA1Fc.htm)|Stance: Peafowl Stance|Posture : Posture du paon|libre|
-|[00-wuERa7exfXXl6I37.htm](feat-effects/00-wuERa7exfXXl6I37.htm)|Stance: Mountain Stance (Mountain Quake)|Posture : Posture de la montagne (Tremblement de la montagne)|libre|
 |[01-1nCwQErK6hpkNvfw.htm](feat-effects/01-1nCwQErK6hpkNvfw.htm)|Effect: Dueling Parry|Effet : Parade en duel|libre|
 |[01-1XlJ9xLzL19GHoOL.htm](feat-effects/01-1XlJ9xLzL19GHoOL.htm)|Effect: Overdrive (Critical Success)|Effet : Surrégime (Succès critique)|libre|
 |[01-2RwhJ9fbJtcQjW6s.htm](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)|Effect: Arctic Endemic Herb|Effet : Herbes endémiques Arctique|libre|
@@ -167,6 +164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[06-AlnxieIRjqNqsdVu.htm](feat-effects/06-AlnxieIRjqNqsdVu.htm)|Effect: Smite Evil|Effet : Châtiment du mal|libre|
 |[06-DhvSMIFs6xifgQHX.htm](feat-effects/06-DhvSMIFs6xifgQHX.htm)|Effect: Current Spell (Water)|Effet : Courant de sort (Eau)|libre|
 |[06-dvOfGUuvG8ihcN8d.htm](feat-effects/06-dvOfGUuvG8ihcN8d.htm)|Effect: Divine Weapon (Good)|Effet : Arme Divine (Bon)|libre|
+|[06-EfMaI6AnROP4X9lN.htm](feat-effects/06-EfMaI6AnROP4X9lN.htm)|Effect: Mountain Stronghold|Effet : Bastion de la montagne|libre|
 |[06-GlpZyxAGhy5QNqkm.htm](feat-effects/06-GlpZyxAGhy5QNqkm.htm)|Effect: Divine Weapon (Lawful)|Effet : Arme Divine (Loyal)|libre|
 |[06-LF8xzzFsFJKxejqv.htm](feat-effects/06-LF8xzzFsFJKxejqv.htm)|Effect: Enforce Oath|Effet : Serment renforcé|libre|
 |[06-LxSev4GNKv26DbZw.htm](feat-effects/06-LxSev4GNKv26DbZw.htm)|Stance: Disarming Stance|Posture : Posture désarmante|libre|

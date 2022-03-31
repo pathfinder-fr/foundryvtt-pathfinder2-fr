@@ -2,38 +2,8 @@
     "label": "Macros PF2e",
     "entries": [
         {
-            "id": "Lie: Deception",
-            "name": "Lie: Deception",
-            "description": ""
-        },
-        {
-            "id": "Pick a Lock: Thievery",
-            "name": "Pick a Lock: Thievery",
-            "description": ""
-        },
-        {
-            "id": "Coerce: Intimidation",
-            "name": "Coerce: Intimidation",
-            "description": ""
-        },
-        {
-            "id": "Bon Mot: Diplomacy",
-            "name": "Bon Mot: Diplomacy",
-            "description": ""
-        },
-        {
-            "id": "Craft: Crafting",
-            "name": "Craft: Crafting",
-            "description": ""
-        },
-        {
-            "id": "Balance: Acrobatics",
-            "name": "Balance: Acrobatics",
-            "description": ""
-        },
-        {
-            "id": "Gather Information: Diplomacy",
-            "name": "Gather Information: Diplomacy",
+            "id": "Feint: Deception",
+            "name": "Feint: Deception",
             "description": ""
         },
         {
@@ -42,33 +12,8 @@
             "description": ""
         },
         {
-            "id": "Make an Impression: Diplomacy",
-            "name": "Make an Impression: Diplomacy",
-            "description": ""
-        },
-        {
-            "id": "Impersonate: Deception",
-            "name": "Impersonate: Deception",
-            "description": ""
-        },
-        {
-            "id": "Encouraging Words",
-            "name": "Encouraging Words",
-            "description": ""
-        },
-        {
-            "id": "Shove: Athletics",
-            "name": "Shove: Athletics",
-            "description": ""
-        },
-        {
-            "id": "Request: Diplomacy",
-            "name": "Request: Diplomacy",
-            "description": ""
-        },
-        {
-            "id": "Create a Diversion - Trick: Deception",
-            "name": "Create a Diversion - Trick: Deception",
+            "id": "Sense Motive: Perception",
+            "name": "Sense Motive: Perception",
             "description": ""
         },
         {
@@ -77,53 +22,48 @@
             "description": ""
         },
         {
+            "id": "Create a Diversion - Trick: Deception",
+            "name": "Create a Diversion - Trick: Deception",
+            "description": ""
+        },
+        {
+            "id": "Gather Information: Diplomacy",
+            "name": "Gather Information: Diplomacy",
+            "description": ""
+        },
+        {
             "id": "Maneuver in Flight: Acrobatics",
             "name": "Maneuver in Flight: Acrobatics",
             "description": ""
         },
         {
-            "id": "High Jump: Athletics",
-            "name": "High Jump: Athletics",
+            "id": "Impersonate: Deception",
+            "name": "Impersonate: Deception",
             "description": ""
         },
         {
-            "id": "Sense Motive: Perception",
-            "name": "Sense Motive: Perception",
+            "id": "Coerce: Intimidation",
+            "name": "Coerce: Intimidation",
             "description": ""
         },
         {
-            "id": "Steel Your Resolve",
-            "name": "Steel Your Resolve",
+            "id": "Request: Diplomacy",
+            "name": "Request: Diplomacy",
             "description": ""
         },
         {
-            "id": "Climb: Athletics",
-            "name": "Climb: Athletics",
+            "id": "Balance: Acrobatics",
+            "name": "Balance: Acrobatics",
             "description": ""
         },
         {
-            "id": "Trip: Athletics",
-            "name": "Trip: Athletics",
+            "id": "Bon Mot: Diplomacy",
+            "name": "Bon Mot: Diplomacy",
             "description": ""
         },
         {
-            "id": "Swim: Athletics",
-            "name": "Swim: Athletics",
-            "description": ""
-        },
-        {
-            "id": "Sneak: Stealth",
-            "name": "Sneak: Stealth",
-            "description": ""
-        },
-        {
-            "id": "Seek: Perception",
-            "name": "Seek: Perception",
-            "description": ""
-        },
-        {
-            "id": "Whirling Throw: Athletics",
-            "name": "Whirling Throw: Athletics",
+            "id": "Encouraging Words",
+            "name": "Encouraging Words",
             "description": ""
         },
         {
@@ -132,18 +72,23 @@
             "description": ""
         },
         {
-            "id": "Disarm: Athletics",
-            "name": "Disarm: Athletics",
+            "id": "Grapple: Athletics",
+            "name": "Grapple: Athletics",
             "description": ""
         },
         {
-            "id": "Raise a Shield",
-            "name": "Raise a Shield",
+            "id": "Make an Impression: Diplomacy",
+            "name": "Make an Impression: Diplomacy",
             "description": ""
         },
         {
-            "id": "Feint: Deception",
-            "name": "Feint: Deception",
+            "id": "Steel Your Resolve",
+            "name": "Steel Your Resolve",
+            "description": ""
+        },
+        {
+            "id": "Sneak: Stealth",
+            "name": "Sneak: Stealth",
             "description": ""
         },
         {
@@ -152,8 +97,13 @@
             "description": ""
         },
         {
-            "id": "Demoralize: Intimidation",
-            "name": "Demoralize: Intimidation",
+            "id": "Craft: Crafting",
+            "name": "Craft: Crafting",
+            "description": ""
+        },
+        {
+            "id": "Whirling Throw: Athletics",
+            "name": "Whirling Throw: Athletics",
             "description": ""
         },
         {
@@ -162,8 +112,33 @@
             "description": ""
         },
         {
-            "id": "Tumble Through: Acrobatics",
-            "name": "Tumble Through: Acrobatics",
+            "id": "Swim: Athletics",
+            "name": "Swim: Athletics",
+            "description": ""
+        },
+        {
+            "id": "High Jump: Athletics",
+            "name": "High Jump: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Climb: Athletics",
+            "name": "Climb: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Shove: Athletics",
+            "name": "Shove: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Lie: Deception",
+            "name": "Lie: Deception",
+            "description": ""
+        },
+        {
+            "id": "Seek: Perception",
+            "name": "Seek: Perception",
             "description": ""
         },
         {
@@ -172,8 +147,33 @@
             "description": ""
         },
         {
-            "id": "Grapple: Athletics",
-            "name": "Grapple: Athletics",
+            "id": "Demoralize: Intimidation",
+            "name": "Demoralize: Intimidation",
+            "description": ""
+        },
+        {
+            "id": "Raise a Shield",
+            "name": "Raise a Shield",
+            "description": ""
+        },
+        {
+            "id": "Trip: Athletics",
+            "name": "Trip: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Disarm: Athletics",
+            "name": "Disarm: Athletics",
+            "description": ""
+        },
+        {
+            "id": "Pick a Lock: Thievery",
+            "name": "Pick a Lock: Thievery",
+            "description": ""
+        },
+        {
+            "id": "Tumble Through: Acrobatics",
+            "name": "Tumble Through: Acrobatics",
             "description": ""
         }
     ],

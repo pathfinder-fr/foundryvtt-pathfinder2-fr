@@ -1,11 +1,11 @@
 # État de la traduction (feats)
 
  * **libre**: 2513
- * **officielle**: 907
- * **changé**: 3
+ * **officielle**: 908
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-03-26 07:59 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -13,7 +13,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[class-01-ZL5UU9quCTvcWzfY.htm](feats/class-01-ZL5UU9quCTvcWzfY.htm)|Mountain Stance|Posture de la montagne|changé|
-|[class-06-n2hawNmzW7DBn1Lm.htm](feats/class-06-n2hawNmzW7DBn1Lm.htm)|Mountain Stronghold|Bastion de la montagne|changé|
 |[class-14-hO4sKslTrSQMLbGx.htm](feats/class-14-hO4sKslTrSQMLbGx.htm)|Mountain Quake|Tremblement de la montagne|changé|
 
 ## Liste des traductions complétés
@@ -2385,6 +2384,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-06-lkl5QaDb1mlSD7SC.htm](feats/class-06-lkl5QaDb1mlSD7SC.htm)|Visual Fidelity|Fidélité visuelle|libre|
 |[class-06-Ls3MiZ5RcAWaiQ7f.htm](feats/class-06-Ls3MiZ5RcAWaiQ7f.htm)|Construct Shell|Créature artificielle carapaçonnée|libre|
 |[class-06-mqLPCNdCSNyY7gyI.htm](feats/class-06-mqLPCNdCSNyY7gyI.htm)|Mage Hunter|Chasseur de mage|libre|
+|[class-06-n2hawNmzW7DBn1Lm.htm](feats/class-06-n2hawNmzW7DBn1Lm.htm)|Mountain Stronghold|Bastion de la montagne|officielle|
 |[class-06-nDjTJq7PEbvRktnb.htm](feats/class-06-nDjTJq7PEbvRktnb.htm)|Advanced Weapon Training|Formation au maniement d'armes évoluées|officielle|
 |[class-06-NMWXHGWUcZGoLDKb.htm](feats/class-06-NMWXHGWUcZGoLDKb.htm)|Attack of Opportunity|Attaque d'Opportunité|libre|
 |[class-06-nRjyyDulHnP5OewA.htm](feats/class-06-nRjyyDulHnP5OewA.htm)|Gorilla Pound|Martèlement du gorille|libre|
