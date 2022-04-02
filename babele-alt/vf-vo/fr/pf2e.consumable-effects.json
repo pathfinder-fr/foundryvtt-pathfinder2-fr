@@ -2,44 +2,49 @@
     "label": "Effets des consommables",
     "entries": [
         {
-            "id": "Effect: Skeptic's Elixir (Greater)",
-            "name": "Effet : Élixir de l'incrédule supérieur (Effect: Skeptic's Elixir (Greater))",
-            "description": "<p><strong>Durée</strong> 1 heure</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +3 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p>"
-        },
-        {
-            "id": "Effect: Juggernaut Mutagen (Lesser)",
-            "name": "Effet : Mutagène de juggernaut inférieur (Effect: Juggernaut Mutagen (Lesser))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{Mutagène de Juggernaut inférieur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Vigueur</li>\n<li>+5 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Serene Mutagen (Lesser)",
-            "name": "Effet : Mutagène de sérénité inférieur (Effect: Serene Mutagen (Lesser))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Volonté</li>\n<li>bonus d'objet de +2 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +1 aux tests de Perception</li>\n<li>bonus d'objet de +1 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Juggernaut Mutagen (Greater)",
-            "name": "Effet : Mutagène de juggernaut supérieur (Effect: Juggernaut Mutagen (Greater))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.TMtQnY6yvIRCpK9v]{Mutagère de juggernaut supérieur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Vigueur</li>\n<li>+30 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Juggernaut Mutagen (Moderate)",
-            "name": "Effet : Mutagène de juggernaut modéré (Effect: Juggernaut Mutagen (Moderate))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mj9i9GeQTADByNPZ]{Mutagène de Juggernaut modéré}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Vigueur</li>\n<li>+10 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
-        },
-        {
             "id": "Effect: Skeptic's Elixir (Moderate)",
             "name": "Effet : Élixir de l'incrédule modéré (Effect: Skeptic's Elixir (Moderate))",
             "description": "<p><strong>Durée</strong> 10 minutes</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +2 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p>"
         },
         {
-            "id": "Effect: Lastwall Soup",
-            "name": "Effet : Soupe de Dernier rempart (Effect: Lastwall Soup)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VeCNWhvEr82ZNoSV]{Soupe de Dernier rempart}</p>\n<p>effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Discrétion contre les morts-vivants</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Bonus de +2 aux DD de Discrétion contre les morts vivants</li>\n</ul>"
+            "id": "Effect: Elixir of Life (Moderate)",
+            "name": "Effet : Élixir de vie modéré (Effect: Elixir of Life (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.c21stU5rhN4F2fZl]{Élixir de vie modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux jets de sauvegarde contre la maladie et le poison</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {5d6+12}[healing]]]{5d6+12 points de vie}</li>\n</ul>"
         },
         {
-            "id": "Effect: Juggernaut Mutagen (Major)",
-            "name": "Effet : Mutagène de juggernaut majeur (Effect: Juggernaut Mutagen (Major))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.1kNp6yOS0aZPBPzZ]{Mutagène de Juggernaut majeur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur</li>\n<li>+45 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+            "id": "Effect: Antiplague (Lesser)",
+            "name": "Effet : Antimaladie inférieur (Effect: Antiplague (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.UqinuuCWePTYGhVO]{Antimaladie inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux jets de Vigueur contre les maladies</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Silvertongue Mutagen (Moderate)",
+            "name": "Effet : Mutagène de langue dorée modéré (Effect: Silvertongue Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.lIExlUFBKvBue8hb]{Mutagène de langue dorée modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Duperie, Diplomatie, Intimidation et Représentation.</li>\n<li>Malus d'objet −2 aux tests d’Arcanes, Artisanat, Occultisme et Société.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vos échecs critiques aux tests de Duperie, Diplomatie, Intimidation et Représentation deviennent de simples échecs.</li>\n<li>Malus d'objet −2 aux tests Connaissances.</li>\n<li>Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté.</li>\n<li>Tous vos échecs aux tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} deviennent des échecs critiques.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Boulderhead Bock",
+            "name": "Effet : Bock têtederoc (Effect: Boulderhead Bock)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.I0eUrgVGl8a2ZjFc]{Bock têtederoc}.</p>\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde contre les effets qui vous rendraient Étourdis ou Stupéfiés.</li>\n<li>Malus d'objet de -2 à la Perception </li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cognitive Mutagen (Major)",
+            "name": "Effet : Mutagène cognitif majeur (Effect: Cognitive Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VBK9i74dry8yf8f0]{Mutagène cognitif majeur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +4 aux tests d’Arcanes, d’Artisanat, d’Occultisme et de Société.</li>\n<li>Bonus d’objet de +4 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</li>\n<li>Malus de −2 aux tests d’Athlétisme et d’Acrobaties</li>\n<li>Malus de −2 aux jets d’attaque avec une arme ou à mains nues</li>\n</ul>\n<p><strong>Effets non implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +4 aux tests de Connaissance.</li>\n<li>Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</li>\n<li>Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire.</li>\n<li>Maximum d’Encombrements que vous pouvez porter est réduit de 4.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bestial Mutagen (Major)",
+            "name": "Effet : Mutagène Bestial majeur (Effect: Bestial Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.nS75vsM3x5jxlUqn]{Mutagène Bestial majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +4 aux tests d’Athlétisme.</li>\n<li>Bonus d’objet de +4 aux jets d’attaque à mains nues.</li>\n<li>Vous gagnez une attaque à mains nues de Griffes.</li>\n<li>Vous gagnez une attaque à mains nues de Mâchoires.</li>\n<li>Malus de −1 à la CA.</li>\n<li>Malus de −2 aux jets de Réflexes.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vous obtenez spécialisation martiale ou spécialisation martiale supérieure si vous possédez déjà spécialisation martiale pour ces attaques à mains nues</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Vermin Repellent Agent (Major)",
+            "name": "Effet : Agent répulsif de vermine majeur (Effect: Vermin Repellent Agent (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.C6v5p0ZtIUroYlU2]{Agent répulsif de vermine majeur}</p>\n<hr />\n<p>Effets accordés automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +4 aux jets de sauvegarde Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cheetah's Elixir (Greater)",
+            "name": "Effet : Élixir du guépard supérieur (Effect: Cheetah's Elixir (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.t4X6GDybqLmt7UkN]{Élixir du guépard supérieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +3 mètres à la Vitesse.</li>\n</ul>"
         },
         {
             "id": "Effect: Skeptic's Elixir (Lesser)",
@@ -47,9 +52,9 @@
             "description": "<p><strong>Durée</strong> 1 minute</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +1 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p>"
         },
         {
-            "id": "Effect: Serene Mutagen (Moderate)",
-            "name": "Effet : Mutagène de sérénité modéré (Effect: Serene Mutagen (Moderate))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.XEYveTvLH1lJ4jeI]{Mutagène de sérénité modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Volonté</li>\n<li>bonus d'objet de +3 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +2 aux tests de Perception</li>\n<li>bonus d'objet de +2 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+            "id": "Effect: Serene Mutagen (Lesser)",
+            "name": "Effet : Mutagène de sérénité inférieur (Effect: Serene Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bOPQDM54W8ZDoULY]{Mutagène de sérénité inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +1 aux jets de Volonté</li>\n<li>bonus d'objet de +2 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +1 aux tests de Perception</li>\n<li>bonus d'objet de +1 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
         },
         {
             "id": "Effect: Shielding Salve",
@@ -57,9 +62,399 @@
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.EWujUs3YmlBu2jhm]{Onguent de bouclier}</p>\n<hr />\n<p>Effet appliqué:</p>\n<ul>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
         },
         {
+            "id": "Effect: Silvertongue Mutagen (Greater)",
+            "name": "Effet : Mutagène de langue dorée supérieur (Effect: Silvertongue Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.uggpIk6vguWFXVli]{Mutagène de langue dorée supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +3 aux tests de Duperie, Diplomatie, Intimidation et Représentation.</li>\n<li>Malus d'objet −2 aux tests d’Arcanes, Artisanat, Occultisme et Société.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vos échecs critiques aux tests de Duperie, Diplomatie, Intimidation et Représentation deviennent de simples échecs.</li>\n<li>Malus d'objet −2 aux tests Connaissances.</li>\n<li>Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté.</li>\n<li>Tous vos échecs aux tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} deviennent des échecs critiques.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antidote (Major)",
+            "name": "Effet : Antidote majeur (Effect: Antidote (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ANzB9WzlGQXDn76G]{Antidote majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus de +4 aux jets e Vigueur contre les poisons</li>\n</ul>\n<p>Effets non implémentés :\n<ul>\n<li>Faites de suite un jet de sauvegarde contre un poison de niveau 14 ou moins qui vous affecte. En cas de succès, le poison est neutralisé.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Eagle Eye Elixir (Lesser)",
+            "name": "Effet : Élixir d'œil du faucon inférieur (Effect: Eagle Eye Elixir (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.7Y2yOr4ltpP2tyuL]{Élixir d'œil du faucon inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +1 aux tests de Perception</li>\n<li>Bonus d’objet de +2 si vous tentez de repérer une porte secrète et des pièges.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Elixir of Life (Major)",
+            "name": "Effet : Élixir de vie majeur (Effect: Elixir of Life (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.AmxSqEoFhRLMYd1W]{Élixir de vie majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux jets de sauvegarde contre la maladie et le poison.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {8d6+21}[healing]]]{8d6+21 points de vie}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Major)",
+            "name": "Effet : Mutagène de juggernaut majeur (Effect: Juggernaut Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.1kNp6yOS0aZPBPzZ]{Mutagène de Juggernaut majeur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +4 aux jets de Vigueur</li>\n<li>+45 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cognitive Mutagen (Lesser)",
+            "name": "Effet : Mutagène cognitif inférieur (Effect: Cognitive Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.wbr6rkyaVYnDhdgV]{Mutagène cognitif inférieur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +1 aux tests d’Arcanes, d’Artisanat, d’Occultisme et de Société.</li>\n<li>Bonus d’objet de +1 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</li>\n<li>Malus de −2 aux tests d’Athlétisme et d’Acrobaties</li>\n<li>Malus de −2 aux jets d’attaque avec une arme ou à mains nues</li>\n</ul>\n<p><strong>Effets non implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +1 aux tests de Connaissance.</li>\n<li>Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</li>\n<li>Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire.</li>\n<li>Maximum d’Encombrements que vous pouvez porter est réduit de 4.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Darkvision Elixir (Lesser)",
+            "name": "Effet : Élixir de Vision dans le noir inférieur (Effect: Darkvision Elixir (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.88pGCHV0uKMskTVO]{Élixir de Vision dans le noir inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Skeptic's Elixir (Greater)",
+            "name": "Effet : Élixir de l'incrédule supérieur (Effect: Skeptic's Elixir (Greater))",
+            "description": "<p><strong>Durée</strong> 1 heure</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Interagir</p>\n<hr />\n<p>Cet élixir aiguise votre esprit et vous permet de voir à travers les mensonges, les faux semblants et les supercheries magiques. Vous gagnez un bonus d'objet de +3 aux tests de Perception et au DD de Perception pour remarquer les mensonges, qu'il s'agisse de mensonges proférés ou de falsifications écrites. Vous gagnez ce même bonus d'objet aux jets de Volonté.</p>"
+        },
+        {
+            "id": "Effect: Drakeheart Mutagen (Greater)",
+            "name": "Effet : Mutagène de cœur de drake supérieur (Effect: Drakeheart Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.WuzLBK78DgIt8SsN]{Mutagène de cœur de drake supérieur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d'objet de +6 à la CA.</li>\n<li>Maximum de Dextérité de +2</li>\n<li>Bonus d'objet de +3 aux tests de Perception.</li>\n<li>Malus de -1 aux jets de Volonté</li>\n<li>Malus de -1 aux jets de Réflexes</li>\n<li>Malus de -1 aux jets pour Se Souvenir</li>\n</ul>\n<p><strong>Effets non implémentés : </strong></p>\n<ul>\n<li>Vous obtenez l'action @Compendium[pf2e.actionspf2e.EHa0owz6mccnmSBf]{Impulsion finale}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Quicksilver Mutagen (Lesser)",
+            "name": "Effet : Mutagène de Vif-argent (inférieur) (Effect: Quicksilver Mutagen (Lesser))",
+            "description": "<p>Accordé par  @Compendium[pf2e.equipment-srd.5MKBwpE401uz4kNN]{Mutagène de Vif-argent (inférieur)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests d'Abrobatie, de Discrétion et de Vol </li>\n<li>Bonus d'objet de +1 aux jets de sauvegarde Réflexes</li>\n<li>Bonus d'objet de +1 aux jets d'attaques basés sur la Dextérité</li>\n<li>Bonus de statut de +1,5 mètres à la Vitesse</li>\n<li>Malus de -2 à vos jets de Vigueur</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antidote (Greater)",
+            "name": "Effet : Antidote supérieur (Effect: Antidote (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.XWkeL34yJK6t5qUE]{Antidote supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus de +4 aux jets de Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Lastwall Soup",
+            "name": "Effet : Soupe de Dernier rempart (Effect: Lastwall Soup)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VeCNWhvEr82ZNoSV]{Soupe de Dernier rempart}</p>\n<p>effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Discrétion contre les morts-vivants</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Bonus de +2 aux DD de Discrétion contre les morts vivants</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Silvertongue Mutagen (Major)",
+            "name": "Effet : Mutagène de langue dorée majeur (Effect: Silvertongue Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.uD5vRYVOXNJ53sEE]{Mutagène de langue dorée majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +4 aux tests de Duperie, Diplomatie, Intimidation et Représentation.</li>\n<li>Malus d'objet −2 aux tests d’Arcanes, Artisanat, Occultisme et Société.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vos échecs critiques aux tests de Duperie, Diplomatie, Intimidation et Représentation deviennent de simples échecs.</li>\n<li>Malus d'objet −2 aux tests Connaissances.</li>\n<li>Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté.</li>\n<li>Tous vos échecs aux tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} deviennent des échecs critiques.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antiplague (Moderate)",
+            "name": "Effet: Antimaladie modéré (Effect: Antiplague (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.biRbqKo2C97XLfQ0]{Antimaladie modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux jets de Vigueur contre les maladies</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Elixir of Life (Minor)",
+            "name": "Effet : Élixir de vie mineur (Effect: Elixir of Life (Minor))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hDLbR56Id2OtU318]{Élixir de vie mineur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +1 aux jets de sauvegarde contre la maladie et le poison</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {1d6}[healing]]]{1d6 points de vie}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Quicksilver Mutagen (Greater)",
+            "name": "Effet : Mutagène vif-argent supérieur (Effect: Quicksilver Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.eQDTsetadI8u8Kc0]{Mutagène vif-argent supérieur)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +3 aux tests d'Abrobatie, de Discrétion et de Vol </li>\n<li>Bonus d'objet de +3 aux jets de sauvegarde Réflexes</li>\n<li>Bonus d'objet de +3 aux jets d'attaques basés sur la Dextérité</li>\n<li>Bonus de statut de +4,5 mètres à la Vitesse</li>\n<li>Malus de -2 à vos jets de Vigueur</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Vermin Repellent Agent (Greater)",
+            "name": "Effet : Agent répulsif de vermine supérieur (Effect: Vermin Repellent Agent (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.CReWZjAd3szYQ6Mx]{Agent répulsif de vermine supérieur}</p>\n<hr />\n<p>Effets accordés automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +3 aux jets de sauvegarde Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sea Touch Elixir (Lesser)",
+            "name": "Effet: Élixir de caresse marine inférieur (Effect: Sea Touch Elixir (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.zcJgT5RS8p2MEbOB]{Élixir de caresse marine inférieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse de nage de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Stone Fist Elixir",
+            "name": "Effet : Élixir de poing de pierre (Effect: Stone Fist Elixir)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YcvSw7Zn3oyqlJaw]{Élixir de poing de pierre}</p>\n<hr />\n<p>Effet appliqués automatiquement :</p>\n<ul>\n<li>Vos poings infligent 1d6 dégâts contondants et perdent le trait non létal</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Potion of Flying (Greater)",
+            "name": "Effet : Potion de vol supérieure (Effect: Potion of Flying (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.E999hL7XlAlfZhjK]{Potion de vol supérieure}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 12 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Moderate)",
+            "name": "Effet : Mutagène de juggernaut modéré (Effect: Juggernaut Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mj9i9GeQTADByNPZ]{Mutagène de Juggernaut modéré}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Vigueur</li>\n<li>+10 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sixfingers Elixir (Moderate)",
+            "name": "Effet : Élixir Six-doigts modéré (Effect: Sixfingers Elixir (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ieVRS2BjiWqauly6]{Élixir Six-doigts modéré}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse d'Escalade de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Darkvision Elixir (Greater)",
+            "name": "Effet : Élixir de Vision dans le noir supérieur (Effect: Darkvision Elixir (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bz8Y8bVUe7QfBk9g]{Élixir de Vision dans le noir supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Silvertongue Mutagen (Lesser)",
+            "name": "Effet : Mutagène de langue dorée inférieur (Effect: Silvertongue Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YwRAHWW8yUI07sy9]{Mutagène de langue dorée inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Duperie, Diplomatie, Intimidation et Représentation.</li>\n<li>Malus d'objet −2 aux tests d’Arcanes, Artisanat, Occultisme et Société.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vos échecs critiques aux tests de Duperie, Diplomatie, Intimidation et Représentation deviennent de simples échecs.</li>\n<li>Malus d'objet −2 aux tests Connaissances.</li>\n<li>Choisissez une compétence dans laquelle vous êtes qualifié : pendant toute la durée, vous devenez inexpérimenté.</li>\n<li>Tous vos échecs aux tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir} deviennent des échecs critiques.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Drakeheart Mutagen (Major)",
+            "name": "Effet : Mutagène de cœur de drake majeur (Effect: Drakeheart Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.M4ZOHOlne43ArjOC]{Mutagène de cœur de drake majeur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d'objet de +7 à la CA.</li>\n<li>Maximum de Dextérité de +2</li>\n<li>Bonus d'objet de +4 aux tests de Perception.</li>\n<li>Malus de -1 aux jets de Volonté</li>\n<li>Malus de -1 aux jets de Réflexes</li>\n<li>Malus de -1 aux jets pour Se Souvenir</li>\n</ul>\n<p><strong>Effets non implémentés : </strong></p>\n<ul>\n<li>Vous obtenez l'action @Compendium[pf2e.actionspf2e.EHa0owz6mccnmSBf]{Impulsion finale}</li>\n</ul>"
+        },
+        {
             "id": "Effect: Serene Mutagen (Greater)",
             "name": "Effet : Mutagène de sérénité supérieur (Effect: Serene Mutagen (Greater))",
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.Yej7lnnDYDZybGqo]{Mutagène de sérénité supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Volonté</li>\n<li>bonus d'objet de +4 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +3 aux tests de Perception</li>\n<li>bonus d'objet de +3 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Applereed Mutagen (Lesser)",
+            "name": "Effet : Mutagène Pousse-Roseau inférieur (Effect: Applereed Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.0RTsyWutvO42O0zK]{ Pousse-Roseau inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Athlétisme</li>\n<li>Bonus de 3 mètres à votre Vitesse</li>\n<li>Vous grandissez d'une taille</li>\n<li>Malus de -1 à la CA</li>\n<li>Malus de -2 aux jets de Réflexes</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Elixir of Life (Greater)",
+            "name": "Effet : Élixir de vie supérieur (Effect: Elixir of Life (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mYozcVg9fQY6zO7C]{Élixir de vie supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux jets de sauvegarde contre la maladie et le poison</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {7d6+18}[healing]]]{7d6+18 points de vie}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antidote (Lesser)",
+            "name": "Effet : Antidote inférieur (Effect: Antidote (Lesser))",
+            "description": "<p>Accordé par  @Compendium[pf2e.equipment-srd.ktjFOp3U0wQD9t0Z]{Antidote inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus de +2 aux jets de Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Salve of Slipperiness",
+            "name": "Effet : Onguent d'insaisissabilité (Effect: Salve of Slipperiness)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.MobYbxEL4KgxVi63]{Onguent d'insaisissabilité}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests d’Acrobaties pour S’échapper ou Se faufiler</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Shrinking Potion (Greater)",
+            "name": "Effect: Potion de rétrécissement supérieur (Effect: Shrinking Potion (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.5xsfj30uXMKINxnk]{Potion de rétrécissement supérieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Discrétion tant que vous êtes rétréci</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Elixir of Life (Lesser)",
+            "name": "Effet : Élixir de vie inférieur (Effect: Elixir of Life (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.TZUskLT7yvP7N2co]{Élixir de vie inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +1 aux jets de sauvegarde contre la maladie et le poison</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {3d6+6}[healing]]]{3d6+6 points de vie}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bestial Mutagen (Lesser)",
+            "name": "Effet : Mutagène bestial inférieur (Effect: Bestial Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.IQK9N2mEOyAj3iWU]{Bestial Mutagen (Lesser)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +1 aux tests d’Athlétisme.</li>\n<li>Bonus d’objet de +1 aux jets d’attaque à mains nues.</li>\n<li>Vous gagnez une attaque à mains nues de Griffes.</li>\n<li>Vous gagnez une attaque à mains nues de Mâchoires.</li>\n<li>Malus de −1 à la CA.</li>\n<li>Malus de −2 aux jets de Réflexes.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antidote (Moderate)",
+            "name": "Effet : Antidote modéré (Effect: Antidote (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.AJ1dC7EtTIfBey0M]{Antidote modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus de +3 aux jets de Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bestial Mutagen (Moderate)",
+            "name": "Effet : Mutagène bestial modéré (Effect: Bestial Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.VISk5uLPVIvNWovB]{Mutagène bestial modéré)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests d’Athlétisme.</li>\n<li>Bonus d’objet de +2 aux jets d’attaque à mains nues.</li>\n<li>Vous gagnez une attaque à mains nues de Griffes.</li>\n<li>Vous gagnez une attaque à mains nues de Mâchoires.</li>\n<li>Malus de −1 à la CA.</li>\n<li>Malus de −2 aux jets de Réflexes.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bestial Mutagen (Greater)",
+            "name": "Effet : Mutagène Bestial supérieur (Effect: Bestial Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.gDheph8YteBtnyKp]{Mutagène Bestial supérieur)}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests d’Athlétisme.</li>\n<li>Bonus d’objet de +3 aux jets d’attaque à mains nues.</li>\n<li>Vous gagnez une attaque à mains nues de Griffes.</li>\n<li>Vous gagnez une attaque à mains nues de Mâchoires.</li>\n<li>Malus de −1 à la CA.</li>\n<li>Malus de −2 aux jets de Réflexes.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Potion of Swimming (Moderate)",
+            "name": "Effet : Potion de nage modéré (Effect: Potion of Swimming (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.Eb4dEuV22QVlMumS]{Potion de nage modéré}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de nage égale à votre Vitesse au sol</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cheetah's Elixir (Moderate)",
+            "name": "Effet : Élixir du guépard modéré (Effect: Cheetah's Elixir (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.AqLxu3ir4UGzdOaz]{Élixir du guépard modéré}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +3 mètres à la Vitesse.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sea Touch Elixir (Moderate)",
+            "name": "Effet: Élixir de caresse marine modéré (Effect: Sea Touch Elixir (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.2hc1EEcb3pfr7Hac]{Élixir de caresse marine modéré}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse de nage de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Potion of Flying (Standard)",
+            "name": "Effet : Potion de vol de base (Effect: Potion of Flying (Standard))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.KlJSw919hpN6V9oK]{Potion de vol de base}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 12 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Greater)",
+            "name": "Effet : Mutagène de juggernaut supérieur (Effect: Juggernaut Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.TMtQnY6yvIRCpK9v]{Mutagère de juggernaut supérieur}</p>\n<p>Effets implementés:</p>\n<ul>\n<li>bonus d'objet de +3 aux jets de Vigueur</li>\n<li>+30 pv temporaires</li>\n<li>pénalité de -2 aux jets de Volonté</li>\n<li>pénalité de -2 aux tests de Perception</li>\n<li>pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cognitive Mutagen (Greater)",
+            "name": "Effet : Mutagène cognitif supérieur (Effect: Cognitive Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZGojRKG1yYiVWemR]{Mutagène cognitif supérieur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +3 aux tests d’Arcanes, d’Artisanat, d’Occultisme et de Société.</li>\n<li>Bonus d’objet de +3 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</li>\n<li>Malus de −2 aux tests d’Athlétisme et d’Acrobaties</li>\n<li>Malus de −2 aux jets d’attaque avec une arme ou à mains nues</li>\n</ul>\n<p><strong>Effets non implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +3 aux tests de Connaissance.</li>\n<li>Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</li>\n<li>Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire.</li>\n<li>Maximum d’Encombrements que vous pouvez porter est réduit de 4.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Stone Body Mutagen (Moderate)",
+            "name": "Effet : Mutagène Corps-de-pierre modéré (Effect: Stone Body Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.FZ6SMwiei6NnEp3e]{Mutagène Corps-de-pierre modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Malus de -2 aux jets de Réflexes.</li>\n<li>Vitesses réduites de 3 mètres (minimum 1,5 mètres)</li>\n</ul>\n<p>Effets non implémentés</p>\n<ul>\n<li>Résistance de 5 aux dégâts physiques (sauf contondant)</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Elixir of Life (True)",
+            "name": "Effet : Élixir de vie ultime (Effect: Elixir of Life (True))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.qK964kZz1ALcysOa]{Élixir de vie ultime}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +4 aux jets de sauvegarde contre la maladie et le poison.</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Guérison de [[/r {10d6+27}[healing]]]{10d6+27 points de vie}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Potion of Swimming (Greater)",
+            "name": "Effet : Potion de nage supérieur (Effect: Potion of Swimming (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.OMJgFmy3jut79Iaj]{Potion de nage supérieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de nage égale à votre Vitesse au sol</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Juggernaut Mutagen (Lesser)",
+            "name": "Effet : Mutagène de juggernaut inférieur (Effect: Juggernaut Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xE0EdDrf734l2fQH]{Mutagène de Juggernaut inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de Vigueur</li>\n<li>+5 pv temporaires</li>\n<li>Pénalité de -2 aux jets de Volonté</li>\n<li>Pénalité de -2 aux tests de Perception</li>\n<li>Pénalité de -2 aux jets d'initiative</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Lorsque vous êtes à votre maximum de PV pendant 1 minute complète, vous obtenez de nouveau les points de vie temporaires.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Drakeheart Mutagen (Moderate)",
+            "name": "Effet : Mutagène de cœur de drake modéré (Effect: Drakeheart Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xY2MogTwH9Fd8UPG]{Mutagène de cœur de drake modéré}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d'objet de +5 à la CA.</li>\n<li>Maximum de Dextérité de +2</li>\n<li>Bonus d'objet de +2 aux tests de Perception.</li>\n<li>Malus de -1 aux jets de Volonté</li>\n<li>Malus de -1 aux jets de Réflexes</li>\n<li>Malus de -1 aux jets pour Se Souvenir</li>\n</ul>\n<p><strong>Effets non implémentés : </strong></p>\n<ul>\n<li>Vous obtenez l'action @Compendium[pf2e.actionspf2e.EHa0owz6mccnmSBf]{Impulsion finale}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bloodhound Mask (Greater)",
+            "name": "Effet : Masque du limier supérieur (Effect: Bloodhound Mask (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.2x8F5s3PyKzYsRrZ]{Masque du limier supérieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un odorat imprécis avec une portée de 18 mètres</li>\n<li>Bonus d'objet de +3 à votre test de Survie pour Pister</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antiplague (Major)",
+            "name": "Effet : Antimaladie majeur (Effect: Antiplague (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.kajpTXg3oHIJStQa]{Antimaladie majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +4 aux jets de Vigueur contre les maladies</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Tenter mmédiatement un jet de sauvegarde pour enrayer votre affliction pour contrer une maladie de niveau 14 ou moins. En cas de succès, vous êtes guéri.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Eagle Eye Elixir (Major)",
+            "name": "Effet : Élixir d'œil du faucon majeur (Effect: Eagle Eye Elixir (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.kicNrnZz1KjJYRVI]{Élixir d'œil du faucon majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests de Perception</li>\n<li>Bonus d’objet de +4 si vous tentez de repérer une porte secrète et des pièges.</li>\n</ul>\n<p>Effets non implémentés:</p>\n<ul>\n<li>À chaque fois que vous passez à 3 mètres d’une porte dérobée ou d’un piège, le MJ fait automatiquement un test en secret pour savoir si vous les repérez.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Applereed Mutagen (Greater)",
+            "name": "Effet : Mutagène Pousse-roseau supérieur (Effect: Applereed Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.vTEWlRBUD4VzVwxK]{Mutagène Pousse-roseau supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +4 aux tests d'Athlétisme</li>\n<li>Bonus de 6 mètres à votre Vitesse</li>\n<li>Vous grandissez d'une taille</li>\n<li>Malus de -1 à la CA</li>\n<li>Malus de -2 aux jets de Réflexes</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cognitive Mutagen (Moderate)",
+            "name": "Effet : Mutagène cognitif modéré (Effect: Cognitive Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.qpzL9UnTi4cDhy6J]{Mutagène cognitif modéré}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +2 aux tests d’Arcanes, d’Artisanat, d’Occultisme et de Société.</li>\n<li>Bonus d’objet de +2 aux tests pour @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Se souvenir}.</li>\n<li>Malus de −2 aux tests d’Athlétisme et d’Acrobaties</li>\n<li>Malus de −2 aux jets d’attaque avec une arme ou à mains nues</li>\n</ul>\n<p><strong>Effets non implémentés :</strong></p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Connaissance.</li>\n<li>Vos échecs critiques aux tests de Se souvenir deviennent de simples échecs.</li>\n<li>Vous êtes surchargé à partir de 2 Encombrements de moins que d’ordinaire.</li>\n<li>Maximum d’Encombrements que vous pouvez porter est réduit de 4.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Dragon Turtle Scale",
+            "name": "Effet : Écaille de tortue dragon (Effect: Dragon Turtle Scale)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.GnXKCkgZQG0UmuHz]{Écaille de tortue dragon}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de nage égale à la moitié de votre Vitesse au sol</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Stone Body Mutagen (Lesser)",
+            "name": "Effet : Mutagène Corps-de-pierre inférieur (Effect: Stone Body Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.5ftFTiKY0BMvhzL9]{Mutagène Corps-de-pierre inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Malus de -2 aux jets de Réflexes.</li>\n<li>Vitesses réduites de 3 mètres (minimum 1,5 mètres)</li>\n</ul>\n<p>Effets non implémentés</p>\n<ul>\n<li>Résistance de 5 aux dégâts physiques (sauf contondant)</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Applereed Mutagen (Moderate)",
+            "name": "Effet : Mutagène Pousse-Roseau modéré (Effect: Applereed Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.8e37h6HBr4ZyBSGt]{Mutagène Pousse-Roseau modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +3 aux tests d'Athlétisme</li>\n<li>Bonus de 4,5 mètres à votre Vitesse</li>\n<li>Vous grandissez d'une taille</li>\n<li>Malus de -1 à la CA</li>\n<li>Malus de -2 aux jets de Réflexes</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sea Touch Elixir (Greater)",
+            "name": "Effet: Élixir de caresse marine supérieur (Effect: Sea Touch Elixir (Greater))",
+            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.i4D4B7tpYv9vMvQY]{Élixir de caresse marine supérieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse de nage de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Antiplague (Greater)",
+            "name": "Effet : Antimaladie supérieur (Effect: Antiplague (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ORDaAzMZLrf6Hn8A]{Antimaladie supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +4 aux jets de Vigueur contre les maladies</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Darkvision Elixir (Moderate)",
+            "name": "Effet : Élixir de Vision dans le noir modéré (Effect: Darkvision Elixir (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.Y8115p3cmQJBqk5d]{Élixir de Vision dans le noir modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bloodhound Mask (Lesser)",
+            "name": "Effet : Masque du limier inférieur (Effect: Bloodhound Mask (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.mDJSaarQsIMX7Opi]{Masque du limier inférieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un odorat imprécis avec une portée de 4,5 mètres</li>\n<li>Bonus d'objet de +1 à votre test de Survie pour Pister</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Quicksilver Mutagen (Moderate)",
+            "name": "Effet : Mutagène de vif-argent modéré (Effect: Quicksilver Mutagen (Moderate))",
+            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.n52BSbZsnx4Vmt2p]{Mutagène de vif-argent modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Abrobatie, de Discrétion et de Vol </li>\n<li>Bonus d'objet de +2 aux jets de sauvegarde Réflexes</li>\n<li>Bonus d'objet de +2 aux jets d'attaques basés sur la Dextérité</li>\n<li>Bonus de statut de +3 mètres à la Vitesse</li>\n<li>Malus de -2 à vos jets de Vigueur</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sixfingers Elixir (Greater)",
+            "name": "Effet : Élixir Six-doigts supérieur (Effect: Sixfingers Elixir (Greater))",
+            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.6odVabL0WL2H89Ic]{Élixir Six-doigts supérieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse d'Escalade de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bravo's Brew (Greater)",
+            "name": "Effet : Breuvage de bravoure supérieur (Effect: Bravo's Brew (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.sWPkbSlWAEAStBqD]{Breuvage de bravoure supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux jets de Volonté</li>\n<li>Bonus d’objet de +4 lors de jets de Volonté contre la terreur</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Si vous obtenez un succès sur un jet de sauvegarde contre un effet de terreur, il est transformé en succès critique.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sixfingers Elixir (Lesser)",
+            "name": "Effet : Elixir Six-doigts inférieur (Effect: Sixfingers Elixir (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.JAOWw2GhupaYoYg9]{Elixir Six-doigts inférieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vitesse d'Escalade de 6 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Eagle Eye Elixir (Moderate)",
+            "name": "Effet : Élixir d'œil du faucon modéré (Effect: Eagle Eye Elixir (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.lPcnDlBGz5QwCMYw]{Élixir d'œil du faucon modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Perception</li>\n<li>Bonus d’objet de +3 si vous tentez de repérer une porte secrète et des pièges.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bloodhound Mask (Moderate)",
+            "name": "Effet : Masque du limier modéré (Effect: Bloodhound Mask (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.qasFfdiZKIczoZ9p]{Masque du limier modéré}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un odorat imprécis avec une portée de 9 mètres</li>\n<li>Bonus d'objet de +2 à votre test de Survie pour Pister</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Stone Body Mutagen (Greater)",
+            "name": "Effet : Mutagène Corps-de-pierre supérieur (Effect: Stone Body Mutagen (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.cqTCg6C0lvYUKQmx]{Mutagène Corps-de-pierre supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Malus de -2 aux jets de Réflexes.</li>\n<li>Vitesses réduites de 3 mètres (minimum 1,5 mètres)</li>\n</ul>\n<p>Effets non implémentés</p>\n<ul>\n<li>Résistance de 10 aux dégâts physiques (sauf contondant)</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Eagle Eye Elixir (Greater)",
+            "name": "Effet : Élixir d'œil du faucon supérieur (Effect: Eagle Eye Elixir (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xWCdsGSwLLTeX6tQ]{Élixir d'œil du faucon supérieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +3 aux tests de Perception</li>\n<li>Bonus d’objet de +4 si vous tentez de repérer une porte secrète et des pièges.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bravo's Brew (Moderate)",
+            "name": "Effet : Breuvage de bravoure modéré (Effect: Bravo's Brew (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.oCuwJ9IUDAuzsUwa]{Breuvage de bravoure modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +2 aux jets de Volonté</li>\n<li>Bonus d’objet de +3 lors de jets de Volonté contre la terreur</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Quicksilver Mutagen (Major)",
+            "name": "Effet : Mutagène vif-argent majeur (Effect: Quicksilver Mutagen (Major))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.4GXzTN6iSDGfYEAi]{Mutagène vif-argent majeur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +4 aux tests d'Abrobatie, de Discrétion et de Vol </li>\n<li>Bonus d'objet de +4 aux jets de sauvegarde Réflexes</li>\n<li>Bonus d'objet de +4 aux jets d'attaques basés sur la Dextérité</li>\n<li>Bonus de statut de +6 mètres à la Vitesse</li>\n<li>Malus de -2 à vos jets de Vigueur</li>\n</ul>\n<p>Effets non implémentés :</p>\n<ul>\n<li>Vous subissez un montant de dégâts égal au double de votre niveau. Vous ne pouvez pas récupérer les points de vie ainsi perdus tant que le mutagène fait effet.</li>"
+        },
+        {
+            "id": "Effect: Drakeheart Mutagen (Lesser)",
+            "name": "Effet : Mutagène de cœur de drake inférieur (Effect: Drakeheart Mutagen (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.GS4YvQieBS11JNYR]{Mutagène de cœur de drake inférieur}</p>\n<p><strong>Effets implémentés :</strong></p>\n<ul>\n<li>Bonus d'objet de +4 à la CA.</li>\n<li>Maximum de Dextérité de +2</li>\n<li>Bonus d'objet de +1 aux tests de Perception.</li>\n<li>Malus de -1 aux jets de Volonté</li>\n<li>Malus de -1 aux jets de Réflexes</li>\n<li>Malus de -1 aux jets pour Se Souvenir</li>\n</ul>\n<p><strong>Effets non implémentés : </strong></p>\n<ul>\n<li>Vous obtenez l'action @Compendium[pf2e.actionspf2e.EHa0owz6mccnmSBf]{Impulsion finale}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Sun Orchid Poultice",
+            "name": "Effet : Cataplasme d'Orchidée Solaire (Effect: Sun Orchid Poultice)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.1LKJvK9ofzIIkQX3]{Cataplasme d'Orchidée Solaire}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +3 aux jets de sauvegarde.</li>\n<li>Vous gagnez 20 points de vie temporaires</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Gecko Potion",
+            "name": "Effet : Potion de Gecko (Effect: Gecko Potion)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hGw7Q1y2IEXRGAfv]{Potion de Gecko}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets d'Atlhétisme pour @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}</li>\n<li>Bonus d'objet de +1 aux jets de Vol pour @Compendium[pf2e.actionspf2e.ijZ0DDFpMkWqaShd]{Escamoter un objet}</li>\n<li>Bonus d'objet de +1 aux jets de Réflexes pour contrer le @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmement}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Serene Mutagen (Moderate)",
+            "name": "Effet : Mutagène de sérénité modéré (Effect: Serene Mutagen (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.XEYveTvLH1lJ4jeI]{Mutagène de sérénité modéré}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>bonus d'objet de +2 aux jets de Volonté</li>\n<li>bonus d'objet de +3 aux jets de Volonté contre les effets mentaux</li>\n<li>bonus d'objet de +2 aux tests de Perception</li>\n<li>bonus d'objet de +2 aux tests de Médecine, Nature, Religion et Survie</li>\n<li>pénalité aux jets d'attaque de -1</li>\n</ul>\n<p>Unimplemented effects:</p>\n<ul>\n<li>pénalité de -1 au DD des jets de sauvegarde des sorts offensifs</li>\n<li>pénalité de -1 par dé de dégâts à tous les jets de dégâts des armes, des attaques à mains nues et des sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Skinstitch Salve",
+            "name": "Effet : Pommade suture (Effect: Skinstitch Salve)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.FgAPV0iLE6R1QMJ5]{Pommade suture}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 au test de Médecine</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bravo's Brew (Lesser)",
+            "name": "Effet : Breuvage de bravoure inférieur (Effect: Bravo's Brew (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.zM9VX3QwM81DzDUA]{Breuvage de bravoure inférieur}</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Bonus d’objet de +1 aux jets de Volonté</li>\n<li>Bonus d’objet de +2 lors de jets de Volonté contre la terreur</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bronze Bull Pendant",
+            "name": "Effet : Pendentif de taureau de bronze (Effect: Bronze Bull Pendant)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.nXStoLxPrrP2b6WB]{Pendentif de taureau de bronze}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +2 aux tests d’Athlétisme pour @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser}</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Vermin Repellent Agent (Moderate)",
+            "name": "Effet : Agent répulsif de vermine modéré (Effect: Vermin Repellent Agent (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.WGbE7qAGw8O5yH07]{Agent répulsif de vermine modéré}</p>\n<hr />\n<p>Effets accordés automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 aux jets de sauvegarde Vigueur contre les poisons</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Cheetah's Elixir (Lesser)",
+            "name": "Effet : Élixir du guépard inférieur (Effect: Cheetah's Elixir (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.tyt6rFtv32MZ4DT9]{Élixir du guépard inférieur}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +1,5 mètres à la Vitesse.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Vermin Repellent Agent (Lesser)",
+            "name": "Effet : Agent répulsif de vermine inférieur (Effect: Vermin Repellent Agent (Lesser))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.lgqyRmQ3GZbbxQsD]{Agent répulsif de vermine inférieur}</p>\n<hr />\n<p>Effets accordés automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde Vigueur contre les poisons</li>\n</ul>"
         },
         {
             "id": "Effect: Serene Mutagen (Major)",

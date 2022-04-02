@@ -1,6 +1,107 @@
 {
     "label": "Dons (Animal Companions)",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Specialized - Deep Diver (Speed Bonus)",
+            "name": "Spécialisé - Plongeur profond bonus de vitesse (Touché par une maride) (Specialized - Deep Diver (Speed Bonus))",
+            "description": "<p>Des animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Sa maîtrise pour les jets de Sauvegarde et la Perception passe à Expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon gagne un bonus de statut de +3 mètres à sa Vitesse de nage existante et peut respirer sous l'eau si ce n'était pas déjà le cas. Son modificateur en Constitution augmente de +1. Il devient maître en Réflexes et expert en barde.</p>\n<p>Cette spécialisation ne peut être sélectionée que par les compagnons animaux touchés par une maride qui possèdent déjà une vitesse de nage.</p>"
+        },
+        {
+            "id": "Specialized - Racer",
+            "name": "Spécialisation - Coureur (Specialized - Racer)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés par ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon court vite. Il gagne un bonus de statut de +3 mètres à sa Vitesse, sa Vitesse de nage ou sa vitesse de vol (selon votre choix). Son degré de maitrise en jets de Vigueur devient légendaire et son modificateur de Constitution augmente de +1.</p>"
+        },
+        {
+            "id": "Specialized - Wildfire Scorcher",
+            "name": "Spécialisé - Brûleur de feu sauvage (Touché par un éfrit) (Specialized - Wildfire Scorcher)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe.  La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à Expert. Son degré de maîtrise pour les jets de Sauvegarde et la Perception passe à Expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés, et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon animal gagne une résistance au feu égale à votre niveau.  Toute créature qui tente de le Saisir ou de l'empoigner, de l'attaquer à mains nues, ou de le Fapper avec une arme de corps-à-corps lorsqu'il est sur une case adjacente à votre compagnon prend 2d6 dégâts de feu. Son modificateur de Dextérité augmente de 1 et son degré de maîtrise de sauvegarde Réflexes passe à Légendaire et il devient Expertà sa défense sans armure. Cette spécialisation ne peut être sélectionnée que par les compagnons liés-Éfretis</p>"
+        },
+        {
+            "id": "Specialized - Wind Chaser",
+            "name": "Spécialisé - Chasse-vent (touché par un djinn) (Specialized - Wind Chaser)",
+            "description": "<p>Des animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Sa maîtrise pour les jets de Sauvegarde et la Perception passe à Expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon gagne un bonus de statut de +6 mètres à sa Vitesse ou à sa Vitesse de vol (selon votre choix s'il a les deux). Il devient maître en Acrobaties et son modificateur en Dextérité augmente de 1. Il devient légendaire en Réflexes et expert en défense sans armure.</p>\n<p>Cette spécialisation ne peut être sélectionée que par les compagnons animaux touchés par un djinn.</p>"
+        },
+        {
+            "id": "Specialized - Wrecker",
+            "name": "Spécialiation - Démolisseur (Specialized - Wrecker)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon casse des tas de choses. Ses attaques à mains nues ignorent la moitié de la Solidité d'un objet. Son degré de maîtrise en Athlétisme passe à maître et son modidificateur de Force augmente de +1.</p>"
+        },
+        {
+            "id": "Efreeti-Touched Animal Companion",
+            "name": "Compagnon animal touché par un éfrit (Efreeti-Touched Animal Companion)",
+            "description": "<p>Si vous prenez un don qui vous permettrait normalement de choisir d'avoir un compagnon animal sauvage ou agile, vous pouvez à la place choisir qu'il devienne un compagnon touché par un éfrit (feu). Un compagnon lié par un éfrit augmente son modificateur de Sagesse de +2 et ses modificateurs de Force, de Dextérité et de Constitution de +1. Il inflige 3 dégâts supplémentaires avec ses attaques à mains nues ; ces dégâts sont des dégâts de feu. Il acquiert une résistance 5 aux dégâts de feu. Son rang de compétence en Acrobaties passe à expert. Il apprend également la manœuvre avancée pour son type. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques et gagnent le trait feu.</p>"
+        },
+        {
+            "id": "Marid-Touched Animal Companion",
+            "name": "Compagnon animal touché par une maride (Marid-Touched Animal Companion)",
+            "description": "<p>Si vous prenez un don qui vous permettrait normalement de choisir d'avoir un compagnon animal sauvage ou agile, vous pouvez à la place choisir qu'il devienne un compagnon touché par une maride (eau). Un compagnon touchéé par une maride augmente son modificateur de Sagesse de +2 et ses modificateurs de Force, de Dextérité et de Constitution de +1. Il inflige 3 dégâts supplémentaires avec ses attaques à mains nues ; ces dégâts sont des dégâts d'eau un compagnon lié par une maride. Il acquiert une résistance de 5 aux dégâts de feu pour marides. Si le compagnon est touché par une maride, son rang de compétence en Athlétisme passe à expert. Il apprend également la manœuvre avancée pour son type. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques et gagnent le trait eau.</p>"
+        },
+        {
+            "id": "Savage Animal Companion",
+            "name": "Compagnon animal sauvage (Savage Animal Companion)",
+            "description": "<p>Pour faire passer un compagnon animal d’adulte à sauvage, augmentez son modificateur de Force de +2 et ses modificateurs de Dextérité, de Constitution et de Sagesse de +1. Il inflige 3 dégâts supplémentaires à ses attaques à mains nues. Faites passer son rang de maîtrise en Athlétisme à expert. Il apprend également la manœuvre avancée de son type. Si votre compagnon est de taille Moyenne ou inférieure, il grandit d’une taille. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques.</p>"
+        },
+        {
+            "id": "Djinni-Touched Animal Companion",
+            "name": "Compagnon animal touché par un djinn (Djinni-Touched Animal Companion)",
+            "description": "<p>Si vous prenez un don qui vous permettrait normalement de choisir d'avoir un compagnon animal sauvage ou agile, vous pouvez à la place choisir qu'il devienne un compagnon touché par un djinn. Un compagnon touché par un djinn augmente son modificateur de Sagesse de +2 et ses modificateurs de Force, de Dextérité et de Constitution de +1. Il inflige 3 dégâts supplémentaires avec ses attaques à mains nues ; ces dégâts sont des dégâts d'air. Il acquiert une résistance 5 aux dégâts d'acide. Si le compagnon est lié par un djinn, il devient expert en Acrobaties. Il apprend également la manœuvre avancée de son type. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques et gagnent le trait air.</p>"
+        },
+        {
+            "id": "Shaitan-Touched Animal Companion",
+            "name": "Compagnon animal Touché par un shaïtan (Shaitan-Touched Animal Companion)",
+            "description": "<p>Si vous prenez un don qui vous permettrait normalement de choisir d'avoir un compagnon animal sauvage ou agile, vous pouvez à la place choisir qu'il devienne un compagnon touché par un génie. Lorsque vous choisissez le don, sélectionnez le type de génie dont le pouvoir imprègne votre compagnon. Les génies et leurs traits élémentaires sont les suivants : djinn (air), éfrit (feu), maride (eau) ou shaitan (terre). Un compagnon lié par un génie augmente son modificateur de Sagesse de 2 et ses modificateurs de Force, de Dextérité et de Constitution de 1. Il inflige 3 dégâts supplémentaires avec ses attaques à mains nues ; ces dégâts sont des dégâts de feu pour un compagnon lié par un éfrit ou des dégâts de même type que l'attaque à mains nues du génie lié. Il acquiert une résistance de 5 aux dégâts d'un type dépendant du génie lié : acide pour les djinns, feu pour les éfrits ou les marides et électricité pour les shaitans. Si le compagnon est lié par un djinn ou un éfrit, il passe expert en Acrobaties ; s'il est touché par une maride ou un shaitan, il passe expert en Athlétisme. Il apprend également la manœuvre avancée lié à son type. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques et gagnent le trait élémentaire du génie.</p>"
+        },
+        {
+            "id": "Mature Animal Companion",
+            "name": "Compagnon animal adulte (Mature Animal Companion)",
+            "description": "<p>Pour faire passer un compagnon animal de jeune à adulte (généralement en raison d’un choix de don venant de votre classe), augmentez ses modificateurs de Force, de Dextérité, de Constitution et de Sagesse de +1. Ses dégâts d’attaque à mains nues passent de un à deux dés (par exemple de 1d8 à 2d8) et son rang de maîtrise pour la Perception et tous les jets de sauvegarde à expert. Augmentez ses rangs de maîtrise en Intimidation, Discrétion et Survie à qualifié ; s’il est déjà qualifié dans l’une de ces compétences associées à son type, augmentez son niveau de maîtrise dans cette compétence à expert. Si votre compagnon est de taille Moyenne ou inférieure, il grandit d’une taille.</p>"
+        },
+        {
+            "id": "Specialized - Tracker",
+            "name": "Spécialisation - Pisteur (Specialized - Tracker)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon est un pisteur sans pareil. Il peut se mouvoir à pleine vitesse lorsqu'il suit une piste. Son degré de maitrise en Survie passe à expert (ou à maître s'il est déjà expert dans cette compétence associée à son type) et son modificateur de Sagesse augmente de +1.</p>"
+        },
+        {
+            "id": "Indomitable Animal Companion",
+            "name": "Compagnon animal indomptable (Indomitable Animal Companion)",
+            "description": "<p>Un compagnon animal indomptable augmente son modificateur de Constitution de +2 et ses modificateurs de Force, de Dextérité et de Sagesse de +1. Il inflige 3 dég$ats supplémentaires à ses attaques à mains nues. Faites passer son rang de maîtrise en Athlétisme à expert et son rang de maîtrise en barde à expert. Il apprend également la manœuvre avancée de son type. Si votre compagnon est de taille Moyenne ou inférieure, il grandit d'une taille. Pour le fait d'ignorer les résistances, ses attaques deviennent magiques.</p>"
+        },
+        {
+            "id": "Specialized - Shade",
+            "name": "Spécialisation - Ombre (Specialized - Shade)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à Expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à Expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>La forme physique de votre compagnon animal est faite en partie ou en totalité d'ombres. Il gagne vision dans le noir, une résistance à tous les dégâts de 5 sauf Force et, dans les zones de faible lumière ou de ténèbres, il peut Faire un pas de 3 mètres au lieu de 1,5 mètres. Son degré de maîtrise en défense sans armure passe à Expert ou à Maître s'il est Agile.</p>"
+        },
+        {
+            "id": "Specialized - Deep Diver (Base Speed)",
+            "name": "Spécialisé - Plongeur profond vitesse de base (Touché par une maride) (Specialized - Deep Diver (Base Speed))",
+            "description": "<p>Des animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Sa maîtrise pour les jets de Sauvegarde et la Perception passe à Expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon gagne une vitesse de nage de 9 mètres et peut respirer sous l'eau si ce n'était pas déjà le cas. Son modificateur en Constitution augmente de +1. Il devient maître en Réflexes et expert en barde.</p>\n<p>Cette spécialisation ne peut être sélectionée que par les compagnons animaux touchés par une maride qui ne possèdent pas déjà une vitesse de nage.</p>"
+        },
+        {
+            "id": "Specialized - Bully",
+            "name": "Spécialisé - Brute (Specialized - Bully)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon terrorise les ennemis avec des démonstrations de force et les malmènent sur le champ de bataille. Son degré de maîtrise en Athlétisme et en Intimidation passe à Expert (ou Maître s'il est déjà expert du fait de son type), son modificateur de Force augmente de +1 et son modificateur de Charisme augmente de +3.</p>"
+        },
+        {
+            "id": "Specialized - Daredevil",
+            "name": "Spécialisé - Casse-cou (Specialized - Daredevil)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre animal compagnon entre dans la mêlée avec des bonds et des plongeons gracieux. Il gagne la capacité Refuser l'avantage de sorte qu'il n'est pas pris au dépourvu à l'encontre des créatures qui sont Cachées, Non détectées ou qui le prennent en tenaille sauf si la créature est d'un niveau supérieur à la vôtre. Il devient maître en Acrobaties et son modificateur de Dextérité augmente de +1. Son degré de maîtrise en défense sans armure passe à expert ou à maître s'il est agile.</p>"
+        },
+        {
+            "id": "Specialized - Ambusher",
+            "name": "Spécialisation - Piègeur (Specialized - Ambusher)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires de ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Dans son environnement naturel, votre compagnon peut Être furtif même s'il est observé. Son degré de maitrise en Discrétion passe à expert (ou à maître s'il est déjà qualifié dans cette compétence associée à son type) et son modificateur de Dextérité augmente de +1. Il devient expert en armure sans défense ou maître s'il est Agile.</p>"
+        },
+        {
+            "id": "Nimble Animal Companion",
+            "name": "Compagnon animal agile (Nimble Animal Companion)",
+            "description": "<p>Pour faire passer un compagnon animal d’adulte à agile, augmentez son modificateur de Dextérité de +2 et ses modificateurs de Force, de Constitution et de Sagesse de +1. Il inflige 2 dégâts supplémentaires avec ses attaques à mains nues. Faites passer ses rangs de maîtrise en Acrobaties et défense sans armure à expert. Il apprend également la manœuvre avancée de son type. Pour le fait d’ignorer les résistances, ses attaques deviennent magiques.</p>"
+        },
+        {
+            "id": "Specialized - Steadfast Strider",
+            "name": "Spécialisé - Monture inébranlable (Touché par un shaitan) (Specialized - Steadfast Strider)",
+            "description": "<p>Les animaux compagnons spécialisés sont plus intelligents et ont un comportement plus complexe. La première fois qu'un animal accède à une spécialisation, il gagne les aptitudes suivantes : son degré de maîtrise pour les attaques à mains nues passe à expert. Son degré de maîtrise pour les jets de sauvegarde et la Perception passe à expert. Augmentez son modificateur de Dextérité de +1 et son modificateur d'Intelligence de +2. Les dégâts infligés par ses attaques à mains nues passent de deux dés à trois dés et il augmente les dégâts supplémentaires infligés avec ses attaques à mains nues de 2 à 4 ou de 3 à 6.</p>\n<p>Votre compagnon ignore les terrains difficiles et les terrains très difficiles fait en sédiments ou pierre et peut se déplacer dans les sables mouvants, la boue et des surfaces similaires, comme si elles étaient solides. Il gagne un bonus de statut de +2 à ses jets de sauvegarde et son DD pour éviter d'être poussé ou subir un Croc-en-jambes. Son modificateur de Force augmente de +1 et il devient expert en degré de maîtrise de barde.</p>\n<p>Cette spécialisation ne peut être séléctionnée que par les compagnons touchés par un shaitan.</p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

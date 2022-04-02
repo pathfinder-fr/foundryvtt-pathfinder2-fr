@@ -3,7 +3,7 @@
  * **libre**: 66
 
 
-Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -42,7 +42,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-jB6iDPaOSWrgxsEh.htm](feature-effects/01-jB6iDPaOSWrgxsEh.htm)|Effect: Major Tempest Curse|Effet : Malédiction de la tempête majeure|libre|
 |[01-JGNnron2gnYI1P78.htm](feature-effects/01-JGNnron2gnYI1P78.htm)|Effect: Major Battle Curse|Effet : Malédiction majeure du combat|libre|
 |[01-KTNjMlO3WZFx7Suj.htm](feature-effects/01-KTNjMlO3WZFx7Suj.htm)|Effect: Major Life Curse|Effet : Malédiction majeure de la vie|libre|
-|[01-KVbS7AbhQdeuA0J6.htm](feature-effects/01-KVbS7AbhQdeuA0J6.htm)|Effect: Genie Blood Magic (Target)|Effet : MAgie du sang génie (Cible)|libre|
+|[01-KVbS7AbhQdeuA0J6.htm](feature-effects/01-KVbS7AbhQdeuA0J6.htm)|Effect: Genie Blood Magic (Target)|Effet : Magie du sang génie (Cible)|libre|
 |[01-Lb4q2bBAgxamtix5.htm](feature-effects/01-Lb4q2bBAgxamtix5.htm)|Effect: Treat Wounds Immunity|Effet : Immunité à Soigner les blessures|libre|
 |[01-MrLjJVltBpvMMD8Q.htm](feature-effects/01-MrLjJVltBpvMMD8Q.htm)|Effect: Moderate Lore Curse|Effet : Malédiction modérée du Savoir|libre|
 |[01-n1vhmOd7aNiuR3nk.htm](feature-effects/01-n1vhmOd7aNiuR3nk.htm)|Effect: Diabolic Blood Magic (Self)|Effet : Magie du sang diabolique (soi-même)|libre|

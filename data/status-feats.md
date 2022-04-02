@@ -5,7 +5,7 @@
  * **changé**: 2
 
 
-Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -2292,7 +2292,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-04-WHOCaVobY7N3UTtA.htm](feats/class-04-WHOCaVobY7N3UTtA.htm)|Divine Evolution|Évolution divine|officielle|
 |[class-04-wjnfdh6WzN7HbmeE.htm](feats/class-04-wjnfdh6WzN7HbmeE.htm)|Aura Of Despair|Aura de désespoir|libre|
 |[class-04-ww5AM2yFs0lqQhmD.htm](feats/class-04-ww5AM2yFs0lqQhmD.htm)|Vision Of Weakness|Vision de faiblesse|libre|
-|[class-04-wz2edbLFnDKDNWWZ.htm](feats/class-04-wz2edbLFnDKDNWWZ.htm)|Flurry of Maneuvers|Déluges de manoeuvres|officielle|
+|[class-04-wz2edbLFnDKDNWWZ.htm](feats/class-04-wz2edbLFnDKDNWWZ.htm)|Flurry of Maneuvers|Déluges de manœuvres|officielle|
 |[class-04-XGZUjc9I3sjfniDg.htm](feats/class-04-XGZUjc9I3sjfniDg.htm)|Dual Energy Heart|Cœur énergétique dual|libre|
 |[class-04-xlparPCGhkgjdhx2.htm](feats/class-04-xlparPCGhkgjdhx2.htm)|Defend Summoner|Défendre le conjurateur|libre|
 |[class-04-XWtNGOkMHcrdrRw8.htm](feats/class-04-XWtNGOkMHcrdrRw8.htm)|Dual-Form Weapon|Arme à forme double|libre|

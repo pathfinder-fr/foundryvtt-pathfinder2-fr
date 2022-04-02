@@ -4,7 +4,7 @@
  * **vide**: 6
 
 
-Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments vides ne pouvant pas être traduits
@@ -212,7 +212,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vSUz97Y29l1O50bC.htm](deities/vSUz97Y29l1O50bC.htm)|Count Ranalc|Comte Ranalc|libre|
 |[VvxEvEKhCGRwrMJp.htm](deities/VvxEvEKhCGRwrMJp.htm)|Imbrex|Imbrex|libre|
 |[Vzxm5FyIA40b2OSP.htm](deities/Vzxm5FyIA40b2OSP.htm)|Pulura|Pulura|libre|
-|[w4fDrwL8VIqJDPfR.htm](deities/w4fDrwL8VIqJDPfR.htm)|Uvoko|Uvoko|libre|
+|[w4fDrwL8VIqJDPfR.htm](deities/w4fDrwL8VIqJDPfR.htm)|Uvoko|Uvuko|libre|
 |[W4QGkdn9V5ACRpkh.htm](deities/W4QGkdn9V5ACRpkh.htm)|Monad|Monade|libre|
 |[w66gCNiZ7dslqG8K.htm](deities/w66gCNiZ7dslqG8K.htm)|Lissala|Lissala|libre|
 |[WfqLY2Fm1LGCcG5X.htm](deities/WfqLY2Fm1LGCcG5X.htm)|Sangpotshi|Sangpotshi|libre|

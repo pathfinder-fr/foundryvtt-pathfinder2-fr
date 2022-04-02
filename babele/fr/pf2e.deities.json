@@ -2,303 +2,18 @@
     "label": "Divinités",
     "entries": [
         {
-            "id": "Mephistopheles",
-            "name": "Méphistophélès",
+            "id": "Stag Mother of the Forest of Stones",
+            "name": "Mère cerf de la forêt de pierres",
             "description": ""
         },
         {
-            "id": "Valmallos",
-            "name": "Valmallos",
+            "id": "Sifkesh",
+            "name": "Siskesh",
             "description": ""
         },
         {
-            "id": "Matravash",
-            "name": "Matravash",
-            "description": ""
-        },
-        {
-            "id": "Nalinivati",
-            "name": "Nalinivati",
-            "description": ""
-        },
-        {
-            "id": "Calistria",
-            "name": "Calistria",
-            "description": ""
-        },
-        {
-            "id": "Treerazer",
-            "name": "Fléau des arbres",
-            "description": ""
-        },
-        {
-            "id": "Ahriman",
-            "name": "Ahriman",
-            "description": ""
-        },
-        {
-            "id": "Lymnieris",
-            "name": "Lymniéris",
-            "description": ""
-        },
-        {
-            "id": "Chaldira",
-            "name": "Chaldira",
-            "description": ""
-        },
-        {
-            "id": "Shyka",
-            "name": "Shyka",
-            "description": ""
-        },
-        {
-            "id": "Nethys",
-            "name": "Néthys",
-            "description": ""
-        },
-        {
-            "id": "Diomazul",
-            "name": "Diomazul",
-            "description": ""
-        },
-        {
-            "id": "Falayna",
-            "name": "Falayna",
-            "description": ""
-        },
-        {
-            "id": "The Lantern King",
-            "name": "Le roi lanterne",
-            "description": ""
-        },
-        {
-            "id": "Shelyn",
-            "name": "Shélyn",
-            "description": ""
-        },
-        {
-            "id": "Baalzebul",
-            "name": "Belzébuth",
-            "description": ""
-        },
-        {
-            "id": "Esoteric Order of the Palatine Eye",
-            "name": "Ordre ésotérique de l'Œil palatin",
-            "description": ""
-        },
-        {
-            "id": "Zyphus",
-            "name": "Zyphus",
-            "description": ""
-        },
-        {
-            "id": "Tanagaar",
-            "name": "Tanagaar",
-            "description": ""
-        },
-        {
-            "id": "Elven Pantheon",
-            "name": "Panthéon elfique",
-            "description": ""
-        },
-        {
-            "id": "Lysianassa",
-            "name": "Lysianassa",
-            "description": ""
-        },
-        {
-            "id": "Tlehar",
-            "name": "Tlehar",
-            "description": ""
-        },
-        {
-            "id": "Gendowyn",
-            "name": "Gendowyn",
-            "description": ""
-        },
-        {
-            "id": "Ydajisk",
-            "name": "Ydajisk",
-            "description": ""
-        },
-        {
-            "id": "Desna",
-            "name": "Desna",
-            "description": ""
-        },
-        {
-            "id": "Sekhmet",
-            "name": "Sekhmet",
-            "description": ""
-        },
-        {
-            "id": "Nyarlathotep (Haunter in the Dark)",
-            "name": "Nyarlathotep (Celui qui hante les ténèbres)",
-            "description": ""
-        },
-        {
-            "id": "Kitumu",
-            "name": "Kitumu",
-            "description": ""
-        },
-        {
-            "id": "Azathoth",
-            "name": "Azathoth",
-            "description": ""
-        },
-        {
-            "id": "Angradd",
-            "name": "Angradd",
-            "description": ""
-        },
-        {
-            "id": "Ymeri",
-            "name": "Yméri",
-            "description": ""
-        },
-        {
-            "id": "Kabriri",
-            "name": "Kabriri",
-            "description": ""
-        },
-        {
-            "id": "Ketephys",
-            "name": "Kétéphys",
-            "description": ""
-        },
-        {
-            "id": "Ylimancha",
-            "name": "Ylimancha",
-            "description": ""
-        },
-        {
-            "id": "Ayrzul",
-            "name": "Ayrzul",
-            "description": ""
-        },
-        {
-            "id": "Imot",
-            "name": "Imot",
-            "description": ""
-        },
-        {
-            "id": "Kurgess",
-            "name": "Kurgess",
-            "description": ""
-        },
-        {
-            "id": "Magrim",
-            "name": "Magrim",
-            "description": ""
-        },
-        {
-            "id": "Sturovenen",
-            "name": "Sturovenen",
-            "description": ""
-        },
-        {
-            "id": "Nocticula",
-            "name": "Nocticula",
-            "description": ""
-        },
-        {
-            "id": "Halcamora",
-            "name": "Halcamora",
-            "description": ""
-        },
-        {
-            "id": "Uvoko",
-            "name": "Uvoko",
-            "description": ""
-        },
-        {
-            "id": "Qi Zhong",
-            "name": "Qi Zhong",
-            "description": ""
-        },
-        {
-            "id": "Shax",
-            "name": "Shax",
-            "description": ""
-        },
-        {
-            "id": "Laws of Mortality",
-            "name": "Lois de la mortalité",
-            "description": ""
-        },
-        {
-            "id": "Lissala",
-            "name": "Lissala",
-            "description": ""
-        },
-        {
-            "id": "Zon-Kuthon",
-            "name": "Zon-Kuthon",
-            "description": ""
-        },
-        {
-            "id": "Dranngvit",
-            "name": "Dranngvit",
-            "description": ""
-        },
-        {
-            "id": "Cernunnos",
-            "name": "Cernunnos",
-            "description": ""
-        },
-        {
-            "id": "The Lost Prince",
-            "name": "Le prince perdu",
-            "description": ""
-        },
-        {
-            "id": "Wadjet",
-            "name": "Wadjet",
-            "description": ""
-        },
-        {
-            "id": "Kalekot",
-            "name": "Kalekot",
-            "description": ""
-        },
-        {
-            "id": "Cyth-V'sug",
-            "name": "Cyth-V'sug",
-            "description": ""
-        },
-        {
-            "id": "Ng",
-            "name": "Ng",
-            "description": ""
-        },
-        {
-            "id": "Vildeis",
-            "name": "Vildéis",
-            "description": ""
-        },
-        {
-            "id": "Dahak",
-            "name": "Dahak",
-            "description": ""
-        },
-        {
-            "id": "Anubis",
-            "name": "Anubis",
-            "description": ""
-        },
-        {
-            "id": "Green Faith",
-            "name": "Foi verte",
-            "description": ""
-        },
-        {
-            "id": "Winlas",
-            "name": "Winlas",
-            "description": ""
-        },
-        {
-            "id": "Alglenweis",
-            "name": "Alglenweis",
+            "id": "Irez",
+            "name": "Irez",
             "description": ""
         },
         {
@@ -307,118 +22,43 @@
             "description": ""
         },
         {
-            "id": "Shei",
-            "name": "Shei",
+            "id": "Uvoko",
+            "name": "Uvuko",
             "description": ""
         },
         {
-            "id": "Urgathoa",
-            "name": "Urgathoa",
+            "id": "Sobek",
+            "name": "Sobek",
             "description": ""
         },
         {
-            "id": "Gogunta",
-            "name": "Gogunta",
+            "id": "Pazuzu",
+            "name": "Pazuzu",
             "description": ""
         },
         {
-            "id": "Isis",
-            "name": "Isis",
+            "id": "Milani",
+            "name": "Milani",
             "description": ""
         },
         {
-            "id": "The Prismatic Ray",
-            "name": "Le rayon prismatique",
+            "id": "Zyphus",
+            "name": "Zyphus",
             "description": ""
         },
         {
-            "id": "Osiris",
-            "name": "Osiris",
+            "id": "Ma'at",
+            "name": "Ma'at",
             "description": ""
         },
         {
-            "id": "Kazutal",
-            "name": "Kazutal",
+            "id": "Kerkamoth",
+            "name": "Kerkamoth",
             "description": ""
         },
         {
-            "id": "Likha",
-            "name": "Likha",
-            "description": ""
-        },
-        {
-            "id": "Eiseth",
-            "name": "Eiseth",
-            "description": ""
-        },
-        {
-            "id": "Lahkgya",
-            "name": "Lahkgya",
-            "description": ""
-        },
-        {
-            "id": "Baphomet",
-            "name": "Baphomet",
-            "description": ""
-        },
-        {
-            "id": "Zura",
-            "name": "Zura",
-            "description": ""
-        },
-        {
-            "id": "Nyarlathotep (The Crawling Chaos)",
-            "name": "Nyarlathotep (Le chaos rampant)",
-            "description": ""
-        },
-        {
-            "id": "Mammon",
-            "name": "Mammon",
-            "description": ""
-        },
-        {
-            "id": "Ashava",
-            "name": "Ashava",
-            "description": ""
-        },
-        {
-            "id": "Soralyon",
-            "name": "Soralyon",
-            "description": ""
-        },
-        {
-            "id": "Thoth",
-            "name": "Thoth",
-            "description": ""
-        },
-        {
-            "id": "Ashukharma",
-            "name": "Ashukharma",
-            "description": ""
-        },
-        {
-            "id": "Mazludeh",
-            "name": "Mazludeh",
-            "description": ""
-        },
-        {
-            "id": "Barzahk",
-            "name": "Barzahk",
-            "description": ""
-        },
-        {
-            "id": "Xhamen-Dor",
-            "name": "Xhamen-dor",
-            "description": ""
-        },
-        {
-            "id": "Kofusachi",
-            "name": "Kofusachi",
-            "description": ""
-        },
-        {
-            "id": "Arundhat",
-            "name": "Arundhat",
+            "id": "Mother Vulture",
+            "name": "Mère Vautour",
             "description": ""
         },
         {
@@ -427,98 +67,73 @@
             "description": ""
         },
         {
-            "id": "Doloras",
-            "name": "Doloras",
-            "description": ""
-        },
-        {
-            "id": "Pulura",
-            "name": "Pulura",
-            "description": ""
-        },
-        {
-            "id": "Raumya",
-            "name": "Raumya",
-            "description": ""
-        },
-        {
-            "id": "Trelmarixian",
-            "name": "Trelmarixian",
-            "description": ""
-        },
-        {
-            "id": "Moloch",
-            "name": "Moloch",
-            "description": ""
-        },
-        {
-            "id": "Ragdya",
-            "name": "Ragdya",
-            "description": ""
-        },
-        {
-            "id": "Mahathallah",
-            "name": "Mahathallah",
-            "description": ""
-        },
-        {
-            "id": "Erecura",
-            "name": "Erecura",
-            "description": ""
-        },
-        {
-            "id": "Green Man",
-            "name": "Homme vert",
-            "description": ""
-        },
-        {
-            "id": "The Godclaw",
-            "name": "Le dieu griffu",
-            "description": ""
-        },
-        {
-            "id": "Alseta",
-            "name": "Alséta",
-            "description": ""
-        },
-        {
-            "id": "Stag Mother of the Forest of Stones",
-            "name": "Mère cerf de la forêt de pierres",
-            "description": ""
-        },
-        {
-            "id": "Casandalee",
-            "name": "Casandalee",
-            "description": ""
-        },
-        {
             "id": "Hathor",
             "name": "Hathor",
             "description": ""
         },
         {
-            "id": "Yaezhing",
-            "name": "Yaezhing",
+            "id": "Baalzebul",
+            "name": "Belzébuth",
             "description": ""
         },
         {
-            "id": "Asmodeus",
-            "name": "Asmodéus",
+            "id": "Cayden Cailean",
+            "name": "Cayden Cailéan",
             "description": ""
         },
         {
-            "id": "Selket",
-            "name": "Selket",
+            "id": "Angradd",
+            "name": "Angradd",
             "description": ""
         },
         {
-            "id": "Dispater",
-            "name": "Dispater",
+            "id": "Eiseth",
+            "name": "Eiseth",
             "description": ""
         },
         {
-            "id": "Zohls",
-            "name": "Zohls",
+            "id": "Shoanti Animism",
+            "name": "Animisme shoanti",
+            "description": ""
+        },
+        {
+            "id": "General Susumu",
+            "name": "Général Susumu",
+            "description": ""
+        },
+        {
+            "id": "Ydajisk",
+            "name": "Ydajisk",
+            "description": ""
+        },
+        {
+            "id": "Kalekot",
+            "name": "Kalekot",
+            "description": ""
+        },
+        {
+            "id": "Azathoth",
+            "name": "Azathoth",
+            "description": ""
+        },
+        {
+            "id": "Apollyon",
+            "name": "Apollyon",
+            "description": ""
+        },
+        {
+            "id": "Anubis",
+            "name": "Anubis",
+            "description": ""
+        },
+        {
+            "id": "Rovagug",
+            "name": "Rovagug",
+            "description": ""
+        },
+        {
+            "id": "The Prismatic Ray",
+            "name": "Le rayon prismatique",
             "description": ""
         },
         {
@@ -527,13 +142,183 @@
             "description": ""
         },
         {
-            "id": "Abadar",
-            "name": "Abadar",
+            "id": "Dammerich",
+            "name": "Dammerich",
             "description": ""
         },
         {
-            "id": "Grundinnar",
-            "name": "Grundinnar",
+            "id": "Yamatsumi",
+            "name": "Yamatsumi",
+            "description": ""
+        },
+        {
+            "id": "Sivanah",
+            "name": "Sivanah",
+            "description": ""
+        },
+        {
+            "id": "Likha",
+            "name": "Likha",
+            "description": ""
+        },
+        {
+            "id": "Diomazul",
+            "name": "Diomazul",
+            "description": ""
+        },
+        {
+            "id": "Ymeri",
+            "name": "Yméri",
+            "description": ""
+        },
+        {
+            "id": "Chamidu",
+            "name": "Chamidu",
+            "description": ""
+        },
+        {
+            "id": "Treerazer",
+            "name": "Fléau des arbres",
+            "description": ""
+        },
+        {
+            "id": "Bes",
+            "name": "Bes",
+            "description": ""
+        },
+        {
+            "id": "Magdh",
+            "name": "Magdh",
+            "description": ""
+        },
+        {
+            "id": "Yaezhing",
+            "name": "Yaezhing",
+            "description": ""
+        },
+        {
+            "id": "Matravash",
+            "name": "Matravash",
+            "description": ""
+        },
+        {
+            "id": "Ghlaunder",
+            "name": "Ghlaunder",
+            "description": ""
+        },
+        {
+            "id": "Apsu",
+            "name": "Apsu",
+            "description": ""
+        },
+        {
+            "id": "Hei Feng",
+            "name": "Hei Feng",
+            "description": ""
+        },
+        {
+            "id": "Ashukharma",
+            "name": "Ashukharma",
+            "description": ""
+        },
+        {
+            "id": "Isis",
+            "name": "Isis",
+            "description": ""
+        },
+        {
+            "id": "Moloch",
+            "name": "Moloch",
+            "description": ""
+        },
+        {
+            "id": "Sairazul",
+            "name": "Sairazul",
+            "description": ""
+        },
+        {
+            "id": "Gruhastha",
+            "name": "Gruhastha",
+            "description": ""
+        },
+        {
+            "id": "Erecura",
+            "name": "Erecura",
+            "description": ""
+        },
+        {
+            "id": "Vildeis",
+            "name": "Vildéis",
+            "description": ""
+        },
+        {
+            "id": "Chaldira",
+            "name": "Chaldira",
+            "description": ""
+        },
+        {
+            "id": "Pulura",
+            "name": "Pulura",
+            "description": ""
+        },
+        {
+            "id": "Followers of Fate",
+            "name": "Fidèles du destin",
+            "description": ""
+        },
+        {
+            "id": "Ragdya",
+            "name": "Ragdya",
+            "description": ""
+        },
+        {
+            "id": "Arazni",
+            "name": "Arazni",
+            "description": ""
+        },
+        {
+            "id": "Casandalee",
+            "name": "Casandalee",
+            "description": ""
+        },
+        {
+            "id": "Elven Pantheon",
+            "name": "Panthéon elfique",
+            "description": ""
+        },
+        {
+            "id": "Belial",
+            "name": "Bélial",
+            "description": ""
+        },
+        {
+            "id": "Ayrzul",
+            "name": "Ayrzul",
+            "description": ""
+        },
+        {
+            "id": "Doloras",
+            "name": "Doloras",
+            "description": ""
+        },
+        {
+            "id": "Prophecies of Kalistrade",
+            "name": "Prohéties de Kalistrade",
+            "description": ""
+        },
+        {
+            "id": "Kostchtchie",
+            "name": "Kostchtchie",
+            "description": ""
+        },
+        {
+            "id": "Lubaiko",
+            "name": "Lubaiko",
+            "description": ""
+        },
+        {
+            "id": "Dahak",
+            "name": "Dahak",
             "description": ""
         },
         {
@@ -542,18 +327,373 @@
             "description": ""
         },
         {
-            "id": "Besmara",
-            "name": "Besmara",
+            "id": "Findeladlara",
+            "name": "Findeladlara",
             "description": ""
         },
         {
-            "id": "Walkena",
-            "name": "Walkena",
+            "id": "Baphomet",
+            "name": "Baphomet",
             "description": ""
         },
         {
-            "id": "Ragathiel",
-            "name": "Ragathiel",
+            "id": "Ragadahn",
+            "name": "Ragadahn",
+            "description": ""
+        },
+        {
+            "id": "Gorum",
+            "name": "Gorum",
+            "description": ""
+        },
+        {
+            "id": "Horus",
+            "name": "Horus",
+            "description": ""
+        },
+        {
+            "id": "Raumya",
+            "name": "Raumya",
+            "description": ""
+        },
+        {
+            "id": "Kabriri",
+            "name": "Kabriri",
+            "description": ""
+        },
+        {
+            "id": "Alseta",
+            "name": "Alséta",
+            "description": ""
+        },
+        {
+            "id": "Hshurha",
+            "name": "Hshurha",
+            "description": ""
+        },
+        {
+            "id": "Adanye",
+            "name": "Adanye",
+            "description": ""
+        },
+        {
+            "id": "Nhimbaloth",
+            "name": "Nhimbaloth",
+            "description": ""
+        },
+        {
+            "id": "Ravithra",
+            "name": "Ravithra",
+            "description": ""
+        },
+        {
+            "id": "Lysianassa",
+            "name": "Lysianassa",
+            "description": ""
+        },
+        {
+            "id": "Norgorber",
+            "name": "Norgorber",
+            "description": ""
+        },
+        {
+            "id": "Korada",
+            "name": "Korada",
+            "description": ""
+        },
+        {
+            "id": "Eritrice",
+            "name": "Eritrice",
+            "description": ""
+        },
+        {
+            "id": "Lahkgya",
+            "name": "Lahkgya",
+            "description": ""
+        },
+        {
+            "id": "Lady Nanbyo",
+            "name": "Dame Nanbyo",
+            "description": ""
+        },
+        {
+            "id": "Balumbdar",
+            "name": "Balumbdar",
+            "description": ""
+        },
+        {
+            "id": "Ydersius",
+            "name": "Ydersius",
+            "description": ""
+        },
+        {
+            "id": "Selket",
+            "name": "Selket",
+            "description": ""
+        },
+        {
+            "id": "Cernunnos",
+            "name": "Cernunnos",
+            "description": ""
+        },
+        {
+            "id": "Gendowyn",
+            "name": "Gendowyn",
+            "description": ""
+        },
+        {
+            "id": "Saloc",
+            "name": "Saloc",
+            "description": ""
+        },
+        {
+            "id": "Cyth-V'sug",
+            "name": "Cyth-V'sug",
+            "description": ""
+        },
+        {
+            "id": "Luhar",
+            "name": "Luhar",
+            "description": ""
+        },
+        {
+            "id": "Soralyon",
+            "name": "Soralyon",
+            "description": ""
+        },
+        {
+            "id": "Valmallos",
+            "name": "Valmallos",
+            "description": ""
+        },
+        {
+            "id": "Shyka",
+            "name": "Shyka",
+            "description": ""
+        },
+        {
+            "id": "Sun Wukong",
+            "name": "Sun Wukong",
+            "description": ""
+        },
+        {
+            "id": "Ng",
+            "name": "Ng",
+            "description": ""
+        },
+        {
+            "id": "Count Ranalc",
+            "name": "Comte Ranalc",
+            "description": ""
+        },
+        {
+            "id": "Kurgess",
+            "name": "Kurgess",
+            "description": ""
+        },
+        {
+            "id": "Shizuru",
+            "name": "Shizuru",
+            "description": ""
+        },
+        {
+            "id": "The Path of the Heavens",
+            "name": "Le chemin des cieux",
+            "description": ""
+        },
+        {
+            "id": "Narriseminek",
+            "name": "Narriseminek",
+            "description": ""
+        },
+        {
+            "id": "Mammon",
+            "name": "Mammon",
+            "description": ""
+        },
+        {
+            "id": "Yuelral",
+            "name": "Yuelral",
+            "description": ""
+        },
+        {
+            "id": "Zevgavizeb",
+            "name": "Zevgavizeb",
+            "description": ""
+        },
+        {
+            "id": "Halcamora",
+            "name": "Halcamora",
+            "description": ""
+        },
+        {
+            "id": "Trelmarixian",
+            "name": "Trelmarixian",
+            "description": ""
+        },
+        {
+            "id": "Zon-Kuthon",
+            "name": "Zon-Kuthon",
+            "description": ""
+        },
+        {
+            "id": "Nocticula",
+            "name": "Nocticula",
+            "description": ""
+        },
+        {
+            "id": "Imbrex",
+            "name": "Imbrex",
+            "description": ""
+        },
+        {
+            "id": "Lady Jingxi",
+            "name": "Dame Jingxi",
+            "description": ""
+        },
+        {
+            "id": "Otolmens",
+            "name": "Otolmens",
+            "description": ""
+        },
+        {
+            "id": "Mazludeh",
+            "name": "Mazludeh",
+            "description": ""
+        },
+        {
+            "id": "Grandmother Spider",
+            "name": "Grand-mère araignée",
+            "description": ""
+        },
+        {
+            "id": "Asmodeus",
+            "name": "Asmodéus",
+            "description": ""
+        },
+        {
+            "id": "Yog-Sothoth",
+            "name": "Yog-Sothoth",
+            "description": ""
+        },
+        {
+            "id": "Geryon",
+            "name": "Géryon",
+            "description": ""
+        },
+        {
+            "id": "Mahathallah",
+            "name": "Mahathallah",
+            "description": ""
+        },
+        {
+            "id": "Urgathoa",
+            "name": "Urgathoa",
+            "description": ""
+        },
+        {
+            "id": "Torag",
+            "name": "Torag",
+            "description": ""
+        },
+        {
+            "id": "Jaidi",
+            "name": "Jaidi",
+            "description": ""
+        },
+        {
+            "id": "Kitumu",
+            "name": "Kitumu",
+            "description": ""
+        },
+        {
+            "id": "Lymnieris",
+            "name": "Lymniéris",
+            "description": ""
+        },
+        {
+            "id": "Sekhmet",
+            "name": "Sekhmet",
+            "description": ""
+        },
+        {
+            "id": "Ashava",
+            "name": "Ashava",
+            "description": ""
+        },
+        {
+            "id": "Kazutal",
+            "name": "Kazutal",
+            "description": ""
+        },
+        {
+            "id": "Sangpotshi",
+            "name": "Sangpotshi",
+            "description": ""
+        },
+        {
+            "id": "Zohls",
+            "name": "Zohls",
+            "description": ""
+        },
+        {
+            "id": "Black Butterfly",
+            "name": "Papillon noir",
+            "description": ""
+        },
+        {
+            "id": "Grundinnar",
+            "name": "Grundinnar",
+            "description": ""
+        },
+        {
+            "id": "Ylimancha",
+            "name": "Ylimancha",
+            "description": ""
+        },
+        {
+            "id": "Nivi Rhombodazzle",
+            "name": "Nivi Rhomboéblouissante",
+            "description": ""
+        },
+        {
+            "id": "Hanspur",
+            "name": "Hanspur",
+            "description": ""
+        },
+        {
+            "id": "Mephistopheles",
+            "name": "Méphistophélès",
+            "description": ""
+        },
+        {
+            "id": "Fumeiyoshi",
+            "name": "Fumeiyoshi",
+            "description": ""
+        },
+        {
+            "id": "Ra",
+            "name": "Ra",
+            "description": ""
+        },
+        {
+            "id": "Shei",
+            "name": "Shei",
+            "description": ""
+        },
+        {
+            "id": "Imot",
+            "name": "Imot",
+            "description": ""
+        },
+        {
+            "id": "Andoletta",
+            "name": "Andoletta",
+            "description": ""
+        },
+        {
+            "id": "The Godclaw",
+            "name": "Le dieu griffu",
             "description": ""
         },
         {
@@ -567,398 +707,8 @@
             "description": ""
         },
         {
-            "id": "Count Ranalc",
-            "name": "Comte Ranalc",
-            "description": ""
-        },
-        {
-            "id": "Gyronna",
-            "name": "Gyronna",
-            "description": ""
-        },
-        {
-            "id": "Hshurha",
-            "name": "Hshurha",
-            "description": ""
-        },
-        {
-            "id": "The Green Mother",
-            "name": "La mère verte",
-            "description": ""
-        },
-        {
-            "id": "Chohar",
-            "name": "Chohar",
-            "description": ""
-        },
-        {
-            "id": "Findeladlara",
-            "name": "Findeladlara",
-            "description": ""
-        },
-        {
-            "id": "Hanspur",
-            "name": "Hanspur",
-            "description": ""
-        },
-        {
-            "id": "Brigh",
-            "name": "Brigh",
-            "description": ""
-        },
-        {
-            "id": "Thamir",
-            "name": "Thamir",
-            "description": ""
-        },
-        {
-            "id": "Ra",
-            "name": "Ra",
-            "description": ""
-        },
-        {
-            "id": "Narakaas",
-            "name": "Narakaas",
-            "description": ""
-        },
-        {
-            "id": "Eritrice",
-            "name": "Eritrice",
-            "description": ""
-        },
-        {
-            "id": "Lady Jingxi",
-            "name": "Dame Jingxi",
-            "description": ""
-        },
-        {
-            "id": "Rovagug",
-            "name": "Rovagug",
-            "description": ""
-        },
-        {
-            "id": "Yog-Sothoth",
-            "name": "Yog-Sothoth",
-            "description": ""
-        },
-        {
-            "id": "Chamidu",
-            "name": "Chamidu",
-            "description": ""
-        },
-        {
-            "id": "General Susumu",
-            "name": "Général Susumu",
-            "description": ""
-        },
-        {
-            "id": "Abraxas",
-            "name": "Abraxas",
-            "description": ""
-        },
-        {
-            "id": "Jaidi",
-            "name": "Jaidi",
-            "description": ""
-        },
-        {
-            "id": "Bes",
-            "name": "Bes",
-            "description": ""
-        },
-        {
-            "id": "Ardad Lili",
-            "name": "Ardad Lili",
-            "description": ""
-        },
-        {
-            "id": "Korada",
-            "name": "Korada",
-            "description": ""
-        },
-        {
-            "id": "Saloc",
-            "name": "Saloc",
-            "description": ""
-        },
-        {
-            "id": "Torag",
-            "name": "Torag",
-            "description": ""
-        },
-        {
-            "id": "Angazhan",
-            "name": "Angazhan",
-            "description": ""
-        },
-        {
-            "id": "Ma'at",
-            "name": "Ma'at",
-            "description": ""
-        },
-        {
-            "id": "Ghlaunder",
-            "name": "Ghlaunder",
-            "description": ""
-        },
-        {
-            "id": "Pazuzu",
-            "name": "Pazuzu",
-            "description": ""
-        },
-        {
-            "id": "Sun Wukong",
-            "name": "Sun Wukong",
-            "description": ""
-        },
-        {
-            "id": "Daikitsu",
-            "name": "Daikitsu",
-            "description": ""
-        },
-        {
-            "id": "Otolmens",
-            "name": "Otolmens",
-            "description": ""
-        },
-        {
-            "id": "Wards of the Pharaoh",
-            "name": "Protection du pharaon",
-            "description": ""
-        },
-        {
-            "id": "Lady Nanbyo",
-            "name": "Dame Nanbyo",
-            "description": ""
-        },
-        {
-            "id": "Hei Feng",
-            "name": "Hei Feng",
-            "description": ""
-        },
-        {
-            "id": "Irez",
-            "name": "Irez",
-            "description": ""
-        },
-        {
-            "id": "Apsu",
-            "name": "Apsu",
-            "description": ""
-        },
-        {
-            "id": "Arshea",
-            "name": "Arshea",
-            "description": ""
-        },
-        {
-            "id": "Ragadahn",
-            "name": "Ragadahn",
-            "description": ""
-        },
-        {
-            "id": "Iomedae",
-            "name": "Iomedae",
-            "description": ""
-        },
-        {
-            "id": "Apollyon",
-            "name": "Apollyon",
-            "description": ""
-        },
-        {
-            "id": "Kols",
-            "name": "Kols",
-            "description": ""
-        },
-        {
-            "id": "Luhar",
-            "name": "Luhar",
-            "description": ""
-        },
-        {
-            "id": "Arazni",
-            "name": "Arazni",
-            "description": ""
-        },
-        {
-            "id": "Sivanah",
-            "name": "Sivanah",
-            "description": ""
-        },
-        {
-            "id": "Grandmother Spider",
-            "name": "Grand-mère araignée",
-            "description": ""
-        },
-        {
-            "id": "Cayden Cailean",
-            "name": "Cayden Cailéan",
-            "description": ""
-        },
-        {
-            "id": "Magdh",
-            "name": "Magdh",
-            "description": ""
-        },
-        {
-            "id": "The Path of the Heavens",
-            "name": "Le chemin des cieux",
-            "description": ""
-        },
-        {
-            "id": "Shizuru",
-            "name": "Shizuru",
-            "description": ""
-        },
-        {
-            "id": "Balumbdar",
-            "name": "Balumbdar",
-            "description": ""
-        },
-        {
-            "id": "Nivi Rhombodazzle",
-            "name": "Nivi Rhomboéblouissante",
-            "description": ""
-        },
-        {
-            "id": "Kostchtchie",
-            "name": "Kostchtchie",
-            "description": ""
-        },
-        {
-            "id": "Dhalavei",
-            "name": "Dhalavei",
-            "description": ""
-        },
-        {
-            "id": "Zevgavizeb",
-            "name": "Zevgavizeb",
-            "description": ""
-        },
-        {
-            "id": "Dammerich",
-            "name": "Dammerich",
-            "description": ""
-        },
-        {
             "id": "Pharasma",
             "name": "Pharasma",
-            "description": ""
-        },
-        {
-            "id": "Droskar",
-            "name": "Droskar",
-            "description": ""
-        },
-        {
-            "id": "Dagon",
-            "name": "Dagon",
-            "description": ""
-        },
-        {
-            "id": "Pillars of Knowledge",
-            "name": "Piliers de la connaissance",
-            "description": ""
-        },
-        {
-            "id": "Gruhastha",
-            "name": "Gruhastha",
-            "description": ""
-        },
-        {
-            "id": "Imbrex",
-            "name": "Imbrex",
-            "description": ""
-        },
-        {
-            "id": "Prophecies of Kalistrade",
-            "name": "Prohéties de Kalistrade",
-            "description": ""
-        },
-        {
-            "id": "Irori",
-            "name": "Irori",
-            "description": ""
-        },
-        {
-            "id": "Sairazul",
-            "name": "Sairazul",
-            "description": ""
-        },
-        {
-            "id": "Narriseminek",
-            "name": "Narriseminek",
-            "description": ""
-        },
-        {
-            "id": "Followers of Fate",
-            "name": "Fidèles du destin",
-            "description": ""
-        },
-        {
-            "id": "Black Butterfly",
-            "name": "Papillon noir",
-            "description": ""
-        },
-        {
-            "id": "Whispering Way",
-            "name": "Voie du murmure",
-            "description": ""
-        },
-        {
-            "id": "Atreia",
-            "name": "Atréia",
-            "description": ""
-        },
-        {
-            "id": "Lubaiko",
-            "name": "Lubaiko",
-            "description": ""
-        },
-        {
-            "id": "Sangpotshi",
-            "name": "Sangpotshi",
-            "description": ""
-        },
-        {
-            "id": "Hastur",
-            "name": "Hastur",
-            "description": ""
-        },
-        {
-            "id": "Naderi",
-            "name": "Nadéri",
-            "description": ""
-        },
-        {
-            "id": "Tsukiyo",
-            "name": "Tsukiyo",
-            "description": ""
-        },
-        {
-            "id": "Monad",
-            "name": "Monade",
-            "description": ""
-        },
-        {
-            "id": "Gozreh",
-            "name": "Gozreh",
-            "description": ""
-        },
-        {
-            "id": "Belial",
-            "name": "Bélial",
-            "description": ""
-        },
-        {
-            "id": "Nhimbaloth",
-            "name": "Nhimbaloth",
-            "description": ""
-        },
-        {
-            "id": "Mother Vulture",
-            "name": "Mère Vautour",
             "description": ""
         },
         {
@@ -967,68 +717,48 @@
             "description": ""
         },
         {
-            "id": "Ravithra",
-            "name": "Ravithra",
+            "id": "Gozreh",
+            "name": "Gozreh",
             "description": ""
         },
         {
-            "id": "Sifkesh",
-            "name": "Siskesh",
+            "id": "Laws of Mortality",
+            "name": "Lois de la mortalité",
             "description": ""
         },
         {
-            "id": "Yuelral",
-            "name": "Yuelral",
+            "id": "Nethys",
+            "name": "Néthys",
             "description": ""
         },
         {
-            "id": "Lao Shu Po",
-            "name": "Lao Shu Po",
+            "id": "Angazhan",
+            "name": "Angazhan",
             "description": ""
         },
         {
-            "id": "Bastet",
-            "name": "Bastet",
+            "id": "Ardad Lili",
+            "name": "Ardad Lili",
             "description": ""
         },
         {
-            "id": "Horus",
-            "name": "Horus",
+            "id": "Desna",
+            "name": "Desna",
             "description": ""
         },
         {
-            "id": "Barbatos",
-            "name": "Barbatos",
+            "id": "Shax",
+            "name": "Shax",
             "description": ""
         },
         {
-            "id": "Kelizandri",
-            "name": "Kélizandari",
+            "id": "Thamir",
+            "name": "Thamir",
             "description": ""
         },
         {
-            "id": "Gorum",
-            "name": "Gorum",
-            "description": ""
-        },
-        {
-            "id": "Geryon",
-            "name": "Géryon",
-            "description": ""
-        },
-        {
-            "id": "Yamatsumi",
-            "name": "Yamatsumi",
-            "description": ""
-        },
-        {
-            "id": "Szuriel",
-            "name": "Szuriel",
-            "description": ""
-        },
-        {
-            "id": "Alocer",
-            "name": "Alocer",
+            "id": "The Lantern King",
+            "name": "Le roi lanterne",
             "description": ""
         },
         {
@@ -1037,53 +767,323 @@
             "description": ""
         },
         {
+            "id": "Walkena",
+            "name": "Walkena",
+            "description": ""
+        },
+        {
+            "id": "Alglenweis",
+            "name": "Alglenweis",
+            "description": ""
+        },
+        {
+            "id": "Narakaas",
+            "name": "Narakaas",
+            "description": ""
+        },
+        {
+            "id": "Naderi",
+            "name": "Nadéri",
+            "description": ""
+        },
+        {
+            "id": "Barbatos",
+            "name": "Barbatos",
+            "description": ""
+        },
+        {
+            "id": "Qi Zhong",
+            "name": "Qi Zhong",
+            "description": ""
+        },
+        {
+            "id": "Gogunta",
+            "name": "Gogunta",
+            "description": ""
+        },
+        {
+            "id": "Atreia",
+            "name": "Atréia",
+            "description": ""
+        },
+        {
+            "id": "Bastet",
+            "name": "Bastet",
+            "description": ""
+        },
+        {
+            "id": "Alocer",
+            "name": "Alocer",
+            "description": ""
+        },
+        {
+            "id": "Droskar",
+            "name": "Droskar",
+            "description": ""
+        },
+        {
+            "id": "Zura",
+            "name": "Zura",
+            "description": ""
+        },
+        {
+            "id": "Osiris",
+            "name": "Osiris",
+            "description": ""
+        },
+        {
+            "id": "Barzahk",
+            "name": "Barzahk",
+            "description": ""
+        },
+        {
+            "id": "Tsukiyo",
+            "name": "Tsukiyo",
+            "description": ""
+        },
+        {
+            "id": "Dagon",
+            "name": "Dagon",
+            "description": ""
+        },
+        {
+            "id": "Arshea",
+            "name": "Arshea",
+            "description": ""
+        },
+        {
+            "id": "Nyarlathotep (The Crawling Chaos)",
+            "name": "Nyarlathotep (Le chaos rampant)",
+            "description": ""
+        },
+        {
+            "id": "Daikitsu",
+            "name": "Daikitsu",
+            "description": ""
+        },
+        {
+            "id": "Dranngvit",
+            "name": "Dranngvit",
+            "description": ""
+        },
+        {
+            "id": "The Green Mother",
+            "name": "La mère verte",
+            "description": ""
+        },
+        {
+            "id": "Ketephys",
+            "name": "Kétéphys",
+            "description": ""
+        },
+        {
+            "id": "Hastur",
+            "name": "Hastur",
+            "description": ""
+        },
+        {
+            "id": "Shelyn",
+            "name": "Shélyn",
+            "description": ""
+        },
+        {
+            "id": "Esoteric Order of the Palatine Eye",
+            "name": "Ordre ésotérique de l'Œil palatin",
+            "description": ""
+        },
+        {
+            "id": "The Lost Prince",
+            "name": "Le prince perdu",
+            "description": ""
+        },
+        {
+            "id": "Pillars of Knowledge",
+            "name": "Piliers de la connaissance",
+            "description": ""
+        },
+        {
+            "id": "Whispering Way",
+            "name": "Voie du murmure",
+            "description": ""
+        },
+        {
+            "id": "Sturovenen",
+            "name": "Sturovenen",
+            "description": ""
+        },
+        {
+            "id": "Calistria",
+            "name": "Calistria",
+            "description": ""
+        },
+        {
+            "id": "Besmara",
+            "name": "Besmara",
+            "description": ""
+        },
+        {
+            "id": "Brigh",
+            "name": "Brigh",
+            "description": ""
+        },
+        {
+            "id": "Green Faith",
+            "name": "Foi verte",
+            "description": ""
+        },
+        {
+            "id": "Nalinivati",
+            "name": "Nalinivati",
+            "description": ""
+        },
+        {
+            "id": "Tlehar",
+            "name": "Tlehar",
+            "description": ""
+        },
+        {
+            "id": "Thoth",
+            "name": "Thoth",
+            "description": ""
+        },
+        {
+            "id": "Wadjet",
+            "name": "Wadjet",
+            "description": ""
+        },
+        {
+            "id": "Ahriman",
+            "name": "Ahriman",
+            "description": ""
+        },
+        {
+            "id": "Gyronna",
+            "name": "Gyronna",
+            "description": ""
+        },
+        {
+            "id": "Green Man",
+            "name": "Homme vert",
+            "description": ""
+        },
+        {
             "id": "Jaidz",
             "name": "Jaidz",
             "description": ""
         },
         {
-            "id": "Fumeiyoshi",
-            "name": "Fumeiyoshi",
+            "id": "Lao Shu Po",
+            "name": "Lao Shu Po",
             "description": ""
         },
         {
-            "id": "Adanye",
-            "name": "Adanye",
+            "id": "Ragathiel",
+            "name": "Ragathiel",
             "description": ""
         },
         {
-            "id": "Norgorber",
-            "name": "Norgorber",
+            "id": "Kelizandri",
+            "name": "Kélizandari",
             "description": ""
         },
         {
-            "id": "Shoanti Animism",
-            "name": "Animisme shoanti",
+            "id": "Xhamen-Dor",
+            "name": "Xhamen-dor",
             "description": ""
         },
         {
-            "id": "Andoletta",
-            "name": "Andoletta",
+            "id": "Nyarlathotep (Haunter in the Dark)",
+            "name": "Nyarlathotep (Celui qui hante les ténèbres)",
             "description": ""
         },
         {
-            "id": "Sobek",
-            "name": "Sobek",
+            "id": "Szuriel",
+            "name": "Szuriel",
             "description": ""
         },
         {
-            "id": "Ydersius",
-            "name": "Ydersius",
+            "id": "Irori",
+            "name": "Irori",
             "description": ""
         },
         {
-            "id": "Milani",
-            "name": "Milani",
+            "id": "Tanagaar",
+            "name": "Tanagaar",
             "description": ""
         },
         {
-            "id": "Kerkamoth",
-            "name": "Kerkamoth",
+            "id": "Chohar",
+            "name": "Chohar",
+            "description": ""
+        },
+        {
+            "id": "Magrim",
+            "name": "Magrim",
+            "description": ""
+        },
+        {
+            "id": "Monad",
+            "name": "Monade",
+            "description": ""
+        },
+        {
+            "id": "Falayna",
+            "name": "Falayna",
+            "description": ""
+        },
+        {
+            "id": "Arundhat",
+            "name": "Arundhat",
+            "description": ""
+        },
+        {
+            "id": "Abraxas",
+            "name": "Abraxas",
+            "description": ""
+        },
+        {
+            "id": "Winlas",
+            "name": "Winlas",
+            "description": ""
+        },
+        {
+            "id": "Wards of the Pharaoh",
+            "name": "Protection du pharaon",
+            "description": ""
+        },
+        {
+            "id": "Lissala",
+            "name": "Lissala",
+            "description": ""
+        },
+        {
+            "id": "Abadar",
+            "name": "Abadar",
+            "description": ""
+        },
+        {
+            "id": "Dispater",
+            "name": "Dispater",
+            "description": ""
+        },
+        {
+            "id": "Kols",
+            "name": "Kols",
+            "description": ""
+        },
+        {
+            "id": "Dhalavei",
+            "name": "Dhalavei",
+            "description": ""
+        },
+        {
+            "id": "Iomedae",
+            "name": "Iomedae",
+            "description": ""
+        },
+        {
+            "id": "Kofusachi",
+            "name": "Kofusachi",
             "description": ""
         }
     ],

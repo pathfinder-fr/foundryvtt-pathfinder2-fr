@@ -2,169 +2,9 @@
     "label": "Effets des capacités",
     "entries": [
         {
-            "id": "Effect: Shadow Blood Magic (Stealth)",
-            "name": "Effect: Shadow Blood Magic (Stealth)",
-            "description": "<p>Les ombres sont plus profondes autour de vous ou d'une cible en accordant un bonus de statut de +1 à la Discrétion pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Moderate Skillful Ancestor Curse",
-            "name": "Effect: Moderate Skillful Ancestor Curse",
-            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +1 aux tests de compétence et de Perception.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous n'utilisez pas l'action privilégiée de votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Major Life Curse",
-            "name": "Effect: Major Life Curse",
-            "description": "<p>L’énergie vitale jaillit violemment de vous pour donner corps à votre magie. Certains de vos sorts véhiculent de l’énergie positive.</p>\n<p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. Vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscient, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n<p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<p>Chaque fois que vous utilisez un emplacement de sort pour lancer un sort de niveau 5 ou supérieur qui nécessite 2 actions ou plus pour le lancer, vous dispersez de l’énergie positive dans une explosion de 9 m qui a les mêmes effets qu’un sort de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> à 3 actions lancé à un niveau égal au niveau du sort lancé -4. Cette Guérison se produit immédiatement après la fin du Lancement du sort. Vous ne profitez pas de cette guérison. Au lieu de cela, vous perdez le double du nombre de Points de Vie obtenus pour le sort <em>Guérison</em>.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Major Tempest Curse",
-            "name": "Effect: Major Tempest Curse",
-            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:15]{émanation de 4,5 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura. Au sein de l’aura, des vents forts soufflant vers l’extérieur rendent difficiles les mouvements des créatures. L’aura est un terrain difficile pour les créatures de taille Grande ou inférieure qui sont situées sur le sol et pour les créatures volantes de taille Très grande ou inférieure. Vous n’êtes pas affecté par ce terrain difficile.</p>\n<p>Les vents tourbillonnants imposent un malus de circonstances de -2 aux jets d’attaque à distance utilisant des munitions physiques, que ceux-ci vous prennent pour cible ou qu’ils proviennent de vous.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Votre faiblesse à l’électricité passe à 5 mais les pluies torrentielles vous donnent une résistance au feu de la même valeur. Les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>\n<p>L’électricité qui crépite à travers vous devient plus dangereuse. Les créatures qui vous touchent, y compris avec un sort de contact ou une attaque au corps-à-corps à mains nues, subissent [[/r {1d6}[electricity]]]{1d6 dégâts d'électricité}.</p>\n<hr />\n<p><em>Note : La pénalité aux attaques à distance que vous faites est appliquée automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Treat Wounds Immunity",
-            "name": "Effect: Treat Wounds Immunity",
-            "description": "<p>Accordé lorsque quelqu'un utilise @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures} sur vous, vous rendant immunisé aux effets de cette personne pendant sa surée.</p>"
-        },
-        {
-            "id": "Effect: Shadow Blood Magic (Perception)",
-            "name": "Effect: Shadow Blood Magic (Perception)",
-            "description": "<p>Les ombres sont plus profondes autour de vous ou d'une cible en imposant une pénalité de statut de –1 à la Perception pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Major Spellcasting Ancestor Curse",
-            "name": "Effect: Major Spellcasting Ancestor Curse",
-            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou Points de Vie soignés égal au niveau du sort + 3.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Major Bones Curse",
-            "name": "Effect: Major Bones Curse",
-            "description": "<p>Vous êtes à deux doigts de la tombe.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous rendent que la moitié de la quantité normale.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 1 et cet état Drainé se cumule avec tout autre état Drainé qui vous est infligé. Il ne peut être supprimé que quand vous Refocalisez ; les effets qui enlèvent normalement la condition Drainé ne font que réduire votre condition à une valeur de 1.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} 1. Cet état blessé n’est supprimé que lorsque vous Refocalisez ; les effets qui devraient normalement supprimer la condition Blessé ne font que ramener celle-ci à une valeur de 1.</p>\n<p>Vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>\n<p>Vous obtenez un bonus de statut de +4 aux jets de sauvegarde contre les maladies, les poisons et les effets de mort et, si vous obtenez un succès sur un tel jet, il est considéré comme un succès critique.</p>\n<p>Quand vous êtes sur le point de tenter un test pour récupérer de l’état Mourant, vous pouvez choisir d’obtenir une réussite automatique au lieu de lancer le dé et, lorsque vous obtenez un échec critique lors d’un jet de sauvegarde contre la maladie, le poison ou un effet de mort, vous considérez qu'il s'agit seulement d'un échec.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde est appliqué automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Moderate Lore Curse",
-            "name": "Effect: Moderate Lore Curse",
-            "description": "<p>Le flux d’informations à travers votre esprit est encore plus important.</p>\n<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<p>Le flux d’informations à travers votre esprit est encore plus important. L’attention que vous portez à toutes ces nouvelles connaissances vous rend constamment @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>\n<p>Au début de chacun de vos tours, vous effectuez automatiquement un test pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous Souvenir} par une action libre. Ce test utilise une compétence de votre choix permettant l’action Se Souvenir et un résultat égal à 10 + votre bonus de maîtrise dans cette compétence (aucun aucun autre bonus, malus ou modificateur).</p>\n<hr />\n<p><em>Note : La pénalité aux jets d'initiative est appliquée automatiquement. Vous avez besoin d'appliquer manuellement les effets restants.</em></p>"
-        },
-        {
-            "id": "Effect: Demonic Blood Magic (Target)",
-            "name": "Effect: Demonic Blood Magic (Target)",
-            "description": "<p>La corruption pécheresse affaiblit les défenses d’une cible. Une cible subit un malus de statut de −1 à la CA pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Hag Blood Magic",
-            "name": "Effect: Hag Blood Magic",
-            "description": "<p>Vous maudissez vos ennemis avec véhémence. La première créature qui vous inflige des dégâts avant la fin de votre prochain tour subit 2 dégâts mentaux par niveau de sort (Volonté basique).</p>"
-        },
-        {
-            "id": "Effect: Cosmos Curse",
-            "name": "Effect: Cosmos Curse",
-            "description": ""
-        },
-        {
-            "id": "Effect: Battle Medicine Immunity",
-            "name": "Effect: Battle Medicine Immunity",
-            "description": "<p>Accordé lorsque quelqu'un utilise @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire} sur vous, vous rendant immunisé à l'effet de cet personne pendant la durée.</p>"
-        },
-        {
-            "id": "Effect: Tempest Curse",
-            "name": "Effect: Tempest Curse",
-            "description": ""
-        },
-        {
-            "id": "Effect: Moderate Tempest Curse",
-            "name": "Effect: Moderate Tempest Curse",
-            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:10]{émanation de 3 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura. Les vents tourbillonnants imposent un malus de circonstances de -2 aux jets d’attaque à distance utilisant des munitions physiques, que ceux-ci vous prennent pour cible ou qu’ils proviennent de vous.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une faiblesse de 5 à l’électricité ou à la moitié de votre niveau (la valeur la plus élevée des deux) mais les pluies torrentielles vous donnent une résistance au feu de la même valeur. Les sorts électriques ou des effets qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>"
-        },
-        {
-            "id": "Effect: Rage",
-            "name": "Effect: Rage",
-            "description": "<p><strong>Conditions</strong> Vous n'êtes pas @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} ou en rage.</p>\n<hr />\n<p>Vous faites appel à votre fureur intérieure et entrez en rage. Vous gagnez une quantité de points de vie temporaires égale à votre niveau plus votre modificateur de Constitution. Cette fureur dure 1 minute, jusqu’à ce que vous soyez à court d’ennemis que vous pouvez percevoir, ou jusqu’à ce que vous soyiez @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Vous ne pouvez pas quitter volontairement l’état de rage.</p>\n<p>Pendant que vous êtes enragé :</p>\n<ul>\n<li>Vous infligez 2 dégâts supplémentaires avec vos armes de corps-à-corps et vos attaques à mains nues. Ces dégâts supplémentaires sont divisés par 2 si votre arme ou votre attaque à mains nues a le trait agile.</li>\n<li>Vous subissez un malus de -1 à votre CA.</li>\n<li>Vous ne pouvez pas utiliser d'actions avec le trait concentration, sauf si elles ont également le trait rage. Vous pouvez @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pendant que vous êtes enragé.</li>\n</ul>\n<p>Après avoir quitté votre état de rage, vous perdez tous vos points de vie temporaires gagnés grâce à la Rage et vous ne pouvez plus utiliser la Rage pendant 1 minute.</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Points de vie temporaires en fonction du niveau et du modificateur de Constitution</li>\n<li>Accorde la propriété rage pour les dégâts de rage</li>\n<li>Place l'effet sur le jeton</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Major Cosmos Curse",
-            "name": "Effect: Major Cosmos Curse",
-            "description": "<p>Votre corps s’élève et vous flottez juste au-dessus du sol.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 4} et subissez un malus de -4 aux jets de sauvegarde et au DD contre les @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisies}, les @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussées} et les autres formes de déplacement forcé. Vous pouvez marcher sur des liquides comme s’ils étaient solides, vous gagnez les effets du don de compétence @Compendium[pf2e.feats-srd.TVFfTP9fHRidwBlW]{Saut plané} ; et vous ne laissez pas de traces, ne déclenchez pas les plaques de pression sensibles au poids et n’êtes pas en contact avec le sol en-dessous de vous.</p>\n<hr />\n<p><em>Note: Les bonus et les malus aux jets de sauvegarde sont appliqués automatiquement. Vous avez besoin d'appliquer manuellement les autres effets.</em></p>"
-        },
-        {
-            "id": "Effect: Angelic Blood Magic",
-            "name": "Effect: Angelic Blood Magic",
-            "description": "<p>Une aura angélique vous protège ou protège une cible en conférant un bonus de statut de +1 aux jets de sauvegarde pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Major Lore Curse",
-            "name": "Effect: Major Lore Curse",
-            "description": "<p>Le flux massif d’informations qui embrume votre esprit perturbe votre capacité à communiquer. Vous pouvez comprendre tous les langages mais vous ne pouvez pas parler, ni utiliser d’effets linguistiques, ni communiquer avec vos alliés de quelque manière que ce soit.</p>\n<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<p>L’attention que vous portez à toutes ces nouvelles connaissances vous rend constamment @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>\n<p>Si vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort} avec une composante verbale, vous devez réussir un test pur de DD 5 pour éviter de perdre le sort.</p>\n<p>Au début de chacun de vos tours, vous effectuez automatiquement un test pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous Souvenir} par une action libre. Ce test utilise une compétence de votre choix permettant l’action Se Souvenir et un résultat égal à 10 + votre bonus de maîtrise dans cette compétence (aucun aucun autre bonus, malus ou modificateur).\n<p>Vous gagnez un bonus de statut de +4 aux jets de sauvegarde contre les effets linguistiques.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde et la pénalité à l'initiative sont appliqués automatiquement. Il est nécessaire d'appliquer les autres effets manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
-            "name": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
-            "description": "<p>La puissance draconique transparaît dans votre voix. Une cible subit une pénalité de statut de -1 aux jets de Volonté pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Moderate Spellcasting Ancestor Curse",
-            "name": "Effect: Moderate Spellcasting Ancestor Curse",
-            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction modérée</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou aux Points de Vie soignés égal au niveau du sort.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Enduring Debilitating Strike",
-            "name": "Effect: Enduring Debilitating Strike",
-            "description": "<p>La cible a été affectée par la  a rogue's @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante} d'un roublard qui a aussi @Compendium[pf2e.feats-srd.RzfWrOqHL2GcK0rr]{Incapacité persistante}.</p>\n<p><em>Note : cet effet ne suit que la durée de l'incapacité. Il vous est nécessaire d'appliquer manuellement les pénalités que le roublard à choisi d'infliger.</em></p>"
-        },
-        {
-            "id": "Effect: Demonic Blood Magic (Self)",
-            "name": "Effect: Demonic Blood Magic (Self)",
-            "description": "<p>La corruption pécheresse vous rend plus intimidant. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Major Martial Ancestor Curse",
-            "name": "Effect: Major Martial Ancestor Curse",
-            "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : Frappes.</p>\n<p>Vos Frappes obtiennent un bonus de statut de +1 aux jets d'attaque et de +6 aux dégâts.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Minor Spellcaster Ancestor Curse",
-            "name": "Effect: Minor Spellcaster Ancestor Curse",
-            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction modérée</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou aux Points de Vie soignés égal au niveau du sort.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Moderate Bones Curse",
-            "name": "Effect: Moderate Bones Curse",
-            "description": "<p>Vos chairs mortes continuent à pourrir, affectant votre santé.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous donnent que la moitié de la quantité normale.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 1 et cet état Drainé se cumule avec tout autre état Drainé qui vous est infligé. Il ne peut être supprimé que quand vous Refocalisez ; les effets qui enlèvent normalement la condition Drainé ne font que réduire votre condition à une valeur de 1.</p>\n<p>De plus, vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>\n<p>Vous obtenez un bonus de statut de +4 aux jets de sauvegarde contre les maladies, les poisons et les effets de mort et, si vous obtenez un succès sur un tel jet, il est considéré comme un succès critique.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde est appliqué automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Moderate Flames Curse",
-            "name": "Effect: Moderate Flames Curse",
-            "description": "<p>La fumée et les visions de feu intermittentes envahissent davantage vos sens et des langues de flammes inoffensives obscurcissent votre espace.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} pour les autres créatures mais comme ces autres créatures ne sont pas maudites, elles peuvent profiter d’effets qui leur permettent d’ignorer ou de réduire la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}. Toutes les autres créatures et objets sont camouflés pour vous, quelle que soit la distance à laquelle elles se trouvent. Cependant, quand vous lancez un sort de feu, vous réussissez automatiquement le test nu pour surmonter le camouflage des cibles situées à 9 m ou moins de vous.</p>\n<p>Tous vos sens deviennent imprécis au-delà de 9 m, ce qui signifie que tout ce qui se trouve au-delà de 9 m et que vous pourriez normalement voir vous est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché}.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Life Curse",
-            "name": "Effect: Life Curse",
-            "description": ""
-        },
-        {
-            "id": "Effect: Minor Tempest Curse",
-            "name": "Effect: Minor Tempest Curse",
-            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:5]{émanation de 1,5 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une faiblesse de 2 à l’électricité et les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>"
-        },
-        {
-            "id": "Effect: Elemental Blood Magic (Self)",
-            "name": "Effect: Elemental Blood Magic (Self)",
-            "description": "<p>L’énergie élémentaire vous enveloppe. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Genie Blood Magic (Target)",
-            "name": "Effect: Genie Blood Magic (Target)",
-            "description": "<p><strong>Magie du sang</strong> Votre incantation tord la réalité et distrait vos ennemis. Une cible subit une pénalité de statut de –1 à la Perception pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Aberrant Blood Magic",
-            "name": "Effect: Aberrant Blood Magic",
-            "description": "<p>Les murmures aberrants protègent l’esprit d’une cible ou le vôtre en conférant un bonus de statut de +2 aux jets de Volonté pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Moderate Cosmos Curse",
-            "name": "Effect: Moderate Cosmos Curse",
-            "description": "<p>Votre corps est encore plus attiré vers le ciel.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} et vous subissez une pénalité de -3 aux jets de sauvegarde et aux DD contre la @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisie}, la @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussée} et les autres déplacements forcés.</p>\n<p>Vous êtes considéré comme étant d'une catégorie de taille inférieure face aux effets du vent. Vous obtenez un bonus de statut de +2 contre les tentatives de vous @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Mettre à terre}, vous ne subissez que la moitié des dégâts de chute et vous gagnez les effets des dons @Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]{Bond puissant} et @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Saut rapide}. Vous ne pesez que la moitié de votre poids normal et votre Encombrement est également divisé par deux (au cas où quelqu’un aurait besoin de vous porter).</p>\n<hr />\n<p><em>Note : Le bonus et les pénalités aux jets de sauvegarde sont appliqués automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
+            "id": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
+            "name": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
+            "description": "<p>La puissance draconique transparaît dans votre voix. Vous obtenez un bonus de statut de +1 aux tests d'intimidation pendant 1 round.</p>"
         },
         {
             "id": "Effect: Minor Martial Ancestor Curse",
@@ -172,9 +12,14 @@
             "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : Frappes.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
         },
         {
-            "id": "Effect: Debilitating Strike",
-            "name": "Effect: Debilitating Strike",
-            "description": "<p>La cible a été affectée par la @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante} d'un roublard.</p>\n<p><em>Note : Cette effet ne fait que suivre la durée du handicap. Vous avez besoin d'appliquer manuellement les pénalités spécifiques que le roublard à choisi d'appliquer.</em></p>"
+            "id": "Effect: Flames Oracle",
+            "name": "Effect: Flames Oracle",
+            "description": ""
+        },
+        {
+            "id": "Effect: Shadow Blood Magic (Perception)",
+            "name": "Effect: Shadow Blood Magic (Perception)",
+            "description": "<p>Les ombres sont plus profondes autour de vous ou d'une cible en imposant une pénalité de statut de –1 à la Perception pendant 1 round.</p>"
         },
         {
             "id": "Effect: Lore Curse",
@@ -182,9 +27,9 @@
             "description": ""
         },
         {
-            "id": "Effect: Nymph Blood Magic (Self)",
-            "name": "Effect: Nymph Blood Magic (Self)",
-            "description": "<p>La grâce de la nymphe accentue vos mouvements et distrait vos ennemis en vous accordant un bonus de statut de +1 aux tests de Diplomatie pendant 1 round.</p>"
+            "id": "Effect: Minor Flames Curse",
+            "name": "Effect: Minor Flames Curse",
+            "description": "<p>La fumée, la chaleur et les flammes crépitantes de votre malédiction obscurcissent votre vision et vos autres sens. Les créatures situées à plus de 9 m de vous sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} pour vous.</p>\n<p>Vous ne pouvez pas profiter d’effets qui vous permettraient d’ignorer ou de réduire ce camouflage, comme c’est le cas pour les autres effets des malédictions oraculaires.</p>\n<hr />\n<p><em>Note : Vous devez appliquer les effets de cette malédiction manuellement.</em></p>"
         },
         {
             "id": "Effect: Minor Battle Curse",
@@ -192,14 +37,59 @@
             "description": "<p>Votre corps est en manque lorsque vous n’apportez pas la douleur à vos ennemis.</p>\n<p>Vous subissez un malus de statut de -2 à la CA et aux jets de sauvegarde mais, chaque fois que vous effectuez une Frappe, ces malus sont temporairement suspendus jusqu’au début de votre prochain tour.</p>\n<hr />\n<p><em>Note : Les effets de cette malédiction sont appliqués automatiquement</em></p>"
         },
         {
-            "id": "Effect: Minor Lore Curse",
-            "name": "Effect: Minor Lore Curse",
-            "description": "<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<hr />\n<p><em>Note : Les effets de cette malédiction sont appliqués automatiquement.</em></p>"
+            "id": "Effect: Battle Medicine Immunity",
+            "name": "Effect: Battle Medicine Immunity",
+            "description": "<p>Accordé lorsque quelqu'un utilise @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Médecine militaire} sur vous, vous rendant immunisé à l'effet de cet personne pendant la durée.</p>"
         },
         {
-            "id": "Effect: Moderate Life Curse",
-            "name": "Effect: Moderate Life Curse",
-            "description": "<p>L’énergie vitale continue à s’écouler de vous et ce phénomène ne peut pas être inversé.</p>\n <p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. En plus des effets de votre malédiction mineure, vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscients, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n <p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<hr />\n<p><em>Note : il vous faut appliquer les effets de cette malédiction manuellement.</em></p>"
+            "id": "Effect: Minor Tempest Curse",
+            "name": "Effect: Minor Tempest Curse",
+            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:5]{émanation de 1,5 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une faiblesse de 2 à l’électricité et les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>"
+        },
+        {
+            "id": "Effect: Moderate Battle Curse",
+            "name": "Effect: Moderate Battle Curse",
+            "description": "<p>Le poids du conflit fatigue votre corps, même si vous en tirez de la vitalité.</p>\n<p>Vous subissez une pénalité de statut de -2 à la CA et aux jets de sauvegarde, mais chaque fois que vous portez une Frappe, vous pouvez réduire ces pénalités à -1 jusqu'au début de votre prochain tour.</p>\n<p>Vous obtenez un bonus de statut de +2 aux jets de dégâts avec les armes ou les attaques à mains nues.</p>\n<p>Vous obtenez également Guérison accélérée pour un montant égal à la moitié de votre niveau lorsque vous êtes impliqué dans une rencontre de combat non triviale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer Guérison accélérée manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Spellcasting Ancestor Curse",
+            "name": "Effect: Major Spellcasting Ancestor Curse",
+            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou Points de Vie soignés égal au niveau du sort + 3.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Battle Curse",
+            "name": "Effect: Major Battle Curse",
+            "description": "<p>Votre corps est capable de hauts-faits véritablement héroïques mais ceux-ci affaiblissent votre capacité de concentration mentale.</p>\n<p>Vous subissez un malus de statut de -2 à la CA et aux jets de sauvegarde mais vous êtes êtes @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>\n<p>Vous obtenez un bonus de statut aux dégâts avec les armes et les attaques à mains nues de +6.</p>\n<p>Vous obtenez aussi une Guérison accélérée égale à votre niveau lorsque vous êtes dans une rencontre de combat non triviale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer la condition stupéfiée et la Guérison accélérée manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Fey Blood Magic",
+            "name": "Effect: Fey Blood Magic",
+            "description": "<p>Des étincelles féeriques colorées virevoltent autour de vous ou autour d’une cible ; vous ou la cible êtes ainsi Masqués pendant 1 round. Un camouflage aussi évident ne permet pas de Se cacher.</p>"
+        },
+        {
+            "id": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
+            "name": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
+            "description": "<p>La puissance draconique transparaît dans votre voix. Une cible subit une pénalité de statut de -1 aux jets de Volonté pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Treat Wounds Immunity",
+            "name": "Effect: Treat Wounds Immunity",
+            "description": "<p>Accordé lorsque quelqu'un utilise @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures} sur vous, vous rendant immunisé aux effets de cette personne pendant sa surée.</p>"
+        },
+        {
+            "id": "Effect: Moderate Flames Curse",
+            "name": "Effect: Moderate Flames Curse",
+            "description": "<p>La fumée et les visions de feu intermittentes envahissent davantage vos sens et des langues de flammes inoffensives obscurcissent votre espace.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} pour les autres créatures mais comme ces autres créatures ne sont pas maudites, elles peuvent profiter d’effets qui leur permettent d’ignorer ou de réduire la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}. Toutes les autres créatures et objets sont camouflés pour vous, quelle que soit la distance à laquelle elles se trouvent. Cependant, quand vous lancez un sort de feu, vous réussissez automatiquement le test nu pour surmonter le camouflage des cibles situées à 9 m ou moins de vous.</p>\n<p>Tous vos sens deviennent imprécis au-delà de 9 m, ce qui signifie que tout ce qui se trouve au-delà de 9 m et que vous pourriez normalement voir vous est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché}.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Lore Curse",
+            "name": "Effect: Major Lore Curse",
+            "description": "<p>Le flux massif d’informations qui embrume votre esprit perturbe votre capacité à communiquer. Vous pouvez comprendre tous les langages mais vous ne pouvez pas parler, ni utiliser d’effets linguistiques, ni communiquer avec vos alliés de quelque manière que ce soit.</p>\n<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<p>L’attention que vous portez à toutes ces nouvelles connaissances vous rend constamment @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>\n<p>Si vous @Compendium[pf2e.actionspf2e.aBQ8ajvEBByv45yz]{Lancez un sort} avec une composante verbale, vous devez réussir un test pur de DD 5 pour éviter de perdre le sort.</p>\n<p>Au début de chacun de vos tours, vous effectuez automatiquement un test pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous Souvenir} par une action libre. Ce test utilise une compétence de votre choix permettant l’action Se Souvenir et un résultat égal à 10 + votre bonus de maîtrise dans cette compétence (aucun aucun autre bonus, malus ou modificateur).\n<p>Vous gagnez un bonus de statut de +4 aux jets de sauvegarde contre les effets linguistiques.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde et la pénalité à l'initiative sont appliqués automatiquement. Il est nécessaire d'appliquer les autres effets manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Cosmos Curse",
+            "name": "Effect: Major Cosmos Curse",
+            "description": "<p>Votre corps s’élève et vous flottez juste au-dessus du sol.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 4} et subissez un malus de -4 aux jets de sauvegarde et au DD contre les @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisies}, les @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussées} et les autres formes de déplacement forcé. Vous pouvez marcher sur des liquides comme s’ils étaient solides, vous gagnez les effets du don de compétence @Compendium[pf2e.feats-srd.TVFfTP9fHRidwBlW]{Saut plané} ; et vous ne laissez pas de traces, ne déclenchez pas les plaques de pression sensibles au poids et n’êtes pas en contact avec le sol en-dessous de vous.</p>\n<hr />\n<p><em>Note: Les bonus et les malus aux jets de sauvegarde sont appliqués automatiquement. Vous avez besoin d'appliquer manuellement les autres effets.</em></p>"
         },
         {
             "id": "Effect: Imperial Blood Magic",
@@ -207,39 +97,54 @@
             "description": "<p>Des souvenirs ancestraux refont brusquement surface en conférant à vous ou à une cible un bonus de statut de +1 aux tests de compétence pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Moderate Martial Ancestor Curse",
-            "name": "Effect: Moderate Martial Ancestor Curse",
-            "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : Frappes.</p>\n<p>Vos Frappes obtiennent un bonus de statut de +1 aux jets d'attaque et de +2 aux dégâts.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu manuellement lorque vous utilisez une autre action que celle privilégiée par l'ancêtre. Les effets restants sont appliqués automatiquement.</em></p>"
+            "id": "Effect: Diabolic Blood Magic (Self)",
+            "name": "Effect: Diabolic Blood Magic (Self)",
+            "description": "<p>Le feu infernal brûle emplit votre bouche de mensonges. Vous bénéficiez d’un bonus de statut de +1 aux tests de Duperie pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Nymph Blood Magic (Target)",
-            "name": "Effect: Nymph Blood Magic (Target)",
-            "description": "<p>la grâce de la nymphe accentue vos mouvements et distrait vos ennemis, en imposant une pénalité de statut aux jets de volonté d'une cible pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Ancestor Curse",
-            "name": "Effect: Ancestor Curse",
-            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
-        },
-        {
-            "id": "Effect: Minor Bones Curse",
-            "name": "Effect: Minor Bones Curse",
-            "description": "<p>Des os sortent de votre corps et votre chair se met à pourrir, le tout combiné avec une odeur nauséabonde de pourriture et un froid surnaturel.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous rendent que la moitié de la quantité normale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
-        },
-        {
-            "id": "Effect: Panache",
-            "name": "Effect: Panache",
-            "description": "<p>Pour vous, la manière d’accomplir quelque chose est aussi importante que le fait de parvenir ou non à l’accomplir. Quand vous réalisez une action avec suffisamment de bravade, vous pouvez en tirer parti pour réaliser des manœuvres spectaculaires et mortelles. Celà s'appelle le panache et soit vous disposez de panache, soit vous n’en disposez pas.</p>\n<p>Accordé par @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache}</p>\n<hr />\n<p>Effets Implémentés:</p>\n<ul>\n<li>Active la propriété panache pour les effets de panache</li>\n<li>Place l'effet sur le jeton</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Major Flames Curse",
-            "name": "Effect: Major Flames Curse",
-            "description": "<p>Les flammes qui vous entourent ne sont plus juste de simples visions.</p>\n<p>Vous êtes Masqué pour les autres créatures mais comme ces autres créatures ne sont pas maudites, elles peuvent profiter d’effets qui leur permettent d’ignorer ou de réduire la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}. Toutes les autres créatures et objets vous sont Masqués, quelle que soit la distance à laquelle ils se trouvent. Cependant, quand vous lancez un sort de feu, vous réussissez automatiquement le test nu pour surmonter le camouflage des cibles situées à 9 m ou moins de vous.</p>\n<p>Une aura de feu vous enveloppe dans une @Template[type:emanation|distance:10]{émanation de 3 m}, infligeant [[/r {4d6}[fire]]]{4d6 dégâts de feu} (Réflexes basique) à toutes les autres créatures situées dans la zone à la fin de chacun de vos tours. Vous perdez [[/r 1d6]]{1d6 Points de vie} à la fin de votre tour chaque round, sans jet de sauvegarde ; si vous possédez une faiblesse au feu, augmentez le nombre de Points de Vie que vous perdez de la valeur de cette faiblesse.</p>\n<p>Tous vos sens deviennent imprécis au-delà de 9 m, ce qui signifie que tout ce qui se trouve au-delà de 9 m et que vous pourriez normalement voir vous est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché}.</p>\n<p>Vous pouvez supprimer votre aura jusqu’au début de votre prochain tour en utilisant une unique action qui possède le trait concentration, pour diminuer les flammes, de sorte que ni vous ni qui que ce soit d’autre ne subissez de dégâts. Quand vous @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocalisez} pour réduire votre malédiction, vous atténuez constamment votre aura, de sorte que vous ne perdez pas de Points de Vie. Les flammes disparaissent si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient}, mais elles reviennent dès que vous vous réveillez à moins que vous ne vous soyez reposé suffisamment longtemps pour réinitialiser votre malédiction. Comme d’habitude pour les malédictions oraculaires, vous ne pouvez pas annuler ou réduire la perte de Points de Vie de quelque manière que ce soit, mais vous pouvez guérir ces Points de Vie normalement après les avoir perdus.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
+            "id": "Effect: Minor Lore Curse",
+            "name": "Effect: Minor Lore Curse",
+            "description": "<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<hr />\n<p><em>Note : Les effets de cette malédiction sont appliqués automatiquement.</em></p>"
         },
         {
             "id": "Effect: Minor Skillful Ancestor Curse",
             "name": "Effect: Minor Skillful Ancestor Curse",
             "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Moderate Tempest Curse",
+            "name": "Effect: Moderate Tempest Curse",
+            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:10]{émanation de 3 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura. Les vents tourbillonnants imposent un malus de circonstances de -2 aux jets d’attaque à distance utilisant des munitions physiques, que ceux-ci vous prennent pour cible ou qu’ils proviennent de vous.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Vous gagnez une faiblesse de 5 à l’électricité ou à la moitié de votre niveau (la valeur la plus élevée des deux) mais les pluies torrentielles vous donnent une résistance au feu de la même valeur. Les sorts électriques ou des effets qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>"
+        },
+        {
+            "id": "Effect: Minor Spellcaster Ancestor Curse",
+            "name": "Effect: Minor Spellcaster Ancestor Curse",
+            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction modérée</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou aux Points de Vie soignés égal au niveau du sort.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Minor Cosmos Curse",
+            "name": "Effect: Minor Cosmos Curse",
+            "description": "<p>Votre légèreté surnaturelle fait qu’il vous est difficile de garder votre équilibre et d’interagir avec des objets physiques.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 et subissez un malus de -2 aux jets de sauvegarde et au DD contre les tentatives pour vous @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Agripper}, vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou les autres formes de déplacement forcé.</p>\n<hr />\n<p><em>Note : Il est nécessaire d'appliquer les effets de cette malédiction manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Tempest Curse",
+            "name": "Effect: Major Tempest Curse",
+            "description": "<p>Une aura de tempête tourbillonnante se déclenche dans une @Template[type:emanation|distance:15]{émanation de 4,5 m} autour de vous et dans votre case. Cette aura éteint les feux non magiques 1 round après qu’ils aient été allumés ou amenés au sein de l’aura. Au sein de l’aura, des vents forts soufflant vers l’extérieur rendent difficiles les mouvements des créatures. L’aura est un terrain difficile pour les créatures de taille Grande ou inférieure qui sont situées sur le sol et pour les créatures volantes de taille Très grande ou inférieure. Vous n’êtes pas affecté par ce terrain difficile.</p>\n<p>Les vents tourbillonnants imposent un malus de circonstances de -2 aux jets d’attaque à distance utilisant des munitions physiques, que ceux-ci vous prennent pour cible ou qu’ils proviennent de vous.</p>\n<p>De l’énergie électrique s’accumule au sein de votre tempête, vous transformant en une sorte de paratonnerre. Votre faiblesse à l’électricité passe à 5 mais les pluies torrentielles vous donnent une résistance au feu de la même valeur. Les sorts et effets d’électricité qui possèdent des effets supplémentaires dans le cas d’une créature portant ou tenant des objets métalliques agissent sur vous comme si vous portiez une armure métallique.</p>\n<p>L’électricité qui crépite à travers vous devient plus dangereuse. Les créatures qui vous touchent, y compris avec un sort de contact ou une attaque au corps-à-corps à mains nues, subissent [[/r {1d6}[electricity]]]{1d6 dégâts d'électricité}.</p>\n<hr />\n<p><em>Note : La pénalité aux attaques à distance que vous faites est appliquée automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Genie Blood Magic (Self)",
+            "name": "Effect: Genie Blood Magic (Self)",
+            "description": "<p>Votre incantation tord la réalité et distrait vos ennemis. Vous obtenez un bonus de statut de +1 aux tests de Duperie pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Major Life Curse",
+            "name": "Effect: Major Life Curse",
+            "description": "<p>L’énergie vitale jaillit violemment de vous pour donner corps à votre magie. Certains de vos sorts véhiculent de l’énergie positive.</p>\n<p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. Vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscient, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n<p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<p>Chaque fois que vous utilisez un emplacement de sort pour lancer un sort de niveau 5 ou supérieur qui nécessite 2 actions ou plus pour le lancer, vous dispersez de l’énergie positive dans une explosion de 9 m qui a les mêmes effets qu’un sort de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> à 3 actions lancé à un niveau égal au niveau du sort lancé -4. Cette Guérison se produit immédiatement après la fin du Lancement du sort. Vous ne profitez pas de cette guérison. Au lieu de cela, vous perdez le double du nombre de Points de Vie obtenus pour le sort <em>Guérison</em>.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Bones Curse",
+            "name": "Effect: Major Bones Curse",
+            "description": "<p>Vous êtes à deux doigts de la tombe.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous rendent que la moitié de la quantité normale.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 1 et cet état Drainé se cumule avec tout autre état Drainé qui vous est infligé. Il ne peut être supprimé que quand vous Refocalisez ; les effets qui enlèvent normalement la condition Drainé ne font que réduire votre condition à une valeur de 1.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé} 1. Cet état blessé n’est supprimé que lorsque vous Refocalisez ; les effets qui devraient normalement supprimer la condition Blessé ne font que ramener celle-ci à une valeur de 1.</p>\n<p>Vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>\n<p>Vous obtenez un bonus de statut de +4 aux jets de sauvegarde contre les maladies, les poisons et les effets de mort et, si vous obtenez un succès sur un tel jet, il est considéré comme un succès critique.</p>\n<p>Quand vous êtes sur le point de tenter un test pour récupérer de l’état Mourant, vous pouvez choisir d’obtenir une réussite automatique au lieu de lancer le dé et, lorsque vous obtenez un échec critique lors d’un jet de sauvegarde contre la maladie, le poison ou un effet de mort, vous considérez qu'il s'agit seulement d'un échec.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde est appliqué automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
         },
         {
             "id": "Effect: Psychopomp Blood Magic (Self)",
@@ -252,54 +157,124 @@
             "description": "<p><strong>Conditions</strong> Vous avez utilisé votre plus récente action pour Lancer un sort ou effectuer une Frappe de sort.</p>\n<hr />\n<p>Vous détournez une partie de la puissance magique du sort pour la faire circuler dans votre corps et votre arme en utilisant des formes spécialisées, la respiration ou le jeu de jambes. Lorsque vous êtes dans cette position, vos coups au corps-à-corps infligent [[/r {1}]]{1 dégât supplémentaire}. Ces dégâts passent à 2 si vous avez Spécialisation avec les armes et à 3 si vous avez Spécialisation avec les armes supérieure. Toute Frappe qui bénéficie de ces dégâts obtient le trait arcanique, ce qui la rend magique.</p>\n<p>Si votre dernier sort avant d'entrer dans la posture était un sort qui peut infliger des dégâts, les dégâts de la posture sont du même type que ceux que le sort pouvait infliger (ou d'un type de votre choix si le sort pouvait infliger plusieurs types de dégâts). Si le sort ne pouvait pas infliger de dégâts, le bonus de dégâts de cette posture dépend de l'école du sort.</p>\n<ul>\n<li><strong>Abjuration</strong> ou <strong>Évocation</strong> force</li>\n<li><strong>Divination</strong>, <strong>Enchantement</strong> ou <strong>Illusion</strong> mental</li>\n<li><strong>Invocation</strong> ou <strong>Transmutation</strong> même type que votre arme ou attaque à mains nues</li>\n<li><strong>Nécromancie</strong> négatif</li>\n</ul>"
         },
         {
-            "id": "Effect: Hydration",
-            "name": "Effect: Hydration",
-            "description": "<p>Accordé par @Compendium[pf2e.ancestryfeatures.vt67b8uoNEbskcBv]{Hydratation} si vous passez 24 heures en dehors de l'eau.</p>"
+            "id": "Effect: Minor Bones Curse",
+            "name": "Effect: Minor Bones Curse",
+            "description": "<p>Des os sortent de votre corps et votre chair se met à pourrir, le tout combiné avec une odeur nauséabonde de pourriture et un froid surnaturel.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous rendent que la moitié de la quantité normale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
         },
         {
-            "id": "Effect: Draconic Blood Magic",
-            "name": "Effect: Draconic Blood Magic",
-            "description": "<p>Les écailles draconiques grandissent brièvement sur vous ou une cible, lui accordant un bonus de statut de +1 à la CA pendant 1 round.</p>"
+            "id": "Effect: Demonic Blood Magic (Self)",
+            "name": "Effect: Demonic Blood Magic (Self)",
+            "description": "<p>La corruption pécheresse vous rend plus intimidant. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Celestial Wings",
-            "name": "Effect: Celestial Wings",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.vtCrMziYxNyj8kP7]{Ailes célestes}</p>\n<p>Vous obtenez une vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont ainsi manifestées.</p>"
+            "id": "Effect: Moderate Cosmos Curse",
+            "name": "Effect: Moderate Cosmos Curse",
+            "description": "<p>Votre corps est encore plus attiré vers le ciel.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} et vous subissez une pénalité de -3 aux jets de sauvegarde et aux DD contre la @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisie}, la @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Poussée} et les autres déplacements forcés.</p>\n<p>Vous êtes considéré comme étant d'une catégorie de taille inférieure face aux effets du vent. Vous obtenez un bonus de statut de +2 contre les tentatives de vous @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Mettre à terre}, vous ne subissez que la moitié des dégâts de chute et vous gagnez les effets des dons @Compendium[pf2e.feats-srd.HJYQlmGTdtyGWr6a]{Bond puissant} et @Compendium[pf2e.feats-srd.ZBhvJ9O8MvBFAlhq]{Saut rapide}. Vous ne pesez que la moitié de votre poids normal et votre Encombrement est également divisé par deux (au cas où quelqu’un aurait besoin de vous porter).</p>\n<hr />\n<p><em>Note : Le bonus et les pénalités aux jets de sauvegarde sont appliqués automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
         },
         {
-            "id": "Effect: Minor Cosmos Curse",
-            "name": "Effect: Minor Cosmos Curse",
-            "description": "<p>Votre légèreté surnaturelle fait qu’il vous est difficile de garder votre équilibre et d’interagir avec des objets physiques.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 et subissez un malus de -2 aux jets de sauvegarde et au DD contre les tentatives pour vous @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Agripper}, vous @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} ou les autres formes de déplacement forcé.</p>\n<hr />\n<p><em>Note : Il est nécessaire d'appliquer les effets de cette malédiction manuellement.</em></p>"
+            "id": "Effect: Rage",
+            "name": "Effect: Rage",
+            "description": "<p><strong>Conditions</strong> Vous n'êtes pas @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} ou en rage.</p>\n<hr />\n<p>Vous faites appel à votre fureur intérieure et entrez en rage. Vous gagnez une quantité de points de vie temporaires égale à votre niveau plus votre modificateur de Constitution. Cette fureur dure 1 minute, jusqu’à ce que vous soyez à court d’ennemis que vous pouvez percevoir, ou jusqu’à ce que vous soyiez @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient}. Vous ne pouvez pas quitter volontairement l’état de rage.</p>\n<p>Pendant que vous êtes enragé :</p>\n<ul>\n<li>Vous infligez 2 dégâts supplémentaires avec vos armes de corps-à-corps et vos attaques à mains nues. Ces dégâts supplémentaires sont divisés par 2 si votre arme ou votre attaque à mains nues a le trait agile.</li>\n<li>Vous subissez un malus de -1 à votre CA.</li>\n<li>Vous ne pouvez pas utiliser d'actions avec le trait concentration, sauf si elles ont également le trait rage. Vous pouvez @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} pendant que vous êtes enragé.</li>\n</ul>\n<p>Après avoir quitté votre état de rage, vous perdez tous vos points de vie temporaires gagnés grâce à la Rage et vous ne pouvez plus utiliser la Rage pendant 1 minute.</p>\n<p>Effets implémentés :</p>\n<ul>\n<li>Points de vie temporaires en fonction du niveau et du modificateur de Constitution</li>\n<li>Accorde la propriété rage pour les dégâts de rage</li>\n<li>Place l'effet sur le jeton</li>\n</ul>"
         },
         {
-            "id": "Effect: Minor Flames Curse",
-            "name": "Effect: Minor Flames Curse",
-            "description": "<p>La fumée, la chaleur et les flammes crépitantes de votre malédiction obscurcissent votre vision et vos autres sens. Les créatures situées à plus de 9 m de vous sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées} pour vous.</p>\n<p>Vous ne pouvez pas profiter d’effets qui vous permettraient d’ignorer ou de réduire ce camouflage, comme c’est le cas pour les autres effets des malédictions oraculaires.</p>\n<hr />\n<p><em>Note : Vous devez appliquer les effets de cette malédiction manuellement.</em></p>"
+            "id": "Effect: Nymph Blood Magic (Self)",
+            "name": "Effect: Nymph Blood Magic (Self)",
+            "description": "<p>La grâce de la nymphe accentue vos mouvements et distrait vos ennemis en vous accordant un bonus de statut de +1 aux tests de Diplomatie pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Genie Blood Magic (Self)",
-            "name": "Effect: Genie Blood Magic (Self)",
-            "description": "<p>Votre incantation tord la réalité et distrait vos ennemis. Vous obtenez un bonus de statut de +1 aux tests de Duperie pendant 1 round.</p>"
+            "id": "Effect: Debilitating Strike",
+            "name": "Effect: Debilitating Strike",
+            "description": "<p>La cible a été affectée par la @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante} d'un roublard.</p>\n<p><em>Note : Cette effet ne fait que suivre la durée du handicap. Vous avez besoin d'appliquer manuellement les pénalités spécifiques que le roublard à choisi d'appliquer.</em></p>"
         },
         {
-            "id": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
-            "name": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
-            "description": "<p>La puissance draconique transparaît dans votre voix. Vous obtenez un bonus de statut de +1 aux tests d'intimidation pendant 1 round.</p>"
+            "id": "Effect: Elemental Blood Magic (Self)",
+            "name": "Effect: Elemental Blood Magic (Self)",
+            "description": "<p>L’énergie élémentaire vous enveloppe. Vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Flames Oracle",
-            "name": "Effect: Flames Oracle",
+            "id": "Effect: Nymph Blood Magic (Target)",
+            "name": "Effect: Nymph Blood Magic (Target)",
+            "description": "<p>la grâce de la nymphe accentue vos mouvements et distrait vos ennemis, en imposant une pénalité de statut aux jets de volonté d'une cible pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Moderate Bones Curse",
+            "name": "Effect: Moderate Bones Curse",
+            "description": "<p>Vos chairs mortes continuent à pourrir, affectant votre santé.</p>\n<p>Les effets non magiques qui devraient vous rendre des Points de Vie ne vous donnent que la moitié de la quantité normale.</p>\n<p>Vous devenez @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé} 1 et cet état Drainé se cumule avec tout autre état Drainé qui vous est infligé. Il ne peut être supprimé que quand vous Refocalisez ; les effets qui enlèvent normalement la condition Drainé ne font que réduire votre condition à une valeur de 1.</p>\n<p>De plus, vous obtenez une résistance au poison égale à la moitié de votre niveau.</p>\n<p>Vous obtenez un bonus de statut de +4 aux jets de sauvegarde contre les maladies, les poisons et les effets de mort et, si vous obtenez un succès sur un tel jet, il est considéré comme un succès critique.</p>\n<hr />\n<p><em>Note : Le bonus aux jets de sauvegarde est appliqué automatiquement. Vous avez besoin d'appliquer les effets restants manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Moderate Martial Ancestor Curse",
+            "name": "Effect: Moderate Martial Ancestor Curse",
+            "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : Frappes.</p>\n<p>Vos Frappes obtiennent un bonus de statut de +1 aux jets d'attaque et de +2 aux dégâts.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu manuellement lorque vous utilisez une autre action que celle privilégiée par l'ancêtre. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Moderate Skillful Ancestor Curse",
+            "name": "Effect: Moderate Skillful Ancestor Curse",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +1 aux tests de compétence et de Perception.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous n'utilisez pas l'action privilégiée de votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Demonic Blood Magic (Target)",
+            "name": "Effect: Demonic Blood Magic (Target)",
+            "description": "<p>La corruption pécheresse affaiblit les défenses d’une cible. Une cible subit un malus de statut de −1 à la CA pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Genie Blood Magic (Target)",
+            "name": "Effect: Genie Blood Magic (Target)",
+            "description": "<p><strong>Magie du sang</strong> Votre incantation tord la réalité et distrait vos ennemis. Une cible subit une pénalité de statut de –1 à la Perception pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Life Curse",
+            "name": "Effect: Life Curse",
             "description": ""
         },
         {
-            "id": "Effect: Diabolic Blood Magic (Self)",
-            "name": "Effect: Diabolic Blood Magic (Self)",
-            "description": "<p>Le feu infernal brûle emplit votre bouche de mensonges. Vous bénéficiez d’un bonus de statut de +1 aux tests de Duperie pendant 1 round.</p>"
+            "id": "Effect: Aberrant Blood Magic",
+            "name": "Effect: Aberrant Blood Magic",
+            "description": "<p>Les murmures aberrants protègent l’esprit d’une cible ou le vôtre en conférant un bonus de statut de +2 aux jets de Volonté pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Fey Blood Magic",
-            "name": "Effect: Fey Blood Magic",
-            "description": "<p>Des étincelles féeriques colorées virevoltent autour de vous ou autour d’une cible ; vous ou la cible êtes ainsi Masqués pendant 1 round. Un camouflage aussi évident ne permet pas de Se cacher.</p>"
+            "id": "Effect: Major Skillful Ancestor Curse",
+            "name": "Effect: Major Skillful Ancestor Curse",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Angelic Blood Magic",
+            "name": "Effect: Angelic Blood Magic",
+            "description": "<p>Une aura angélique vous protège ou protège une cible en conférant un bonus de statut de +1 aux jets de sauvegarde pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Hag Blood Magic",
+            "name": "Effect: Hag Blood Magic",
+            "description": "<p>Vous maudissez vos ennemis avec véhémence. La première créature qui vous inflige des dégâts avant la fin de votre prochain tour subit 2 dégâts mentaux par niveau de sort (Volonté basique).</p>"
+        },
+        {
+            "id": "Effect: Enduring Debilitating Strike",
+            "name": "Effect: Enduring Debilitating Strike",
+            "description": "<p>La cible a été affectée par la  a rogue's @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante} d'un roublard qui a aussi @Compendium[pf2e.feats-srd.RzfWrOqHL2GcK0rr]{Incapacité persistante}.</p>\n<p><em>Note : cet effet ne suit que la durée de l'incapacité. Il vous est nécessaire d'appliquer manuellement les pénalités que le roublard à choisi d'infliger.</em></p>"
+        },
+        {
+            "id": "Effect: Bones Curse",
+            "name": "Effect: Bones Curse",
+            "description": ""
+        },
+        {
+            "id": "Effect: Major Martial Ancestor Curse",
+            "name": "Effect: Major Martial Ancestor Curse",
+            "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : Frappes.</p>\n<p>Vos Frappes obtiennent un bonus de statut de +1 aux jets d'attaque et de +6 aux dégâts.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Major Flames Curse",
+            "name": "Effect: Major Flames Curse",
+            "description": "<p>Les flammes qui vous entourent ne sont plus juste de simples visions.</p>\n<p>Vous êtes Masqué pour les autres créatures mais comme ces autres créatures ne sont pas maudites, elles peuvent profiter d’effets qui leur permettent d’ignorer ou de réduire la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué}. Toutes les autres créatures et objets vous sont Masqués, quelle que soit la distance à laquelle ils se trouvent. Cependant, quand vous lancez un sort de feu, vous réussissez automatiquement le test nu pour surmonter le camouflage des cibles situées à 9 m ou moins de vous.</p>\n<p>Une aura de feu vous enveloppe dans une @Template[type:emanation|distance:10]{émanation de 3 m}, infligeant [[/r {4d6}[fire]]]{4d6 dégâts de feu} (Réflexes basique) à toutes les autres créatures situées dans la zone à la fin de chacun de vos tours. Vous perdez [[/r 1d6]]{1d6 Points de vie} à la fin de votre tour chaque round, sans jet de sauvegarde ; si vous possédez une faiblesse au feu, augmentez le nombre de Points de Vie que vous perdez de la valeur de cette faiblesse.</p>\n<p>Tous vos sens deviennent imprécis au-delà de 9 m, ce qui signifie que tout ce qui se trouve au-delà de 9 m et que vous pourriez normalement voir vous est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché}.</p>\n<p>Vous pouvez supprimer votre aura jusqu’au début de votre prochain tour en utilisant une unique action qui possède le trait concentration, pour diminuer les flammes, de sorte que ni vous ni qui que ce soit d’autre ne subissez de dégâts. Quand vous @Compendium[pf2e.actionspf2e.OSefkMgojBLqmRDh]{Refocalisez} pour réduire votre malédiction, vous atténuez constamment votre aura, de sorte que vous ne perdez pas de Points de Vie. Les flammes disparaissent si vous êtes @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient}, mais elles reviennent dès que vous vous réveillez à moins que vous ne vous soyez reposé suffisamment longtemps pour réinitialiser votre malédiction. Comme d’habitude pour les malédictions oraculaires, vous ne pouvez pas annuler ou réduire la perte de Points de Vie de quelque manière que ce soit, mais vous pouvez guérir ces Points de Vie normalement après les avoir perdus.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer les effets de cette malédiction manuellement.</em></p>"
+        },
+        {
+            "id": "Effect: Ancestor Curse",
+            "name": "Effect: Ancestor Curse",
+            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+        },
+        {
+            "id": "Effect: Tempest Curse",
+            "name": "Effect: Tempest Curse",
+            "description": ""
         },
         {
             "id": "Effect: Battle Curse",
@@ -307,18 +282,23 @@
             "description": "<p><em>Note : La condition @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2} n'est pas appliquée pour la malédiction majeure</em></p>"
         },
         {
-            "id": "Effect: Major Battle Curse",
-            "name": "Effect: Major Battle Curse",
-            "description": "<p>Votre corps est capable de hauts-faits véritablement héroïques mais ceux-ci affaiblissent votre capacité de concentration mentale.</p>\n<p>Vous subissez un malus de statut de -2 à la CA et aux jets de sauvegarde mais vous êtes êtes @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié} 2.</p>\n<p>Vous obtenez un bonus de statut aux dégâts avec les armes et les attaques à mains nues de +6.</p>\n<p>Vous obtenez aussi une Guérison accélérée égale à votre niveau lorsque vous êtes dans une rencontre de combat non triviale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer la condition stupéfiée et la Guérison accélérée manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+            "id": "Effect: Panache",
+            "name": "Effect: Panache",
+            "description": "<p>Pour vous, la manière d’accomplir quelque chose est aussi importante que le fait de parvenir ou non à l’accomplir. Quand vous réalisez une action avec suffisamment de bravade, vous pouvez en tirer parti pour réaliser des manœuvres spectaculaires et mortelles. Celà s'appelle le panache et soit vous disposez de panache, soit vous n’en disposez pas.</p>\n<p>Accordé par @Compendium[pf2e.classfeatures.LzYi0OuOoypNb6jd]{Panache}</p>\n<hr />\n<p>Effets Implémentés:</p>\n<ul>\n<li>Active la propriété panache pour les effets de panache</li>\n<li>Place l'effet sur le jeton</li>\n</ul>"
         },
         {
-            "id": "Effect: Moderate Battle Curse",
-            "name": "Effect: Moderate Battle Curse",
-            "description": "<p>Le poids du conflit fatigue votre corps, même si vous en tirez de la vitalité.</p>\n<p>Vous subissez une pénalité de statut de -2 à la CA et aux jets de sauvegarde, mais chaque fois que vous portez une Frappe, vous pouvez réduire ces pénalités à -1 jusqu'au début de votre prochain tour.</p>\n<p>Vous obtenez un bonus de statut de +2 aux jets de dégâts avec les armes ou les attaques à mains nues.</p>\n<p>Vous obtenez également Guérison accélérée pour un montant égal à la moitié de votre niveau lorsque vous êtes impliqué dans une rencontre de combat non triviale.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer Guérison accélérée manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+            "id": "Effect: Moderate Life Curse",
+            "name": "Effect: Moderate Life Curse",
+            "description": "<p>L’énergie vitale continue à s’écouler de vous et ce phénomène ne peut pas être inversé.</p>\n <p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. En plus des effets de votre malédiction mineure, vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscients, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n <p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<hr />\n<p><em>Note : il vous faut appliquer les effets de cette malédiction manuellement.</em></p>"
         },
         {
-            "id": "Effect: Bones Curse",
-            "name": "Effect: Bones Curse",
+            "id": "Effect: Moderate Spellcasting Ancestor Curse",
+            "name": "Effect: Moderate Spellcasting Ancestor Curse",
+            "description": "<p>Votre ancêtre incantateur devient prédominant. Test nu DD 6</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction modérée</strong> Les sorts qui ne sont pas des tours de magie et qui n’ont pas de durée gagnent un bonus de statut aux dégâts infligés ou aux Points de Vie soignés égal au niveau du sort.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Cosmos Curse",
+            "name": "Effect: Cosmos Curse",
             "description": ""
         },
         {
@@ -327,9 +307,29 @@
             "description": "<p>Avec votre énergie vitale qui s’écoule de votre corps, il est de plus en plus difficile de faire en sorte que celui-ci continue à fonctionner.</p>\n<p>Les effets qui vous rendent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez.</p>\n<hr />\n<p><em>Note : Il est nécessaire d'appliquer manuellement les effets de cette malédiction.</em></p>"
         },
         {
-            "id": "Effect: Major Skillful Ancestor Curse",
-            "name": "Effect: Major Skillful Ancestor Curse",
-            "description": "<p>Votre ancêtre talentueux devient prédominant. Test nu DD 8</p>\n<p>Actions préférées : tests de Perception et de compétences.</p>\n<p><strong>Avantage de la malédiction majeure</strong> Vous gagnez un bonus de statut de +2 aux tests de compétence et de Perception.</p>"
+            "id": "Effect: Hydration",
+            "name": "Effect: Hydration",
+            "description": "<p>Accordé par @Compendium[pf2e.ancestryfeatures.vt67b8uoNEbskcBv]{Hydratation} si vous passez 24 heures en dehors de l'eau.</p>"
+        },
+        {
+            "id": "Effect: Moderate Lore Curse",
+            "name": "Effect: Moderate Lore Curse",
+            "description": "<p>Le flux d’informations à travers votre esprit est encore plus important.</p>\n<p>Vous subissez un malus de -4 à l’initiative : le fait d’analyser un soudain afflux d’informations à propos de ce qui se passe autour de vous ralentit votre réponse.</p>\n<p>Le flux d’informations à travers votre esprit est encore plus important. L’attention que vous portez à toutes ces nouvelles connaissances vous rend constamment @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}.</p>\n<p>Au début de chacun de vos tours, vous effectuez automatiquement un test pour @Compendium[pf2e.actionspf2e.KygTSeDvsFoSO6HW]{Vous Souvenir} par une action libre. Ce test utilise une compétence de votre choix permettant l’action Se Souvenir et un résultat égal à 10 + votre bonus de maîtrise dans cette compétence (aucun aucun autre bonus, malus ou modificateur).</p>\n<hr />\n<p><em>Note : La pénalité aux jets d'initiative est appliquée automatiquement. Vous avez besoin d'appliquer manuellement les effets restants.</em></p>"
+        },
+        {
+            "id": "Effect: Shadow Blood Magic (Stealth)",
+            "name": "Effect: Shadow Blood Magic (Stealth)",
+            "description": "<p>Les ombres sont plus profondes autour de vous ou d'une cible en accordant un bonus de statut de +1 à la Discrétion pendant 1 round.</p>"
+        },
+        {
+            "id": "Effect: Celestial Wings",
+            "name": "Effect: Celestial Wings",
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.vtCrMziYxNyj8kP7]{Ailes célestes}</p>\n<p>Vous obtenez une vitesse de Vol égale à votre Vitesse au sol tant que vos ailes sont ainsi manifestées.</p>"
+        },
+        {
+            "id": "Effect: Draconic Blood Magic",
+            "name": "Effect: Draconic Blood Magic",
+            "description": "<p>Les écailles draconiques grandissent brièvement sur vous ou une cible, lui accordant un bonus de statut de +1 à la CA pendant 1 round.</p>"
         }
     ],
     "mapping": {

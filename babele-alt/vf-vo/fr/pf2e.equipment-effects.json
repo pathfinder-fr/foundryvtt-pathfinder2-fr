@@ -2,284 +2,29 @@
     "label": "Effets de l'équipement",
     "entries": [
         {
-            "id": "Effect: Ablative Armor Plating (Major)",
-            "name": "Effet : Blindage ablatif d'armure majeur (Effect: Ablative Armor Plating (Major))",
-            "description": "<p>Le blindage accorde au porteur de l'armure 30 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
-        },
-        {
-            "id": "Effect: Fire and Iceberg (Greater)",
-            "name": "Effet : Feu et iceberg supérieur (Effect: Fire and Iceberg (Greater))",
-            "description": "<p>Vous obtenez une résistance 10 au feu et au froid pendant 5 minute.</p>"
-        },
-        {
-            "id": "Effect: Ablative Armor Plating (Moderate)",
-            "name": "Effet : Blindage ablatif d'armure modéré (Effect: Ablative Armor Plating (Moderate))",
-            "description": "<p>Le blindage accorde au porteur de l'armure 10 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
-        },
-        {
-            "id": "Effect: Dragonfly Potion",
-            "name": "Effet : Potion libellule (Effect: Dragonfly Potion)",
-            "description": "<p>Vous gagnez une vitesse de vol égale à votre vitesse terrestre.</p>\n<p>En outre, vous gagnez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}, un bonus d'objet de +2 aux tests de Perception visuelle et vous ne pouvez pas être pris en tenaille, sauf par des créatures de niveau supérieur au vôtre (bien que les créatures de niveau inférieur puissent toujours aider leurs alliés de niveau supérieur à vous prendre en tenaille). Ces effets durent 1 minute.</p>"
-        },
-        {
-            "id": "Effect: Glaive of the Artist",
-            "name": "Effet : Glaive de l'Artiste (Effect: Glaive of the Artist)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.J5It6yq3ZkN059zP]{Glaive de l'artiste}.</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Représentation.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Energizing Rune (Electricity)",
-            "name": "Effet : Rune d'énergie d'électricité (Effect: Energizing Rune (Electricity))",
-            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'électricité jusqu'à la fin de votre prochain tour.</p>"
-        },
-        {
-            "id": "Effect: Mudrock Snare (Failure)",
-            "name": "Effet : Piège artisanal de boue solidifiée (Échec) (Effect: Mudrock Snare (Failure))",
-            "description": "<p>La créature subit une pénalité de cironstances de -3 mètres à toutes ses Vitesses ou jusqu'à ce qu'elle s'Échappe (DD 27).</p>"
-        },
-        {
-            "id": "Effect: Storm Chair",
-            "name": "Effet : Chaise de tempête (Effect: Storm Chair)",
-            "description": "<p>Pendant 1 minute, vous gagnez une vitesse de vol égale à votre Vitesse et les créatures adjacentes qui vous frappent avec une attaque au corps-à-corps, ainsi que les créatures qui vous touchent ou vous frappent avec une attaque à mains nues, subissent [[/r {2d6}[electricity]]]{2d6 dégâts d'électricité} à chaque fois. Comme à l'accoutumée, cela s'applique aux créatures qui choisissent de vous toucher et pas lorsque vous touchez ou attaquez une autre créature.</p>"
-        },
-        {
-            "id": "Effect: Lover's Gloves",
-            "name": "Effet : Gants de l'Amant (Effect: Lover's Gloves)",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.nZE16PtiyY7DWlzd]{Gants de l'Amant}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +1 aux jets de sauvegarde</li>\n<li>Vous gagnez 10 points de vie temporaires</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Tanglefoot Bag (Major)",
-            "name": "Effet : Sacoche immobilisante majeur (Effect: Tanglefoot Bag (Major))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.BxJNWWvpxacDIsdt]{Sacoche immobilisante majeur}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -6 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 37.</p>"
-        },
-        {
-            "id": "Effect: Spiderfoot Brew (Major)",
-            "name": "Effet : Infusion de pattes d'araignée majeure (Effect: Spiderfoot Brew (Major))",
-            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, des poils adhésifs poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 7,5 m et un bonus d'objet de +3 aux tests d'Athlétisme pour Grimper pendant 1 heure.</p>"
-        },
-        {
-            "id": "Effect: Impossible Cake (Major)",
-            "name": "Effet : Gâteau de l'impossible majeur (Effect: Impossible Cake (Major))",
-            "description": "<p>Pendant 1 heure après le repas, vous gagnez un bonus d'objet de +4 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
-        },
-        {
-            "id": "Equipment Effect: Greater Healer's Gel",
-            "name": "Effet : Gel du guérisseur supérieur (Equipment Effect: Greater Healer's Gel)",
-            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 15 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
-        },
-        {
-            "id": "Effect: Curse of Potent Poison",
-            "name": "Effet : Malédiction du poison puissant (Effect: Curse of Potent Poison)",
-            "description": "<p>Cette malédiction accélère magiquement le poison dans votre corps.</p>\n<p data-visibility=\"gm\"><strong>Effet</strong>  Vous subissez une pénalité de statut de -1 à vos jets de Vigueur et vous gagnez une faiblesse de 3 au poison (si vous avez déjà une faiblesse au poison, augmentez de 3). La malédiction sera active jusqu'à ce qu'elle soit enlevée par <em>@Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{Délivrance des malédictions}</em> ou magie similaire.</p>"
-        },
-        {
-            "id": "Effect: Nosoi Charm (Lifesense)",
-            "name": "Effet : Charme Nosoi (Détection de la vie) (Effect: Nosoi Charm (Lifesense))",
-            "description": "<p>Vous gagnez Sens de la vie comme un sens imprécis avec une portée de 9 mètres pendant 1 heure, tant que vous continuez à tenir le charme. Cela vous permet de sentir la force vitale qui anime les créatures vivantes et la force perverse qui anime les morts, bien que vous ne puissiez pas faire la distinction entre les deux.</p>"
-        },
-        {
-            "id": "Effect: Nosoi Charm (Diplomacy)",
-            "name": "Effet : Charme de Nosoi (Diplomatie) (Effect: Nosoi Charm (Diplomacy))",
-            "description": "<p>Bonus d'objet de +2 aux tests de Diplomatie pour Solliciter.</p>"
-        },
-        {
-            "id": "Effect: Demon Dust (Stage 1)",
-            "name": "Effet : Poussière de démon (Stade 1) (Effect: Demon Dust (Stage 1))",
-            "description": "<p>La créature gagne un bonus d'objet de +2 aux tests d'Athlétisme</p>"
-        },
-        {
-            "id": "Effect: Raise a Shield",
-            "name": "Effet : Lever un bouclier (Effect: Raise a Shield)",
-            "description": "<p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>"
-        },
-        {
-            "id": "Effect: Enhanced Hearing Aids",
-            "name": "Effet : Appareil auditif augmenté (Effect: Enhanced Hearing Aids)",
-            "description": "<p>Vous augmentez mentalement l'entrée de vos appareils auditifs. Vous gagnez un bonus d'objet de +1 à tous les tests de Perception basés sur l'audition pendant 10 minutes.</p>"
-        },
-        {
-            "id": "Effect: Taljjae's Mask (The General)",
-            "name": "Effet : Masque de Taljjae (le général) (Effect: Taljjae's Mask (The General))",
-            "description": "<p>Le général octroie au porteur un bonus de statut de +3 à ses jets d'attaque avec les armes d'hast pendant 1 minute.</p>"
-        },
-        {
-            "id": "Effect: Exsanguinating Ammunition (Greater)",
-            "name": "Effet : Munition exsangue supérieure (Effect: Exsanguinating Ammunition (Greater))",
-            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 3 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
-        },
-        {
-            "id": "Effect: Belt of the Five Kings (Wearer)",
-            "name": "Effet : Ceinture des cinq rois (Porteur) (Effect: Belt of the Five Kings (Wearer))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YCjVrQnHfOtpmjYW]{Ceinture des cinq rois} si vous êtes le porteur.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un nombre de Points de vie temporaires égal à votre niveau</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Crimson Fulcrum Lens",
-            "name": "Effet : Lentille cramoisie (Effect: Crimson Fulcrum Lens)",
-            "description": "<p>Vous bénéficiez d'un bonus d'objet de +2 aux jets de sauvegarde contre les effets de peur et d'un bonus d'objet de +2 aux dégâts pour vos Frappes au corps-à-corps (bonus d'objet qui passe à +4 aux dégâts si la Frappe au corps-à-corps est une attaque de mâchoires).</p>"
-        },
-        {
-            "id": "Effect: Nosoi Charm (Greater) (Diplomacy)",
-            "name": "Effet : Charme de Nosoi supérieur (Diplomatie) (Effect: Nosoi Charm (Greater) (Diplomacy))",
-            "description": "<p>Vous obtenez un bonus d'objet de +3 aux tests de Diplomatie pour Solliciter.</p>"
-        },
-        {
-            "id": "Effect: Malleable Mixture (Lesser)",
-            "name": "Effet : Mixture de mollesse inférieur (Effect: Malleable Mixture (Lesser))",
-            "description": "<p>vous gagnez un bonus d'objet de +2 à vos DD de Vigueur et de Réflexes contre les tentatives pour vous Saisir, vous Pousser ou de vous faire un Croc-en-jambe pendant 1 minute.</p>"
-        },
-        {
-            "id": "Effect: Spellguard Blade",
-            "name": "Effet : Lame contre-sort (Effect: Spellguard Blade)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.v6LpzpIA0BmKvEtK]{Lame contre-sort}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +1 à la CA.</li>\n<li>Bonus de circonstances de +1 à vos jets de sauvegarde contre les sorts qui vous ciblent</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Thurible of Revelation (Greater)",
-            "name": "Effet : Encensoir de révélation supérieur (Effect: Thurible of Revelation (Greater))",
-            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.VBCk7JXGsuG0cug1]{Encensoir de révélation supérieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +3 aux test de Religion</li>\n</ul>"
-        },
-        {
-            "id": "Spell Effect: Barkskin (Arboreal's Revenge)",
-            "name": "Effet : Peau d'écorce (Vengeance de l'arboréen) (Spell Effect: Barkskin (Arboreal's Revenge))",
-            "description": ""
-        },
-        {
-            "id": "Effect: Aeon Stone (Orange Prism) (Nature)",
-            "name": "Effect: Pierre d'éternité (Prisme orange) (Nature) (Effect: Aeon Stone (Orange Prism) (Nature))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort primordial.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Nature</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Energized Cartridge (Acid)",
-            "name": "Effet : Cartouche énergisée (acide) (Effect: Energized Cartridge (Acid))",
-            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en acide, infligeant des dégâts d'acide au lieu des dégâts habituels plus [[/r {1d6}[persistent,acid]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants d'acide} sur une réussite critique.</p>"
-        },
-        {
-            "id": "Effect: Bracelet of Dashing",
-            "name": "Effet : Bracelets de fougue (Effect: Bracelet of Dashing)",
-            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.BKdzb8hu3kZtKH3Z]{Bracelets de fougue}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de 3 mètres à la Vitesse</li>\n</ul>"
-        },
-        {
             "id": "Effect: Aeon Stone (Black Pearl)",
             "name": "Effet : Pierre d'éternité (Perle noire) (Effect: Aeon Stone (Black Pearl))",
             "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.J7vQowV531Sz73Gw]{Pierre d'éternité (Perle noire)}</p>\n<hr />\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus de statut de +4 à votre jet de sauvegarde contre les effets mentaux.</li>\n</ul>"
         },
         {
-            "id": "Effect: Energy Robe of Electricity",
-            "name": "Effet : Robe d'énergie d'électricité (Effect: Energy Robe of Electricity)",
-            "description": "<p>Vous obtenez une vitesse de vol égale à votre vitesse pendant 1 minute. (par défaut de 7,5 m)</p>"
+            "id": "Effect: Boots of Elvenkind",
+            "name": "Effet : Bottes elfiques (Effect: Boots of Elvenkind)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.T00Xa9aDwHxd60Zh]{Bottes elfiques}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +1,50 mètres à votre Vitesse au sol</li>\n</ul>"
         },
         {
-            "id": "Effect: Fire and Iceberg",
-            "name": "Effet : Feu et iceberg (Effect: Fire and Iceberg)",
-            "description": "<p>Vous obtenez une résistance 5 au feu et au froid pendant 1 minute.</p>"
+            "id": "Effect: Aeon Stone (Orange Prism) (Religion)",
+            "name": "Effect: Pierre d'éternité (Prisme orange) (Religion) (Effect: Aeon Stone (Orange Prism) (Religion))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort divin.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Religion</li>\n</ul>"
         },
         {
-            "id": "Equipment Effect: Chatterer of Follies",
-            "name": "Effet : Bavardeur de folies (Equipment Effect: Chatterer of Follies)",
-            "description": "<p>Jusqu'à la fin de votre tour, cette créature subit une pénalité de statut de -1 aux jets de Volonté contre vos sorts d'enchantement et vos sorts d'illusion.</p>"
+            "id": "Effect: Potency Crystal",
+            "name": "Effet : Cristal de puissance (Effect: Potency Crystal)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]{Cristal de puissance}</p>\n<p>L’arme devient une <em>arme de frappe +1</em> pendant le reste de votre tour. Elle gagne un bonus d’objet de +1 aux jets d’attaque et ses dégâts sur un coup passent à deux fois ses dés de dégâts.</p>"
         },
         {
-            "id": "Equipment Effect: Emberheart",
-            "name": "Effet : Cœur de braise (Equipment Effect: Emberheart)",
-            "description": "<p>Chaque allié dans une @Template[type:emanation|distance:30]{émanation de 9 mètres} regagne [[/r {30}[healing]]]{30 points de vie} et gagne un bonus de statut de +3 à ses jets de Vigueur jusqu'à la fin de son prochain tour.</p>"
-        },
-        {
-            "id": "Effect: Aeon Stone (Orange Prism) (Occultism)",
-            "name": "Effect: Pierre d'éternité (Prisme orange) (Occultisme) (Effect: Aeon Stone (Orange Prism) (Occultism))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort occulte.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Occultisme</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Triton's Conch",
-            "name": "Effet : Conque de triton (Effect: Triton's Conch)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.KLWjINVkWwJlOZEX]{Conque de triton}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus d’objet de +2 aux tests d’Athlétisme pour Nager</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Parry",
-            "name": "Effet : Parade (Effect: Parry)",
-            "description": "<p>Vous vous positionnez de manière défensive, obtenant un bonus de circonstances de +1 à la CA.</p>"
-        },
-        {
-            "id": "Effect: Energizing Rune (Cold)",
-            "name": "Effet : Rune énergisante de froid (Effect: Energizing Rune (Cold))",
-            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de froid jusqu'à la fin de votre prochain tour.</p>"
-        },
-        {
-            "id": "Effect: Exsanguinating Ammunition",
-            "name": "Effet : Munition exsangue (Effect: Exsanguinating Ammunition)",
-            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 1 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
-        },
-        {
-            "id": "Effect: Qat (Stage 1)",
-            "name": "Effet : Qat (Stade 1) (Effect: Qat (Stage 1))",
-            "description": "<p>La créature obtient un bonus d'objet de +1 aux jets de Réflexes.</p>"
-        },
-        {
-            "id": "Effect: Frost Vial (Lesser)",
-            "name": "Effet : Fiole givrée inférieure (Effect: Frost Vial (Lesser))",
-            "description": "<p>La créature subit un malus de statut à ses Vitesses de −1,5 mètres jusqu’à la fin de son prochain tour.</p>"
-        },
-        {
-            "id": "Effect: Emerald Fulcrum Lens (Saving Throw)",
-            "name": "Effet : Lentille à pivot émeraude (jet de sauvegarde) (Effect: Emerald Fulcrum Lens (Saving Throw))",
-            "description": "<p>Pendant 1 round, vous obtenez un bonus d'objet de +1 aux jets d'attaque ,de sauvegarde et aux DD.</p>"
-        },
-        {
-            "id": "Effect: Goggles of Night (Major)",
-            "name": "Effet : Lunettes de nyctalope majeures (Effect: Goggles of Night (Major))",
-            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.rXXNw6dwVn96giDi]{Lunettes de nyctalope majeures}</p>\n<hr />\n<p>Vous obtenez vision dans le noir supérieure, qui dure jusqu'à ce que vous tourniez les verres de nouveau ou que vous n'investissiez plus l'objet selon ce qui se produit en premier.</p>"
-        },
-        {
-            "id": "Effect: Exsanguinating Ammunition (Major)",
-            "name": "Effet : Munition exsangue majeur (Effect: Exsanguinating Ammunition (Major))",
-            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 5 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
-        },
-        {
-            "id": "Effect: Static Snare",
-            "name": "Effet : piège artisanal statique (Effect: Static Snare)",
-            "description": "<p>La cible subit une pénalité de circonstances de -1 à ses jets de sauvegarde contre l'électricité tant qu'elle subit les dégâts d'électricité persistants.</p>"
-        },
-        {
-            "id": "Effect: Deadweight Snare (Failure/Critical Failure)",
-            "name": "Effet : Piège du poids-mort (Échec/Échec critique) (Effect: Deadweight Snare (Failure/Critical Failure))",
-            "description": "<p>La créature subit une pénalité de statut de -2 à ses jets d'Attaque pendant 1 minute ou jusqu'à ce qu'elle réussi à s'Échapper (DD 18)</p>"
-        },
-        {
-            "id": "Effect: Energy Robe of Fire",
-            "name": "Effet : Robe d'énergie de feu (Effect: Energy Robe of Fire)",
-            "description": "<p>Vous obtenez un bonus de statut de +9 m à votre vitesse pendant 1 minute.</p>"
-        },
-        {
-            "id": "Equipment Effect: South Wind's Scorch Song (Damage)",
-            "name": "Effet : Chanson brûlante du vent du sud (Dégâts) (Equipment Effect: South Wind's Scorch Song (Damage))",
-            "description": "<p>Tant que vous bénéficiez d'un bonus de statut à au moins une de vos Vitesses, vos frappes avec ce cimeterre qui inflige des dégâts de feu bénéficient d'un bonus de statut de +2 à leurs dégâts de feu. Le bonus de statut passe à +3 si l'arme possède une rune de Frappe supérieure et à +4 avec une rune de Frappe majeure.</p>\n<hr />\n<p><em>Note : Il n'est pas possible actuellement de faire en sorte que les dégâts augmentent automatiquement lorsque les dés de dégâts augmentent.</em></p>"
-        },
-        {
-            "id": "Equipment Effect: Mask of Allure",
-            "name": "Effet : Masque d'allure (Equipment Effect: Mask of Allure)",
-            "description": ""
-        },
-        {
-            "id": "Effect: Diplomat's Badge",
-            "name": "Effet : Insigne du diplomate (Effect: Diplomat's Badge)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.JJZgRx6naNJmDa81]{Insigne du diplomate}.</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 aux test de diplomatie avec un groupe spécifique</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Clockwork Goggles",
-            "name": "Effet : Lunettes mécaniques (Effect: Clockwork Goggles)",
-            "description": "<p>Vous obtenez vision nocturne pendant 10 minutes.</p>"
-        },
-        {
-            "id": "Effect: Bracers of Missile Deflection",
-            "name": "Effet : Protège-bras de déviation de projectiles (Effect: Bracers of Missile Deflection)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.eurAnvH8bK0ZctOR]{Bracers of Missile Deflection}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Grit (Stage 1)",
-            "name": "Effet : Grit (stade 2) (Effect: Grit (Stage 1))",
-            "description": "<p>La créature gagne un bonus d'objet de +1 aux tests d'Athlétisme, d'Artisanat et de Représentation.</p>"
-        },
-        {
-            "id": "Effect: Protective Barrier",
-            "name": "Effet : Barrière protectrice (Effect: Protective Barrier)",
-            "description": "<p>Accordé par le Pont doré de Vontho</p>\n<p>Bien que les anneaux tourbillonnants du véhicule ne Masquent pas entièrement le pilote, ils offrent une protection incroyable, en maintenant magiquement la température à l'intérieur et en annulant les attaques physiques. Le pilote est protégé contre le froid intense, la chaleur intense, le froid extrême et la chaleur extrême. Le pilote gagne également une résistance de 10 à tous les dégâts physiques (sauf l'adamantium).</p>"
+            "id": "Effect: Shield of the Unified Legion",
+            "name": "Effet : Bouclier de la Légion Unifiée (Effect: Shield of the Unified Legion)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.PlYr5AhYwHIztMw2]{Bouclier de la Légion Unifiée}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus de circonstances de +2 à la CA tant que vous vous trouvez dans un rayon de 9 mètres du porteur du bouclier et que son bouclier est levé</li>\n</ul>"
         },
         {
             "id": "Effect: Kraken's Guard",
@@ -287,64 +32,179 @@
             "description": "<p>Lorsque vous utilisez le bouclier pour Saisir une créature, vous gagnez un bonus d'objet de +3 à votre test d'Athlétisme.</p>"
         },
         {
-            "id": "Effect: Aromatic Ammunition",
-            "name": "Effet : Munition aromatique (Effect: Aromatic Ammunition)",
-            "description": "<p>Les composants de cette munition émettent une forte odeur lorsqu'ils sont combinés durant son activation. Une créature touchée par une munition aromatique activée dégage une odeur distinctive pendant 1 heure au maximum ou jusqu'à ce que l'odeur soit lavée (ce qui nécessite au moins 4,5 litres d'eau et 10 minutes de récurage). Toutes les créatures situées dans un rayon de 9 mètres sentent la cible, ce qui permet même à celles dont l'odorat est faible de détecter sa présence et toutes les créatures gagnent un bonus d'objet de +1 pour Pister la créature affectée tant qu'elle a l'odeur. Une créature qui a Odorat imprécis ou précis double la portée à laquelle elle peut détecter la cible.</p>"
+            "id": "Effect: Thurible of Revelation (Greater)",
+            "name": "Effet : Encensoir de révélation supérieur (Effect: Thurible of Revelation (Greater))",
+            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.VBCk7JXGsuG0cug1]{Encensoir de révélation supérieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +3 aux test de Religion</li>\n</ul>"
         },
         {
-            "id": "Effect: Impossible Cake",
-            "name": "Effet : Gâteau de l'impossible (Effect: Impossible Cake)",
-            "description": "<p>Pendant 10 minutes après le repas, vous gagnez un bonus d'objet de +2 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
+            "id": "Effect: Cloak of Elvenkind (Greater)",
+            "name": "Effet : Cape elfique supérieure (Effect: Cloak of Elvenkind (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZelCRLDI6M5IfjAI]{Cape elfique supérieure}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Discrétion.</li>\n</ul>"
         },
         {
-            "id": "Effect: Apricot of Bestial Might",
-            "name": "Effet : Abricot de puissance bestiale (Effect: Apricot of Bestial Might)",
-            "description": ""
+            "id": "Effect: Ablative Armor Plating (Moderate)",
+            "name": "Effet : Blindage ablatif d'armure modéré (Effect: Ablative Armor Plating (Moderate))",
+            "description": "<p>Le blindage accorde au porteur de l'armure 10 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
         },
         {
-            "id": "Equipment Effect: Potion of Stable Form",
-            "name": "Effet : Potion de forme stable (Equipment Effect: Potion of Stable Form)",
-            "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +2 contre les effets de transmutation et de +3 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
+            "id": "Effect: Exsanguinating Ammunition (Greater)",
+            "name": "Effet : Munition exsangue supérieure (Effect: Exsanguinating Ammunition (Greater))",
+            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 3 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
         },
         {
-            "id": "Effect: Grit (Stage 3)",
-            "name": "Effet : Grit (stade 3) (Effect: Grit (Stage 3))",
-            "description": "<p>La créature subit une pénalité d'objet de -4 au test de Perception.</p>"
+            "id": "Effect: Frost Vial (Lesser)",
+            "name": "Effet : Fiole givrée inférieure (Effect: Frost Vial (Lesser))",
+            "description": "<p>La créature subit un malus de statut à ses Vitesses de −1,5 mètres jusqu’à la fin de son prochain tour.</p>"
         },
         {
-            "id": "Effect: Rowan Rifle (Sonic)",
-            "name": "Effet : Fusil de Rowan (sonique) (Effect: Rowan Rifle (Sonic))",
-            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts de son. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
+            "id": "Equipment Effect: Greater Potion of Stable Form",
+            "name": "Effet : Potion de forme stable supérieure (Equipment Effect: Greater Potion of Stable Form)",
+            "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +3 contre les effets de transmutation, et de +4 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
         },
         {
-            "id": "Effect: Energizing Rune (Acid)",
-            "name": "Effet : Rune énergisante d'acide (Effect: Energizing Rune (Acid))",
-            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'acide jusqu'à la fin de votre prochain tour.</p>"
+            "id": "Effect: Dueling Cape",
+            "name": "Effet : Cape de duel (Effect: Dueling Cape)",
+            "description": "<p>Accordé par l'utilisation de @Compendium[pf2e.equipment-srd.DA3HgyEBGEbtRNOo]{Cape de duel}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus de circonstances de +1 pour Feinter</li>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
         },
         {
-            "id": "Effect: Frost Vial (Greater)",
-            "name": "Effet : Fiole givrée supérieure (Effect: Frost Vial (Greater))",
-            "description": "<p>La créature subit un malus de statut de -3 mètres à ses Vitesses jusqu’à la fin de son prochain tour.</p>"
+            "id": "Effect: Energizing Rune (Electricity)",
+            "name": "Effet : Rune d'énergie d'électricité (Effect: Energizing Rune (Electricity))",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'électricité jusqu'à la fin de votre prochain tour.</p>"
         },
         {
-            "id": "Effect: Blast Boots (Major)",
-            "name": "Effet : Bottes d'explosion majeures (Effect: Blast Boots (Major))",
-            "description": "<p>Pendant 1 minute, les bottes d'explosions majeures vous permettent de voler maladroitement dans les airs. Vous obtenez une vitesse de vol de 9 mètres pendant la durée mais chaque fois que vous @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volez}, vous êtes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} jusqu'au début de votre prochain tour.</p>"
+            "id": "Equipment Effect: Flask of Fellowship",
+            "name": "Effet : Gourde de fraternité (Equipment Effect: Flask of Fellowship)",
+            "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Diplomatie.</p>"
         },
         {
-            "id": "Effect: Clandestine Cloak",
-            "name": "Effet : Cape de clandestinité (Effect: Clandestine Cloak)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hmmDa6LCS22dZT7P]{Cape de clandestinité}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +1 aux tests de Discrétion+1 item bonus to Stealth checks</li>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
+            "id": "Equipment Effect: Greater Healer's Gel",
+            "name": "Effet : Gel du guérisseur supérieur (Equipment Effect: Greater Healer's Gel)",
+            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 15 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
         },
         {
-            "id": "Effect: Winged Boots",
-            "name": "Effet : Bottes ailées (Effect: Winged Boots)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.aKoMqPDmVzPI7Q20]{Bottes ailées}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une une Vitesse de vol de 9 mètres</li>\n</ul>"
+            "id": "Effect: Glamorous Buckler",
+            "name": "Effet : Targe étincelante (Effect: Glamorous Buckler)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.IxuDS3POB6EH8TVN]{Targe étincelante}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Feinter</li>\n</ul>"
         },
         {
-            "id": "Effect: Frost Vial (Moderate)",
-            "name": "Effet : Fiole givrée modérée (Effect: Frost Vial (Moderate))",
-            "description": "<p>La créature subit un malus de statut de -3 mètres à ses Vitesses jusqu’à la fin de son prochain tour.</p>"
+            "id": "Effect: Raise a Shield",
+            "name": "Effet : Lever un bouclier (Effect: Raise a Shield)",
+            "description": "<p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>"
+        },
+        {
+            "id": "Equipment Effect: Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes (Equipment Effect: Five-Feather Wreath)",
+            "description": "<p>Vous obtenez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 2 aux dégâts de chute.</p>"
+        },
+        {
+            "id": "Effect: Energized Cartridge (Fire)",
+            "name": "Effet : Cartouche énergisée (feu) (Effect: Energized Cartridge (Fire))",
+            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en feu, infligeant des dégâts de feu au lieu des dégâts habituels plus [[/r {1d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants de feu} sur une réussite critique.</p>"
+        },
+        {
+            "id": "Effect: Sarkorian God-Caller Garb",
+            "name": "Effet : Tenue d'invocateur divin Sarkorien (Effect: Sarkorian God-Caller Garb)",
+            "description": "<p>Tant qu'elle se trouve à 9 mètres de vous, la créature invoquée gagne un bonus de statut de +1 à la CA. Si jamais elle s'éloigne de plus de 9 mètres de vous, le sigil s'estompe et la créature perd le bonus de statut à la CA, même si elle revient plus tard à moins de 9 mètres de vous.</p>"
+        },
+        {
+            "id": "Effect: Exsanguinating Ammunition",
+            "name": "Effet : Munition exsangue (Effect: Exsanguinating Ammunition)",
+            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 1 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
+        },
+        {
+            "id": "Effect: Red-Rib Gill Mask (Moderate)",
+            "name": "Effet : Masque branchies de côte rouge modéré (Effect: Red-Rib Gill Mask (Moderate))",
+            "description": "<p>Après avoir activé le masque, pendant 1 heure, vous obtenez un bonus d'objet de +2 aux jets de Vigueur contre les effets inhalés ; ce bonus est de +3 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires à la discrétion du MJ.</p>"
+        },
+        {
+            "id": "Effect: Holy Steam Ball",
+            "name": "Effet : Bille de vapeur sacrée (Effect: Holy Steam Ball)",
+            "description": "<p>Chaque utilisation de la bille de vapeur sacrée dure 1 heure et vous confère un bonus d'objet de +2 aux jets de Volonté contre les effets de possession des démons et des morts-vivants et les effets des démons et des morts-vivants qui provoquent l'état Contrôlé.</p>"
+        },
+        {
+            "id": "Effect: Euryale (Curse) Card",
+            "name": "Effet : Carte Euryale (Malédiction) (Effect: Euryale (Curse) Card)",
+            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (malédiction)} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : -1 à tous les jets de sauvegarde.</p>"
+        },
+        {
+            "id": "Effect: Goggles of Night (Major)",
+            "name": "Effet : Lunettes de nyctalope majeures (Effect: Goggles of Night (Major))",
+            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.rXXNw6dwVn96giDi]{Lunettes de nyctalope majeures}</p>\n<hr />\n<p>Vous obtenez vision dans le noir supérieure, qui dure jusqu'à ce que vous tourniez les verres de nouveau ou que vous n'investissiez plus l'objet selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "Effect: Spellguard Shield",
+            "name": "Effet : Bouclier Gardesort (Effect: Spellguard Shield)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Bouclier Gardesort}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n<li>Bonus du circonstances de +2 aux jets de sauvegarde contre les sorts</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Disarm (Success)",
+            "name": "Effet : Désarmer (succès) (Effect: Disarm (Success))",
+            "description": "<p>La cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.</p>"
+        },
+        {
+            "id": "Effect: Energized Cartridge (Acid)",
+            "name": "Effet : Cartouche énergisée (acide) (Effect: Energized Cartridge (Acid))",
+            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en acide, infligeant des dégâts d'acide au lieu des dégâts habituels plus [[/r {1d6}[persistent,acid]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants d'acide} sur une réussite critique.</p>"
+        },
+        {
+            "id": "Effect: Demon Dust (Stage 2)",
+            "name": "Effet : Poussière de démon (Stade 2) (Effect: Demon Dust (Stage 2))",
+            "description": "<p>La créature gagne un bonus d'objet de +2 aux tests d'Athlétisme</p>"
+        },
+        {
+            "id": "Effect: Ivory Baton",
+            "name": "Effet: Bâton d'ivoire (Effect: Ivory Baton)",
+            "description": "<p>la créature artificielle bénéficie d'un bonus de statut de +1 aux jets d'attaque, aux jets de dégâts et aux jets de sauvegarde (sauf les jets de sauvegarde contre le bâton d'ivoire).</p>"
+        },
+        {
+            "id": "Effect: Stalwart's Ring",
+            "name": "Effet : Anneau de résolution (Effect: Stalwart's Ring)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bhpYiOmBysl8ZEYn]{Anneau de résolution}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez 5 points de vie temporaires</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Belt of the Five Kings (Allies)",
+            "name": "Effet : Ceinture des cinq rois (Alliés) (Effect: Belt of the Five Kings (Allies))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YCjVrQnHfOtpmjYW]{Ceinture des cinq rois} si votre allié l'active.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Jack's Tattered Cape",
+            "name": "Effet : Cape en loques de Jack (Effect: Jack's Tattered Cape)",
+            "description": "<p>Vous gagnez un bonus d'objet de +1 à vos tests de Discrétion pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ou @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}</p>"
+        },
+        {
+            "id": "Effect: Tanglefoot Bag (Greater)",
+            "name": "Effet : Sacoche immobilisante supérieur (Effect: Tanglefoot Bag (Greater))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.5Qkz4RVJr2Kx3RL6]{Sacoche immobilisante supérieur)}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -4,5 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 28.</p>"
+        },
+        {
+            "id": "Effect: Taljjae's Mask (The General)",
+            "name": "Effet : Masque de Taljjae (le général) (Effect: Taljjae's Mask (The General))",
+            "description": "<p>Le général octroie au porteur un bonus de statut de +3 à ses jets d'attaque avec les armes d'hast pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Slippers of Spider Climbing",
+            "name": "Effet : Chaussons de l'araignée (Effect: Slippers of Spider Climbing)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.skBa6D1uxb0b2USn]{Chaussons de l'araignée}</p>\n<hr />\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>Vous obtenez une Vitesse d’escalade de 6 mètres.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Parry",
+            "name": "Effet : Parade (Effect: Parry)",
+            "description": "<p>Vous vous positionnez de manière défensive, obtenant un bonus de circonstances de +1 à la CA.</p>"
+        },
+        {
+            "id": "Effect: Energy Robe of Electricity",
+            "name": "Effet : Robe d'énergie d'électricité (Effect: Energy Robe of Electricity)",
+            "description": "<p>Vous obtenez une vitesse de vol égale à votre vitesse pendant 1 minute. (par défaut de 7,5 m)</p>"
+        },
+        {
+            "id": "Effect: Sulfur Bomb (Failure)",
+            "name": "Effet : Bombe de soufre (Échec) (Effect: Sulfur Bomb (Failure))",
+            "description": "<p>La cible subit une pénalité de statut de -1 aux tests de Perception et aux jets d'attaque jusqu'à la fin de son prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Silkspinner's Shield (Climb)",
+            "name": "Effet : Bouclier de la fileuse de soie (Escalade) (Effect: Silkspinner's Shield (Climb))",
+            "description": "<p>Huit pattes d'araignée jaillissent du bord du bouclier vous accordant une vitesse d'escalade de 7,5 mètres jusqu'à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Effect: Hyldarf's Fang",
@@ -352,9 +212,164 @@
             "description": "<p>Vous invoquez le pouvoir de Hyldarf afin de gagner la magie d'un linnorm pendant un court moment. Pendant 1 minute vous obtenez les effets de <em>@Compendium[pf2e.spells-srd.A2JfEKe6BZcTG1S8]{Vol}</em>, <em>@Compendium[pf2e.spells-srd.aqRYNoSvxsVfqglH]{Liberté de mouvement}</em> et <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide}</em> ainsi qu'une résistance au feu de 20.</p>"
         },
         {
+            "id": "Effect: Winged Boots",
+            "name": "Effet : Bottes ailées (Effect: Winged Boots)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.aKoMqPDmVzPI7Q20]{Bottes ailées}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une une Vitesse de vol de 9 mètres</li>\n</ul>"
+        },
+        {
+            "id": "Equipment Effect: Greater Codex of Unimpeded Sight",
+            "name": "Effet : Codex de vision sans entraves supérieur (Equipment Effect: Greater Codex of Unimpeded Sight)",
+            "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Perception pour Chercher ou à votre test pour Se souvenir.</p>"
+        },
+        {
+            "id": "Effect: Nosoi Charm (Lifesense)",
+            "name": "Effet : Charme Nosoi (Détection de la vie) (Effect: Nosoi Charm (Lifesense))",
+            "description": "<p>Vous gagnez Sens de la vie comme un sens imprécis avec une portée de 9 mètres pendant 1 heure, tant que vous continuez à tenir le charme. Cela vous permet de sentir la force vitale qui anime les créatures vivantes et la force perverse qui anime les morts, bien que vous ne puissiez pas faire la distinction entre les deux.</p>"
+        },
+        {
+            "id": "Equipment Effect: South Wind's Scorch Song (Speed Boost)",
+            "name": "Effet : Chanson brûlante du vent du sud (Boost de vitesse) (Equipment Effect: South Wind's Scorch Song (Speed Boost))",
+            "description": "<p>Vous gagnez un bonus de statut de +3 mètres à votre Vitesse.</p>\n<p>Tant que vous bénéficiez d'un bonus de statut à au moins une de vos Vitesses, vos frappes avec ce cimeterre qui inflige des dégâts de feu bénéficient d'un bonus de statut de +2 à leurs dégâts de feu. Le bonus de statut passe à +3 si l'arme possède une rune de Frappe supérieure et à +4 avec une rune de Frappe majeure.</p>\n<hr />\n<p><em>Note : L'augmentation de base de +2 des dégâts est incluse dans cet effet. Il n'est actuellement pas possible de faire en sorte qu'il augmente automatiquement.</em></p>"
+        },
+        {
+            "id": "Effect: Grit (Stage 1)",
+            "name": "Effet : Grit (stade 2) (Effect: Grit (Stage 1))",
+            "description": "<p>La créature gagne un bonus d'objet de +1 aux tests d'Athlétisme, d'Artisanat et de Représentation.</p>"
+        },
+        {
+            "id": "Effect: Energized Cartridge (Cold)",
+            "name": "Effet : Cartouche énergisée (froid) (Effect: Energized Cartridge (Cold))",
+            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en glace, infligeant des dégâts de froid au lieu des dégâts habituels plus [[/r {1d6}[persistent,cold]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants de froid} sur une réussite critique.</p>"
+        },
+        {
+            "id": "Effect: Shrine Inarizushi",
+            "name": "Effet : Autel d'Inarizushi (Effect: Shrine Inarizushi)",
+            "description": "<p>Lorsque vous êtes en mode exploration, faites un test pour @Compendium[pf2e.actionspf2e.TiNDYUGlMmxzxBYU]{Chercher} séparément avec un bonus de statut de +1 ; cela n'affecte pas votre Vitesse. Si le test est un succès, un renard apparaît pour vous informer de sa découverte du mieux qu'il peut, bien qu'il ne puisse parler.</p>"
+        },
+        {
+            "id": "Effect: Glittering Snare (Failure)",
+            "name": "Effet : Piège scintillant (Échec) (Effect: Glittering Snare (Failure))",
+            "description": "<p>La créature subit une pénalité de statut de -2 aux tests de Discrétion pendant 2 minutes ou jusqu'à ce qu'elle dépense 2 actions qui possèdent le trait Manipulation pour enlever les paillettes. Si la créature était @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, les paillettes soulignent ses contours pendant 1 round, ce qui la rend @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachée} plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} aux sens visuels.</p>"
+        },
+        {
+            "id": "Effect: Aromatic Ammunition",
+            "name": "Effet : Munition aromatique (Effect: Aromatic Ammunition)",
+            "description": "<p>Les composants de cette munition émettent une forte odeur lorsqu'ils sont combinés durant son activation. Une créature touchée par une munition aromatique activée dégage une odeur distinctive pendant 1 heure au maximum ou jusqu'à ce que l'odeur soit lavée (ce qui nécessite au moins 4,5 litres d'eau et 10 minutes de récurage). Toutes les créatures situées dans un rayon de 9 mètres sentent la cible, ce qui permet même à celles dont l'odorat est faible de détecter sa présence et toutes les créatures gagnent un bonus d'objet de +1 pour Pister la créature affectée tant qu'elle a l'odeur. Une créature qui a Odorat imprécis ou précis double la portée à laquelle elle peut détecter la cible.</p>"
+        },
+        {
+            "id": "Effect: Dragonfly Potion",
+            "name": "Effet : Potion libellule (Effect: Dragonfly Potion)",
+            "description": "<p>Vous gagnez une vitesse de vol égale à votre vitesse terrestre.</p>\n<p>En outre, vous gagnez @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne}, un bonus d'objet de +2 aux tests de Perception visuelle et vous ne pouvez pas être pris en tenaille, sauf par des créatures de niveau supérieur au vôtre (bien que les créatures de niveau inférieur puissent toujours aider leurs alliés de niveau supérieur à vous prendre en tenaille). Ces effets durent 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Bracers of Missile Deflection",
+            "name": "Effet : Protège-bras de déviation de projectiles (Effect: Bracers of Missile Deflection)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.eurAnvH8bK0ZctOR]{Bracers of Missile Deflection}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Tteokguk of Time Advancement",
+            "name": "Effet : Tteokguk du déroulement du temps (Effect: Tteokguk of Time Advancement)",
+            "description": "<p>Vous gagnez un bonus de statut de +4 aux tests de Duperie pour passer pour quelqu'un de l'âge choisi et vous pouvez ajouter votre niveau comme bonus de compétence à de tels tests si vous êtes inexpérimenté.</p>"
+        },
+        {
+            "id": "Equipment Effect: Chatterer of Follies",
+            "name": "Effet : Bavardeur de folies (Equipment Effect: Chatterer of Follies)",
+            "description": "<p>Jusqu'à la fin de votre tour, cette créature subit une pénalité de statut de -1 aux jets de Volonté contre vos sorts d'enchantement et vos sorts d'illusion.</p>"
+        },
+        {
+            "id": "Effect: Red-Rib Gill Mask (Lesser)",
+            "name": "Effet : Masque branchies de côte rouge inférieur (Effect: Red-Rib Gill Mask (Lesser))",
+            "description": "<p>Après avoir activé le masque, vous obtenez un bonus d'objet de +1 aux jets de Vigueur contre les effets inhalés ;  ce bonus est de +2 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires (à la discrétion du MJ).</p>"
+        },
+        {
+            "id": "Effect: Energy Robe of Fire",
+            "name": "Effet : Robe d'énergie de feu (Effect: Energy Robe of Fire)",
+            "description": "<p>Vous obtenez un bonus de statut de +9 m à votre vitesse pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Tanglefoot Bag (Major)",
+            "name": "Effet : Sacoche immobilisante majeur (Effect: Tanglefoot Bag (Major))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.BxJNWWvpxacDIsdt]{Sacoche immobilisante majeur}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -6 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 37.</p>"
+        },
+        {
             "id": "Equipment Effect: Phoenix Flask",
             "name": "Effet : Flasque de phénix (Equipment Effect: Phoenix Flask)",
             "description": "<p>Pendant 1 minute, vous gagnez une vitesse de vol de 12 mètres. La première fois au cours de chaque round où vous volez (y compris pour faire du surplace), vous répandez des plumes brûlantes qui infligent [[/r {3d4}[fire]]]{3d4 dégâts de feu} à toutes les créatures dans une @Template[type:emanation|distance:10]{émanation de 3 mètres} à la fin de votre déplacement (@Check[type:reflex|dc:29|basic:true|name:Plumes de la flasque de phénix|showDC:all]{Jet de Réflexes basique} DD 29).</p>"
+        },
+        {
+            "id": "Equipment Effect: Orchestral Brooch",
+            "name": "Effet : Broche orchestrale (Equipment Effect: Orchestral Brooch)",
+            "description": "<p>Vous obtenez un bonus de statut de +1 à votre test de Représentation. Si vous obtenez un succès, vous obtenez un succès critique à la place.</p>"
+        },
+        {
+            "id": "Effect: Ochre Fulcrum Lens",
+            "name": "Effet : Lentille à pivot ocre (Effect: Ochre Fulcrum Lens)",
+            "description": "<p>Vous obtenez un bonus de staute de +2 aux jets de sauegarde contre des effets d'émotion et une résistance de 10 aux dégâts mentaux</p>\n<ul>\n<li>La résistance aux dégâts mentaux n'est pas automatisée</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Major Fanged Rune Animal Form",
+            "name": "Effet : Forme d'animal de rune de crocs majeur (Effect: Major Fanged Rune Animal Form)",
+            "description": "<p>Vous vous transformez en un animal de taille Petite ou Moyenne qui manie l'arme à crocs dans ses mâchoires ; l'animal correspond à celui auquel vous êtes le plus étroitement associé (un homme-lézard se transforme en lézard, un kitsune en renard, un barbare instinct de cerf en cerf, etc.) ou en loup si aucun animal spécifique n'est applicable. Lorsque vous êtes sous cette forme, vous pouvez attaquer avec l'arme à crocs même si vous n'avez pas de mains. Cependant, vous ne pouvez attaquer qu'avec l'arme à crocs et vous n'avez pas de mains ni la capacité de tenir des objets. Pour les effets qui dépendent du nombre de mains que vous utilisez pour tenir l'objet, comme le trait à deux mains, vous considérez que vous tenez l'arme à deux mains. Vous pouvez Révoquer cet effet, et il prend fin automatiquement si vous lâchez l'arme à crocs (que ce soit volontaire ou non).</p>\n<p>Sous forme animale, vous obtenez vision nocturne, Odorat imrécis à une portée de 9 mètres et un bonus d'objet de +3 mètres à votre Vitesse.</p>"
+        },
+        {
+            "id": "Effect: Thurible of Revelation",
+            "name": "Effet : Encensoir de révélation inférieur (Effect: Thurible of Revelation)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xaWuuQoBJiMLzggR]{Encensoir de révélation inférieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux test de Religion</li>\n</ul>"
+        },
+        {
+            "id": "Equipment Effect: Moderate Healer's Gel",
+            "name": "Effet : Gel du guérisseur modéré (Equipment Effect: Moderate Healer's Gel)",
+            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 10 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
+        },
+        {
+            "id": "Equipment Effect: Sage's Lash (Turquoise)",
+            "name": "Effet : Ceinture du sage (turquoise) (Equipment Effect: Sage's Lash (Turquoise))",
+            "description": "<p>Prononcez le mot \"Clarté\" pour accorder à toutes les personnes affectées un bonus de statut de +2 à leur prochain jet de Volonté pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Nosoi Charm (Diplomacy)",
+            "name": "Effet : Charme de Nosoi (Diplomatie) (Effect: Nosoi Charm (Diplomacy))",
+            "description": "<p>Bonus d'objet de +2 aux tests de Diplomatie pour Solliciter.</p>"
+        },
+        {
+            "id": "Effect: Energized Cartridge (Electricity)",
+            "name": "Effet : Cartouche énergisée (électricité) (Effect: Energized Cartridge (Electricity))",
+            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en électricité, infligeant des dégâts d'électricité au lieu des dégâts habituels plus [[/r {1d6}[persistent,electricity]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants d'électricité} sur une réussite critique.</p>"
+        },
+        {
+            "id": "Effect: Ablative Armor Plating (Lesser)",
+            "name": "Effet : Blindage ablatif d'armure inférieur (Effect: Ablative Armor Plating (Lesser))",
+            "description": "<p>Le blindage accorde au porteur de l'armure 5 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+        },
+        {
+            "id": "Effect: Fire and Iceberg (Major)",
+            "name": "Effet : Feu et iceberg majeur (Effect: Fire and Iceberg (Major))",
+            "description": "<p>Vous obtenez une résistance 15 au feu et au froid pendant 10 minutes.</p>"
+        },
+        {
+            "id": "Effect: Skyrider Sword",
+            "name": "Effet : Chevaucheur d'épée (Effect: Skyrider Sword)",
+            "description": "<p>Vous bondissez sur votre épée qui s'envole dans les airs pendant un maximum de 10 minutes. Vous gagnez une vitesse de vol de 7,5 mètres ou égale à votre vitesse terrestre si elle est plus lente, mais vous ne pouvez pas Frapper avec votre arme, sauf via l'autre activation de l'arme (voir ci-dessous). Vous pouvez Révoquer l'activation, et elle se termine automatiquement si vous cessez de tenir l'arme avec au moins une main.</p>"
+        },
+        {
+            "id": "Effect: Rowan Rifle (Cold)",
+            "name": "Effet : Fusil de Rowan (froid) (Effect: Rowan Rifle (Cold))",
+            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts de froid. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
+        },
+        {
+            "id": "Effect: Sylvan Wine",
+            "name": "Effet : Vin sylvestre (Effect: Sylvan Wine)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.5SxhwivDVTwV5O0F]{Outre de vin sylvestre}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde Volonté</li>\n<li>Bonus d'objet de +3 aux jets de sauvegarde Volonté contre contre les effets de peur</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Lover's Gloves",
+            "name": "Effet : Gants de l'Amant (Effect: Lover's Gloves)",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.nZE16PtiyY7DWlzd]{Gants de l'Amant}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +1 aux jets de sauvegarde</li>\n<li>Vous gagnez 10 points de vie temporaires</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Vaultbreaker's Harness",
+            "name": "Effet : Harnais du brise-coffre (Effect: Vaultbreaker's Harness)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.LmveO9fSuEnkMKAH]{Harnais du brise-coffre}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Furtivité</li>\n<li>Bonus d'objet de +4,5 mètres à votre Vitesse</li>\n</ul>"
         },
         {
             "id": "Effect: Frost Vial (Major)",
@@ -362,14 +377,189 @@
             "description": "<p>Une cible touchée subit un malus de statut de -4,5 mètres à ses Vitesses jusqu’à la fin de son prochain tour.</p>"
         },
         {
-            "id": "Effect: Arboreal's Revenge (Speed Penalty)",
-            "name": "Effet : Vengeance de l'arboréen (pénalité à la vitesse) (Effect: Arboreal's Revenge (Speed Penalty))",
-            "description": "<p>En cas d'échec, une pénalité de -3 mètres à la vitesse est appliquée vu que des racines émergent rapidement des blessures, jusqu'à ce qu'une tentative pour @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{s'Échapper} (DD 20) réussisse.</p>"
+            "id": "Effect: Skyrider Sword (Greater)",
+            "name": "Effet : Chevaucheur d'épée supérieur (Effect: Skyrider Sword (Greater))",
+            "description": "<p>Vous bondissez sur votre épée qui s'envole dans les airs. Vous gagnez une vitesse de vol de 7,5 mètres ou égale à votre vitesse terrestre si elle est plus lente, mais vous ne pouvez pas Frapper avec votre arme, sauf via l'autre activation de l'arme (voir ci-dessous). Vous pouvez Révoquer l'activation, et elle se termine automatiquement si vous cessez de tenir l'arme avec au moins une main.</p"
         },
         {
-            "id": "Effect: Inspiring Spotlight",
-            "name": "Effet : Projecteur inspirant (Effect: Inspiring Spotlight)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.M1fRjN7E3P55zvmc]{Inspiring Spotlight}.</p>\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde</li>\n<li>Bonus d'objet de +1 aux tests de compétence basés sur le Charisme (Diplomatie, Duperie, Intimidation, Représentation)</li>\n</ul>"
+            "id": "Effect: Ablative Armor Plating (True)",
+            "name": "Effet : Blindage ablatif d'armure ultime (Effect: Ablative Armor Plating (True))",
+            "description": "<p>Le blindage accorde au porteur de l'armure 40 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+        },
+        {
+            "id": "Effect: Energizing Rune (Acid)",
+            "name": "Effet : Rune énergisante d'acide (Effect: Energizing Rune (Acid))",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'acide jusqu'à la fin de votre prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Qat (Stage 1)",
+            "name": "Effet : Qat (Stade 1) (Effect: Qat (Stage 1))",
+            "description": "<p>La créature obtient un bonus d'objet de +1 aux jets de Réflexes.</p>"
+        },
+        {
+            "id": "Effect: Grit (Stage 3)",
+            "name": "Effet : Grit (stade 3) (Effect: Grit (Stage 3))",
+            "description": "<p>La créature subit une pénalité d'objet de -4 au test de Perception.</p>"
+        },
+        {
+            "id": "Effect: Throne Card",
+            "name": "Effet : Carte trône (Effect: Throne Card)",
+            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.IJ3nFDu2YcoP6ynd]{Trône} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : bonus de statut de +4 à la Diplomatie</p>"
+        },
+        {
+            "id": "Effect: Demon Dust (Stage 1)",
+            "name": "Effet : Poussière de démon (Stade 1) (Effect: Demon Dust (Stage 1))",
+            "description": "<p>La créature gagne un bonus d'objet de +2 aux tests d'Athlétisme</p>"
+        },
+        {
+            "id": "Effect: Enhanced Hearing Aids",
+            "name": "Effet : Appareil auditif augmenté (Effect: Enhanced Hearing Aids)",
+            "description": "<p>Vous augmentez mentalement l'entrée de vos appareils auditifs. Vous gagnez un bonus d'objet de +1 à tous les tests de Perception basés sur l'audition pendant 10 minutes.</p>"
+        },
+        {
+            "id": "Effect: Taljjae's Mask (The Hero)",
+            "name": "Effet : Masque de Taljjae (le héros) (Effect: Taljjae's Mask (The Hero))",
+            "description": "<p>Le héros octroie au porteur un bonus de statut de +3 à ses jets d'attaques avec des arcs pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Ebon Fulcrum Lens (Reaction)",
+            "name": "Effet : Lentille à pivot ébène (Réaction) (Effect: Ebon Fulcrum Lens (Reaction))",
+            "description": "<p>Pendant les 24 heures qui suivent votre rajeunissement, vous gagnez un bonus d'objet de +1 aux jets d'attaque, aux jets de sauvegarde et aux DD.</p>"
+        },
+        {
+            "id": "Effect: Improvised Weapon",
+            "name": "Effet : Arme improvisée (Effect: Improvised Weapon)",
+            "description": "<p>Applique une pénalité de -2 aux jets d'attaque avec toute arme qui porte le trait \"improvised\".</p>\n<p>Choisir dans l'inventaire ou dans le compendium l'arme que vous voulez émuler : par exemple un \"bâton\" si vous avez une branche, une \"matraque\" si vous prenez une bouteille, une dague si vous prenez une \"stalactite\", placez le dans l'inventaire.</p>\n<p>dans l'onglet détails de ladite arme, éditez les traits pour ajouter tout en bas \"improvised\" (en anglais) qui n'est pas actuellement dans la liste (une demande d'intégration est en cours).</p>\n<p>glisser déposer l'effet sur le jeton de votre PJ.</p>\n<p>Une petite animation apparaîtra pour vous dire que l'effet est actif. Une pelle apparaîtra. Cela vous permettra d'activer ou non l'effet lors de la Frappe avec l'arme improvisée.</p>\n<p>Pour désactiver l'effet, un clic droit sur l'icône suffit pelle.</p>"
+        },
+        {
+            "id": "Effect: Clandestine Cloak",
+            "name": "Effet : Cape de clandestinité (Effect: Clandestine Cloak)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hmmDa6LCS22dZT7P]{Cape de clandestinité}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +1 aux tests de Discrétion+1 item bonus to Stealth checks</li>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Red-Rib Gill Mask (Greater)",
+            "name": "Effet : Masque branchies de côte rouge supérieur (Effect: Red-Rib Gill Mask (Greater))",
+            "description": "<p>Après avoir activé le masque, vous obtenez un bonus d'objet de +3 aux jets de Vigueur contre les effets inhalés ; ce bonus est de +4 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires à la discrétion du MJ.</p>"
+        },
+        {
+            "id": "Effect: Deadweight Snare (Failure/Critical Failure)",
+            "name": "Effet : Piège du poids-mort (Échec/Échec critique) (Effect: Deadweight Snare (Failure/Critical Failure))",
+            "description": "<p>La créature subit une pénalité de statut de -2 à ses jets d'Attaque pendant 1 minute ou jusqu'à ce qu'elle réussi à s'Échapper (DD 18)</p>"
+        },
+        {
+            "id": "Effect: Cloak of the Bat",
+            "name": "Effet : Cape de la chauve-souris (Effect: Cloak of the Bat)",
+            "description": "<p>Zccordé par @Compendium[pf2e.equipment-srd.dipcMOtBFxtmsjkS]{Cape de la chauve-souris}</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Goggles of Night (Greater)",
+            "name": "Effet : Lunettes de nycatlope supérieures (Effect: Goggles of Night (Greater))",
+            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.Tej30MsQo8Ek9aA6]{Lunettes de nyctalope supérieures}</p>\n<hr />\n<p>Vous obtenez Vision dans le noir jusqu'à ce que vous fassiez tourner les lentilles en arrière ou jusq'à ce que vous cessiez de les investir, selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "Effect: Clockwork Goggles",
+            "name": "Effet : Lunettes mécaniques (Effect: Clockwork Goggles)",
+            "description": "<p>Vous obtenez vision nocturne pendant 10 minutes.</p>"
+        },
+        {
+            "id": "Effect: Clockwork Goggles (Greater)",
+            "name": "Effet : Lunettes mécaniques supérieures (Effect: Clockwork Goggles (Greater))",
+            "description": "<p>Vous obtenez Vision nocturne et Vision dans le noir pendant 10 minutes.</p>"
+        },
+        {
+            "id": "Effect: Emerald Fulcrum Lens (Saving Throw)",
+            "name": "Effet : Lentille à pivot émeraude (jet de sauvegarde) (Effect: Emerald Fulcrum Lens (Saving Throw))",
+            "description": "<p>Pendant 1 round, vous obtenez un bonus d'objet de +1 aux jets d'attaque ,de sauvegarde et aux DD.</p>"
+        },
+        {
+            "id": "Equipment Effect: Major Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes majeure (Equipment Effect: Major Five-Feather Wreath)",
+            "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests d'Acrobatie et une résistance de 10 aux dégâts de chute.</p>"
+        },
+        {
+            "id": "Effect: Impossible Cake (Major)",
+            "name": "Effet : Gâteau de l'impossible majeur (Effect: Impossible Cake (Major))",
+            "description": "<p>Pendant 1 heure après le repas, vous gagnez un bonus d'objet de +4 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
+        },
+        {
+            "id": "Effect: Succubus Kiss (Stage 2)",
+            "name": "Effet : Baiser de la succube (Stade 2) (Effect: Succubus Kiss (Stage 2))",
+            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
+        },
+        {
+            "id": "Effect: Cape of the Open Sky",
+            "name": "Effet : Cape du ciel ouvert (Effect: Cape of the Open Sky)",
+            "description": "<p>La cape devient une paire d'ailes de drake dorés qui vous accorde une vitesse de Vol de 9 mètres pendant 1 heure.</p>"
+        },
+        {
+            "id": "Effect: Grit (Stage 2)",
+            "name": "Effet : Grit (stade 2) (Effect: Grit (Stage 2))",
+            "description": "<p>La créature obtient un bonus d'obet de +1 aux tests d'Artisanat, d'Athlétisme et de Représentation et une pénalité d'objet de -2 aux tests de Perception.</p>"
+        },
+        {
+            "id": "Effect: Anklets of Alacrity",
+            "name": "Effet : Chaînes de chevilles d'alacrité (Effect: Anklets of Alacrity)",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.9IwSktj0Xj7A2Ruh]{Chaînes de chevilles d'alacrité}.</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +6 mètres à toutes vos Vitesses</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Nosoi Charm (Greater) (Performance)",
+            "name": "Effet : Charme Nosoi supérieur (Représentation) (Effect: Nosoi Charm (Greater) (Performance))",
+            "description": "<p>Vous gagnez un bonus d'objet de +3 aux tests de Représentation pour jouer d'un instrument, discourir ou chanter.</p>"
+        },
+        {
+            "id": "Effect: Breastplate of Command",
+            "name": "Effet : Cuirasse de commandement (Effect: Breastplate of Command)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.RUEAV5LMUGFHcXcW]{Cuirasse de commandement}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus de statut de +2 aux jets de sauvegarde contre la terreur</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Impossible Cake",
+            "name": "Effet : Gâteau de l'impossible (Effect: Impossible Cake)",
+            "description": "<p>Pendant 10 minutes après le repas, vous gagnez un bonus d'objet de +2 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
+        },
+        {
+            "id": "Effect: Server's Stew",
+            "name": "Effet : Ragoût du serveur (Effect: Server's Stew)",
+            "description": "<p>Vous bénéficiez d'un bonus d'objet de +2 aux tests de Diplomatie effectués dans la langue du Ragoût du serveur pendant 1 heure.</p>"
+        },
+        {
+            "id": "Equipment Effect: Greater Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes supérieure (Equipment Effect: Greater Five-Feather Wreath)",
+            "description": "<p>Vous gagnez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 5 contre les dégâts de chute.</p>"
+        },
+        {
+            "id": "Effect: Private Workshop (Using for Crafting)",
+            "name": "Effet : Atelier privé (utilisation pour l'artisanat) (Effect: Private Workshop (Using for Crafting))",
+            "description": "<p>L'atelier est approvisionné en outils ordinaires et peut être utilisé pour Fabriquer des objets appropriés avec un bonus d'objet de +1, mais vous devez fournir toute matière première.</p>"
+        },
+        {
+            "id": "Effect: Ablative Armor Plating (Greater)",
+            "name": "Effet : Blindage ablatif d'armure supérieur (Effect: Ablative Armor Plating (Greater))",
+            "description": "<p>Le blindage accorde au porteur de l'armure 20 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+        },
+        {
+            "id": "Effect: Nosoi Charm (Greater) (Diplomacy)",
+            "name": "Effet : Charme de Nosoi supérieur (Diplomatie) (Effect: Nosoi Charm (Greater) (Diplomacy))",
+            "description": "<p>Vous obtenez un bonus d'objet de +3 aux tests de Diplomatie pour Solliciter.</p>"
+        },
+        {
+            "id": "Effect: Aeon Stone (Orange Prism) (Arcana)",
+            "name": "Effect: Pierre d'éternité (Prisme orange) (Arcanes) (Effect: Aeon Stone (Orange Prism) (Arcana))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort d'Arcanes.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Arcane</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Wand of Fey Flames",
+            "name": "Effet : Baguette de feux féériques (Effect: Wand of Fey Flames)",
+            "description": "<p>Pendant la durée du sort, vous pouvez utiliser les flammes féériques comme source de votre magie. Les créatures affectées par vos <em>Lueurs féériques</em> doivent réussir un jet de Volonté contre votre DD de sort ou subir une pénalité de statut de -2 à leurs jets de Volonté contre les sorts d'enchantement et d'illusion tant qu'elles sont affectées par les Lueurs féériques. Vous pouvez lancer un sort d'enchantement ou d'illusion sur une telle créature jusqu'à une distance égale à deux fois la portée normale du sort. Si la portée du sort est toucher ou si le sort n'a pas de portée, il n'est pas affecté par l'augmentation de la portée due aux <em>Lueurs féériques</em>.</p>"
+        },
+        {
+            "id": "Effect: Malleable Mixture (Lesser)",
+            "name": "Effet : Mixture de mollesse inférieur (Effect: Malleable Mixture (Lesser))",
+            "description": "<p>vous gagnez un bonus d'objet de +2 à vos DD de Vigueur et de Réflexes contre les tentatives pour vous Saisir, vous Pousser ou de vous faire un Croc-en-jambe pendant 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Spiderfoot Brew (Lesser)",
+            "name": "Effet : Infusion de pattes d'araignée inférieure (Effect: Spiderfoot Brew (Lesser))",
+            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, de minuscules poils préhesiles poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 4,5 mètres et un bonus d'objet de +1 aux tests d'Athlétisme effectués pour grimper pendant 1 minute.</p>"
         },
         {
             "id": "Effect: Earplugs",
@@ -382,19 +572,39 @@
             "description": "<p>vous gagnez un bonus d'objet de +3 à vos DD de Vigueur et de Réflexes contre les tentatives pour vous Saisir, vous Pousser ou de vous faire un Croc-en-jambe pendant 1 minute.</p>"
         },
         {
-            "id": "Effect: Disarm (Success)",
-            "name": "Effet : Désarmer (succès) (Effect: Disarm (Success))",
-            "description": "<p>La cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.</p>"
+            "id": "Effect: Dragon's Blood Pudding (Greater)",
+            "name": "Effet : Poudding de sang de dragon supérieur (Effect: Dragon's Blood Pudding (Greater))",
+            "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +2 au jet d'intimidation.</p>"
         },
         {
-            "id": "Effect: Leopard's Armor",
-            "name": "Effet : Armure du léopard (Effect: Leopard's Armor)",
+            "id": "Effect: Apricot of Bestial Might",
+            "name": "Effet : Abricot de puissance bestiale (Effect: Apricot of Bestial Might)",
             "description": ""
         },
         {
-            "id": "Equipment Effect: Sage's Lash (Turquoise)",
-            "name": "Effet : Ceinture du sage (turquoise) (Equipment Effect: Sage's Lash (Turquoise))",
-            "description": "<p>Prononcez le mot \"Clarté\" pour accorder à toutes les personnes affectées un bonus de statut de +2 à leur prochain jet de Volonté pendant 1 minute.</p>"
+            "id": "Effect: Succubus Kiss (Stage 1)",
+            "name": "Effet : Baiser de la succube (Stade 1) (Effect: Succubus Kiss (Stage 1))",
+            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
+        },
+        {
+            "id": "Effect: Rowan Rifle (Electricity)",
+            "name": "Effet : Fusil de Rowan (électricité) (Effect: Rowan Rifle (Electricity))",
+            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts d'électricité. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
+        },
+        {
+            "id": "Effect: Exsanguinating Ammunition (Major)",
+            "name": "Effet : Munition exsangue majeur (Effect: Exsanguinating Ammunition (Major))",
+            "description": "<p>Pendant 1 minute après que vous avez infligé des dégâts à une créature avec une munition exsangue activée, cette créature gagne une faiblesse de 5 aux dégâts de saignement persistants. De plus, le DD de tout test nu pour mettre fin aux dégâts persistants passe de 15 à 17 (de 10 à 12 lorsque vous recevez une aide particulièrement efficace) pendant toute la durée.</p>"
+        },
+        {
+            "id": "Effect: Curse of Potent Poison",
+            "name": "Effet : Malédiction du poison puissant (Effect: Curse of Potent Poison)",
+            "description": "<p>Cette malédiction accélère magiquement le poison dans votre corps.</p>\n<p data-visibility=\"gm\"><strong>Effet</strong>  Vous subissez une pénalité de statut de -1 à vos jets de Vigueur et vous gagnez une faiblesse de 3 au poison (si vous avez déjà une faiblesse au poison, augmentez de 3). La malédiction sera active jusqu'à ce qu'elle soit enlevée par <em>@Compendium[pf2e.spells-srd.OyFCwQuw8XRazsNr]{Délivrance des malédictions}</em> ou magie similaire.</p>"
+        },
+        {
+            "id": "Effect: Aeon Stone (Orange Prism) (Nature)",
+            "name": "Effect: Pierre d'éternité (Prisme orange) (Nature) (Effect: Aeon Stone (Orange Prism) (Nature))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort primordial.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Nature</li>\n</ul>"
         },
         {
             "id": "Effect: Oath of the Devoted",
@@ -402,79 +612,84 @@
             "description": "<p><strong>Activation</strong> <span class=\"pf2-icon\">1</span> Sur ordre </p>\n<p><strong>Fréquence</strong> une fois par jour </p>\n<p><strong>Effet</strong> Vous obtenez un bonus de statut de +1 aux jets de Sauvegarde. Choisissez une arme ou une Frappe à mains nues ; votre attaque choisie inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} supplémentaires pendant la prochaine minute.</p>"
         },
         {
-            "id": "Equipment Effect: Greater Codex of Unimpeded Sight",
-            "name": "Effet : Codex de vision sans entraves supérieur (Equipment Effect: Greater Codex of Unimpeded Sight)",
-            "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Perception pour Chercher ou à votre test pour Se souvenir.</p>"
+            "id": "Effect: Frost Vial (Moderate)",
+            "name": "Effet : Fiole givrée modérée (Effect: Frost Vial (Moderate))",
+            "description": "<p>La créature subit un malus de statut de -3 mètres à ses Vitesses jusqu’à la fin de son prochain tour.</p>"
         },
         {
-            "id": "Effect: Nosoi Charm (Performance)",
-            "name": "Effet : Charme Nosoi (Représentation) (Effect: Nosoi Charm (Performance))",
-            "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests de Représentation pour jouer d'un instrument, discourir ou chanter.</p>"
+            "id": "Effect: Crimson Fulcrum Lens",
+            "name": "Effet : Lentille cramoisie (Effect: Crimson Fulcrum Lens)",
+            "description": "<p>Vous bénéficiez d'un bonus d'objet de +2 aux jets de sauvegarde contre les effets de peur et d'un bonus d'objet de +2 aux dégâts pour vos Frappes au corps-à-corps (bonus d'objet qui passe à +4 aux dégâts si la Frappe au corps-à-corps est une attaque de mâchoires).</p>"
         },
         {
-            "id": "Effect: Clandestine Cloak (Greater)",
-            "name": "Effect: Cape de clandestinité supérieure (Effect: Clandestine Cloak (Greater))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.6jRXUXzYKIpm2uNp]{Cape de clandestinité supérieure}</p>\n<p>Automatically applied effects:</p>\n<<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +2 aux tests de Discrétion</li>\n<li>Bonus d'objet de +2 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
+            "id": "Effect: Brewer's Regret (Greater)",
+            "name": "Effet : Regret du brasseur supérieur (Effect: Brewer's Regret (Greater))",
+            "description": "<p>Pendant une heure après l'avoir consommée, vous obtenez un bonus d'objet de +3 aux jets de sauvegarde contre la mort et les effets négatifs</p>"
         },
         {
-            "id": "Equipment Effect: Moderate Healer's Gel",
-            "name": "Effet : Gel du guérisseur modéré (Equipment Effect: Moderate Healer's Gel)",
-            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 10 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
+            "id": "Effect: Eye of the Unseen (Greater)",
+            "name": "Effet : Œil de l'invisible supérieur (Effect: Eye of the Unseen (Greater))",
+            "description": "<p>Lorsque vous portez l'œil, vous gagnez un bonus d'objet de +2 aux tests de Perception visuelle.</p>"
         },
         {
-            "id": "Effect: Cloak of the Bat",
-            "name": "Effet : Cape de la chauve-souris (Effect: Cloak of the Bat)",
-            "description": "<p>Zccordé par @Compendium[pf2e.equipment-srd.dipcMOtBFxtmsjkS]{Cape de la chauve-souris}</p>\n<p>Automatically applied effects:</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres.</li>\n</ul>"
+            "id": "Effect: Rhino Shot",
+            "name": "Effet : Tir de rhino (Effect: Rhino Shot)",
+            "description": "<p>En cas de frappe réussie, l'attaque inflige 2d6 dégâts de force supplémentaires et la cible doit réussir un jet de Vigueur DD 19 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}. Si le coup porté par la flèche rhino a été un succès critique, la cible tombe À terre, à moins qu'elle n'obtiennent un succès critique à son jet de sauvegarde.</p>"
         },
         {
-            "id": "Effect: Demon Dust (Stage 2)",
-            "name": "Effet : Poussière de démon (Stade 2) (Effect: Demon Dust (Stage 2))",
-            "description": "<p>La créature gagne un bonus d'objet de +2 aux tests d'Athlétisme</p>"
+            "id": "Effect: Tanglefoot Bag (Lesser)",
+            "name": "Effet : Sacoche immobilisante inférieur (Effect: Tanglefoot Bag (Lesser))",
+            "description": "<p>Accordé en activant une @Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{Sacoche immobilisante inférieur}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -3 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 17.</p>"
         },
         {
-            "id": "Effect: Taljjae's Mask (The Hero)",
-            "name": "Effet : Masque de Taljjae (le héros) (Effect: Taljjae's Mask (The Hero))",
-            "description": "<p>Le héros octroie au porteur un bonus de statut de +3 à ses jets d'attaques avec des arcs pendant 1 minute.</p>"
+            "id": "Effect: Silkspinner's Shield (Animated Strike)",
+            "name": "Effet : Bouclier de la fileuse de soie (Frappe animée) (Effect: Silkspinner's Shield (Animated Strike))",
+            "description": "<p>La cible subit une pénalité de circonstances de -3 mètres à ses vitesses pendant 1 round.</p>"
         },
         {
-            "id": "Effect: Glamorous Buckler",
-            "name": "Effet : Targe étincelante (Effect: Glamorous Buckler)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.IxuDS3POB6EH8TVN]{Targe étincelante}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Feinter</li>\n</ul>"
+            "id": "Effect: Barding of the Zephyr",
+            "name": "Effet : Barde du zéphir (Effect: Barding of the Zephyr)",
+            "description": "<p>Accordé par  @Compendium[pf2e.equipment-srd.eoI3M6FXtcPWeg7i]{Barde du zéphir}</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Interagir</p> \n<p><strong>Fréquence</strong> une fois par jour</p> \n<p><strong>Effet</strong> Vous parcourez du doigt les motifs de vent sur la barde, ce qui confère à votre compagnon qui la porte, une Vitesse de vol de 9 mètres pendant 10 minutes. Même si le compagnon n’a pas le pouvoir spécial monture, il peut toujours Voler lorsqu’on le chevauche.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres</li>\n</ul>"
         },
         {
-            "id": "Effect: Sulfur Bomb (Failure)",
-            "name": "Effet : Bombe de soufre (Échec) (Effect: Sulfur Bomb (Failure))",
-            "description": "<p>La cible subit une pénalité de statut de -1 aux tests de Perception et aux jets d'attaque jusqu'à la fin de son prochain tour.</p>"
+            "id": "Effect: Rowan Rifle (Sonic)",
+            "name": "Effet : Fusil de Rowan (sonique) (Effect: Rowan Rifle (Sonic))",
+            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts de son. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
         },
         {
-            "id": "Effect: Dragon's Blood Pudding (Moderate)",
-            "name": "Effet : Poudding de sang de dragon modéré (Effect: Dragon's Blood Pudding (Moderate))",
-            "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +2 au jet d'intimidation.</p>"
+            "id": "Effect: Triton's Conch",
+            "name": "Effet : Conque de triton (Effect: Triton's Conch)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.KLWjINVkWwJlOZEX]{Conque de triton}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus d’objet de +2 aux tests d’Athlétisme pour Nager</li>\n</ul>"
         },
         {
-            "id": "Effect: Thurible of Revelation",
-            "name": "Effet : Encensoir de révélation inférieur (Effect: Thurible of Revelation)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.xaWuuQoBJiMLzggR]{Encensoir de révélation inférieur}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux test de Religion</li>\n</ul>"
+            "id": "Equipment Effect: Potion of Stable Form",
+            "name": "Effet : Potion de forme stable (Equipment Effect: Potion of Stable Form)",
+            "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +2 contre les effets de transmutation et de +3 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
         },
         {
-            "id": "Effect: Cloak of Elvenkind (Greater)",
-            "name": "Effet : Cape elfique supérieure (Effect: Cloak of Elvenkind (Greater))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZelCRLDI6M5IfjAI]{Cape elfique supérieure}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d’objet de +2 aux tests de Discrétion.</li>\n</ul>"
+            "id": "Equipment Effect: Topology Protoplasm",
+            "name": "Effet : Morphologie protoplasmique (Equipment Effect: Topology Protoplasm)",
+            "description": "Dans cet état, une créature qui tente de Se faufiler utilise le résultat correspondant à un degré supérieur de réussite à son jet et peut se déplacer à sa vitesse maximale pendant qu'elle Se faufile et un objet peut passer à travers un espace de 60 centimètres de large.</p>"
         },
         {
-            "id": "Effect: Glittering Snare (Critical Failure)",
-            "name": "Effet : Piège scintillant (Échec critique) (Effect: Glittering Snare (Critical Failure))",
-            "description": "<p>La créature subit une pénalité de statut de -4 aux tests de Discrétion pendant 5 minutes, ou jusqu'à ce qu'elle dépense 3 actions qui possèdent le trait Manipulation pour enlever les paillettes. Les paillettes continuent de tomber autour de la créature jusqu'à ce qu'elles soient complètement retirées, laissant une traînée derrière elle lorsqu'elle se déplace et révélant son emplacement approximatif ; la créature est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}, plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée}, pour toute créature qui peut voir les paillettes chaque fois qu'elle n'aurait pas été détectée autrement.</p>"
+            "id": "Effect: Celestial Armor",
+            "name": "Effet : Armure céleste (Effect: Celestial Armor)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.2uHcTZ40oZ62R9gy]{Armure céleste}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres</li>\n</ul>"
         },
         {
-            "id": "Effect: Vaultbreaker's Harness",
-            "name": "Effet : Harnais du brise-coffre (Effect: Vaultbreaker's Harness)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.LmveO9fSuEnkMKAH]{Harnais du brise-coffre}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +1 aux tests de Furtivité</li>\n<li>Bonus d'objet de +4,5 mètres à votre Vitesse</li>\n</ul>"
+            "id": "Effect: Energizing Rune (Fire)",
+            "name": "Effet : Rune énergisante de feu (Effect: Energizing Rune (Fire))",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de feu jusqu'à la fin de votre prochain tour.</p>"
         },
         {
-            "id": "Effect: Eye of the Unseen",
-            "name": "Effet : Œil de l'invisible (Effect: Eye of the Unseen)",
-            "description": "<p>Lorsque vous portez l'œil, vous gagnez un bonus d'objet de +1 aux tests de Perception visuelle.</p>"
+            "id": "Effect: Protective Barrier",
+            "name": "Effet : Barrière protectrice (Effect: Protective Barrier)",
+            "description": "<p>Accordé par le Pont doré de Vontho</p>\n<p>Bien que les anneaux tourbillonnants du véhicule ne Masquent pas entièrement le pilote, ils offrent une protection incroyable, en maintenant magiquement la température à l'intérieur et en annulant les attaques physiques. Le pilote est protégé contre le froid intense, la chaleur intense, le froid extrême et la chaleur extrême. Le pilote gagne également une résistance de 10 à tous les dégâts physiques (sauf l'adamantium).</p>"
+        },
+        {
+            "id": "Effect: Stole of Civility",
+            "name": "Effet : Étole de civilité (Effect: Stole of Civility)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.dRVDcmkaB2p8zPcs]{Étole de civilité}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez 10 points de vie temporaires</li>\n</ul>"
         },
         {
             "id": "Effect: Cloak of Elvenkind",
@@ -482,109 +697,64 @@
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.MNBnZn0b80Q7yHJM]{Cape elfique}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d’objet de +1 aux tests de Discrétion.</li>\n</ul>"
         },
         {
-            "id": "Effect: Impossible Cake (Greater)",
-            "name": "Effet : Gâteau de l'impossible supérieur (Effect: Impossible Cake (Greater))",
-            "description": "<p>Pendant 30 minutes après le repas, vous gagnez un bonus d'objet de +3 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
+            "id": "Effect: Static Snare",
+            "name": "Effet : piège artisanal statique (Effect: Static Snare)",
+            "description": "<p>La cible subit une pénalité de circonstances de -1 à ses jets de sauvegarde contre l'électricité tant qu'elle subit les dégâts d'électricité persistants.</p>"
         },
         {
-            "id": "Effect: Ablative Armor Plating (Greater)",
-            "name": "Effet : Blindage ablatif d'armure supérieur (Effect: Ablative Armor Plating (Greater))",
-            "description": "<p>Le blindage accorde au porteur de l'armure 20 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "id": "Effect: Ebon Fulcrum Lens (2 Action)",
+            "name": "Effet : Lentille à pivot ébène (2 Actions) (Effect: Ebon Fulcrum Lens (2 Action))",
+            "description": "<p>Vous gagnez un bonus d'objet de +1 aux jets d'attaque, aux jets de sauvegarde et aux DD pendant 1 minute</p>"
         },
         {
-            "id": "Effect: Sarkorian God-Caller Garb",
-            "name": "Effet : Tenue d'invocateur divin Sarkorien (Effect: Sarkorian God-Caller Garb)",
-            "description": "<p>Tant qu'elle se trouve à 9 mètres de vous, la créature invoquée gagne un bonus de statut de +1 à la CA. Si jamais elle s'éloigne de plus de 9 mètres de vous, le sigil s'estompe et la créature perd le bonus de statut à la CA, même si elle revient plus tard à moins de 9 mètres de vous.</p>"
+            "id": "Effect: Clockwork Goggles (Major)",
+            "name": "Effet : Lunettes mécaniques majeures (Effect: Clockwork Goggles (Major))",
+            "description": "<p>Vous obtenez Vision nocturne, Vision dans le noir et les effets de <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l'invisibilité}</em> pendant 10 minutes.</p>"
         },
         {
-            "id": "Equipment Effect: Flask of Fellowship",
-            "name": "Effet : Gourde de fraternité (Equipment Effect: Flask of Fellowship)",
-            "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Diplomatie.</p>"
+            "id": "Effect: Spellguard Blade",
+            "name": "Effet : Lame contre-sort (Effect: Spellguard Blade)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.v6LpzpIA0BmKvEtK]{Lame contre-sort}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +1 à la CA.</li>\n<li>Bonus de circonstances de +1 à vos jets de sauvegarde contre les sorts qui vous ciblent</li>\n</ul>"
         },
         {
-            "id": "Equipment Effect: Greater Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes supérieure (Equipment Effect: Greater Five-Feather Wreath)",
-            "description": "<p>Vous gagnez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 5 contre les dégâts de chute.</p>"
+            "id": "Effect: Prepared Camouflage Suit (Superb)",
+            "name": "Effet : Tenue de camouflage superbe (Effect: Prepared Camouflage Suit (Superb))",
+            "description": "<p>Cette maille légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.</p>\n<p>Une tenue préparée de cette manière vous accorde un bonus d'objet de +2 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue  de camouflage appropriée à l'environnement.</p>"
         },
         {
-            "id": "Effect: Ablative Armor Plating (True)",
-            "name": "Effet : Blindage ablatif d'armure ultime (Effect: Ablative Armor Plating (True))",
-            "description": "<p>Le blindage accorde au porteur de l'armure 40 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "id": "Equipment Effect: Mask of Allure",
+            "name": "Effet : Masque d'allure (Equipment Effect: Mask of Allure)",
+            "description": ""
         },
         {
-            "id": "Effect: Stalwart's Ring",
-            "name": "Effet : Anneau de résolution (Effect: Stalwart's Ring)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.bhpYiOmBysl8ZEYn]{Anneau de résolution}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez 5 points de vie temporaires</li>\n</ul>"
+            "id": "Effect: Belt of the Five Kings (Wearer)",
+            "name": "Effet : Ceinture des cinq rois (Porteur) (Effect: Belt of the Five Kings (Wearer))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YCjVrQnHfOtpmjYW]{Ceinture des cinq rois} si vous êtes le porteur.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un nombre de Points de vie temporaires égal à votre niveau</li>\n</ul>"
         },
         {
-            "id": "Effect: Ochre Fulcrum Lens",
-            "name": "Effet : Lentille à pivot ocre (Effect: Ochre Fulcrum Lens)",
-            "description": "<p>Vous obtenez un bonus de staute de +2 aux jets de sauegarde contre des effets d'émotion et une résistance de 10 aux dégâts mentaux</p>\n<ul>\n<li>La résistance aux dégâts mentaux n'est pas automatisée</li>\n</ul>"
+            "id": "Equipment Effect: Emberheart",
+            "name": "Effet : Cœur de braise (Equipment Effect: Emberheart)",
+            "description": "<p>Chaque allié dans une @Template[type:emanation|distance:30]{émanation de 9 mètres} regagne [[/r {30}[healing]]]{30 points de vie} et gagne un bonus de statut de +3 à ses jets de Vigueur jusqu'à la fin de son prochain tour.</p>"
         },
         {
-            "id": "Effect: Red-Rib Gill Mask (Greater)",
-            "name": "Effet : Masque branchies de côte rouge supérieur (Effect: Red-Rib Gill Mask (Greater))",
-            "description": "<p>Après avoir activé le masque, vous obtenez un bonus d'objet de +3 aux jets de Vigueur contre les effets inhalés ; ce bonus est de +4 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires à la discrétion du MJ.</p>"
+            "id": "Effect: Stonethroat Ammunition (Success)",
+            "name": "Effet : Munition coince-gueule (Succès) (Effect: Stonethroat Ammunition (Success))",
+            "description": "<p>La munition vient se loger de manière peu contraignante au fond de la gorge de la cible.Pendant 1 round, la cible subit une pénalité de statut de -2 aux jets d'attaque avec ses mâchoires ou ses crocs et aux tests d'Athlétisme.</p>"
         },
         {
-            "id": "Effect: Nosoi Charm (Greater) (Lifesense)",
-            "name": "Effet : Charme Nosoi (Sens de la vie) (Effect: Nosoi Charm (Greater) (Lifesense))",
-            "description": "<p>Vous gagnez Sens de la vie comme un sens imprécis avec une portée de 9 mètres pendant 1 heure, tant que vous continuez à tenir le charme. Cela vous permet de sentir la force vitale qui anime les créatures vivantes et la force perverse qui anime les morts, bien que vous ne puissiez pas faire la distinction entre les deux.</p>"
+            "id": "Effect: Diplomat's Badge",
+            "name": "Effet : Insigne du diplomate (Effect: Diplomat's Badge)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.JJZgRx6naNJmDa81]{Insigne du diplomate}.</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 aux test de diplomatie avec un groupe spécifique</li>\n</ul>"
         },
         {
-            "id": "Effect: Shield of the Unified Legion",
-            "name": "Effet : Bouclier de la Légion Unifiée (Effect: Shield of the Unified Legion)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.PlYr5AhYwHIztMw2]{Bouclier de la Légion Unifiée}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus de circonstances de +2 à la CA tant que vous vous trouvez dans un rayon de 9 mètres du porteur du bouclier et que son bouclier est levé</li>\n</ul>"
+            "id": "Cover",
+            "name": "Abri (Cover)",
+            "description": "<p>Lorsque vous vous trouvez derrière un obstacle qui peut bloquer les armes, vous protéger contre les explosions et vous rendre plus difficile à détecter, vous êtes à l'abri. Un abri standard vous donne un bonus de circonstances de +2 à la CA, aux jets de Réflexes contre les effets de zone et aux tests de Discrétion pour se cacher, être furtif ou éviter d'être détecté. Vous pouvez augmenter cet abri en utilisant l'action Se mettre à l'abri, ce qui augmente le bonus de circonstances à +4. Si l'abri est particulièrement léger, typiquement parce qu'il est fourni par une créature, vous disposez d'un abri partiel, qui accorde un bonus de circonstances de +1 à la CA. Une créature avec un abri standard ou un abri supérieur peut tenter d'utiliser Discrétion pour se cacher, mais un abri inférieur n'est pas suffisant.</p>"
         },
         {
-            "id": "Effect: Sylvan Wine",
-            "name": "Effet : Vin sylvestre (Effect: Sylvan Wine)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.5SxhwivDVTwV5O0F]{Outre de vin sylvestre}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde Volonté</li>\n<li>Bonus d'objet de +3 aux jets de sauvegarde Volonté contre contre les effets de peur</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Energized Cartridge (Fire)",
-            "name": "Effet : Cartouche énergisée (feu) (Effect: Energized Cartridge (Fire))",
-            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en feu, infligeant des dégâts de feu au lieu des dégâts habituels plus [[/r {1d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants de feu} sur une réussite critique.</p>"
-        },
-        {
-            "id": "Effect: Dragon's Blood Pudding (Greater)",
-            "name": "Effet : Poudding de sang de dragon supérieur (Effect: Dragon's Blood Pudding (Greater))",
-            "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +2 au jet d'intimidation.</p>"
-        },
-        {
-            "id": "Effect: Goggles of Night (Greater)",
-            "name": "Effet : Lunettes de nycatlope supérieures (Effect: Goggles of Night (Greater))",
-            "description": "<p>Accordé en activant les @Compendium[pf2e.equipment-srd.Tej30MsQo8Ek9aA6]{Lunettes de nyctalope supérieures}</p>\n<hr />\n<p>Vous obtenez Vision dans le noir jusqu'à ce que vous fassiez tourner les lentilles en arrière ou jusq'à ce que vous cessiez de les investir, selon ce qui se produit en premier.</p>"
-        },
-        {
-            "id": "Effect: Shrine Inarizushi",
-            "name": "Effet : Autel d'Inarizushi (Effect: Shrine Inarizushi)",
-            "description": "<p>Lorsque vous êtes en mode exploration, faites un test pour @Compendium[pf2e.actionspf2e.TiNDYUGlMmxzxBYU]{Chercher} séparément avec un bonus de statut de +1 ; cela n'affecte pas votre Vitesse. Si le test est un succès, un renard apparaît pour vous informer de sa découverte du mieux qu'il peut, bien qu'il ne puisse parler.</p>"
-        },
-        {
-            "id": "Effect: Succubus Kiss (Stage 2)",
-            "name": "Effet : Baiser de la succube (Stade 2) (Effect: Succubus Kiss (Stage 2))",
-            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
-        },
-        {
-            "id": "Equipment Effect: Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes (Equipment Effect: Five-Feather Wreath)",
-            "description": "<p>Vous obtenez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 2 aux dégâts de chute.</p>"
-        },
-        {
-            "id": "Equipment Effect: Orchestral Brooch",
-            "name": "Effet : Broche orchestrale (Equipment Effect: Orchestral Brooch)",
-            "description": "<p>Vous obtenez un bonus de statut de +1 à votre test de Représentation. Si vous obtenez un succès, vous obtenez un succès critique à la place.</p>"
-        },
-        {
-            "id": "Effect: Aeon Stone (Orange Prism) (Religion)",
-            "name": "Effect: Pierre d'éternité (Prisme orange) (Religion) (Effect: Aeon Stone (Orange Prism) (Religion))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort divin.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests de Religion</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Euryale (Curse) Card",
-            "name": "Effet : Carte Euryale (Malédiction) (Effect: Euryale (Curse) Card)",
-            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.jVh90bfsC6w6iVyy]{Euryale (malédiction)} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : -1 à tous les jets de sauvegarde.</p>"
+            "id": "Effect: Ablative Armor Plating (Major)",
+            "name": "Effet : Blindage ablatif d'armure majeur (Effect: Ablative Armor Plating (Major))",
+            "description": "<p>Le blindage accorde au porteur de l'armure 30 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
         },
         {
             "id": "Effect: Metuak's Pendant",
@@ -592,9 +762,14 @@
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets de sauvegarde contre les effets mentaux qui la rendrait confuse, contrôlée, effrayée ou stupéfiée.</p>"
         },
         {
-            "id": "Equipment Effect: Potion of Minute Echoes",
-            "name": "Effet : Potion de l'écho-minute (Equipment Effect: Potion of Minute Echoes)",
-            "description": "<p>Pendant 1 minute après avoir bu cette potion, vous obtenez un bonus de statut de +2 aux tests de Perception pour entendre. De plus, chaque fois que vous Cherchez, votre ouïe devient un sens précis jusqu'au début de votre prochain tour, ce qui vous permet de localiser avec précision les créatures et également de percevoir le monde en détail rien qu'en écoutant le son des échos.</p>"
+            "id": "Effect: Spiderfoot Brew (Greater)",
+            "name": "Effet : Infusion de pattes d'araignée supérieure (Effect: Spiderfoot Brew (Greater))",
+            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, de minuscules poils préhesiles poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 6 mètres et un bonus d'objet de +2 aux tests d'Athlétisme effectués pour grimper pendant 10 minutes.</p>"
+        },
+        {
+            "id": "Effect: Nosoi Charm (Greater) (Lifesense)",
+            "name": "Effet : Charme Nosoi (Sens de la vie) (Effect: Nosoi Charm (Greater) (Lifesense))",
+            "description": "<p>Vous gagnez Sens de la vie comme un sens imprécis avec une portée de 9 mètres pendant 1 heure, tant que vous continuez à tenir le charme. Cela vous permet de sentir la force vitale qui anime les créatures vivantes et la force perverse qui anime les morts, bien que vous ne puissiez pas faire la distinction entre les deux.</p>"
         },
         {
             "id": "Effect: Goggles of Night",
@@ -607,229 +782,19 @@
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.CDuN9kzyxBZ4cShq]{Épaulette de la Légion dorée}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de +1 statut bonus aux jets d'attaque</li>\n<li>Bonus de +1 statut bonus aux jets de dégâts</li>\n<li>Bonus de +1 statut bonus aux jets de sauvegarde contre la peur</li>\n</ul>"
         },
         {
-            "id": "Effect: Rowan Rifle (Cold)",
-            "name": "Effet : Fusil de Rowan (froid) (Effect: Rowan Rifle (Cold))",
-            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts de froid. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
-        },
-        {
-            "id": "Effect: Immolation Clan Pistol",
-            "name": "Effet : Pistolet de clan d'immolation (Effect: Immolation Clan Pistol)",
-            "description": "<p>Pendant une minute vous ressemblez à un corps enflammé. Durant ce temps vous gagnez un bonus de statut +2 à vos test d'Intimidation et le pistolet de clan d'immolation devient un <em>Pistolet de Frappe +2 Enflammé</em>.</p>"
-        },
-        {
-            "id": "Effect: Prepared Camouflage Suit (Superb)",
-            "name": "Effet : Tenue de camouflage superbe (Effect: Prepared Camouflage Suit (Superb))",
-            "description": "<p>Cette maille légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.</p>\n<p>Une tenue préparée de cette manière vous accorde un bonus d'objet de +2 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue  de camouflage appropriée à l'environnement.</p>"
-        },
-        {
-            "id": "Effect: Belt of the Five Kings (Allies)",
-            "name": "Effet : Ceinture des cinq rois (Alliés) (Effect: Belt of the Five Kings (Allies))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.YCjVrQnHfOtpmjYW]{Ceinture des cinq rois} si votre allié l'active.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez Vision dans le noir</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Cape of the Open Sky",
-            "name": "Effet : Cape du ciel ouvert (Effect: Cape of the Open Sky)",
-            "description": "<p>La cape devient une paire d'ailes de drake dorés qui vous accorde une vitesse de Vol de 9 mètres pendant 1 heure.</p>"
-        },
-        {
-            "id": "Effect: Energized Cartridge (Cold)",
-            "name": "Effet : Cartouche énergisée (froid) (Effect: Energized Cartridge (Cold))",
-            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en glace, infligeant des dégâts de froid au lieu des dégâts habituels plus [[/r {1d6}[persistent,cold]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants de froid} sur une réussite critique.</p>"
-        },
-        {
-            "id": "Effect: Ebon Fulcrum Lens (2 Action)",
-            "name": "Effet : Lentille à pivot ébène (2 Actions) (Effect: Ebon Fulcrum Lens (2 Action))",
-            "description": "<p>Vous gagnez un bonus d'objet de +1 aux jets d'attaque, aux jets de sauvegarde et aux DD pendant 1 minute</p>"
-        },
-        {
-            "id": "Cover",
-            "name": "Abri (Cover)",
-            "description": "<p>Lorsque vous vous trouvez derrière un obstacle qui peut bloquer les armes, vous protéger contre les explosions et vous rendre plus difficile à détecter, vous êtes à l'abri. Un abri standard vous donne un bonus de circonstances de +2 à la CA, aux jets de Réflexes contre les effets de zone et aux tests de Discrétion pour se cacher, être furtif ou éviter d'être détecté. Vous pouvez augmenter cet abri en utilisant l'action Se mettre à l'abri, ce qui augmente le bonus de circonstances à +4. Si l'abri est particulièrement léger, typiquement parce qu'il est fourni par une créature, vous disposez d'un abri partiel, qui accorde un bonus de circonstances de +1 à la CA. Une créature avec un abri standard ou un abri supérieur peut tenter d'utiliser Discrétion pour se cacher, mais un abri inférieur n'est pas suffisant.</p>"
-        },
-        {
-            "id": "Effect: Dueling Cape",
-            "name": "Effet : Cape de duel (Effect: Dueling Cape)",
-            "description": "<p>Accordé par l'utilisation de @Compendium[pf2e.equipment-srd.DA3HgyEBGEbtRNOo]{Cape de duel}</p>\n<hr />\n<p>Effets automatiquement appliqués :</p>\n<ul>\n<li>bonus de circonstances de +1 pour Feinter</li>\n<li>bonus de circonstances de +1 à la CA</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Glittering Snare (Success)",
-            "name": "Effet : Piège scintillant (Succès) (Effect: Glittering Snare (Success))",
-            "description": "<p>La créature subit une pénalité de statut de -1 aux tests de Discrétion pendant 1 minute ou jusqu'à ce qu'elle utilise une action d'interaction pour retirer les paillettes.</p>"
-        },
-        {
-            "id": "Effect: Nosoi Charm (Greater) (Performance)",
-            "name": "Effet : Charme Nosoi supérieur (Représentation) (Effect: Nosoi Charm (Greater) (Performance))",
-            "description": "<p>Vous gagnez un bonus d'objet de +3 aux tests de Représentation pour jouer d'un instrument, discourir ou chanter.</p>"
-        },
-        {
-            "id": "Effect: Ebon Fulcrum Lens (Reaction)",
-            "name": "Effet : Lentille à pivot ébène (Réaction) (Effect: Ebon Fulcrum Lens (Reaction))",
-            "description": "<p>Pendant les 24 heures qui suivent votre rajeunissement, vous gagnez un bonus d'objet de +1 aux jets d'attaque, aux jets de sauvegarde et aux DD.</p>"
-        },
-        {
-            "id": "Effect: Mudrock Snare (Success)",
-            "name": "Effet : Piège artisanal de boue solidifiée (Succès) (Effect: Mudrock Snare (Success))",
-            "description": "<p>La créature subit une pénalité de circonstances de -1,5 m à sa Vitesse pendant 1 minute ou jusqu'à ce qu'elle s'échappe (DD 27).</p>"
-        },
-        {
-            "id": "Effect: Spellguard Shield",
-            "name": "Effet : Bouclier Gardesort (Effect: Spellguard Shield)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.OqDAx4HJ39ojVtvg]{Bouclier Gardesort}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de circonstances de +2 à la CA</li>\n<li>Bonus du circonstances de +2 aux jets de sauvegarde contre les sorts</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Major Fanged Rune Animal Form",
-            "name": "Effet : Forme d'animal de rune de crocs majeur (Effect: Major Fanged Rune Animal Form)",
-            "description": "<p>Vous vous transformez en un animal de taille Petite ou Moyenne qui manie l'arme à crocs dans ses mâchoires ; l'animal correspond à celui auquel vous êtes le plus étroitement associé (un homme-lézard se transforme en lézard, un kitsune en renard, un barbare instinct de cerf en cerf, etc.) ou en loup si aucun animal spécifique n'est applicable. Lorsque vous êtes sous cette forme, vous pouvez attaquer avec l'arme à crocs même si vous n'avez pas de mains. Cependant, vous ne pouvez attaquer qu'avec l'arme à crocs et vous n'avez pas de mains ni la capacité de tenir des objets. Pour les effets qui dépendent du nombre de mains que vous utilisez pour tenir l'objet, comme le trait à deux mains, vous considérez que vous tenez l'arme à deux mains. Vous pouvez Révoquer cet effet, et il prend fin automatiquement si vous lâchez l'arme à crocs (que ce soit volontaire ou non).</p>\n<p>Sous forme animale, vous obtenez vision nocturne, Odorat imrécis à une portée de 9 mètres et un bonus d'objet de +3 mètres à votre Vitesse.</p>"
-        },
-        {
-            "id": "Effect: Red-Rib Gill Mask (Moderate)",
-            "name": "Effet : Masque branchies de côte rouge modéré (Effect: Red-Rib Gill Mask (Moderate))",
-            "description": "<p>Après avoir activé le masque, pendant 1 heure, vous obtenez un bonus d'objet de +2 aux jets de Vigueur contre les effets inhalés ; ce bonus est de +3 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires à la discrétion du MJ.</p>"
-        },
-        {
-            "id": "Equipment Effect: South Wind's Scorch Song (Speed Boost)",
-            "name": "Effet : Chanson brûlante du vent du sud (Boost de vitesse) (Equipment Effect: South Wind's Scorch Song (Speed Boost))",
-            "description": "<p>Vous gagnez un bonus de statut de +3 mètres à votre Vitesse.</p>\n<p>Tant que vous bénéficiez d'un bonus de statut à au moins une de vos Vitesses, vos frappes avec ce cimeterre qui inflige des dégâts de feu bénéficient d'un bonus de statut de +2 à leurs dégâts de feu. Le bonus de statut passe à +3 si l'arme possède une rune de Frappe supérieure et à +4 avec une rune de Frappe majeure.</p>\n<hr />\n<p><em>Note : L'augmentation de base de +2 des dégâts est incluse dans cet effet. Il n'est actuellement pas possible de faire en sorte qu'il augmente automatiquement.</em></p>"
-        },
-        {
-            "id": "Effect: Tteokguk of Time Advancement",
-            "name": "Effet : Tteokguk du déroulement du temps (Effect: Tteokguk of Time Advancement)",
-            "description": "<p>Vous gagnez un bonus de statut de +4 aux tests de Duperie pour passer pour quelqu'un de l'âge choisi et vous pouvez ajouter votre niveau comme bonus de compétence à de tels tests si vous êtes inexpérimenté.</p>"
-        },
-        {
-            "id": "Effect: Prepared Camouflage Suit",
-            "name": "Effet : Tenue de camouflage préparée (Effect: Prepared Camouflage Suit)",
-            "description": "<p>Cette étoffe légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.</p>\n<p>Une tenue préparée de cette manière vous accorde un bonus d'objet de +1 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue  de camouflage appropriée à l'environnement.</p>"
-        },
-        {
-            "id": "Effect: Greater Fanged Rune Animal Form",
-            "name": "Effet : Forme d'animal à runes de crocs supérieure (Effect: Greater Fanged Rune Animal Form)",
-            "description": "<p>Vous vous transformez en un animal de taille Petite ou Moyenne qui manie l'arme à crocs dans ses mâchoires ; l'animal correspond à celui auquel vous êtes le plus étroitement associé (un homme-lézard se transforme en lézard, un kitsune en renard, un barbare instinct de cerf en cerf, etc.) ou en loup si aucun animal spécifique n'est applicable. Lorsque vous êtes sous cette forme, vous pouvez attaquer avec l'arme à crocs même si vous n'avez pas de mains. Cependant, vous ne pouvez attaquer qu'avec l'arme à crocs et vous n'avez pas de mains ni la capacité de tenir des objets. Pour les effets qui dépendent du nombre de mains que vous utilisez pour tenir l'objet, comme le trait à deux mains, vous considérez que vous tenez l'arme à deux mains. Vous pouvez Révoquer cet effet, et il prend fin automatiquement si vous lâchez l'arme à crocs (que ce soit volontaire ou non).</p>\n<p>Sous forme animale, vous obtenez vision nocturne et un bonus d'objet de +1,5 mètres à votre Vitesse.</p>"
-        },
-        {
-            "id": "Effect: Clockwork Cloak",
-            "name": "Effet : Cape mécanique (Effect: Clockwork Cloak)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.v9tI40skGswMQTVN]{Cape mécanique}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Pénalité de -4 aux tests de Perception</li>\n<li>Bonus d'objet de +2 à votre jet d'initiative.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Silkspinner's Shield (Animated Strike)",
-            "name": "Effet : Bouclier de la fileuse de soie (Frappe animée) (Effect: Silkspinner's Shield (Animated Strike))",
-            "description": "<p>La cible subit une pénalité de circonstances de -3 mètres à ses vitesses pendant 1 round.</p>"
-        },
-        {
-            "id": "Effect: Spiderfoot Brew (Greater)",
-            "name": "Effet : Infusion de pattes d'araignée supérieure (Effect: Spiderfoot Brew (Greater))",
-            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, de minuscules poils préhesiles poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 6 mètres et un bonus d'objet de +2 aux tests d'Athlétisme effectués pour grimper pendant 10 minutes.</p>"
-        },
-        {
-            "id": "Effect: Slippers of Spider Climbing",
-            "name": "Effet : Chaussons de l'araignée (Effect: Slippers of Spider Climbing)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.skBa6D1uxb0b2USn]{Chaussons de l'araignée}</p>\n<hr />\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>Vous obtenez une Vitesse d’escalade de 6 mètres.</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Anklets of Alacrity",
-            "name": "Effet : Chaînes de chevilles d'alacrité (Effect: Anklets of Alacrity)",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.9IwSktj0Xj7A2Ruh]{Chaînes de chevilles d'alacrité}.</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +6 mètres à toutes vos Vitesses</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Stole of Civility",
-            "name": "Effet : Étole de civilité (Effect: Stole of Civility)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.dRVDcmkaB2p8zPcs]{Étole de civilité}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez 10 points de vie temporaires</li>\n</ul>"
-        },
-        {
             "id": "Effect: Dragon's Blood Pudding (Major)",
             "name": "Effet : Poudding de sang de dragon majeur (Effect: Dragon's Blood Pudding (Major))",
             "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +4 au jet d'intimidation.</p>"
         },
         {
-            "id": "Effect: Barding of the Zephyr",
-            "name": "Effet : Barde du zéphir (Effect: Barding of the Zephyr)",
-            "description": "<p>Accordé par  @Compendium[pf2e.equipment-srd.eoI3M6FXtcPWeg7i]{Barde du zéphir}</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">D</span> Interagir</p> \n<p><strong>Fréquence</strong> une fois par jour</p> \n<p><strong>Effet</strong> Vous parcourez du doigt les motifs de vent sur la barde, ce qui confère à votre compagnon qui la porte, une Vitesse de vol de 9 mètres pendant 10 minutes. Même si le compagnon n’a pas le pouvoir spécial monture, il peut toujours Voler lorsqu’on le chevauche.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres</li>\n</ul>"
+            "id": "Effect: Spiderfoot Brew (Major)",
+            "name": "Effet : Infusion de pattes d'araignée majeure (Effect: Spiderfoot Brew (Major))",
+            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, des poils adhésifs poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 7,5 m et un bonus d'objet de +3 aux tests d'Athlétisme pour Grimper pendant 1 heure.</p>"
         },
         {
-            "id": "Effect: Boots of Elvenkind",
-            "name": "Effet : Bottes elfiques (Effect: Boots of Elvenkind)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.T00Xa9aDwHxd60Zh]{Bottes elfiques}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de +1,50 mètres à votre Vitesse au sol</li>\n</ul>"
-        },
-        {
-            "id": "Effect: Tanglefoot Bag (Moderate)",
-            "name": "Effet : Sacoche immobilisante modéré (Effect: Tanglefoot Bag (Moderate))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.evBPzM1VsuYcoenn]{Sacoche immobilisante modéré)}.</p>\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -4,5 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 19.</p>"
-        },
-        {
-            "id": "Effect: Stonethroat Ammunition (Success)",
-            "name": "Effet : Munition coince-gueule (Succès) (Effect: Stonethroat Ammunition (Success))",
-            "description": "<p>La munition vient se loger de manière peu contraignante au fond de la gorge de la cible.Pendant 1 round, la cible subit une pénalité de statut de -2 aux jets d'attaque avec ses mâchoires ou ses crocs et aux tests d'Athlétisme.</p>"
-        },
-        {
-            "id": "Effect: Glittering Snare (Failure)",
-            "name": "Effet : Piège scintillant (Échec) (Effect: Glittering Snare (Failure))",
-            "description": "<p>La créature subit une pénalité de statut de -2 aux tests de Discrétion pendant 2 minutes ou jusqu'à ce qu'elle dépense 2 actions qui possèdent le trait Manipulation pour enlever les paillettes. Si la créature était @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, les paillettes soulignent ses contours pendant 1 round, ce qui la rend @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachée} plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée} aux sens visuels.</p>"
-        },
-        {
-            "id": "Effect: Rhino Shot",
-            "name": "Effet : Tir de rhino (Effect: Rhino Shot)",
-            "description": "<p>En cas de frappe réussie, l'attaque inflige 2d6 dégâts de force supplémentaires et la cible doit réussir un jet de Vigueur DD 19 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}. Si le coup porté par la flèche rhino a été un succès critique, la cible tombe À terre, à moins qu'elle n'obtiennent un succès critique à son jet de sauvegarde.</p>"
-        },
-        {
-            "id": "Effect: Clockwork Goggles (Major)",
-            "name": "Effet : Lunettes mécaniques majeures (Effect: Clockwork Goggles (Major))",
-            "description": "<p>Vous obtenez Vision nocturne, Vision dans le noir et les effets de <em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l'invisibilité}</em> pendant 10 minutes.</p>"
-        },
-        {
-            "id": "Effect: Eye of the Unseen (Greater)",
-            "name": "Effet : Œil de l'invisible supérieur (Effect: Eye of the Unseen (Greater))",
-            "description": "<p>Lorsque vous portez l'œil, vous gagnez un bonus d'objet de +2 aux tests de Perception visuelle.</p>"
-        },
-        {
-            "id": "Equipment Effect: Lesser Healer's Gel",
-            "name": "Effet : Gel du guérisseur inférieur (Equipment Effect: Lesser Healer's Gel)",
-            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 5 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
-        },
-        {
-            "id": "Equipment Effect: Greater Potion of Stable Form",
-            "name": "Effet : Potion de forme stable supérieure (Equipment Effect: Greater Potion of Stable Form)",
-            "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +3 contre les effets de transmutation, et de +4 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
-        },
-        {
-            "id": "Equipment Effect: Major Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes majeure (Equipment Effect: Major Five-Feather Wreath)",
-            "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests d'Acrobatie et une résistance de 10 aux dégâts de chute.</p>"
-        },
-        {
-            "id": "Effect: Breastplate of Command",
-            "name": "Effet : Cuirasse de commandement (Effect: Breastplate of Command)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.RUEAV5LMUGFHcXcW]{Cuirasse de commandement}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus de statut de +2 aux jets de sauvegarde contre la terreur</li>\n</ul>"
-        },
-        {
-            "id": "Equipment Effect: Topology Protoplasm",
-            "name": "Effet : Morphologie protoplasmique (Equipment Effect: Topology Protoplasm)",
-            "description": "Dans cet état, une créature qui tente de Se faufiler utilise le résultat correspondant à un degré supérieur de réussite à son jet et peut se déplacer à sa vitesse maximale pendant qu'elle Se faufile et un objet peut passer à travers un espace de 60 centimètres de large.</p>"
-        },
-        {
-            "id": "Effect: Private Workshop (Using for Crafting)",
-            "name": "Effet : Atelier privé (utilisation pour l'artisanat) (Effect: Private Workshop (Using for Crafting))",
-            "description": "<p>L'atelier est approvisionné en outils ordinaires et peut être utilisé pour Fabriquer des objets appropriés avec un bonus d'objet de +1, mais vous devez fournir toute matière première.</p>"
-        },
-        {
-            "id": "Effect: Spiderfoot Brew (Lesser)",
-            "name": "Effet : Infusion de pattes d'araignée inférieure (Effect: Spiderfoot Brew (Lesser))",
-            "description": "<p>Lorsque vous buvez une infusion de pattes d'araignée, de minuscules poils préhesiles poussent sur vos mains et vos pieds, vous accordant une vitesse d'escalade de 4,5 mètres et un bonus d'objet de +1 aux tests d'Athlétisme effectués pour grimper pendant 1 minute.</p>"
-        },
-        {
-            "id": "Effect: Clockwork Goggles (Greater)",
-            "name": "Effet : Lunettes mécaniques supérieures (Effect: Clockwork Goggles (Greater))",
-            "description": "<p>Vous obtenez Vision nocturne et Vision dans le noir pendant 10 minutes.</p>"
-        },
-        {
-            "id": "Effect: Tanglefoot Bag (Greater)",
-            "name": "Effet : Sacoche immobilisante supérieur (Effect: Tanglefoot Bag (Greater))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.5Qkz4RVJr2Kx3RL6]{Sacoche immobilisante supérieur)}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -4,5 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 28.</p>"
-        },
-        {
-            "id": "Effect: Tanglefoot Bag (Lesser)",
-            "name": "Effet : Sacoche immobilisante inférieur (Effect: Tanglefoot Bag (Lesser))",
-            "description": "<p>Accordé en activant une @Compendium[pf2e.equipment-srd.T6Appwwl6nUl56Xj]{Sacoche immobilisante inférieur}.</p>\n<hr />\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -3 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 17.</p>"
+            "id": "Effect: Dragon's Blood Pudding (Moderate)",
+            "name": "Effet : Poudding de sang de dragon modéré (Effect: Dragon's Blood Pudding (Moderate))",
+            "description": "<p>Si vous choisissez de démoraliser, vous gagnez un bonus d'objet de +2 au jet d'intimidation.</p>"
         },
         {
             "id": "Effect: Brewer's Regret",
@@ -837,24 +802,54 @@
             "description": "<p>Pendant une heure après l'avoir consommée, vous obtenez un bonus d'objet de +2 aux jets de sauvegarde contre la mort et les effets négatifs."
         },
         {
-            "id": "Effect: Rowan Rifle (Electricity)",
-            "name": "Effet : Fusil de Rowan (électricité) (Effect: Rowan Rifle (Electricity))",
-            "description": "<p>Le Fusil du Rowan voit son type de dégâts passer de son type de dégâts actuel à des dégâts d'électricité. Au prochain lever du soleil, le fusil du Rowan recommence à infliger des dégâts de feu.</p>"
+            "id": "Effect: Fire and Iceberg (Greater)",
+            "name": "Effet : Feu et iceberg supérieur (Effect: Fire and Iceberg (Greater))",
+            "description": "<p>Vous obtenez une résistance 10 au feu et au froid pendant 5 minute.</p>"
         },
         {
-            "id": "Effect: Jack's Tattered Cape",
-            "name": "Effet : Cape en loques de Jack (Effect: Jack's Tattered Cape)",
-            "description": "<p>Vous gagnez un bonus d'objet de +1 à vos tests de Discrétion pour @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ou @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}</p>"
+            "id": "Effect: Arboreal's Revenge (Speed Penalty)",
+            "name": "Effet : Vengeance de l'arboréen (pénalité à la vitesse) (Effect: Arboreal's Revenge (Speed Penalty))",
+            "description": "<p>En cas d'échec, une pénalité de -3 mètres à la vitesse est appliquée vu que des racines émergent rapidement des blessures, jusqu'à ce qu'une tentative pour @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{s'Échapper} (DD 20) réussisse.</p>"
         },
         {
-            "id": "Effect: Throne Card",
-            "name": "Effet : Carte trône (Effect: Throne Card)",
-            "description": "<p>Accordé par @Compendium[pf2e.gmg-srd.IJ3nFDu2YcoP6ynd]{Trône} issu du @Compendium[pf2e.equipment-srd.Gyi4IVrAVJRPJF2s]{Paquet de cartes merveilleuses}</p>\n<p>Effet automatiquement appliqué : bonus de statut de +4 à la Diplomatie</p>"
+            "id": "Effect: Immolation Clan Pistol",
+            "name": "Effet : Pistolet de clan d'immolation (Effect: Immolation Clan Pistol)",
+            "description": "<p>Pendant une minute vous ressemblez à un corps enflammé. Durant ce temps vous gagnez un bonus de statut +2 à vos test d'Intimidation et le pistolet de clan d'immolation devient un <em>Pistolet de Frappe +2 Enflammé</em>.</p>"
         },
         {
-            "id": "Effect: Aeon Stone (Orange Prism) (Arcana)",
-            "name": "Effect: Pierre d'éternité (Prisme orange) (Arcanes) (Effect: Aeon Stone (Orange Prism) (Arcana))",
-            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort d'Arcanes.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Arcane</li>\n</ul>"
+            "id": "Effect: Eye of the Unseen",
+            "name": "Effet : Œil de l'invisible (Effect: Eye of the Unseen)",
+            "description": "<p>Lorsque vous portez l'œil, vous gagnez un bonus d'objet de +1 aux tests de Perception visuelle.</p>"
+        },
+        {
+            "id": "Effect: Fire and Iceberg",
+            "name": "Effet : Feu et iceberg (Effect: Fire and Iceberg)",
+            "description": "<p>Vous obtenez une résistance 5 au feu et au froid pendant 1 minute.</p>"
+        },
+        {
+            "id": "Spell Effect: Barkskin (Arboreal's Revenge)",
+            "name": "Effet : Peau d'écorce (Vengeance de l'arboréen) (Spell Effect: Barkskin (Arboreal's Revenge))",
+            "description": ""
+        },
+        {
+            "id": "Equipment Effect: Lesser Healer's Gel",
+            "name": "Effet : Gel du guérisseur inférieur (Equipment Effect: Lesser Healer's Gel)",
+            "description": "<p>L'ajout de ce composant matériel à un sort Guérison confère 5 points de vie temporaires supplémentaires à une cible soignée par le sort. Ces points de vie temporaires durent 1 minute.</p>"
+        },
+        {
+            "id": "Effect: Mudrock Snare (Success)",
+            "name": "Effet : Piège artisanal de boue solidifiée (Succès) (Effect: Mudrock Snare (Success))",
+            "description": "<p>La créature subit une pénalité de circonstances de -1,5 m à sa Vitesse pendant 1 minute ou jusqu'à ce qu'elle s'échappe (DD 27).</p>"
+        },
+        {
+            "id": "Effect: Clockwork Cloak",
+            "name": "Effet : Cape mécanique (Effect: Clockwork Cloak)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.v9tI40skGswMQTVN]{Cape mécanique}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Pénalité de -4 aux tests de Perception</li>\n<li>Bonus d'objet de +2 à votre jet d'initiative.</li>\n</ul>"
+        },
+        {
+            "id": "Effect: Bracelet of Dashing",
+            "name": "Effet : Bracelets de fougue (Effect: Bracelet of Dashing)",
+            "description": "<p>Granted by @Compendium[pf2e.equipment-srd.BKdzb8hu3kZtKH3Z]{Bracelets de fougue}</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus de statut de 3 mètres à la Vitesse</li>\n</ul>"
         },
         {
             "id": "Effect: Energizing Rune (Sonic)",
@@ -862,44 +857,29 @@
             "description": "<p>L'arme est imprégnée du type d'énergie déclencheur. Elle inflige 1d8 dégâts de son supplémentaires jusqu'à la fin de votre prochain tour.</p>"
         },
         {
-            "id": "Effect: Fire and Iceberg (Major)",
-            "name": "Effet : Feu et iceberg majeur (Effect: Fire and Iceberg (Major))",
-            "description": "<p>Vous obtenez une résistance 15 au feu et au froid pendant 10 minutes.</p>"
+            "id": "Equipment Effect: South Wind's Scorch Song (Damage)",
+            "name": "Effet : Chanson brûlante du vent du sud (Dégâts) (Equipment Effect: South Wind's Scorch Song (Damage))",
+            "description": "<p>Tant que vous bénéficiez d'un bonus de statut à au moins une de vos Vitesses, vos frappes avec ce cimeterre qui inflige des dégâts de feu bénéficient d'un bonus de statut de +2 à leurs dégâts de feu. Le bonus de statut passe à +3 si l'arme possède une rune de Frappe supérieure et à +4 avec une rune de Frappe majeure.</p>\n<hr />\n<p><em>Note : Il n'est pas possible actuellement de faire en sorte que les dégâts augmentent automatiquement lorsque les dés de dégâts augmentent.</em></p>"
         },
         {
-            "id": "Effect: Thurible of Revelation (Moderate)",
-            "name": "Effet : Encensoir de révélation modéré (Effect: Thurible of Revelation (Moderate))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.QEPx1fCf74xdpXBH]{Encensoir de révélation modéré}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 aux test de Religion</li>\n</ul>"
+            "id": "Effect: Leopard's Armor",
+            "name": "Effet : Armure du léopard (Effect: Leopard's Armor)",
+            "description": ""
         },
         {
-            "id": "Effect: Skyrider Sword (Greater)",
-            "name": "Effet : Chevaucheur d'épée supérieur (Effect: Skyrider Sword (Greater))",
-            "description": "<p>Vous bondissez sur votre épée qui s'envole dans les airs. Vous gagnez une vitesse de vol de 7,5 mètres ou égale à votre vitesse terrestre si elle est plus lente, mais vous ne pouvez pas Frapper avec votre arme, sauf via l'autre activation de l'arme (voir ci-dessous). Vous pouvez Révoquer l'activation, et elle se termine automatiquement si vous cessez de tenir l'arme avec au moins une main.</p"
+            "id": "Effect: Nosoi Charm (Performance)",
+            "name": "Effet : Charme Nosoi (Représentation) (Effect: Nosoi Charm (Performance))",
+            "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests de Représentation pour jouer d'un instrument, discourir ou chanter.</p>"
         },
         {
-            "id": "Effect: Potency Crystal",
-            "name": "Effet : Cristal de puissance (Effect: Potency Crystal)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]{Cristal de puissance}</p>\n<p>L’arme devient une <em>arme de frappe +1</em> pendant le reste de votre tour. Elle gagne un bonus d’objet de +1 aux jets d’attaque et ses dégâts sur un coup passent à deux fois ses dés de dégâts.</p>"
+            "id": "Effect: Blast Boots (Major)",
+            "name": "Effet : Bottes d'explosion majeures (Effect: Blast Boots (Major))",
+            "description": "<p>Pendant 1 minute, les bottes d'explosions majeures vous permettent de voler maladroitement dans les airs. Vous obtenez une vitesse de vol de 9 mètres pendant la durée mais chaque fois que vous @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volez}, vous êtes @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} jusqu'au début de votre prochain tour.</p>"
         },
         {
-            "id": "Effect: Skyrider Sword",
-            "name": "Effet : Chevaucheur d'épée (Effect: Skyrider Sword)",
-            "description": "<p>Vous bondissez sur votre épée qui s'envole dans les airs pendant un maximum de 10 minutes. Vous gagnez une vitesse de vol de 7,5 mètres ou égale à votre vitesse terrestre si elle est plus lente, mais vous ne pouvez pas Frapper avec votre arme, sauf via l'autre activation de l'arme (voir ci-dessous). Vous pouvez Révoquer l'activation, et elle se termine automatiquement si vous cessez de tenir l'arme avec au moins une main.</p>"
-        },
-        {
-            "id": "Effect: Brewer's Regret (Greater)",
-            "name": "Effet : Regret du brasseur supérieur (Effect: Brewer's Regret (Greater))",
-            "description": "<p>Pendant une heure après l'avoir consommée, vous obtenez un bonus d'objet de +3 aux jets de sauvegarde contre la mort et les effets négatifs</p>"
-        },
-        {
-            "id": "Effect: Ivory Baton",
-            "name": "Effet: Bâton d'ivoire (Effect: Ivory Baton)",
-            "description": "<p>la créature artificielle bénéficie d'un bonus de statut de +1 aux jets d'attaque, aux jets de dégâts et aux jets de sauvegarde (sauf les jets de sauvegarde contre le bâton d'ivoire).</p>"
-        },
-        {
-            "id": "Effect: Improvised Weapon",
-            "name": "Effet : Arme improvisée (Effect: Improvised Weapon)",
-            "description": "<p>Applique une pénalité de -2 aux jets d'attaque avec toute arme qui porte le trait \"improvised\".</p>\n<p>Choisir dans l'inventaire ou dans le compendium l'arme que vous voulez émuler : par exemple un \"bâton\" si vous avez une branche, une \"matraque\" si vous prenez une bouteille, une dague si vous prenez une \"stalactite\", placez le dans l'inventaire.</p>\n<p>dans l'onglet détails de ladite arme, éditez les traits pour ajouter tout en bas \"improvised\" (en anglais) qui n'est pas actuellement dans la liste (une demande d'intégration est en cours).</p>\n<p>glisser déposer l'effet sur le jeton de votre PJ.</p>\n<p>Une petite animation apparaîtra pour vous dire que l'effet est actif. Une pelle apparaîtra. Cela vous permettra d'activer ou non l'effet lors de la Frappe avec l'arme improvisée.</p>\n<p>Pour désactiver l'effet, un clic droit sur l'icône suffit pelle.</p>"
+            "id": "Effect: Inspiring Spotlight",
+            "name": "Effet : Projecteur inspirant (Effect: Inspiring Spotlight)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.M1fRjN7E3P55zvmc]{Inspiring Spotlight}.</p>\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +1 aux jets de sauvegarde</li>\n<li>Bonus d'objet de +1 aux tests de compétence basés sur le Charisme (Diplomatie, Duperie, Intimidation, Représentation)</li>\n</ul>"
         },
         {
             "id": "Effect: Deadweight Snare (Success)",
@@ -907,59 +887,79 @@
             "description": "<p>La créature subit une pénalité de statut de -2 à ses jets d'Attaque pendant 1 minute ou jusqu'à ce qu'elle réussi à s'Échapper (DD 18)</p>"
         },
         {
-            "id": "Effect: Energized Cartridge (Electricity)",
-            "name": "Effet : Cartouche énergisée (électricité) (Effect: Energized Cartridge (Electricity))",
-            "description": "<p>Pour la prochaine attaque, la munition tirée de l'arme fixée se transforme en électricité, infligeant des dégâts d'électricité au lieu des dégâts habituels plus [[/r {1d6}[persistent,electricity]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts persistants d'électricité} sur une réussite critique.</p>"
+            "id": "Effect: Clandestine Cloak (Greater)",
+            "name": "Effect: Cape de clandestinité supérieure (Effect: Clandestine Cloak (Greater))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.6jRXUXzYKIpm2uNp]{Cape de clandestinité supérieure}</p>\n<p>Automatically applied effects:</p>\n<<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +2 aux tests de Discrétion</li>\n<li>Bonus d'objet de +2 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
         },
         {
-            "id": "Effect: Grit (Stage 2)",
-            "name": "Effet : Grit (stade 2) (Effect: Grit (Stage 2))",
-            "description": "<p>La créature obtient un bonus d'obet de +1 aux tests d'Artisanat, d'Athlétisme et de Représentation et une pénalité d'objet de -2 aux tests de Perception.</p>"
+            "id": "Effect: Mudrock Snare (Failure)",
+            "name": "Effet : Piège artisanal de boue solidifiée (Échec) (Effect: Mudrock Snare (Failure))",
+            "description": "<p>La créature subit une pénalité de cironstances de -3 mètres à toutes ses Vitesses ou jusqu'à ce qu'elle s'Échappe (DD 27).</p>"
         },
         {
-            "id": "Effect: Wand of Fey Flames",
-            "name": "Effet : Baguette de feux féériques (Effect: Wand of Fey Flames)",
-            "description": "<p>Pendant la durée du sort, vous pouvez utiliser les flammes féériques comme source de votre magie. Les créatures affectées par vos <em>Lueurs féériques</em> doivent réussir un jet de Volonté contre votre DD de sort ou subir une pénalité de statut de -2 à leurs jets de Volonté contre les sorts d'enchantement et d'illusion tant qu'elles sont affectées par les Lueurs féériques. Vous pouvez lancer un sort d'enchantement ou d'illusion sur une telle créature jusqu'à une distance égale à deux fois la portée normale du sort. Si la portée du sort est toucher ou si le sort n'a pas de portée, il n'est pas affecté par l'augmentation de la portée due aux <em>Lueurs féériques</em>.</p>"
+            "id": "Effect: Glaive of the Artist",
+            "name": "Effet : Glaive de l'Artiste (Effect: Glaive of the Artist)",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.J5It6yq3ZkN059zP]{Glaive de l'artiste}.</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d'objet de +2 aux tests de Représentation.</li>\n</ul>"
         },
         {
-            "id": "Effect: Celestial Armor",
-            "name": "Effet : Armure céleste (Effect: Celestial Armor)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.2uHcTZ40oZ62R9gy]{Armure céleste}.</p>\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une Vitesse de vol de 9 mètres</li>\n</ul>"
+            "id": "Effect: Energizing Rune (Cold)",
+            "name": "Effet : Rune énergisante de froid (Effect: Energizing Rune (Cold))",
+            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de froid jusqu'à la fin de votre prochain tour.</p>"
         },
         {
-            "id": "Effect: Holy Steam Ball",
-            "name": "Effet : Bille de vapeur sacrée (Effect: Holy Steam Ball)",
-            "description": "<p>Chaque utilisation de la bille de vapeur sacrée dure 1 heure et vous confère un bonus d'objet de +2 aux jets de Volonté contre les effets de possession des démons et des morts-vivants et les effets des démons et des morts-vivants qui provoquent l'état Contrôlé.</p>"
+            "id": "Effect: Aeon Stone (Orange Prism) (Occultism)",
+            "name": "Effect: Pierre d'éternité (Prisme orange) (Occultisme) (Effect: Aeon Stone (Orange Prism) (Occultism))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.MO8J2IcBhiTnm9D8]{Pierre d'éternité (Prisme orange)} lorsque le dernier sort que vous avez lancé était un sort occulte.</p>\n<hr />\n<p>Effets appliqués automatiquement : </p>\n<ul>\n<li>Bonus d'objet de +2 aux tests d'Occultisme</li>\n</ul>"
         },
         {
-            "id": "Effect: Energizing Rune (Fire)",
-            "name": "Effet : Rune énergisante de feu (Effect: Energizing Rune (Fire))",
-            "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires de feu jusqu'à la fin de votre prochain tour.</p>"
+            "id": "Effect: Greater Fanged Rune Animal Form",
+            "name": "Effet : Forme d'animal à runes de crocs supérieure (Effect: Greater Fanged Rune Animal Form)",
+            "description": "<p>Vous vous transformez en un animal de taille Petite ou Moyenne qui manie l'arme à crocs dans ses mâchoires ; l'animal correspond à celui auquel vous êtes le plus étroitement associé (un homme-lézard se transforme en lézard, un kitsune en renard, un barbare instinct de cerf en cerf, etc.) ou en loup si aucun animal spécifique n'est applicable. Lorsque vous êtes sous cette forme, vous pouvez attaquer avec l'arme à crocs même si vous n'avez pas de mains. Cependant, vous ne pouvez attaquer qu'avec l'arme à crocs et vous n'avez pas de mains ni la capacité de tenir des objets. Pour les effets qui dépendent du nombre de mains que vous utilisez pour tenir l'objet, comme le trait à deux mains, vous considérez que vous tenez l'arme à deux mains. Vous pouvez Révoquer cet effet, et il prend fin automatiquement si vous lâchez l'arme à crocs (que ce soit volontaire ou non).</p>\n<p>Sous forme animale, vous obtenez vision nocturne et un bonus d'objet de +1,5 mètres à votre Vitesse.</p>"
         },
         {
-            "id": "Effect: Silkspinner's Shield (Climb)",
-            "name": "Effet : Bouclier de la fileuse de soie (Escalade) (Effect: Silkspinner's Shield (Climb))",
-            "description": "<p>Huit pattes d'araignée jaillissent du bord du bouclier vous accordant une vitesse d'escalade de 7,5 mètres jusqu'à la fin de votre prochain tour.</p>"
+            "id": "Effect: Tanglefoot Bag (Moderate)",
+            "name": "Effet : Sacoche immobilisante modéré (Effect: Tanglefoot Bag (Moderate))",
+            "description": "<p>Accordé en activant @Compendium[pf2e.equipment-srd.evBPzM1VsuYcoenn]{Sacoche immobilisante modéré)}.</p>\n<p>Une sacoche immobilisante regorge de substances collantes. Lorsque vous touchez une créature avec un tel objet, elle subit un malus de statut de -4,5 mètres à la Vitesse pendant 1 minute. Le DD pour s'Échapper est de 19.</p>"
         },
         {
-            "id": "Effect: Ablative Armor Plating (Lesser)",
-            "name": "Effet : Blindage ablatif d'armure inférieur (Effect: Ablative Armor Plating (Lesser))",
-            "description": "<p>Le blindage accorde au porteur de l'armure 5 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "id": "Effect: Glittering Snare (Critical Failure)",
+            "name": "Effet : Piège scintillant (Échec critique) (Effect: Glittering Snare (Critical Failure))",
+            "description": "<p>La créature subit une pénalité de statut de -4 aux tests de Discrétion pendant 5 minutes, ou jusqu'à ce qu'elle dépense 3 actions qui possèdent le trait Manipulation pour enlever les paillettes. Les paillettes continuent de tomber autour de la créature jusqu'à ce qu'elles soient complètement retirées, laissant une traînée derrière elle lorsqu'elle se déplace et révélant son emplacement approximatif ; la créature est @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Cachée}, plutôt que @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Non détectée}, pour toute créature qui peut voir les paillettes chaque fois qu'elle n'aurait pas été détectée autrement.</p>"
         },
         {
-            "id": "Effect: Red-Rib Gill Mask (Lesser)",
-            "name": "Effet : Masque branchies de côte rouge inférieur (Effect: Red-Rib Gill Mask (Lesser))",
-            "description": "<p>Après avoir activé le masque, vous obtenez un bonus d'objet de +1 aux jets de Vigueur contre les effets inhalés ;  ce bonus est de +2 contre le gaz volcanique mortel connu autour du lac Terwa sous le nom d'Haleine du mort et éventuellement contre d'autres gaz volcaniques similaires (à la discrétion du MJ).</p>"
+            "id": "Effect: Impossible Cake (Greater)",
+            "name": "Effet : Gâteau de l'impossible supérieur (Effect: Impossible Cake (Greater))",
+            "description": "<p>Pendant 30 minutes après le repas, vous gagnez un bonus d'objet de +3 à vos tests de Duperie pour vous Déguiser et Mentir pour convaincre les autres que vous possédez des connaissances sur le type d'objet auquel le gâteau ressemble.</p>"
         },
         {
-            "id": "Effect: Server's Stew",
-            "name": "Effet : Ragoût du serveur (Effect: Server's Stew)",
-            "description": "<p>Vous bénéficiez d'un bonus d'objet de +2 aux tests de Diplomatie effectués dans la langue du Ragoût du serveur pendant 1 heure.</p>"
+            "id": "Effect: Prepared Camouflage Suit",
+            "name": "Effet : Tenue de camouflage préparée (Effect: Prepared Camouflage Suit)",
+            "description": "<p>Cette étoffe légère s'adapte facilement sur une armure légère. La tenue est conçue pour incorporer la flore locale et le fouillis du sol dans le maillage afin de vous aider à vous fondre parfaitement dans l'environnement. En raison de la nature abrasive des matériaux utilisés, cet article ne convient pas aux personnages sans armures. Vous pouvez préparer la tenue pour l'utiliser dans votre environnement actuel en utilisant une activité d'exploration qui prend au moins 10 minutes, mais parfois plus longtemps si les matériaux sont difficiles à trouver ou si l'environnement est suffisamment inhabituel pour justifier une difficulté supplémentaire dans la préparation d'un camouflage qui peut se fondre avec lui de manière cohérente.</p>\n<p>Une tenue préparée de cette manière vous accorde un bonus d'objet de +1 aux tests de Discrétion lorsque vous tentez de Vous cacher ou Être furtif dans l'environnement spécifique pour lequel il a été préparé. La tenue reste utilisable de cette manière jusqu'à ce que vous vous reposiez pour la nuit, bien qu'elle n'accorde pas cet avantage chaque fois que vous n'êtes pas dans l'environnement approprié. Le MJ peut décider que certains environnements sont suffisamment inhabituels pour que vous ne puissiez pas créer une tenue  de camouflage appropriée à l'environnement.</p>"
         },
         {
-            "id": "Effect: Succubus Kiss (Stage 1)",
-            "name": "Effet : Baiser de la succube (Stade 1) (Effect: Succubus Kiss (Stage 1))",
-            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
+            "id": "Effect: Glittering Snare (Success)",
+            "name": "Effet : Piège scintillant (Succès) (Effect: Glittering Snare (Success))",
+            "description": "<p>La créature subit une pénalité de statut de -1 aux tests de Discrétion pendant 1 minute ou jusqu'à ce qu'elle utilise une action d'interaction pour retirer les paillettes.</p>"
+        },
+        {
+            "id": "Equipment Effect: Potion of Minute Echoes",
+            "name": "Effet : Potion de l'écho-minute (Equipment Effect: Potion of Minute Echoes)",
+            "description": "<p>Pendant 1 minute après avoir bu cette potion, vous obtenez un bonus de statut de +2 aux tests de Perception pour entendre. De plus, chaque fois que vous Cherchez, votre ouïe devient un sens précis jusqu'au début de votre prochain tour, ce qui vous permet de localiser avec précision les créatures et également de percevoir le monde en détail rien qu'en écoutant le son des échos.</p>"
+        },
+        {
+            "id": "Effect: Storm Chair",
+            "name": "Effet : Chaise de tempête (Effect: Storm Chair)",
+            "description": "<p>Pendant 1 minute, vous gagnez une vitesse de vol égale à votre Vitesse et les créatures adjacentes qui vous frappent avec une attaque au corps-à-corps, ainsi que les créatures qui vous touchent ou vous frappent avec une attaque à mains nues, subissent [[/r {2d6}[electricity]]]{2d6 dégâts d'électricité} à chaque fois. Comme à l'accoutumée, cela s'applique aux créatures qui choisissent de vous toucher et pas lorsque vous touchez ou attaquez une autre créature.</p>"
+        },
+        {
+            "id": "Effect: Frost Vial (Greater)",
+            "name": "Effet : Fiole givrée supérieure (Effect: Frost Vial (Greater))",
+            "description": "<p>La créature subit un malus de statut de -3 mètres à ses Vitesses jusqu’à la fin de son prochain tour.</p>"
+        },
+        {
+            "id": "Effect: Thurible of Revelation (Moderate)",
+            "name": "Effet : Encensoir de révélation modéré (Effect: Thurible of Revelation (Moderate))",
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.QEPx1fCf74xdpXBH]{Encensoir de révélation modéré}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Bonus d'objet de +2 aux test de Religion</li>\n</ul>"
         }
     ],
     "mapping": {

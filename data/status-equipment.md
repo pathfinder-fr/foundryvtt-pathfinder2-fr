@@ -4,7 +4,7 @@
  * **libre**: 1857
 
 
-Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -260,7 +260,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-3cWko20JPnjeoofV.htm](equipment/consumable-01-3cWko20JPnjeoofV.htm)|Feather Token (Ladder)|Plume magique (échelle)|officielle|
 |[consumable-01-3V2U720YhW2nyGVx.htm](equipment/consumable-01-3V2U720YhW2nyGVx.htm)|Spike Snare|Piège artisanal à pointes|officielle|
 |[consumable-01-3Wb0N7iqmTn6e2Xc.htm](equipment/consumable-01-3Wb0N7iqmTn6e2Xc.htm)|Ration Tonic|Ration énergisante|libre|
-|[consumable-01-5MKBwpE401uz4kNN.htm](equipment/consumable-01-5MKBwpE401uz4kNN.htm)|Quicksilver Mutagen (Lesser)|Mutagène de Vif-argent (inférieur)|officielle|
+|[consumable-01-5MKBwpE401uz4kNN.htm](equipment/consumable-01-5MKBwpE401uz4kNN.htm)|Quicksilver Mutagen (Lesser)|Mutagène de vif-argent inférieur|officielle|
 |[consumable-01-60RuBISKBTuYquBe.htm](equipment/consumable-01-60RuBISKBTuYquBe.htm)|Appetizing Flavor Snare|Piège artisanal alléchant|libre|
 |[consumable-01-7e57yUVtRgYLOFwT.htm](equipment/consumable-01-7e57yUVtRgYLOFwT.htm)|Explosive Mine (Lesser)|Mine explosive inférieure|libre|
 |[consumable-01-7Y2yOr4ltpP2tyuL.htm](equipment/consumable-01-7Y2yOr4ltpP2tyuL.htm)|Eagle Eye Elixir (Lesser)|Élixir d'œil du faucon inférieur|officielle|
@@ -269,7 +269,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-9EVzmy4dY9LpUgyC.htm](equipment/consumable-01-9EVzmy4dY9LpUgyC.htm)|Silver Tripod|Trépied en argent|libre|
 |[consumable-01-AFX1V0Go9DqPWBlN.htm](equipment/consumable-01-AFX1V0Go9DqPWBlN.htm)|Alarm Snare|Piège artisanal d'alarme|officielle|
 |[consumable-01-aP5wvs60j6VaKvWL.htm](equipment/consumable-01-aP5wvs60j6VaKvWL.htm)|Flare Beacon (Lesser)|Balise éclairante inférieure|libre|
-|[consumable-01-apGQcVMSRprFEeKt.htm](equipment/consumable-01-apGQcVMSRprFEeKt.htm)|Potion of Acid Retaliation (Minor)|Potion de Riposte acide (mineure)|libre|
+|[consumable-01-apGQcVMSRprFEeKt.htm](equipment/consumable-01-apGQcVMSRprFEeKt.htm)|Potion of Acid Retaliation (Minor)|Potion de riposte acide mineure|libre|
 |[consumable-01-azFpL1NLBJB7xuli.htm](equipment/consumable-01-azFpL1NLBJB7xuli.htm)|Dust Pods|Sachet de poussière|libre|
 |[consumable-01-BjCGt377LpCwbtyS.htm](equipment/consumable-01-BjCGt377LpCwbtyS.htm)|Emergency Disguise|Déguisement d'urgence|libre|
 |[consumable-01-BJtpbzjSza4wUlQX.htm](equipment/consumable-01-BJtpbzjSza4wUlQX.htm)|Smoke Screen Snare (Lesser)|Piège artisanal d'écran de fumée inférieur|libre|
@@ -280,20 +280,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-eHVZBmtzEcnsHSk8.htm](equipment/consumable-01-eHVZBmtzEcnsHSk8.htm)|Skeptic's Elixir (Lesser)|Élixir de l'incrédule inférieur|libre|
 |[consumable-01-ev3F9qlMNlNdCOAI.htm](equipment/consumable-01-ev3F9qlMNlNdCOAI.htm)|Runestone|Pierre runique|officielle|
 |[consumable-01-EWujUs3YmlBu2jhm.htm](equipment/consumable-01-EWujUs3YmlBu2jhm.htm)|Shielding Salve|Onguent de bouclier|libre|
-|[consumable-01-fTQ5e4utVfgtXV1e.htm](equipment/consumable-01-fTQ5e4utVfgtXV1e.htm)|Oil of Unlife (Minor)|Huile de Non-vie (mineure)|libre|
-|[consumable-01-GS4YvQieBS11JNYR.htm](equipment/consumable-01-GS4YvQieBS11JNYR.htm)|Drakeheart Mutagen (Lesser)|Mutagène de Cœur de drake inférieur|libre|
+|[consumable-01-fTQ5e4utVfgtXV1e.htm](equipment/consumable-01-fTQ5e4utVfgtXV1e.htm)|Oil of Unlife (Minor)|Huile de non-vie mineure|libre|
+|[consumable-01-GS4YvQieBS11JNYR.htm](equipment/consumable-01-GS4YvQieBS11JNYR.htm)|Drakeheart Mutagen (Lesser)|Mutagène de cœur de drake inférieur|libre|
 |[consumable-01-H2BqcfujumZVWF69.htm](equipment/consumable-01-H2BqcfujumZVWF69.htm)|Slippery Ribbon|Ruban glissant|libre|
 |[consumable-01-hDLbR56Id2OtU318.htm](equipment/consumable-01-hDLbR56Id2OtU318.htm)|Elixir of Life (Minor)|Élixir de vie mineur|officielle|
 |[consumable-01-hGw7Q1y2IEXRGAfv.htm](equipment/consumable-01-hGw7Q1y2IEXRGAfv.htm)|Gecko Potion|Potion de Gecko|libre|
 |[consumable-01-IQK9N2mEOyAj3iWU.htm](equipment/consumable-01-IQK9N2mEOyAj3iWU.htm)|Bestial Mutagen (Lesser)|Mutagène bestial inférieur|officielle|
-|[consumable-01-jlFx4JIBKJuaINpv.htm](equipment/consumable-01-jlFx4JIBKJuaINpv.htm)|Potion of Shared Memories|Potion de la Mémoire partagée|libre|
+|[consumable-01-jlFx4JIBKJuaINpv.htm](equipment/consumable-01-jlFx4JIBKJuaINpv.htm)|Potion of Shared Memories|Potion des souvenirs partagés|libre|
 |[consumable-01-jTfacZ4SRuQd7Avh.htm](equipment/consumable-01-jTfacZ4SRuQd7Avh.htm)|Potion of Expeditious Retreat|Potion de Retraite accélérée|libre|
 |[consumable-01-jVJwCB5ztkXHD5ML.htm](equipment/consumable-01-jVJwCB5ztkXHD5ML.htm)|Clockwork Goggles|Lunettes mécaniques|libre|
 |[consumable-01-kF761P3ibBIFmLm9.htm](equipment/consumable-01-kF761P3ibBIFmLm9.htm)|Caltrop Snare|Piège artisanal de chausse-trappes|officielle|
 |[consumable-01-Km4lSOsyrip5q6iD.htm](equipment/consumable-01-Km4lSOsyrip5q6iD.htm)|Hampering Snare|Piège artisanal ralentisseur|officielle|
-|[consumable-01-ktjFOp3U0wQD9t0Z.htm](equipment/consumable-01-ktjFOp3U0wQD9t0Z.htm)|Antidote (Lesser)|Antidote (inférieur)|officielle|
+|[consumable-01-ktjFOp3U0wQD9t0Z.htm](equipment/consumable-01-ktjFOp3U0wQD9t0Z.htm)|Antidote (Lesser)|Antidote inférieur|officielle|
 |[consumable-01-lAmwzpbGaARQ2eP4.htm](equipment/consumable-01-lAmwzpbGaARQ2eP4.htm)|Shrine Inarizushi|Autel d'Inarizuhi|libre|
-|[consumable-01-Led9ciHzpF8uPN6Y.htm](equipment/consumable-01-Led9ciHzpF8uPN6Y.htm)|Thunderbird Tuft (Lesser)|Touffe d'Oiseau-tonnerre mineure|libre|
+|[consumable-01-Led9ciHzpF8uPN6Y.htm](equipment/consumable-01-Led9ciHzpF8uPN6Y.htm)|Thunderbird Tuft (Lesser)|Touffe d'oiseau-tonnerre mineure|libre|
 |[consumable-01-mbrwudO35tItsldq.htm](equipment/consumable-01-mbrwudO35tItsldq.htm)|Energy Mutagen (Lesser)|Mutagène d'Énergie inférieur|libre|
 |[consumable-01-MoBlVd36uD9xVvZC.htm](equipment/consumable-01-MoBlVd36uD9xVvZC.htm)|Smokestick (Lesser)|Bâton fumigène inférieur|officielle|
 |[consumable-01-NI7twU2G6UCDmvCO.htm](equipment/consumable-01-NI7twU2G6UCDmvCO.htm)|Shining Ammunition|Munition luisante|officielle|
@@ -310,7 +310,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-01-SNMggNsvgPoAYjpU.htm](equipment/consumable-01-SNMggNsvgPoAYjpU.htm)|Addiction Suppressant (Lesser)|Suppresseur de dépendance inférieure|libre|
 |[consumable-01-tLa4bewBhyqzi6Ow.htm](equipment/consumable-01-tLa4bewBhyqzi6Ow.htm)|Cantrip Deck (5-pack)|Paquet de tours de magie de 5 cartes|libre|
 |[consumable-01-txmX5ghhPS72GKXy.htm](equipment/consumable-01-txmX5ghhPS72GKXy.htm)|Giant Centipede Venom|Venin de mille-pattes géant|officielle|
-|[consumable-01-tyt6rFtv32MZ4DT9.htm](equipment/consumable-01-tyt6rFtv32MZ4DT9.htm)|Cheetah's Elixir (Lesser)|Elixir du guépard inférieur|officielle|
+|[consumable-01-tyt6rFtv32MZ4DT9.htm](equipment/consumable-01-tyt6rFtv32MZ4DT9.htm)|Cheetah's Elixir (Lesser)|Élixir du guépard inférieur|officielle|
 |[consumable-01-U9XNSFQzCOo6KMD1.htm](equipment/consumable-01-U9XNSFQzCOo6KMD1.htm)|Ablative Armor Plating (Lesser)|Blindage ablatif d'armure inférieur|libre|
 |[consumable-01-uG3xtNrs26scOVgW.htm](equipment/consumable-01-uG3xtNrs26scOVgW.htm)|Leaper's Elixir (Lesser)|Élixir du sauteur (inférieur)|officielle|
 |[consumable-01-ugIxgGIkJh2aXE2N.htm](equipment/consumable-01-ugIxgGIkJh2aXE2N.htm)|Potion of Fire Retaliation (Minor)|Potion de Riposte Enflammée (mineure)|libre|
@@ -366,7 +366,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-02-iYsDDvFduPhtaIOr.htm](equipment/consumable-02-iYsDDvFduPhtaIOr.htm)|Aromatic Ammunition|Munition aromatique|libre|
 |[consumable-02-j2CHumvbjmlLQX2i.htm](equipment/consumable-02-j2CHumvbjmlLQX2i.htm)|Oil of Potency|Huile de puissance|officielle|
 |[consumable-02-jdDDqv9LbEYX2wAE.htm](equipment/consumable-02-jdDDqv9LbEYX2wAE.htm)|Monkey Pin|Broche de singe|libre|
-|[consumable-02-mDJSaarQsIMX7Opi.htm](equipment/consumable-02-mDJSaarQsIMX7Opi.htm)|Bloodhound Mask (Lesser)|Masque du limier (Inférieur)|libre|
+|[consumable-02-mDJSaarQsIMX7Opi.htm](equipment/consumable-02-mDJSaarQsIMX7Opi.htm)|Bloodhound Mask (Lesser)|Masque du limier inférieur|libre|
 |[consumable-02-mDNDs5P8ZAJXYbDL.htm](equipment/consumable-02-mDNDs5P8ZAJXYbDL.htm)|Toad Tears|Poison Larmes de Crapaud|libre|
 |[consumable-02-mvrpdVyFJc5eOoE9.htm](equipment/consumable-02-mvrpdVyFJc5eOoE9.htm)|Bubbling Scale|Écaille de bulles|libre|
 |[consumable-02-N3jcmW5XzEJZQVtJ.htm](equipment/consumable-02-N3jcmW5XzEJZQVtJ.htm)|Antivenom Potion|Potion Anti-venin|libre|
@@ -427,7 +427,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-iNR6t5dDiYGQYTeA.htm](equipment/consumable-03-iNR6t5dDiYGQYTeA.htm)|Quickpatch Glue|Colle Rustine|libre|
 |[consumable-03-jIlFuZaIgMPEzoyP.htm](equipment/consumable-03-jIlFuZaIgMPEzoyP.htm)|Matchmaker Fulu|Fulu entremetteur|libre|
 |[consumable-03-kO31GgqGY37MDRff.htm](equipment/consumable-03-kO31GgqGY37MDRff.htm)|Periscopic Viewfinder|Viseur périscopique|libre|
-|[consumable-03-lgqyRmQ3GZbbxQsD.htm](equipment/consumable-03-lgqyRmQ3GZbbxQsD.htm)|Vermin Repellent Agent (Lesser)|Agent répulsif de vermine (inférieur)|libre|
+|[consumable-03-lgqyRmQ3GZbbxQsD.htm](equipment/consumable-03-lgqyRmQ3GZbbxQsD.htm)|Vermin Repellent Agent (Lesser)|Agent répulsif de vermine inférieur|libre|
 |[consumable-03-lIExlUFBKvBue8hb.htm](equipment/consumable-03-lIExlUFBKvBue8hb.htm)|Silvertongue Mutagen (Moderate)|Mutagène de langue dorée modéré|officielle|
 |[consumable-03-llqztgP14IJGSxU4.htm](equipment/consumable-03-llqztgP14IJGSxU4.htm)|Metalmist Sphere (Lesser)|Sphère de Brume-métal (inférieur)|libre|
 |[consumable-03-mj9i9GeQTADByNPZ.htm](equipment/consumable-03-mj9i9GeQTADByNPZ.htm)|Juggernaut Mutagen (Moderate)|Mutagène de juggernaut modéré|officielle|
@@ -436,7 +436,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-03-NSo0bFX7DGGjqKKl.htm](equipment/consumable-03-NSo0bFX7DGGjqKKl.htm)|Spellstrike Ammunition (Type I)|Munition de frappe magique (Type I)|officielle|
 |[consumable-03-nzeTcOyQmZNrurVF.htm](equipment/consumable-03-nzeTcOyQmZNrurVF.htm)|Vaccine (Lesser)|Vaccin (inférieur)|libre|
 |[consumable-03-Oip645RjC5y57wFa.htm](equipment/consumable-03-Oip645RjC5y57wFa.htm)|Violet Venom|Venin violet|libre|
-|[consumable-03-omRmCbkQoK5YmCGv.htm](equipment/consumable-03-omRmCbkQoK5YmCGv.htm)|Potion of Acid Retaliation (Lesser)|Potion de Riposte acide (inférieure)|libre|
+|[consumable-03-omRmCbkQoK5YmCGv.htm](equipment/consumable-03-omRmCbkQoK5YmCGv.htm)|Potion of Acid Retaliation (Lesser)|Potion de riposte acide inférieure|libre|
 |[consumable-03-P7Evi8Wv8zIwLYtU.htm](equipment/consumable-03-P7Evi8Wv8zIwLYtU.htm)|Ablative Armor Plating (Moderate)|Blindage ablatif d'armure modéré|libre|
 |[consumable-03-pGnoCqFy0ESPbuGv.htm](equipment/consumable-03-pGnoCqFy0ESPbuGv.htm)|Aurifying Salts|Sels aurifères|libre|
 |[consumable-03-PTSdJqjiybZDxi4r.htm](equipment/consumable-03-PTSdJqjiybZDxi4r.htm)|Potion of Minute Echoes|Potion des minuscules échos|libre|
@@ -518,7 +518,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-04-XU8u9F3uoesGDjgM.htm](equipment/consumable-04-XU8u9F3uoesGDjgM.htm)|Warning Snare|Piège artisanal avertisseur|officielle|
 |[consumable-04-Y8115p3cmQJBqk5d.htm](equipment/consumable-04-Y8115p3cmQJBqk5d.htm)|Darkvision Elixir (Moderate)|Élixir de vision dans le noir modéré|officielle|
 |[consumable-04-y8x66ougD79IuhI3.htm](equipment/consumable-04-y8x66ougD79IuhI3.htm)|Dragonbone Arrowhead|Pointe de flèche en os de dragon (Talisman)|libre|
-|[consumable-04-YcvSw7Zn3oyqlJaw.htm](equipment/consumable-04-YcvSw7Zn3oyqlJaw.htm)|Stone Fist Elixir|Elixir de poing de pierre|officielle|
+|[consumable-04-YcvSw7Zn3oyqlJaw.htm](equipment/consumable-04-YcvSw7Zn3oyqlJaw.htm)|Stone Fist Elixir|Élixir de poing de pierre|officielle|
 |[consumable-04-YYD82q2NfAbuDmgf.htm](equipment/consumable-04-YYD82q2NfAbuDmgf.htm)|Fang Snare|Piège artisanal à crochets venimeux|libre|
 |[consumable-04-ZAtwiAPkk1zwCf82.htm](equipment/consumable-04-ZAtwiAPkk1zwCf82.htm)|Fear Gem|Gemme effrayante|officielle|
 |[consumable-04-zC7LipQPHRYw2RXx.htm](equipment/consumable-04-zC7LipQPHRYw2RXx.htm)|Barkskin Potion|Potion de peau d'écorce|officielle|
@@ -535,7 +535,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-5RGNjhDxZ0yMhTds.htm](equipment/consumable-05-5RGNjhDxZ0yMhTds.htm)|Hunting Spider Venom|Venin d'araignée chasseresse|officielle|
 |[consumable-05-8pQw1HUzJ4duZbio.htm](equipment/consumable-05-8pQw1HUzJ4duZbio.htm)|Gadget Skates|Patins gadget|libre|
 |[consumable-05-9TAYUFDOJa0kvk9m.htm](equipment/consumable-05-9TAYUFDOJa0kvk9m.htm)|Mad Mammoth's Juke|Dérobade du mammouth fou|libre|
-|[consumable-05-AqLxu3ir4UGzdOaz.htm](equipment/consumable-05-AqLxu3ir4UGzdOaz.htm)|Cheetah's Elixir (Moderate)|Elixir du guépard modéré|officielle|
+|[consumable-05-AqLxu3ir4UGzdOaz.htm](equipment/consumable-05-AqLxu3ir4UGzdOaz.htm)|Cheetah's Elixir (Moderate)|Élixir du guépard modéré|officielle|
 |[consumable-05-aVW5OAwSlz5rsjtB.htm](equipment/consumable-05-aVW5OAwSlz5rsjtB.htm)|Pummeling Snare|Piège artisanal percutant|libre|
 |[consumable-05-BUZ8yiAXgXH8otmM.htm](equipment/consumable-05-BUZ8yiAXgXH8otmM.htm)|Feather Token (Chest) (Ammunition)|Jeton en plume coffre (munition)|libre|
 |[consumable-05-D2h1E7fXsQfyjFcv.htm](equipment/consumable-05-D2h1E7fXsQfyjFcv.htm)|Rhino Hide Brooch|Broche en peau de rhinocéros|libre|
@@ -550,7 +550,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-HU9eYAAfZMYnFMd9.htm](equipment/consumable-05-HU9eYAAfZMYnFMd9.htm)|Beckoning Cat Amulet|Amulette d'Attirance du Chat|libre|
 |[consumable-05-ik15k2r6znOdguXo.htm](equipment/consumable-05-ik15k2r6znOdguXo.htm)|Thunderbird Tuft (Moderate)|Touffe d'Oiseau-tonnerre modéré|libre|
 |[consumable-05-iUOcC9vFboSFI8fU.htm](equipment/consumable-05-iUOcC9vFboSFI8fU.htm)|False Death|Mort-truquée|libre|
-|[consumable-05-JAOWw2GhupaYoYg9.htm](equipment/consumable-05-JAOWw2GhupaYoYg9.htm)|Sixfingers Elixir (Lesser)|Élixir Six-doigts (inférieur)|libre|
+|[consumable-05-JAOWw2GhupaYoYg9.htm](equipment/consumable-05-JAOWw2GhupaYoYg9.htm)|Sixfingers Elixir (Lesser)|Élixir Six-doigts inférieur|libre|
 |[consumable-05-JgZIWU1KaVL2pnAr.htm](equipment/consumable-05-JgZIWU1KaVL2pnAr.htm)|Fungal Walk Musk|Onguent de Musc fongique|libre|
 |[consumable-05-jrLgEJxPvUKtSMMO.htm](equipment/consumable-05-jrLgEJxPvUKtSMMO.htm)|Recording Rod (Reusable)|Tige d'enregistrement (Réutilisable)|libre|
 |[consumable-05-kaIKYTrvw4qa1khc.htm](equipment/consumable-05-kaIKYTrvw4qa1khc.htm)|Flame Drake Snare|Piège artisanal du drake de feu|libre|
@@ -582,7 +582,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-05-xDWUGwLpKLm8WdQP.htm](equipment/consumable-05-xDWUGwLpKLm8WdQP.htm)|Fu Water|Eau fu|libre|
 |[consumable-05-xlwcMtJTKpS6EkSw.htm](equipment/consumable-05-xlwcMtJTKpS6EkSw.htm)|Wand of Caustic Effluence|Baguette d'effluence caustique|libre|
 |[consumable-05-Xnmx6SJ6OkJOfYxF.htm](equipment/consumable-05-Xnmx6SJ6OkJOfYxF.htm)|Freezing Ammunition|Munition givrante|libre|
-|[consumable-05-zcJgT5RS8p2MEbOB.htm](equipment/consumable-05-zcJgT5RS8p2MEbOB.htm)|Sea Touch Elixir (Lesser)|Élixir de caresse marine (inférieur)|officielle|
+|[consumable-05-zcJgT5RS8p2MEbOB.htm](equipment/consumable-05-zcJgT5RS8p2MEbOB.htm)|Sea Touch Elixir (Lesser)|Élixir de caresse marine inférieur|officielle|
 |[consumable-05-ZiD7kDxU4KEkO6XH.htm](equipment/consumable-05-ZiD7kDxU4KEkO6XH.htm)|Shimmering Dust|Poussière chatoyante|libre|
 |[consumable-05-ZmefGBXGJF3CFDbn.htm](equipment/consumable-05-ZmefGBXGJF3CFDbn.htm)|Scroll of 3rd-level Spell|Parchemin de sort de niveau 3|officielle|
 |[consumable-05-zrZ1FaaqW6VIajj7.htm](equipment/consumable-05-zrZ1FaaqW6VIajj7.htm)|Tiger Menuki|Menuki du tigre|officielle|
@@ -614,7 +614,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-06-mRs24OwmGPjoIDvO.htm](equipment/consumable-06-mRs24OwmGPjoIDvO.htm)|Potion of Cold Resistance (Lesser)|Potion de résistance au froid (inférieur)|officielle|
 |[consumable-06-NhCFZ043brhFTsni.htm](equipment/consumable-06-NhCFZ043brhFTsni.htm)|Singing Muse|Muse chantante|libre|
 |[consumable-06-oDfucsKeWpJmmWN1.htm](equipment/consumable-06-oDfucsKeWpJmmWN1.htm)|Potion of Electricity Retaliation (Moderate)|Potion de Riposte Électrique modérée|libre|
-|[consumable-06-OWPOTwMsrYma9d0v.htm](equipment/consumable-06-OWPOTwMsrYma9d0v.htm)|Potion of Acid Retaliation (Moderate)|Potion de Riposte acide modéré|libre|
+|[consumable-06-OWPOTwMsrYma9d0v.htm](equipment/consumable-06-OWPOTwMsrYma9d0v.htm)|Potion of Acid Retaliation (Moderate)|Potion de riposte acide modérée|libre|
 |[consumable-06-qasFfdiZKIczoZ9p.htm](equipment/consumable-06-qasFfdiZKIczoZ9p.htm)|Bloodhound Mask (Moderate)|Masque du limier modéré|libre|
 |[consumable-06-QGXNqpP5KvSldoZz.htm](equipment/consumable-06-QGXNqpP5KvSldoZz.htm)|Giant Scorpion Venom|Venin de scorpion géant|officielle|
 |[consumable-06-RBjyD36IrrFOwFXR.htm](equipment/consumable-06-RBjyD36IrrFOwFXR.htm)|Barricade Stone (Sphere)|Pierre de barricade (Sphère)|libre|
@@ -711,7 +711,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-08-k1S8AdYhi5JGRLh1.htm](equipment/consumable-08-k1S8AdYhi5JGRLh1.htm)|Smoke Fan (Greater)|Ventilateur de fumée supérieur|libre|
 |[consumable-08-KdeeRCrtsDCJLfgc.htm](equipment/consumable-08-KdeeRCrtsDCJLfgc.htm)|Nettleweed Residue|Résidu de lierrortie|officielle|
 |[consumable-08-KgF3nPT2tEskXqSS.htm](equipment/consumable-08-KgF3nPT2tEskXqSS.htm)|Metalmist Sphere (Moderate)|Sphère de Brume-métal modéré|libre|
-|[consumable-08-KlJSw919hpN6V9oK.htm](equipment/consumable-08-KlJSw919hpN6V9oK.htm)|Potion of Flying (Standard)|Potion de vol (standard)|officielle|
+|[consumable-08-KlJSw919hpN6V9oK.htm](equipment/consumable-08-KlJSw919hpN6V9oK.htm)|Potion of Flying (Standard)|Potion de vol de base|officielle|
 |[consumable-08-kORpovlPYicysr2g.htm](equipment/consumable-08-kORpovlPYicysr2g.htm)|Potion of Quickness|Potion de rapidité|officielle|
 |[consumable-08-Mtqc1UzOotdclIEb.htm](equipment/consumable-08-Mtqc1UzOotdclIEb.htm)|Incense Bundle of Annual Blessings|Lot d'encens de bénédiction annuelle|libre|
 |[consumable-08-MywpJQc2lVjWvAGA.htm](equipment/consumable-08-MywpJQc2lVjWvAGA.htm)|Clockwork Goggles (Major)|Lunettes mécaniques majeures|libre|
@@ -803,7 +803,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-10-W9j0jc5Ekvweo7MY.htm](equipment/consumable-10-W9j0jc5Ekvweo7MY.htm)|Burning Badger Guts Snare|Piège artisanal intestin brûlant de blaireau|libre|
 |[consumable-10-Wjkw0lEUOhypYvzo.htm](equipment/consumable-10-Wjkw0lEUOhypYvzo.htm)|Shadow Essence|Distillation d'ombre|libre|
 |[consumable-10-xK3rWA6HtaJvKSuC.htm](equipment/consumable-10-xK3rWA6HtaJvKSuC.htm)|Retrieval Prism (Greater)|Prisme d'extraction supérieure|libre|
-|[consumable-10-xWCdsGSwLLTeX6tQ.htm](equipment/consumable-10-xWCdsGSwLLTeX6tQ.htm)|Eagle Eye Elixir (Greater)|Elixir d'œil de faucon supérieur|officielle|
+|[consumable-10-xWCdsGSwLLTeX6tQ.htm](equipment/consumable-10-xWCdsGSwLLTeX6tQ.htm)|Eagle Eye Elixir (Greater)|Élixir d'œil de faucon supérieur|officielle|
 |[consumable-10-XWkeL34yJK6t5qUE.htm](equipment/consumable-10-XWkeL34yJK6t5qUE.htm)|Antidote (Greater)|Antidote supérieur|officielle|
 |[consumable-10-yG6Za8FaG3hpXUGh.htm](equipment/consumable-10-yG6Za8FaG3hpXUGh.htm)|Potion of Acid Resistance (Moderate)|Potion de résistance à l'acide modéré|officielle|
 |[consumable-10-ZOOrK4yEW6rFpPJ1.htm](equipment/consumable-10-ZOOrK4yEW6rFpPJ1.htm)|Addiction Suppressant (Greater)|Suppresseur de dépendance supérieur|libre|
@@ -868,7 +868,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-12-hMUYvp0neF0LAFqc.htm](equipment/consumable-12-hMUYvp0neF0LAFqc.htm)|Potion of Fire Retaliation (Greater)|Potion de Riposte enflammée supérieur|libre|
 |[consumable-12-jNdAX4hBp0pzWalL.htm](equipment/consumable-12-jNdAX4hBp0pzWalL.htm)|Fire and Iceberg (Greater)|Feu et iceberg supérieur|libre|
 |[consumable-12-jUiva1MoZDtbi6xI.htm](equipment/consumable-12-jUiva1MoZDtbi6xI.htm)|Quickmelt Slick (Greater)|Pommade de fonte rapide supérieure|libre|
-|[consumable-12-jVmTtUeNxDZMP5dU.htm](equipment/consumable-12-jVmTtUeNxDZMP5dU.htm)|Potion of Acid Retaliation (Greater)|Potion de Riposte acide supérieure|libre|
+|[consumable-12-jVmTtUeNxDZMP5dU.htm](equipment/consumable-12-jVmTtUeNxDZMP5dU.htm)|Potion of Acid Retaliation (Greater)|Potion de riposte acide supérieure|libre|
 |[consumable-12-KrtZmC3qfZIGXu76.htm](equipment/consumable-12-KrtZmC3qfZIGXu76.htm)|Iron Equalizer|Fer d'équilibrage|officielle|
 |[consumable-12-KVrmsNbro6mJ9wuT.htm](equipment/consumable-12-KVrmsNbro6mJ9wuT.htm)|Oil of Animation|Huile d'animation|officielle|
 |[consumable-12-LhlsZogLBPLx5Tcf.htm](equipment/consumable-12-LhlsZogLBPLx5Tcf.htm)|Shrieking Skull|Crâne hurlant|libre|
@@ -954,7 +954,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-15-AmxSqEoFhRLMYd1W.htm](equipment/consumable-15-AmxSqEoFhRLMYd1W.htm)|Elixir of Life (Major)|Élixir de vie majeur|officielle|
 |[consumable-15-cqTCg6C0lvYUKQmx.htm](equipment/consumable-15-cqTCg6C0lvYUKQmx.htm)|Stone Body Mutagen (Greater)|Mutagène corps-de-pierre supérieur|libre|
 |[consumable-15-cSrCTi2zE5OU5ylH.htm](equipment/consumable-15-cSrCTi2zE5OU5ylH.htm)|Lifeblight Residue|Résidu de mort affligée|libre|
-|[consumable-15-E999hL7XlAlfZhjK.htm](equipment/consumable-15-E999hL7XlAlfZhjK.htm)|Potion of Flying (Greater)|Potion de vol supérieur|officielle|
+|[consumable-15-E999hL7XlAlfZhjK.htm](equipment/consumable-15-E999hL7XlAlfZhjK.htm)|Potion of Flying (Greater)|Potion de vol supérieure|officielle|
 |[consumable-15-Fz6jQ0M3v55R8CqA.htm](equipment/consumable-15-Fz6jQ0M3v55R8CqA.htm)|Big Rock Bullet (Major)|Bille gros rocher majeure|libre|
 |[consumable-15-Gfew65lwkzZc3mUV.htm](equipment/consumable-15-Gfew65lwkzZc3mUV.htm)|Disintegration Bolt|Carreau de désintégration|officielle|
 |[consumable-15-GMi5tw0cbMx3ZQPg.htm](equipment/consumable-15-GMi5tw0cbMx3ZQPg.htm)|Mindfog Mist|Brumentale|officielle|
@@ -1038,7 +1038,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-18-1LKJvK9ofzIIkQX3.htm](equipment/consumable-18-1LKJvK9ofzIIkQX3.htm)|Sun Orchid Poultice|Cataplasme d'Orchidée solaire|libre|
 |[consumable-18-bCPAiqiWmH7pVxNE.htm](equipment/consumable-18-bCPAiqiWmH7pVxNE.htm)|Potion of Cold Retaliation (Major)|Potion de Riposte glaciale majeur|libre|
 |[consumable-18-bEaiID2KLQ8lTCai.htm](equipment/consumable-18-bEaiID2KLQ8lTCai.htm)|Potion of Electricity Retaliation (Major)|Potion de Riposte Électrique majeur|libre|
-|[consumable-18-fabw5fDuaTMUF0tb.htm](equipment/consumable-18-fabw5fDuaTMUF0tb.htm)|Potion of Acid Retaliation (Major)|Potion de Riposte acide majeur|libre|
+|[consumable-18-fabw5fDuaTMUF0tb.htm](equipment/consumable-18-fabw5fDuaTMUF0tb.htm)|Potion of Acid Retaliation (Major)|Potion de riposte acide majeure|libre|
 |[consumable-18-FBS2dhoOfSlcuPt6.htm](equipment/consumable-18-FBS2dhoOfSlcuPt6.htm)|Explosive Mine (Major)|Mine explosive majeure|libre|
 |[consumable-18-J3gd5vhcxwFbpCXe.htm](equipment/consumable-18-J3gd5vhcxwFbpCXe.htm)|Awakened Adamantine Shot|Tir d'adamantium éveillé|libre|
 |[consumable-18-jdkMRl7zxOVGUuGI.htm](equipment/consumable-18-jdkMRl7zxOVGUuGI.htm)|Universal Solvent (Major)|Solvant universel majeur|libre|
@@ -1046,7 +1046,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-18-Ksz7kd6P9uKR8uLo.htm](equipment/consumable-18-Ksz7kd6P9uKR8uLo.htm)|Clockwork Rejuvenator|Régénérateur automatique|libre|
 |[consumable-18-nctubaNAmzvXYDkc.htm](equipment/consumable-18-nctubaNAmzvXYDkc.htm)|Crimson Worm Repellent|Répulsif de ver cramoisi|libre|
 |[consumable-18-nlm26zGDAHTISTh6.htm](equipment/consumable-18-nlm26zGDAHTISTh6.htm)|Avalanche of Stones Snare|Piège artisanal d'avalanche de rochers|libre|
-|[consumable-18-obER4cKi8UbGhSg7.htm](equipment/consumable-18-obER4cKi8UbGhSg7.htm)|Oil of Unlife (Major)|Huile de Non-vie (majeure))|libre|
+|[consumable-18-obER4cKi8UbGhSg7.htm](equipment/consumable-18-obER4cKi8UbGhSg7.htm)|Oil of Unlife (Major)|Huile de non-vie majeure|libre|
 |[consumable-18-p3ppzFSsZXFRe3H8.htm](equipment/consumable-18-p3ppzFSsZXFRe3H8.htm)|Healing Potion (Major)|Potion de guérison majeur|officielle|
 |[consumable-18-Pnw4A7fhUhTS85Te.htm](equipment/consumable-18-Pnw4A7fhUhTS85Te.htm)|Focus Cathartic (Major)|Élixir de concentration cathartique majeur|libre|
 |[consumable-18-RkI3jKKrCozvEvfr.htm](equipment/consumable-18-RkI3jKKrCozvEvfr.htm)|King's Sleep|Sommeil du roi|officielle|
@@ -2291,7 +2291,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[treasure-00-rOMPvaCeLqNvT6rJ.htm](equipment/treasure-00-rOMPvaCeLqNvT6rJ.htm)|Brass statuette of a bull|Statuette de taureau en laiton|libre|
 |[treasure-00-rVfFUBb0r423IPg8.htm](equipment/treasure-00-rVfFUBb0r423IPg8.htm)|Set of decorated porcelain plates|Collection d'assiettes en porcelaine décorées|libre|
 |[treasure-00-s6wRFNG5lVEkGGdJ.htm](equipment/treasure-00-s6wRFNG5lVEkGGdJ.htm)|Wide landscape by an expert|Large paysage (par un expert)|libre|
-|[treasure-00-SmN0vRjkPaSaAJZt.htm](equipment/treasure-00-SmN0vRjkPaSaAJZt.htm)|Divine art piece created by Shelyn|Oeuvre d'art divine (par Shélyn)|libre|
+|[treasure-00-SmN0vRjkPaSaAJZt.htm](equipment/treasure-00-SmN0vRjkPaSaAJZt.htm)|Divine art piece created by Shelyn|œuvre d'art divine (par Shélyn)|libre|
 |[treasure-00-svhZ61CaSgatn5by.htm](equipment/treasure-00-svhZ61CaSgatn5by.htm)|Crystallized dragon heart|Cœur de dragon cristallisé|libre|
 |[treasure-00-tcP4ZKGZr5i4586v.htm](equipment/treasure-00-tcP4ZKGZr5i4586v.htm)|Gold mask of a high priest|Masque en or d'un grand prêtre|libre|
 |[treasure-00-tMMYXdHps9QakCVn.htm](equipment/treasure-00-tMMYXdHps9QakCVn.htm)|Silver and jade censer|Encensoir d'argent et de jade|libre|

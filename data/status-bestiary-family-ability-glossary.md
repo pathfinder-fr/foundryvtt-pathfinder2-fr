@@ -5,7 +5,7 @@
  * **changé**: 37
 
 
-Dernière mise à jour: 2022-03-29 22:16 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -145,7 +145,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RvzFTym3r22VhMrm.htm](bestiary-family-ability-glossary/RvzFTym3r22VhMrm.htm)|(Kuworsys) Smash and Grab|(Kuworsys) Frapper et saisir|libre|
 |[sAyR4uJbsWukZFZf.htm](bestiary-family-ability-glossary/sAyR4uJbsWukZFZf.htm)|(Vampire, True) Mist Escape|(Vampire, véritable) Fuite brumeuse|officielle|
 |[sECjzfaYaW68vbLV.htm](bestiary-family-ability-glossary/sECjzfaYaW68vbLV.htm)|(Vampire, Vrykolakas Master) Change Shape|(Vampire, maître vrykolakas) Changement de forme|officielle|
-|[SEmSk1INZDmeoB5R.htm](bestiary-family-ability-glossary/SEmSk1INZDmeoB5R.htm)|(Nymph Queen) Focus Beauty|(Reine nymphe) Focalisation de beauté|libre|
+|[SEmSk1INZDmeoB5R.htm](bestiary-family-ability-glossary/SEmSk1INZDmeoB5R.htm)|(Nymph Queen) Focus Beauty|(Reine nymphe) Focaliser la beauté|libre|
 |[tKixfds07IRH2nnh.htm](bestiary-family-ability-glossary/tKixfds07IRH2nnh.htm)|(Vampire, Vrykolakas Master) Children of the Night|(Vampire, maître vrykolakas) Enfants de la nuit|officielle|
 |[tQY2xmcIhzCM7oCC.htm](bestiary-family-ability-glossary/tQY2xmcIhzCM7oCC.htm)|(Melfesh Monster) Torrential Advance|(Monstre melfesh) Avancée torrentielle|libre|
 |[UHuA1hue5xrRM6KK.htm](bestiary-family-ability-glossary/UHuA1hue5xrRM6KK.htm)|(Nymph Queen) Tied to the Land|(Reine nymphe) Liée au territoire|libre|
