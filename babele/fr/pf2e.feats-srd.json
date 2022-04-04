@@ -479,7 +479,7 @@
         },
         {
             "id": "Ranged Combatant (Good)",
-            "name": "Combattant à distance (bien)",
+            "name": "Combattant à distance (bon)",
             "description": "<p>Épines, jets de flammes et explosions saintes sont juste autant de forme que votre eidolon peut utiliser pour Frapper à distance.</p>\n<p>Il obtient une attaque à mains nues à distance avec un facteur de portée de 9 m qui inflige [[/r 1d4 #bien]]{1d4 dégâts du bien} et qui possède les traits magique et propulsif.</p>"
         },
         {
@@ -2673,7 +2673,7 @@
         {
             "id": "Signature Synergy",
             "name": "Synergie signature",
-            "description": "<p>Votre eidolon gagne une évolution qui fait partie intégrante de sa forme, et cela vient plus facilement que vos autres synergies. Vous obtenez un don d'évolution de la liste suivante :</p>\n<ul>\n<li>@Compendium[pf2e.feats-srd.h8OB6zcdIqUPS6PC]{Forme aérienne}</li>\n<li>@Compendium[pf2e.feats-srd.IeiTuTZExH5DQOqH]{Forme de creusement}</li>\n<li>@Compendium[pf2e.feats-srd.a6xUSibsRaclbSz3]{Sens toujours en éveil}</li>\n<li>@Compendium[pf2e.feats-srd.H6qletvAJUCC1aIa]{Taille considérable}</li>\n</ul>\n<p>Pour les besoins de remplir ses prérequis, votre niveau de conjurateur est égal à votre niveau de personnage -4.</p>",
+            "description": "<p>Votre eidolon gagne une évolution qui fait partie intégrante de sa forme et cela vient plus facilement que vos autres synergies. Vous obtenez un don d'évolution de la liste suivante :</p>\n<ul>\n<li>@Compendium[pf2e.feats-srd.h8OB6zcdIqUPS6PC]{Forme aérienne}</li>\n<li>@Compendium[pf2e.feats-srd.IeiTuTZExH5DQOqH]{Forme fouisseuse}</li>\n<li>@Compendium[pf2e.feats-srd.a6xUSibsRaclbSz3]{Sens toujours en éveil}</li>\n<li>@Compendium[pf2e.feats-srd.H6qletvAJUCC1aIa]{Taille considérable}</li>\n</ul>\n<p>Pour les besoins de remplir ses prérequis, votre niveau de conjurateur est égal à votre niveau de personnage -4.</p>",
             "prereq": [
                 {
                     "value": "Synergie avancée"
@@ -2831,7 +2831,7 @@
         {
             "id": "Miniaturize",
             "name": "Miniaturiser",
-            "description": "<p>Votre éidolon peut se rétrécir encore davantage. Lorsque vous utilisez Rétrécir, votre eidolon peut réduire sa taille à Très petite.</p>",
+            "description": "<p>Votre eidolon peut se rétrécir encore davantage. Lorsque vous utilisez Rétrécir, votre eidolon peut réduire sa taille à Très petite.</p>",
             "prereq": [
                 {
                     "value": "Rétrécir"
@@ -3059,7 +3059,7 @@
         {
             "id": "Steed Form",
             "name": "Forme de monture",
-            "description": "<p>Votre eidolon change pour devenir plus particulièrement efficace comme monture. Tant que vous le montez, vous obtenez votre nombre complet d'actions chaque round au lieu de le réduire de 2. Cela ne s'applique seulement que lorsque vous montez votre eidolon, pas lorsque quelqu'un d'autre le fait. Votre eidolon doit toujours être d'au moins une catégorie supérieure à la vôtre pour que vous puissiez le monter. Comme vous œuvrez ensemble à vous déplacer, les actions de déplacement de votre eidolon, tant que vous le montez obtiennent le trait tandem.</p>"
+            "description": "<p>Votre eidolon change pour devenir particulièrement efficace en tant que monture. Lorsque vous le Montez, vous bénéficiez de votre nombre complet d'actions chaque round au lieu de les réduire à 2. Cela ne s'applique que lorsque vous Montez votre eidolon, pas lorsque quelqu'un d'autre le fait. Votre eidolon doit toujours être au moins d'une catégorie de taille supérieure à la vôtre pour que vous puissiez le Monter. Comme vous travaillez ensemble pour vous déplacer, les actions de déplacement de votre eidolon lorsque vous êtes Monté gagnent le trait tandem.</p>"
         },
         {
             "id": "Spark of Independence",
@@ -4508,7 +4508,7 @@
         {
             "id": "Defend Summoner",
             "name": "Défendre le conjurateur",
-            "description": "<p>Votre eidolon bloque les attaques portées contre vous. Lorsque votre eidolon a utilisé cette action, vous gagnez un bonus de circonstances de +2 à la CA jusqu'au début de votre prochain tour. Ce bonus ne s'applique que lorsque vous êtes à la portée de votre eidolon (dans la plupart des cas, cela signifie que vous et votre eidolon êtes adjacents ou dans votre case).</p>"
+            "description": "<p>Votre eidolon bloque les attaques contre vous. Après que votre eidolon a utilisé cette action, vous gagnez un bonus de circonstances de +2 à la CA jusqu'au début de votre prochain tour. Ce bonus s'applique uniquement lorsque vous êtes à portée de votre eidolon (dans la plupart des cas, cela signifie que votre eidolon vous est adjacent ou se trouve dans votre case).</p>"
         },
         {
             "id": "Finishing Precision",
@@ -5895,7 +5895,7 @@
         {
             "id": "Magical Understudy",
             "name": "Doublure magique",
-            "description": "<p>Votre eidolon évolue pour incanter des sorts. Il obtient l'activité Lancer un sort et apprend deux tours de magie de sa tradition, qu'il peut lancer comme des sorts innés.</p>"
+            "description": "<p>Votre eidolon évolue pour incanter des sorts. Il obtient l'activité Lancer un sort et apprend deux tours de magie de sa tradition qu'il peut lancer comme des sorts innés.</p>"
         },
         {
             "id": "Wilderness Spotter (Forest)",
@@ -6776,7 +6776,7 @@
         {
             "id": "Constricting Hold",
             "name": "Prise de constriction",
-            "description": "<p><strong>Conditions</strong> Votre eidolon a une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée/Empoignée} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}.</p>\n<p>Votre eidolon enserre la créature, lui infligeant [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{dégâts contondants} égaux au niveau de votre eidolon plus son modificateur de Force, avec un jet de Vigueur basique contre votre DD de sort.</p>"
+            "description": "<p><strong>Conditions</strong> Votre eidolon a une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée/Empoignée} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}.</p>\n<hr />\n<p>Votre eidolon enserre la créature, lui infligeant [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{des dégâts contondants} égaux au niveau de votre eidolon plus son modificateur de Force avec un jet de Vigueur basique contre votre DD de sort.</p>"
         },
         {
             "id": "Grave Sense",
@@ -7419,7 +7419,7 @@
         {
             "id": "Magical Master",
             "name": "Maître magique",
-            "description": "<p>Votre eidolon obtient une brochette de sorts de niveau inférieurs. Choisissez un sort inné de la tradition de votre éidolon de chacun des niveau de sort dde 1 à 7 que votre eidolon ne possède pas actuellement parmi ses sorts innés issus d'Adepte magique. Votre eidolon peut lancer chacun de ses sorts une fois par jour comme des sorts innés.</p>\n<p>Vous pouvez échanger ces sorts à chaque niveau pair, mais votre eidolon ne peut jamais connaître plus d'un sort pour chacun des niveaux de 1 à 7</p>",
+            "description": "<p>Votre eidolon obtient une brochette de sorts de niveau inférieurs. Choisissez un sort inné de la tradition de votre eidolon de chacun des niveaux de sort de 1 à 7 que votre eidolon ne possède pas actuellement parmi ses sorts innés issus d'Adepte magique. Votre eidolon peut lancer chacun de ses sorts une fois par jour comme des sorts innés.</p>\n<p>Vous pouvez échanger ces sorts à chaque niveau pair, mais votre eidolon ne peut jamais connaître plus d'un sort pour chacun des niveaux de 1 à 7.</p>",
             "prereq": [
                 {
                     "value": "Adepte magique"
@@ -7576,8 +7576,8 @@
         },
         {
             "id": "Burrowing Form",
-            "name": "Forme de creusement",
-            "description": "<p>Votre eidolon peut creuser à traver le sol meuble. Votre eidolon obtient une vitesse de creusement de 4,5 m.</p>"
+            "name": "Forme fouisseuse",
+            "description": "<p>Votre eidolon peut creuser dans la terre meuble. Votre eidolon gagne une vitesse de creusement de 4,5 m.</p>"
         },
         {
             "id": "Blessing of the Sun Gods",
@@ -7773,7 +7773,7 @@
         {
             "id": "Syncretism",
             "name": "Syncrétisme",
-            "description": "<p>Vous avez découvert des recoupements entre les enseignements de deux divinités. Choisissez une seconde divinité. Vous devez remplir les conditions d'alignement et vous êtes sujet à leurs édits et anathèmes.</p>\n<p>Si vous êtes un prêtre cloîtré, sélectionnez un des domaines de cette divinité, en obtenant les bénéfices du don Initié du domaine avec ce domaine.</p> \n<p>Si vous êtes un prêtre combattant, vous obtenez l'arme de prédilection de cette divinité comme seconde arme de prédilection et obtenez les bénéfices des dons et capacités que vous possédez qui affectent l'arme de prédilection de votre divinité, telles que @Compendium[pf2e.feats-srd.DfLkIIg2reyYW3a8]{Simplicité mortelle}.</p>\n<p>Si vous suivez une doctrine différente que celle de prêtre cloîtré ou prêtre combattant, soit vous appliquez celle de ces deux options qui est la plus appropriée à votre doctrine, soit, si le MJ le souhaite, vous ajoutez un bénéfice de la seconde divinité plus directement liée à votre doctrine.</p>",
+            "description": "<p>Vous avez découvert des recoupements entre les enseignements de deux divinités. Choisissez une seconde divinité. Vous devez remplir les conditions d'alignement et vous êtes sujet à leurs édits et anathèmes.</p>\n<p>Si vous êtes un prêtre cloîtré, sélectionnez un des domaines de cette divinité, en obtenant les bénéfices du don @Compendium[pf2e.feats-srd.vQ4DNfpktmaqdgdM]{Initié du domaine étendu} avec ce domaine.</p> \n<p>Si vous êtes un prêtre combattant, vous obtenez l'arme de prédilection de cette divinité comme seconde arme de prédilection et elle obtient les avantages des dons et capacités que vous possédez qui affectent l'arme de prédilection de votre divinité, telles que @Compendium[pf2e.feats-srd.DfLkIIg2reyYW3a8]{Simplicité mortelle}.</p>\n<p>Si vous suivez une doctrine différente que celle de prêtre cloîtré ou prêtre combattant, soit vous appliquez celle de ces deux options qui est la plus appropriée à votre doctrine, soit, si le MJ le souhaite, vous ajoutez un bénéfice de la seconde divinité plus directement liée à votre doctrine.</p>",
             "prereq": [
                 {
                     "value": "vous suivez une divinité"
@@ -7920,7 +7920,7 @@
         {
             "id": "Energy Resistance",
             "name": "Résistance à l'énergie",
-            "description": "<p>La résistance de votre eidolon s'accroit. La résistance de @Compendium[pf2e.feats-srd.0PCDkVnRxVqxsp9j]{Cœur énergétique} et @Compendium[pf2e.feats-srd.XGZUjc9I3sjfniDg]{Cœur énergétique dual} est égale à votre niveau.</p>",
+            "description": "<p>La résistance de votre eidolon s'accroit. Sa résistance issue de @Compendium[pf2e.feats-srd.0PCDkVnRxVqxsp9j]{Cœur énergétique} et @Compendium[pf2e.feats-srd.XGZUjc9I3sjfniDg]{Cœur énergétique dual} est égale à votre niveau.</p>",
             "prereq": [
                 {
                     "value": "Cœur énergétique"
@@ -8535,6 +8535,19 @@
             "description": "<p>Vous possédez dans votre lignée des archons: les incarnations des vertus du paradis, gardiens des sept niveaux de la montagne du Paradis et promoteurs de la loi et de la vertu parmi les mortels. Votre propre vertu et votre esprit très ordonné vous protègent des ennemis qui voudraient retourner vos émotions contre vous.</p>\n<p>Vous obtenez un bonus de circonstances de +1 aux jets de sauvegarde contre les effets d'émotion et si vous obtenez un succès, sur un jet de sauvegarde contre un effet d'émotion, vous considérez qu'il s'agit un succès critique à la place.</p>"
         },
         {
+            "id": "Halcyon Speaker Dedication",
+            "name": "Dévouement : Orateur paisible",
+            "description": "<p>Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Gardien de Magaambya"
+                },
+                {
+                    "value": "Membre de l'Académie de Magaambya avec un rang de connaisseur"
+                }
+            ]
+        },
+        {
             "id": "Vicious Debilitations",
             "name": "Handicaps cruels",
             "description": "<p>Les handicaps que vous distribuez gênent véritablement vos adversaires. Ajoutez les handicaps suivants à la liste de handicaps que vous utilisez avec @Compendium[pf2e.actionspf2e.bp0Up04x3dzGK5bB]{Frappe incapacitante}.</p>\n<ul>\n<li><strong>Handicap</strong> La cible gagne faiblesse 5 aux dégâts de votre choix : contondants, perforants ou tranchants.</li>\n<li><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1.</li>\n</ul>",
@@ -8630,6 +8643,22 @@
             "prereq": [
                 {
                     "value": "Dextérité 14"
+                }
+            ]
+        },
+        {
+            "id": "Knight Vigilant Dedication",
+            "name": "Dévouement : Chevalier vigilant",
+            "description": "<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence Religion. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Religion"
+                },
+                {
+                    "value": "n'importe que alignement Bon"
+                },
+                {
+                    "value": "membre des Chevaliers de Dernier Rempart au rang de Chevalier"
                 }
             ]
         },
@@ -8837,7 +8866,7 @@
         {
             "id": "Hulking Size",
             "name": "Taille considérable",
-            "description": "<p>Votre eidolon grandit considérablement. Votre eidolon devient Grand, au lieu de sa taille précédente et son allonge passe à 3 m. Cela ne modifie aucune de ses autres statistiques.</p>"
+            "description": "Votre eidolon grandit considérablement. Votre eidolon devient Grand, au lieu de sa précédente taille, et son allonge passe à 3 m. Cela ne modifie aucune de ses autres statistiques."
         },
         {
             "id": "Overdrive Ally",
@@ -9320,6 +9349,19 @@
             ]
         },
         {
+            "id": "Scrollmaster Dedication",
+            "name": "Dévouement : Maître des parchemins",
+            "description": "<p>L'expérience acquise à tenir la chronique de vos aventures et de vos découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontré, les détails du briefing de votre mission et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstances de +2 aux tests réalisés pour vour rappeler d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposez du don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux} et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstances pour vous souvenir de connaissances concernant les créatures en utilisant ce don passe à +4.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Maître des parchemins.</p>",
+            "prereq": [
+                {
+                    "value": "expert dans n'importe quelle compétence de Connaissance"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affiliée à l'École des parchemins"
+                }
+            ]
+        },
+        {
             "id": "Magic Warrior Transformation",
             "name": "Transformation de Guerrier magique",
             "description": "<p>Vous pouvez vous transformer entièrement en l’animal représenté sur votre masque. Vous gagnez le sort focalisé <em>@Compendium[pf2e.spells-srd.tp4K7mYDL5MRHvJc]{Transformation du guerrier magique}</em>.</p>",
@@ -9509,7 +9551,7 @@
         {
             "id": "Trample",
             "name": "Piétinement",
-            "description": "<p>Votre eidolon Marche rapidement jusqu'au double de sa Vitesse et peut passer à travers la case de créatures qu'au moins une taille inférieure, Piétinant chaque créature dont il entre dans la case. Il peut tenter de Piétiner la même créature qu'une seule fois dans un unique Piétinement.</p>\n<p>Il inflige des dégâts contondants égaux aux dégâts de son attaque secondaire à ces créatures, qui peuvent tenter un jet de Réflexes basqieu contre votre DD de sort.</p>"
+            "description": "<p>Votre eidolon Marche rapidement jusqu'au double de sa Vitesse et peut passer à travers la case de créatures d'au moins une taille inférieure, Piétinant chaque créature dont il pénètre la case. Il peut tenter de Piétiner la même créature qu'une seule fois au cours d'un unique Piétinement.</p>\n<p>Il inflige des dégâts contondants égaux aux dégâts de son attaque secondaire à ces créatures, qui peuvent tenter un jet de Réflexes basique contre votre DD de sort.</p>"
         },
         {
             "id": "Control Tower",
@@ -10250,6 +10292,22 @@
             "prereq": [
                 {
                     "value": "Dextérité 14"
+                }
+            ]
+        },
+        {
+            "id": "Spellmaster Dedication",
+            "name": "Dévouement : Maître des sorts",
+            "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
+            "prereq": [
+                {
+                    "value": "Intelligence, Sagesse ou Charisme 14"
+                },
+                {
+                    "value": "capacité à lancer des sorts de focalisation"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affilié à l'École des sorts"
                 }
             ]
         },
@@ -11673,6 +11731,19 @@
             ]
         },
         {
+            "id": "Firebrand Braggart Dedication",
+            "name": "Dévouement : Agitateur vantard",
+            "description": "<p>Votre entraînement d'Agitateur vous a enseigné que terminer quelque chose est plus satisfaisant si vous vous en êtes vanté d'abord. Vous lancez une vantardise à propos d'une action de compétence particulière, comme Garder l'équilibre, Démoraliser ou Vous souvenir. La première fois que vous essayez cette action au cours de la prochaine minute dans un contexte que le MJ estime être un défi acceptable et significatif, vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstances de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstances de –1 sur les tests pour tenter la même action pendant 1 heure.</p>\n<p>Si l'action choisie peut être utilisée avec de multiples compétences, comme Identifier la magie ou Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser Arcanes pour Identifier la magie et votre bonus ou pénalité après la vantardise ne s'applique qu'aux tests qui utilisent cette compétence pour cette action. Une fois que vous avez lancé une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir cette même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.</p>\n<p>Typiquement une tâche qui constitue un défi est une tâche ayant au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succès ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.</p>",
+            "prereq": [
+                {
+                    "value": "Charisme 14"
+                },
+                {
+                    "value": "membre de second rang des Agitateurs vantards"
+                }
+            ]
+        },
+        {
             "id": "Hunter's Fangs",
             "name": "Crocs du chasseur",
             "description": "<p>Vos crocs sont exceptionnellement douloureux. Chaque fois que vous obtenez un coup critique avec votre attaque à mains nues de crocs, vous appliquez l'effet de critique spécialisé des attaques à mains nues.</p>"
@@ -12479,7 +12550,7 @@
         },
         {
             "id": "Resilient Shell",
-            "name": "Coquille résistante",
+            "name": "Carapace résistante",
             "description": "<p>Votre eidolon est résistant aux attaques. Il obtient une résistance aux dégâts physiques égale à son modificateur de Constitution.</p>"
         },
         {
@@ -12681,7 +12752,7 @@
         {
             "id": "Advanced Weaponry",
             "name": "Armement avancé",
-            "description": "<p>L'attaque de votre eidolon évolue.</p>\n<p>Choisissez l'une des attaques de corps-à-corps à mains nues de départ de votre eidolon. Elle obtient l'un des traits suivants, choisis lorsque vous gagnez la prouesse : désarmer, saisir, non létale, pousser, croc-en-jambe ou polyvalent contondant, perforante ou tranchante.</p>"
+            "description": "<p>L'attaque de votre eidolon évolue.</p>\n<p>Choisissez l'une des attaques de corps-à-corps à mains nues de départ de votre eidolon. Elle obtient l'un des traits suivants, choisis lorsque vous gagnez la prouesse : désarmer, saisir, non létale, pousser, croc-en-jambe ou polyvalent contondant, perforant ou tranchant.</p>"
         },
         {
             "id": "Irrepressible (Halfling)",
@@ -15196,7 +15267,7 @@
         {
             "id": "Eidolon's Opportunity",
             "name": "Opportunité de l'eidolon",
-            "description": "<p><strong>Déclencheur</strong> Une créature à portée de votre eidolon utilise une action de manipulation ou une action de déplacement, effectue une attaque à distance ou quitte une case durant une action de déplacement qu'elle utilise.</p>\n<hr />\n<p>Votre eidolon effectue une Frappe au corps-à-corps contre la créature déclencheuse. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, votre eidolon interrompt cette action. Cette Frappe ne compte pas pour calculer votre pénalité d'attaques multiples et votre pénalité d'attaque multiple ne s'applique pas à cette Frappe.</p>"
+            "description": "<strong>Déclencheur</strong> Une créature qui se trouve à portée de l'allonge de votre eidolon utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<hr />\n<p>Votre eidolon effectue une Frappe au corps-à-corps contre la créature qui a déclenché l'action. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, votre eidolon interrompt cette action. Cette frappe ne compte pas dans votre pénalité d'attaques multiples et votre pénalité d'attaques multiples ne s'applique pas à cette Frappe.</p>"
         },
         {
             "id": "Demonblood Frenzy",
@@ -16550,7 +16621,7 @@
         },
         {
             "id": "Alacritous Action",
-            "name": "Action entraînante",
+            "name": "Action empressée",
             "description": "<p>Votre eidolon se déplace plus rapidement. Il obtient un bonus de statut de +3 m à sa Vitesse.</p>"
         },
         {
@@ -16992,7 +17063,7 @@
         {
             "id": "Bloodletting Claws",
             "name": "Griffes hémorragiques",
-            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps-à-corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d6 dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
+            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps-à-corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
         },
         {
             "id": "Hag Claws",
@@ -19658,7 +19729,7 @@
         {
             "id": "Energy Heart",
             "name": "Cœur énergétique",
-            "description": "<p>Le cœur de votre éidolon bat avec de l'énergie.</p>\n<p>Choisissez un type de dégâts d'énergie autre que force. Une de ses attaques à mains nues change son type de dégâts au profit du type choisi et il obtient une résistance à ce type égale à la moitié de votre niveau (minimum 1).</p>"
+            "description": "<p>Le cœur de votre eidolon bat avec de l'énergie.</p>\n<p>Choisissez un type de dégâts d'énergie autre que force. Une de ses attaques à mains nues change son type de dégâts au profit du type choisi et il obtient une résistance à ce type égale à la moitié de votre niveau (minimum 1).</p>"
         },
         {
             "id": "Hex Wellspring",
@@ -20838,7 +20909,7 @@
         {
             "id": "Expanded Senses",
             "name": "Sens étendus",
-            "description": "<p>Votre eidolon fait évoluer ses sens pour qu'ils soient plus précis.</p>\n<p>Votre eidolon obtient vision nocturne et vision dans le noir, ainsi qu'odorat (imprécis) avec une portée de 9 m.</p>"
+            "description": "<p>Votre eidolon fait évoluer ses sens pour qu'ils soient plus précis.</p>\n<p>Votre eidolon obtient vision nocturne et vision dans le noir, ainsi qu'odorat (imprécis) 9 m.</p>"
         },
         {
             "id": "Bloody Blows",
@@ -20868,7 +20939,7 @@
         {
             "id": "Glider Form",
             "name": "Forme de planeur",
-            "description": "<p>Votre eidolon évolue avec des ailes, un corps flottant, ou un autre moyen de contrôler sa descente.</p>\n<p>Il glisse lentement vers le sol, d'1,5 m vers le bas et jusqu'à 7,5 m vers l'avant dans l'air.</p>\n<p>Tant qu'il dépense au moins 1 action en planant à chaque tour et qu'il n'a pas encore atteint le sol, il reste en l'air à la fin de votre tour.</p>"
+            "description": "<p>Votre eidolon développe des ailes, un corps capable de flotter ou tout autre moyen de contrôler sa descente.</p>\n<p>Il glisse lentement vers le sol, 1,5 m vers le bas et jusqu'à 7,5 m vers l'avant dans les airs.</p>\n<p>Tant qu'il dépense au moins 1 action en planant chaque tour et qu'il n'a pas encore atteint le sol, il reste en l'air à la fin de votre tour.</p>"
         },
         {
             "id": "Formation Master",
@@ -22844,7 +22915,7 @@
         {
             "id": "Mountain Stance",
             "name": "Posture de la montagne",
-            "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure et vous êtes en contact avec le sol</p>\n<hr />\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche.</p>\n<p>Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Posture : Posture de la montagne}</p>"
+            "description": "<p><strong>Conditions</strong> Vous ne portez aucune armure et vous êtes en contact avec le sol</p>\n<hr />\n<p>Vous prenez la posture implacable d’une montagne, une technique découverte par des moines nains, ce qui vous permet de frapper aussi violemment qu’une avalanche.</p>\n<p>Les seules Frappes que vous pouvez faire sont des attaques à mains nues de chute de pierre. Ces attaques infligent 1d8 dégâts contondants, elles font partie du groupe pugilat et possèdent les traits mains nues, non létal et percutant.</p>\n<p>Tant que vous gardez cette posture, vous bénéficiez d’un bonus de statut de +4 à la CA et d’un bonus de circonstances de +2 à vos défenses si l’on tente de vous Pousser ou de vous faire un Croc-en-jambe. Vous avez toutefois un bonus de Dextérité maximal à votre CA de +0, ce qui signifie que vous n’ajoutez pas votre modificateur de Dextérité à votre CA et vos Vitesses sont toutes réduites de 1,50 mètres. Le bonus d'objet à la CA de Posture de la montagne se cumule avec les runes de puissance d'armure de vos @Compendium[pf2e.equipment-srd.dDIPA1WE9ESF67EB]{Vêtements d'explorateur}, <em>@Compendium[pf2e.spells-srd.aAbfKn8maGjJjk2W]{Armure de mage}</em> et les bracelets d'armure.</p>\n<p>@Compendium[pf2e.feat-effects.gYpy9XBPScIlY93p]{Posture : Posture de la montagne}</p>"
         },
         {
             "id": "Natural Illusionist",
@@ -24135,6 +24206,19 @@
             ]
         },
         {
+            "id": "Swordmaster Dedication",
+            "name": "Dévouement : Maître des épées",
+            "description": "<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes lorsque des adversaires essaient de vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstances de +2 grâce à Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Maître des épées.</p>",
+            "prereq": [
+                {
+                    "value": "Force, Dextérité ou Constitution 14"
+                },
+                {
+                    "value": "membre de la Société des Éclaireurs affilié à l'École des Épées"
+                }
+            ]
+        },
+        {
             "id": "Master Siege Engineer",
             "name": "Maître ingénieur de siège",
             "description": "<p>Ce que vous ne savez pas sur l'artillerie ne vaut pas la peine d'être su et votre maîtrise vous permet d'effectuer un nombre impossible d'actions au sein de l'équipage d'une arme de siège. Vous êtes en permanence @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened}. Vous ne pouvez utiliser l'action supplémentaire que pour Viser ou Lancer un projectile avec une arme de siège.</p>",
@@ -24843,7 +24927,7 @@
         {
             "id": "Blood Frenzy",
             "name": "Frénésie hémorragique",
-            "description": "<p><strong>Conditions</strong> La dernière action de votre eidolon a été d'infliger des dégâts de saignement à une créature vivante.</p>\n<hr />\n<p>Votre eidolon rentre dans une sorte de frénésie. Il obtient les avantages de <em>booster l'eidolon</em> et obtient des PV temporaires égaux à votre niveau, mais il subit une pénalité de -2 à la CA. Il ne peut volontairement mettre un terme à la frénésie ou entrer de nouveau en frénésie tant qu'il est frénétique.</p>\n<p>La frénésie dure pendant 1 minute, à la suite de suoi votre eidolon est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut de nouveau entrer en frénésie pendant 1 minute.</p>",
+            "description": "<p><strong>Conditions</strong> La dernière action de votre eidolon a infligé des dégâts de saignement à une créature vivante.</p>\n<hr />\n<p>Votre eidolon est pris de frénésie. Il bénéficie des avantages de @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} et gagne des PV temporaires égaux à votre niveau mais subit une pénalité de -2 à la CA. Il ne peut pas mettre fin volontairement à la frénésie ou en commencer une autre tant qu'il est en frénésie.</p>\n<p>La frénésie dure pendant 1 minute, après quoi votre eidolon est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut débuter une autre frénésie pendant 1 minute.</p>",
             "prereq": [
                 {
                     "value": "Griffes hémorragiques"
@@ -25193,7 +25277,7 @@
         {
             "id": "Vivacious Afterimage",
             "name": "Image rémanente exubérante",
-            "description": "<p><strong>Conditions</strong> Vous avez du panache.</p>\n<hr />\n</p>Vous vous déplacez si rapidement que vous créez une image rémanente éphémère, qui vous ressemble exactement, devant ou derrière vous.</p>\n<p>Vous Marchez rapidement. À n'importe quel moment de votre déplacement, vous laissez une image rémanente de vous-même derrière vous. À l'inverse, vous pouvez également arrêter de vous déplacer et envoyer votre image rémanente en avant à la place, allant jusqu'au terme de votre déplacement. Une créature qui dépense des actions pour entrer en contact avec votre image rémanente peut tenter de ne pas la croire en effectuant un test de Volonté contre votre DD de classe. Lorsqu'un ennemi n'a pas cru l'une de vos images rémanentes, il est temporairement immunisé contre toutes vos images rémanentes exubérantes pendant 10 minutes. Tant qu'une créature n'a pas découvert l'image rémanente, celle-ci compte comme une créature lorsqu'il s'agit de la prendre en tenaille. L'image rémanente dure jusqu'au début de votre prochain tour ou jusqu'à ce que vous utilisiez à nouveau Image rémanente exubérante, selon ce qui se produit en premier.</p>",
+            "description": "<p><strong>Conditions</strong> Vous avez du panache.</p>\n<hr />\n</p>Vous vous déplacez si rapidement que vous créez une image rémanente éphémère, qui vous ressemble exactement, devant ou derrière vous.</p>\n<p>Vous Marchez rapidement. À n'importe quel moment de votre déplacement, vous laissez une image rémanente de vous-même derrière vous. À l'inverse, vous pouvez également arrêter de vous déplacer et envoyer votre image rémanente en avant à la place, allant jusqu'au terme de votre déplacement. Une créature qui dépense des actions pour entrer en contact avec votre image rémanente peut tenter de ne pas la croire en effectuant un test de Volonté contre votre DD de classe. Lorsqu'un ennemi a percé à jour l'une de vos images rémanentes, il est temporairement immunisé contre toutes vos <em>images rémanentes exubérantes</em> pendant 10 minutes. Tant qu'une créature n'a pas percé à jour l'<em>image rémanente</em>, celle-ci compte comme une créature lorsqu'il s'agit de la prendre en tenaille. L'image rémanente dure jusqu'au début de votre prochain tour ou jusqu'à ce que vous utilisiez de nouveau <em>Image rémanente exubérante</em>, selon ce qui se produit en premier.</p>",
             "prereq": [
                 {
                     "value": "Vitesse exubérante"
@@ -25685,7 +25769,7 @@
         {
             "id": "Vibration Sense",
             "name": "Perception des vibrations",
-            "description": "<p>Votre eidolon obtient @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Perception des vibrations} comme sens imprécis avec une portée de 9 m. S'il est aquatique, il obtient @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Perception des ondes} comme sens imprécis avec une portée de 9 m à la place. S'il est amphibie, il obtient les deux.</p>"
+            "description": "<p>Votre eidolon obtient @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Perception des vibrations} (imprécis) 9 m. S'il est aquatique, il obtient @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Perception des ondes} (imprécis) 9 m à la place. S'il est amphibie, il obtient les deux.</p>"
         },
         {
             "id": "Bestiary Scholar",
@@ -26739,7 +26823,7 @@
             ]
         },
         {
-            "id": "Foxfire (Cold)",
+            "id": "Foxfire",
             "name": "Feu de renard (froid)",
             "description": "<p>Une mêche de la fourrure de votre queue brille d'une énergie bleue. Vous obtenez une attaque à distance à mains nues de feu de renard avec une portée maximale de 6 mètres. L'attaque inflige [[/r {1d4}[cold]]]{1d4 dégâts de froid} (aucun modificateur de caractéristique n'est ajouté au jet de dégâts). Votre attaque de feu de renard est dans le groupe d'arme des frondes et a le trait magique.</p>\n<p>Comme les autres attaques à mains nues, vous pouvez améliorer cette attaque avec des @Compendium[pf2e.equipment-srd.FNDq4NFSN0g2HKWO]{Bandelettes de coups puissants}.</p>",
             "prereq": [
@@ -27271,7 +27355,7 @@
         {
             "id": "Weighty Impact",
             "name": "Impact pesant",
-            "description": "<p>Votre eidolon renverse ses ennemis. Choisissez une des attaques à mains nues de l'eidolon avec le trait Croc-en-jambe. Il obtient l'action @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement} pour cette attaque.</p>"
+            "description": "<p>Votre eidolon renverse ses ennemis. Choisissez une des attaques à mains nues de l'eidolon avec le trait croc-en-jambe. Il obtient l'action @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement} pour cette attaque.</p>"
         },
         {
             "id": "Tactical Cadence",
@@ -28435,7 +28519,7 @@
         {
             "id": "Mountain Quake",
             "name": "Tremblement de la montagne",
-            "description": "<p><strong>Conditions</strong> Vous êtes dans la @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne}</p>\n<hr />\n<p>Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une @Template[type:emanation|distance:20]{émanation de 6 mètres} subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} en cas d’échec.</p>\n<p>Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez ce don, le bonus de Dextérité maximal à votre CA lorsque vous prenez la Posture de la montagne passe de +1 à +2</p>\n<p>@Compendium[pf2e.pf2e-macros.4nEbRlo2cB9KkK7T]{Effet : Posture de la Montagne}</p>",
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la @Compendium[pf2e.feats-srd.ZL5UU9quCTvcWzfY]{Posture de la montagne}</p>\n<hr />\n<p>Vous piétinez pour faire trembler la terre sous vos pieds. Les créatures sur le sol dans une @Template[type:emanation|distance:20]{émanation de 6 mètres} subissent un montant de dégâts égal à votre modificateur de Force (0 au minimum), auxquels chacune peut résister grâce à un jet de Vigueur basique. Elles tombent également @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} en cas d’échec.</p>\n<p>Après avoir effectué cette action, vous ne pouvez plus la réutiliser avant [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<hr />\n<p><strong>Spécial</strong> Si vous avez ce don, le bonus de Dextérité maximal à votre CA lorsque vous prenez la Posture de la montagne passe de +1 à +2.</p>",
             "prereq": [
                 {
                     "value": "Bastion de la montagne"
@@ -28831,7 +28915,7 @@
         {
             "id": "Eidolon's Wrath",
             "name": "Courroux de l'eidolon",
-            "description": "<p>Votre eidolon gagne le sort focalisé <em>Courroux de l'eidolon</em>, qu'il lance, à votre place. Vous déterminez le type de dégâts lorsque vous gagnez le don : acide, froid, électricité, feu, négatif, positif ou sonique. Si votre eidolon est un céleste, un démon ou un veilleur dont l'alignement est autre que neutre véritable, vous pouvez choisir un type de dégâts de son alignement.</p>\n<p>Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Comme à l'accoutumée, votre eidolon partage vos points de focalisation.</p>"
+            "description": "<p>Votre eidolon obtient le sort de focalisation <em>@Compendium[pf2e.spells-srd.kuZnUNrhXHRYQ2eM]{Courroux de l'eidolon}</em>, qu'il peut lancer, à votre place. Vous déterminez le type de dégâts lorsque vous obtenez ce don : acide, électricité, feu, froid, négatif, positif ou de son. Si votre eidolon est un céleste, un fiélon ou un veilleur avec un alignement autre que neutre, vous pouvez choisir un type de dégât correspondant à une pat de son alignement.</p>\n<p>Augmentez le nombre de Points de Focalisation de votre réserve de Focalisation de 1. Comme à l'ordinaire, votre eidolon partage vos Points de focalisation.</p>"
         },
         {
             "id": "Inspirit Hazard",

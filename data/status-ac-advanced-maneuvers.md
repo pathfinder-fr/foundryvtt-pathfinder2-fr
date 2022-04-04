@@ -1,19 +1,12 @@
 # État de la traduction (ac-advanced-maneuvers)
 
  * **officielle**: 1
- * **libre**: 28
- * **aucune**: 1
+ * **libre**: 29
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[HLD4JW6SUn5Oy8C9.htm](ac-advanced-maneuvers/HLD4JW6SUn5Oy8C9.htm)|Badger Rage|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -29,6 +22,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[F98ajoIakyOPEuwj.htm](ac-advanced-maneuvers/F98ajoIakyOPEuwj.htm)|Shred|Déchiqueter|libre|
 |[FKh7ZMNyKxgnV7kI.htm](ac-advanced-maneuvers/FKh7ZMNyKxgnV7kI.htm)|Throw Rock|Lancer de rocher|libre|
 |[g4JEtCnKXyY4LJpm.htm](ac-advanced-maneuvers/g4JEtCnKXyY4LJpm.htm)|Feast on the Fallen|Festin sur le déchu|libre|
+|[HLD4JW6SUn5Oy8C9.htm](ac-advanced-maneuvers/HLD4JW6SUn5Oy8C9.htm)|Badger Rage|rage du blaireau|libre|
 |[kKW68gi1FNJlNSOp.htm](ac-advanced-maneuvers/kKW68gi1FNJlNSOp.htm)|Constrict|Constriction|libre|
 |[lrchn6ROZcuKCg3C.htm](ac-advanced-maneuvers/lrchn6ROZcuKCg3C.htm)|Careful Withdraw|Retrait précautionneux|libre|
 |[oCgdnQP5bMDD02YC.htm](ac-advanced-maneuvers/oCgdnQP5bMDD02YC.htm)|Bear Hug|Étreinte de l'ours|libre|

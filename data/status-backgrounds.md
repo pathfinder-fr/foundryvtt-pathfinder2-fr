@@ -1,12 +1,32 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 258
+ * **libre**: 257
  * **officielle**: 49
+ * **aucune**: 7
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[4lbfPXwZEf3eE0ip.htm](backgrounds/4lbfPXwZEf3eE0ip.htm)|Snubbed Out Stoolie|
+|[bxWID85noazU72O3.htm](backgrounds/bxWID85noazU72O3.htm)|Ratted-Out Gun Runner|
+|[eHfsMNiVeqwnrpG3.htm](backgrounds/eHfsMNiVeqwnrpG3.htm)|Framed in Ferrous Quarter|
+|[M8EfhY6Knb2iQm6S.htm](backgrounds/M8EfhY6Knb2iQm6S.htm)|Press-Ganged (G&G)|
+|[U1gbRkmZqJ7SmpeF.htm](backgrounds/U1gbRkmZqJ7SmpeF.htm)|Banished Brighite|
+|[UK40FVVVx6IKxipW.htm](backgrounds/UK40FVVVx6IKxipW.htm)|Inexplicably Expelled|
+|[wZikbWmCWYpjFxQF.htm](backgrounds/wZikbWmCWYpjFxQF.htm)|Wanted Witness|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged (LOWG)|Forçat des Mers|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -40,7 +60,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite (Occultisme)|officielle|
 |[4Vc8uXVHonrasFnU.htm](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|Saboteur|libre|
 |[4XpWgGejwb2L6WpK.htm](backgrounds/4XpWgGejwb2L6WpK.htm)|Codebreaker|Cryptographe|libre|
-|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged|Forçat des Mers|libre|
 |[58aWxmagtsuO0jeP.htm](backgrounds/58aWxmagtsuO0jeP.htm)|Eidolon Contact (Religion)|Contact d'Eidolon (Religion)|libre|
 |[5dezuNcZJ6wfecnG.htm](backgrounds/5dezuNcZJ6wfecnG.htm)|Gunsmith|Armurier|libre|
 |[5ITjkJwZ78YnBXdt.htm](backgrounds/5ITjkJwZ78YnBXdt.htm)|Magaambya Academic (Arcana)|Étudiant du Magaambya (Arcanes)|libre|

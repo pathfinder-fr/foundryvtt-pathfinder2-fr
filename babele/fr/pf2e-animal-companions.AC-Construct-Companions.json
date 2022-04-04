@@ -1,6 +1,47 @@
 {
     "label": "Constructs (Animal Companions)",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Unarmed Strike 1",
+            "name": "Frappe à mains nues 1",
+            "description": "<p>Renommer ce don pour renommer la Frappe créée par celle-ci, l'image de ce don peut aussi être ajustée à l'image que vous souhaitez pour la Frappe.</p>"
+        },
+        {
+            "id": "Unarmed Strike 2",
+            "name": "Frappe à mains nues 2",
+            "description": "<p>Renommer ce don pour renommer la Frappe créée par celle-ci, l'image de ce don peut aussi être ajustée à l'image que vous souhaitez pour la Frappe.</p>"
+        },
+        {
+            "id": "Advanced Construct (Small)",
+            "name": "Créature artificielle avancée petite",
+            "description": ""
+        },
+        {
+            "id": "Advanced Construct (Medium)",
+            "name": "Créature artificielle avancée moyenne",
+            "description": ""
+        },
+        {
+            "id": "Incredible Construct",
+            "name": "Créature artificielle incroyable",
+            "description": ""
+        },
+        {
+            "id": "Advanced Construct (Large)",
+            "name": "Créature artificielle avancée (Grande)",
+            "description": ""
+        },
+        {
+            "id": "Prototype Construct",
+            "name": "Prototype créature artificielle",
+            "description": ""
+        },
+        {
+            "id": "Paragon Construct",
+            "name": "Parangon créature artificielle",
+            "description": ""
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

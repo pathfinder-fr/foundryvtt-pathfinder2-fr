@@ -1,11 +1,31 @@
 # État de la traduction (equipment-effects)
 
- * **libre**: 192
+ * **libre**: 185
+ * **changé**: 7
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[13-cy42NXgx1vjYzSxN.htm](equipment-effects/13-cy42NXgx1vjYzSxN.htm)|Effect: Suit of Armoire Frustration|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-uVxs1qFMQsGWXNs6.htm](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)|Effect: Potion of Stable Form|Effet : Potion de forme stable|changé|
+|[01-W9tKQlA7tVIcAuzw.htm](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)|Effect: Greater Potion of Stable Form|Effet : Potion de forme stable supérieure|changé|
+|[02-cjQHrvoXDCGOsptN.htm](equipment-effects/02-cjQHrvoXDCGOsptN.htm)|Effect: Flask of Fellowship|Effet : Gourde de fraternité|changé|
+|[04-ccMa75bqXo3ZnlHM.htm](equipment-effects/04-ccMa75bqXo3ZnlHM.htm)|Effect: Major Five-Feather Wreath|Effet : Couronne à cinq plumes majeure|changé|
+|[04-nQ6vM1CRLyvQdGLG.htm](equipment-effects/04-nQ6vM1CRLyvQdGLG.htm)|Effect: Five-Feather Wreath|Effet : Couronne à cinq plumes|changé|
+|[04-ZP9Uq4PVTgzJ3wEi.htm](equipment-effects/04-ZP9Uq4PVTgzJ3wEi.htm)|Effect: Greater Five-Feather Wreath|Effet : Couronne à cinq plumes supérieure|changé|
+|[12-ApGnHnZEK7nv3IqL.htm](equipment-effects/12-ApGnHnZEK7nv3IqL.htm)|Effect: Greater Codex of Unimpeded Sight|Effet : Codex de vision sans entraves supérieur|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -61,11 +81,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-tGeMT4iHJcsjVbl3.htm](equipment-effects/01-tGeMT4iHJcsjVbl3.htm)|Effect: Metuak's Pendant|Effet : Pendentif de Metuak|libre|
 |[01-u35Qzft0c84UySq2.htm](equipment-effects/01-u35Qzft0c84UySq2.htm)|Effect: Ebon Fulcrum Lens (2 Action)|Effet : Lentille à pivot ébène (2 Actions)|libre|
 |[01-UTtX0xLGYci6P43I.htm](equipment-effects/01-UTtX0xLGYci6P43I.htm)|Effect: Mudrock Snare (Failure)|Effet : Piège artisanal de boue solidifiée (Échec)|libre|
-|[01-uVxs1qFMQsGWXNs6.htm](equipment-effects/01-uVxs1qFMQsGWXNs6.htm)|Equipment Effect: Potion of Stable Form|Effet : Potion de forme stable|libre|
 |[01-UzSrsR9S2pgMDbbp.htm](equipment-effects/01-UzSrsR9S2pgMDbbp.htm)|Effect: Cape of the Open Sky|Effet : Cape du ciel ouvert|libre|
 |[01-vj2hkcSbwwRYNLk5.htm](equipment-effects/01-vj2hkcSbwwRYNLk5.htm)|Effect: Jack's Tattered Cape|Effet : Cape en loques de Jack|libre|
 |[01-vOgD9wfStLX1utte.htm](equipment-effects/01-vOgD9wfStLX1utte.htm)|Effect: Skyrider Sword (Greater)|Effet : Chevaucheur d'épée supérieur|libre|
-|[01-W9tKQlA7tVIcAuzw.htm](equipment-effects/01-W9tKQlA7tVIcAuzw.htm)|Equipment Effect: Greater Potion of Stable Form|Effet : Potion de forme stable supérieure|libre|
 |[01-wFP3SqPoO0bCPmyK.htm](equipment-effects/01-wFP3SqPoO0bCPmyK.htm)|Effect: Kraken's Guard|Effet : Gardien kraken|libre|
 |[01-wNCxSxruzLVGtLE4.htm](equipment-effects/01-wNCxSxruzLVGtLE4.htm)|Effect: Spiderfoot Brew (Lesser)|Effet : Infusion de pattes d'araignée inférieure|libre|
 |[01-WQ0DxUzMgAvo0zy9.htm](equipment-effects/01-WQ0DxUzMgAvo0zy9.htm)|Effect: Apricot of Bestial Might|Effet : Abricot de puissance bestiale|libre|
@@ -80,7 +98,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-zZsdex5orF5Odpus.htm](equipment-effects/01-zZsdex5orF5Odpus.htm)|Equipment Effect: Mask of Allure|Effet : Masque d'allure|libre|
 |[02-0qJEtpXWPb7JJBbY.htm](equipment-effects/02-0qJEtpXWPb7JJBbY.htm)|Effect: Aromatic Ammunition|Effet : Munition aromatique|libre|
 |[02-5dhm66yN0LQTOePw.htm](equipment-effects/02-5dhm66yN0LQTOePw.htm)|Effect: Holy Steam Ball|Effet : Bille de vapeur sacrée|libre|
-|[02-cjQHrvoXDCGOsptN.htm](equipment-effects/02-cjQHrvoXDCGOsptN.htm)|Equipment Effect: Flask of Fellowship|Effet : Gourde de fraternité|libre|
 |[02-iEkH8BKLMUa2wxLX.htm](equipment-effects/02-iEkH8BKLMUa2wxLX.htm)|Effect: Glamorous Buckler|Effet : Targe étincelante|libre|
 |[02-mCb9mWAmgWPQrkTY.htm](equipment-effects/02-mCb9mWAmgWPQrkTY.htm)|Spell Effect: Barkskin (Arboreal's Revenge)|Effet : Peau d'écorce (Vengeance de l'arboréen)|libre|
 |[02-UDfVCATxdLdSzJYJ.htm](equipment-effects/02-UDfVCATxdLdSzJYJ.htm)|Effect: Red-Rib Gill Mask (Lesser)|Effet : Masque branchies de côte rouge inférieur|libre|
@@ -95,18 +112,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-mn39aML7EWKbttKT.htm](equipment-effects/03-mn39aML7EWKbttKT.htm)|Effect: Ablative Armor Plating (Moderate)|Effet : Blindage ablatif d'armure modéré|libre|
 |[03-PeiuJ951kkBPTCSM.htm](equipment-effects/03-PeiuJ951kkBPTCSM.htm)|Effect: Bracers of Missile Deflection|Effet : Protège-bras de déviation de projectiles|libre|
 |[03-T27uDXdMVc5ZFwKw.htm](equipment-effects/03-T27uDXdMVc5ZFwKw.htm)|Effect: Enhanced Hearing Aids|Effet : Appareil auditif augmenté|libre|
-|[04-ccMa75bqXo3ZnlHM.htm](equipment-effects/04-ccMa75bqXo3ZnlHM.htm)|Equipment Effect: Major Five-Feather Wreath|Effet : Couronne à cinq plumes majeure|libre|
 |[04-D7teqZ68L21aZCpd.htm](equipment-effects/04-D7teqZ68L21aZCpd.htm)|Effect: Glittering Snare (Failure)|Effet : Piège scintillant (Échec)|libre|
 |[04-E2uy6gqOXi1HRVBU.htm](equipment-effects/04-E2uy6gqOXi1HRVBU.htm)|Effect: Clockwork Goggles (Greater)|Effet : Lunettes mécaniques supérieures|libre|
 |[04-eNVSBXuOiAaN152C.htm](equipment-effects/04-eNVSBXuOiAaN152C.htm)|Effect: Energized Cartridge (Electricity)|Effet : Cartouche énergisée (électricité)|libre|
 |[04-Fz3cSffzDAxhCh2D.htm](equipment-effects/04-Fz3cSffzDAxhCh2D.htm)|Effect: Exsanguinating Ammunition|Effet : Munition exsangue|libre|
 |[04-GNFNDyx8nfNXrgV6.htm](equipment-effects/04-GNFNDyx8nfNXrgV6.htm)|Effect: Glittering Snare (Critical Failure)|Effet : Piège scintillant (Échec critique)|libre|
 |[04-LH0IDLLF4RsT3KvM.htm](equipment-effects/04-LH0IDLLF4RsT3KvM.htm)|Effect: Energized Cartridge (Fire)|Effet : Cartouche énergisée (feu)|libre|
-|[04-nQ6vM1CRLyvQdGLG.htm](equipment-effects/04-nQ6vM1CRLyvQdGLG.htm)|Equipment Effect: Five-Feather Wreath|Effet : Couronne à cinq plumes|libre|
 |[04-tLGzSCcfxflLSqzw.htm](equipment-effects/04-tLGzSCcfxflLSqzw.htm)|Effect: Energized Cartridge (Cold)|Effet : Cartouche énergisée (froid)|libre|
 |[04-vKooOkXHvtqCgZYg.htm](equipment-effects/04-vKooOkXHvtqCgZYg.htm)|Effect: Energized Cartridge (Acid)|Effet : Cartouche énergisée (acide)|libre|
 |[04-w0LUnfS2whVhDBUF.htm](equipment-effects/04-w0LUnfS2whVhDBUF.htm)|Effect: Glittering Snare (Success)|Effet : Piège scintillant (Succès)|libre|
-|[04-ZP9Uq4PVTgzJ3wEi.htm](equipment-effects/04-ZP9Uq4PVTgzJ3wEi.htm)|Equipment Effect: Greater Five-Feather Wreath|Effet : Couronne à cinq plumes supérieure|libre|
 |[05-19ECULG5Zp593jQX.htm](equipment-effects/05-19ECULG5Zp593jQX.htm)|Effect: Dragon's Blood Pudding (Moderate)|Effet : Poudding de sang de dragon modéré|libre|
 |[05-5uK3fmGlfJrbWQz4.htm](equipment-effects/05-5uK3fmGlfJrbWQz4.htm)|Effect: Stalwart's Ring|Effet : Anneau de résolution|libre|
 |[05-88kqcDmsoAEddzUt.htm](equipment-effects/05-88kqcDmsoAEddzUt.htm)|Effect: Boots of Elvenkind|Effet : Bottes elfiques|libre|
@@ -162,7 +176,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[11-RLsdvhmTh64Mmty9.htm](equipment-effects/11-RLsdvhmTh64Mmty9.htm)|Effect: Frost Vial (Lesser)|Effet : Fiole givrée inférieure|libre|
 |[12-4uy4Ygf5KD2WrtGW.htm](equipment-effects/12-4uy4Ygf5KD2WrtGW.htm)|Effect: Nosoi Charm (Diplomacy)|Effet : Charme de Nosoi (Diplomatie)|libre|
 |[12-9j1uTGBGAc7GIhjm.htm](equipment-effects/12-9j1uTGBGAc7GIhjm.htm)|Effect: Dragonfly Potion|Effet : Potion libellule|libre|
-|[12-ApGnHnZEK7nv3IqL.htm](equipment-effects/12-ApGnHnZEK7nv3IqL.htm)|Equipment Effect: Greater Codex of Unimpeded Sight|Effet : Codex de vision sans entraves supérieur|libre|
 |[12-MesQvxSazhl7Xvg8.htm](equipment-effects/12-MesQvxSazhl7Xvg8.htm)|Effect: Nosoi Charm (Performance)|Effet : Charme Nosoi (Représentation)|libre|
 |[12-mrwg2XftLtSLj197.htm](equipment-effects/12-mrwg2XftLtSLj197.htm)|Effect: Exsanguinating Ammunition (Major)|Effet : Munition exsangue majeur|libre|
 |[12-p2aGtovaY1feytws.htm](equipment-effects/12-p2aGtovaY1feytws.htm)|Effect: Aeon Stone (Black Pearl)|Effet : Pierre d'éternité (Perle noire)|libre|

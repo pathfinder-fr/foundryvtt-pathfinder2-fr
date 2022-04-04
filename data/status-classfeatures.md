@@ -1,12 +1,20 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 230
- * **libre**: 218
+ * **officielle**: 229
+ * **libre**: 217
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion's Code|Code du champion|changé|
+|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -106,7 +114,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|libre|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
-|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion Code|Code du champion|officielle|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|libre|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
@@ -290,7 +297,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Combat|libre|
-|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|libre|
 |[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones|Ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
@@ -383,7 +389,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[summoner-11-q1Y12Pg2gQg2FJPR.htm](classfeatures/summoner-11-q1Y12Pg2gQg2FJPR.htm)|Twin Juggernauts|Juggernauts jumelés|libre|
 |[summoner-13-NIzHfVcVMhDmvA49.htm](classfeatures/summoner-13-NIzHfVcVMhDmvA49.htm)|Eidolon Unarmed Mastery|Maîtrise à mains nues de l'eidolon|libre|
 |[summoner-15-B5SyM7qHrU0gTGR0.htm](classfeatures/summoner-15-B5SyM7qHrU0gTGR0.htm)|Greater Eidolon Specialization|Spécialisation de l'eidolon supérieure|libre|
-|[summoner-15-eZPfHVz14j42jCnS.htm](classfeatures/summoner-15-eZPfHVz14j42jCnS.htm)|Shared Resolve|résolution partagée|libre|
+|[summoner-15-eZPfHVz14j42jCnS.htm](classfeatures/summoner-15-eZPfHVz14j42jCnS.htm)|Shared Resolve|Résolution partagée|libre|
 |[summoner-17-nCE9DzkugRefREqT.htm](classfeatures/summoner-17-nCE9DzkugRefREqT.htm)|Eidolon Transcendence|Transcendance de l'eidolon|libre|
 |[summoner-19-0WvI8KM5m0SaZ3MH.htm](classfeatures/summoner-19-0WvI8KM5m0SaZ3MH.htm)|Eidolon Defensive Mastery|Maîtrise défensive de l'eidolon|libre|
 |[summoner-19-H0iWhiyP0QqgmAKs.htm](classfeatures/summoner-19-H0iWhiyP0QqgmAKs.htm)|Instant Manifestation|Manifestation instantanée|libre|

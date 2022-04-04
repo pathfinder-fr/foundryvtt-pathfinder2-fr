@@ -613,7 +613,7 @@
         },
         {
             "id": "Shared Resolve",
-            "name": "Shared Resolve (résolution partagée)",
+            "name": "Shared Resolve (Résolution partagée)",
             "description": "<p>Votre eidolon et vous protégez votre esprit ensemble contre les effets qui vous menacent, chacun protégeant l'esprit de l'autre du danger. Votre eidolon et vous passez maître dans les jets de Volonté. Lorsque vous obtenez un succès sur un jet de Volonté, vous obtenez un succès critique à la place. Lorsque votre eidolon obtient un succès sur un jet de Volonté, il remporte un succès critique à la place.</p>"
         },
         {
@@ -752,8 +752,8 @@
             "description": "<p>Vous vénérez les plantes et la générosité de la nature, en vous comportant à la fois comme un jardinier et comme un gardien de la nature sauvage qui enseigne des techniques durables aux communautés et aide certaines régions à se rétablir suite à des désastres ou au développement abusif d’humanoïdes.</p>\n<p>Vous êtes qualifié en Diplomatie. Vous obtenez également le don de druide @Compendium[pf2e.feats-srd.7y1BCJLrdk9mKXlc]{Familier léchi}. Vous obtenez le sort d’ordre <em>@Compendium[pf2e.spells-srd.vQuwLqtFFYt0K15N]{Baie nourricière}</em> et vous augmentez de 1 le nombre de points que contient votre réserve de focalisation.</p>\n<p>Tout acte de cruauté gratuit envers des végétaux ou l’abattage abusif de plantes sont considérés comme anathèmes (il ne vous est toutefois pas interdit de vous défendre contre des plantes ou de les cueillir lorsque c'est nécessaire pour vous nourrir).</p>"
         },
         {
-            "id": "Champion Code",
-            "name": "Champion Code (Code du champion)",
+            "id": "Champion's Code",
+            "name": "Champion's Code (Code du champion)",
             "description": "<p>Vous adhérez à un code de conduite dont les premiers principes sont appliqués par tous les champions d’un même alignement (ceux d’alignement bon, par exemple) et dont les suivants concernent votre cause. Les divinités imposent parfois des restrictions supplémentaires (par exemple, les champions de @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag} ne doivent montrer aucune pitié envers les ennemis de leur peuple et la plupart ne peuvent donc pas embrasser la cause du rédempteur). </p>\n<p>Les principes apparaissent par ordre d’importance, en commençant par les plus importants. Votre situation n’est pas insoluble si elle met deux principes en conflit ; en effet, dans ce cas, suivez simplement le principe le plus important. Par exemple, en tant que paladin, si un roi malfaisant vous demande où vous cachez des réfugiés pour qu’il puisse les exécuter, vous pourriez lui mentir car le principe qui vous interdit de mentir est moins important que celui qui vous interdit de nuire à des innocents. Les tentatives de contournement des principes du code en créant une situation où l’application d’un principe supérieur permet d’ignorer un principe moins important (promettre, par exemple, de ne pas respecter les autorités et leur manquer ensuite de respect pour tenir votre promesse) est une violation du code du champion.</p>\n<p>Si vous vous écartez des principes de votre alignement ou si vous violez votre code de conduite, vous perdez votre réserve de focalisation et votre allié divin jusqu’à ce que vous montriez sincèrement votre désir de repentance en accomplissant le rituel <em>@Compendium[pf2e.spells-srd.7Fd4lxozd11MQ55N]{Pénitence}</em>. Vous conservez cependant tous les autres pouvoirs de champion qui ne requièrent aucune de ces deux capacités de classe. Si votre alignement change mais que votre divinité l’autorise, votre MJ peut vous laisser suivre un réapprentissage pour changer votre cause tout en continuant à servir la même divinité.</p>"
         },
         {
@@ -999,7 +999,7 @@
         {
             "id": "Eidolon Transcendence",
             "name": "Eidolon Transcendence (Transcendance de l'eidolon)",
-            "description": "<p>Le lien forgé avec votre eidolon approche son paroxysme, accordant à votre eidolon la possibilité d'accéder à une nouvelle capacité puissante qui dépend de son type, comme indiqué dans les Capacités de l'eidolon pour chaque description de chaque type d'eidolon. Cette capacité accroit aussi l'un des scores de caractéristique de l'eidolon de 2.</p>"
+            "description": "<p>Le lien forgé avec votre eidolon approche son paroxysme, accordant à votre eidolon la possibilité d'accéder à une nouvelle capacité puissante qui dépend de son type, comme indiqué dans les Capacités de l'eidolon pour chaque description de chaque type d'eidolon. Cette capacité accroit aussi l'un des scores de caractéristique de l'eidolon de +2.</p>"
         },
         {
             "id": "Panache",

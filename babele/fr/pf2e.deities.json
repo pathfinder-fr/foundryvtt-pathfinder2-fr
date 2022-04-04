@@ -22,7 +22,7 @@
             "description": ""
         },
         {
-            "id": "Uvoko",
+            "id": "Uvuko",
             "name": "Uvuko",
             "description": ""
         },
@@ -104,6 +104,11 @@
         {
             "id": "Ydajisk",
             "name": "Ydajisk",
+            "description": ""
+        },
+        {
+            "id": "Nurgal",
+            "name": "Nurgal",
             "description": ""
         },
         {
@@ -243,7 +248,7 @@
         },
         {
             "id": "Erecura",
-            "name": "Erecura",
+            "name": "Érécura",
             "description": ""
         },
         {
@@ -397,6 +402,11 @@
             "description": ""
         },
         {
+            "id": "God Calling",
+            "name": "Appel de dieu",
+            "description": ""
+        },
+        {
             "id": "Korada",
             "name": "Korada",
             "description": ""
@@ -454,6 +464,11 @@
         {
             "id": "Luhar",
             "name": "Luhar",
+            "description": ""
+        },
+        {
+            "id": "Erastil",
+            "name": "Érastil",
             "description": ""
         },
         {
@@ -617,6 +632,11 @@
             "description": ""
         },
         {
+            "id": "Trudd",
+            "name": "Trudd",
+            "description": ""
+        },
+        {
             "id": "Ashava",
             "name": "Ashava",
             "description": ""
@@ -712,6 +732,11 @@
             "description": ""
         },
         {
+            "id": "Groetus",
+            "name": "Groetus",
+            "description": ""
+        },
+        {
             "id": "Lamashtu",
             "name": "Lamashtu",
             "description": ""
@@ -739,6 +764,11 @@
         {
             "id": "Ardad Lili",
             "name": "Ardad Lili",
+            "description": ""
+        },
+        {
+            "id": "Sarenrae",
+            "name": "Sarenrae",
             "description": ""
         },
         {

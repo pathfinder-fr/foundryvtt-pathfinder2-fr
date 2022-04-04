@@ -142,6 +142,11 @@
             "description": "<p>L'Ulgrem-Lurann mord fort et libère une décharge électrique. Il porte une Frappe de mâchoires. Si la Frappe touche, la créature cible devient automatiquement @Compendium[pf2e.conditionitems.Grabbed]{Saisie} par l'Ulgrem-Lurann et subit [[/r {1d4}[electricity]]]{1d4 dégâts d'électricité} ([[/r {2d4}[electricity]]]{dégâts d'électricité} pour un Ulgrem-Lurann adulte ou [[/r {3d4}[electricity]]]{3d4 dégâts d'électricité} pour un compagnon spécialisé). La condition Saisie dure jusqu'à la fin de votre prochain tour, bien que l'Ulgrem-Lurann puisse utiliser @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} pour tenter d'étendre sa durée comme à l'ordinaire.</p>"
         },
         {
+            "id": "Badger Rage",
+            "name": "rage du blaireau (Badger Rage)",
+            "description": "<p><strong>Conditions</strong> Le blaireau n'est pas fatigué ou en rage.</p>\n<hr />\n<p>Le blaireau rentre dans un état de rage pure qui dure pendant 1 minute, jusqu'à ce qu'il n'y ait plus d'ennemis aux alentours qu'il puisse percevoir ou qu'il sombre dans l'inconscience selon de qui se produit en premier. Il ne peut cesser volontairement ssa rage. Lorsqu'il est enragé, le blaireau est affecté de la manière suivante.</p>\n<p>Il inflige 4 dégâts supplémentaire avec ses attaques de morsure et 2 dégâts supplémentaires avec ses attaques de griffe.</p>\n<p>Il subit une pénalité de -1 à la CA.</p>\n<p>Ile ne peut utiliser d'action avec le trait concentration à moins qu'elle n'ait aussi le trait rage. Le compagnon animal peut Chercher même lorsqu'il est en rage.</p>\n<p>Lorsqu'il a mis un terme à sa rage, il ne peut utiliser Rage du blaireau de nouveau pendant 1 minute.</p>"
+        },
+        {
             "id": "Tongue Pull",
             "name": "Traction de la langue (Tongue Pull)",
             "description": "<p>Le gecko des cavernes fait claquer sa langue et tente d'attirer vers lui un ennemi se trouvant dans un rayon de 3 mètres. Le gecko fait un test d'Athlétisme contre le DD de Vigueur de l'adversaire. S'il réussit, le gecko des cavernes tire l'ennemi à côté de lui. Ce déplacement est un déplacement forcé. En cas de succès critique, l'ennemi est également @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Saisi} jusqu'au début de votre prochain tour.</p>"

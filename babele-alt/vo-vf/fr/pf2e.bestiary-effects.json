@@ -157,6 +157,11 @@
             "description": "<p>La créature subit une pénalité de circonstances de -2 au jet de compétence déclencheur.</p>"
         },
         {
+            "id": "Effect: Blood Frenzy",
+            "name": "Effect: Blood Frenzy (Effet : Frénésie de sang)",
+            "description": "<p>La créature gagne des PV temporaires et d'autres effets en fonction de la créature spécifique.</p>"
+        },
+        {
             "id": "Effect: Splintered Ground",
             "name": "Effect: Splintered Ground (Effet : Sol fracturé)",
             "description": "<p>La créature subit une pénalité de circonstances de -3 mètres à toutes ses Vitesses.</p>"

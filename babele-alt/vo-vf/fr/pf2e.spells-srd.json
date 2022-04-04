@@ -344,6 +344,13 @@
             "target": "1 créature"
         },
         {
+            "id": "Word of Freedom",
+            "name": "Word of Freedom (Mot de liberté)",
+            "description": "<p>Vous prononcez un mot de pouvoir qui libère une créature.</p>\n<p>Vous réprimez l’un des états suivants de votre choix : @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confus}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}, @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoigné/Agrippé} ou @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé}. La cible n’est plus affectée par l’état choisi et si vous réprimez l’état Empoigné, elle se libère automatiquement de la saisie dont elle est victime quand vous Lancez le sort.</p>\n<p>Si vous ne supprimez pas l’effet à l’origine de l’état, il refait effet après la fin du sort. Par exemple, si un sort rend Confuse la cible pendant une minute, Mot de liberté lui permettra d’agir normalement pendant 1 round mais l’état Confus reviendra ensuite.</p>",
+            "range": "9 m",
+            "target": "1 créature"
+        },
+        {
             "id": "Spectral Hand",
             "name": "Spectral Hand (Main spectrale)",
             "description": "<p>À partir de votre essence, vous créez une main semi-corporelle qui délivre des sorts de contact pour vous.</p>\n<p>Chaque fois que vous Lancez un sort avec une portée de contact, vous pouvez demander à la main de ramper vers une cible située à portée, la toucher puis ramper de nouveau vers vous. Quand vous lancez une attaque de sort de corps-à-corps avec la main, vous utilisez vos bonus normaux. La main peut se déplacer aussi loin que nécessaire dans la portée. La main a votre CA et vos sauvegardes, mais tout dégât qui lui est infligé la détruit et vous fait subir 1d6 dégâts</p>",
@@ -574,6 +581,11 @@
             "name": "Abundant Step (Pas chassé)",
             "description": "<p>Vous vous déplacez si vite que vous pouvez franchir les frontières planaires. Vous vous téléportez vers un endroit dans votre champ de vision situé à une distance égale à votre Vitesse.</p>",
             "range": "4,5 m ou plus"
+        },
+        {
+            "id": "Inner Radiance Torrent",
+            "name": "Inner Radiance Torrent (Torrent de radiance intérieur)",
+            "description": "<p>Vous manifestez progressivement votre énergie spirituelle dans vos mains en coupe avant de tirer une tempête de carreaux et de rayons qui infligent 4d4 points de dégâts de force à toutes les créatures dans une ligne de 18 mètres. Les créatures dans la zone doivent tenter un jet de Réflexes basique. En cas d'échec critique, elles sont également aveuglées pendant 1 round. Le nombre d'actions que vous dépensez lorsque vous lancez ce sort détermine la zone. Si la ligne traverse une zone de Ténèbres magiques ou cible une créature affectée par l'obscurité magique, Torrent de radiance intérieure tente de contrer les Ténèbres.</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(somatique, verbal)</strong> La ligne mesure 18 mètres de long.</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(matériel, somatique, verbal)</strong> La ligne mesure <span data-pf2-effect-area=\"line\" data-pf2-distance=\"120\">36 mètres</span> de long.</p>\n<p><strong>Deux rounds</strong> La ligne mesure est de 36 mètres de long. Si vous dépensez 3 actions à Lancer le sort, vous pouvez éviter de finir le sort pour passer 3 actions de plus au cours de votre prochain tour pour pour renforcer le sort encore davantage. Si vous choisissez de le faire, les dégâts infligés par ce sort  augmente de 4d4 et vous entrez dans un état brillant pendant 1 minute, vous faisant briller avec de la lumière et infliger [[/r {1}[force]]]{1 dégât de force} aux créatures qui termine leur tour en vous étant adjacentes.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts initiaux ainsi que les dégâts supplémentaires pour la version à deux rounds d'incantation, augmentent chacun de 4d4 et les dégâts infligés aux créatures adjacentes infligés pendant que vous êtes dans un état brillant augmentent de 1.</p>"
         },
         {
             "id": "Mirecloak",
@@ -1335,7 +1347,7 @@
         {
             "id": "Daze",
             "name": "Daze (Hébétement)",
-            "description": "<p>Vous obscurcissez l’esprit de la cible et l’hébétez d’une décharge mentale. Les dégâts de cette dernière équivalent à votre modificateur de caractéristique d’incantation. La cible fait un jet de Volonté basique. En cas d’échec critique, elle est également @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts augmentent de 1d6.</p>",
+            "description": "<p>Vous obscurcissez l’esprit de la cible et l’hébétez d’une décharge mentale. Les dégâts mentaux de cette dernière équivalent à votre modificateur de caractéristique d’incantation. La cible fait un jet de Volonté basique. En cas d’échec critique, elle est également @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1.</p>\n<hr />\n<p><strong>Intensifié (+2)</strong> Les dégâts augmentent de 1d6.</p>",
             "range": "18 mètres",
             "target": "1 créature"
         },
@@ -2774,6 +2786,13 @@
             "target": "1 créature"
         },
         {
+            "id": "Rip the Spirit",
+            "name": "Rip the Spirit (Déchirer l'esprit)",
+            "description": "<p>Vous arrachez de manière surnaturelle l'esprit du corps d'une créature vivante, condamnant la cible à la douleur et à la mort. La cible subit 5d6 points de dégâts négatifs, en fonction de son jet de Vigueur basique et est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1} si elle échoue à son jet de sauvegarde. L'effet du sort est basé sur le nombre d'actions que vous dépensez lorsque vous lancez le sort.</p>\n<p><span class=\"pf2-icon\">1</span> <strong>(somatique)</strong> Le sort cible une créature vivante à portée.</p>\n<p><span class=\"pf2-icon\">2</span> <strong>(somatique, verbal)</strong> Le sort cible une créature vivante à portée et les dégâts sont de [[/r {10d6}[negative]]]{10d6 dégâts négatifs} au lieu de 5d6.</p>\n<p><span class=\"pf2-icon\">3</span> <strong>(matériel, somatique, verbal)</strong> Le sort cible toutes les créatures vivantes dans une émanation de 9 m.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Le montant de dégâts augmente de 1d6 ou de [[/r 2d6]] pour la version à 2 actions.</p>",
+            "range": "9 mètres",
+            "target": "1 créature vivante"
+        },
+        {
             "id": "Illusory Object",
             "name": "Illusory Object (Objet illusoire)",
             "description": "<p>Vous créez l’image visuelle d’un objet immobile. La totalité de l’image doit tenir dans la zone du sort. L’objet semble interagir de manière naturelle avec son environnement mais il ne fait aucun son et ne sécrète aucune odeur. Par exemple, l’eau semblera se déverser d’une cascade illusoire mais ne fera aucun bruit.</p>\n<p>Une créature qui touche l’image ou effectue l’action Chercher pour l’examiner peut tenter de la discerner.</p>\n<hr />\n<p><strong>Intensifié (2e)</strong> Votre image génère des sons et des odeurs appropriés et elle paraît réelle lorsqu’on la touche. Le sort gagne le trait audible. La durée passe à 1 heures.</p>\n<p><strong>Intensifié (5e)</strong> Comme la version de niveau 2 mais la durée est illimitée.</p>",
@@ -2825,6 +2844,16 @@
             "description": "<p>Vous marquez du symbole sacré d'Achaékek à un endroit visible sur le corps de la cible.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est marquée du symbole d'Achaékek. Pendant 1 minute, la première fois par round que la cible reçoit des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}, elle subit immédiatement ce montant de dégâts tranchants lorsque les mandibules de la mante sortent du symbole et la griffent.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la malédiction possède une durée illimitée.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais le DD du test nu de la cible pour mettre un terme aux dégâts de saignement persistants passe à 20 (15 avec une assistance particulièrement efficace).</p>",
             "range": "9 m",
             "target": "1 créature"
+        },
+        {
+            "id": "Bathe in Blood",
+            "name": "Bathe in Blood (Baignade de sang)",
+            "description": "<p>C'est un vieux rituel, illégal dans presque tous les coins de Golarion, mais jamais vraiment disparu. Vous vous baignez dans le sang fraîchement versé de votre peuple, dont vous vous accaparez les vies et les années durant le processus.</p>\n<p>Ce rituel nécessite que vous vous immergiez dans un bain de sang traité alchimiquement, assisté de serviteurs silencieux. Le sang doit provenir de la même ascendance que le vôtre et doit avoir été versé au cours des 6 dernières heures ; un sort tel que Préservation des morts peut prolonger ce délai, mais l'utilisation de sang ainsi préservé impose une pénalité de circonstances de -4 aux tests primaires et secondaires. Si vous êtes de taille moyenne, il vous faut 120 litres de sang pour vous immerger, et une créature moyenne typique contient environ 6 litres de sang dans son corps. Ce rituel n'exige pas strictement que les donneurs de sang soient tués et vidés de leur sang, mais le défi logistique que représente la collecte d'une quantité suffisante de sang sans recourir au meurtre dépasse les capacités de tous les lanceurs de sorts, à l'exception de ceux qui disposent de ressources importantes.</p>\n<p>Chaque fois que vous effectuez ce rituel, qu'il réussisse ou échoue, vous subissez une pénalité au test primaire pour toutes les incantations suivantes. Cette pénalité commence à -1 et augmente de -1 à chaque incantation (ainsi, si vous lancez ce rituel sur vous-même pour la cinquième fois, vous subirez une pénalité de -4 à votre test d'Occultisme).</p>\n<hr />\n<p><strong>Succès critique</strong> Vous émergez rajeuni et revivifié. Vous devenez jusqu'à 40 ans plus jeune, retrouvant votre prime jeunesse. Si vous étiez déjà à l'âge désiré, vous cessez de vieillir pendant les 40 prochaines années. Bien que vous restiez reconnaissable vous-même, vous devenez également attirant de manière surnaturelle, obtenant un bonus de circonstances de +1 pour Faire bonne impression. @Compendium[pf2e.spell-effects.kMoOWWBqDYmPcYyS]{Effet : Baignade de sang}</p>\n<p><strong>Succès</strong> Vous devenez 20 ans plus jeure ou cessez de vieillir pendant les 20 prochaines années.</p>\n<p><strong>Échec</strong> Le rituel n'a pas d'effet.</p>\n<p><strong>Échec critique</strong> Vous mourrez. Les incantateurs tués de cette manière reviennent fréquemment comme des morts-vivants, souvent comme des fantômes ou des vampires.</p>",
+            "range": "6 mètres",
+            "target": "1 créature vivante d'un niveau pas supérieur au double du niveau du rituel Se baigner dans le sang",
+            "secondarycaster": "2",
+            "primarycheck": "Occultisme (expert)",
+            "secondarycheck": "Religion, Société"
         },
         {
             "id": "Lucky Number",
@@ -5740,7 +5769,7 @@
         {
             "id": "Phantom Crowd",
             "name": "Phantom Crowd (Foule fantômatique)",
-            "description": "<p>Une foule serrée d'humanoïdes appropriés à la région apparaît, vous faisant face et approuvant bruyamment tout ce que vous dites. Une créature qui touche un membre de la foule ou fait une action Chercher pour examiner la foule peut tenter de percer votre illusion. La foule est un terrain difficile pour toute personne qui n'a pas percé l'illusion.</p>\n<p>Lorsque vous passez 1 action ou plus à lancer un sort de composition ou pour accomplir une activité qui inclut un test de Représentation, vous pouvez Maintenir ce sort tout en accomplissant cette action.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La foule occupe un espace supplémentaire de 3 m carrés dans la portée. Les cases supplémentaires n'ont pas besoin d'être adjacents à tout autre case créée par le sort. Elles peuvent se chevaucher mais il n'y a pas d'effet supplémentaire dans les cases superposées.</p>",
+            "description": "<p>Une foule serrée d'humanoïdes appropriés à la région apparaît, vous faisant face et approuvant bruyamment tout ce que vous dites. Une créature qui touche un membre de la foule ou fait une action Chercher pour examiner la foule peut tenter de percer à jour votre illusion. La foule est un terrain difficile pour toute personne qui n'a pas percé l'illusion.</p>\n<p>Lorsque vous passez 1 action ou plus à lancer un sort de composition ou pour accomplir une activité qui inclut un test de Représentation, vous pouvez Maintenir ce sort tout en accomplissant cette action.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> La foule occupe un espace supplémentaire de 3 m carrés dans la portée. Les cases supplémentaires n'ont pas besoin d'être adjacentes à une autre case créée par le sort. Elles peuvent se chevaucher mais il n'y a pas d'effet supplémentaire dans les cases superposées.</p>",
             "range": "18 m"
         },
         {
@@ -5935,6 +5964,13 @@
             "target": "1 créature autre que vous"
         },
         {
+            "id": "Message Rune",
+            "name": "Message Rune (Rune messagère)",
+            "description": "<p>Vous enregistrez un message d'une durée maximale de 5 minutes et inscrivez une rune spéciale sur toute surface plate à votre portée. La nature de l'aspect de la rune est à votre discrétion, mais elle est visible de tout le monde et elle doit avoir un diamètre d'au moins 5 centimètres. Vous spécifiez aussi un déclencheur que les créatures doivent réunir pour activer la rune. Pendant la durée du sort, les créatures qui réunissent les critères du déclencheur peuvent toucher la rune pour entendre le message enregistré dans leurs têtes comme si vous leur parliez de manière télépathique. Vous savez quand quelqu'un est en train d'écouter le message, mais vous ne savez pas qui l'écoute. Vous pouvez Révoquer le sort.</p>",
+            "range": "contact",
+            "target": "1 surface plate non tenue"
+        },
+        {
             "id": "Cleansing Flames",
             "name": "Cleansing Flames (Flammes purificatrices)",
             "description": "<p>Vous enveloppez la cible dans des flammes purificatrices. Vous pouvez tenter de contrer un seul effet de poison ou un effet qui ne ressort pas d'une malédiction conférant l'état  @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli}, @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}, @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué}, @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé} ou @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié}.</p>\n<p>La cible peut choisir d'alimenter les flammes avec sa force vitale, devenant ainsi @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1}. (ou augmenter la valeur de son état Drainé de 1, si elle est déjà dans cet état) pour vous accorder un bonus de circonstances de +1 à votre test de contre.</p>",
@@ -5947,6 +5983,11 @@
             "description": "<p>Vous imprégnez d'énergie magique votre cible ouvrant son esprit aux manières de la magie et en lui accordant la capacité d'utiliser la magie pour affecter le monde qui l'entoure.</p>\n<p>Choisissez un sort de niveau 1 que vous avez préparé aujourd'hui ou qui se trouve dans votre répertoire, de la même tradition que celle que vous avez lancé pour Infusion paisible. Le sort doit être un de ceux qui a une portée indiquée. Si la cible est au moins du niveau 3, vous pouvez choisir un sort de niveau 2 à la place au lieu d'un sort de niveau 1 ; et si la cible est au moins de niveau 5, vous pouvez choisir un sort de niveau 3. La cible peut Lancer le sort une fois par jour comme s'il s'agissait d'un sort inné de la tradition que vous avez utilisé pour lancer Infusion paisible. Si elle n'est pas qualifiée dans la tradition magique appropriée, son bonus d'attaque de sort est de 2 + son niveau + son plus haut modificateur de caractéristique mentale et son DD de sort est de 12 + son niveau + son plus haut modificateur de caractéristique mentale.</p>\n<p>Contrairement à la plupart des capacités qui peuvent seulement être utilisées une fois par jour, la cible récupère l'utilisation du sort inné accordé chaque jour uniquement après que vous ayez fait vos préparatifs quotidiens et que vous choisissez d'étendre la durée d'Infusion paisible soit en vous réfrénant de préparer un sort dans l'emplacement (si vous êtes un incantateur préparé), soit en dépensant un autre emplacement de sort (si vous êtes un incantateur spontané).</p>\n<hr />\n<p><strong>Intensifié (8e)</strong> Si la cible est au moins du niveau 7, vous pouvez choisir un sort de niveau 4.</p>\n<p><strong>Intensifié (10e)</strong> Comme au niveau 8 et si la cible est au moins de niveau 9, vous pouvez choisir un sort de niveau 5.</p>",
             "range": "contact",
             "target": "une créature volontaire de niveau inférieur au vôtre"
+        },
+        {
+            "id": "Catch Your Name",
+            "name": "Catch Your Name (Attraper votre nom)",
+            "description": "<p><strong>Déclencheur</strong> Une créature sur votre plan prononce votre nom privé ou votre nom véritable</p>\n<p><strong>Conditions</strong> Vous connaissez votre propre nom véritable</p>\n<hr />\n<p>Vous apprenez un nom privé (mais pas le nom véritable) de la créature qui a prononcé votre nom, ainsi que sa localisation précise, à moins qu'elle ne réussisse un jet de Volonté pour annuler l'effet. Vous êtes conscient à chaque fois que les conditions qui déclenchent sont réunies tant que votre avez préparé le dort ou qu'il est dans votre répertoire. Il n'y a pas de moyen de distinguer un déclencheur de ce sort d'un autre sans lancer le sort. Cela peut devenir une nuisance si vous êtes tellement fameux que votre nom est régulièrement sur les lèvres des gens.</p>"
         },
         {
             "id": "Foresight",
@@ -6125,6 +6166,13 @@
             "description": "<p>Vous concentrez les énergies de tous les membres de l'espèce de votre compagnon animal et tranformez votre compagnon animal en sa forme de combat parfaite. Votre compagnon animal obtient les statistiques et les capacités suivantes sous sa forme alpha :</p>\n<ul>\n<li>Votre compagnon animal devient Très grand et ses attaques ont une allonge de 4,5 m. Il doit avoir suffisamment d'espace pour s'étendre de la sorte, sinon le sort est perdu,</li>\n<li>30 Points de vie temporaires,</li>\n<li>Vision dans le noir,</li>\n<li>Les dés de dégâts des attaques de votre compagnon animal augmentent d'un cran et ses attaques obtiennent le trait mortel d12,</li>\n<li>Un bonus de statut de +3 m à ses Vitesses.</li>\n<li>Ignore le terrain difficile et le terrain très difficile.</li>\n</ul>\n<p>@Compendium[pf2e.spell-effects.NXzo2kdgVixIZ2T1]{Effet de sort: Compagnon alpha}</p>",
             "range": "9 mètres",
             "target": "1 compagnon animal à vote service"
+        },
+        {
+            "id": "Achaekek's Clutch",
+            "name": "Achaekek's Clutch (Étreinte d'Achaékek)",
+            "description": "<p>Vous marquez du symbole sacré d'Achaékek à un endroit visible sur le corps de la cible.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est marquée du symbole d'Achaékek. Pendant 1 minute, la première fois par round que la cible reçoit des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}, elle subit immédiatement ce montant de dégâts tranchants lorsque les mandibules de la mante sortent du symbole et la griffent.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la malédiction possède une durée illimitée.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais le DD du test nu de la cible pour mettre un terme aux dégâts de saignement persistants passe à 20 (15 avec une assistance particulièrement efficace).</p>",
+            "range": "9 m",
+            "target": "1 créature"
         },
         {
             "id": "Enduring Might",
@@ -7228,7 +7276,7 @@
         {
             "id": "Grim Tendrils",
             "name": "Grim Tendrils (Sinistres volutes)",
-            "description": "<p>Des filaments de ténèbres sortent du bout de vos doigts en vrillant et traversent l’air à toute vitesse. Vous infligez [[/ r2d4 #négatifs]]{2d4 dégâts négatifs} et [[/r {1}[persistent,bleed]]]  @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1 dégât de saignement persistant} aux créatures vivantes dans la ligne. Chaque créature vivante dans la ligne doit faire un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts négatifs et aucun dégât de saignement persistant.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts.</p>\n<p><strong>Échec critique</strong> La créature subit le double des dégâts négatifs et des dégâts de saignement persistants.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts négatifs augmentent de 2d4 et les dégâts de saignement persistants de 1.</p>",
+            "description": "<p>Des filaments de ténèbres sortent du bout de vos doigts en vrillant et traversent l’air à toute vitesse. Vous infligez [[/r {2d4}[negative]]]{2d4 dégâts négatifs} et [[/r {1}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât de saignement persistant} aux créatures vivantes dans la ligne. Chaque créature vivante dans la ligne doit faire un jet de Vigueur.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée.</p>\n<p><strong>Succès</strong> La créature subit la moitié des dégâts négatifs et aucun dégât de saignement persistant.</p>\n<p><strong>Échec</strong> La créature subit la totalité des dégâts.</p>\n<p><strong>Échec critique</strong> La créature subit le double des dégâts négatifs et des dégâts de saignement persistants.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts négatifs augmentent de 2d4 et les dégâts de saignement persistants de 1.</p>",
             "areasize": "ligne de 9 mètres"
         },
         {
@@ -7425,6 +7473,13 @@
             "name": "Crashing Wave (Vague écrasante)",
             "description": "<p>Vous invoquez une vague écrasante qui balaye au loin de vous. Vous infligez [[/r 6d6 #contondants]]{6d6 dégâts contondants} aux créatures dans la zone. L'eau éteint aussi tous les feux non magiques dans la zone.</p>\n<hr />\n<p><strong>Intensifié (+1)</strong> Les dégâts augmentent de 2d6.</p>",
             "areasize": "cône de 9 mètres"
+        },
+        {
+            "id": "Maze of Locked Doors",
+            "name": "Maze of Locked Doors (Dédale de portes fermées)",
+            "description": "<p>La cible est attirée dans un long corridor extradimensionnel bloqué à des intervales de 9 mètres par des portes en ébénite de haute qualité (Solidité 20, PV 80, SR 40, Athlétisme DD 30 pour Forcer l'ouverture) sécurisée avec des @Compendium[pf2e.equipment-srd.q2TYVAMaK6UfenbV]{Serrures (moyennes)} (DD 25 Vol, 4 succès nécessaires). Une créature piégée dans ce corridor ne peut s'échapper que lorsque le sort expire ou lorsqu'elle est parvenue à réussir à passer à travers un nombre de portes déterminé par son jet de sauvegarde, soit en les enfonçant, soit en ouvrant les serrures (ou toute combinaison de ces différentes options si la cible doit franchir plusieurs portes pour s'échapper). Les effets de téléportation de niveau 6 ou moins sont automatiquement supprimés au sein du corridor extradimensionnel ; les effets de téléportation de niveau supérieur imposent au lanceur de sorts de réussir un test de contre contre le DD de votre sort ou ils échouent.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est piégée pendant 1 round ou jusqu'à ce qu'elle franchisse 1 porte.</p>\n<p><strong>Échec</strong> La cible est piégée pendant 1 minute ou jusqu'à ce qu'elle franchisse 2 portes.</p>\n<p><strong>Échec critique</strong> La cible est piégée pendant 10 minutes ou jusqu'à ce qu'elle franchisse 3 portes.</p>",
+            "range": "36 m",
+            "target": "1 créature"
         },
         {
             "id": "Heal",

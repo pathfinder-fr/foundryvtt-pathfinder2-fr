@@ -1,19 +1,53 @@
 # État de la traduction (feats)
 
  * **libre**: 2513
- * **officielle**: 908
- * **changé**: 2
+ * **officielle**: 907
+ * **changé**: 9
+ * **aucune**: 21
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[archetype-04-SVhyfYNAphQPxFjd.htm](feats/archetype-04-SVhyfYNAphQPxFjd.htm)|Mammoth Lord Dedication|
+|[archetype-06-AnTBWhLiIA1c7jkg.htm](feats/archetype-06-AnTBWhLiIA1c7jkg.htm)|Megafauna Veterinarian|
+|[archetype-06-hCEoINqJ75ConqqA.htm](feats/archetype-06-hCEoINqJ75ConqqA.htm)|Mammoth Charge|
+|[archetype-06-opP9j7RP7JPyt8Zj.htm](feats/archetype-06-opP9j7RP7JPyt8Zj.htm)|Mature Megafauna Companion|
+|[archetype-07-YBge8sTgeY5jncX2.htm](feats/archetype-07-YBge8sTgeY5jncX2.htm)|Speech of the Mammoth Lords|
+|[archetype-08-lUjWE40fjAjHecNQ.htm](feats/archetype-08-lUjWE40fjAjHecNQ.htm)|Incredible Megafauna Companion|
+|[archetype-08-lvxzgLNzmScMY0uC.htm](feats/archetype-08-lvxzgLNzmScMY0uC.htm)|Stalwart Mind|
+|[archetype-10-Jv24QkykqdPB7brL.htm](feats/archetype-10-Jv24QkykqdPB7brL.htm)|Unbreakable Bond|
+|[archetype-10-waZzVgfyr1Vcxfqk.htm](feats/archetype-10-waZzVgfyr1Vcxfqk.htm)|Staggering Blow|
+|[archetype-12-HxTqYtXRqFkkLfDQ.htm](feats/archetype-12-HxTqYtXRqFkkLfDQ.htm)|Gigantic Megafauna Companion|
+|[archetype-14-9DECwTTiVpHJc4B6.htm](feats/archetype-14-9DECwTTiVpHJc4B6.htm)|Specialized Megafauna Companion|
+|[archetype-20-20Yax5lEqjftKBHZ.htm](feats/archetype-20-20Yax5lEqjftKBHZ.htm)|Vigilant Mask|
+|[archetype-20-6PCNYExygF5890Fl.htm](feats/archetype-20-6PCNYExygF5890Fl.htm)|Thick Hide Mask|
+|[archetype-20-CuJzCxGwd1EZDift.htm](feats/archetype-20-CuJzCxGwd1EZDift.htm)|Cunning Trickster Mask|
+|[archetype-20-dj0aOPPcDOqmptpX.htm](feats/archetype-20-dj0aOPPcDOqmptpX.htm)|Storyteller's Mask|
+|[archetype-20-f4k5ripShCn5orZB.htm](feats/archetype-20-f4k5ripShCn5orZB.htm)|Grand Medic's Mask|
+|[archetype-20-HxO0Sh3hNFMoSsTB.htm](feats/archetype-20-HxO0Sh3hNFMoSsTB.htm)|Emancipator's Mask|
+|[archetype-20-nn7DiYYWinsSYrZy.htm](feats/archetype-20-nn7DiYYWinsSYrZy.htm)|Protective Spirit Mask|
+|[archetype-20-SS8JSDB2P0SFX1KH.htm](feats/archetype-20-SS8JSDB2P0SFX1KH.htm)|Sky Master Mask|
+|[archetype-20-tFUo2tsdreWBxMfs.htm](feats/archetype-20-tFUo2tsdreWBxMfs.htm)|Stalking Feline Mask|
+|[archetype-20-XHOhAHv2HLdJQz2q.htm](feats/archetype-20-XHOhAHv2HLdJQz2q.htm)|Tireless Guide's Mask|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[class-01-ZL5UU9quCTvcWzfY.htm](feats/class-01-ZL5UU9quCTvcWzfY.htm)|Mountain Stance|Posture de la montagne|changé|
-|[class-14-hO4sKslTrSQMLbGx.htm](feats/class-14-hO4sKslTrSQMLbGx.htm)|Mountain Quake|Tremblement de la montagne|changé|
+|[ancestry-01-qCV04rZMty2TJBrX.htm](feats/ancestry-01-qCV04rZMty2TJBrX.htm)|Foxfire|Feu de renard (froid)|changé|
+|[ancestry-09-g9AOSz4QDAlUee9M.htm](feats/ancestry-09-g9AOSz4QDAlUee9M.htm)|Fox Trick|Astuce du renard|changé|
+|[archetype-06-7JjNWSuutkjrMrd0.htm](feats/archetype-06-7JjNWSuutkjrMrd0.htm)|Advanced Devotion|Dévotion avancée|changé|
+|[archetype-06-CmA8t7MRMOzLTeUj.htm](feats/archetype-06-CmA8t7MRMOzLTeUj.htm)|Advanced Breakthrough|Percée avancée|changé|
+|[archetype-06-eTqWgfojpvuigdvx.htm](feats/archetype-06-eTqWgfojpvuigdvx.htm)|Advanced Muse's Whispers|Murmures de la muse avancés|changé|
+|[archetype-06-XkemuXgSQtxFAhZ8.htm](feats/archetype-06-XkemuXgSQtxFAhZ8.htm)|Advanced Shooting|Tir avancé|changé|
+|[archetype-12-xmccXo6U7P0IMM3z.htm](feats/archetype-12-xmccXo6U7P0IMM3z.htm)|Reaper of Repose|Violeur de repos|changé|
+|[class-01-hT4INKGtly4QY8KN.htm](feats/class-01-hT4INKGtly4QY8KN.htm)|Domain Initiate|Initié du domaine|changé|
+|[class-16-a6xUSibsRaclbSz3.htm](feats/class-16-a6xUSibsRaclbSz3.htm)|Ever-Vigilant Senses|Sens toujours en éveil|changé|
 
 ## Liste des traductions complétés
 
@@ -279,7 +313,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-01-PVkAEBlRSJHe3JCz.htm](feats/ancestry-01-PVkAEBlRSJHe3JCz.htm)|Straveika|Straveika|libre|
 |[ancestry-01-q3rusmFU38VwxSb1.htm](feats/ancestry-01-q3rusmFU38VwxSb1.htm)|Form Of The Fiend (Hoof)|Forme du fiélon (Sabots)|libre|
 |[ancestry-01-Qb25uu1gT5CDMSWb.htm](feats/ancestry-01-Qb25uu1gT5CDMSWb.htm)|Hag Claws|Griffes de guenaude|libre|
-|[ancestry-01-qCV04rZMty2TJBrX.htm](feats/ancestry-01-qCV04rZMty2TJBrX.htm)|Foxfire (Cold)|Feu de renard (froid)|libre|
 |[ancestry-01-qEOiC2YXYzc8ZZFS.htm](feats/ancestry-01-qEOiC2YXYzc8ZZFS.htm)|Form Of The Fiend (Claw)|Forme du fiélon (Griffes)|libre|
 |[ancestry-01-QHwajD5n8P3oS9Wb.htm](feats/ancestry-01-QHwajD5n8P3oS9Wb.htm)|Vicious Incisors|Incisives vicieuses|libre|
 |[ancestry-01-qm1lIMLVdsQtVFT0.htm](feats/ancestry-01-qm1lIMLVdsQtVFT0.htm)|Stormsoul|Âme tempêtueuse|libre|
@@ -682,7 +715,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ancestry-09-FUOUyhHufNH4ri7H.htm](feats/ancestry-09-FUOUyhHufNH4ri7H.htm)|Wings Of Air|Ailes d'air|libre|
 |[ancestry-09-FZZXgmVMAmvKHWIo.htm](feats/ancestry-09-FZZXgmVMAmvKHWIo.htm)|Breath Like Honey|Haleine de miel|libre|
 |[ancestry-09-G6rCbMrHacYWNu1K.htm](feats/ancestry-09-G6rCbMrHacYWNu1K.htm)|Aggravating Scratch|Grattement aggravant|libre|
-|[ancestry-09-g9AOSz4QDAlUee9M.htm](feats/ancestry-09-g9AOSz4QDAlUee9M.htm)|Fox Trick|Astuce du renard|libre|
 |[ancestry-09-gWyCNTWUhxneOBne.htm](feats/ancestry-09-gWyCNTWUhxneOBne.htm)|Helpful Halfling|Halfelin utile|libre|
 |[ancestry-09-h11M3QrIHKLj2ezy.htm](feats/ancestry-09-h11M3QrIHKLj2ezy.htm)|Well-Groomed|Bien entretenu|libre|
 |[ancestry-09-HfebybiUNW8mXOfP.htm](feats/ancestry-09-HfebybiUNW8mXOfP.htm)|Returning Throw|Lancer retourné|libre|
@@ -1228,6 +1260,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-mV911W6MTGMvHPbE.htm](feats/archetype-04-mV911W6MTGMvHPbE.htm)|Basic Hunter's Trick|Astuce du chasseur basique|officielle|
 |[archetype-04-N0YcU8mIJnQ4C2N6.htm](feats/archetype-04-N0YcU8mIJnQ4C2N6.htm)|Posse|Détachement|libre|
 |[archetype-04-nAgAICjPd4BSQlAj.htm](feats/archetype-04-nAgAICjPd4BSQlAj.htm)|Axe Climber|Escalade à la hache|libre|
+|[archetype-04-NagTqSLK8bAlo2nY.htm](feats/archetype-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|Dévouement : Agitateur vantard|libre|
 |[archetype-04-nc5G99d20PI9JKCK.htm](feats/archetype-04-nc5G99d20PI9JKCK.htm)|Monk Resiliency|Résilience du moine|officielle|
 |[archetype-04-NdgMxlz5I1ddT0Zi.htm](feats/archetype-04-NdgMxlz5I1ddT0Zi.htm)|Basic Mysteries|Mystères basiques|libre|
 |[archetype-04-nhtcGh1azCPqD3Pd.htm](feats/archetype-04-nhtcGh1azCPqD3Pd.htm)|First Revelation (Ancestors Mystery)|Première révélation (Mystère des ancêtres)|libre|
@@ -1323,12 +1356,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-0SbHdwYumvmzwWw3.htm](feats/archetype-06-0SbHdwYumvmzwWw3.htm)|Piston Punch|Coup de poing piston|libre|
 |[archetype-06-18UQefmhcNq6tFav.htm](feats/archetype-06-18UQefmhcNq6tFav.htm)|Rapid Manifestation|Manifestation rapide|libre|
 |[archetype-06-1WfvvjjObPKeZyid.htm](feats/archetype-06-1WfvvjjObPKeZyid.htm)|Holistic Care|Soins holistiques|libre|
+|[archetype-06-1YFrl8I6ZGo7BIM9.htm](feats/archetype-06-1YFrl8I6ZGo7BIM9.htm)|Knight Vigilant Dedication|Dévouement : Chevalier vigilant|libre|
 |[archetype-06-2nSk6oOLBXCEbAhc.htm](feats/archetype-06-2nSk6oOLBXCEbAhc.htm)|Vacate Vision|Vision vide|libre|
 |[archetype-06-4T9HHOdTk3yVbeoO.htm](feats/archetype-06-4T9HHOdTk3yVbeoO.htm)|Instinct Ability|Pouvoir d'instinct|officielle|
 |[archetype-06-62hpJOuvYYSa4X7u.htm](feats/archetype-06-62hpJOuvYYSa4X7u.htm)|Hellknight Signifer Dedication|Dévouement : Signifer|libre|
 |[archetype-06-6vpgAMj87J6cWN0j.htm](feats/archetype-06-6vpgAMj87J6cWN0j.htm)|Drenching Mist|Brume détrempeuse|libre|
 |[archetype-06-74PGpEAVNS5xUDA3.htm](feats/archetype-06-74PGpEAVNS5xUDA3.htm)|Clinch Strike|Frappe de dégagement|libre|
-|[archetype-06-7JjNWSuutkjrMrd0.htm](feats/archetype-06-7JjNWSuutkjrMrd0.htm)|Advanced Devotion|Dévotion avancée|officielle|
+|[archetype-06-7fU6e3HIT4NvwLYa.htm](feats/archetype-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|Dévouement : Orateur paisible|libre|
 |[archetype-06-7NdMHszAiiveihoW.htm](feats/archetype-06-7NdMHszAiiveihoW.htm)|Armor Specialist|Spécialiste de l'armure|libre|
 |[archetype-06-7O0PrMoXd5L8dRfg.htm](feats/archetype-06-7O0PrMoXd5L8dRfg.htm)|Archaeologist's Warning|Avertissement de l'archéologue|libre|
 |[archetype-06-7RcCvziQBLL7Bumu.htm](feats/archetype-06-7RcCvziQBLL7Bumu.htm)|Advanced Bow Training|Entraînement à l'arc avancé|libre|
@@ -1346,7 +1380,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-bzKBUK6CH8tuLCfo.htm](feats/archetype-06-bzKBUK6CH8tuLCfo.htm)|Advanced Red Mantis Magic|Magie avancée des Mantes rouges|officielle|
 |[archetype-06-cBYTVYqw1EFVEuzs.htm](feats/archetype-06-cBYTVYqw1EFVEuzs.htm)|Bolera's Interrogation|Interrogatoire de Boléra|libre|
 |[archetype-06-Ckglzh4dXcGWPNS3.htm](feats/archetype-06-Ckglzh4dXcGWPNS3.htm)|Beastmaster's Trance|Transe du Maître des bêtes|libre|
-|[archetype-06-CmA8t7MRMOzLTeUj.htm](feats/archetype-06-CmA8t7MRMOzLTeUj.htm)|Advanced Breakthrough|Percée avancée|libre|
 |[archetype-06-cny7ouhsoiNsWJ7X.htm](feats/archetype-06-cny7ouhsoiNsWJ7X.htm)|Daring Act|Acte culotté|libre|
 |[archetype-06-CoVBrlyMToANvt2v.htm](feats/archetype-06-CoVBrlyMToANvt2v.htm)|Stone Blood|Sang de pierre|officielle|
 |[archetype-06-dAckQkpg1qyTz8od.htm](feats/archetype-06-dAckQkpg1qyTz8od.htm)|Resourceful Ritualist|Ritualiste plein de ressources|libre|
@@ -1360,7 +1393,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-eHvJqBHYqx7UjpPg.htm](feats/archetype-06-eHvJqBHYqx7UjpPg.htm)|Perpetual Scout|Éclaireur perpétuel|libre|
 |[archetype-06-elbj75qsUerbM725.htm](feats/archetype-06-elbj75qsUerbM725.htm)|Scout's Speed|Vitesse de l'Éclaireur|libre|
 |[archetype-06-em3glccrJ5ZIf8Uq.htm](feats/archetype-06-em3glccrJ5ZIf8Uq.htm)|Keep Pace (Game Hunter)|Conserver le rythme (Chasseur de gibier)|libre|
-|[archetype-06-eTqWgfojpvuigdvx.htm](feats/archetype-06-eTqWgfojpvuigdvx.htm)|Advanced Muse's Whispers|Murmures de la muse avancés|officielle|
 |[archetype-06-euWpgjPNcDjeXAWQ.htm](feats/archetype-06-euWpgjPNcDjeXAWQ.htm)|Advanced Maneuver|Manœuvre avancée|officielle|
 |[archetype-06-eXNkcM7gtCGC7udi.htm](feats/archetype-06-eXNkcM7gtCGC7udi.htm)|Grave Sense|Perception du tombeau|officielle|
 |[archetype-06-EZ24QwnFteLCrgLg.htm](feats/archetype-06-EZ24QwnFteLCrgLg.htm)|Emerald Boughs Accustomation|Habitudes des Branches d'émeraude|libre|
@@ -1430,6 +1462,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-S25iRw2X9hmGRMyO.htm](feats/archetype-06-S25iRw2X9hmGRMyO.htm)|Advanced Blood Potency|Pouvoir du sang avancé|officielle|
 |[archetype-06-sflJhnFzYfqZ2tDy.htm](feats/archetype-06-sflJhnFzYfqZ2tDy.htm)|Defend Mount|Défendre sa monture|libre|
 |[archetype-06-SHhiLn0OSILEXNOj.htm](feats/archetype-06-SHhiLn0OSILEXNOj.htm)|Advanced Flair|Élégance avancée|libre|
+|[archetype-06-SHpVHkPxtQggD9Cf.htm](feats/archetype-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|Dévouement : Maître des épées|libre|
 |[archetype-06-sk5HspGGnLW8b6bX.htm](feats/archetype-06-sk5HspGGnLW8b6bX.htm)|Remote Trigger|Déclenchement à distance|libre|
 |[archetype-06-sKuhYCfCbXeRWivv.htm](feats/archetype-06-sKuhYCfCbXeRWivv.htm)|Nimble Shield Hand|Main du bouclier agile|libre|
 |[archetype-06-SOG0yVNtiDsaNbIO.htm](feats/archetype-06-SOG0yVNtiDsaNbIO.htm)|Performative Weapons Training|Entraînement aux armes de scène|libre|
@@ -1445,6 +1478,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-TZASOwBqVveGjw77.htm](feats/archetype-06-TZASOwBqVveGjw77.htm)|Analyze Idiolect|Analyser l'idiolecte|libre|
 |[archetype-06-uc6JcNrI31wzSC2h.htm](feats/archetype-06-uc6JcNrI31wzSC2h.htm)|Bullet Dancer Burn|Brûlure du danseur de balle|libre|
 |[archetype-06-UEbBOljjXvKsGKFu.htm](feats/archetype-06-UEbBOljjXvKsGKFu.htm)|Disk Rider|Chevaucheur de disque|libre|
+|[archetype-06-uhfZtjbfJ8pZIWrF.htm](feats/archetype-06-uhfZtjbfJ8pZIWrF.htm)|Scrollmaster Dedication|Dévouement : Maître des parchemins|libre|
 |[archetype-06-UjEeHamC2C8JfgJz.htm](feats/archetype-06-UjEeHamC2C8JfgJz.htm)|Sky and Heaven Stance|Posture du Ciel et du Paradis|libre|
 |[archetype-06-UtUT6JngJbQRHySX.htm](feats/archetype-06-UtUT6JngJbQRHySX.htm)|Boaster's Challenge|Défi de vantardise|libre|
 |[archetype-06-uwJQUFLymAWtJu1a.htm](feats/archetype-06-uwJQUFLymAWtJu1a.htm)|Forced Entry|Entrée forcée|officielle|
@@ -1453,12 +1487,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-vKFg7HMNu4cCDD8b.htm](feats/archetype-06-vKFg7HMNu4cCDD8b.htm)|Volatile Grease|Graisse volatile|libre|
 |[archetype-06-vqLt1qjdrflTmdsw.htm](feats/archetype-06-vqLt1qjdrflTmdsw.htm)|Sun's Fury|Furie du soleil|libre|
 |[archetype-06-VruIzuysxw4tY6rk.htm](feats/archetype-06-VruIzuysxw4tY6rk.htm)|Expert Poisoner|Empoisonneur expert|libre|
+|[archetype-06-vuApM8xHOZs4o6oS.htm](feats/archetype-06-vuApM8xHOZs4o6oS.htm)|Spellmaster Dedication|Dévouement : Maître des sorts|libre|
 |[archetype-06-vW8dGtOD3rZVOJoq.htm](feats/archetype-06-vW8dGtOD3rZVOJoq.htm)|High-quality Scrounger|Bricolage de haute qualité|libre|
 |[archetype-06-wHwjoK3E1Ot9kkV0.htm](feats/archetype-06-wHwjoK3E1Ot9kkV0.htm)|Obscured Terrain|Terrain dissimulé|libre|
 |[archetype-06-Xhphe5Lsa4kuU4RG.htm](feats/archetype-06-Xhphe5Lsa4kuU4RG.htm)|Crossbow Terror|Terreur à l'arbalète|libre|
 |[archetype-06-XHvsWCs1m5UyLnMV.htm](feats/archetype-06-XHvsWCs1m5UyLnMV.htm)|Warding Rune (Evocation)|Rune de garde (Évocation)|libre|
 |[archetype-06-XITZZqMSeqqzKYZx.htm](feats/archetype-06-XITZZqMSeqqzKYZx.htm)|Warding Rune (Necromancy)|Rune de garde (Nécromancie)|libre|
-|[archetype-06-XkemuXgSQtxFAhZ8.htm](feats/archetype-06-XkemuXgSQtxFAhZ8.htm)|Advanced Shooting|Tir avancé|libre|
 |[archetype-06-xLD9EmkEmT8hgwv7.htm](feats/archetype-06-xLD9EmkEmT8hgwv7.htm)|Craft Facsimile|Fabriquer un fac-similé|libre|
 |[archetype-06-xqyN4Nk5mLgUm09l.htm](feats/archetype-06-xqyN4Nk5mLgUm09l.htm)|Targeted Redirection|Redirection ciblée|libre|
 |[archetype-06-XusuxqmXWPYc0JYA.htm](feats/archetype-06-XusuxqmXWPYc0JYA.htm)|Narrative Conduit|Conduit narratif|libre|
@@ -1782,7 +1816,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-12-WO23FvCo8IYVB5RF.htm](feats/archetype-12-WO23FvCo8IYVB5RF.htm)|Blade of the Crimson Oath|Lame du Serment écarlate|libre|
 |[archetype-12-x7vMKBSrxXmfs5C2.htm](feats/archetype-12-x7vMKBSrxXmfs5C2.htm)|Expert Witch Spellcasting|Incantation experte du sorcier|libre|
 |[archetype-12-XgUQ6Tm9LKxcZGHW.htm](feats/archetype-12-XgUQ6Tm9LKxcZGHW.htm)|Knight in Shining Armor|Chevalier en armure étincelante|libre|
-|[archetype-12-xmccXo6U7P0IMM3z.htm](feats/archetype-12-xmccXo6U7P0IMM3z.htm)|Reaper of Repose|Violeur de repos|libre|
 |[archetype-12-xNejAvuRXKYq2D6A.htm](feats/archetype-12-xNejAvuRXKYq2D6A.htm)|Swap Investment|Échange d'investissement|libre|
 |[archetype-12-XWmlGnFNfxyJWw9V.htm](feats/archetype-12-XWmlGnFNfxyJWw9V.htm)|Choking Smoke|Fumée étouffante|libre|
 |[archetype-12-xWWcxZUgQTaHZHkY.htm](feats/archetype-12-xWWcxZUgQTaHZHkY.htm)|School Counterspell|Contresort d'école|libre|
@@ -1967,7 +2000,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-gjec0ts3wkFbjvHN.htm](feats/class-01-gjec0ts3wkFbjvHN.htm)|You're Next|Tu es le suivant|officielle|
 |[class-01-GuEdTz1VMEptQnOd.htm](feats/class-01-GuEdTz1VMEptQnOd.htm)|Stoked Flame Stance|Posture de la flamme ravivée|libre|
 |[class-01-Gw0wGXikhAhiGoud.htm](feats/class-01-Gw0wGXikhAhiGoud.htm)|Twin Takedown|Agression jumelée|officielle|
-|[class-01-hT4INKGtly4QY8KN.htm](feats/class-01-hT4INKGtly4QY8KN.htm)|Domain Initiate|Initié du domaine|officielle|
 |[class-01-hXYnwpi95E77qfAu.htm](feats/class-01-hXYnwpi95E77qfAu.htm)|Goading Feint|Feinte provoquante|libre|
 |[class-01-iT39wlCEC1aWaSx7.htm](feats/class-01-iT39wlCEC1aWaSx7.htm)|Gravity Weapon|Arme pesante|libre|
 |[class-01-iTdbkP07UFMOo1rI.htm](feats/class-01-iTdbkP07UFMOo1rI.htm)|Ranged Reprisal|Représailles à distance|officielle|
@@ -2034,6 +2066,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-01-YTTJqRKH8QZl6al2.htm](feats/class-01-YTTJqRKH8QZl6al2.htm)|Monster Hunter|Chasseur de Monstres|officielle|
 |[class-01-yVC5pVZaWczYWGTa.htm](feats/class-01-yVC5pVZaWczYWGTa.htm)|Syncretism|Syncrétisme|libre|
 |[class-01-YW4FdWgzTwRFneFF.htm](feats/class-01-YW4FdWgzTwRFneFF.htm)|Monastic Weaponry|Armes monacales|officielle|
+|[class-01-ZL5UU9quCTvcWzfY.htm](feats/class-01-ZL5UU9quCTvcWzfY.htm)|Mountain Stance|Posture de la montagne|officielle|
 |[class-01-zUtdBd3IbM7UX0AD.htm](feats/class-01-zUtdBd3IbM7UX0AD.htm)|Cauldron|Chaudron|libre|
 |[class-01-zxaE7C1NCGqZR8aU.htm](feats/class-01-zxaE7C1NCGqZR8aU.htm)|Haphazard Repair|Réparation à l'arrache|libre|
 |[class-01-zY6y802bOouMYYFV.htm](feats/class-01-zY6y802bOouMYYFV.htm)|Wortwitch|Sorcier herbacé|libre|
@@ -2144,7 +2177,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-ugvjk9RHA1F9dbRB.htm](feats/class-02-ugvjk9RHA1F9dbRB.htm)|Ranged Combatant (Chaotic)|Combattant à distance (chaotique)|libre|
 |[class-02-UiQbjeqBUFjUtgUR.htm](feats/class-02-UiQbjeqBUFjUtgUR.htm)|Assisting Shot|Tir de soutien|libre|
 |[class-02-uv235v6hXCITAFej.htm](feats/class-02-uv235v6hXCITAFej.htm)|Fiendsbane Oath (Liberator)|Serment du fléau des fiélons (Libérateur)|libre|
-|[class-02-Veaf8vm2M9w8bcBI.htm](feats/class-02-Veaf8vm2M9w8bcBI.htm)|Alacritous Action|Action entraînante|libre|
+|[class-02-Veaf8vm2M9w8bcBI.htm](feats/class-02-Veaf8vm2M9w8bcBI.htm)|Alacritous Action|Action empressée|libre|
 |[class-02-VeVHWTrzE3aDm3rx.htm](feats/class-02-VeVHWTrzE3aDm3rx.htm)|Brawling Focus|Focalisation du lutteur|officielle|
 |[class-02-VQz5VypVRLCloapa.htm](feats/class-02-VQz5VypVRLCloapa.htm)|Ancestral Weaponry|Armes ancestrales|libre|
 |[class-02-VToVEOxiyy53AcEp.htm](feats/class-02-VToVEOxiyy53AcEp.htm)|Loremaster's Etude|Étude du maître savant|officielle|
@@ -2156,7 +2189,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-02-wsq8nncD25Q1fRn2.htm](feats/class-02-wsq8nncD25Q1fRn2.htm)|Basic Lesson|Leçon basique|libre|
 |[class-02-Wx12NUjqTOjFrEoW.htm](feats/class-02-Wx12NUjqTOjFrEoW.htm)|Antagonize|Contrarier|libre|
 |[class-02-WZWSaAwuDgne7Z0c.htm](feats/class-02-WZWSaAwuDgne7Z0c.htm)|Solid Lead|Piste solide|libre|
-|[class-02-X3EiCxD70g3p49AA.htm](feats/class-02-X3EiCxD70g3p49AA.htm)|Ranged Combatant (Good)|Combattant à distance (bien)|libre|
+|[class-02-X3EiCxD70g3p49AA.htm](feats/class-02-X3EiCxD70g3p49AA.htm)|Ranged Combatant (Good)|Combattant à distance (bon)|libre|
 |[class-02-X9AkydrMdFwg7qIn.htm](feats/class-02-X9AkydrMdFwg7qIn.htm)|Spell Parry|Parade de sort|libre|
 |[class-02-XHaxSBOaFMnBbBKt.htm](feats/class-02-XHaxSBOaFMnBbBKt.htm)|Living Hair|Cheveux vivants|libre|
 |[class-02-xoIxiRtBVHV27Rvd.htm](feats/class-02-xoIxiRtBVHV27Rvd.htm)|Divine Aegis|Égide divine|libre|
@@ -2612,7 +2645,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-10-HjinlKihkadhkQ4Z.htm](feats/class-10-HjinlKihkadhkQ4Z.htm)|Terrifying Howl|Hurlement terrifiant|officielle|
 |[class-10-HKNOA5WGBWGEpdmH.htm](feats/class-10-HKNOA5WGBWGEpdmH.htm)|Redirecting Shot|Tir redirigé|libre|
 |[class-10-I9rSWQyueWHQyNxe.htm](feats/class-10-I9rSWQyueWHQyNxe.htm)|Plant Shape|Morphologie végétales|officielle|
-|[class-10-IeiTuTZExH5DQOqH.htm](feats/class-10-IeiTuTZExH5DQOqH.htm)|Burrowing Form|Forme de creusement|libre|
+|[class-10-IeiTuTZExH5DQOqH.htm](feats/class-10-IeiTuTZExH5DQOqH.htm)|Burrowing Form|Forme fouisseuse|libre|
 |[class-10-j5Xjr8vZuBhCixIr.htm](feats/class-10-j5Xjr8vZuBhCixIr.htm)|Side by Side (Druid)|Côte à côte (Druide)|officielle|
 |[class-10-K0gyvvX0S2FdJZ5T.htm](feats/class-10-K0gyvvX0S2FdJZ5T.htm)|Weighty Impact|Impact pesant|libre|
 |[class-10-knJlRpltciLNTZba.htm](feats/class-10-knJlRpltciLNTZba.htm)|Protective Bond|Lien protecteur|libre|
@@ -2846,6 +2879,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-GsrwoQ7DIjERXuPf.htm](feats/class-14-GsrwoQ7DIjERXuPf.htm)|Superior Bond|Lien supérieur|officielle|
 |[class-14-guSjEQS3WuXJqQxf.htm](feats/class-14-guSjEQS3WuXJqQxf.htm)|Impaling Thrust|Poussée empalante|libre|
 |[class-14-h8OB6zcdIqUPS6PC.htm](feats/class-14-h8OB6zcdIqUPS6PC.htm)|Airborne Form|Forme aérienne|libre|
+|[class-14-hO4sKslTrSQMLbGx.htm](feats/class-14-hO4sKslTrSQMLbGx.htm)|Mountain Quake|Tremblement de la montagne|officielle|
 |[class-14-HquaVwjOLSPzcJgB.htm](feats/class-14-HquaVwjOLSPzcJgB.htm)|Impossible Riposte|Riposte invraisemblable|libre|
 |[class-14-HVwmYfSLhrnCksHV.htm](feats/class-14-HVwmYfSLhrnCksHV.htm)|Targeting Shot|Tir de ciblage|officielle|
 |[class-14-HxkAhxcGvua6SkfS.htm](feats/class-14-HxkAhxcGvua6SkfS.htm)|Glib Mutagen|Mutagène de bagou|officielle|
@@ -2861,7 +2895,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-14-MFqFvuiYDAoADcft.htm](feats/class-14-MFqFvuiYDAoADcft.htm)|Giant's Lunge|Fente de géant|officielle|
 |[class-14-MfvkZ9efD013H34Z.htm](feats/class-14-MfvkZ9efD013H34Z.htm)|Come at Me!|Viens à moi !|libre|
 |[class-14-MwozkE6aj42WZ7Z1.htm](feats/class-14-MwozkE6aj42WZ7Z1.htm)|Stealthy Companion|Compagnon furtif|officielle|
-|[class-14-N02sHmzuF9XQj93m.htm](feats/class-14-N02sHmzuF9XQj93m.htm)|Resilient Shell|Coquille résistante|libre|
+|[class-14-N02sHmzuF9XQj93m.htm](feats/class-14-N02sHmzuF9XQj93m.htm)|Resilient Shell|Carapace résistante|libre|
 |[class-14-N7CM5CmHuZ1cylV9.htm](feats/class-14-N7CM5CmHuZ1cylV9.htm)|Plot The Future|Planifier l'avenir|libre|
 |[class-14-NDbNNMouxnnwBqwm.htm](feats/class-14-NDbNNMouxnnwBqwm.htm)|Explosive Maneuver|Manœuvre explosive|libre|
 |[class-14-NgUB5toKxBd8RJmm.htm](feats/class-14-NgUB5toKxBd8RJmm.htm)|Strategic Bypass|Contournement stratégique|libre|
@@ -2912,7 +2946,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-16-7IDFHh2ZJLaB1y59.htm](feats/class-16-7IDFHh2ZJLaB1y59.htm)|Shield of Grace|Bouclier de grâce|officielle|
 |[class-16-8C9qo5LL9J0UTNGc.htm](feats/class-16-8C9qo5LL9J0UTNGc.htm)|Courageous Onslaught|Charge vaillante|libre|
 |[class-16-8HYfYT4fHtxXP199.htm](feats/class-16-8HYfYT4fHtxXP199.htm)|Greater Mental Evolution|Évolution mentale supérieure|officielle|
-|[class-16-a6xUSibsRaclbSz3.htm](feats/class-16-a6xUSibsRaclbSz3.htm)|Ever-Vigilant Senses|Sens toujours en éveil|libre|
 |[class-16-aviDW7htxA77iarV.htm](feats/class-16-aviDW7htxA77iarV.htm)|Hair Trigger|Gâchette sensible|libre|
 |[class-16-Bp02C07s4RTS4vsV.htm](feats/class-16-Bp02C07s4RTS4vsV.htm)|Reconstruct The Scene|Reconstituer la scène|libre|
 |[class-16-bX2WI5k0afqPpCfm.htm](feats/class-16-bX2WI5k0afqPpCfm.htm)|Ubiquitous Snares|Profusion de pièges artisanaux|officielle|

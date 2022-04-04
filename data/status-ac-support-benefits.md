@@ -1,19 +1,11 @@
 # État de la traduction (ac-support-benefits)
 
- * **libre**: 28
- * **aucune**: 2
+ * **libre**: 30
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[Aj7JWFXIbF3qmvSX.htm](ac-support-benefits/Aj7JWFXIbF3qmvSX.htm)|Bat Support Benefit|
-|[YsLLV4J7L6fgzTXf.htm](ac-support-benefits/YsLLV4J7L6fgzTXf.htm)|Shark Support Benefit|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -24,6 +16,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8b1G95eWa3DaTvw8.htm](ac-support-benefits/8b1G95eWa3DaTvw8.htm)|Cave Pterosaur Support Benefit|Avantage de soutien du Ptérosaure des grottes|libre|
 |[8re1d4lM0Dn4sLto.htm](ac-support-benefits/8re1d4lM0Dn4sLto.htm)|Boar Support Benefit|Avantage de soutien du sanglier|libre|
 |[9Y5QKMvy0KsliE29.htm](ac-support-benefits/9Y5QKMvy0KsliE29.htm)|Moth Support Benefit|Avantage de soutien du papillon de nuit|libre|
+|[Aj7JWFXIbF3qmvSX.htm](ac-support-benefits/Aj7JWFXIbF3qmvSX.htm)|Bat Support Benefit|Avantage de soutien de la chauve-souris|libre|
 |[AvDlo1mgxXd7ZA8W.htm](ac-support-benefits/AvDlo1mgxXd7ZA8W.htm)|Bear Support Benefit|Avantage de soutien de l'ours|libre|
 |[bO92dKyk8V4aM0NP.htm](ac-support-benefits/bO92dKyk8V4aM0NP.htm)|Arboreal Sapling Support Benefit|Avantage de soutien du jeune arboréen|libre|
 |[C41lCXjerYjMyOTI.htm](ac-support-benefits/C41lCXjerYjMyOTI.htm)|Riding Drake Support Benefit|Avantage de soutien du drake de monte|libre|
@@ -46,3 +39,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wlh1poSMLK9wk2Nw.htm](ac-support-benefits/wlh1poSMLK9wk2Nw.htm)|Hyena Support Benefit|Avantage de soutien de la hyène|libre|
 |[xtXdDC5KrUqh7eCu.htm](ac-support-benefits/xtXdDC5KrUqh7eCu.htm)|Scorpion Support Benefit|Avantage de soutien du scorpion|libre|
 |[yfjeiYMC27YGgoGW.htm](ac-support-benefits/yfjeiYMC27YGgoGW.htm)|Crocodile Support Benefit|Avantage de soutien du crocodile|libre|
+|[YsLLV4J7L6fgzTXf.htm](ac-support-benefits/YsLLV4J7L6fgzTXf.htm)|Shark Support Benefit|Avantage de soutien du squale|libre|

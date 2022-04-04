@@ -68,8 +68,8 @@
         },
         {
             "id": "Granite Glyptodont",
-            "name": "Glyptodonte de granite",
-            "description": "Cette créature trapue et pierreuse ressemble à un tatou avec un grand dos relevé et une queue en forme de fléau. Le Glyptodonte de granit n'a pas vraiment besoin de se nourrir, comme tous les élémentaires, mais il semble s'attarder après avoir transformé la chair de ceux qu'il calcifie, comme si la simple proximité de la chair se fossilisant dans la pierre lui plaisait d'une certaine manière.<br /><br />"
+            "name": "Glyptodonte de granit (Élementaire, terre)",
+            "description": "<p>Cette créature de pierre trapue ressemble à un tatou avec un large dos surélevé et une queue semblable à un fléau. Comme tous les élémentaires, le glyptodon de granit n’a pas vraiment besoin de manger, et pourtant il s’attarde auprès de ceux qu’il calcifie comme si la fossilisation de la chair semblait lui apporter un certain plaisir.</p>\n<hr />\n<p>Les élémentaires de la terre font d’excellents gardes du corps pour les spéléologues aventureux et sont les protecteurs idéaux des sites souterrains tels que les chambres fortes et les salles des trésors.</p>"
         },
         {
             "id": "Giant Solifugid",
@@ -263,7 +263,7 @@
         },
         {
             "id": "Mist Stalker",
-            "name": "Traqueur des brumes (Élémentaire, eau)",
+            "name": "Rôdeur des brumes (Élémentaire, eau)",
             "description": "<p>Le traqueur des brumes à tentacules, s'enveloppe d'un manteau de brouillard à travers lequel son œil unique, qui ne clignote jamais, peut voir avec clarté, ce qui lui donne un avantage lorsqu'il traque sa proie.</p>\n<hr />\n<p>Les élementaires d'eau qui sont infusés de foid ou de brouillard obtiennent une mobilité agrandie dans les régions éloignées de l'eau</p>\n<p>Les élémentaires d’eau peuvent être très destructeurs mais, souvent, ce n’est pas intentionnel; comme l’eau peut être source de vie pour ceux qui en ont besoin sur le plan Matériel, les vagues peuvent éroder les côtes et la pluie peut inonder les villes. Les élémentaires d’eau sont tout aussi imprévisibles.</p>"
         },
         {
@@ -304,7 +304,7 @@
         {
             "id": "Yeth Hound",
             "name": "Chien hurleur (Chien de Yeth)",
-            "description": "<p>Affreuses créatures canines qui vivent pour le frisson de la chasse, les chiens hurleurs servent souvent de gardiens et de pisteurs à des maîtres maléfiques. Les chiens hurleurs ressemblent à des chiens maigres et élancés, avec des oreilles trop grandes et des pattes étroites qui peuvent marcher sur l'air aussi facilement que sur le sol. Malgré son apparence canine, le chien hurleur est remarquablement intelligent, bien qu'il fassent rarement montre d'intelligence sauf lorsqu'il conçoit des tactiques complexes pour prendre au piège sa proie. Ses sinistres hurlements résonnent dans toute la campagne lorsqu'il est engagé dans une chasse et il aime particulièrement les hurlements destinés à effrayer et désorienter les créatures intelligentes. Les meutes de chiens hurleurs peuvent compter jusqu'à une douzaine de membres, chacun d'entre eux travaillant en étroite collaboration avec ses compagnons de meute pour acculer et tuer leur proie. Les chiens hurleurs aiment traîner leurs victimes dans leurs repaires pour manger à leur guise, de sorte que ces repaires contiennent souvent les trésors des repas précédents des chiens hurleurs.</p>\n<p>Les chiens hurleurs méprisent deux choses : la lumière du soleil et les autres chiens. Ils ne chassent que la nuit, s'ils le peuvent, et interrompent souvent leur chasse à l'aube pour se retirer dans un repaire ou une tanière souterraine, même s'ils sont passés très près d'attraper leur proie. Les chiens hurleurs attaquent généralement les wargs, les loups et autres créatures similaires à vue, dans le but de chasser des canidés plus grands ou plus puissants de leurs zones de chasse, lorsqu'ils ne peuvent pas simplement les dominer et les tuer.</p>\n<p>Les gardes forestiers maléfiques, les démons bestiaux et les cultes malfaisants sont souvent dotés de serviteurs chiens hurleurs par leurs mécènes diaboliques. Ces chiens servent souvent d'espions et sont prompts à se retourner contre ceux qui ne parviennent pas à faire avancer les objectifs maléfiques de leurs patrons. Le culte de Lamashtu, en particulier, utilise volontiers des chiens hurleurs comme gardiens du temple.</p>"
+            "description": "<p>Les chiens hurleurs, de cruelles créatures canines qui vivent pour le frisson de la chasse, servent souvent de gardiens et de pisteurs à des maîtres d’alignement mauvais. Les chiens hurleurs ressemblent à de grands chiens étiques aux minces pattes capables de marcher dans les airs aussi facilement que sur le sol. Malgré leurs airs canins, les chiens hurleurs sont d’une intelligence remarquable, mais ils n’en font que rarement la démonstration, sauf pour mettre au point des tactiques complexes afin de piéger leurs proies. Quand ils chassent, leurs aboiements surnaturels résonnent dans la campagne. Ils prennent un malin plaisir à terrifier et désorienter les créatures grâce à leurs hurlements. Les meutes de chiens hurleurs peuvent compter jusqu’à douze individus, qui collaborent avec une efficacité surnaturelle pour acculer puis tuer leurs proies. Les chiens hurleurs traînent généralement leurs victimes jusqu’à leur antre afin de les dévorer tranquillement. On y trouve donc de nombreux trésors oubliés appartenant à leurs précédents repas.</p>\n<p>Les chiens hurleurs détestent deux choses par-dessus tout : le soleil et les autres canidés. Ils préfèrent donc chasser la nuit, et il n’est pas rare qu’ils abandonnent la traque pour se réfugier dans un repaire ou un antre souterrain, même s’ils étaient sur le point d’attraper leur proie. Les chiens hurleurs attaquent généralement les wargs, les loups et les créatures similaires à vue et, s’ils ne sont pas capables de les tuer, ils s’efforcent de chasser les canidés plus grands ou puissants de leur territoire de chasse.</p>\n<p>Les rôdeurs d’alignement mauvais, les démons bestiaux et les cultes sanguinaires bénéficient souvent des services de chiens hurleurs qui leur ont été confiés par leurs protecteurs fiélons. Ces chiens font également office d’espions et sont prompts à se retourner contre ceux qui peinent à faire avancer les objectifs malveillants de ces protecteurs. Le culte de Lamashtu apprécie tout particulièrement d’avoir des chiens hurleurs pour garder ses temples.</p>"
         },
         {
             "id": "Ice Golem",
@@ -489,7 +489,7 @@
         {
             "id": "Behir",
             "name": "Béhir",
-            "description": "<p>Le béhir est une bête massive, serpentine, avec jamais moins d'une douzaine de courtes pattes, chacune se terminant par trois serres crochues. Un béhir peut vivre jusqu'à 80 ans, mais la plupart périssent bien plus jeunes de manière violente. Une fois adulte, un béhir mesure 8 mètres de long et pèse 2 000 kilos.</p>"
+            "description": "<p>Le béhir est une bête massive, serpentine, avec jamais moins d'une douzaine de courtes pattes, chacune se terminant par trois serres crochues. Un béhir peut vivre jusqu'à 80 ans, mais la plupart d’entre elles connaissent une mort violente bien avant. Une fois adulte, un béhir mesure 12 mètres de long et pèse 1,8 tonne.</p>"
         },
         {
             "id": "Caligni Slayer",
@@ -558,8 +558,8 @@
         },
         {
             "id": "Sand Sentry",
-            "name": "Sentinelle des Sables",
-            "description": "Passant de la ressemblance détaillée d'un humain à une forme bipède muette et sans traits, cette créature de sable pur se déplace avec une grâce étrange. La Sentinelle des Sables est souvent appelée par des lanceurs de sorts pour monter la garde sur une zone de grande importance. Ces élémentaires sont des participants patients dans ce genre de rôle, ce qui les rend bien adaptés à un service à long terme.<br /><br />"
+            "name": "Sentinelle des Sables (Élémentaire, terre)",
+            "description": "<p>Avec une forme mouvante oscillant entre celle d’un être humain et celle d’un bipède sans trait et déformé, cette créature de sable se déplace avec une grâce surnaturelle. La sentinelle de sable est souvent invoquée par les incantateurs pour garder des zones importantes. Ces élémentaires s’acquittent patiemment de ce genre de tâches, ce qui les rend particulièrement utiles à long terme.</p>\n<hr />\n<p>Les élémentaires de la terre font d’excellents gardes du corps pour les spéléologues aventureux et sont les protecteurs idéaux des sites souterrains tels que les chambres fortes et les salles des trésors.</p>"
         },
         {
             "id": "Bottlenose Dolphin",
@@ -963,8 +963,8 @@
         },
         {
             "id": "Verdurous Ooze",
-            "name": "Vase Verte",
-            "description": "On trouve les Vases vertes dans les forêts tempérées, les jungles chaudes ou d'autres endroits où la vie végétale est abondante. Contrairement à de nombreux types de vases, les Vases vertes ne sont pas de très bons grimpeurs et sont connus pour rester coincés dans des gouffres naturels ou artificiels. Les seigneurs de la guerre et les sorciers s'en servent parfois comme gardiens, les Vases vertes placées dans des fosses autour des murs de leurs forteresses ou de leurs tours.<br /><br />"
+            "name": "Vase luxuriante (Vase)",
+            "description": "<p>Les vases luxuriantes se trouvent dans les forêts tempérées, les jungles au climat tropical ou d’autres lieux dans lesquels les plantes poussent en abondance. Contrairement à de nombreux types de vases, les vases luxuriantes ne sont pas très douées en escalade et tombent facilement dans des pièges naturels ou des gouffres artificiels. Les seigneurs de guerre et les magiciens mettent parfois ceci à profit en enfermant des vases luxuriantes dans des fosses pour servir de gardiennes autour de leurs forteresses et de leurs tours.</p>\n<hr />\n<p>En raison de leurs structures physiques étranges et de leurs pouvoirs pour se diviser et se nourrir d’une variété incroyable de matériaux, les vases sont capables de s’adapter à presque n’importe quel climat, en particulier si elles ont été sujettes à quelques modifications magiques ou alchimiques. Ainsi, les explorateurs rencontrent souvent de nouvelles variétés terrifiantes de ces créatures amorphes.</p>"
         },
         {
             "id": "Revenant",
@@ -1193,8 +1193,8 @@
         },
         {
             "id": "Giant Amoeba",
-            "name": "Amibe géante",
-            "description": "Ces masses de protoplasme presque transparent ont une forme et un comportement identiques à ceux des créatures microscopiques dont elles sont issues, mais leur taille hors du commun les rend encore plus dangereuses. Contrairement aux Moisissures, Poudings et autres suintements mortels, les Amibes géantes possèdent une membrane externe qui contient leurs organes internes, ce qui les rend plus sensibles aux armes tranchantes que leurs semblables amorphes. Cependant, cette membrane est également extrêmement flexible et perméable, ce qui leur permet d'entourer leurs proies et de les absorber, de les étouffer et de les digérer lentement dans leurs fluides acides.<br /><br />"
+            "name": "Amibe géante (Vase)",
+            "description": "<p>Ces masses sans forme constituées de protoplasme transparent ont une forme et un comportement identique aux créatures microscopiques dont elles sont la forme évoluée, si ce n’est que leur taille incroyable les rend bien plus dangereuses. Contrairement aux mucosités, aux poudings et autres vases mortellement dangereuses, les amibes géantes ont une membrane externe qui contient leur structure interne, ce qui les rend plus fragiles que leurs congénères amorphes face aux armes tranchantes. Cependant, cette membrane est aussi extrêmement flexible et perméable, ce qui lui permet d’encercler une proie et de l’absorber, faisant suffoquer la créature qu’elle digère lentement grâce à ses fluides acides.</p>\n<hr />\n<p>En raison de leurs structures physiques étranges et de leurs pouvoirs pour se diviser et se nourrir d’une variété incroyable de matériaux, les vases sont capables de s’adapter à presque n’importe quel climat, en particulier si elles ont été sujettes à quelques modifications magiques ou alchimiques. Ainsi, les explorateurs rencontrent souvent de nouvelles variétés terrifiantes de ces créatures amorphes.<p>"
         },
         {
             "id": "Marut",
@@ -1278,8 +1278,8 @@
         },
         {
             "id": "Amoeba Swarm",
-            "name": "Nuée d'amibes",
-            "description": "<p>Une nuée d'amibes est constitué de milliers d'organismes unicellulaires individuels maintenus ensemble par une bave à l'odeur âcre. Aussi voraces qu'insensibles, les nuée d'amibes n'utilisent aucune tactique.</p>"
+            "name": "Nuée d'amibes (Vase)",
+            "description": "<p>Une nuée d'amibes est constitué de milliers d'organismes unicellulaires individuels maintenus ensemble par une bave à l'odeur âcre. Dénuées d’intelligence mais pas d’appétit, les nuée d’amibes n’emploient aucune tactique et se laissent guider par leur voracité.</p>\n<hr />\n<p>En raison de leurs structures physiques étranges et de leurs pouvoirs pour se diviser et se nourrir d’une variété incroyable de matériaux, les vases sont capables de s’adapter à presque n’importe quel climat, en particulier si elles ont été sujettes à quelques modifications magiques ou alchimiques. Ainsi, les explorateurs rencontrent souvent de nouvelles variétés terrifiantes de ces créatures amorphes.</p>"
         },
         {
             "id": "Cythnigot",
@@ -1293,8 +1293,8 @@
         },
         {
             "id": "Gray Ooze",
-            "name": "Vase grise",
-            "description": "Ces dangereuses vases sont le fléau de tous ceux qui traversent des marécages, des marais ou des grottes humides. Se faisant facilement passer pour des flaques d'eau claire ou des plaques de pierre mouillée, les Vases grises attendent que leurs victimes imprudentes se baissent pour boire ou s'avancent dans ce qui semble être une flaque d'eau, puis ils s'élancent avec des pseudopodes en forme de fouet pour piéger et dévorer leurs infortunées proies.<br /><br />"
+            "name": "Vase grise (Vase)",
+            "description": "<p>Ces vases dangereuses sont un fléau pour tout ceux qui voyagent à travers des marais, des marécages ou des grottes humides. La vase grise peut facilement se faire passer pour une flaque d’eau claire ou des dalles de pierres mouillées, attendant que des victimes insouciantes se penchent pour boire ou marcher dans ce qui ressemble à de l’eau avant de les fouetter avec ses pseudopodes, de les prendre au piège et de les dévorer.</p>\n<hr />\n<p>En raison de leurs structures physiques étranges et de leurs pouvoirs pour se diviser et se nourrir d’une variété incroyable de matériaux, les vases sont capables de s’adapter à presque n’importe quel climat, en particulier si elles ont été sujettes à quelques modifications magiques ou alchimiques. Ainsi, les explorateurs rencontrent souvent de nouvelles variétés terrifiantes de ces créatures amorphes.<p>"
         },
         {
             "id": "Cave Fisher",
@@ -1758,12 +1758,12 @@
         },
         {
             "id": "Slime Mold",
-            "name": "Moisissure vaseuse",
-            "description": "<p>Une moisissure vaseuse apparaît comme un monticule de terre et de détritus recouvert d'une épaisse couche de champignons qui dégage une légère odeur de pourriture. Le champignon partage en fait une relation symbiotique avec la moisissure vaseuse, servant de système digestif externe en lui donnant accès aux nutriments dont elle a besoin. La vase reste parfaitement immobile jusqu'à ce qu'une proie vivante passe à sa portée, puis elle attaque à l'aide de pseudopodes dégoûtants. D'un simple contact, la moisissure vaseuse peut infecter sa proie par une contagion fétide appelée \"pourriture vaseuse\", une maladie horrible qui détruit douloureusement la chair de la victime. Au début, la maladie se manifeste par des éruptions cutanées douloureuses et des articulations agonisantes. Aux stades ultérieurs, cependant, la chair de la créature affectée commence à se liquéfier et à ruisseler tandis que les spores de la créature continuent à faire leur œuvre. La mort, lorsqu'elle survient, provoque rapidement l'ouverture du corps qui libère une toute nouvelle moisissure vaseuse.</p>"
+            "name": "Moisissure vaseuse (Vase)",
+            "description": "<p>Une moisissure vaseuse apparaît comme un monticule de terre et de détritus recouvert d'une épaisse couche de champignons qui dégage une légère odeur de pourriture. Le champignon partage en fait une relation symbiotique avec la moisissure vaseuse, servant de système digestif externe en lui donnant accès aux nutriments dont elle a besoin. La vase reste parfaitement immobile jusqu'à ce qu'une proie vivante passe à sa portée, puis elle attaque à l'aide de pseudopodes dégoûtants. D'un simple contact, la moisissure vaseuse peut infecter sa proie par une contagion fétide appelée \"pourriture vaseuse\", une maladie horrible qui détruit douloureusement la chair de la victime. Au début, la maladie se manifeste par des éruptions cutanées douloureuses et des articulations agonisantes. Aux stades ultérieurs, cependant, la chair de la créature affectée commence à se liquéfier et à ruisseler tandis que les spores de la créature continuent à faire leur œuvre. La mort, lorsqu'elle survient, provoque rapidement l'ouverture du corps qui libère une toute nouvelle moisissure vaseuse.</p>\n<hr />\n<p>En raison de leurs structures physiques étranges et de leurs pouvoirs pour se diviser et se nourrir d’une variété incroyable de matériaux, les vases sont capables de s’adapter à presque n’importe quel climat, en particulier si elles ont été sujettes à quelques modifications magiques ou alchimiques. Ainsi, les explorateurs rencontrent souvent de nouvelles variétés terrifiantes de ces créatures amorphes.</p>"
         },
         {
             "id": "Icicle Snake",
-            "name": "Serpent glacé (Élémentaire, eau)",
+            "name": "Serpent-stalactite glacé (Élémentaire, eau)",
             "description": "<p>Translucides et capables de rester suspendus et presque immobiles, les serpents glacés ressentent la chaleur des créatures vivantes comme une menace et tentent d'utiliser leur camouflage et leur morsure glaçante contre leurs ennemis.</p>\n<hr />\n<p>Les élémentaires d’eau peuvent être très destructeurs mais, souvent, ce n’est pas intentionnel; comme l’eau peut être source de vie pour ceux qui en ont besoin sur le plan Matériel, les vagues peuvent éroder les côtes et la pluie peut inonder les villes. Les élémentaires d’eau sont tout aussi imprévisibles.</p>"
         },
         {

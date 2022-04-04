@@ -6,7 +6,7 @@
  * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -192,7 +192,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
-|[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie bouillonnante|libre|
+|[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie effrénée|libre|
 |[O1iircZOOCo42r9Y.htm](actions/O1iircZOOCo42r9Y.htm)|Ghost Shot|Tir fantôme|libre|
 |[oAWNluJaMlaGysXA.htm](actions/oAWNluJaMlaGysXA.htm)|Barbed Quills|Piquants barbelés|libre|
 |[OdIUybJ3ddfL7wzj.htm](actions/OdIUybJ3ddfL7wzj.htm)|Stand|Se relever|officielle|

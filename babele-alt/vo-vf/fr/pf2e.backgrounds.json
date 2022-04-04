@@ -1177,8 +1177,8 @@
             "description": "<p><strong>Prérequis</strong> Région - Route dorée</p>\n<hr />\n<p>Vous croyez que les Cités États de la Thuvie devraient s'unir en une nation sous le règne de la Cité qui est votre foyer (la plupart du temps Aspenthar) et vous voulez faire tout ce qui est possible pour le réaliser.</p>\n<p>Choisissez deux primes de caractéristiques. La première doit être de <strong>Force</strong> ou de <strong>Charisme</strong> et l'autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié en Intimidation et en Connaissance de la politique. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Contrainte rapide}.</p>"
         },
         {
-            "id": "Press-Ganged",
-            "name": "Press-Ganged (Forçat des Mers)",
+            "id": "Press-Ganged (LOWG)",
+            "name": "Press-Ganged (LOWG) (Forçat des Mers)",
             "description": "<p><strong>Prérequis</strong> Région - Hautes mers</p>\n<hr />\n<p>Vous avez été contraint de servir comme marin contre votre volonté. Peut-être avez vous été puni pour un crime ou avez effectué un service militaire, payé une dette ou simplement été enlevé. Bien que n'aviez initialement été formé que pour être un simple homme de pont, vous avez pu étudier un métier sous la férule de l'un des spécialistes du vaisseau.</p>\n<p>Choisissez deux primes de caractéristiques. Une de ces primes doit être <strong>Force</strong> ou <strong>Sagesse</strong>, et l’autre est une prime de caractéristique libre.</p>\n<p>Vous êtes qualifié dans la compétence Société et Connaissance de la navigation maritime. Vous gagnez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté}.</p>"
         },
         {

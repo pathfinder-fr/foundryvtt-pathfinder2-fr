@@ -1,6 +1,152 @@
 {
     "label": "Évolutions (Animal Companions)",
-    "entries": [],
+    "entries": [
+        {
+            "id": "Advanced Weaponry",
+            "name": "Armement avancé (Advanced Weaponry)",
+            "description": "<p>L'attaque de votre eidolon évolue.</p>\n<p>Choisissez une des attaques à mains nues de départ de votre eidolon. Elle obtient un des traits suivants, choisi lorsque vous obtenez ce don : désarmer, saisir, non létal, pousser, croc-en-jambe ou Polyvalent contondant, perforant ou tranchant.</p>"
+        },
+        {
+            "id": "Bloodletting Claws",
+            "name": "Griffes hémorragiques (Bloodletting Claws)",
+            "description": "<p>Votre eidolon inflige des blessures hémorragiques sur un coup terrible. Si votre eidolon inflige un coup critique avec une frappe au corps-à-corps à mains nues qui inflige des dégâts tranchants ou perforants, sa cible subit [[/r {1d6}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}. Votre eidolon bénéficie d'un bonus d'objet à ces dégâts de saignement égal au bonus d'objet aux jets d'attaque de l'attaque à mains nues. Il s'agit d'un effet de critique spécialisé.</p>"
+        },
+        {
+            "id": "Burrowing Form",
+            "name": "Forme fouisseuse (Burrowing Form)",
+            "description": "<p>Votre eidolon peut creuser dans la terre meuble. Votre eidolon gagne une vitesse de creusement de 4,5 m.</p>"
+        },
+        {
+            "id": "Energy Heart",
+            "name": "Cœur énergétique (Energy Heart)",
+            "description": "<p>Le cœur de votre eidolon bat avec de l'énergie.</p>\n<p>Choisissez un type de dégâts d'énergie autre que force. Une de ses attaques à mains nues change son type de dégâts au profit du type choisi et il obtient une résistance à ce type égale à la moitié de votre niveau (minimum 1).</p>"
+        },
+        {
+            "id": "Energy Resistance",
+            "name": "Résistance à l'énergie (Energy Resistance)",
+            "description": "<p>La résistance de votre eidolon s'accroit. Sa résistance issue de @Compendium[pf2e.feats-srd.0PCDkVnRxVqxsp9j]{Cœur énergétique} et @Compendium[pf2e.feats-srd.XGZUjc9I3sjfniDg]{Cœur énergétique dual} est égale à votre niveau.</p>"
+        },
+        {
+            "id": "Ever-Vigilant Senses",
+            "name": "Sens toujours en éveil (Ever-Vigilant Senses)",
+            "description": "<p>Votre eidolon possède des sens améliorés. Il obtient un bonus de circonstances de +2 à la Perception et ne peut être pris en tenaille, sauf par des créatures dont le niveau est supérieur au sien.</p>\n<p>Il peut voir les créatures et les objets @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} ; ils apparaissent translucides et sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqués}.</p>\n<p>Lorsque votre eidolon se déplace dans les 9 m d'une illusion qui peut être percée à jour, le MJ lance un test secret pour la percer à jour, même si votre eidolon n'a pas dépensé une action pour Interagir avec.</p>"
+        },
+        {
+            "id": "Grasping Limbs",
+            "name": "Membres agrippants (Grasping Limbs)",
+            "description": "<p>Votre eidolon agrippe ses ennemis. Choisissez une des attaques à mains nues de l'eidolon avec le trait Saisir. Il gagne l'action @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Agripper} sur cette attaque à mains nues.</p>"
+        },
+        {
+            "id": "Magical Understudy",
+            "name": "Doublure magique (Magical Understudy)",
+            "description": "<p>Votre eidolon évolue pour incanter des sorts. Il obtient l'activité Lancer un sort et apprend deux tours de magie de sa tradition qu'il peut lancer comme des sorts innés.</p>"
+        },
+        {
+            "id": "Defend Summoner",
+            "name": "Défendre le conjurateur (Defend Summoner)",
+            "description": "<p>Votre eidolon bloque les attaques contre vous. Après que votre eidolon a utilisé cette action, vous gagnez un bonus de circonstances de +2 à la CA jusqu'au début de votre prochain tour. Ce bonus s'applique uniquement lorsque vous êtes à portée de votre eidolon (dans la plupart des cas, cela signifie que votre eidolon vous est adjacent ou se trouve dans votre case).</p>"
+        },
+        {
+            "id": "Vibration Sense",
+            "name": "Sens des vibrations (Vibration Sense)",
+            "description": "<p>Votre eidolon gagne @Compendium[pf2e.bestiary-ability-glossary-srd.j2wsK6IsW5yMW1jW]{Perception des vibrations} (imprécis) 9 m. S'il est aquatique, il gagne @Compendium[pf2e.bestiary-ability-glossary-srd.VdSMQ6yRZ3YXNXHL]{Perception des ondes} (imprécis) 9 m à la place. S'il est amphibie, elle obtient les deux.</p>"
+        },
+        {
+            "id": "Glider Form",
+            "name": "Forme de planeur (Glider Form)",
+            "description": "<p>Votre eidolon développe des ailes, un corps capable de flotter ou tout autre moyen de contrôler sa descente.</p>\n<p>Il glisse lentement vers le sol, 1,5 m vers le bas et jusqu'à 7,5 m vers l'avant dans les airs.</p>\n<p>Tant qu'il dépense au moins 1 action en planant chaque tour et qu'il n'a pas encore atteint le sol, il reste en l'air à la fin de votre tour.</p>"
+        },
+        {
+            "id": "Phase Out",
+            "name": "Déphasage (Phase Out)",
+            "description": "<p>Votre eidolon quitte légèrement la réalité et obtient une résistance à tous les dégâts (sauf ceux de force et négatifs) égale à la moitié de votre niveau. Il n'est pas intangible mais il ne peut pas utiliser les Frappes ou les actions qui nécessitent une forme entièrement physique, comme @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir}, @Compendium[pf2e.actionspf2e.7 blmbDrQFNfdT731]{Pousser} ou faire un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe}.</p>\n<p>Votre eidolon peut reprendre sa forme normale par une action unique, qui possède le trait concentration.</p>"
+        },
+        {
+            "id": "Magical Master",
+            "name": "Maître magique (Magical Master)",
+            "description": "<p>Votre eidolon obtient une brochette de sorts de niveau inférieurs. Choisissez un sort inné de la tradition de votre eidolon de chacun des niveaux de sort de 1 à 7 que votre eidolon ne possède pas actuellement parmi ses sorts innés issus d'Adepte magique. Votre eidolon peut lancer chacun de ses sorts une fois par jour comme des sorts innés.</p>\n<p>Vous pouvez échanger ces sorts à chaque niveau pair, mais votre eidolon ne peut jamais connaître plus d'un sort pour chacun des niveaux de 1 à 7.</p>"
+        },
+        {
+            "id": "Spell-Repelling Form",
+            "name": "Forme repousse-sort (Spell-Repelling Form)",
+            "description": "<p>Votre eidolon évolue pour se protéger lui-même du danger posé par les sorts. Il obtient un @Compendium[pf2e.bestiary-ability-glossary-srd.kquBnQ0kObZztnBc]{bonus de statut de +1 à tous les jets de sauvegarde contre la magie}.</p>"
+        },
+        {
+            "id": "Ranged Combatant",
+            "name": "Combattant à distance (Ranged Combatant)",
+            "description": "<p>Les épines, les jets de flammes et les explosions sacrées ne sont que quelques-unes des façons dont votre eidolon pourrait frapper à distance. Il obtient une attaque à mains nues à distance avec un factetur de portée de 9 m qui inflige 1d4 points de dégâts et possède les traits magique et propulsif.</p>\n<p>Lorsque vous choisissez ce don, choisissez un type de dégâts : acide, contondant, électricité, feu, froid, négative, perforants, positid ou tranchants. Si votre eidolon est un céleste, un fiélon ou un veilleur avec un alignment autre que neutre, vous pouvez choisir un type de dégât de l'un de ses alignements.</p>"
+        },
+        {
+            "id": "Eidolon's Opportunity",
+            "name": "Opportunité de l'eidolon (Eidolon's Opportunity)",
+            "description": "<strong>Déclencheur</strong> Une créature qui se trouve à portée de l'allonge de votre eidolon utilise une action de manipulation ou de déplacement, fait une attaque à distance ou quitte une case lors d’une action de déplacement qu’elle entreprend.</p>\n<hr />\n<p>Votre eidolon effectue une Frappe au corps-à-corps contre la créature qui a déclenché l'action. Si l'attaque est un coup critique et que le déclencheur était une action de manipulation, votre eidolon interrompt cette action. Cette frappe ne compte pas dans votre pénalité d'attaques multiples et votre pénalité d'attaques multiples ne s'applique pas à cette Frappe.</p>"
+        },
+        {
+            "id": "Expanded Senses",
+            "name": "Sens étendus (Expanded Senses)",
+            "description": "<p>Votre eidolon fait évoluer ses sens pour qu'ils soient plus précis.</p>\n<p>Votre eidolon obtient vision nocturne et vision dans le noir, ainsi qu'odorat (imprécis) avec une portée de 9 m.</p>"
+        },
+        {
+            "id": "Steed Form",
+            "name": "Forme de monture (Steed Form)",
+            "description": "<p>Votre eidolon change pour devenir particulièrement efficace en tant que monture. Lorsque vous le Montez, vous bénéficiez de votre nombre complet d'actions chaque round au lieu de les réduire à 2. Cela ne s'applique que lorsque vous Montez votre eidolon, pas lorsque quelqu'un d'autre le fait. Votre eidolon doit toujours être au moins d'une catégorie de taille supérieure à la vôtre pour que vous puissiez le Monter. Comme vous travaillez ensemble pour vous déplacer, les actions de déplacement de votre eidolon lorsque vous êtes Monté gagnent le trait tandem.</p>"
+        },
+        {
+            "id": "Miniaturize",
+            "name": "Miniaturiser (Miniaturize)",
+            "description": "<p>Votre eidolon peut se rétrécir encore davantage. Lorsque vous utilisez Rétrécir, votre eidolon peut réduire sa taille à Très petite.</p>"
+        },
+        {
+            "id": "Dual Energy Heart",
+            "name": "Cœur énergétique dual (Dual Energy Heart)",
+            "description": "<p>Une seconde énergie habite votre eidolon. Choisissez un type de dégâts énergétiques supplémentaire. Votre attaque à mains nues qui inflige des dégâts d'énergie gagne le trait polyvalent pour ce second type de dégâts d'énergie et votre eidolon gagne une résistance au second type de dégâts d'énergie égale à la moitié de votre niveau.</p>"
+        },
+        {
+            "id": "Trample",
+            "name": "Piétiner (Trample)",
+            "description": "<p>Votre eidolon Marche rapidement jusqu'au double de sa Vitesse et peut passer à travers la case de créatures d'au moins une taille inférieure, Piétinant chaque créature dont il pénètre la case. Il peut tenter de Piétiner la même créature qu'une seule fois au cours d'un unique Piétinement.</p>\n<p>Il inflige des dégâts contondants égaux aux dégâts de son attaque secondaire à ces créatures, qui peuvent tenter un jet de Réflexes basique contre votre DD de sort.</p>"
+        },
+        {
+            "id": "Amphibious Form",
+            "name": "Forme amphibie (Amphibious Form)",
+            "description": "<p>Votre eidolon est adapté à la vie sur terre et dans l'eau. Il obtient le trait amphibie, lui permettant de respirer dans l'eau et dans l'air et lui évitant de supporter la pénalité normale de -2 lorsqu'il porte des Frappes à mains nues contondantes et tranchantes sous l'eau. Il obtient une Vitesse de nage égale à la moins élevée entre sa Vitesse au sol ou 7,5 m ; S'il est normalement aquatique, il obtient une Vitesse au sol égale à la moins élevée entre sa Vitesse de nage ou 7,5 m.</p>"
+        },
+        {
+            "id": "Constricting Hold",
+            "name": "Prise de constriction (Constricting Hold)",
+            "description": "<p><strong>Conditions</strong> Votre eidolon a une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée/Empoignée} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}.</p>\n<hr />\n<p>Votre eidolon enserre la créature, lui infligeant [[/r @actor.level+@actor.abilities.str.mod #bludgeoning]]{des dégâts contondants} égaux au niveau de votre eidolon plus son modificateur de Force avec un jet de Vigueur basique contre votre DD de sort.</p>"
+        },
+        {
+            "id": "Weighty Impact",
+            "name": "Impact pesant (Weighty Impact)",
+            "description": "<p>Votre eidolon renverse ses ennemis. Choisissez une des attaques à mains nues de l'eidolon avec le trait croc-en-jambe. Il obtient l'action @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement} pour cette attaque.</p>"
+        },
+        {
+            "id": "Magical Adept",
+            "name": "Adepte magique (Magical Adept)",
+            "description": "<p>Votre eidolon gagne plus de magie. Choisissez un sort de niveau 2 et un sort de niveau 1 de la tradition de votre eidolon. Votre eidolon peut les lancer une fois par jour chacun en tant que sorts innés. À chaque niveau pair après avoir pris ce don, votre eidolon peut échanger l'un de ces sorts innés contre un nouveau sort inné qui est inférieur de 2 niveaux ou plus à votre emplacement de sort de plus haut niveau.</p>"
+        },
+        {
+            "id": "Blood Frenzy",
+            "name": "Frénésie de sang (Blood Frenzy)",
+            "description": "<p><strong>Conditions</strong> La dernière action de votre eidolon a infligé des dégâts de saignement à une créature vivante.</p>\n<hr />\n<p>Votre eidolon est pris de frénésie. Il bénéficie des avantages de @Compendium[pf2e.spells-srd.HStu2Yhw3iQER9tY]{Booster l'eidolon} et gagne des PV temporaires égaux à votre niveau mais subit une pénalité de -2 à la CA. Il ne peut pas mettre fin volontairement à la frénésie ou en commencer une autre tant qu'il est en frénésie.</p>\n<p>La frénésie dure pendant 1 minute, après quoi votre eidolon est @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} pendant 1 minute et ne peut débuter une autre frénésie pendant 1 minute.</p>"
+        },
+        {
+            "id": "Resilient Shell",
+            "name": "Carapace résistante (Resilient Shell)",
+            "description": "<p>Votre eidolon est résistant aux attaques. Il obtient une résistance aux dégâts physiques égale à son modificateur de Constitution.</p>"
+        },
+        {
+            "id": "Shrink Down",
+            "name": "Rétrécir (Shrink Down)",
+            "description": "<p>Votre eidolon peut rétrécir pour pouvoir se glisser dans de petits espaces. Votre eidolon réduit sa taille, jusqu'à atteindre la taille Petit au minimum. Il peut utiliser à nouveau cette action lorsqu'il est rétréci pour retrouver sa taille normale.</p>"
+        },
+        {
+            "id": "Eidolon's Wrath",
+            "name": "Courroux de l'eidolon (Eidolon's Wrath)",
+            "description": "<p>Votre eidolon obtient le sort de focalisation <em>@Compendium[pf2e.spells-srd.kuZnUNrhXHRYQ2eM]{Courroux de l'eidolon}</em>, qu'il peut lancer, à votre place. Vous déterminez le type de dégâts lorsque vous obtenez ce don : acide, électricité, feu, froid, négatif, positif ou de son. Si votre eidolon est un céleste, un fiélon ou un veilleur avec un alignement autre que neutre, vous pouvez choisir un type de dégât correspondant à une pat de son alignement.</p>\n<p>Augmentez le nombre de Points de Focalisation de votre réserve de Focalisation de 1. Comme à l'ordinaire, votre eidolon partage vos Points de focalisation.</p>"
+        }
+    ],
     "mapping": {
         "description": "data.description.value"
     }

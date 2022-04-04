@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-effects)
 
- * **libre**: 33
+ * **libre**: 34
  * **vide**: 10
- * **aucune**: 87
+ * **aucune**: 86
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -62,7 +62,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[S38CM3hyr7DnsmRR.htm](bestiary-effects/S38CM3hyr7DnsmRR.htm)|Effect: Devour Soul (Victim Level 15 or Higher)|
 |[s5mS7CyE0oOYlecv.htm](bestiary-effects/s5mS7CyE0oOYlecv.htm)|Effect: Lost Red Cap|
 |[SA5f54t1dVah5fJm.htm](bestiary-effects/SA5f54t1dVah5fJm.htm)|Effect: Revert Form|
-|[ScZ8tlV5zS0Jwnqn.htm](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)|Effect: Blood Frenzy|
 |[sI73mEP9wZRvMpWw.htm](bestiary-effects/sI73mEP9wZRvMpWw.htm)|Effect: Curse of Frost|
 |[SjrM6XVTLySToS12.htm](bestiary-effects/SjrM6XVTLySToS12.htm)|Effect: Soul Siphon|
 |[svXRrZvixRInmabj.htm](bestiary-effects/svXRrZvixRInmabj.htm)|Effect: Rune of Destruction (Greatsword)|
@@ -158,4 +157,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dVVc5MYx4G3QPHoa.htm](bestiary-effects/dVVc5MYx4G3QPHoa.htm)|Effect: Guildmaster's Lead|Effet : Conduite du Maître de guilde|libre|
 |[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|Effet : Festin inspiré|libre|
 |[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|Effets : Spores brillantes|libre|
+|[ScZ8tlV5zS0Jwnqn.htm](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)|Effect: Blood Frenzy|Effet : Frénésie de sang|libre|
 |[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|Effet : Rune de flammes (épée à deux mains)|libre|

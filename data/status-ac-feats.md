@@ -4,7 +4,7 @@
  * **officielle**: 3
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -29,5 +29,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[u9dXZwKANlsC9MDM.htm](ac-feats/u9dXZwKANlsC9MDM.htm)|Indomitable Animal Companion|Compagnon animal indomptable|libre|
 |[umbj0foct0eZ7Jcj.htm](ac-feats/umbj0foct0eZ7Jcj.htm)|Specialized - Tracker|Spécialisation - Pisteur|libre|
 |[wDiFVxRBktQVj7uI.htm](ac-feats/wDiFVxRBktQVj7uI.htm)|Specialized - Racer|Spécialisation - Coureur|libre|
-|[wRzmLu4JR4A421So.htm](ac-feats/wRzmLu4JR4A421So.htm)|Specialized - Ambusher|Spécialisation - Piègeur|libre|
+|[wRzmLu4JR4A421So.htm](ac-feats/wRzmLu4JR4A421So.htm)|Specialized - Ambusher|Spécialisé - Piègeur|libre|
 |[wZXL6VgEK88BCF0C.htm](ac-feats/wZXL6VgEK88BCF0C.htm)|Specialized - Wrecker|Spécialiation - Démolisseur|libre|

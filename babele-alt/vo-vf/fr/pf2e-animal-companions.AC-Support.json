@@ -57,6 +57,11 @@
             "description": "<p>Votre ptérosaure étend ses ailes et crée de la distraction avec ses battements d'aile. Toute créature qui pourrait bénéficier d'un abri inférieur de la part du ptérosaure obtient un abri standard à la place.</p>"
         },
         {
+            "id": "Shark Support Benefit",
+            "name": "Shark Support Benefit (Avantage de soutien du squale)",
+            "description": "<p>Lorsque votre squale perçoit le sang, il déchire vos ennemis. Jusqu'au début de votre prochain tour, chaque fois que vous touchez une créature à la portée du requin avec une Frappe et que vous lui infligez des dégâts tranchants ou perforants, la créature subit [[/r {1d8}[slashing]]]{1d8 dégâts tranchants} de la part du requin. Si votre requin est agile ou sauvage, les dégâts tranchants passent à [[/r 2d8]]{2d8}.</p>"
+        },
+        {
             "id": "Terror Bird Support Benefit",
             "name": "Terror Bird Support Benefit (Avantage de soutien de l'oiseau de terreur)",
             "description": "<p>Votre oiseau de terreur hurle sur vos ennemis lorsque vous créez une ouverture. Jusqu'au début de votre prochain tour, vos Frappes qui infligent des dégâts à une créature à portée de votre oiseau de terreur rendent la cible @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu'au début de votre prochain tour.</p>"
@@ -125,6 +130,11 @@
             "id": "Hyena Support Benefit",
             "name": "Hyena Support Benefit (Avantage de soutien de la hyène)",
             "description": "<p>La hyène se moque de vos ennemis en glapissant et les mord lorsque vous créez une ouverture. Jusqu'au début de votre prochain tour, chaque fois que vous touchez une créature à portée de la hyène avec une Frappe, la créature devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 1}.</p>"
+        },
+        {
+            "id": "Bat Support Benefit",
+            "name": "Bat Support Benefit (Avantage de soutien de la chauve-souris)",
+            "description": "<p>Votre chauve-souris vole autour des bras et des visages de vos ennemis, gênant leurs attaques. Jusqu'au début de votre prochain tour, les créatures à portée de votre chauve-souris que vous blessez avec des frappes subissent une pénalité de circonstances de -1 à leurs jets d'attaque.</p>"
         },
         {
             "id": "Shadow Hound Support Benefit",

@@ -57,8 +57,8 @@
             "description": "<p>La créature subit un malus de statut à ses Vitesses de −1,5 mètres jusqu’à la fin de son prochain tour.</p>"
         },
         {
-            "id": "Equipment Effect: Greater Potion of Stable Form",
-            "name": "Effet : Potion de forme stable supérieure (Equipment Effect: Greater Potion of Stable Form)",
+            "id": "Effect: Greater Potion of Stable Form",
+            "name": "Effet : Potion de forme stable supérieure (Effect: Greater Potion of Stable Form)",
             "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +3 contre les effets de transmutation, et de +4 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
         },
         {
@@ -72,8 +72,8 @@
             "description": "<p>L'arme est imprégnée avec le type d'énergie déclencheur. Elle inflige 1d8 dégâts supplémentaires d'électricité jusqu'à la fin de votre prochain tour.</p>"
         },
         {
-            "id": "Equipment Effect: Flask of Fellowship",
-            "name": "Effet : Gourde de fraternité (Equipment Effect: Flask of Fellowship)",
+            "id": "Effect: Flask of Fellowship",
+            "name": "Effet : Gourde de fraternité (Effect: Flask of Fellowship)",
             "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Diplomatie.</p>"
         },
         {
@@ -92,8 +92,8 @@
             "description": "<p>Vous levez votre bouclier pour vous protéger. Quand vous avez Levé un bouclier, vous ajoutez le bonus de circonstances indiqué dans son profil à votre CA. Votre bouclier reste levé jusqu’au début de votre prochain tour.</p>"
         },
         {
-            "id": "Equipment Effect: Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes (Equipment Effect: Five-Feather Wreath)",
+            "id": "Effect: Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes (Effect: Five-Feather Wreath)",
             "description": "<p>Vous obtenez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 2 aux dégâts de chute.</p>"
         },
         {
@@ -217,8 +217,8 @@
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.aKoMqPDmVzPI7Q20]{Bottes ailées}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez une une Vitesse de vol de 9 mètres</li>\n</ul>"
         },
         {
-            "id": "Equipment Effect: Greater Codex of Unimpeded Sight",
-            "name": "Effet : Codex de vision sans entraves supérieur (Equipment Effect: Greater Codex of Unimpeded Sight)",
+            "id": "Effect: Greater Codex of Unimpeded Sight",
+            "name": "Effet : Codex de vision sans entraves supérieur (Effect: Greater Codex of Unimpeded Sight)",
             "description": "<p>Vous gagnez un bonus d'objet de +1 à votre test de Perception pour Chercher ou à votre test pour Se souvenir.</p>"
         },
         {
@@ -472,8 +472,8 @@
             "description": "<p>Pendant 1 round, vous obtenez un bonus d'objet de +1 aux jets d'attaque ,de sauvegarde et aux DD.</p>"
         },
         {
-            "id": "Equipment Effect: Major Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes majeure (Equipment Effect: Major Five-Feather Wreath)",
+            "id": "Effect: Major Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes majeure (Effect: Major Five-Feather Wreath)",
             "description": "<p>Vous gagnez un bonus d'objet de +2 aux tests d'Acrobatie et une résistance de 10 aux dégâts de chute.</p>"
         },
         {
@@ -522,8 +522,8 @@
             "description": "<p>Vous bénéficiez d'un bonus d'objet de +2 aux tests de Diplomatie effectués dans la langue du Ragoût du serveur pendant 1 heure.</p>"
         },
         {
-            "id": "Equipment Effect: Greater Five-Feather Wreath",
-            "name": "Effet : Couronne à cinq plumes supérieure (Equipment Effect: Greater Five-Feather Wreath)",
+            "id": "Effect: Greater Five-Feather Wreath",
+            "name": "Effet : Couronne à cinq plumes supérieure (Effect: Greater Five-Feather Wreath)",
             "description": "<p>Vous gagnez un bonus d'objet de +1 aux tests d'Acrobaties et une résistance de 5 contre les dégâts de chute.</p>"
         },
         {
@@ -662,8 +662,8 @@
             "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.KLWjINVkWwJlOZEX]{Conque de triton}</p>\n<hr />\n<p>Effets appliqués automatiquement :</p>\n<ul>\n<li>Vous gagnez un bonus d’objet de +2 aux tests d’Athlétisme pour Nager</li>\n</ul>"
         },
         {
-            "id": "Equipment Effect: Potion of Stable Form",
-            "name": "Effet : Potion de forme stable (Equipment Effect: Potion of Stable Form)",
+            "id": "Effect: Potion of Stable Form",
+            "name": "Effet : Potion de forme stable (Effect: Potion of Stable Form)",
             "description": "<p>Pendant l'heure qui suit, vous gagnez un bonus d'objet de +2 contre les effets de transmutation et de +3 contre les effets de métamorphose. Si vous obtenez un succès contre un effet de métamorphose pendant cette période, vous obtenez un succès critique à la place.</p>"
         },
         {

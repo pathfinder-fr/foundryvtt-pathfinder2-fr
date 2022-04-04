@@ -1,25 +1,42 @@
 # État de la traduction (archetypes)
 
+ * **aucune**: 25
  * **changé**: 75
- * **aucune**: 8
  * **libre**: 3
 
 
-Dernière mise à jour: 2022-04-02 17:28 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[06M2zVTKN9nO5i5O.htm](archetypes/06M2zVTKN9nO5i5O.htm)|Vehicle Mechanic|
 |[2utUBjuTmPt7cHiw.htm](archetypes/2utUBjuTmPt7cHiw.htm)|Ghost Eater|
 |[7G7cRmS3HO2iUElx.htm](archetypes/7G7cRmS3HO2iUElx.htm)|Artillerist|
 |[ARb0Q9D2gmqalPnM.htm](archetypes/ARb0Q9D2gmqalPnM.htm)|Beast Gunner|
+|[BySNnolPXqkgNhRq.htm](archetypes/BySNnolPXqkgNhRq.htm)|Wrestler|
+|[CCOKsVXfJi33GDfg.htm](archetypes/CCOKsVXfJi33GDfg.htm)|Pistol Phenom|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
+|[eCN91lsp0udrao1A.htm](archetypes/eCN91lsp0udrao1A.htm)|Trapsmith|
+|[EDB5PZNIun4LgLPT.htm](archetypes/EDB5PZNIun4LgLPT.htm)|Folklorist|
+|[EPFVMqEeaYi462xM.htm](archetypes/EPFVMqEeaYi462xM.htm)|Captivator|
+|[g8szoqn9W6Yeoq9U.htm](archetypes/g8szoqn9W6Yeoq9U.htm)|Unexpected Sharpshooter|
+|[IssZ6cIjxaE5XtTs.htm](archetypes/IssZ6cIjxaE5XtTs.htm)|Demolitionist|
 |[j5fPf7JyXvprcA8L.htm](archetypes/j5fPf7JyXvprcA8L.htm)|Game Hunter|
+|[lmC2uyFxrRMP7xpL.htm](archetypes/lmC2uyFxrRMP7xpL.htm)|Pactbound Initiate|
+|[NO9LkGX3wwUdrk8d.htm](archetypes/NO9LkGX3wwUdrk8d.htm)|Nantambu Chime-Ringer Dedication|
 |[O9aKJ2C3MvHKFmcO.htm](archetypes/O9aKJ2C3MvHKFmcO.htm)|Bullet Dancer|
+|[p2btFwD4Z7KZcPkW.htm](archetypes/p2btFwD4Z7KZcPkW.htm)|Overwatch|
 |[pgesyqPUJSHKsbGv.htm](archetypes/pgesyqPUJSHKsbGv.htm)|Butterfly Blade|
+|[qy7lhe3nduvEagd0.htm](archetypes/qy7lhe3nduvEagd0.htm)|Trick Driver|
+|[Rz9crOU1hOdMlhTd.htm](archetypes/Rz9crOU1hOdMlhTd.htm)|Spellshot|
 |[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|
+|[sOKDxFZb1NSUX2Pu.htm](archetypes/sOKDxFZb1NSUX2Pu.htm)|Sterling Dynamo|
+|[WKFRUlfhPIbFBm7Z.htm](archetypes/WKFRUlfhPIbFBm7Z.htm)|Spell Trickster|
+|[WQiwS58CFhPwMUKo.htm](archetypes/WQiwS58CFhPwMUKo.htm)|Sniping Duo|
+|[xhoDlD7WlFtraxXN.htm](archetypes/xhoDlD7WlFtraxXN.htm)|Firework Technician|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 

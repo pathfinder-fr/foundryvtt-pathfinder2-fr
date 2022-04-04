@@ -22,8 +22,8 @@
             "description": ""
         },
         {
-            "id": "Uvoko",
-            "name": "Uvoko (Uvuko)",
+            "id": "Uvuko",
+            "name": "Uvuko (Uvuko)",
             "description": ""
         },
         {
@@ -104,6 +104,11 @@
         {
             "id": "Ydajisk",
             "name": "Ydajisk (Ydajisk)",
+            "description": ""
+        },
+        {
+            "id": "Nurgal",
+            "name": "Nurgal (Nurgal)",
             "description": ""
         },
         {
@@ -243,7 +248,7 @@
         },
         {
             "id": "Erecura",
-            "name": "Erecura (Erecura)",
+            "name": "Erecura (Érécura)",
             "description": ""
         },
         {
@@ -397,6 +402,11 @@
             "description": ""
         },
         {
+            "id": "God Calling",
+            "name": "God Calling (Appel de dieu)",
+            "description": ""
+        },
+        {
             "id": "Korada",
             "name": "Korada (Korada)",
             "description": ""
@@ -454,6 +464,11 @@
         {
             "id": "Luhar",
             "name": "Luhar (Luhar)",
+            "description": ""
+        },
+        {
+            "id": "Erastil",
+            "name": "Erastil (Érastil)",
             "description": ""
         },
         {
@@ -617,6 +632,11 @@
             "description": ""
         },
         {
+            "id": "Trudd",
+            "name": "Trudd (Trudd)",
+            "description": ""
+        },
+        {
             "id": "Ashava",
             "name": "Ashava (Ashava)",
             "description": ""
@@ -712,6 +732,11 @@
             "description": ""
         },
         {
+            "id": "Groetus",
+            "name": "Groetus (Groetus)",
+            "description": ""
+        },
+        {
             "id": "Lamashtu",
             "name": "Lamashtu (Lamashtu)",
             "description": ""
@@ -739,6 +764,11 @@
         {
             "id": "Ardad Lili",
             "name": "Ardad Lili (Ardad Lili)",
+            "description": ""
+        },
+        {
+            "id": "Sarenrae",
+            "name": "Sarenrae (Sarenrae)",
             "description": ""
         },
         {
