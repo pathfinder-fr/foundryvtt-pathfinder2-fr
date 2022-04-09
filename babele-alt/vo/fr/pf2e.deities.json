@@ -44,7 +44,7 @@
         {
             "id": "Zyphus",
             "name": "Zyphus",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Favoriser les accidents mortels, répandre le nihilisme, tendre des pièges inutiles</p>\n<p><strong>Anathème</strong> Aider les fidèles de Pharasma, répandre l’espoir</p>"
         },
         {
             "id": "Ma'at",
@@ -239,7 +239,7 @@
         {
             "id": "Sairazul",
             "name": "Sairazul",
-            "description": ""
+            "description": "<p>Saïrazul, la Reine cristalline, est le seigneur élémentaire de la terre, des cavernes et des gemmes. Les érudits planaires qui connaissent le seigneur élémentaire bienveillant de la terre parlent de Saïrazul comme d’une mère et d’une créatrice qui a donné naissance à d’innombrables races d’extérieurs, dont les agrawghs et les xiomorns. Actuellement prisonnière du Diamant geignant, une pierre précieuse encerclée par d’éternels vents hurlants, elle ne peut pas communiquer avec le monde extérieur. Plusieurs de ses consorts sont encore en vie de nos jours et parcourent les plans à la recherche de sa prison, dans l’espoir que sa libération annoncera une nouvelle ère de création sur le plan de la terre. Bien que la Reine cristalline soit incapable d’octroyer le moindre pouvoir à quiconque parmi ses adorateurs, une poignée de ses enfants sur le plan de la terre restent fidèles à leur créatrice, et certains cultistes du plan matériel qui exaltent la création et la reproduction lui ont gardé une remarquable révérence.</p>\n<p><strong>Édit</strong> Abriter les autres dans la pierre et la terre, accompagner des accouchements, exploiter les mines de manière responsable, prendre soin des enfants de saïrazul</p>\n<p><strong>Anathème</strong> Abîmer les merveilles naturelles souterraines, faire s’effondrer une structure en terre sur une créature</p>\n<p><strong>Préoccupations</strong> Grottes, terre, et joyaux.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.fVfFKKvGocG2JM5q]{Labeur}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}</p>"
         },
         {
             "id": "Gruhastha",
@@ -389,7 +389,7 @@
         {
             "id": "Ravithra",
             "name": "Ravithra",
-            "description": ""
+            "description": "<p>La Mère des Nagas, le Pilier Karmique et la Porteuse du Calice des danavas, Ravithra a été décapitée et misee à bas par traîtrise. Elle accorde ses bénédictions aux seuls champions mortels qui cherchent à renverser la traîtresse et à lui rendre son rôle légitime.</p>\n<p><strong>Édits</strong> Appliquer le jugement impitoyable du karma, faire honte aux idiots, tuer les traîtres, poursuivre le calice d'Amrit.</p>\n<p><strong>Anathème</strong> prendre des décisions de manière erratique ou aléatoire, fournir une aide à Vasaghati ou à ses partisans, se livrer à la trahison.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.KXFxeEyD6MmJ3a6V]{Naga}, @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Tristesse}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme}</p>"
         },
         {
             "id": "Lysianassa",
@@ -454,7 +454,7 @@
         {
             "id": "Saloc",
             "name": "Saloc",
-            "description": ""
+            "description": "<p>Le guide psychopompe Saloc règne sur la métropole planaire de la Lisière de la Tour dans le Cimetière. C’est un humanoïde au visage entièrement dépourvu de traits, mais avec des bois de cerf et deux anneaux dorés bordés d’yeux tournoyant en permanence autour de son corps. Le Gardien des Immortels, avocat de la défense à la cour de Pharasma, affirme que les intentions d’une personne devraient peser autant que les conséquences de ses actions quand il s’agit de décider de la vie de l’âme après la mort. Saloc est même connu pour avoir ressuscité des âmes condamnées afin de leur donner une seconde chance. Les mortels le vénèrent en tant que protecteur du bronze, de l’éducation et de l’action consciente. Ses adorateurs sont des gens qui cherchent à s’améliorer ou à améliorer autrui, dont les étudiants et les enseignants. Certains cherchent à se libérer des prisons terrestres, tandis que d’autres espèrent changer de conduite pour échapper à la punition dans l’au-delà.</p>\n<p><strong>Édits</strong> Aider les créatures à mûrir et à se trouver un but, envisager l’éthique selon différents points de vue, offrir une seconde chance à ceux qui ont échoué.</p>\n<p><strong>Anathème</strong> Manipuler ou neutraliser les émotions d’une créature grâce à la magie, propager le nihilisme ou le découragement.</p>\n<p><strong>Préoccupations</strong> Intervention, bronze, et éducation.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.J7K7kHoIE69558Su]{Liberté}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}"
         },
         {
             "id": "Cyth-V'sug",
@@ -484,7 +484,7 @@
         {
             "id": "Shyka",
             "name": "Shyka",
-            "description": ""
+            "description": "<p>Aîné de l’entropie, de la réincarnation et de la temporalité, Shyka la Multitude n’est pas une entité unique, mais un ensemble multiple d’êtres qui voyagent dans les deux sens du temps. Chacun de ces êtres a détenu à tour de rôle le titre de Shyka, reprenant les responsabilités et le savoir qui allaient avec, à la mort (ou à la disparition) de son prédécesseur. Shyka visite tant d’époques qui se recoupent que d’autres créatures ont l’impression d’y rencontrer à chaque fois un Shyka aléatoire. Cet Aîné connaît aussi bien la naissance que la mort du multivers, ayant vécu les deux évènements. Bien que Shyka affirme se contenter d’observer le continuum du temps, ce n’est un secret pour presque personne qu’il lui arrive d’y apporter de légers changements, en phase avec ses objectifs — ou que Shyka exige de ses adorateurs, par des incitations abstruses, qu’ils fassent de même.</p>\n<p><strong>Édits</strong> Créer des choses éphémères, laisser des sabliers dans des endroits inhabituels, offrir aléatoirement des cadeaux, tirer des leçons du passé</p>\n<p><strong>Anathème</strong> S’aventurer volontairement là où le temps ne passe pas</p>\n<p><strong>Préoccupations</strong> Entropie, réincarnation, et temps</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.i4UU3qCjIMwejIQF]{Delirium}, @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.udASTZy5jJWFCt5w]{Temps}</p>"
         },
         {
             "id": "Sun Wukong",
@@ -549,7 +549,7 @@
         {
             "id": "Zon-Kuthon",
             "name": "Zon-Kuthon",
-            "description": ""
+            "description": "<p>Le Seigneur de Minuit, qui incarne et célèbre la souffrance, les ombres et la mutilation, est l’un des dieux les plus retors et malveillants de Golarion. Autrefois appelé Dou-Bral, c’est lui qui a construit les immenses Tours stellaires qui immobilisent Rovagug dans sa prison au cœur de Golarion, mettant ses compétences et ses pouvoirs au service de la grande alliance divine chargée d’emprisonner cette entité maléfique. Une dispute avec sa sœur Shélyn a cependant causé le départ du dieu vers des contrées inconnues. Zon-Kuthon a voyagé au-delà des limites du multivers et été confronté aux choses incompréhensibles qui y résident. Nul ne sait ce qu’il a trouvé là mais il en est revenu changé et affirme être sorti plus fort de ces épreuves. Sur Golarion, la nation du Nidal qui lui est associée est également un pays de survivants, fondé par des individus assez forts pour faire le nécessaire afin de survivre aux terribles conséquences de la Chute et de l’âge des ténèbres qui a suivi.</p>\n<p><strong>Édits</strong> apporter la souffrance en ce monde, se mutiler </p>\n<p><strong>Anathème</strong> créer une source de lumière permanente ou de longue durée, apporter du réconfort à ceux qui souffrent </p>\n<p><strong>Centres d'intérêt</strong> ténèbres, envie, disparition et souffrance</p>"
         },
         {
             "id": "Nocticula",
@@ -604,7 +604,7 @@
         {
             "id": "Urgathoa",
             "name": "Urgathoa",
-            "description": ""
+            "description": "<p>Les élus d’Urgathoa ne redoutent pas les défaillances de la chair mortelle, comme la sénescence, la maladie ou la mort, car tant qu’ils font de l’excès leur priorité, leur déesse les protège de ces entraves éphémères. Urgathoa était autrefois une mortelle contestant et rejetant les doctrines des divinités qui attendaient de leurs fidèles une conformité aveugle, de la tempérance et de la retenue. Pourquoi les dieux feraient-ils de Golarion un buffet abondant de plaisirs physiques et spirituels si les vivants n’étaient pas destinés à s’en régaler ? Urgathoa aimait tellement laisser libre cours à ses appétits qu’une fois morte, elle cracha au visage de Pharasma et de son jugement, tua le psychopompe chargé de l’accompagner vers l’au-delà et, par la seule force de sa volonté, réussit l’exploit de s’arracher au Cimetière pour rejoindre le plan matériel et devenir la première divinité morte-vivante.</p>\n<p><strong>Édits</strong> Devenir mort-vivant après son décès, créer ou protéger des morts-vivants, satisfaire ses appétits.</p>\n<p><strong>Anathème</strong> Résister à ses appétits, détruire un mort-vivant, sacrifier sa vie.</p>\n<p><strong>Préoccupations </strong> Maladie, gourmandise et la non-mort</p>\n<hr />\n<p><strong>Domaines</strong> Petits plaisirs, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.9tsJg13xeJLGzzGV]{Non-mort}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.dnljU1twPjH4KFgO]{Nuée}</p>"
         },
         {
             "id": "Torag",
@@ -629,7 +629,7 @@
         {
             "id": "Sekhmet",
             "name": "Sekhmet",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Massacrer vos ennemis, boire le sang des ennemis vaincus, soigner ses blessures de combat.</p>\n<p><strong>Anathèmes</strong> Épargner un fiélon, omettre d’honorer Sekhmet par des rituels quotidiens</p>\n<hr />\n<p><strong>Domaines :</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, Petits plaisirs, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}</p>"
         },
         {
             "id": "Trudd",
@@ -654,7 +654,7 @@
         {
             "id": "Zohls",
             "name": "Zohls",
-            "description": ""
+            "description": "<p>Zohls, également connue sous le nom de Véracité, encourage la détermination, les enquêtes et la vérité. Elle estime que les mystères mènent à la vérité, mais que la façon dont on y arrive est aussi importante que la vérité elle-même. Toutes les questions sont des énigmes, et toutes les énigmes méritent d’être résolues. Plus le problème est délicat, plus l’enquête est gratifiante. Même les plus sibyllines des énigmes peuvent être résolues par la détermination et l’enquête. La réflexion calculée et logique est plus importante que l’instinct aux yeux de Zohls. Elle voit partout des schémas qui se répètent, et enseigne que repérer ces schémas fait émerger la vérité. Bien que toutes les enquêtes vaillent la peine d’être menées tant qu’elles ne causent pas de mal à des innocents, celles qui font émerger la vérité à propos de crimes ou d’autres horreurs, permettant ainsi de rendre la justice et de restaurer la paix des victimes, sont prioritaires à ses yeux.</p>\n<p>Quand elle se montre à ses adorateurs, Véracité porte toujours une tenue pragmatique, souvent une tunique et des hauts-de-chausses. Elle s’habille de noir et de blanc, couleurs qui représentent la lumière de la vérité d’une part, les ténèbres et l’inconnu d’autre part. Elle porte ses cheveux châtain clair en tresses derrière la tête. Sur son dos, elle a deux grandes ailes en parchemin qui ne se rident jamais, qu’elles soient pliées ou déployées. Les adorateurs de Zohls comprennent des détectives, des scientifiques, des chercheurs et des libraires, voire des théoriciens du complot.</p>\n<p>Édits<strong> Enquêter sur des crimes, envisager de nouvelles solutions à partir de\nrecherches, résoudre des énigmes de logique</strong> </p>\n<p><strong>Anathème</strong> Faire obstacle à la vérité, falsifier des preuves, juger sans preuve</p>\n<p><strong>Centres d'intérêt</strong> détermination, enquête, et vérité</p>"
         },
         {
             "id": "Black Butterfly",
@@ -849,12 +849,12 @@
         {
             "id": "Droskar",
             "name": "Droskar",
-            "description": ""
+            "description": "<p>Banni et maudit par @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag}, le Sombre Forgeron travaille sans relâche afin de prouver son importance, trichant et asservissant les autres pour arriver à ses fins</p>\n<p><strong>Édits</strong> Améliorer continuellement ses capacités, asseoir sa domination, atteindre ses objectifs à tout prix, travailler sans relâche</p>\n<p><strong>Anathème</strong> Échouer à atteindre ses objectifs ou améliorer ses capacités, se relaxer à l’excès ou se laisser aller à la paresse</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.fVfFKKvGocG2JM5q]{Devoir}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme}</p>"
         },
         {
             "id": "Zura",
             "name": "Zura",
-            "description": ""
+            "description": "<p>Zura, la Reine Vampire, est le seigneur démon du sang, du cannibalisme et des vampires. Selon la légende, elle est la réincarnation d’une reine azlante qui se livrait, dans sa quête de la vie éternelle, à des rites sanglants et des actes de cannibalisme. Après sa mort, elle renaquit sous la forme particulière d’une succube vampirique, qui obtint rapidement le statut d’un seigneur démon. Bien que beaucoup des sectes qui l’adoraient aient disparu en même temps que l’empire azlant, Zura est encore vénérée par des vampires et par ceux qui souhaitent en devenir, surtout dans le Chéliax et l’Ustalav, ainsi que par des drows d’Ombreterre.</p>\n<p><strong>Édits</strong> Aspirer au vampirisme, boire du sang, causer des dégâts de saignement</p>\n<p><strong>Anathème</strong> Dénoncer des vampires, soigner une plaie ouverte sans l’utiliser au préalable pour boire du sang</p>\n<p><strong>Centres d'intérêt</strong> sang, cannibalisme, et vampires</p>"
         },
         {
             "id": "Osiris",
@@ -884,7 +884,7 @@
         {
             "id": "Nyarlathotep (The Crawling Chaos)",
             "name": "Nyarlathotep (The Crawling Chaos)",
-            "description": ""
+            "description": "<p>Nyarlathotep est un être aux mille aspects, dont chacun a un nom, comme le pharaon Noir ou Celui qui hante les ténèbres. Ayant parcouru le monde sous la forme d’un mortel, Nyarlathotep est le seul des dieux Extérieurs à pouvoir donner l’impression d’être compréhensible – mais ce n’est Dieux Extérieurs & Grands Anciens 83 qu’une façade. Le Chaos Rampant – un autre de ses surnoms – semble plus ou moins humain, non pas parce qu’il partage les préoccupations ou s’inquiète pour ses fidèles mortels, mais parce qu’une apparence mortelle facilite son travail, qui est d’étendre l’influence des dieux Extérieurs.</p>\n<p>Dans son rôle de héraut, de messager et d’agent provocateur pour les dieux Extérieurs, Nyarlathotep est, de ceux-ci, le plus susceptible d’interagir directement avec les mortels. Il répond aux prières, enseigne la magie mauvaise et s’incruste dans l’histoire, le tout afin d’inciter les mortels à la cruauté, de faciliter la libération des Grands Anciens et de convertir des sociétés entières au culte des dieux Extérieurs. Il joua un rôle important dans la chute de l’Ancien Osirion et d’aucuns croient qu’il fut à l’origine du départ des Armées d’exploration, une folie de gloire qui causa la ruine de l’empire taldorien. D’innombrables récits circulent sur les contacts entre Nyarlathotep et des cultistes mortels ou des magiciens qui osèrent faire appel à lui. Ils se retrouvent le plus souvent possédés, et cela se termine toujours par leur corruption grotesque et leur mort. Nyarlathotep fréquente aussi souvent la cour d’Azathoth, et fomente ses complots sous couvert de la volonté du Chaos Primordial.</p>\n<p><strong>Édits</strong> Profiter de positions d’autorité pour orienter les événements vers des fins apocalyptiques, semer la discorde parmi des alliés</p>\n<p><strong>Anathème</strong> Aucun</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemar}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "Daikitsu",
@@ -919,7 +919,7 @@
         {
             "id": "Esoteric Order of the Palatine Eye",
             "name": "Esoteric Order of the Palatine Eye",
-            "description": ""
+            "description": "<p>Installé en Ustalav mais très actif dans les salons de l’aristocratie et les académies confinées d’Avistan et du Garund, l’OEil palatin est un ordre mystique de nobles-occultistes qui s’efforce d’atteindre la conscience de soi philosophique et la maîtrise des vérités célestes. L’ordre fut fondé en 3988 AR quand le gentilhomme-explorateur Aldus Canter revint du désert osirien, où il s’était perdu depuis 3 ans. Aldus évoqua sa rencontre avec une secte adorant un ange desséché du nom de Tabris. Celui-ci lui avait révélé l’histoire secrète du multivers et l’avait chargé de servir de messager de ces secrets mystiques. Dès son retour, Aldus rassembla autour de lui plusieurs de ses pairs, formant une coterie de nobles ustalaviens avides d’exploiter ces secrets. Mais son message, fait de textes confus et codés, mélange désordonné de mysticisme osirien, de rites pharasmiens et de savoirs occultes varisiens, était loin d’être clair. L’activité première de l’ordre depuis des siècles, dès avant la disparition en 4028 AR d’un Aldus de plus en plus erratique, est de passer au peigne fin ses textes, tant ceux ramenés d’Osirion que ses nombreuses annotations et réinterprétations ultérieures. Les recherches méticuleuses de l’ordre ésotérique ont donné naissance à des secrets occultes et des rites mystiques uniques sur Golarion,et font allusion à des connaissances supplémentaires accessibles aux initiés. Sa plus grande réussite, cependant, fut d’éviter une apocalypse dont très peu de gens à Golarion sauront jamais à quel point elle fut proche : en 4718 AR, les plus grands héros de l’ordre empêchèrent la planète Aucturn de dévorer Golarion.</p>\n<p><strong>Edits</strong> découvrir la sagesse des cultures antiques (en particulier de l’Ancien Osirion), honorer les rites de l’ordre, porter secours aux érudits</p>\n<p><strong>Anathème</strong> reveal détruire des savoirs rares ou antiques, dévoiler les secrets de l’ordre aux personnes extérieures à l’organisation (ou aux membres de trop bas niveau)</p>\n<p><strong>Préoccupations</strong> Histoire, occultisme, connaissances secrètes</p>"
         },
         {
             "id": "The Lost Prince",
@@ -1014,7 +1014,7 @@
         {
             "id": "Kelizandri",
             "name": "Kelizandri",
-            "description": ""
+            "description": "<p>Kélizandre, le seigneur élémentaire de l’eau, supervise les profondeurs de la mer, les vagues et les noyades. L’Empereur Salé prétend être le rejeton d’un dieu antique et d’un dragon de saumure ; il adopte en général la forme d’un immense dragon aquatique doté d’écailles métalliques et de serres faites de cristaux. Il passe l’essentiel de son temps à somnoler dans son magnifique Palais de sel et d’os, et quand il se réveille se livre pour son simple plaisir à des orgies de conquêtes et de destructions.<p> \n<p>Parmi ses adorateurs se trouvent des dragons de saumure, des élémentaires d’eau et des mortels qui vénèrent l’inconnu inhospitalier des profondeurs. Il n’aime pas beaucoup les marides — il a d’ailleurs tué la dernière Padishah saline, Niloufar la Grande, et détruit sa capitale d’Arzanib. Son domaine sur le plan de l’eau est Kélizandrika, l’Empire salé, un rassemblement de royaumes contrôlés par des dragons de saumure qui lui sont liés. Il se dit que les plus puissants dragons des conseils régissant Kélizandrika conseillent personnellement le seigneur élémentaire.</p>\n<p><strong>Édit</strong> Insufflez l'hydrophobie aux autres, tuez vos ennemis en les noyant, sacrifiez des trésors aux profondeurs de l'océan</p>\n<p><strong>Anathème</strong> Détruire une étendue d’eau, utiliser la magie pour calmer les vagues</p>\n<p><strong>Préoccupation</strong> L'océan, les vagues, et noyade</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemar}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage}</p>"
         },
         {
             "id": "Xhamen-Dor",

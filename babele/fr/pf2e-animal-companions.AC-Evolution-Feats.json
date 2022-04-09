@@ -27,6 +27,11 @@
             "description": "<p>La résistance de votre eidolon s'accroit. Sa résistance issue de @Compendium[pf2e.feats-srd.0PCDkVnRxVqxsp9j]{Cœur énergétique} et @Compendium[pf2e.feats-srd.XGZUjc9I3sjfniDg]{Cœur énergétique dual} est égale à votre niveau.</p>"
         },
         {
+            "id": "Hulking Size",
+            "name": "Taille considérable",
+            "description": "<p>Votre eidolon grandit considérablement. Votre eidolon devient Grand, au lieu de sa précédente taille, et son allonge passe à 3 m. Cela ne modifie aucune de ses autres statistiques.</p>"
+        },
+        {
             "id": "Ever-Vigilant Senses",
             "name": "Sens toujours en éveil",
             "description": "<p>Votre eidolon possède des sens améliorés. Il obtient un bonus de circonstances de +2 à la Perception et ne peut être pris en tenaille, sauf par des créatures dont le niveau est supérieur au sien.</p>\n<p>Il peut voir les créatures et les objets @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} ; ils apparaissent translucides et sont @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqués}.</p>\n<p>Lorsque votre eidolon se déplace dans les 9 m d'une illusion qui peut être percée à jour, le MJ lance un test secret pour la percer à jour, même si votre eidolon n'a pas dépensé une action pour Interagir avec.</p>"
@@ -55,6 +60,16 @@
             "id": "Glider Form",
             "name": "Forme de planeur",
             "description": "<p>Votre eidolon développe des ailes, un corps capable de flotter ou tout autre moyen de contrôler sa descente.</p>\n<p>Il glisse lentement vers le sol, 1,5 m vers le bas et jusqu'à 7,5 m vers l'avant dans les airs.</p>\n<p>Tant qu'il dépense au moins 1 action en planant chaque tour et qu'il n'a pas encore atteint le sol, il reste en l'air à la fin de votre tour.</p>"
+        },
+        {
+            "id": "Pushing Attack",
+            "name": "Attaque repoussante",
+            "description": "<p>Votre eidolon possède une attaque qui repousse les ennemis. Choisissez une des attaques à mains nues de votre eidolon avec le trait Pousser. Il obtient l'action @Compendium[pf2e.bestiary-ability-glossary-srd.t6cx9FOODmeZQNYl]{Bousculade} pour cette attaque.</p>"
+        },
+        {
+            "id": "Alacritous Action",
+            "name": "Action empressée",
+            "description": "<p>Votre eidolon se déplace plus rapidement. Il obtient un bonus de statut de +3 m à sa Vitesse.</p>"
         },
         {
             "id": "Phase Out",

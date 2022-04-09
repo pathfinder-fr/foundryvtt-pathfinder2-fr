@@ -1,20 +1,12 @@
 # État de la traduction (ac-features)
 
- * **libre**: 98
+ * **libre**: 100
  * **vide**: 1
- * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[Kgt1NyBesS3rohzb.htm](ac-features/Kgt1NyBesS3rohzb.htm)|Badger Rage|
-|[MzqIc3XmAUQVdSFO.htm](ac-features/MzqIc3XmAUQVdSFO.htm)|Seething Frenzy|
-
 ## Liste des éléments vides ne pouvant pas être traduits
 
 | Fichier   | Nom (EN)    | État |
@@ -72,6 +64,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iunzITJGz0QUudUk.htm](ac-features/iunzITJGz0QUudUk.htm)|Tendril Strike|Frappe de liane|libre|
 |[JcYmSwl3FCjqFEMm.htm](ac-features/JcYmSwl3FCjqFEMm.htm)|Marauding Dragon|Dragon maraudeur|libre|
 |[jQBe4yXTAcMt2kKQ.htm](ac-features/jQBe4yXTAcMt2kKQ.htm)|Eidolon Ability Boosts (5th)|Primes de caractéritiques de l'eidolon (5e)|libre|
+|[Kgt1NyBesS3rohzb.htm](ac-features/Kgt1NyBesS3rohzb.htm)|Badger Rage|Rage du blaireau|libre|
 |[KKOgokqHa7RjVDN6.htm](ac-features/KKOgokqHa7RjVDN6.htm)|Animal Companion|Compagnon animal|libre|
 |[kpcL3Iz1KJnmEKwC.htm](ac-features/kpcL3Iz1KJnmEKwC.htm)|Field of Roots|Champ de racines|libre|
 |[KrHyF5BSvYM6tFbB.htm](ac-features/KrHyF5BSvYM6tFbB.htm)|Advanced Maneuver|Manœuvre avancée|libre|
@@ -82,6 +75,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mL6vuNanUJoubOjL.htm](ac-features/mL6vuNanUJoubOjL.htm)|Breath Weapon (Fire)|Arme de souffle (Feu)|libre|
 |[MmMaKe7G1PQULBjL.htm](ac-features/MmMaKe7G1PQULBjL.htm)|Breath Weapon (Electricity)|Arme de souffle (électricité)|libre|
 |[mzeQIa11p6ASSxIm.htm](ac-features/mzeQIa11p6ASSxIm.htm)|Breath Weapon (Acid)|Arme de souffle (Acide)|libre|
+|[MzqIc3XmAUQVdSFO.htm](ac-features/MzqIc3XmAUQVdSFO.htm)|Seething Frenzy|Frénésie effrénée|libre|
 |[N47g9LDkOdZZdgup.htm](ac-features/N47g9LDkOdZZdgup.htm)|Steadfast Devotion|Dévouement sans faille|libre|
 |[nhFkOYRdlT5iLzdQ.htm](ac-features/nhFkOYRdlT5iLzdQ.htm)|Dexterity Boost|Prime de Dextéritté|libre|
 |[o3P8heIfNr1z53Ay.htm](ac-features/o3P8heIfNr1z53Ay.htm)|Demonic Strikes|Frappes démoniaques|libre|

@@ -2,11 +2,11 @@
 
  * **libre**: 34
  * **vide**: 10
- * **aucune**: 86
+ * **aucune**: 88
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -87,6 +87,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vGL5LlFxVJqjy1gM.htm](bestiary-effects/vGL5LlFxVJqjy1gM.htm)|Effect: Breach the Abyss - Cold|
 |[vJAHjBoEuFKGQoGs.htm](bestiary-effects/vJAHjBoEuFKGQoGs.htm)|Effect: Rune of Destruction (Longspear)|
 |[vKTvlFD2OSgTPuvl.htm](bestiary-effects/vKTvlFD2OSgTPuvl.htm)|Effect: Breach the Abyss - Electricity|
+|[vuaungtl9VCBoHDK.htm](bestiary-effects/vuaungtl9VCBoHDK.htm)|Effect: Rockfall Failure|
 |[vUFIbQ74jz22rOXw.htm](bestiary-effects/vUFIbQ74jz22rOXw.htm)|Effect: Mortal Reflection|
 |[Vz9Cb8FEzNwfH3mE.htm](bestiary-effects/Vz9Cb8FEzNwfH3mE.htm)|Effect: Breach the Abyss - Negative|
 |[WfiaKdXNSxC3POcs.htm](bestiary-effects/WfiaKdXNSxC3POcs.htm)|Effect: Bosun's Command - Attack Bonus|
@@ -95,6 +96,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wPIGBcpCqCWgrCiq.htm](bestiary-effects/wPIGBcpCqCWgrCiq.htm)|Effect: Blood Soak|
 |[wX9L6fbqVMLP05hn.htm](bestiary-effects/wX9L6fbqVMLP05hn.htm)|Effect: Stench|
 |[XaYM6Td0yhx2POau.htm](bestiary-effects/XaYM6Td0yhx2POau.htm)|Effect: Haywire|
+|[XyhPcnlkg3mGqEwT.htm](bestiary-effects/XyhPcnlkg3mGqEwT.htm)|Effect: Rockfall Critical Failure|
 |[Y5vsF5Kb8oNIccWo.htm](bestiary-effects/Y5vsF5Kb8oNIccWo.htm)|Effect: Rune of Smiting (Longspear)|
 |[yG27Ixwdpxqbrhzf.htm](bestiary-effects/yG27Ixwdpxqbrhzf.htm)|Effect: Bosun's Command - Speed Bonus|
 |[YIXeQFdrt0vPvmsW.htm](bestiary-effects/YIXeQFdrt0vPvmsW.htm)|Effect: Snake Form|

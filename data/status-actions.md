@@ -1,12 +1,11 @@
 # État de la traduction (actions)
 
- * **officielle**: 109
- * **libre**: 157
- * **changé**: 2
+ * **officielle**: 110
+ * **libre**: 158
  * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,13 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|changé|
-|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|changé|
 
 ## Liste des traductions complétés
 
@@ -74,6 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[A4L90h7FIgO5EyBx.htm](actions/A4L90h7FIgO5EyBx.htm)|Siegebreaker|Briseur de siège|libre|
 |[A72nHGUtNXgY5Ey9.htm](actions/A72nHGUtNXgY5Ey9.htm)|Delay|Retarder|officielle|
 |[aBQ8ajvEBByv45yz.htm](actions/aBQ8ajvEBByv45yz.htm)|Cast a Spell|Lancer un sort|officielle|
+|[Ah5g9pDwWF9b9VW9.htm](actions/Ah5g9pDwWF9b9VW9.htm)|Rage|Rage|officielle|
 |[AjLSHZSWQ90exdLo.htm](actions/AjLSHZSWQ90exdLo.htm)|Dismiss|Révoquer|officielle|
 |[AJstokjdG6iDjVjE.htm](actions/AJstokjdG6iDjVjE.htm)|Impersonate|Se déguiser|officielle|
 |[akmQzZoNhyfCKFpL.htm](actions/akmQzZoNhyfCKFpL.htm)|Airy Step|Pas aérien|libre|
@@ -161,6 +154,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JUvAvruz7yRQXfz2.htm](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|Sauter en longueur|officielle|
 |[JYi4MnsdFu618hPm.htm](actions/JYi4MnsdFu618hPm.htm)|Hunt Prey|Chasser une proie|officielle|
 |[k5TASjIxghvGCy7g.htm](actions/k5TASjIxghvGCy7g.htm)|Call to Axis|Appel à Axis|libre|
+|[K878asDgf1EF0B9S.htm](actions/K878asDgf1EF0B9S.htm)|Confident Finisher|Coup final assuré|libre|
 |[KAVf7AmRnbCAHrkT.htm](actions/KAVf7AmRnbCAHrkT.htm)|Attack of Opportunity|Attaque d'opportunité|libre|
 |[kbUymGTjbesOKsV6.htm](actions/kbUymGTjbesOKsV6.htm)|Primal Roar|Rugissement primal|libre|
 |[KC6o1cvbr45xnMei.htm](actions/KC6o1cvbr45xnMei.htm)|Conjure Bullet|Conjurer une balle|libre|

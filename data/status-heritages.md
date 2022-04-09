@@ -2,11 +2,18 @@
 
  * **libre**: 177
  * **officielle**: 25
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[lDT5h3f5GXRj42Ir.htm](heritages/lDT5h3f5GXRj42Ir.htm)|Stonestep Shisk|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

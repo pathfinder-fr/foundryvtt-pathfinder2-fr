@@ -1,12 +1,11 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 257
+ * **libre**: 263
  * **officielle**: 49
- * **aucune**: 7
- * **changé**: 1
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,17 +14,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[4lbfPXwZEf3eE0ip.htm](backgrounds/4lbfPXwZEf3eE0ip.htm)|Snubbed Out Stoolie|
 |[bxWID85noazU72O3.htm](backgrounds/bxWID85noazU72O3.htm)|Ratted-Out Gun Runner|
-|[eHfsMNiVeqwnrpG3.htm](backgrounds/eHfsMNiVeqwnrpG3.htm)|Framed in Ferrous Quarter|
-|[M8EfhY6Knb2iQm6S.htm](backgrounds/M8EfhY6Knb2iQm6S.htm)|Press-Ganged (G&G)|
-|[U1gbRkmZqJ7SmpeF.htm](backgrounds/U1gbRkmZqJ7SmpeF.htm)|Banished Brighite|
-|[UK40FVVVx6IKxipW.htm](backgrounds/UK40FVVVx6IKxipW.htm)|Inexplicably Expelled|
-|[wZikbWmCWYpjFxQF.htm](backgrounds/wZikbWmCWYpjFxQF.htm)|Wanted Witness|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged (LOWG)|Forçat des Mers|changé|
 
 ## Liste des traductions complétés
 
@@ -60,6 +48,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite (Occultisme)|officielle|
 |[4Vc8uXVHonrasFnU.htm](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|Saboteur|libre|
 |[4XpWgGejwb2L6WpK.htm](backgrounds/4XpWgGejwb2L6WpK.htm)|Codebreaker|Cryptographe|libre|
+|[4yN5miHoMvKwZIsa.htm](backgrounds/4yN5miHoMvKwZIsa.htm)|Press-Ganged (LOWG)|Forçat des Mers (LOWG)|libre|
 |[58aWxmagtsuO0jeP.htm](backgrounds/58aWxmagtsuO0jeP.htm)|Eidolon Contact (Religion)|Contact d'Eidolon (Religion)|libre|
 |[5dezuNcZJ6wfecnG.htm](backgrounds/5dezuNcZJ6wfecnG.htm)|Gunsmith|Armurier|libre|
 |[5ITjkJwZ78YnBXdt.htm](backgrounds/5ITjkJwZ78YnBXdt.htm)|Magaambya Academic (Arcana)|Étudiant du Magaambya (Arcanes)|libre|
@@ -139,6 +128,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[e58GwSBLNslyfqMF.htm](backgrounds/e58GwSBLNslyfqMF.htm)|Mystic Tutor (Occultism)|Tuteur mystique (Occultisme)|libre|
 |[ECKic2p6yIyoGYod.htm](backgrounds/ECKic2p6yIyoGYod.htm)|Songsinger in Training|Apprenti chansonnier|libre|
 |[ED0imMUoDvwpESd5.htm](backgrounds/ED0imMUoDvwpESd5.htm)|Unsponsored (Diplomacy)|Non soutenu (Diplomatie)|libre|
+|[eHfsMNiVeqwnrpG3.htm](backgrounds/eHfsMNiVeqwnrpG3.htm)|Framed in Ferrous Quarter|Piégé dans le quartier ferreux|libre|
 |[EJRWGsPWzAhixuvQ.htm](backgrounds/EJRWGsPWzAhixuvQ.htm)|Belkzen Slayer|Tueur du Belkzen|libre|
 |[EYPorNgoYcp37akm.htm](backgrounds/EYPorNgoYcp37akm.htm)|Magical Misfit|Marginal de la magie|libre|
 |[eYY3bX7xSH7aicqT.htm](backgrounds/eYY3bX7xSH7aicqT.htm)|Atteran Rancher|Rancher Atteran|libre|
@@ -211,6 +201,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LwAu4r3uocYfpKA8.htm](backgrounds/LwAu4r3uocYfpKA8.htm)|Trailblazer|Pionnier|libre|
 |[LWoPiYHAyLp8pvYx.htm](backgrounds/LWoPiYHAyLp8pvYx.htm)|Broken Tusk Recruiter|Recruteur de la Défense brisée|libre|
 |[m1vRLRHTpCrgk89G.htm](backgrounds/m1vRLRHTpCrgk89G.htm)|Thrune Loyalist|Loyaliste Thrune|libre|
+|[M8EfhY6Knb2iQm6S.htm](backgrounds/M8EfhY6Knb2iQm6S.htm)|Press-Ganged (G&G)|Forçat des mers (G&G)|libre|
 |[mcL4WLO2yxBGlvuG.htm](backgrounds/mcL4WLO2yxBGlvuG.htm)|Farmsteader|Paysan|libre|
 |[MgiZ25JdT6O3fLbO.htm](backgrounds/MgiZ25JdT6O3fLbO.htm)|Anti-Tech Activist|Activiste anti-techno|libre|
 |[MiRWGXZnEdurMvVf.htm](backgrounds/MiRWGXZnEdurMvVf.htm)|Eldritch Anatomist|Anatomiste mystique|libre|
@@ -271,6 +262,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tqnrnXVTbdehohPL.htm](backgrounds/tqnrnXVTbdehohPL.htm)|Street Preacher|Prêcheur des rues|libre|
 |[tsMvqxJhl6xgcDaU.htm](backgrounds/tsMvqxJhl6xgcDaU.htm)|Blow-In (Deception)|Nouveau venu (Duperie)|libre|
 |[Ty8FRM0k262xuHfF.htm](backgrounds/Ty8FRM0k262xuHfF.htm)|Undersea Enthusiast|Enthousiaste aquatique|libre|
+|[U1gbRkmZqJ7SmpeF.htm](backgrounds/U1gbRkmZqJ7SmpeF.htm)|Banished Brighite|Adepte de Brigh banni|libre|
 |[uC6D2nmDTATxXrV6.htm](backgrounds/uC6D2nmDTATxXrV6.htm)|Royalty|De sang royal|libre|
 |[UdOUj7i8XGTI72Zc.htm](backgrounds/UdOUj7i8XGTI72Zc.htm)|Servant|Serviteur|libre|
 |[uF9nw15tK6b1bgre.htm](backgrounds/uF9nw15tK6b1bgre.htm)|Ruby Phoenix Fanatic|Fanatique du Phénix de rubis|libre|
@@ -278,6 +270,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UgityMZaujmYUpil.htm](backgrounds/UgityMZaujmYUpil.htm)|Out-Of-Towner|De passage|officielle|
 |[uJcFanGjVranEarv.htm](backgrounds/uJcFanGjVranEarv.htm)|Lumber Consortium Laborer|Ouvrier du Consortium du bois|libre|
 |[UjN1dEgMnJdzq4HT.htm](backgrounds/UjN1dEgMnJdzq4HT.htm)|Student of Magic (Occultism)|Étudiant de la magie (Occultisme)|libre|
+|[UK40FVVVx6IKxipW.htm](backgrounds/UK40FVVVx6IKxipW.htm)|Inexplicably Expelled|Expulsé inexplicablement|libre|
 |[uNhdcyhiog7YvXPT.htm](backgrounds/uNhdcyhiog7YvXPT.htm)|Varisian Wanderer|Vagabond Varisien|libre|
 |[uNvD4XK1kdvGjQVo.htm](backgrounds/uNvD4XK1kdvGjQVo.htm)|Child of Westcrown|Enfant de Couronne d'uuest|libre|
 |[UU4MOe7Lozt9V8tg.htm](backgrounds/UU4MOe7Lozt9V8tg.htm)|Seer of the Dead|Voyant des morts|libre|
@@ -311,6 +304,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wudDO9OEsRjJsqhU.htm](backgrounds/wudDO9OEsRjJsqhU.htm)|Barber|Barbier|libre|
 |[WueM94C9JXk10jPd.htm](backgrounds/WueM94C9JXk10jPd.htm)|Onyx Trader|Marchand d'onyx|libre|
 |[wz4fDeZtCvxC4vyO.htm](backgrounds/wz4fDeZtCvxC4vyO.htm)|Second Chance Champion|Champion de la seconde chance|libre|
+|[wZikbWmCWYpjFxQF.htm](backgrounds/wZikbWmCWYpjFxQF.htm)|Wanted Witness|Témoin recherché|libre|
 |[x2y25cE98Eq4qxbu.htm](backgrounds/x2y25cE98Eq4qxbu.htm)|Ustalavic Academic|Étudiant ustalavien|libre|
 |[x3fFxtLogoy5hZfe.htm](backgrounds/x3fFxtLogoy5hZfe.htm)|Medicinal Clocksmith|Mécanicien médicinal|libre|
 |[xbyQ1RAF6x4ceXLf.htm](backgrounds/xbyQ1RAF6x4ceXLf.htm)|Energy Scarred|Scarifié d'énergie|libre|

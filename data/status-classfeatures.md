@@ -1,20 +1,12 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 229
- * **libre**: 217
- * **changé**: 2
+ * **officielle**: 230
+ * **libre**: 218
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion's Code|Code du champion|changé|
-|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -114,6 +106,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-EQ6DVIQHAUXUhY6Y.htm](classfeatures/champion-01-EQ6DVIQHAUXUhY6Y.htm)|Antipaladin|Antipaladin|libre|
 |[champion-01-FCoMFUsth4xB4veC.htm](classfeatures/champion-01-FCoMFUsth4xB4veC.htm)|Liberator|Libérateur|officielle|
 |[champion-01-FeBsYn2mHfMVDZvw.htm](classfeatures/champion-01-FeBsYn2mHfMVDZvw.htm)|Deific Weapon|Arme déifique|officielle|
+|[champion-01-fykh5pE99O3I2sOI.htm](classfeatures/champion-01-fykh5pE99O3I2sOI.htm)|Champion's Code|Code du champion|officielle|
 |[champion-01-HiIvez0TqESbleB5.htm](classfeatures/champion-01-HiIvez0TqESbleB5.htm)|Tyrant|Tyran|libre|
 |[champion-01-JiY2ZB4FkK8RJm4T.htm](classfeatures/champion-01-JiY2ZB4FkK8RJm4T.htm)|The Tenets of Evil|Les principes du Mal|libre|
 |[champion-01-nxZYP3KGfTSkaW6J.htm](classfeatures/champion-01-nxZYP3KGfTSkaW6J.htm)|The Tenets of Good|Les principes du Bien|officielle|
@@ -297,6 +290,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Combat|libre|
+|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|libre|
 |[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones|Ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|

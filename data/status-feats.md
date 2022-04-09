@@ -1,39 +1,19 @@
 # État de la traduction (feats)
 
- * **libre**: 2513
- * **officielle**: 907
+ * **libre**: 2528
+ * **officielle**: 906
  * **changé**: 9
- * **aucune**: 21
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[archetype-04-SVhyfYNAphQPxFjd.htm](feats/archetype-04-SVhyfYNAphQPxFjd.htm)|Mammoth Lord Dedication|
-|[archetype-06-AnTBWhLiIA1c7jkg.htm](feats/archetype-06-AnTBWhLiIA1c7jkg.htm)|Megafauna Veterinarian|
-|[archetype-06-hCEoINqJ75ConqqA.htm](feats/archetype-06-hCEoINqJ75ConqqA.htm)|Mammoth Charge|
-|[archetype-06-opP9j7RP7JPyt8Zj.htm](feats/archetype-06-opP9j7RP7JPyt8Zj.htm)|Mature Megafauna Companion|
-|[archetype-07-YBge8sTgeY5jncX2.htm](feats/archetype-07-YBge8sTgeY5jncX2.htm)|Speech of the Mammoth Lords|
-|[archetype-08-lUjWE40fjAjHecNQ.htm](feats/archetype-08-lUjWE40fjAjHecNQ.htm)|Incredible Megafauna Companion|
-|[archetype-08-lvxzgLNzmScMY0uC.htm](feats/archetype-08-lvxzgLNzmScMY0uC.htm)|Stalwart Mind|
 |[archetype-10-Jv24QkykqdPB7brL.htm](feats/archetype-10-Jv24QkykqdPB7brL.htm)|Unbreakable Bond|
-|[archetype-10-waZzVgfyr1Vcxfqk.htm](feats/archetype-10-waZzVgfyr1Vcxfqk.htm)|Staggering Blow|
-|[archetype-12-HxTqYtXRqFkkLfDQ.htm](feats/archetype-12-HxTqYtXRqFkkLfDQ.htm)|Gigantic Megafauna Companion|
-|[archetype-14-9DECwTTiVpHJc4B6.htm](feats/archetype-14-9DECwTTiVpHJc4B6.htm)|Specialized Megafauna Companion|
-|[archetype-20-20Yax5lEqjftKBHZ.htm](feats/archetype-20-20Yax5lEqjftKBHZ.htm)|Vigilant Mask|
-|[archetype-20-6PCNYExygF5890Fl.htm](feats/archetype-20-6PCNYExygF5890Fl.htm)|Thick Hide Mask|
-|[archetype-20-CuJzCxGwd1EZDift.htm](feats/archetype-20-CuJzCxGwd1EZDift.htm)|Cunning Trickster Mask|
-|[archetype-20-dj0aOPPcDOqmptpX.htm](feats/archetype-20-dj0aOPPcDOqmptpX.htm)|Storyteller's Mask|
-|[archetype-20-f4k5ripShCn5orZB.htm](feats/archetype-20-f4k5ripShCn5orZB.htm)|Grand Medic's Mask|
-|[archetype-20-HxO0Sh3hNFMoSsTB.htm](feats/archetype-20-HxO0Sh3hNFMoSsTB.htm)|Emancipator's Mask|
-|[archetype-20-nn7DiYYWinsSYrZy.htm](feats/archetype-20-nn7DiYYWinsSYrZy.htm)|Protective Spirit Mask|
-|[archetype-20-SS8JSDB2P0SFX1KH.htm](feats/archetype-20-SS8JSDB2P0SFX1KH.htm)|Sky Master Mask|
-|[archetype-20-tFUo2tsdreWBxMfs.htm](feats/archetype-20-tFUo2tsdreWBxMfs.htm)|Stalking Feline Mask|
-|[archetype-20-XHOhAHv2HLdJQz2q.htm](feats/archetype-20-XHOhAHv2HLdJQz2q.htm)|Tireless Guide's Mask|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -1301,6 +1281,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-04-Sr6CcCXceV8ALAmB.htm](feats/archetype-04-Sr6CcCXceV8ALAmB.htm)|Basic Fury|Furie basique|officielle|
 |[archetype-04-SVdYJW5JsOMhAYd0.htm](feats/archetype-04-SVdYJW5JsOMhAYd0.htm)|Fleet Tempo|Tempo rapide|libre|
 |[archetype-04-sVEF7j9Wh1KNGPUm.htm](feats/archetype-04-sVEF7j9Wh1KNGPUm.htm)|Modular Dynamo|Dynamo modulaire|libre|
+|[archetype-04-SVhyfYNAphQPxFjd.htm](feats/archetype-04-SVhyfYNAphQPxFjd.htm)|Mammoth Lord Dedication|Dévouement de Seigneur de mammouth|libre|
 |[archetype-04-t2GNcu81g3NHdMKg.htm](feats/archetype-04-t2GNcu81g3NHdMKg.htm)|First Revelation (Lore Mystery)|Première révélation (Mystère du savoir)|libre|
 |[archetype-04-TaoV7ArAuZjxpeQB.htm](feats/archetype-04-TaoV7ArAuZjxpeQB.htm)|Order Spell|Sort d'ordre|officielle|
 |[archetype-04-TC6zELq2BOqVfgMh.htm](feats/archetype-04-TC6zELq2BOqVfgMh.htm)|Basic Synergy|Synergy Basique|libre|
@@ -1372,6 +1353,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-9C6a6FXuPqWjXy8K.htm](feats/archetype-06-9C6a6FXuPqWjXy8K.htm)|Improved Familiar (Familiar Master)|Familier amélioré (Maître familier)|libre|
 |[archetype-06-9E1FLGp4CNBEwiZE.htm](feats/archetype-06-9E1FLGp4CNBEwiZE.htm)|Relentless Disarm|Désarmement acharné|officielle|
 |[archetype-06-a9zzu4kb7vstq0HQ.htm](feats/archetype-06-a9zzu4kb7vstq0HQ.htm)|Cadence Call|Imprimer la cadence|libre|
+|[archetype-06-AnTBWhLiIA1c7jkg.htm](feats/archetype-06-AnTBWhLiIA1c7jkg.htm)|Megafauna Veterinarian|Vétérinaire de mégafaune|libre|
 |[archetype-06-aQjWHbjK1pk8HESM.htm](feats/archetype-06-aQjWHbjK1pk8HESM.htm)|Perfect Ki Adept|Adepte parfait du ki|libre|
 |[archetype-06-bi9w4Z9MQY8VWLZF.htm](feats/archetype-06-bi9w4Z9MQY8VWLZF.htm)|Animate Net|Animation de filet|libre|
 |[archetype-06-bmWvMfYxZbZtigDp.htm](feats/archetype-06-bmWvMfYxZbZtigDp.htm)|Flexible Ritualist|Ritualiste polyvalent|libre|
@@ -1405,6 +1387,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-gOHBzx5Rqa6TZcrm.htm](feats/archetype-06-gOHBzx5Rqa6TZcrm.htm)|Mesmerizing Gaze|Regard hypnotisant|libre|
 |[archetype-06-gZ4VdWKr3ag2BAvF.htm](feats/archetype-06-gZ4VdWKr3ag2BAvF.htm)|Warding Rune (Enchantment)|Rune de garde (Enchantement)|libre|
 |[archetype-06-H86VNC6cNWhBI8Ed.htm](feats/archetype-06-H86VNC6cNWhBI8Ed.htm)|Knight Reclaimant Dedication|Dévouement : Chevalier reconquérant|libre|
+|[archetype-06-hCEoINqJ75ConqqA.htm](feats/archetype-06-hCEoINqJ75ConqqA.htm)|Mammoth Charge|Charge du mammouth|libre|
 |[archetype-06-hE6fchGuHuPIeKlO.htm](feats/archetype-06-hE6fchGuHuPIeKlO.htm)|Fleeting Shadow|Ombre flottante|libre|
 |[archetype-06-HtH8MONAzx4eYuJY.htm](feats/archetype-06-HtH8MONAzx4eYuJY.htm)|Advanced Concoction|Concoction avancée|officielle|
 |[archetype-06-i5LtFOpsUR5S74pC.htm](feats/archetype-06-i5LtFOpsUR5S74pC.htm)|Butterfly's Sting|Piqûre du papillon|libre|
@@ -1443,6 +1426,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-oIfCpkpH0Jb1mzj9.htm](feats/archetype-06-oIfCpkpH0Jb1mzj9.htm)|Basic Magus Spellcasting|Incantation basique du magus|libre|
 |[archetype-06-OjvE7gaQgWiBqOhY.htm](feats/archetype-06-OjvE7gaQgWiBqOhY.htm)|Discerning Strike|Frappe discernante|libre|
 |[archetype-06-oNh2vedij8xbDbph.htm](feats/archetype-06-oNh2vedij8xbDbph.htm)|Hellknight Dedication|Dévouement : Chevalier infernal|libre|
+|[archetype-06-opP9j7RP7JPyt8Zj.htm](feats/archetype-06-opP9j7RP7JPyt8Zj.htm)|Mature Megafauna Companion|Compagnon mégafaune adulte|libre|
 |[archetype-06-owJorCBZmUi5lIV0.htm](feats/archetype-06-owJorCBZmUi5lIV0.htm)|Expert Herbalism|Herboriste expert|libre|
 |[archetype-06-oyLkqhDGwGGj40ME.htm](feats/archetype-06-oyLkqhDGwGGj40ME.htm)|Eldritch Archer Dedication|Dévouement : Archer mystique|libre|
 |[archetype-06-OzvvsyjAWWij4mmm.htm](feats/archetype-06-OzvvsyjAWWij4mmm.htm)|Keep Pace (Bounty Hunter)|Conserver le rythme|libre|
@@ -1509,6 +1493,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-07-TkCy7jZUjhD8IypE.htm](feats/archetype-07-TkCy7jZUjhD8IypE.htm)|Expert Disassembler|Démontage expert|libre|
 |[archetype-07-v1PtAazmEFhTp6fZ.htm](feats/archetype-07-v1PtAazmEFhTp6fZ.htm)|Quick Change (Vigilante)|Changement rapide (Justicier)|libre|
 |[archetype-07-wqhxZwB1TR8fvpHP.htm](feats/archetype-07-wqhxZwB1TR8fvpHP.htm)|Party Crasher|Parasite mondain|libre|
+|[archetype-07-YBge8sTgeY5jncX2.htm](feats/archetype-07-YBge8sTgeY5jncX2.htm)|Speech of the Mammoth Lords|Discours des Seigneurs des mammouths|libre|
 |[archetype-08-0Bu48kn3Deq9gHQE.htm](feats/archetype-08-0Bu48kn3Deq9gHQE.htm)|Practiced Guidance|Guide Exercé|libre|
 |[archetype-08-1AgirzUGkyDdmENy.htm](feats/archetype-08-1AgirzUGkyDdmENy.htm)|Shadowdancer Dedication|Dévouement : Danseur de l'ombre|libre|
 |[archetype-08-2mww0DmokYJXUEoA.htm](feats/archetype-08-2mww0DmokYJXUEoA.htm)|Ooze Empathy|Empathie avec les vases|libre|
@@ -1576,6 +1561,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-08-kQfqJLpKOPORq7I6.htm](feats/archetype-08-kQfqJLpKOPORq7I6.htm)|Work Yourself Up|Faites-vous plaisir|libre|
 |[archetype-08-L9aBLPG2veBkVow9.htm](feats/archetype-08-L9aBLPG2veBkVow9.htm)|Persistent Creation|Création persistante|libre|
 |[archetype-08-lMA3F9SGzGV79P5C.htm](feats/archetype-08-lMA3F9SGzGV79P5C.htm)|Strangle|Étranglement|libre|
+|[archetype-08-lUjWE40fjAjHecNQ.htm](feats/archetype-08-lUjWE40fjAjHecNQ.htm)|Incredible Megafauna Companion|Formidable compagnon mégafaune|libre|
+|[archetype-08-lvxzgLNzmScMY0uC.htm](feats/archetype-08-lvxzgLNzmScMY0uC.htm)|Stalwart Mind|Esprit robuste|libre|
 |[archetype-08-m8iP2OCzit9WUrMD.htm](feats/archetype-08-m8iP2OCzit9WUrMD.htm)|Enchanting Arrow|Flèche enchantée|libre|
 |[archetype-08-MlxfNv98LZKfYl64.htm](feats/archetype-08-MlxfNv98LZKfYl64.htm)|Precious Arrow|Flèche précieuse|libre|
 |[archetype-08-MxNb97qr1yMhbjiP.htm](feats/archetype-08-MxNb97qr1yMhbjiP.htm)|Golem Grafter Dedication|Dévouement : Greffeur de golem|libre|
@@ -1726,6 +1713,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-10-V5Y9r31BCTaCiNzi.htm](feats/archetype-10-V5Y9r31BCTaCiNzi.htm)|Lastwall Warden|Gardien du Dernier-rempart|officielle|
 |[archetype-10-VJ3wIsfmabK02SNg.htm](feats/archetype-10-VJ3wIsfmabK02SNg.htm)|Provocator Dedication|Dévouement : Provocator|libre|
 |[archetype-10-vu0R9VfRZ6RWTczZ.htm](feats/archetype-10-vu0R9VfRZ6RWTczZ.htm)|Practiced Defender|Défenseur expérimenté|libre|
+|[archetype-10-waZzVgfyr1Vcxfqk.htm](feats/archetype-10-waZzVgfyr1Vcxfqk.htm)|Staggering Blow|Coup stupéfiant|libre|
 |[archetype-10-Wo0HNBh6CCgPN3Co.htm](feats/archetype-10-Wo0HNBh6CCgPN3Co.htm)|Tiller's Drive|Conduite du Laboureur|libre|
 |[archetype-10-wUHnauB3atxO1RIo.htm](feats/archetype-10-wUHnauB3atxO1RIo.htm)|Rubbery Skin|Peau caoutchouteuse|libre|
 |[archetype-10-wZZyasfIqwiJBQAQ.htm](feats/archetype-10-wZZyasfIqwiJBQAQ.htm)|Whirlwind Stance|Posture tourbillonnante|libre|
@@ -1764,6 +1752,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-12-HbBNuT1bqdcCU9hM.htm](feats/archetype-12-HbBNuT1bqdcCU9hM.htm)|Greater Sun Blessing|Bénédiction du soleil supérieure|libre|
 |[archetype-12-HJBDFHIaJ3lfxcbs.htm](feats/archetype-12-HJBDFHIaJ3lfxcbs.htm)|Maneuvering Spell|Sort manœuvrant|libre|
 |[archetype-12-hpCBELEKGA4ynYv4.htm](feats/archetype-12-hpCBELEKGA4ynYv4.htm)|Expert Wizard Spellcasting|Incantation du magicien expert|officielle|
+|[archetype-12-HxTqYtXRqFkkLfDQ.htm](feats/archetype-12-HxTqYtXRqFkkLfDQ.htm)|Gigantic Megafauna Companion|Compagnon mégafaune gigatesque|libre|
 |[archetype-12-iJxbrXAdxhLqdT5E.htm](feats/archetype-12-iJxbrXAdxhLqdT5E.htm)|Assassinate|Assassinat|libre|
 |[archetype-12-isdTXU8bV7ZVOAuQ.htm](feats/archetype-12-isdTXU8bV7ZVOAuQ.htm)|Flourishing Finish|Mise à mort spectaculaire|libre|
 |[archetype-12-IZFw3Do0kBdgwZX0.htm](feats/archetype-12-IZFw3Do0kBdgwZX0.htm)|Expert Cathartic Spellcasting|Incantation cathartique experte|libre|
@@ -1832,6 +1821,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-14-4dQcLroKQ13QYIT3.htm](feats/archetype-14-4dQcLroKQ13QYIT3.htm)|Tactical Cadence|Cadence tactique|libre|
 |[archetype-14-8nCxI2SZ64UmMuRZ.htm](feats/archetype-14-8nCxI2SZ64UmMuRZ.htm)|Entities From Afar|Entités du lointain|libre|
 |[archetype-14-8PMxl8o5YXET58Pn.htm](feats/archetype-14-8PMxl8o5YXET58Pn.htm)|Iron Lung|Poumon d'acier|libre|
+|[archetype-14-9DECwTTiVpHJc4B6.htm](feats/archetype-14-9DECwTTiVpHJc4B6.htm)|Specialized Megafauna Companion|Compagnon mégafaune spécialisé|libre|
 |[archetype-14-9zfcIXDG2mDpiypp.htm](feats/archetype-14-9zfcIXDG2mDpiypp.htm)|Armored Exercise|Exercice en armure|libre|
 |[archetype-14-AiDelwfA0uVT2lN3.htm](feats/archetype-14-AiDelwfA0uVT2lN3.htm)|Signature Synergy|Synergie signature|libre|
 |[archetype-14-aOYnK0xe9DKFtx7d.htm](feats/archetype-14-aOYnK0xe9DKFtx7d.htm)|Innocent Butterfly|Papillon innocent|libre|
@@ -1919,10 +1909,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-18-v22FQuw17Dlr1b3x.htm](feats/archetype-18-v22FQuw17Dlr1b3x.htm)|Miraculous Flight|Vol miraculeux|libre|
 |[archetype-18-ZB2WMbhALgQTGY3c.htm](feats/archetype-18-ZB2WMbhALgQTGY3c.htm)|School Spell Redirection|Redirection de sort d'école|libre|
 |[archetype-18-ZkGhDEpqe7fzJuSr.htm](feats/archetype-18-ZkGhDEpqe7fzJuSr.htm)|Master Oracle Spellcasting|Incantation d'Oracle maître|libre|
+|[archetype-20-20Yax5lEqjftKBHZ.htm](feats/archetype-20-20Yax5lEqjftKBHZ.htm)|Vigilant Mask|Masque vigilant|libre|
+|[archetype-20-6PCNYExygF5890Fl.htm](feats/archetype-20-6PCNYExygF5890Fl.htm)|Thick Hide Mask|Masque de peau épaisse|libre|
 |[archetype-20-8YSwzLNlmBLoEyUj.htm](feats/archetype-20-8YSwzLNlmBLoEyUj.htm)|Cross the Final Horizon|Traverser l'horizon final|libre|
+|[archetype-20-CuJzCxGwd1EZDift.htm](feats/archetype-20-CuJzCxGwd1EZDift.htm)|Cunning Trickster Mask|Masque du mystificateur rusé|libre|
+|[archetype-20-dj0aOPPcDOqmptpX.htm](feats/archetype-20-dj0aOPPcDOqmptpX.htm)|Storyteller's Mask|Masque du conteur|libre|
 |[archetype-20-epNrbgmjZDjJe7Ry.htm](feats/archetype-20-epNrbgmjZDjJe7Ry.htm)|Legendary Rider|Chevaucheur légendaire|libre|
+|[archetype-20-f4k5ripShCn5orZB.htm](feats/archetype-20-f4k5ripShCn5orZB.htm)|Grand Medic's Mask|Masque du grand médecin|libre|
+|[archetype-20-HxO0Sh3hNFMoSsTB.htm](feats/archetype-20-HxO0Sh3hNFMoSsTB.htm)|Emancipator's Mask|Masque de l'émancipateur|libre|
+|[archetype-20-nn7DiYYWinsSYrZy.htm](feats/archetype-20-nn7DiYYWinsSYrZy.htm)|Protective Spirit Mask|Masque de l'esprit protecteur|libre|
+|[archetype-20-SS8JSDB2P0SFX1KH.htm](feats/archetype-20-SS8JSDB2P0SFX1KH.htm)|Sky Master Mask|Masque du maître du ciel|libre|
+|[archetype-20-tFUo2tsdreWBxMfs.htm](feats/archetype-20-tFUo2tsdreWBxMfs.htm)|Stalking Feline Mask|Masque du félin suiveur|libre|
 |[archetype-20-WAWaew53zpTFVwQM.htm](feats/archetype-20-WAWaew53zpTFVwQM.htm)|Synergistic Spell|Sort synergique|libre|
 |[archetype-20-WVm2dxPOI4tK2wsJ.htm](feats/archetype-20-WVm2dxPOI4tK2wsJ.htm)|Impossible Volley (Eldritch Archer)|Volée invraisemblable (Archer mystique)|libre|
+|[archetype-20-XHOhAHv2HLdJQz2q.htm](feats/archetype-20-XHOhAHv2HLdJQz2q.htm)|Tireless Guide's Mask|Masque du guide infatigable|libre|
 |[bonus-00-1xpqOpguTUAeFsdO.htm](feats/bonus-00-1xpqOpguTUAeFsdO.htm)|Seek Injustice|Débusquer l'injustice|officielle|
 |[bonus-00-AGiIjgLOFuahmwiT.htm](feats/bonus-00-AGiIjgLOFuahmwiT.htm)|Shackles of Law|Chaînes de la Loi|officielle|
 |[bonus-00-AxjjAoU1IZaNUGGS.htm](feats/bonus-00-AxjjAoU1IZaNUGGS.htm)|Fear No Law, Fear No One|Peur d'aucune loi, ni de personne|officielle|
@@ -3191,12 +3191,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[class-20-ZfycfbXlPXZlSqw5.htm](feats/class-20-ZfycfbXlPXZlSqw5.htm)|Just The Facts|Juste les faits|libre|
 |[class-20-zOK6IFSz3DIBRjEw.htm](feats/class-20-zOK6IFSz3DIBRjEw.htm)|Craft Philosopher's Stone|Fabrication de la pierre philosophale|officielle|
 |[class-20-zy7lx4SWkfDxqH6m.htm](feats/class-20-zy7lx4SWkfDxqH6m.htm)|Supreme Spellstrike|Frappe de sort suprème|libre|
-|[dedication-04-NagTqSLK8bAlo2nY.htm](feats/dedication-04-NagTqSLK8bAlo2nY.htm)|Firebrand Braggart Dedication|Dévouement : Agitateur vantard|libre|
-|[dedication-06-1YFrl8I6ZGo7BIM9.htm](feats/dedication-06-1YFrl8I6ZGo7BIM9.htm)|Knight Vigilant Dedication|Dévouement : Chevalier vigilant|libre|
-|[dedication-06-7fU6e3HIT4NvwLYa.htm](feats/dedication-06-7fU6e3HIT4NvwLYa.htm)|Halcyon Speaker Dedication|Dévouement : Orateur paisible|libre|
-|[dedication-06-SHpVHkPxtQggD9Cf.htm](feats/dedication-06-SHpVHkPxtQggD9Cf.htm)|Swordmaster Dedication|Dévouement : Maître des épées|libre|
-|[dedication-06-uhfZtjbfJ8pZIWrF.htm](feats/dedication-06-uhfZtjbfJ8pZIWrF.htm)|Scrollmaster Dedication|Dévouement : Maître des parchemins|libre|
-|[dedication-06-vuApM8xHOZs4o6oS.htm](feats/dedication-06-vuApM8xHOZs4o6oS.htm)|Spellmaster Dedication|Dévouement : Maître des sorts|libre|
 |[general-01-2kwXTUjYYhoAGySr.htm](feats/general-01-2kwXTUjYYhoAGySr.htm)|Incredible Initiative|Initiative extraordinaire|officielle|
 |[general-01-aJUXbe9HJVvv0Mxa.htm](feats/general-01-aJUXbe9HJVvv0Mxa.htm)|Breath Control|Contrôle de la respiration|officielle|
 |[general-01-AmP0qu7c5dlBSath.htm](feats/general-01-AmP0qu7c5dlBSath.htm)|Toughness|Robustesse|officielle|
@@ -3207,7 +3201,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[general-01-ihN8gkHSdPG9Trte.htm](feats/general-01-ihN8gkHSdPG9Trte.htm)|Adopted Ancestry|Ascendance adoptive|officielle|
 |[general-01-jM72TjJ965jocBV8.htm](feats/general-01-jM72TjJ965jocBV8.htm)|Shield Block|Blocage au bouclier|officielle|
 |[general-01-N8Xz5fuW6o7GW124.htm](feats/general-01-N8Xz5fuW6o7GW124.htm)|Fast Recovery|Récupération rapide|officielle|
-|[general-01-Rq5wkA8DtsmbzoGV.htm](feats/general-01-Rq5wkA8DtsmbzoGV.htm)|Ride|Chevaucher|officielle|
+|[general-01-Rq5wkA8DtsmbzoGV.htm](feats/general-01-Rq5wkA8DtsmbzoGV.htm)|Ride|Chevaucher|libre|
 |[general-01-Ux73dmoF8KnavyUD.htm](feats/general-01-Ux73dmoF8KnavyUD.htm)|Fleet|Vélocité|officielle|
 |[general-01-x9wxQ61HNkAVbDHr.htm](feats/general-01-x9wxQ61HNkAVbDHr.htm)|Weapon Proficiency|Maîtrise d'arme|officielle|
 |[general-01-z1Z22gTp7J1VRLSR.htm](feats/general-01-z1Z22gTp7J1VRLSR.htm)|Different Worlds|Mondes différents|libre|

@@ -1,20 +1,11 @@
 # État de la traduction (ac-evolution-feats)
 
- * **libre**: 29
- * **aucune**: 3
+ * **libre**: 32
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[Ls6CaGfZZAlmY8F9.htm](ac-evolution-feats/Ls6CaGfZZAlmY8F9.htm)|Hulking Size|
-|[RBvfnbDcvNDqAMgP.htm](ac-evolution-feats/RBvfnbDcvNDqAMgP.htm)|Alacritous Action|
-|[X4XOW6G0Z22QniKa.htm](ac-evolution-feats/X4XOW6G0Z22QniKa.htm)|Pushing Attack|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -31,11 +22,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ezmJ2kq6N647wd13.htm](ac-evolution-feats/ezmJ2kq6N647wd13.htm)|Glider Form|Forme de planeur|libre|
 |[iYt3zEgqDnVhnHVf.htm](ac-evolution-feats/iYt3zEgqDnVhnHVf.htm)|Blood Frenzy|Frénésie de sang|libre|
 |[Ln8r5xj2kAs81uu1.htm](ac-evolution-feats/Ln8r5xj2kAs81uu1.htm)|Defend Summoner|Défendre le conjurateur|libre|
+|[Ls6CaGfZZAlmY8F9.htm](ac-evolution-feats/Ls6CaGfZZAlmY8F9.htm)|Hulking Size|Taille considérable|libre|
 |[m50Xh9RRYj2NxnX2.htm](ac-evolution-feats/m50Xh9RRYj2NxnX2.htm)|Phase Out|Déphasage|libre|
 |[mz0Y50ZaV7hysmmJ.htm](ac-evolution-feats/mz0Y50ZaV7hysmmJ.htm)|Constricting Hold|Prise de constriction|libre|
 |[OGTIinVaETSz7kdW.htm](ac-evolution-feats/OGTIinVaETSz7kdW.htm)|Eidolon's Wrath|Courroux de l'eidolon|libre|
 |[OqWpydcRNgVlmm2k.htm](ac-evolution-feats/OqWpydcRNgVlmm2k.htm)|Bloodletting Claws|Griffes hémorragiques|libre|
 |[prfy7faUtWFNeIXH.htm](ac-evolution-feats/prfy7faUtWFNeIXH.htm)|Dual Energy Heart|Cœur énergétique dual|libre|
+|[RBvfnbDcvNDqAMgP.htm](ac-evolution-feats/RBvfnbDcvNDqAMgP.htm)|Alacritous Action|Action empressée|libre|
 |[Rd1ESvt7UHwFUD6r.htm](ac-evolution-feats/Rd1ESvt7UHwFUD6r.htm)|Expanded Senses|Sens étendus|libre|
 |[rhWFwue5eYVr5Omr.htm](ac-evolution-feats/rhWFwue5eYVr5Omr.htm)|Shrink Down|Rétrécir|libre|
 |[Ryed1oD5pMqREk0j.htm](ac-evolution-feats/Ryed1oD5pMqREk0j.htm)|Amphibious Form|Forme amphibie|libre|
@@ -46,5 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VzVKCWACGqnKaVbv.htm](ac-evolution-feats/VzVKCWACGqnKaVbv.htm)|Trample|Piétiner|libre|
 |[wifAadJvu5dKvMVm.htm](ac-evolution-feats/wifAadJvu5dKvMVm.htm)|Spell-Repelling Form|Forme repousse-sort|libre|
 |[wOtKDptwbz9hU9ZR.htm](ac-evolution-feats/wOtKDptwbz9hU9ZR.htm)|Energy Resistance|Résistance à l'énergie|libre|
+|[X4XOW6G0Z22QniKa.htm](ac-evolution-feats/X4XOW6G0Z22QniKa.htm)|Pushing Attack|Attaque repoussante|libre|
 |[yCSsQaTFINIbr9Gh.htm](ac-evolution-feats/yCSsQaTFINIbr9Gh.htm)|Magical Master|Maître magique|libre|
 |[Zn7DZ9xfADjtOwst.htm](ac-evolution-feats/Zn7DZ9xfADjtOwst.htm)|Miniaturize|Miniaturiser|libre|

@@ -37,6 +37,11 @@
             "description": "<p>For 18, Dex 14, Con 16, Int 10, Sag 10, Cha 10 ; CA +2 (Dex max +3)</p>"
         },
         {
+            "id": "Badger Rage",
+            "name": "Badger Rage",
+            "description": "<p>Lorsqu'il entre en rage, le blaireau est affecté de la manière suivante.</p>\n<p>Il inflige 4 dégâts supplémentaires avec son attaque de morsure et 2 dégâts supplémentaires avec ses attaques de griffe.</p>\n<p>Il subit une pénalité de -1 à la CA.</p>\n<p>Il ne peut utiliser les actions qui ont le trait concentration à moins qu'ils aient aussi le trait rage. Le compagnon animal peut Chercher même lorsqu'il est en rage.</p>"
+        },
+        {
             "id": "Whirlwind Maul",
             "name": "Whirlwind Maul",
             "description": "<p>Votre eidolon s'élance dans toutes les directions. Il porte une Frappe à mains nues au corps à corps contre un maximum de quatre ennemis à portée. Il peut choisir des attaques à mains nues différentes pour chaque ennemi. Chaque attaque est prise en compte pour le calcul de votre pénalité d'attaques multiples, mais vous n'augmentez pas la pénalité jusqu'à ce que l'eidolon ait porté toutes ses attaques.</p>"
@@ -450,6 +455,11 @@
             "id": "Primary (1d8, disarm)",
             "name": "Primary (1d8, disarm)",
             "description": ""
+        },
+        {
+            "id": "Seething Frenzy",
+            "name": "Seething Frenzy",
+            "description": "<p>Votre eidolon peut s'enflammer jusqu'à la frénésie. Il obtient l'action @Compendium[pf2e-animal-companions.AC-Features.7K6UJ3D3owmOQS03]{Frénésie effrénée}.</p>"
         },
         {
             "id": "Breath Weapon (Fire)",

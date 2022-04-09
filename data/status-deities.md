@@ -1,10 +1,11 @@
 # État de la traduction (deities)
 
- * **changé**: 223
+ * **libre**: 11
+ * **changé**: 212
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-04 14:04 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,23 +29,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0nQItOlce5ua6Eaf.htm](deities/0nQItOlce5ua6Eaf.htm)|Sekhmet|Sekhmet|changé|
 |[0R2BjVb7d9tYCIbk.htm](deities/0R2BjVb7d9tYCIbk.htm)|Tlehar|Tlehar|changé|
-|[14GLsVobnZTEmJrs.htm](deities/14GLsVobnZTEmJrs.htm)|Kelizandri|Kélizandari|changé|
 |[1fmTXGRPa8fLXZKL.htm](deities/1fmTXGRPa8fLXZKL.htm)|Balumbdar|Balumbdar|changé|
-|[1nQVLOyWv5kC0bCU.htm](deities/1nQVLOyWv5kC0bCU.htm)|Ravithra|Ravithra|changé|
-|[1NxkZf6ndijKeufX.htm](deities/1NxkZf6ndijKeufX.htm)|Sairazul|Sairazul|changé|
-|[1xHnoMlCyCV70TnT.htm](deities/1xHnoMlCyCV70TnT.htm)|Saloc|Saloc|changé|
-|[22n3N47sqbqbDxbp.htm](deities/22n3N47sqbqbDxbp.htm)|Urgathoa|Urgathoa|changé|
-|[39z55kowQFOUH2v0.htm](deities/39z55kowQFOUH2v0.htm)|Droskar|Droskar|changé|
 |[3ffVxwgtvR1imHm8.htm](deities/3ffVxwgtvR1imHm8.htm)|Gendowyn|Gendowyn|changé|
-|[3INt1X4ijBYnZYbU.htm](deities/3INt1X4ijBYnZYbU.htm)|Shyka|Shyka|changé|
-|[3lgzcg84J0fsVqjh.htm](deities/3lgzcg84J0fsVqjh.htm)|Esoteric Order of the Palatine Eye|Ordre ésotérique de l'Œil palatin|changé|
-|[3nxIpMGeCvcBIVov.htm](deities/3nxIpMGeCvcBIVov.htm)|Nyarlathotep (The Crawling Chaos)|Nyarlathotep (Le chaos rampant)|changé|
 |[4bEPoujxhYdUyUOg.htm](deities/4bEPoujxhYdUyUOg.htm)|Ydersius|Ydersius|changé|
 |[4GO4iT585ynLJnc8.htm](deities/4GO4iT585ynLJnc8.htm)|Chaldira|Chaldira|changé|
 |[4I1aVKED08cwcC4H.htm](deities/4I1aVKED08cwcC4H.htm)|Laws of Mortality|Lois de la mortalité|changé|
-|[51kMMWaT6CqpGlGk.htm](deities/51kMMWaT6CqpGlGk.htm)|Achaekek|Achaekek|changé|
+|[51kMMWaT6CqpGlGk.htm](deities/51kMMWaT6CqpGlGk.htm)|Achaekek|Achaékek|changé|
 |[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis|changé|
 |[5ZIvg8CkqRMepVcX.htm](deities/5ZIvg8CkqRMepVcX.htm)|Korada|Korada|changé|
 |[65o189p2eUPbqaDK.htm](deities/65o189p2eUPbqaDK.htm)|Narriseminek|Narriseminek|changé|
@@ -54,7 +45,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7L9KIqixgseSCY3X.htm](deities/7L9KIqixgseSCY3X.htm)|Ymeri|Yméri|changé|
 |[83jKKHQPoqVylmrF.htm](deities/83jKKHQPoqVylmrF.htm)|Yaezhing|Yaezhing|changé|
 |[88vRw2ZVPax4hhga.htm](deities/88vRw2ZVPax4hhga.htm)|Gorum|Gorum|changé|
-|[8DXel4AvpyUy6oJ0.htm](deities/8DXel4AvpyUy6oJ0.htm)|Eritrice|Eritrice|changé|
+|[8DXel4AvpyUy6oJ0.htm](deities/8DXel4AvpyUy6oJ0.htm)|Eritrice|Éritrice|changé|
 |[8Oy4qHylOOp79JxD.htm](deities/8Oy4qHylOOp79JxD.htm)|Nhimbaloth|Nhimbaloth|changé|
 |[8roijlQ03l9rWFFe.htm](deities/8roijlQ03l9rWFFe.htm)|Zevgavizeb|Zevgavizeb|changé|
 |[8wOAwLMgB1HFLo9n.htm](deities/8wOAwLMgB1HFLo9n.htm)|Winlas|Winlas|changé|
@@ -64,7 +55,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9eltBjLngkR9x1Xm.htm](deities/9eltBjLngkR9x1Xm.htm)|Trelmarixian|Trelmarixian|changé|
 |[9FWBJcADLEeP8Krf.htm](deities/9FWBJcADLEeP8Krf.htm)|Valmallos|Valmallos|changé|
 |[9n2CI0B3EA4y3BuU.htm](deities/9n2CI0B3EA4y3BuU.htm)|Alseta|Alséta|changé|
-|[9WD0hbUT0IbnuTiM.htm](deities/9WD0hbUT0IbnuTiM.htm)|Baalzebul|Belzébuth|changé|
+|[9WD0hbUT0IbnuTiM.htm](deities/9WD0hbUT0IbnuTiM.htm)|Baalzebul|Baalzébul|changé|
 |[A37XqON6QRPzQhp7.htm](deities/A37XqON6QRPzQhp7.htm)|Hshurha|Hshurha|changé|
 |[aChBtIDfA59QQ7SN.htm](deities/aChBtIDfA59QQ7SN.htm)|Ayrzul|Ayrzul|changé|
 |[Af4TSJjutVi9Vdwi.htm](deities/Af4TSJjutVi9Vdwi.htm)|Mahathallah|Mahathallah|changé|
@@ -76,7 +67,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aLCfEgt48SRUHnMC.htm](deities/aLCfEgt48SRUHnMC.htm)|Jaidi|Jaidi|changé|
 |[AlL9GtlTldbqNoVm.htm](deities/AlL9GtlTldbqNoVm.htm)|Calistria|Calistria|changé|
 |[AMFkYKUNQ3kCD0ob.htm](deities/AMFkYKUNQ3kCD0ob.htm)|Doloras|Doloras|changé|
-|[ArmPZQrl0SFAKvrY.htm](deities/ArmPZQrl0SFAKvrY.htm)|Ma'at|Ma'at|changé|
+|[ArmPZQrl0SFAKvrY.htm](deities/ArmPZQrl0SFAKvrY.htm)|Ma'at|Maât|changé|
 |[aTYy1WHwAZiuei4h.htm](deities/aTYy1WHwAZiuei4h.htm)|Tsukiyo|Tsukiyo|changé|
 |[aVyxfqY9GBjTqQul.htm](deities/aVyxfqY9GBjTqQul.htm)|Eiseth|Eiseth|changé|
 |[bF77ydtptI54STl9.htm](deities/bF77ydtptI54STl9.htm)|Jaidz|Jaidz|changé|
@@ -99,11 +90,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dm8qlzpUj7g82QFv.htm](deities/Dm8qlzpUj7g82QFv.htm)|Erecura|Érécura|changé|
 |[E1dUhoSEf2XfklU2.htm](deities/E1dUhoSEf2XfklU2.htm)|Mother Vulture|Mère Vautour|changé|
 |[EE8sNM4JraOPN669.htm](deities/EE8sNM4JraOPN669.htm)|Cernunnos|Cernunnos|changé|
-|[eErEiVmBqltYXFJ6.htm](deities/eErEiVmBqltYXFJ6.htm)|Iomedae|Iomedae|changé|
+|[eErEiVmBqltYXFJ6.htm](deities/eErEiVmBqltYXFJ6.htm)|Iomedae|Iomédae|changé|
 |[EFyDjlH7XjGq7Erd.htm](deities/EFyDjlH7XjGq7Erd.htm)|Isis|Isis|changé|
 |[ENzMYuzBZGIujSMx.htm](deities/ENzMYuzBZGIujSMx.htm)|Treerazer|Fléau des arbres|changé|
 |[EUOAV02rHz96jMPh.htm](deities/EUOAV02rHz96jMPh.htm)|Whispering Way|Voie du murmure|changé|
-|[eyGEoggFlTEUQmvJ.htm](deities/eyGEoggFlTEUQmvJ.htm)|Bes|Bes|changé|
+|[eyGEoggFlTEUQmvJ.htm](deities/eyGEoggFlTEUQmvJ.htm)|Bes|Bès|changé|
 |[fTJLgTfEMZreJ19r.htm](deities/fTJLgTfEMZreJ19r.htm)|Milani|Milani|changé|
 |[fTs56epghXwclPcX.htm](deities/fTs56epghXwclPcX.htm)|Stag Mother of the Forest of Stones|Mère cerf de la forêt de pierres|changé|
 |[fuPTR1laXO6EionS.htm](deities/fuPTR1laXO6EionS.htm)|Grandmother Spider|Grand-mère araignée|changé|
@@ -139,14 +130,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[JndhOIHnQoMwnsw3.htm](deities/JndhOIHnQoMwnsw3.htm)|The Godclaw|Le dieu griffu|changé|
 |[jrPmEfubRDzMKbxl.htm](deities/jrPmEfubRDzMKbxl.htm)|Arundhat|Arundhat|changé|
 |[K1tzUClsozKcdpIe.htm](deities/K1tzUClsozKcdpIe.htm)|Halcamora|Halcamora|changé|
-|[KDFujU3Yug6AwCOz.htm](deities/KDFujU3Yug6AwCOz.htm)|Arshea|Arshea|changé|
+|[KDFujU3Yug6AwCOz.htm](deities/KDFujU3Yug6AwCOz.htm)|Arshea|Arshéa|changé|
 |[KIEgpcmHYtFu1dpg.htm](deities/KIEgpcmHYtFu1dpg.htm)|Imot|Imot|changé|
 |[kiTcZxmKxGPCwDpg.htm](deities/kiTcZxmKxGPCwDpg.htm)|Kalekot|Kalekot|changé|
 |[KT7HKL7vbZEwbzX4.htm](deities/KT7HKL7vbZEwbzX4.htm)|Green Faith|Foi verte|changé|
 |[KWVdoAm3b01M8Lcp.htm](deities/KWVdoAm3b01M8Lcp.htm)|Mephistopheles|Méphistophélès|changé|
 |[liXIbl7y8www2eAn.htm](deities/liXIbl7y8www2eAn.htm)|Findeladlara|Findeladlara|changé|
-|[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|changé|
-|[lSciGZGcbU9PJxQy.htm](deities/lSciGZGcbU9PJxQy.htm)|Irez|Irez|changé|
+|[lSciGZGcbU9PJxQy.htm](deities/lSciGZGcbU9PJxQy.htm)|Irez|Irèz|changé|
 |[lUFMwdv1UOyzFhIM.htm](deities/lUFMwdv1UOyzFhIM.htm)|Likha|Likha|changé|
 |[lZ74P8kUA1ti808w.htm](deities/lZ74P8kUA1ti808w.htm)|Prophecies of Kalistrade|Prohéties de Kalistrade|changé|
 |[M3eb94Nd6uXti2IK.htm](deities/M3eb94Nd6uXti2IK.htm)|Daikitsu|Daikitsu|changé|
@@ -180,7 +170,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[R0DvoLO8WbYIYhb3.htm](deities/R0DvoLO8WbYIYhb3.htm)|Atreia|Atréia|changé|
 |[r5vooG7NfvA9prJK.htm](deities/r5vooG7NfvA9prJK.htm)|Kurgess|Kurgess|changé|
 |[r6SFB1PzKsagDXff.htm](deities/r6SFB1PzKsagDXff.htm)|Lady Nanbyo|Dame Nanbyo|changé|
-|[ra7mnjAZcEuJxI37.htm](deities/ra7mnjAZcEuJxI37.htm)|Shei|Shei|changé|
+|[ra7mnjAZcEuJxI37.htm](deities/ra7mnjAZcEuJxI37.htm)|Shei|Sheï|changé|
 |[RbslST0RZPXj6Eby.htm](deities/RbslST0RZPXj6Eby.htm)|Ashukharma|Ashukharma|changé|
 |[rDTXcBJ8LyqA2TkL.htm](deities/rDTXcBJ8LyqA2TkL.htm)|Szuriel|Szuriel|changé|
 |[remyY1BwhEVmBwya.htm](deities/remyY1BwhEVmBwya.htm)|Belial|Bélial|changé|
@@ -224,14 +214,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VvxEvEKhCGRwrMJp.htm](deities/VvxEvEKhCGRwrMJp.htm)|Imbrex|Imbrex|changé|
 |[Vzxm5FyIA40b2OSP.htm](deities/Vzxm5FyIA40b2OSP.htm)|Pulura|Pulura|changé|
 |[w4fDrwL8VIqJDPfR.htm](deities/w4fDrwL8VIqJDPfR.htm)|Uvuko|Uvuko|changé|
-|[W4QGkdn9V5ACRpkh.htm](deities/W4QGkdn9V5ACRpkh.htm)|Monad|Monade|changé|
+|[W4QGkdn9V5ACRpkh.htm](deities/W4QGkdn9V5ACRpkh.htm)|Monad|La Monade|changé|
 |[w66gCNiZ7dslqG8K.htm](deities/w66gCNiZ7dslqG8K.htm)|Lissala|Lissala|changé|
 |[WfqLY2Fm1LGCcG5X.htm](deities/WfqLY2Fm1LGCcG5X.htm)|Sangpotshi|Sangpotshi|changé|
 |[wjXNXFWBLbJaeZQR.htm](deities/wjXNXFWBLbJaeZQR.htm)|Ketephys|Kétéphys|changé|
 |[wkDOeK7ENz1ra8IC.htm](deities/wkDOeK7ENz1ra8IC.htm)|Besmara|Besmara|changé|
-|[WloVxo6HXJdS4YTt.htm](deities/WloVxo6HXJdS4YTt.htm)|Groetus|Groetus|changé|
+|[WloVxo6HXJdS4YTt.htm](deities/WloVxo6HXJdS4YTt.htm)|Groetus|Groétus|changé|
 |[WO9UsCY41oTtC2G0.htm](deities/WO9UsCY41oTtC2G0.htm)|Pillars of Knowledge|Piliers de la connaissance|changé|
-|[woDEgBs1MznhzpJ4.htm](deities/woDEgBs1MznhzpJ4.htm)|Ra|Ra|changé|
+|[woDEgBs1MznhzpJ4.htm](deities/woDEgBs1MznhzpJ4.htm)|Ra|Râ|changé|
 |[WOiSJ4IWjaRsSgRO.htm](deities/WOiSJ4IWjaRsSgRO.htm)|Geryon|Géryon|changé|
 |[WvoMr86bSSYxXKtI.htm](deities/WvoMr86bSSYxXKtI.htm)|Hastur|Hastur|changé|
 |[Xb1N5YfxboJH26Jh.htm](deities/Xb1N5YfxboJH26Jh.htm)|Angradd|Angradd|changé|
@@ -240,7 +230,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xu05XGotyT5st56H.htm](deities/xu05XGotyT5st56H.htm)|Lady Jingxi|Dame Jingxi|changé|
 |[xxUGdZYUj5IW7E0L.htm](deities/xxUGdZYUj5IW7E0L.htm)|Followers of Fate|Fidèles du destin|changé|
 |[XYJupIPx0GW4s7eu.htm](deities/XYJupIPx0GW4s7eu.htm)|Ragadahn|Ragadahn|changé|
-|[y93whGnGZjFyw5A0.htm](deities/y93whGnGZjFyw5A0.htm)|Vildeis|Vildéis|changé|
+|[y93whGnGZjFyw5A0.htm](deities/y93whGnGZjFyw5A0.htm)|Vildeis|Vildéïs|changé|
 |[yiKle2URZ43KYVKQ.htm](deities/yiKle2URZ43KYVKQ.htm)|Chamidu|Chamidu|changé|
 |[YXmeBdOZfWgUljW1.htm](deities/YXmeBdOZfWgUljW1.htm)|Ylimancha|Ylimancha|changé|
 |[ZfN7jkK6boU1FuiS.htm](deities/ZfN7jkK6boU1FuiS.htm)|Zon-Kuthon|Zon-Kuthon|changé|
@@ -256,3 +246,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[0nQItOlce5ua6Eaf.htm](deities/0nQItOlce5ua6Eaf.htm)|Sekhmet|Sekhmet|libre|
+|[14GLsVobnZTEmJrs.htm](deities/14GLsVobnZTEmJrs.htm)|Kelizandri|Kélizandre|libre|
+|[1nQVLOyWv5kC0bCU.htm](deities/1nQVLOyWv5kC0bCU.htm)|Ravithra|Ravithra|libre|
+|[1NxkZf6ndijKeufX.htm](deities/1NxkZf6ndijKeufX.htm)|Sairazul|Saïrazul|libre|
+|[1xHnoMlCyCV70TnT.htm](deities/1xHnoMlCyCV70TnT.htm)|Saloc|Saloc|libre|
+|[22n3N47sqbqbDxbp.htm](deities/22n3N47sqbqbDxbp.htm)|Urgathoa|Urgathoa|libre|
+|[39z55kowQFOUH2v0.htm](deities/39z55kowQFOUH2v0.htm)|Droskar|Droskar|libre|
+|[3INt1X4ijBYnZYbU.htm](deities/3INt1X4ijBYnZYbU.htm)|Shyka|Shyka|libre|
+|[3lgzcg84J0fsVqjh.htm](deities/3lgzcg84J0fsVqjh.htm)|Esoteric Order of the Palatine Eye|Ordre ésotérique de l'Œil palatin|libre|
+|[3nxIpMGeCvcBIVov.htm](deities/3nxIpMGeCvcBIVov.htm)|Nyarlathotep (The Crawling Chaos)|Nyarlathotep (Le chaos rampant)|libre|
+|[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|

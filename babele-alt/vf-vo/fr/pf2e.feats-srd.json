@@ -569,22 +569,6 @@
             ]
         },
         {
-            "id": "Knight Vigilant Dedication",
-            "name": "Dévouement : Chevalier vigilant (Knight Vigilant Dedication)",
-            "description": "<p>Vous êtes dévoué à la cause des Sentinelles étincelantes. Vous devenez expert dans la compétence Religion. Lorsque vous êtes placé entre un allié et un ennemi et que vous pourriez procurer un abri partiel à votre allié contre les attaques de cet adversaire, vous vous contorsionnez de manière à devenir encore plus gênant, lui procurant un abri normal à la place.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype Chevalier Vigilant.</p>",
-            "prereq": [
-                {
-                    "value": "qualifié en Religion"
-                },
-                {
-                    "value": "n'importe que alignement Bon"
-                },
-                {
-                    "value": "membre des Chevaliers de Dernier Rempart au rang de Chevalier"
-                }
-            ]
-        },
-        {
             "id": "Ratfolk Growth",
             "name": "Croissance Homme-rat (Ratfolk Growth)",
             "description": "<p>Vous faites appel aux liens familiaux que vous partagez avec les autres ysokis pour les défendre au combat.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</em> comme un sort inné primordial de niveau 6 une fois par jour. Vous ne pouvez cibler que vous et les autres hommes-rats avec ce sort.</p>"
@@ -892,6 +876,16 @@
             "id": "Buckler Expertise",
             "name": "Expertise de la targe (Buckler Expertise)",
             "description": "<p>Vous avez appris une façon flexible pour positionner votre targe pour vous fournir davantage de protection. Lorsque vous @Compendium[pf2e.actionspf2e.xjGwis0uaC2305pm]{Levez un bouclier} pour gagner un bonus de circonstances à la CA d'une @Compendium[pf2e.equipment-srd.1k3AsSW7lpU0kEpY]{Targe}, augmentez le bonus de +1 à +2.</p>"
+        },
+        {
+            "id": "Mammoth Lord Dedication",
+            "name": "Dévouement de Seigneur de mammouth (Mammoth Lord Dedication)",
+            "description": "<p>Vous avez relevé l'ultime défi des Seigneurs des mammouths et apprivoisé un mégafaune. Vous gagnez un mégafaune que vous avez apprivoisé comme jeune compagnon animal. Votre compagnon animal mégafaune doit être un mégafaune approprié au royaume des seigneurs des mammouths. Alors qu'un compagnon animal commence généralement en étant Petit, vous pouvez commencer avec une version Moyenne de cet animal (en ne changeant aucune statistique autre que sa taille).</p>\n<p>Contrairement aux règles habituelles pour les compagnons animaux, ce don peut vous donner un second compagnon animal. Si vous avez plus d'un compagnon animal, vous ne pouvez partir à l'aventure qu'avec un seul d'entre eux à la fois. Vous pouvez passer de l'un à l'autre comme le fait un Maître des bêtes. Vous gagnez l'action @Compendium[pf2e.actionspf2e.8kGpUUUSX1sB2OqQ]{Appeler un compagnon}, comme avec l'archétype Maître des bêtes et vous suivez toutes les autres règles applicables au don Appeler un compagnon (voir le @Compendium[pf2e.feats-srd.wdmUH6hdat7jpEWt]{Dévouement du maître des bêtes} pour les détails sur cette action et les règles applicables à plusieurs compagnons).</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement jusqu'à ce que vous ayiez obtenu deux autres dons de cet archétype.</p>",
+            "prereq": [
+                {
+                    "value": "Chevaucher"
+                }
+            ]
         },
         {
             "id": "Order Training",
@@ -2907,6 +2901,16 @@
             ]
         },
         {
+            "id": "Incredible Megafauna Companion",
+            "name": "Formidable compagnon mégafaune (Incredible Megafauna Companion)",
+            "description": "<p>Sous vos bons soins et grâce à votre entraînement, votre compagnon mégafaune a réalisé son potentiel inné. Votre compagnon devient un compagnon animal indomptable ou sauvage (à votre choix) gagnant des capacités supplémentaires déterminées par le type de compagnon.</p>",
+            "prereq": [
+                {
+                    "value": "Compagnon mégafaune adulte"
+                }
+            ]
+        },
+        {
             "id": "Quickened Attunement",
             "name": "Harmonisation accélérée (Quickened Attunement)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Conditions</strong> Votre action précédente était Changement d'harmonisation.</p>\n<hr />\n<p>Si votre prochaine action est de lancer un sort qui devrait accorder votre bonus d'harmonisation de terrain, réduisez le nombre d'actions pour le lancer de 1 (jusqu'à un minimum d'1 action).</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas utiliser l'harmonisation accélérée et @Compendium[pf2e.feats-srd.z2ptq23nNBOeEI7H]{Incantation accélérée} durant le même round.</p>",
@@ -2946,6 +2950,16 @@
             "id": "Flexible Tail",
             "name": "Queue souple (Flexible Tail)",
             "description": "<p>Vous pouvez accomplir les actions de simples Interactions avec votre queue, tel qu'ouvrir une porte déverrouillée.</p>\n<p>Votre queue ne peut accomplir d'actions qui nécessitent des doigts ou une dextérité manuelle significative, incluant toute action qui devrait nécessiter un test pour l'accomplir et vous ne pouvez l'utiliser pour tenir des objets.</p>"
+        },
+        {
+            "id": "Stalwart Mind",
+            "name": "Esprit robuste (Stalwart Mind)",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un échec à un jet de Volonté</p>\n<hr />\n<p>Lorsque cela est nécessaire pour éviter une compulsion ou une malédiction magique, vous pouvez être aussi têtu que votre compagnon mégafaune. Tentez un nouveau jet de Volonté contre l'effet déclencheur.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                }
+            ]
         },
         {
             "id": "Overcrowd",
@@ -3032,19 +3046,6 @@
             "id": "Cat's Luck",
             "name": "Chance féline (Cat's Luck)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous manquez un jet de réflexes.</p>\n<hr />\n<p>Vous évitez de manière instinctive le danger. Vous pouvez relancer le jet déclencheur et utiliser le meilleur résultat.</p>"
-        },
-        {
-            "id": "Firebrand Braggart Dedication",
-            "name": "Dévouement : Agitateur vantard (Firebrand Braggart Dedication)",
-            "description": "<p>Votre entraînement d'Agitateur vous a enseigné que terminer quelque chose est plus satisfaisant si vous vous en êtes vanté d'abord. Vous lancez une vantardise à propos d'une action de compétence particulière, comme Garder l'équilibre, Démoraliser ou Vous souvenir. La première fois que vous essayez cette action au cours de la prochaine minute dans un contexte que le MJ estime être un défi acceptable et significatif, vous devez lancer deux fois les dés et utiliser le plus faible résultat. Si c'est un Succès, vous obtenez un bonus de circonstances de +1 aux tests pour tenter la même action pendant les 10 minutes suivantes. Si vous obtenez un échec ou ne tentez pas l'action au cours de la minute qui suit, vous subissez une pénalité de circonstances de –1 sur les tests pour tenter la même action pendant 1 heure.</p>\n<p>Si l'action choisie peut être utilisée avec de multiples compétences, comme Identifier la magie ou Se souvenir, vous devez spécifier quelle compétence vous allez utiliser pour cette action particulière, comme utiliser Arcanes pour Identifier la magie et votre bonus ou pénalité après la vantardise ne s'applique qu'aux tests qui utilisent cette compétence pour cette action. Une fois que vous avez lancé une vantardise au sujet d'une action particulière, vous ne pouvez plus vous vanter pour accomplir cette même action jusqu'à vos prochains préparatifs quotidiens, que vous obteniez un Succès ou un Échec.</p>\n<p>Typiquement une tâche qui constitue un défi est une tâche ayant au moins un DD standard pour votre niveau, bien que la difficulté puisse être supérieure en fonction de la situation. Un contexte significatif est un de ceux pour lesquels le succès ou l'échec de l'action est en relation avec la poursuite de vos objectifs, plutôt qu'une vantardise que vous feriez siplement pour obtenir ultérieurement un bonus.</p>\n<p><strong>Spécial</strong> Vous ne pouvez sélectionner un autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype d'Agitateur vantard.</p>",
-            "prereq": [
-                {
-                    "value": "Charisme 14"
-                },
-                {
-                    "value": "membre de second rang des Agitateurs vantards"
-                }
-            ]
         },
         {
             "id": "Soaring Dynamo",
@@ -6746,6 +6747,16 @@
             ]
         },
         {
+            "id": "Speech of the Mammoth Lords",
+            "name": "Discours des Seigneurs des mammouths (Speech of the Mammoth Lords)",
+            "description": "<p>Vous avez appris la langue ancienne parlée par les créatures du grand nord. Vous pouvez poser des questions, recevoir des réponses, utiliser la compétence Diplomatie et @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Contraindre} la mégafaune. Dans la plupart des cas, la mégafaune des royaumes des seigneurs des mammouths vous écoutera.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                }
+            ]
+        },
+        {
             "id": "Draw From the Land",
             "name": "Tiré de la terre (Draw From the Land)",
             "description": "<p><strong>Conditions</strong> Vous avez obtenu un avantage d'harmonisation du terrain durant ce tour et il correspond au terrain sur lequel vous êtes.</p>\n<hr />\n<p>Vous tirez votre force du terrain environnant. Vous obtenez des Points de vie temporaires égaux à votre niveau. Ils durent pendant 1 round. Si vous avez précédemment obtenu l'effet d'harmonisation des plaines au cours de ce tour, vous combinez les Points de vie temporaires ensemble.</p>",
@@ -8917,6 +8928,16 @@
             "id": "Ruby Resurrection",
             "name": "Résurrection rubis (Ruby Resurrection)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous devriez être réduit à 0 points de vie.</p>\n<hr />\n<p>Dans un jet de flammes, vous revenez en pleine santé, comme un phénix renaissant de ses cendres. Changez votre nombre de point de vie actuel à 30 et lancez une boule de feu au niveau 6 centrée sur vous. Cette boule de feu ne vous affecte pas. Vos cheveux deviennent rouge brillant pendant 1 heure.</p>\n<p>Si vous n'avez pas utilisé Résurrection rubis et que vous mourrez, vous restez dans l'ordre d'initiative et Résurrection rubis se déclenche automatiquement au début de votre prochain tour, vous ramenant à la vie à 0 points de vie avant de produire ses effets normaux. Cela ne se produit que si vous avez des restes à ressusciter ; par exemple, si vous avez été tué par une désintégration, vous ne revenez pas à la vie.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition des sorts que vous lancez.</p>"
+        },
+        {
+            "id": "Thick Hide Mask",
+            "name": "Masque de peau épaisse (Thick Hide Mask)",
+            "description": "<p>Votre masque vous confère la robustesse d'Eléphant, le Chroniqueur invoqué. Augmentez votre nombre maximum de points de vie de 20. Immédiatement après avoir lancé un sort qui n'est pas un tour de magie qui ne cible que vous, vous gagnez une résistance de 10 contre tous les dégâts physiques jusqu'au début de votre prochain tour.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
         },
         {
             "id": "Herbalist Dedication",
@@ -11759,6 +11780,16 @@
             ]
         },
         {
+            "id": "Stalking Feline Mask",
+            "name": "Masque du félin suiveur (Stalking Feline Mask)",
+            "description": "<p>Comme Léopard d'azur, le Gardien patient, votre masque vous permet de vous sentir chez vous pendant la nuit et vous enseigne comment utiliser l'obscurité pour chasser. Vous obtenez vision dans le noir supérieure. Immédiatement après avoir Lancé un sort qui n'est pas un tour de magie avec le trait ombre ou ténèbres, vous pouvez tenter de @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Vous cacher} ou @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{d'Être furtif} par une action gratuite. Vous devez toujours remplir les conditions habituelles de l'action que vous choisissez, tel que de bénéficier d'un abri ou d'un camouflage pour Vous cacher et être Non détecté ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} pour pouvoir être furtif.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
+        },
+        {
             "id": "Cognitive Loophole",
             "name": "Échappatoire cognitive (Cognitive Loophole)",
             "description": "<p><strong>Trigger</strong> Votre tour se termine.</p>\n<p><strong>Conditions</strong> Vous êtes actuellement sous un effet mental causé par un échec (mais pas un échec critique) à un jet de sauvegarde.</p>\n<hr />\n<p>Vous pouvez trouver une issue à l’effet mental afin d’y échapper temporairement. Jusqu’à la fin de votre prochain tour, vous ignorez un effet mental qui répond aux conditions de ce pouvoir. Vous ne pouvez échapper à un effet donné grâce à l’Échappatoire cognitive qu’une seule fois</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez utiliser cette réaction même si l’effet mental vous empêche d’utiliser des réactions.</p>"
@@ -13420,6 +13451,16 @@
             "id": "Weapon Supremacy",
             "name": "Suprématie martiale (Weapon Supremacy)",
             "description": "<p>Votre expertise des armes vous permet d’attaquer tout le temps avec rapidité. Vous êtes accéléré en permanence. Vous pouvez utiliser votre action supplémentaire uniquement pour Frapper.</p>"
+        },
+        {
+            "id": "Emancipator's Mask",
+            "name": "Masque de l'émancipateur (Emancipator's Mask)",
+            "description": "<p>Votre masque vous confère les capacités de Cerf-volant siffleur, le Devin vigilant, qui a émancipé des milliers de personnes. Lorsque vous tentez un test pour libérer quelqu'un d'autre d'un effet qui l'immobilise, le paralyse ou le contrôle, lancez deux fois le dé et prenez le résultat le plus élevé ; c'est un effet de fortune. Le MJ peut décider que cet effet de fortune s'applique lorsque vous tentez des tests pour supprimer d'autres conditions ou effets afin de libérer une autre personne. Immédiatement après que vous ayez lancé un sort qui n'est pas un tour de magie et qui ne cible qu'une seule créature, vous pouvez choisir de permettre à la cible de faire une tentative pour @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{s'Échapper}.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
         },
         {
             "id": "Criminal Connections",
@@ -16127,22 +16168,6 @@
             "description": "<p>Vous suivez l’adversaire pendant qu’il s’éloigne.</p>\n<p>Vous Marchez rapidement d’une distance maximum égale à votre Vitesse en suivant l’adversaire et en le gardant à portée tout au long de son déplacement et jusqu’à ce qu’il s’arrête ou que vous vous soyez déplacé de toute votre Vitesse. Vous pouvez utiliser Pas d’échappatoire pour Creuser, Escalader, Voler ou Nager au lieu de Marcher rapidement si vous possédez le type de déplacement correspondant.</p>"
         },
         {
-            "id": "Spellmaster Dedication",
-            "name": "Dévouement : Maître des sorts (Spellmaster Dedication)",
-            "description": "<p>En tant que Maître des sorts, vous êtes adepte de l'identification de la magie. Vous obtenez un bonus de circonstances de +2 lorsque vous @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identifiez la Magie} avec une compétence dans laquelle vous êtes au moins qualifié. Si vous possédez le don @Compendium[pf2e.feats-srd.UyMQ1X8KLSZvm7AT]{Bricoleur de résonance de guide}, vous pouvez changer le tour de magie que vous choisissez pour ce don chaque jour au cours de vos préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir d'autre don de dévouement avant d'avoir choisi deux autres dons de l'archétype Maître des sorts.</p>",
-            "prereq": [
-                {
-                    "value": "Intelligence, Sagesse ou Charisme 14"
-                },
-                {
-                    "value": "capacité à lancer des sorts de focalisation"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affilié à l'École des sorts"
-                }
-            ]
-        },
-        {
             "id": "That Was a Close One, Huh?",
             "name": "C'était juste ! (That Was a Close One, Huh?)",
             "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Conditions</strong> Soit vous utilisez Tir accidentel et touchez votre adversaire avecla Frappe ce tour soit vous avez utilisé Évasion chanceuse depuis votre dernier tour et l'attaque déclencheuse vous a manqué.</p>\n<hr />\n<p>Vous riez innocemment de la chance inexplicable de votre dernier tir qui a touché sa cible ou à l'attaque qui a manqué de justesse de vous couper la tête, amenant vos adversaires à se demander si c'est une bonne idée de vous opposez durant la bataille. Tentez de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} soit l'adversaire que vous avez touché avec Tir accidentel ou l'adversaire qui vous a manqué lié à Évasion chanceuse. Vous utilisez Duperie au lieu d'Intimidation pour tenter un test de Démoralisation.</p>",
@@ -16228,6 +16253,16 @@
                 },
                 {
                     "value": "capacité à lancer Lumières dansantes"
+                }
+            ]
+        },
+        {
+            "id": "Tireless Guide's Mask",
+            "name": "Masque du guide infatigable (Tireless Guide's Mask)",
+            "description": "<p>Votre masque héberge l'héritage de Serpent d'or, le Guide infatigable, vous permettant de guider les autres avec aisance. Vos alliés peuvent utiliser Suivre l'expert pour vous suivre pour n'importe laquelle de vos compétences qualifiée, en plus des compétences pour lesquelles vous êtes au moins expert. Lorsqu'ils vous suivent et que vous utilisez une compétence qualifiée, leur bonus de circonstances est de +1. Immédiatement après que vous avez lancé un sort qui n'est pas un tour de magie et qui ne cible qu'un unique allié, cet allié peut Marcher rapidement par une action gratuite.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
                 }
             ]
         },
@@ -16510,6 +16545,16 @@
             "prereq": [
                 {
                     "value": "expert en Athlétisme"
+                }
+            ]
+        },
+        {
+            "id": "Mature Megafauna Companion",
+            "name": "Compagnon mégafaune adulte (Mature Megafauna Companion)",
+            "description": "<p>Vous avez élevé votre compagnon mégafaune pour en faire une force plus puissante sur le champ de bataille que la plupart de ses congénères. Le compagnon que vous avez obtenu grâce au Dévouement du seigneur des mammouths devient un compagnon animal adulte, ce qui lui confère des capacités supplémentaires. Pendant une rencontre, même si vous n'utilisez pas l'action @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal}, votre compagnon animal mégafaune peut toujours utiliser 1 action à votre tour pour Marcher rapidement ou Frapper.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des Mammouths"
                 }
             ]
         },
@@ -19154,7 +19199,7 @@
         {
             "id": "Ride",
             "name": "Chevaucher (Ride)",
-            "description": "<p>Quand vous Dirigez un animal sur lequel vous êtes monté pour effectuer une action de déplacement (comme Marcher rapidement), vous réussissez automatiquement au lieu de devoir tenter un test. Tout animal sur lequel vous êtes monté agit à votre tour, comme un sbire. Si vous Montez un animal au milieu d’une rencontre, il passe son prochain tour et agit ensuite à votre prochain tour.</p>"
+            "description": "<p>Lorsque vous Dirigez un animal sur lequel vous êtes monté pour effectuer une action de déplacement (comme Marcher rapidement), vous obtenez automatiquement un succès au lieu de devoir tenter un test. Tout animal sur lequel vous êtes monté agit à votre tour, comme un sbire. Si vous vous @Compendium[pf2e.actionspf2e.PM5jvValFkbFH3TV]{Mettez en selle} sur un animal au milieu d’une rencontre, il passe son prochain tour et agit ensuite à votre prochain tour.</p>"
         },
         {
             "id": "Aura of Courage",
@@ -20314,6 +20359,16 @@
             ]
         },
         {
+            "id": "Sky Master Mask",
+            "name": "Masque du maître du ciel (Sky Master Mask)",
+            "description": "<p>Votre masque porte l'héritage de Héron Noir, les Ailes du Savoir, qui a uni les aéromanciens de l'Empire rivain. Vous pouvez exploiter le la magie résiduelle pour voler. Vous gagnez une vitesse de vol égale à votre vitesse. Immédiatement après avoir lancé un sort qui n'est pas un tour de magie et qui vous cible seul, votre vitesse de vol double jusqu'à votre prochain tour.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
+        },
+        {
             "id": "Grippli Weapon Familiarity",
             "name": "Familiarité avec les armes des gripplis (Grippli Weapon Familiarity)",
             "description": "<p>Vous vous êtes entrainés avec des armes idéales en zone de marais et de forêts denses. Vous êtes qualifié avec l'@Compendium[pf2e.equipment-srd.hIgqLgH3YcLZBeoT]{Arc court}, l'@Compendium[pf2e.equipment-srd.e4NwsnPnpQKbDZ9F]{Arc court composite}, la @Compendium[pf2e.equipment-srd.H74vYwHJ8XT4qOPI]{Faux}, la @Compendium[pf2e.equipment-srd.LGgvev6AV0So8tP9]{Hachette} et la @Compendium[pf2e.equipment-srd.FPwsiGqMCNPLHmjX]{Sarbacane}.</p>\n<p>Vous obtenez aussi l'accès à toutes les armes gripplis peu courantes. Pour les besoins de déterminer votre maîtrise, les armes de guerre grippli sont des armes simples et les armes gripplis avancées sont des armes de guerre.</p>"
@@ -21086,19 +21141,6 @@
             "prereq": [
                 {
                     "value": "Préparation de sort flexible"
-                }
-            ]
-        },
-        {
-            "id": "Swordmaster Dedication",
-            "name": "Dévouement : Maître des épées (Swordmaster Dedication)",
-            "description": "<p>Votre entrainement aux Épées vous ont appris à ne jamais relâcher votre prise sur votre arme. Vous obtenez un bonus de circonstances de +2 à votre DD de Réflexes lorsque des adversaires essaient de vous @Compendium[pf2e.actionspf2e.Dt6B1slsBy8ipJu9]{Désarmer}. Si vous avez le don @Compendium[pf2e.feats-srd.8pmd9gMl3TamFx3u]{Coopération adroite} et obtenez un succès critique au test pour @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} un allié sur un jet d'attaque ou un test de compétence, vous obtenez un bonus de circonstances de +2 grâce à Coopération adroite (au lieu d'un bonus de +1) à la première tentative faite pour porter une attaque ou tenter un test de compétence auquel le bonus devrait s'appliquer.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas obtenir un autre don de dévouement jusqu'à ce que vous ayez obtenu deux autres dons de l'archétype de Maître des épées.</p>",
-            "prereq": [
-                {
-                    "value": "Force, Dextérité ou Constitution 14"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affilié à l'École des Épées"
                 }
             ]
         },
@@ -21929,6 +21971,16 @@
                 },
                 {
                     "value": "don de compétence Pickpocket"
+                }
+            ]
+        },
+        {
+            "id": "Cunning Trickster Mask",
+            "name": "Masque du mystificateur rusé (Cunning Trickster Mask)",
+            "description": "<p>Votre masque porte l'héritage d'Araignée verdoyante, l'Orateur des besoins, vous permettant de tromper et de ruser avec vos ennemis. Vous pouvez tenter de @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feinter} une cible jusqu'à 9 m de distance et si vous obtenez un succès ou un succès critique à votre test pour Feinter, la cible de votre Feinte subit une pénalité de circonstances de -2 aux jets de sauvegarde contre vos sorts jusqu'au début de votre prochain tour. Si vous ne possédez pas le don @Compendium[pf2e.feats-srd.sIeuPW0j39fTZm08]{Sort dissimulé}, vous l'obtenez en tant que don supplémentaire, vous permettant de dissimuler vos sorts aux yeux des autres. Si vous possédez déjà le don Sort dissimulé, vous pouvez utiliser Sort dissimulé une fois par round comme une action libre au lieu d'une action simple.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
                 }
             ]
         },
@@ -22962,19 +23014,6 @@
                 },
                 {
                     "value": "au moins deux autres dons de l'archétype de classe de Vasemorphe"
-                }
-            ]
-        },
-        {
-            "id": "Halcyon Speaker Dedication",
-            "name": "Dévouement : Orateur paisible (Halcyon Speaker Dedication)",
-            "description": "<p>Vous consacrez une grande part de vos études à la magie paisible. Vous obtenez l'accès à deux tours de magie courants paisibles et à deux sorts paisibles de niveau 1. En plus d'être capable de lancer vos sorts paisibles par le biais de vos emplacements de sorts arcaniques ou primordiaux, vous obtenez un emplacement de sort paisible de niveau 1. Vous pouvez utiliser vos emplacements de sorts paisibles pour lancer de manière spontanée vos sorts paisibles.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez pas sélectionner un autre don de dévouement avant d’avoir obtenu deux autres dons de l’archétype d'orateur paisible.</p>",
-            "prereq": [
-                {
-                    "value": "Dévouement du Gardien de Magaambya"
-                },
-                {
-                    "value": "Membre de l'Académie de Magaambya avec un rang de connaisseur"
                 }
             ]
         },
@@ -24593,6 +24632,19 @@
             ]
         },
         {
+            "id": "Megafauna Veterinarian",
+            "name": "Vétérinaire de mégafaune (Megafauna Veterinarian)",
+            "description": "<p>En tenant compte des sages conseils des anciens de votre maison - et aidé par votre propre expérience - vous avez appris à prodiguer des soins médicaux à la mégafaune des suivants du Seigneur des mammouths. Vous pouvez tenter un test de Nature au lieu d'un test de Médecine pour n'importe quelle utilisation qualifiée ou non de Médecine, à condition que le sujet de vos soins médicaux soit un mégafaune. Si vous tentez une action qui requiert un rang de compétence particulier en Médecine (comme @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures}), utilisez votre rang de compétence en Nature à la place. Si le sujet de vos soins est votre mégafaune et que vous obtenez un succès sur votre test, vous obtenez un succès critique à la place.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                },
+                {
+                    "value": "Expert en Nature"
+                }
+            ]
+        },
+        {
             "id": "Dustsoul",
             "name": "Âme poussiéreuse (Dustsoul)",
             "description": "<p>L'influence de votre ancêtre élémentaire de terre se manifeste à vous par la poussière et la terre, comme le sol d'un champ ou les sables d'un désert chaud. Vous êtes qualifié en Survie. Si vous deviez automatiquement être qualifié en Survie (par votre historique ou votre classe, par exemple), vous êtes qualifié dans une compétence de votre choix. Vous pouvez vous nourrir vous-même de terre et de cendres au lieu d'eau et de nourriture normaux.</p>"
@@ -25072,6 +25124,16 @@
             "prereq": [
                 {
                     "value": "Dévouement d'Artificier"
+                }
+            ]
+        },
+        {
+            "id": "Staggering Blow",
+            "name": "Coup stupéfiant (Staggering Blow)",
+            "description": "<p><strong>Conditions</strong> Vous Montez un compagnon mégafaune qui possède une Frappe au corps-à-corps</p>\n<hr />\n<p>Vous avez entraîné votre compagnon mégafaune à faire tituber ses ennemis, réduisant ainsi leur capacité à se défendre. Vous @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Dirigez un animal} pour ordonner à votre compagnon mégafaune de dépenser ses deux actions pour effectuer une seule et puissante attaque. L'attaque inflige un dé de dégâts d'arme supplémentaire et si l'attaque touche et inflige des dégâts, la cible est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} jusqu'à la fin de son prochain tour.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
                 }
             ]
         },
@@ -25717,6 +25779,16 @@
             "description": "<p>Vous obtenez une attaque à mains nues de griffe qui inflige [[/r {1d4}[slashing]]]{1d4 dégâts tranchants}. Vos griffes sont dans le groupe pugilat et ont les traits agile, finesse et à mains nues.</p>"
         },
         {
+            "id": "Gigantic Megafauna Companion",
+            "name": "Compagnon mégafaune gigatesque (Gigantic Megafauna Companion)",
+            "description": "<p>Les mammouths et autres mégafaunes chevauchés par votre peuple sont plus grands que n'importe quelle bête ordinaire. La taille de votre compagnon mégafaune augmente jusqu'à devenir Très grand, mais ses statistiques ne changent pas.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                }
+            ]
+        },
+        {
             "id": "Ubiquitous Gadgets",
             "name": "Gadgets omniprésents (Ubiquitous Gadgets)",
             "description": "<p>Ils ont penssé que vous aviez utilisé toutes vos machines, mais ils ont mal pensé ! Vous avez encore plus de gadgets dans vos manches que les autres ne s'y attendent. Augmentez le nombre de gadgets temporaires que vous pouvez créer chaque jour de 2.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don une seconde fois si vous êtes de niveau 14 ou supérieur.</p>",
@@ -26325,6 +26397,16 @@
                 },
                 {
                     "value": "Artisanat spécialisé"
+                }
+            ]
+        },
+        {
+            "id": "Protective Spirit Mask",
+            "name": "Masque de l'esprit protecteur (Protective Spirit Mask)",
+            "description": "<p>Votre masque tranporte les instincts protecteurs de Bœuf blanc, le Forgeur de corne, et personne ne s'en prendra à vos alliés tant que vous aurez votre mot à dire. Immédiatement après que vous avez lancé un sort qui n'est pas un tour de magiequi cible un unique allié, vous pouvez choisir de faire en sorte que le sort donne à cette créature un bonus de circonstances de +1 à la CA jusqu'au début de votre prochain tour. Vous obtenez aussi la réaction Inertdiction du protecteur.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
                 }
             ]
         },
@@ -27216,6 +27298,16 @@
             "description": "<p>Vous ne vieillissez plus, grâce à la magie primordiale qui vous soutient. Le flot continu d’énergie primordiale vous confère un bonus de statut de +2 aux jets de sauvegarde contre les maladies et la magie primordiale.</p>"
         },
         {
+            "id": "Mammoth Charge",
+            "name": "Charge du mammouth (Mammoth Charge)",
+            "description": "<p><strong>Conditions</strong> Vous montez votre compagnon mégafaune</p>\n<hr />\n<p>Vous @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Dirigez un animal} pour ordonner à votre compagnon mégafaune de Marher rapidement deux fois. À n'importe quel moment durant ce déplacement, vous pouvez porter une Frappe au corps-à-corps contre un ennemi à portée.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                }
+            ]
+        },
+        {
             "id": "Directed Channel",
             "name": "Canalisation dirigée (Directed Channel)",
             "description": "<p>Vous pouvez diriger avec précision dans une direction l’énergie que vous canalisez, ce qui vous permet de prendre pour cibles des créatures plus éloignées de manière plus directe. Quand vous lancez une version de <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> ou de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> qui affecte une zone, vous pouvez transformer sa zone d’émanation de 9 mètres en cône de 18 mètres.</p>"
@@ -27637,6 +27729,16 @@
                 },
                 {
                     "value": "Affiliation aux Mages du Soleil Tempétueux"
+                }
+            ]
+        },
+        {
+            "id": "Grand Medic's Mask",
+            "name": "Masque du grand médecin (Grand Medic's Mask)",
+            "description": "<p>Votre masque est imprégné de magie réparatrice associée à Ibex, le Champ florissant, qui se répare constamment lui-même. Vous obtenez guérison accélérée 5. Si vous perdez un membre ou une autre partie de votre corps, elle repousse en une journée. Immédiatement après que vous ayiez Lancé un sort qui n'est pas un tour de magie qui cible seulement une créature, vous pouvez faire le choix que ce sort donne à cette créature des Points de Vie temporaires égaux au niveau du sort jusqu'au début de votre prochain tour.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
                 }
             ]
         },
@@ -28352,6 +28454,16 @@
             "description": "<p>D’étranges interactions avec votre lignage vous octroient des sorts inattendus. Vous pouvez avoir dans votre répertoire un sort issu d’une tradition différente de celle associée à votre lignage. Vous lancez ce sort comme s’il était issu de la tradition de votre lignage. Vous pouvez remplacer ce sort par un autre d’une tradition différente comme vous le feriez avec les sorts d’ensorceleur, mais vous ne pouvez pas avoir plus d’un sort d’une autre tradition dans votre répertoire à la fois en utilisant ce don.</p>"
         },
         {
+            "id": "Specialized Megafauna Companion",
+            "name": "Compagnon mégafaune spécialisé (Specialized Megafauna Companion)",
+            "description": "<p>Vous avez entraîné votre mammouth ou un autre compagnon mégafaune à se comporter dans des situations inhabituelles ou extrêmes lui conférant des capacités bien supérieures à celles de ses congénères. Votre mégafaune gagne la spécialisation de votre choix : brute, coureur, pisteur ou démolisseur.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don jusqu'à trois fois. Chaque fois, ajoutez une spécialisation différente de celles listées au dessus à votre compagnon mégafaune. Votre mégafaune ne peut avoir plus de trois spécialisations.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de Seigneur des mammouths"
+                }
+            ]
+        },
+        {
             "id": "Acclimatization",
             "name": "Acclimatation (Acclimatization)",
             "description": "<p>Votre temps passé dans les parties hostiles du monde vous a endurci face aux climats extrèmes.</p>\n<p>Sur votre @Compendium[pf2e.feats-srd.sgo7J9BVofBqwlsF]{Terrain de prédilection}, vous obtenez une résistance égale à la moitié de votre niveau contre tous les effets des dégâts environnementaux et êtes affecté par les effets de température comme s'ils étaient d'un degré de sévérité inférieur (une chaleur ou un froid incroyable devient extrême, une chaleur ou un froid extrême devient sévère, etc).</p>\n<p>Lorsque d'autres créatures @Compendium[pf2e.actionspf2e.tfa4Sh7wcxCEqL29]{Suivent l'expert} avec vous comme guide surr votre terrain de répdilection, ils traitent aussi les effets de température comme d'un degré moins sévère.</p>",
@@ -28472,6 +28584,16 @@
             ]
         },
         {
+            "id": "Vigilant Mask",
+            "name": "Masque vigilant (Vigilant Mask)",
+            "description": "<p>Votre masque confère les extraordinaires sens magiques de Mâchoires carmines, la Hyène qui regarde entre. Vous gagnez odorat (précis) 18 m. Si vous avez déjà odorat comme sens précis, augmentez sa portée de 18 m. Vous pouvez parfois sentir une légère odeur de magie. Immédiatement après avoir Lancé un sort qui ne soit pas un tour de magie, votre odorat s'étend entre les mondes, comme celle de Mâchoires carmines. Cela vous permet de sentir les créatures éthérées, celles qui se trouvent dans un espace extradimensionnel dont l'ouverture est à portée de votre odorat, les créatures et objets intangibles et les autres créatures et objets qui sont insubstantiels ou qui ne sont pas en phase avec la réalité. Contrairement à votre odorat normal, il s'agit d'un sens imprécis.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
+        },
+        {
             "id": "Rough Rider",
             "name": "Cavalier farouche (Rough Rider)",
             "description": "<p>Vous êtes particulièrement bon cavalier sur les montures traditionnelles des gobelins. Vous gagnez le don @Compendium[pf2e.feats-srd.Rq5wkA8DtsmbzoGV]{Chevaucher} même si vous n’en possédez pas les prérequis. Vous gagnez un bonus de circonstances de +1 à vos tests de Nature pour utiliser @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger un animal} en montant un chien gobelin ou un loup. Vous avez la possibilité de choisir un loup comme compagnon animal, même si vous devriez normalement choisir un compagnon animal possédant le pouvoir spécial monture, comme c’est le cas du destrier d’un champion.</p>"
@@ -28485,6 +28607,16 @@
             "id": "Sap Life",
             "name": "Saper la vie (Sap Life)",
             "description": "<p>Vous aspirez la force vitale de vos ennemis pour soigner vos propres blessures.</p>\n<p>Quand vous lancez une mise à mal et blessez au moins une créature vivante avec ce sort, vous récupérez un nombre de points de vie égal au niveau du sort. Si vous n’êtes pas une créature vivante, vous ne pouvez pas profiter des avantages de ce don.</p>"
+        },
+        {
+            "id": "Storyteller's Mask",
+            "name": "Masque du conteur (Storyteller's Mask)",
+            "description": "<p>Votre masque se souvient des histoires de Grenouille changeante, Conteuse du Passé et du Futur. Vous pouvez Lancer <em>@Compendium[pf2e.spells-srd.qsNeG9KZpODSACMq]{Prémonition}</em> une fois par jour comme un sort inné, soit arcanique si vous avez le dévouement de magicien et primordial si vous avez le don de dévouement du druide, mais la durée est de 10 minutes au lieu d'une heure. Immédiatement après avoir Lancé un sort qui n'est pas un tour de magie qui cible seulement un unique ennemi, vous pouvez Vous souvenir à propose de cet ennemi.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement de druide ou de magicien"
+                }
+            ]
         },
         {
             "id": "Pyrophilic Recovery",
@@ -28818,19 +28950,6 @@
                 },
                 {
                     "value": "cause du paladin"
-                }
-            ]
-        },
-        {
-            "id": "Scrollmaster Dedication",
-            "name": "Dévouement : Maître des parchemins (Scrollmaster Dedication)",
-            "description": "<p>L'expérience acquise à tenir la chronique de vos aventures et de vos découvertes vous fait bénéficier d'un discernement et d'une mémoire améliorés. Pendant 24 heures après avoir appris un fait important — comme le nom d'un PNJ que vous avez rencontré, les détails du briefing de votre mission et toute information similaire — vous pouvez vous en rappeler sans devoir faire de test, bien que cela ne vous permette pas automatiquement de mémoriser des suites entières de texte ou de nombres. Vous obtenez aussi un bonus de circonstances de +2 aux tests réalisés pour vour rappeler d'un détail qui a surgi durant le cours de l'aventure, même si c'était il y a plus de 24 heures.</p>\n<p>Si vous disposez du don @Compendium[pf2e.feats-srd.0Dy8RlFqrzCVOTl4]{Rapport Minutieux} et que vous êtes expert dans la compétence que vous utilisez pour Vous souvenir, votre bonus de circonstances pour vous souvenir de connaissances concernant les créatures en utilisant ce don passe à +4.</p>\n<hr />\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Maître des parchemins.</p>",
-            "prereq": [
-                {
-                    "value": "expert dans n'importe quelle compétence de Connaissance"
-                },
-                {
-                    "value": "membre de la Société des Éclaireurs affiliée à l'École des parchemins"
                 }
             ]
         },

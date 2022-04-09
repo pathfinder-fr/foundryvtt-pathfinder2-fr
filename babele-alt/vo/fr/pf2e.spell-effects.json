@@ -384,7 +384,7 @@
         {
             "id": "Spell Effect: Hyperfocus",
             "name": "Spell Effect: Hyperfocus",
-            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.XhgMx9WC6NfXd9RP]{Hyperfocalisation}</em>.</p>\n<p>La cible gagne un bonus de statut de +1 aux tests de Perception tentés avec l'un de ses sens précis.</p>"
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.XhgMx9WC6NfXd9RP]{Hyperacuité}</em>.</p>\n<p>La cible gagne un bonus de statut de +1 aux tests de Perception tentés avec l'un de ses sens précis.</p>"
         },
         {
             "id": "Spell Effect: Ki Form (Force)",
@@ -1804,7 +1804,7 @@
         {
             "id": "Spell Effect: Adaptive Ablation",
             "name": "Spell Effect: Adaptive Ablation",
-            "description": "<p>Accordé par le sort <em>@Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet : Ablation adaptative}</em></p>\n<p>Vous obtenez une résistance contre le type d'énergie déclencheuse ; vous obtenez cette résistance après avoir subi les dégâts déclencheurs, de sorte qu'il s'applique seulement à de futurs dégâts que vous subissez pendant la durée du sort.</p>"
+            "description": "<p>Accordé par le sort <em>@Compendium[pf2e.spells-srd.GoKkejPj5yWJPIPK]{Effet : Dissonnance adaptative}</em></p>\n<p>Vous obtenez une résistance contre le type d'énergie déclencheuse ; vous obtenez cette résistance après avoir subi les dégâts déclencheurs, de sorte qu'il s'applique seulement à de futurs dégâts que vous subissez pendant la durée du sort.</p>"
         },
         {
             "id": "Spell Effect: Bestial Curse (Critical Failure)",
@@ -1829,7 +1829,7 @@
         {
             "id": "Spell Effect: Dutiful Challenge",
             "name": "Spell Effect: Dutiful Challenge",
-            "description": "Accordé par <em>@Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]{Défi respectueux}</em></p>"
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.caehfpQz7yp9yNzz]{Défi de dévouement}</em></p>"
         }
     ],
     "mapping": {
