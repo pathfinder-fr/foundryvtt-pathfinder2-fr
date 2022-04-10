@@ -497,6 +497,11 @@
             "description": ""
         },
         {
+            "id": "Primary (1d6, fatal d10)",
+            "name": "Primary (1d6, fatal d10)",
+            "description": ""
+        },
+        {
             "id": "Tempter Demon",
             "name": "Tempter Demon",
             "description": "<p>For 12, Dex 18, Con 12, Int 10, Sag 10, Cha 16 ; CA +1 (Max Dex +4)</p>"

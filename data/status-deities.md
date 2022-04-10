@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 11
- * **changé**: 212
+ * **libre**: 25
+ * **changé**: 198
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -34,23 +34,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3ffVxwgtvR1imHm8.htm](deities/3ffVxwgtvR1imHm8.htm)|Gendowyn|Gendowyn|changé|
 |[4bEPoujxhYdUyUOg.htm](deities/4bEPoujxhYdUyUOg.htm)|Ydersius|Ydersius|changé|
 |[4GO4iT585ynLJnc8.htm](deities/4GO4iT585ynLJnc8.htm)|Chaldira|Chaldira|changé|
-|[4I1aVKED08cwcC4H.htm](deities/4I1aVKED08cwcC4H.htm)|Laws of Mortality|Lois de la mortalité|changé|
-|[51kMMWaT6CqpGlGk.htm](deities/51kMMWaT6CqpGlGk.htm)|Achaekek|Achaékek|changé|
-|[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis|changé|
-|[5ZIvg8CkqRMepVcX.htm](deities/5ZIvg8CkqRMepVcX.htm)|Korada|Korada|changé|
-|[65o189p2eUPbqaDK.htm](deities/65o189p2eUPbqaDK.htm)|Narriseminek|Narriseminek|changé|
-|[6mgCX7lvKtaEYoa9.htm](deities/6mgCX7lvKtaEYoa9.htm)|Dwarven Pantheon|Panthéon nain|changé|
+|[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis (Ancien dieu osirien)|changé|
 |[6nq25AjImkT5GxDT.htm](deities/6nq25AjImkT5GxDT.htm)|The Prismatic Ray|Le rayon prismatique|changé|
-|[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi|changé|
-|[7L9KIqixgseSCY3X.htm](deities/7L9KIqixgseSCY3X.htm)|Ymeri|Yméri|changé|
-|[83jKKHQPoqVylmrF.htm](deities/83jKKHQPoqVylmrF.htm)|Yaezhing|Yaezhing|changé|
-|[88vRw2ZVPax4hhga.htm](deities/88vRw2ZVPax4hhga.htm)|Gorum|Gorum|changé|
-|[8DXel4AvpyUy6oJ0.htm](deities/8DXel4AvpyUy6oJ0.htm)|Eritrice|Éritrice|changé|
-|[8Oy4qHylOOp79JxD.htm](deities/8Oy4qHylOOp79JxD.htm)|Nhimbaloth|Nhimbaloth|changé|
-|[8roijlQ03l9rWFFe.htm](deities/8roijlQ03l9rWFFe.htm)|Zevgavizeb|Zevgavizeb|changé|
-|[8wOAwLMgB1HFLo9n.htm](deities/8wOAwLMgB1HFLo9n.htm)|Winlas|Winlas|changé|
-|[8ZSywyo8YQPduo92.htm](deities/8ZSywyo8YQPduo92.htm)|Zura|Zura|changé|
-|[97Qe42wJN5EVUS14.htm](deities/97Qe42wJN5EVUS14.htm)|Sturovenen|Sturovenen|changé|
+|[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi (Dieu Tianais)|changé|
 |[9EKyWmjLUu42evxC.htm](deities/9EKyWmjLUu42evxC.htm)|Nethys|Néthys|changé|
 |[9eltBjLngkR9x1Xm.htm](deities/9eltBjLngkR9x1Xm.htm)|Trelmarixian|Trelmarixian|changé|
 |[9FWBJcADLEeP8Krf.htm](deities/9FWBJcADLEeP8Krf.htm)|Valmallos|Valmallos|changé|
@@ -246,14 +232,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0nQItOlce5ua6Eaf.htm](deities/0nQItOlce5ua6Eaf.htm)|Sekhmet|Sekhmet|libre|
-|[14GLsVobnZTEmJrs.htm](deities/14GLsVobnZTEmJrs.htm)|Kelizandri|Kélizandre|libre|
+|[0nQItOlce5ua6Eaf.htm](deities/0nQItOlce5ua6Eaf.htm)|Sekhmet|Sekhmet (Ancien dieu osirien)|libre|
+|[14GLsVobnZTEmJrs.htm](deities/14GLsVobnZTEmJrs.htm)|Kelizandri|Kélizandre (Seigneur Élémentaire)|libre|
 |[1nQVLOyWv5kC0bCU.htm](deities/1nQVLOyWv5kC0bCU.htm)|Ravithra|Ravithra|libre|
-|[1NxkZf6ndijKeufX.htm](deities/1NxkZf6ndijKeufX.htm)|Sairazul|Saïrazul|libre|
-|[1xHnoMlCyCV70TnT.htm](deities/1xHnoMlCyCV70TnT.htm)|Saloc|Saloc|libre|
-|[22n3N47sqbqbDxbp.htm](deities/22n3N47sqbqbDxbp.htm)|Urgathoa|Urgathoa|libre|
-|[39z55kowQFOUH2v0.htm](deities/39z55kowQFOUH2v0.htm)|Droskar|Droskar|libre|
-|[3INt1X4ijBYnZYbU.htm](deities/3INt1X4ijBYnZYbU.htm)|Shyka|Shyka|libre|
+|[1NxkZf6ndijKeufX.htm](deities/1NxkZf6ndijKeufX.htm)|Sairazul|Saïrazul (Seigneur Élémentaire)|libre|
+|[1xHnoMlCyCV70TnT.htm](deities/1xHnoMlCyCV70TnT.htm)|Saloc|Saloc (Demi-dieu Veilleur)|libre|
+|[22n3N47sqbqbDxbp.htm](deities/22n3N47sqbqbDxbp.htm)|Urgathoa|Urgathoa (Mer intérieure)|libre|
+|[39z55kowQFOUH2v0.htm](deities/39z55kowQFOUH2v0.htm)|Droskar|Droskar (Dieu nain)|libre|
+|[3INt1X4ijBYnZYbU.htm](deities/3INt1X4ijBYnZYbU.htm)|Shyka|Shyka (Aîné)|libre|
 |[3lgzcg84J0fsVqjh.htm](deities/3lgzcg84J0fsVqjh.htm)|Esoteric Order of the Palatine Eye|Ordre ésotérique de l'Œil palatin|libre|
 |[3nxIpMGeCvcBIVov.htm](deities/3nxIpMGeCvcBIVov.htm)|Nyarlathotep (The Crawling Chaos)|Nyarlathotep (Le chaos rampant)|libre|
+|[4I1aVKED08cwcC4H.htm](deities/4I1aVKED08cwcC4H.htm)|Laws of Mortality|Lois de la mortalité|libre|
+|[51kMMWaT6CqpGlGk.htm](deities/51kMMWaT6CqpGlGk.htm)|Achaekek|Achaékek (Mer Intérieure)|libre|
+|[5ZIvg8CkqRMepVcX.htm](deities/5ZIvg8CkqRMepVcX.htm)|Korada|Korada (Seigneur empyréen)|libre|
+|[65o189p2eUPbqaDK.htm](deities/65o189p2eUPbqaDK.htm)|Narriseminek|Narriseminek (Demi-dieux Veilleurs)|libre|
+|[6mgCX7lvKtaEYoa9.htm](deities/6mgCX7lvKtaEYoa9.htm)|Dwarven Pantheon|Panthéon nain|libre|
+|[7L9KIqixgseSCY3X.htm](deities/7L9KIqixgseSCY3X.htm)|Ymeri|Ymeri (Seigneur Élémentaire)|libre|
+|[83jKKHQPoqVylmrF.htm](deities/83jKKHQPoqVylmrF.htm)|Yaezhing|Yaezhing (Dieu Tianais)|libre|
+|[88vRw2ZVPax4hhga.htm](deities/88vRw2ZVPax4hhga.htm)|Gorum|Gorum (Mer intérieure)|libre|
+|[8DXel4AvpyUy6oJ0.htm](deities/8DXel4AvpyUy6oJ0.htm)|Eritrice|Éritrice (Seigneur Empyréen)|libre|
+|[8Oy4qHylOOp79JxD.htm](deities/8Oy4qHylOOp79JxD.htm)|Nhimbaloth|Nhimbaloth (Dieu extérieur et grand ancien)|libre|
+|[8roijlQ03l9rWFFe.htm](deities/8roijlQ03l9rWFFe.htm)|Zevgavizeb|Zevgavizeb (Seigneur démon)|libre|
+|[8wOAwLMgB1HFLo9n.htm](deities/8wOAwLMgB1HFLo9n.htm)|Winlas|Winlas (Seigneur empyréen)|libre|
+|[8ZSywyo8YQPduo92.htm](deities/8ZSywyo8YQPduo92.htm)|Zura|Zura (Seigneur démon)|libre|
+|[97Qe42wJN5EVUS14.htm](deities/97Qe42wJN5EVUS14.htm)|Sturovenen|Sturovenen (Dieu Sarkarien)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|

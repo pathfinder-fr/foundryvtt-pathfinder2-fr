@@ -124,7 +124,7 @@
         {
             "id": "Effect: Blade Ally Disrupting Rune",
             "name": "Effet : Allié lame rune Pertubatrice",
-            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts‑vivants. En cas de coup critique, le mort‑vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour.</p>"
+            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts-vivants. En cas de coup critique, le mort-vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Stance: Ironblood Stance",
@@ -179,7 +179,7 @@
         {
             "id": "Effect: Necrotic Infusion",
             "name": "Effet : Injection nécrotique",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.6erzXaxxvcXYnL9H]{Injection nécrotique}.</p>\n<p>Si la prochaine action que vous effectuez consiste à lancer un sort de <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> pour rendre des points de vie à un unique mort‑vivant, celui‑ci inflige ensuite 1d6 dégâts négatifs supplémentaires avec ses armes de corps-à-corps et ses attaques à mains nues jusqu’à la fin de son prochain tour. Si le sort <em>Mise à mal</em> est de niveau 5 au moins, les dégâts passent à 2d6, ou à 3d6 s’il est de niveau 8 au moins.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.6erzXaxxvcXYnL9H]{Injection nécrotique}.</p>\n<p>Si la prochaine action que vous effectuez consiste à lancer un sort de <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> pour rendre des points de vie à un unique mort-vivant, celui-ci inflige ensuite 1d6 dégâts négatifs supplémentaires avec ses armes de corps-à-corps et ses attaques à mains nues jusqu’à la fin de son prochain tour. Si le sort <em>Mise à mal</em> est de niveau 5 au moins, les dégâts passent à 2d6, ou à 3d6 s’il est de niveau 8 au moins.</p>"
         },
         {
             "id": "Effect: Educate Allies (Self)",
@@ -249,7 +249,7 @@
         {
             "id": "Effect: Aldori Parry",
             "name": "Effet : Parade aldorie",
-            "description": "<p><strong>Conditions</strong> Vous brandissez seulement une épée de duel aldorie et votre (ou vos) autre main est libre.</p>\n<hr>\n<p>Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous remplissez les conditions.</p>"
+            "description": "<p><strong>Conditions</strong> Vous brandissez seulement une épée de duel aldorie et votre (ou vos) autre main est libre.</p>\n<hr />\n<p>Vous pouvez parer les attaques dont vous êtes la cible avec votre épée de duel aldorie. Vous gagnez un bonus de circonstances de +2 à votre CA jusqu’à votre prochain tour tant que vous remplissez les conditions.</p>"
         },
         {
             "id": "Effect: Bolera's Interrogation (failure)",
@@ -309,7 +309,7 @@
         {
             "id": "Effect: Blade Ally Disrupting Rune (Greater)",
             "name": "Effet : Allié lame Pertubatrice supérieur",
-            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts‑vivants. En cas de coup critique, le mort‑vivant doit faire un jet de @Check[type:fortitude|dc:34|name:Greater Disrupting]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<p><strong>Succès critique.</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est Affaibli 2 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est Affaibli 3 jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
+            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts-vivants. En cas de coup critique, le mort-vivant doit faire un jet de @Check[type:fortitude|dc:34|name:Greater Disrupting]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<p><strong>Succès critique.</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est Affaibli 2 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est Affaibli 3 jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
         },
         {
             "id": "Stance: Jellyfish Stance",
@@ -374,7 +374,7 @@
         {
             "id": "Stance: Wolf Stance",
             "name": "Posture : Posture du loup",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Posture du loup}</p>\n<p>Vous prenez la posture d’un loup, le corps près du sol et les doigts courbés tels de longs crocs. Vous pouvez faire des attaques à mains nues de mâchoire de loup. Ces attaques infligent 1d8 dégâts perforants, elles font partie du groupe pugilat et possèdent les traits agile, mains nues, non létal et traître. Si vous prenez en tenaille une cible en étant dans cette posture, vos attaques à mains nues de mâchoire de loup obtiennent également le trait croc‑en‑jambe.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.AN9jY1JVcU20Qdw6]{Posture du loup}</p>\n<p>Vous prenez la posture d’un loup, le corps près du sol et les doigts courbés tels de longs crocs. Vous pouvez faire des attaques à mains nues de mâchoire de loup. Ces attaques infligent 1d8 dégâts perforants, elles font partie du groupe pugilat et possèdent les traits agile, mains nues, non létal et traître. Si vous prenez en tenaille une cible en étant dans cette posture, vos attaques à mains nues de mâchoire de loup obtiennent également le trait croc-en-jambe.</p>"
         },
         {
             "id": "Effect: Bolera's Interrogation (Critical Failure)",
@@ -714,7 +714,7 @@
         {
             "id": "Goblin Song (Success)",
             "name": "Chant Gobelin (Succès)",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.QZb0Utg0WFPf2Qg0]{Chant Gobelin}.</p>\n<p>La cible subit un malus de −1 à ses tests de Perception et à ses jets de sauvegarde de Volonté pendant 1 round.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.QZb0Utg0WFPf2Qg0]{Chant Gobelin}.</p>\n<p>La cible subit un malus de -1 à ses tests de Perception et à ses jets de Volonté pendant 1 round.</p>"
         },
         {
             "id": "Effect: Emblazon Antimagic (Weapon)",
@@ -819,7 +819,7 @@
         {
             "id": "Goblin Song (Critical Success)",
             "name": "Chant Gobelin (Succès critique)",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.QZb0Utg0WFPf2Qg0]{Chant Gobelin}.</p>\n<p>La cible subit un malus de −1 à ses tests de Perception et à ses jets de sauvegarde de Volonté pendant 1 minute.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.QZb0Utg0WFPf2Qg0]{Chant Gobelin}.</p>\n<p>La cible subit un malus de -1 à ses tests de Perception et à ses jets de Volonté pendant 1 minute.</p>"
         },
         {
             "id": "Effect: Dueling Parry",
@@ -904,7 +904,7 @@
         {
             "id": "Effect: Defensive Recovery",
             "name": "Effet : Récupération défensive",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.d1ktdX1Fk37dG5ms]{Récupération défensive}.</p>\n<p>Si la prochaine action que vous effectuez consiste à lancer <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> ou <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> sur une unique cible et que celle‑ci récupère des points de vie grâce au sort, elle bénéficie également d’un bonus de statut de +2 à la CA et aux jets de sauvegarde pendant un round.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.d1ktdX1Fk37dG5ms]{Récupération défensive}.</p>\n<p>Si la prochaine action que vous effectuez consiste à lancer <em>@Compendium[pf2e.spells-srd.wdA52JJnsuQWeyqz]{Mise à mal}</em> ou <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> sur une unique cible et que celle-ci récupère des points de vie grâce au sort, elle bénéficie également d’un bonus de statut de +2 à la CA et aux jets de sauvegarde pendant un round.</p>"
         },
         {
             "id": "Effect: Fiendish Wings",

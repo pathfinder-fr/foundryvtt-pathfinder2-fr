@@ -1,18 +1,11 @@
 # État de la traduction (ac-features)
 
- * **libre**: 100
- * **vide**: 1
+ * **libre**: 101
 
 
-Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments vides ne pouvant pas être traduits
-
-| Fichier   | Nom (EN)    | État |
-|-----------|-------------|:----:|
-|[8IodRUpyU4nXGyAv.htm](ac-features/8IodRUpyU4nXGyAv.htm)|Primary (1d6, fatal d10)|vide|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -28,6 +21,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7K6UJ3D3owmOQS03.htm](ac-features/7K6UJ3D3owmOQS03.htm)|Seething Frenzy|Frénésie effrénée|libre|
 |[8dyatrsCMoIPuOlE.htm](ac-features/8dyatrsCMoIPuOlE.htm)|Primary (1d6, deadly d8, finesse)|Primaire (1d6, finesse, mortel d8)|libre|
 |[8EJNylotPDelRtZK.htm](ac-features/8EJNylotPDelRtZK.htm)|Primary (1d8, nonlethal)|Primaire (1d8, non létale)|libre|
+|[8IodRUpyU4nXGyAv.htm](ac-features/8IodRUpyU4nXGyAv.htm)|Primary (1d6, fatal d10)|Primaire (1d6, fatal d10)|libre|
 |[8PDmjqUZ1qfVhnFx.htm](ac-features/8PDmjqUZ1qfVhnFx.htm)|Eidolon Defensive Expertise|Expertise défensive de l'eidolon|libre|
 |[a6supDv34hhqsktB.htm](ac-features/a6supDv34hhqsktB.htm)|Eidolon Weapon Specialization|Spécialisation martiale de l'eidolon|libre|
 |[AaVyAec0r17ocz42.htm](ac-features/AaVyAec0r17ocz42.htm)|Reconfigured Evolution|Évolution reconfigurée|libre|

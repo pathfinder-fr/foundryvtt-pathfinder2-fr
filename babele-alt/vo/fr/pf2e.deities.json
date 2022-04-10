@@ -19,7 +19,7 @@
         {
             "id": "Achaekek",
             "name": "Achaekek",
-            "description": ""
+            "description": "<p>Bien que la genèse divine d’Achaékek fasse l’objet de nombreux débats parmi les spécialistes, le consensus est qu’il a été créé par un dieu ou un groupe de dieux afin d’éradiquer les potentiels voleurs de divinité. Il remplit depuis le rôle d’exécuteur des punitions divines. Surnommé Celui qui Marche dans le Sang, Achaékek sommeille dans un bain de sang d’hérétiques et d’adorateurs au sein d’une immense cavité creusée à la base de la tour du Cimetière et appelée le Val de sang. Il n’entretient aucune relation formelle avec les autres divinités, y compris sa soeur, Grand-Mère Araignée, qui tente régulièrement de le convaincre de renoncer à son devoir et de se rebeller contre les dieux. Ainsi, même si certains dieux désapprouvent les méthodes d’Achaékek, ils ne sont pas nombreux à le défier ouvertement.</p>\n<p><strong>Édits</strong> Commettre des assassinats, répandre l’infamie des Mantes rouges, utiliser un sabre dentelé au combat</p>\n<p><strong>Anathèmes</strong> Accepter puis rompre un contrat pour meurtre, devenir obsédé par des questions triviales comme le genre ou l’ascendance d’autrui, tuer un souverain légitime</p>\n<p><strong>Préoccupations</strong> Assassins, punitions divines et les Mantes rouges.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}"
         },
         {
             "id": "Uvuko",
@@ -44,7 +44,7 @@
         {
             "id": "Zyphus",
             "name": "Zyphus",
-            "description": "<p><strong>Édits</strong> Favoriser les accidents mortels, répandre le nihilisme, tendre des pièges inutiles</p>\n<p><strong>Anathème</strong> Aider les fidèles de Pharasma, répandre l’espoir</p>"
+            "description": "<p><strong>Édits</strong> Favoriser les accidents mortels, répandre le nihilisme, tendre des pièges inutiles</p>\n<p><strong>Anathèmes</strong> Aider les fidèles de Pharasma, répandre l’espoir</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme}, @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.9tsJg13xeJLGzzGV]{Non-mort}</p>"
         },
         {
             "id": "Ma'at",
@@ -144,7 +144,7 @@
         {
             "id": "Dwarven Pantheon",
             "name": "Dwarven Pantheon",
-            "description": ""
+            "description": "<p>Les dieux nains constituent une seule vaste famille dont @Compendium[pf2e.deities.sZrdzh0ANQnZGXJb]{Torag} est le patriarche. Il est accompagné de ses frères @Compendium[pf2e.deities.nsiDGdgbAzkTQzOt]{Magrim (le Contremaître)} et @Compendium[pf2e.deities.Xb1N5YfxboJH26Jh]{Angrad (le Feu-forge)}, de sa demi-soeur @Compendium[pf2e.deities.oyp2E685VsQFKMXi]{Dranngvit (la Responsable des Dettes)} et de sa femme @Compendium[pf2e.deities.VEyowuhC4FsBnG8c]{Folgrit (la Mère Vigilante)}. Ses enfants sont @Compendium[pf2e.deities.HD7g8T8ioy1EH3M8]{Bolka (le Don Doré)}, @Compendium[pf2e.deities.tk7gRxXsqvBwQrUF]{Grundinnar (le Pacificateur)}, @Compendium[pf2e.deities.zhPhYge7VJbIlJvA]{Kols (le Gardien des Serments)} et @Compendium[pf2e.deities.N8a76dkGfUvxvSW0]{Trudd (la Puissante)}. L’ancien élève maléfique de Torag, @Compendium[pf2e.deities.39z55kowQFOUH2v0]{Droskar le Sombre Forgeron}, fait techniquement partie du panthéon nain mais n’est que rarement invoqué, sauf par les duergars.</p>\n<p><strong>Édits</strong> Développer des compétences utiles à votre communauté (surtout pour l’artisanat, l’exploitation minière et le commerce), honorer vos ancêtres par les traditions et les rituels.</p>\n<p><strong>Anathèmes</strong> déshonorer votre famille, rompre volontairement un contrat ou un serment, endommager une relique ancestrale au-delà du réparable</p>\n<p><strong>Préoccupations</strong> Ascendance, artisanat, nains, relations.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphe}</p>"
         },
         {
             "id": "Dammerich",
@@ -174,7 +174,7 @@
         {
             "id": "Ymeri",
             "name": "Ymeri",
-            "description": ""
+            "description": "<p>Ymeri, la Reine du brasier, est le seigneur élémentaire du feu, de la chaleur et de la fumée. Seule souveraine du plan du feu, Ymeri gouverne depuis son Palais auroral, sous la forme d’un centaure reptilien à six bras doté d’ailes flamboyantes. Elle a détruit systématiquement tout ce qui faisait référence à sa naissance et à sa véritable origine et prétend avoir toujours existé ; elle livre une guerre sans fin contre les autres résidents du plan du feu et contre les shaitans du plan de la terre. De tous les seigneurs élémentaires, c’est Ymeri qui a le plus de fidèles. Certains méphites et la plupart des élémentaires de feu la vénèrent, ainsi que certains éfrits et quelques autres créatures du plan du feu. Toutefois, rares sont les salamandres qui l’adorent et il existe un ordre secret d’éfrits, appelé le Feu secret, qui s’oppose à sa domination. Sur Golarion, la Reine du brasier est adorée surtout par des cabales de magiciens du feu, des pyromanes et des dragons rouges.</p>\n<p><strong>Édits</strong> Inspire your lessers with zeal and strategy, be passionate and quick of wit, destroy your foes with fire</p>\n<p><strong>Anathème</strong> Extinguish destructive blazes, allow yourself to stagnate or lose motivation</p>\n<p><strong>Préoccupations</strong> Feu, chaleur, et fumée.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.zec5N7EnDJANGHmy]{Poussière}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}</p>"
         },
         {
             "id": "Chamidu",
@@ -199,7 +199,7 @@
         {
             "id": "Yaezhing",
             "name": "Yaezhing",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Frapper sans être vu, punir les criminels condamnés, se faire engager pour commettre des assassinats</p>\n<p><strong>Anathèmes</strong> Faire preuve de clémence envers une cible, refuser de punir un criminel légalement condamné, vous attribuer le mérite de vos assassinats</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.TpFgfwcWrfT8zVMP]{Souffrance}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie} </p>"
         },
         {
             "id": "Matravash",
@@ -349,7 +349,7 @@
         {
             "id": "Gorum",
             "name": "Gorum",
-            "description": ""
+            "description": "<p>Le choc de l’acier, le cri de la victoire, le refus haletant de la mort, voilà quelles prières sont adressées à Notre Seigneur de Fer, car vénérer Gorum, c’est se battre. Gorum ne s’intéresse pas aux origines d’un combat (la résistance désespérée de villageois face à des pillards n’a pas moins de valeur qu’une armée de croisés affrontant des démons dans la Plaie du Sarkaris) ni ne prend parti pour un camp ou l’autre. Peu lui importe que le combat se fasse au nom du bien ou du mal, de la loi ou du chaos. C’est le frisson de la bataille qui lui plaît, le creuset au sein duquel émergera la victoire.</p>\n<p><strong>Édits</strong> Remporter la victoire dans un combat à la loyale, repousser ses limites, porter une armure au combat.</p>\n<p><strong>Anathèmes</strong> Tuer un prisonnier ou un ennemi qui s’est rendu, empêcher un conflit en négociant, remporter une bataille grâce à des tactiques fourbes ou une magie indirecte.</p>\n<p><strong>Préoccupations</strong> Batailles, force et armes</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}"
         },
         {
             "id": "Horus",
@@ -384,7 +384,7 @@
         {
             "id": "Nhimbaloth",
             "name": "Nhimbaloth",
-            "description": ""
+            "description": "<p>Nhimbaloth, une entité informe appelée la Mort creuse, est une déesse Extérieure éminemment attachée à sa solitude, qui chasse le long des rives de la Rivière des âmes. Ses proies sont elles-mêmes des chasseurs d’âmes qui descendent la rivière, mais elle dévore âmes et chasseurs indifféremment, les privant ainsi de toute vie après la mort ou possibilité de résurrection. Ils sont partis à jamais, réduits au néant éternel. Il se dit que Nhimbaloth voit par l’intermédiaire de feux follets. Elle laisse derrière elle, sur le rivage, des empreintes symétriques faites de sept creux, qui sont censés être les traces de ses doigts. Des morts-vivants sans visage hantent les endroits par où elle est passée, où faune et flore deviennent très hostiles aux vivants. Elle est particulièrement influente dans les Tourbières bouillonnantes de la Varisie méridionale, où des oracles feux follets minent la résolution et la raison de leurs victimes, qui errent alors à travers les marais maudits, prisonnières de leur hébétude.</p>\n<p><strong>Édits</strong> Créer des morts-vivants (viser particulièrement la création d'intangibles), se nourrir de carnivores qui ont récemment mangé quelqu’un</p>\n<p><strong>Anathèmes</strong> Aucun</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.9tsJg13xeJLGzzGV]{Non-mort}, @Compendium[pf2e.domains.6klWznsb0f2bNg3T]{Vide} </p>"
         },
         {
             "id": "Ravithra",
@@ -409,12 +409,12 @@
         {
             "id": "Korada",
             "name": "Korada",
-            "description": ""
+            "description": "<p>Korada, la Main Ouverte de l’Harmonie, s’intéresse à la prémonition, au pardon et à la paix. Il croit en particulier que le combat incessant contre le mal est certes admirable, mais que le triomphe final viendra sous forme de rédemption, pas de destruction. Son dévouement à la paix est tel que ses fidèles, comme lui, refusent de faire du mal à leurs attaquants et ne se servent de leurs talents martiaux que pour se défendre. Nombre de koradans cherchent à atteindre un degré plus élevé de sagesse par l’étude ou la méditation, dans l’espoir de mieux comprendre leurs ennemis afin de pouvoir les guider vers la rédemption. Cet intérêt porté à la conscience de soi, à la philosophie et à l’introspection vaut à Korada la réputation d’avoir mieux perçu le fonctionnement de l’univers, ce qui lui aurait conféré le grand don de prémonition. Mais il agit rarement sur la base de ses visions, car il croit que les difficultés qui accompagnent les vrais changements en valent toujours la peine, qu’ils aient abouti ou pas. La Main Ouverte de l’Harmonie a l’aspect d’un homme svelte et athlétique habillé de robes sobres.</p>\n<p>Son corps est couvert d’une légère toison brun clair, et trois queues de singe se tortillent constamment derrière lui, comme les flammes dansantes d’un puissant feu. La plupart des adorateurs de Korada sont des gens qui recherchent la paix en eux-mêmes et dans leur vie après avoir vécu sur le fil ou été confronté à des violences prolongées. Les individus mauvais ayant trouvé la rédemption grâce à lui rejoignent souvent les rangs de ses fidèles.</p>\n<p><strong>Édits</strong> Adopter une attitude pacifique, pardonner à ceux qui vous ont fait du tort, rechercher et favoriser la rédemption</p>\n<p><strong>Anathèmes</strong> Blesser fatalement une créature, demander à un guerrier retraité de se battre, refuser à une créature repentante l’opportunité de se racheter</p>\n<p><strong>Préoccupations</strong> Prémonition, pardon, and paix</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}</p>"
         },
         {
             "id": "Eritrice",
             "name": "Eritrice",
-            "description": ""
+            "description": "<p>Éritrice, Celle qui parle du fond du coeur, représente les débats francs, les opinions et la vérité. Les faits et les informations lui sont importants, mais elle accorde plus de valeur aux vérités et à la sagesse issues de la discussion qu’à celles qui se trouvent dans les livres. Elle affirme qu’il n’y a rien de mal à ne pas être d’accord tant que le désaccord reste respectueux, et qu’il est crucial d’être ouvert à la discussion, d’être prêt à examiner des informations nouvelles et à se former de nouvelles opinions. Les opinions sont utiles dans le sens où elles aident à comprendre d’autres vues, mais Éritrice rappelle à ses fidèles que ce ne sont pas des faits et qu’elles peuvent être incorrectes, voire nuisibles. Quand des mensonges circulent ou prédominent, les adorateurs d’Éritrice passent par des réseaux de personnes partageant leurs idées pour répandre la vérité par des messages destinés à tous ceux qui sont prêts à l’écouter.</p>\n<p>Sous sa forme mortelle, Celle qui parle du fond du coeur a l’aspect d’une femme de 2,4 mètres de haut, très musclée et dotée d’une tête de lion. Elle arbore une cuirasse rose au-dessus d’un kilt court. Quand elle parle, sa voix est si envoûtante et fascinante que ceux à qui elle apparaît ne remarquent souvent rien de ses autres traits. Ceux qui accordent de l’importance à la vérité, des débatteurs aux législateurs en passant par les crieurs publics, figurent parmi les adorateurs d’Éritrice.</p>\n<p><strong>Édits</strong> Aider les messagers, débattre de questions litigieuses, répandre la vérité.</p>\n<p><strong>Anathèmes</strong> Empêcher la discussion, faire preuve de mauvaise foi, répandre ou perpétuer des mensonges</p>\n<p><strong>Préoccupations</strong> Débât honnête, opinions, vérité</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}</p>"
         },
         {
             "id": "Lahkgya",
@@ -519,7 +519,7 @@
         {
             "id": "Narriseminek",
             "name": "Narriseminek",
-            "description": ""
+            "description": "<p>Appelée le Sans-couronne et le Faiseur de Rois, Narriseminek prend souvent l’apparence d’un protéen avec une cicatrice autour du crâne, comme s’il avait dû porter une couronne ardente. Cet aspect s’inspire de sa forme véritable, rarement perçue : un protéen doré et iridescent aux orbites vides, mais entouré d’un halo d’yeux brûlants. Le seigneur protéen de l’élévation divine, des révélations et des ké’ktars a peu d’interactions avec des non-protéens, mais il offre à ses adorateurs protéens des transformations exaltées et des révélations susceptibles de changer leur rapport au monde. Les fidèles de Narriseminek, mortels comme protéens, se consacrent à la divination et à l’usage de la magie afin de transformer leur corps – une faveur qu’ils accordent aussi à toute créature qui le leur demande. Leurs révélations peuvent leur apparaître comme des motifs émergeant d’événements aléatoires par ailleurs ; les fidèles de Narriseminek rejettent l’astrologie et toute autre forme de divination basée sur des cycles prévisibles.</p>\n<p><strong>Édits</strong> Prédire le futur, se rebeller contre des structures organisées, transformer les corps de créatures consentantes</p>\n<p><strong>Anathème</strong> Esquiver une situation difficile en refusant une promotion ou un changement de statut, refuser de parler à un ké’ktar</p>\n<p><strong>Préoccupations</strong> Héritages, ké’ktar, et révélations</p>\n<hr />\n<strong>Domaines</strong> @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Destruction}, @Compendium[pf2e.domains.8pPvbTMZLIsvCwQk]{Ténèbres}, @Compendium[pf2e.domains.6klWznsb0f2bNg3T]{Vide}</p>"
         },
         {
             "id": "Mammon",
@@ -534,7 +534,7 @@
         {
             "id": "Zevgavizeb",
             "name": "Zevgavizeb",
-            "description": ""
+            "description": "<p>Zevgavizeb, le Glouton dans les Ténèbres, est le seigneur démon des cavernes, des reptiles et des troglodytes. Il réside au centre de Noirglouton, un gigantesque réseau de cavernes où des races reptiliennes se livrent une guerre sans fin et où rôdent d’autres créatures souterraines encore plus hideuses. Il attise ces conflits afin d’éliminer les plus faibles de ses adorateurs et punit de leur échec les nations vaincues en dévorant toute vie encore présente en leur sein. Très occupé par ces guerres perpétuelles, Zevgavizeb s’intéresse peu à Golarion de manière directe, bien que certaines races reptiliennes, en particulier les xulgaths, commettent fréquemment des atrocités en son nom.</p>\n<p><strong>Édits</strong> Étendre le domaine de son clan, dominer ses ennemis, démontrer sa maîtrise de son artisanat et de son environnement, dévorer les faibles</p>\n<p><strong>Anathèmes</strong> Se rendre au combat, exprimer sa faiblesse face à l'adversité, faire preuve de pitié envers les faibles</p>\n<p><strong>Préoccupations</strong> Grottes, reptiles, troglodytes</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.OsM8NfP408uB6yTi]{Parenté dracosire}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]Puissance </p>"
         },
         {
             "id": "Halcamora",
@@ -749,7 +749,7 @@
         {
             "id": "Laws of Mortality",
             "name": "Laws of Mortality",
-            "description": ""
+            "description": "<p>Les lois de la Mortalité émergèrent dans la nation garundie du Rahadoum, en réaction aux guerres d’Allégeance, une série de conflits fratricides qui déchiraient la société dans cette nation. Le principe fondamental derrière ces lois est relativement simple : toute aide divine, aussi bien intentionnée soit-elle, doit toujours, en définitive, se payer au prix fort. Le massacre d’autres mortels pour la gloire d’êtres insondables et distants ne devrait pas avoir droit d’existence au sein d’une société digne de ce nom. Les mortels devraient bâtir leur propre destinée, en étant conscients de leurs limitations et en se reposant les uns sur les autres et sur leurs valeurs partagées, plutôt que sur l’intervention et l’assistance divines. Cette philosophie est résumée dans l’article premier des lois de la Mortalité : « Aucun mortel ne sera jamais redevable à un dieu.»</p>\n<p><strong>Édits</strong> Découvrir et éradiquer l’exercice secret des cultes, défier la puissance et l’emprise de la  religion, mettre en place une société paisible et autonome disposant d’une infrastructure sociale permettant de prendre soin du peuple</p>\n<p><strong>Anathèmes</strong> Adorer une religion ou une divinité et lui jurer fidélité, prendre parti dans un conflit entre religions, solliciter ou recevoir de l’aide religieuse ou divine</p>\n<p><strong>Préoccupations</strong> Affaires mortelles, Paix, Autonomie</p>"
         },
         {
             "id": "Nethys",
@@ -854,7 +854,7 @@
         {
             "id": "Zura",
             "name": "Zura",
-            "description": "<p>Zura, la Reine Vampire, est le seigneur démon du sang, du cannibalisme et des vampires. Selon la légende, elle est la réincarnation d’une reine azlante qui se livrait, dans sa quête de la vie éternelle, à des rites sanglants et des actes de cannibalisme. Après sa mort, elle renaquit sous la forme particulière d’une succube vampirique, qui obtint rapidement le statut d’un seigneur démon. Bien que beaucoup des sectes qui l’adoraient aient disparu en même temps que l’empire azlant, Zura est encore vénérée par des vampires et par ceux qui souhaitent en devenir, surtout dans le Chéliax et l’Ustalav, ainsi que par des drows d’Ombreterre.</p>\n<p><strong>Édits</strong> Aspirer au vampirisme, boire du sang, causer des dégâts de saignement</p>\n<p><strong>Anathème</strong> Dénoncer des vampires, soigner une plaie ouverte sans l’utiliser au préalable pour boire du sang</p>\n<p><strong>Centres d'intérêt</strong> sang, cannibalisme, et vampires</p>"
+            "description": "<p>Zura, la Reine Vampire, est le seigneur démon du sang, du cannibalisme et des vampires. Selon la légende, elle est la réincarnation d’une reine azlante qui se livrait, dans sa quête de la vie éternelle, à des rites sanglants et des actes de cannibalisme. Après sa mort, elle renaquit sous la forme particulière d’une succube vampirique, qui obtint rapidement le statut d’un seigneur démon. Bien que beaucoup des sectes qui l’adoraient aient disparu en même temps que l’empire azlant, Zura est encore vénérée par des vampires et par ceux qui souhaitent en devenir, surtout dans le Chéliax et l’Ustalav, ainsi que par des drows d’Ombreterre.</p>\n<p><strong>Édits</strong> Aspirer au vampirisme, boire du sang, causer des dégâts de saignement</p>\n<p><strong>Anathèmes</strong> Dénoncer des vampires, soigner une plaie ouverte sans l’utiliser au préalable pour boire du sang</p>\n<p><strong>Préoccupations</strong> sang, cannibalisme, et vampires</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.i4UU3qCjIMwejIQF]{Delirium}, @Compendium[pf2e.domains.9tsJg13xeJLGzzGV]{Non-mort}, Petits plaisirs </p>"
         },
         {
             "id": "Osiris",
@@ -939,7 +939,7 @@
         {
             "id": "Sturovenen",
             "name": "Sturovenen",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Agir avec détermination et confiance, diriger sa communauté ou ses compagnons avec passion et en étant responsable</p>\n<p><strong>Anathèmes</strong> Ordonner à un subordonné d’effectuer une tâche que l’on n’est pas soi-même prêt à faire</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}</p>"
         },
         {
             "id": "Calistria",
@@ -1074,7 +1074,7 @@
         {
             "id": "Winlas",
             "name": "Winlas",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Confectionner des armes et armures de cérémonie, diriger une congrégation, servir les responsables des cérémonies</p>\n<p><strong>Anathèmes</strong> Accomplir des rituels avec négligence ou indolence, détruire des objets de cérémonie, se moquer de cérémonies sacrées</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille} </p>"
         },
         {
             "id": "Wards of the Pharaoh",

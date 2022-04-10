@@ -3,7 +3,7 @@
  * **libre**: 92
 
 
-Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -50,7 +50,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-RRusoN3HEGnDO1Dg.htm](consumable-effects/05-RRusoN3HEGnDO1Dg.htm)|Effect: Sea Touch Elixir (Greater)|Effet: Élixir de caresse marine supérieur|libre|
 |[05-thOpQunbQr77XWdF.htm](consumable-effects/05-thOpQunbQr77XWdF.htm)|Effect: Sea Touch Elixir (Lesser)|Effet: Élixir de caresse marine inférieur|libre|
 |[05-Wa4317cqU4lJ8vAQ.htm](consumable-effects/05-Wa4317cqU4lJ8vAQ.htm)|Effect: Eagle Eye Elixir (Moderate)|Effet : Élixir d'œil du faucon modéré|libre|
-|[05-XrlChFETfe8avLsX.htm](consumable-effects/05-XrlChFETfe8avLsX.htm)|Effect: Sixfingers Elixir (Lesser)|Effet : Elixir Six-doigts inférieur|libre|
+|[05-XrlChFETfe8avLsX.htm](consumable-effects/05-XrlChFETfe8avLsX.htm)|Effect: Sixfingers Elixir (Lesser)|Effet : Élixir six-doigts inférieur|libre|
 |[06-HeRHBo2NaKy5IxhU.htm](consumable-effects/06-HeRHBo2NaKy5IxhU.htm)|Effect: Antiplague (Moderate)|Effet: Antimaladie modéré|libre|
 |[06-mG6S6zm6hxaF7Tla.htm](consumable-effects/06-mG6S6zm6hxaF7Tla.htm)|Effect: Skeptic's Elixir (Moderate)|Effet : Élixir de l'incrédule modéré|libre|
 |[06-mi4Md1fB2XThCand.htm](consumable-effects/06-mi4Md1fB2XThCand.htm)|Effect: Antidote (Moderate)|Effet : Antidote modéré|libre|

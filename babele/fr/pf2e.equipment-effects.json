@@ -44,7 +44,7 @@
         {
             "id": "Effect: Ablative Armor Plating (Moderate)",
             "name": "Effet : Blindage ablatif d'armure modéré",
-            "description": "<p>Le blindage accorde au porteur de l'armure 10 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "description": "<p>Le blindage accorde au porteur de l'armure 10 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du blindage le détruit.</p>"
         },
         {
             "id": "Effect: Exsanguinating Ammunition (Greater)",
@@ -339,7 +339,7 @@
         {
             "id": "Effect: Ablative Armor Plating (Lesser)",
             "name": "Effet : Blindage ablatif d'armure inférieur",
-            "description": "<p>Le blindage accorde au porteur de l'armure 5 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "description": "<p>Le blindage accorde au porteur de l'armure 5 points de vie pendant 1 minute ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du blindage le détruit.</p>"
         },
         {
             "id": "Effect: Fire and Iceberg (Major)",
@@ -384,7 +384,7 @@
         {
             "id": "Effect: Ablative Armor Plating (True)",
             "name": "Effet : Blindage ablatif d'armure ultime",
-            "description": "<p>Le blindage accorde au porteur de l'armure 40 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "description": "<p>Le blindage accorde au porteur de l'armure 40 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du blindage le détruit.</p>"
         },
         {
             "id": "Effect: Energizing Rune (Acid)",
@@ -534,7 +534,7 @@
         {
             "id": "Effect: Ablative Armor Plating (Greater)",
             "name": "Effet : Blindage ablatif d'armure supérieur",
-            "description": "<p>Le blindage accorde au porteur de l'armure 20 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "description": "<p>Le blindage accorde au porteur de l'armure 20 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du blindage le détruit.</p>"
         },
         {
             "id": "Effect: Nosoi Charm (Greater) (Diplomacy)",
@@ -754,7 +754,7 @@
         {
             "id": "Effect: Ablative Armor Plating (Major)",
             "name": "Effet : Blindage ablatif d'armure majeur",
-            "description": "<p>Le blindage accorde au porteur de l'armure 30 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du placage détruit l'armure.</p>"
+            "description": "<p>Le blindage accorde au porteur de l'armure 30 points de vie pendant 1 heure ou jusqu'à ce qu'ils soient perdus. Le retrait anticipé du blindage le détruit.</p>"
         },
         {
             "id": "Effect: Metuak's Pendant",

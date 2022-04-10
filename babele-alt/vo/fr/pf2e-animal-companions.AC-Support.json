@@ -44,7 +44,7 @@
         {
             "id": "Vulture Support Benefit",
             "name": "Vulture Support Benefit",
-            "description": "<p>Le vautour vomit sur un ennemi dans un rayon de 3 mètres. Jusqu'au début de votre prochain tour, si vous touchez et infligez des dégâts à la cible, celle-ci doit réussir un jet de sauvegarde de Vigueur ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1}. (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} sur un échec critique). Le DD du jet de Vigueur est de 12 (ou 14 si le vautour est un compagnon animal spécialisé) + votre niveau + le modificateur de Constitution du vautour.</p>"
+            "description": "<p>Le vautour vomit sur un ennemi dans un rayon de 3 mètres. Jusqu'au début de votre prochain tour, si vous touchez et infligez des dégâts à la cible, celle-ci doit réussir un jet de Vigueur ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1}. (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} sur un échec critique). Le DD du jet de Vigueur est de 12 (ou 14 si le vautour est un compagnon animal spécialisé) + votre niveau + le modificateur de Constitution du vautour.</p>"
         },
         {
             "id": "Dromaeosaur Support Benefit",

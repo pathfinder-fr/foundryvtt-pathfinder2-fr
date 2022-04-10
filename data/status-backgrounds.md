@@ -1,20 +1,12 @@
 # État de la traduction (backgrounds)
 
- * **libre**: 263
+ * **libre**: 265
  * **officielle**: 49
- * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-09 09:12 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[4lbfPXwZEf3eE0ip.htm](backgrounds/4lbfPXwZEf3eE0ip.htm)|Snubbed Out Stoolie|
-|[bxWID85noazU72O3.htm](backgrounds/bxWID85noazU72O3.htm)|Ratted-Out Gun Runner|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -44,6 +36,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4aVFnYyRajog0mNl.htm](backgrounds/4aVFnYyRajog0mNl.htm)|Mantis Scion|Descendant de la Mante|libre|
 |[4fBIXtSVSRYn2ZGi.htm](backgrounds/4fBIXtSVSRYn2ZGi.htm)|Goblinblood Orphan|Orphelin des guerres du Sang gobelin|officielle|
 |[4KCa67gyxUn60zdf.htm](backgrounds/4KCa67gyxUn60zdf.htm)|Saloon Entertainer|Amuseur de saloon|libre|
+|[4lbfPXwZEf3eE0ip.htm](backgrounds/4lbfPXwZEf3eE0ip.htm)|Snubbed Out Stoolie|Indic repoussé|libre|
 |[4naQmCXBl0007c2W.htm](backgrounds/4naQmCXBl0007c2W.htm)|Touched by Dahak|Touché par Dahak|libre|
 |[4SSKsyD72AYYpzgm.htm](backgrounds/4SSKsyD72AYYpzgm.htm)|Hermit (Occultism)|Ermite (Occultisme)|officielle|
 |[4Vc8uXVHonrasFnU.htm](backgrounds/4Vc8uXVHonrasFnU.htm)|Saboteur|Saboteur|libre|
@@ -107,6 +100,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bh6O2Ad5mkYwRngM.htm](backgrounds/bh6O2Ad5mkYwRngM.htm)|Hermean Expatriate|Expatrié d'Herméa|libre|
 |[bvPPc10SYahijgLr.htm](backgrounds/bvPPc10SYahijgLr.htm)|Eidolon Contact (Occultism)|Contact d'Eidolon (Occultisme)|libre|
 |[BxQ4QaNaodIw3pWu.htm](backgrounds/BxQ4QaNaodIw3pWu.htm)|Sponsored by a Stranger (Occultism)|Soutenu par un étranger (Occultisme)|libre|
+|[bxWID85noazU72O3.htm](backgrounds/bxWID85noazU72O3.htm)|Ratted-Out Gun Runner|Marchand d'armes en cavale|libre|
 |[byyceQSVT0H5GfNB.htm](backgrounds/byyceQSVT0H5GfNB.htm)|Anti-Magical|Anti-Magie|libre|
 |[BZhPPw9VD9U2ur6B.htm](backgrounds/BZhPPw9VD9U2ur6B.htm)|Witchlight Follower|Suiveur de lumière de sorcier|libre|
 |[CAjQrHZZbALE7Qjy.htm](backgrounds/CAjQrHZZbALE7Qjy.htm)|Acolyte|Acolyte|officielle|

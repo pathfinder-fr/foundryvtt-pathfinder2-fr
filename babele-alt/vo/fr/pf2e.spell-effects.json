@@ -1769,7 +1769,7 @@
         {
             "id": "Spell Effect: Bless",
             "name": "Spell Effect: Bless",
-            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</em></p>\n<hr>\n<p>Effet pris en compte :</p>\n<ul>\n<li>Bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.XSujb7EsSwKl19Uu]{Bénédiction}</em></p>\n<hr />\n<p>Effet pris en compte :</p>\n<ul>\n<li>Bonus de statut de +1 aux jets d'attaque.</li>\n</ul>"
         },
         {
             "id": "Spell Effect: Lucky Number",
