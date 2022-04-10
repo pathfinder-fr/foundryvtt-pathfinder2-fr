@@ -26,152 +26,177 @@ from dataclasses import dataclass
 # extract   Dictionnaire contenant la liste des champs supplémentaires à extraire dans la section ------- Data et à traduire.
 #           La clé correspondra au nom du champ auquel sera ajouté FR et EN
 # lists     Dictionnaire contenant la liste des champs supplémentaires à extraire sous forme de liste, dont les différentes valeurs seront extraites avec un "|" comme séparateur, et à traduire.
+# items     (Bestiaire only) Les objets présents sur la créature
 SUPPORTED = {
-    #### Les ascendances et les capacités
-    "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "heritages": {
-        'transl': "Héritages des ascendances",
-        "paths": {'name': "name", 'desc': "data.description.value"},
-    },
-    "ancestryfeatures": {
-        'transl': "Capacités des ascendances",
+    # #### Les ascendances et les capacités
+    # "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "heritages": {
+    #     'transl': "Héritages des ascendances",
+    #     "paths": {'name': "name", 'desc': "data.description.value"},
+    # },
+    # "ancestryfeatures": {
+    #     'transl': "Capacités des ascendances",
+    #     "paths": {
+    #         'name': "name",
+    #         'desc': "data.description.value",
+    #         'type1': "type",
+    #         'type2': "data.level.value"
+    #     }
+    # },
+    # #### Les historiques
+    # "backgrounds": {'transl': "Historiques", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # #### Les classes et leurs capacités
+    # "classes": {'transl': "Classes", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "classfeatures": {
+    #     'transl': "Capacités de classe",
+    #     "paths": {
+    #         'name': "name",
+    #         'desc': "data.description.value",
+    #         'type1': "data.traits.value",
+    #         'type2': "data.level.value"
+    #     }
+    # },
+    # #### Les dons de classe, dons ancestraux, dons généraux et de compétence et les dons des archétypes
+    # "feats": {
+    #     'transl': "Dons",
+    #     "paths": {
+    #         'name': "name",
+    #         'desc': "data.description.value",
+    #         'type1': "data.featType.value",
+    #         'type2': "data.level.value"
+    #     },
+    #     "lists": {
+    #         'Prereq': "data.prerequisites.value"
+    #     }
+    # },
+    # #### Les pouvoirs de familier et de maître
+    # "familiar-abilities": {'transl': "Pouvoirs des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # #### Les archétypes
+    # "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
+    # #### Les sorts
+    # "spells": {
+    #     'transl': "Sorts",
+    #     "paths": {
+    #         'name': "name",
+    #         'desc': "data.description.value",
+    #         'type1': "data.school.value",
+    #         'type2': "data.level.value"
+    #     },
+    #     "extract": {
+    #         'Areasize': "data.areasize.value",
+    #         'Range': "data.range.value",
+    #         'Material': "data.materials.value",
+    #         'Target': "data.target.value",
+    #         'SecondaryCaster': "data.secondarycasters.value",
+    #         'PrimaryCheck': "data.primarycheck.value",
+    #         'SecondaryCheck': "data.secondarycheck.value",
+    #     }
+    # },
+    # #### L'équipement
+    # "equipment": {
+    #     'transl': "Équipement",
+    #     "paths": {
+    #         'name': "name",
+    #         'desc': "data.description.value",
+    #         'type1': "type",
+    #         'type2': "data.level.value"
+    #     }
+    # },
+    # #### Les divinités
+    # "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" }},
+    # "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" }},
+    # #### Les règles du jeu : les actions, les conditions
+    # "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # #### Les conditions et états
+    # "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # #### L'opposition : bestiaires et dangers, capacités des monstres
+    "pathfinder-bestiary": {
+        'transl': "Bestiaire",
         "paths": {
             'name': "name",
-            'desc': "data.description.value",
-            'type1': "type",
-            'type2': "data.level.value"
-        }
-    },
-    #### Les historiques
-    "backgrounds": {'transl': "Historiques", "paths": {'name': "name", 'desc': "data.description.value"}},
-    #### Les classes et leurs capacités
-    "classes": {'transl': "Classes", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "classfeatures": {
-        'transl': "Capacités de classe",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "data.traits.value",
-            'type2': "data.level.value"
-        }
-    },
-    #### Les dons de classe, dons ancestraux, dons généraux et de compétence et les dons des archétypes
-    "feats": {
-        'transl': "Dons",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "data.featType.value",
-            'type2': "data.level.value"
-        },
-        "lists": {
-            'Prereq': "data.prerequisites.value"
-        }
-    },
-    #### Les pouvoirs de familier et de maître
-    "familiar-abilities": {'transl': "Pouvoirs des familiers", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    #### Les archétypes
-    "archetypes": {'transl': "Archétypes", "paths": {'name': "name", 'desc': "content"}},
-    #### Les sorts
-    "spells": {
-        'transl': "Sorts",
-        "paths": {
-            'name': "name",
-            'desc': "data.description.value",
-            'type1': "data.school.value",
-            'type2': "data.level.value"
+            'desc': "data.details.publicNotes"
         },
         "extract": {
-            'Areasize': "data.areasize.value",
-            'Range': "data.range.value",
-            'Material': "data.materials.value",
-            'Target': "data.target.value",
-            'SecondaryCaster': "data.secondarycasters.value",
-            'PrimaryCheck': "data.primarycheck.value",
-            'SecondaryCheck': "data.secondarycheck.value",
-        }
-    },
-    #### L'équipement
-    "equipment": {
-        'transl': "Équipement",
-        "paths": {
+            'CADetails': "data.attributes.ac.details",
+            'CI': "data.traits.ci.custom",
+            'DamageImmunity': "data.traits.di.custom",
+            'DamageResistance': "data.traits.dr.custom",
+            'DamageVulnerability': "data.traits.dv.custom",
+            'HPDetails': "data.attributes.hp.details",
+            'Languages': "data.traits.languages.custom",
+            'Saves': "data.attributes.allSaves.value",
+            'Senses': "data.traits.senses.value",
+            'Speeds': "data.attributes.speed.details",
+            'Traits': "data.traits.traits.custom"
+        },
+        "items": {
+            'folder': "bestiary-individual-abilities",
             'name': "name",
-            'desc': "data.description.value",
-            'type1': "type",
-            'type2': "data.level.value"
+            'desc': "data.description"
         }
     },
-    #### Les divinités
-    "deities":    { 'transl': "Divinités", "paths": { 'name': "name", 'desc': "data.description.value" }},
-    "domains":    { 'transl': "Domaines", "paths": {'name': "name", 'desc': "content" }},
-    #### Les règles du jeu : les actions, les conditions
-    "actions": {'transl': "Actions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    #### Les conditions et états
-    "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    #### L'opposition : bestiaires et dangers, capacités des monstres
-    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
-    "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
-    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
-    "hazards": {
-      'transl': "Dangers",
-      "paths": {
-        'name': "name", 'desc': "data.details.description"
-      },
-      "extract": {
-        'Disable': "data.details.disable",
-        'Reset': "data.details.reset",
-        'Routine': "data.details.routine",
-        'Target': "data.target.value",
-        'ItemsDescription': "items.data.description.value",
-      }
-    },
-    "bestiary-ability-glossary-srd": {
-        'transl': "Capacités du bestiaire",
-        "paths": {'name': "name", 'desc': "data.description.value"}
-    },
-    "bestiary-family-ability-glossary": {
-        'transl': "Capacités des familles de monstre",
-        "paths": {'name': "name", 'desc': "data.description.value"}
-    },
-    #### Outils du MJ
-    "criticaldeck": {
-        'transl': "Cartes critiques",
-        "paths": {'name': "name", 'desc': "content"}
-    },
-    "gmg-srd": {'transl': "Guide du Maître", "paths": {'name': "name", 'desc': "content"}},
-    "pathfinder-society-boons": {'transl': "Récompenses PFS", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "boons-and-curses": {'transl': "Bénédictions et malédictions", "paths": {'name': "name", 'desc': "data.description.value"}},
-    #### Macros de Foundry dont on ne traduit que le nom
-    "action-macros": {
-        'transl': "Macros PF2e",
-        "paths": { 'name': "name"}
-    },
-    "pf2e-macros": {
-        'transl': "Macros PF2e",
-        "paths": { 'name': "name"}
-    },
-    #### Les effets de Foundry qui peuvent être glissés sur les jetons dont on ne traduit que l'essentiel
-    "bestiary-effects": {
-        'transl': "Effets des monstres",
-        "paths": {'name': "name", 'desc': "data.description.value"}
-    },
-    "consumable-effects": {'transl': "Effets des consommables", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "equipment-effects": {'transl': "Effets de l'équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "feat-effects": {'transl': "Effets des dons", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    "feature-effects": {'transl': "Effets des capacités", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
-    ###"pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.privateNotes"}}
-
-    # Animal Companions
-    "ac-advanced-maneuvers":      {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Manœuvres avancées (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-ancestries-and-class":    {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Ascendances et classes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-construct-breakthroughs": {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Constructs Breakthroughs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-construct-companions":    {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Constructs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-eidolons":                {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Eidolons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-evolution-feats":         {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Évolutions (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-feats":                   {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Dons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-features":                {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
-    "ac-support-benefits":        {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Bénéfices (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}}
+    # "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    # "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    # "hazards": {
+    #   'transl': "Dangers",
+    #   "paths": {
+    #     'name': "name", 'desc': "data.details.description"
+    #   },
+    #   "extract": {
+    #     'Disable': "data.details.disable",
+    #     'Reset': "data.details.reset",
+    #     'Routine': "data.details.routine",
+    #     'Target': "data.target.value",
+    #     'ItemsDescription': "items.data.description.value",
+    #   }
+    # },
+    # "bestiary-ability-glossary-srd": {
+    #     'transl': "Capacités du bestiaire",
+    #     "paths": {'name': "name", 'desc': "data.description.value"}
+    # },
+    # "bestiary-family-ability-glossary": {
+    #     'transl': "Capacités des familles de monstre",
+    #     "paths": {'name': "name", 'desc': "data.description.value"}
+    # },
+    # #### Outils du MJ
+    # "criticaldeck": {
+    #     'transl': "Cartes critiques",
+    #     "paths": {'name': "name", 'desc': "content"}
+    # },
+    # "gmg-srd": {'transl': "Guide du Maître", "paths": {'name': "name", 'desc': "content"}},
+    # "pathfinder-society-boons": {'transl': "Récompenses PFS", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "boons-and-curses": {'transl': "Bénédictions et malédictions", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # #### Macros de Foundry dont on ne traduit que le nom
+    # "action-macros": {
+    #     'transl': "Macros PF2e",
+    #     "paths": { 'name': "name"}
+    # },
+    # "pf2e-macros": {
+    #     'transl': "Macros PF2e",
+    #     "paths": { 'name': "name"}
+    # },
+    # #### Les effets de Foundry qui peuvent être glissés sur les jetons dont on ne traduit que l'essentiel
+    # "bestiary-effects": {
+    #     'transl': "Effets des monstres",
+    #     "paths": {'name': "name", 'desc': "data.description.value"}
+    # },
+    # "consumable-effects": {'transl': "Effets des consommables", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # "spell-effects": {'transl': "Effets des sorts", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # "equipment-effects": {'transl': "Effets de l'équipement", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # "feat-effects": {'transl': "Effets des dons", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # "feature-effects": {'transl': "Effets des capacités", "paths": {'name': "name", 'desc': "data.description.value", 'type1': "data.level.value"}},
+    # ###"pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.privateNotes"}}
+    #
+    # # Animal Companions
+    # "ac-advanced-maneuvers":      {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Manœuvres avancées (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-ancestries-and-class":    {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Ascendances et classes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-construct-breakthroughs": {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Constructs Breakthroughs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-construct-companions":    {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Constructs (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-eidolons":                {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Eidolons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-evolution-feats":         {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Évolutions (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-feats":                   {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Dons (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-features":                {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Aptitudes (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}},
+    # "ac-support-benefits":        {'pack': "../packs-animal", 'module': "pf2e-animal-companions", 'transl': "Bénéfices (Animal Companions)", "paths": {'name': "name", 'desc': "data.description.value"}}
 }
 
 
@@ -267,7 +292,6 @@ def equals(val1, val2):
     else:
         return val1.replace('\n', '').replace('\r', '').strip() == val2.replace('\n', '').replace('\r', '').strip()
 
-
 #
 # cette fonction tente une extraction d'une valeur dans un objet
 # Ex: data.level.value => obj["data"]["level"]["value"]
@@ -283,7 +307,6 @@ def getObject(obj, path, exitOnError=True):
         else:
             # print("Path %s not found for %s!" % (path, obj['name']))
             return None
-
     return element
 
 
@@ -318,7 +341,6 @@ def getList(obj, path, exitOnError=True):
         return []
     else:
         return element
-
 
 #
 # Cette fonction extrait l'information d'un fichier .htm sous forme d'un tableau contenant les différens attributs
@@ -397,11 +419,13 @@ def fileToData(filepath):
                 isData = True
             elif line.startswith("------ Description (en) ------"):
                 isData = False
+                isItems = False
                 isDescEN = True
                 isDescFR = False
                 continue
             elif line.startswith("------ Description (fr) ------"):
                 isData = False
+                isItems = False
                 isDescFR = True
                 isDescEN = False
                 continue
@@ -542,7 +566,6 @@ def isValid(data):
 # et génère un dictionnaire basé sur les identifiants
 #
 
-
 def readFolder(path):
     resultById = {}
     resultByName = {}
@@ -631,3 +654,128 @@ def addIfNotNull(dict: dict, key: str, value: any):
     if value is None:
         return
     dict[key] = value
+
+def checkItems(entries, folderPath, avoidDuplicate=True):
+    # ==========================
+    # read all available entries
+    # ==========================
+    if not os.path.isdir(folderPath):
+        os.mkdir(folderPath)
+
+    folderData = readFolder(folderPath)
+    existing = folderData[0]
+    existingByName = folderData[1]
+    pack_has_errors = folderData[2]
+
+    # ========================
+    # create or update entries
+    # ========================
+    for id in entries:
+        source = entries[id]
+        if not source:
+            continue
+
+        # build filename
+        filename = "%s.htm" % id
+        if source['type2']:
+            filename = "%s-%s-%s" % (source['type1'], source['type2'], filename)
+        elif source['type1']:
+            filename = "%s-%s" % (source['type1'], filename)
+        filepath = "%s/%s" % (folderPath, filename)
+
+        # data exists for id
+        if id in existing:
+
+            # rename file if filepath not the same
+            if existing[id]['filename'] != filename:
+
+                pathFrom = "%s/%s" % (folderPath, existing[id]['filename'])
+                pathTo = "%s/%s" % (folderPath, filename)
+                os.rename(pathFrom, pathTo)
+
+            # check status from existing file
+            if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
+                print_error("Status error for : %s" % filepath);
+                has_errors = True
+                continue
+
+            # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
+            change = False
+            #if p["name"] == "feats-srd":
+            #  change = True
+            if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']) or not equals(existing[id]['dataEN'], source['data']):
+                existing[id]['nameEN'] = source['name']
+                existing[id]['descrEN'] = source['desc']
+                existing[id]['listsEN'] = source['lists']
+                existing[id]['dataEN'] = source['data']
+
+                if existing[id]['status'] != "aucune" and existing[id]['status'] != "changé":
+                    existing[id]['oldstatus'] = existing[id]['status']
+                    existing[id]['status'] = "changé"
+
+                dataToFile(existing[id], filepath)
+
+            elif 'oldstatus' in existing[id] and existing[id]['status'] != 'changé':
+                del existing[id]['oldstatus']
+                dataToFile(existing[id], filepath)
+
+        # file doesn't exist
+        else:
+
+            # check if other entry exists with same name => means that ID has changed for the same element
+            # not applicable to items (monsters have entries with the same name but different descriptions
+            if source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray") and avoidDuplicate:
+                oldEntry = existingByName[source['name']]
+                # rename file
+                pathFrom = "%s/%s" % (folderPath, oldEntry['filename'])
+                pathTo = "%s/%s" % (folderPath, filename)
+
+                if oldEntry['id'] in existing:
+                    del existing[oldEntry['id']]
+                os.rename(pathFrom, pathTo)
+
+            # create new
+            else:
+                name = source["name"]
+                if len(source['desc']) > 0:
+                    # Automatic translation
+                    logging.info("Translating %s" % name)
+                    #print("Translating %s" % name)
+                    #translation_data = full_trad(driver, source['desc'])
+                    #tradDesc = translation_data.data
+                    #status = translation_data.status
+                    # FIX : auto-trad trop longue pour le bestiaire 3
+                    status="aucune"
+                    tradDesc = ""
+                else:
+                    tradDesc = ""
+                    status = "vide"
+
+                data = {
+                    'nameEN': name,
+                    'nameFR': "",
+                    'status': status,
+                    'descrEN': source['desc'],
+                    'descrFR': tradDesc,
+                    'listsEN': source['lists'],
+                    'dataEN': source['data'],
+                    'listsFR': {}
+                }
+                dataToFile(data, filepath)
+                # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
+
+    if pack_has_errors == True:
+        print_warning("Invalid data in pack %s, skipping" % (folderPath))
+        return True
+
+    # =======================
+    # search deleted elements
+    # =======================
+    for id in existing:
+        if not id in entries:
+            filename = "%s/%s" % (folderPath, existing[id]['filename'])
+            if existing[id]['status'] != 'aucune':
+                print_warning("File cannot be safely removed! %s, please fix manually!" % filename)
+            os.remove(filename)
+
+    return False
