@@ -4,7 +4,7 @@
         {
             "id": "Flat-Footed",
             "name": "Pris au dépourvu (Flat-Footed)",
-            "description": "<p>Vous êtes distrait, ou quelque chose d’autre vous empêche de vous concentrer entièrement sur vos défenses. Vous subissez un malus de circonstances de −2 à votre CA. Certains effets vous confèrent l’état Pris au dépourvu seulement face à certaines créatures ou certaines attaques. D’autres, notamment les états, vous rendent Pris au dépourvu contre tout. Si une règle ne précise pas que cet état est seulement valable dans une situation donnée, il est valable pour toutes les situations. Par exemple, de nombreux effets précisent simplement : « la cible est Prise au dépourvu ».</p>"
+            "description": "<p>Vous êtes distrait, ou quelque chose d’autre vous empêche de vous concentrer entièrement sur vos défenses. Vous subissez un malus de circonstances de -2 à votre CA. Certains effets vous confèrent l’état Pris au dépourvu seulement face à certaines créatures ou certaines attaques. D’autres, notamment les états, vous rendent Pris au dépourvu contre tout. Si une règle ne précise pas que cet état est seulement valable dans une situation donnée, il est valable pour toutes les situations. Par exemple, de nombreux effets précisent simplement : « la cible est Prise au dépourvu ».</p>"
         },
         {
             "id": "Unnoticed",
@@ -29,7 +29,7 @@
         {
             "id": "Broken",
             "name": "Brisé (Broken)",
-            "description": "<p>Brisé est un état affectant les objets. Un objet est brisé quand des dégâts ont réduit ses points de vie au niveau de son Seuil de rupture ou moins. On ne peut plus utiliser normalement un objet brisé, pas plus qu’il n’accorde de bonus, à l’exception d’une armure. Une armure brisée accorde toujours son bonus d’objet à la CA, mais inflige en même temps un malus de statut à la CA en fonction de sa catégorie : −1 pour une armure légère brisée, −2 pour une armure intermédiaire brisée ou −3 pour une armure lourde brisée.</p>\n<p>Un objet brisé continue d’imposer les malus et les limitations normalement encourus lorsqu’on le transporte, le tient ou le porte. Par exemple, une armure brisée imposera toujours son bonus de Dextérité maximal, son malus aux tests, etc.</p>\n<p>Si un effet fait se briser un objet automatiquement et que celui-ci a plus de points de vie que son Seuil de rupture, cet effet réduit également les points de vie actuels de l’objet à son Seuil de rupture.</p>"
+            "description": "<p>Brisé est un état affectant les objets. Un objet est brisé quand des dégâts ont réduit ses points de vie au niveau de son Seuil de rupture ou moins. On ne peut plus utiliser normalement un objet brisé, pas plus qu’il n’accorde de bonus, à l’exception d’une armure. Une armure brisée accorde toujours son bonus d’objet à la CA, mais inflige en même temps un malus de statut à la CA en fonction de sa catégorie : -1 pour une armure légère brisée, -2 pour une armure intermédiaire brisée ou −3 pour une armure lourde brisée.</p>\n<p>Un objet brisé continue d’imposer les malus et les limitations normalement encourus lorsqu’on le transporte, le tient ou le porte. Par exemple, une armure brisée imposera toujours son bonus de Dextérité maximal, son malus aux tests, etc.</p>\n<p>Si un effet fait se briser un objet automatiquement et que celui-ci a plus de points de vie que son Seuil de rupture, cet effet réduit également les points de vie actuels de l’objet à son Seuil de rupture.</p>"
         },
         {
             "id": "Drained",
@@ -49,12 +49,12 @@
         {
             "id": "Fascinated",
             "name": "Fasciné (Fascinated)",
-            "description": "<p>Votre attention est irrésistiblement attirée par quelque chose et vous ne faites plus attention à ce qui se déroule autour de vous. Vous subissez un malus de statut de −2 à vos tests de Perception et de compétences et vous ne pouvez pas entreprendre d’actions dotées du trait concentration, sauf si ces actions ou leurs conséquences sont liées à l’objet de votre fascination (avec l’accord du MJ). Par exemple, vous pourrez probablement @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} et @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de quelque chose par rapport au sujet de votre fascination, mais vous ne pourrez normalement pas lancer de sort ciblant une autre créature. Cet état prend fin si une créature entreprend une action hostile contre vous ou n’importe lequel de vos alliés.</p>"
+            "description": "<p>Votre attention est irrésistiblement attirée par quelque chose et vous ne faites plus attention à ce qui se déroule autour de vous. Vous subissez un malus de statut de -2 à vos tests de Perception et de compétences et vous ne pouvez pas entreprendre d’actions dotées du trait concentration, sauf si ces actions ou leurs conséquences sont liées à l’objet de votre fascination (avec l’accord du MJ). Par exemple, vous pourrez probablement @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Chercher} et @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} de quelque chose par rapport au sujet de votre fascination, mais vous ne pourrez normalement pas lancer de sort ciblant une autre créature. Cet état prend fin si une créature entreprend une action hostile contre vous ou n’importe lequel de vos alliés.</p>"
         },
         {
             "id": "Fatigued",
             "name": "Fatigué (Fatigued)",
-            "description": "<p>Vous êtes fatigué et n’arrivez pas à rassembler vos forces. Vous subissez un malus de statut de −1 à votre CA et à vos jets de sauvegarde. Quand vous explorez, vous ne pouvez pas choisir d’activité d’exploration.</p>\n<p>Vous vous remettez de l’état Fatigué au terme d’une nuit complète de repos.</p>"
+            "description": "<p>Vous êtes fatigué et n’arrivez pas à rassembler vos forces. Vous subissez un malus de statut de -1 à votre CA et à vos jets de sauvegarde. Quand vous explorez, vous ne pouvez pas choisir d’activité d’exploration.</p>\n<p>Vous vous remettez de l’état Fatigué au terme d’une nuit complète de repos.</p>"
         },
         {
             "id": "Confused",
@@ -99,7 +99,7 @@
         {
             "id": "Deafened",
             "name": "Sourd (Deafened)",
-            "description": "<p>Vous ne pouvez pas entendre. Vous échouez automatiquement à tous les tests de Perception qui reposent sur votre audition. Vous subissez un malus de statut de −2 à vos tests de Perception destinés à déterminer l’initiative et aux tests en rapport avec le son et d’autres sens. Si vous accomplissez une action qui a le trait audible, vous devez réussir un test nu DD 5 ou perdre l’action. Vous faites ce test après avoir dépensé l’action mais avant d’appliquer ses effets. Vous êtes immunisé contre les effets audibles.</p>"
+            "description": "<p>Vous ne pouvez pas entendre. Vous échouez automatiquement à tous les tests de Perception qui reposent sur votre audition. Vous subissez un malus de statut de -2 à vos tests de Perception destinés à déterminer l’initiative et aux tests en rapport avec le son et d’autres sens. Si vous accomplissez une action qui a le trait audible, vous devez réussir un test nu DD 5 ou perdre l’action. Vous faites ce test après avoir dépensé l’action mais avant d’appliquer ses effets. Vous êtes immunisé contre les effets audibles.</p>"
         },
         {
             "id": "Observed",
@@ -184,7 +184,7 @@
         {
             "id": "Prone",
             "name": "À terre (Prone)",
-            "description": "<p>Vous êtes étendu au sol. Vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} et subissez un malus de circonstances de −2 à vos jets d’attaque. Les seules actions de déplacement que vous pouvez entreprendre quand vous êtes à terre sont @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Ramper} et @Compendium[pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Vous relever}. Si vous vous relevez, vous mettez un terme à l’état à terre. Quand vous êtes à terre, vous pouvez vous @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mettre à l’abri} pour vous accroupir et bénéficier d’un abri contre les attaques à distance, même si vous ne vous abritez pas derrière un objet. Vous gagnez alors un bonus de circonstances de +4 à votre CA contre les attaques à distance (mais restez dans l’état Pris au dépourvu.</p>\n<p>Si vous tombez à terre alors que vous étiez en train d’@Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} ou de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, vous chutez. Vous ne pouvez pas être renversé et tomber à terre quand vous @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nagez}.</p>"
+            "description": "<p>Vous êtes étendu au sol. Vous êtes @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} et subissez un malus de circonstances de -2 à vos jets d’attaque. Les seules actions de déplacement que vous pouvez entreprendre quand vous êtes à terre sont @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Ramper} et @Compendium[pf2e.actionspf2e.OdIUybJ3ddfL7wzj]{Vous relever}. Si vous vous relevez, vous mettez un terme à l’état à terre. Quand vous êtes à terre, vous pouvez vous @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Mettre à l’abri} pour vous accroupir et bénéficier d’un abri contre les attaques à distance, même si vous ne vous abritez pas derrière un objet. Vous gagnez alors un bonus de circonstances de +4 à votre CA contre les attaques à distance (mais restez dans l’état Pris au dépourvu.</p>\n<p>Si vous tombez à terre alors que vous étiez en train d’@Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader} ou de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, vous chutez. Vous ne pouvez pas être renversé et tomber à terre quand vous @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nagez}.</p>"
         },
         {
             "id": "Sickened",

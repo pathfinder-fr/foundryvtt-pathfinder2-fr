@@ -179,7 +179,7 @@
         {
             "id": "Euryale (curse)",
             "name": "Euryale (curse) (Euryale (malédiction))",
-            "description": "<p>L’image d’une méduse vous maudit avec un malus de statut permanent de −1 à tous vos jets de sauvegarde. Cette malédiction ne peut être levée que par une divinité ou la carte Les Parques.</p>\n<p>@Compendium[pf2e.equipment-effects.8ersuvNJXX00XaIQ]{Effet : carte Euryale (malédiction)}</p>"
+            "description": "<p>L’image d’une méduse vous maudit avec un malus de statut permanent de -1 à tous vos jets de sauvegarde. Cette malédiction ne peut être levée que par une divinité ou la carte Les Parques.</p>\n<p>@Compendium[pf2e.equipment-effects.8ersuvNJXX00XaIQ]{Effet : carte Euryale (malédiction)}</p>"
         },
         {
             "id": "Academy Trained",

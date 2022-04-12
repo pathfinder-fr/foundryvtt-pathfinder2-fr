@@ -1703,6 +1703,17 @@
         }
     ],
     "mapping": {
-        "description": "data.details.publicNotes"
+        "description": "data.details.publicNotes",
+        "cadetails": "data.attributes.ac.details",
+        "ci": "data.traits.ci.custom",
+        "damageimmunity": "data.traits.di.custom",
+        "damageresistance": "data.traits.dr.custom",
+        "damagevulnerability": "data.traits.dv.custom",
+        "hpdetails": "data.attributes.hp.details",
+        "languages": "data.traits.languages.custom",
+        "saves": "data.attributes.allSaves.value",
+        "senses": "data.traits.senses.value",
+        "speeds": "data.attributes.speed.details",
+        "traits": "data.traits.traits.custom"
     }
 }

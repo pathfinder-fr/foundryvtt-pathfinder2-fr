@@ -73,8 +73,8 @@
         },
         {
             "id": "Baalzebul",
-            "name": "Baalzébul (Baalzebul)",
-            "description": ""
+            "name": "Baalzébul (Archidiable) (Baalzebul)",
+            "description": "<p>Baalzébul était l’un des premiers anges du Paradis, un lieutenant glorieux qui a suivi Asmodeus dans son exode aux Enfers. Dans ce nouveau royaume, il prit la tête des armées infernales et forma plusieurs autres archidiables comme généraux. Quand Asmodeus répartit les neuf royaumes des Enfers entre lui et les huit archidiables, Baalzébul contesta cette décision, car il pensait avoir mérité sa place aux côtés du dieu. Asmodeus réagit en le dépouillant de son apparence radieuse, le changeant en un être composé d’une nuée de mouches. Désormais connu sous le titre de Seigneur des Mouches, Baalzébul règne sur Cocyte, le septième niveau gelé des Enfers, et attire des adorateurs à l’ambition dévorante ou mus par une soif ardente de triomphe.</p>\n<p><strong>Édits</strong> Adopter une attitude régalienne, chercher à vous venger de ceux qui vous font du tort, exiger ce que vous souhaitez et  méritez.</p>\n<p><strong>Anathèmes</strong> Faire preuve d’humilité, susciter la convoitise de Baalzébul.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "Cayden Cailean",
@@ -298,8 +298,8 @@
         },
         {
             "id": "Ayrzul",
-            "name": "Ayrzul (Ayrzul)",
-            "description": ""
+            "name": "Ayrzul (Seigneur Élémentaire) (Ayrzul)",
+            "description": "<p>Seigneurs des secrets enterrés, de la terre et du métal, Ayrzul le Roi Fossilisé demeure un mystère même sur le plan de la terre. Personne n’a jamais vu le seigneur élémentaire de la terre hors de son royaume, le Labyrinthe caniculaire, et rares sont ceux qui connaissent sa vraie nature ou l’aspect qu’il prend lors de ses apparitions. Certains le décrivent comme un gigantesque dragon cristallin mort-vivant, d’autres comme un vieux génie magicien, d’autres encore comme un fragment d’une divinité oubliée depuis longtemps, qu’elle aurait rejeté avant d’être détruite. Ses pouvoirs, ses motivations et ses origines sont de même l’objet d’innombrables rumeurs. Mais ces spéculations sont insignifiantes pour le Roi fossilisé ; il est indifférent même à la politique menée sur son plan. Le seigneur de la terre préfère se consacrer à ses complots contre sa rivale haïe, @Compendium[pf2e.deities.7L9KIqixgseSCY3X]{Ymeri}, le seigneur élémentaire du feu.</p>\n<p>Les adorateurs d’Ayrzul comprennent des xiomorns — les enfants de @Compendium[pf2e.deities.1NxkZf6ndijKeufX]{Saïrazul}, qu’il lui a volés —, une poignée de méphites et d’autres élémentaires, et des groupes d’humanoïdes du plan matériel qui s’intéressent à l’hostilité invisible de la terre.</p>\n<p><strong>Édits</strong> Empoisonner lentement les autres, soi-même et ses secrets ; dissimuler ses véritables intentions, utiliser la force de la pierre pour se protéger</p>\n<p><strong>Anathèmes</strong> Faire un feu plus grand ou plus chaud que nécessaire, soigner une créature de son état pétrifié</p>\n<p><strong>Préoccupations</strong> Secrets enterrés, terre, métaux.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre} </p>"
         },
         {
             "id": "Doloras",
@@ -338,8 +338,8 @@
         },
         {
             "id": "Baphomet",
-            "name": "Baphomet (Baphomet)",
-            "description": ""
+            "name": "Baphomet (Seigneur démon) (Baphomet)",
+            "description": "<p>Baphomet, Seigneur du Labyrinthe, est le seigneur démon des bêtes, des labyrinthes et des minotaures. Jadis un consort de @Compendium[pf2e.deities.aipkJQxP4GBsTaGq]{Lamashtu}, Baphomet est devenu seigneur démon après avoir échappé à l’emprisonnement dans un labyrinthe conçu par @Compendium[pf2e.deities.QRkcFciCOmFoxF1B]{Asmodeus}. Il a l’apparence d’un énorme minotaure émacié, doté d’ailes de plumes et d’une tête caprine portant trois cornes, marquée au front d’un pentagramme flamboyant. Les sectes adorant Baphomet sont très nombreuses sur Golarion ; ces sociétés secrètes dominées par des humains sont présentes dans beaucoup de villes, où certains de leurs membres pourraient détenir le pouvoir politique. La plupart des minotaures préfèrent aussi se ranger sous son patronage plutôt que sous celui de Lamashtu.</p>\n<p><strong>Édits</strong> Arpenter des labyrinthes, confondre les sentiers et les routes, se montrer plus malin que ses ennemis plutôt que les dominer physiquement.</p>\n<p><strong>Anathèmes</strong> Négocier avec Asmodeus, tuer quelque chose qui ne représente pas de grand danger </p>\n<p><strong>Préoccupation</strong> Bêtes, labyrinthes, minotaures</p>\n<hr />\n<p><strong>Domaines</strong> Petits plaisirs, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} <p>"
         },
         {
             "id": "Ragadahn",
@@ -368,13 +368,13 @@
         },
         {
             "id": "Alseta",
-            "name": "Alséta (Alseta)",
-            "description": ""
+            "name": "Alséta (Mer intérieure) (Alseta)",
+            "description": "<p>Alséta exerce son emprise sur les transitions. Qu’il s’agisse de transitions physiques, comme passer une porte ou un seuil, de transitions métaphoriques ou même de l’écoulement du temps, toutes sont sous l’influence d’Alséta. Elle veille sur les portes des villes et contribue à la sécurité de leurs défenseurs en les aidant à empêcher les envahisseurs d’y pénétrer. Elle veille également sur ceux qui franchissent une nouvelle étape de leur vie sous la forme d’un anniversaire, d’un mariage ou d’un changement physique. Il n’est pas rare que quelqu’un qui apporte un changement à sa vie, en s’installant dans une nouvelle ville ou en changeant de carrière, par exemple, demande des conseils à Alséta. La naissance et la mort sont également des transitions et les futures mères comme les personnes endeuillées lui adressent leurs prières en même temps qu’à Pharasma. Certains considèrent Alséta comme la déesse de la téléportation, même si elle-même ne revendique pas officiellement ce titre. Alséta est également appréciée des elfes, qui l’associent aux aiudaras, un réseau de portails elfiques couvrant Golarion.</p>\n<p><strong>Édits</strong> Proposer de protéger les passages et guider les autres lors des transitions, traiter tous les autres êtres avec courtoisie et respect.</p>\n<p><strong>Anathèmes</strong> Arrêter une transition sans raison valable, détruire une porte ou bloquer un chemin pour des raisons personnelles</p>\n<p><strong>Préoccupations</strong> Portes, portails, seuils, traditions</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.udASTZy5jJWFCt5w]{Temps}</p>"
         },
         {
             "id": "Hshurha",
-            "name": "Hshurha (Hshurha)",
-            "description": ""
+            "name": "Hshurha (Seigneur Élémentaire) (Hshurha)",
+            "description": "<p>Hshurha, la Duchesse de tous les Vents, est le seigneur élémentaire de l’air, des tempêtes et des derniers soupirs. Elle règne sur le plan de l’air dans son palais translucide, Précession verglacée, entourée de sa cour d’élémentaires d’air, de dignitaires planaires et de Seigneurs élémentaires, ses invités favoris. La Duchesse est invisible au naturel, et sa forme réelle — pour autant qu’elle en ait une — est un mystère. Cruelle et tyrannique, Hshurha aime jouer au chat et à la souris avec les étrangers pénétrant son royaume, et elle est réputée être particulièrement vicieuse envers les créatures dotées de formes solides. Au gré de ses humeurs tumultueuses, elle érige et détruit de magnifiques sculptures de glace et de poussière. Ses machinations semblent souvent complexes et absurdes, même pour ses proches. La plupart des habitants de son plan la craignent et la respectent.</p>\n<p>Elle est adorée par des élémentaires d’air en tant que déesse mère, ainsi que par des traqueurs invisibles et par des cultistes qui aiment satisfaire ses caprices et se délectent des tempêtes imprévisibles. Malgré la paix froide qui règne entre les djinns et elle, certains pensent qu’elle s’abouche avec les éfrits ou se sert de ses traqueurs invisibles pour affaiblir l’emprise des djinns sur son plan.</p>\n<p><strong>Édits</strong> Humilier les créatures terrestres, se délecter de l’absence de forme et de la liberté, tuer ses ennemis en les faisant chuter ou en les exposant à des vents violents.</p>\n<p><strong>Anathèmes</strong> Marcher sur le sol quand il existe une alternative simple, priver une créature volante de sa capacité de voler.</p>\n<p><strong>Préoccupations</strong> Air, derniers souffles, vents de tempêtes</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.y3TTKFLPbP09HZUW]{Froid}, @Compendium[pf2e.domains.zec5N7EnDJANGHmy]{Poussière} </p>"
         },
         {
             "id": "Adanye",
@@ -478,8 +478,8 @@
         },
         {
             "id": "Valmallos",
-            "name": "Valmallos (Valmallos)",
-            "description": ""
+            "name": "Valmallos (Demi-dieu Veilleur) (Valmallos)",
+            "description": "<p>Le Rite Répliquant est l’inévitable primordial des cérémonies, de la magie et de la préparation. Valmallos a l’aspect d’un géant mécanique dont la poitrine ouverte dévoile un coeur rayonnant ; il est entouré de parchemins déroulés ondulant comme des serpents. Il comprend toutes les lois de la magie et déploie ses agents contre ceux qui disposent de pouvoirs magiques, mais sans les avoir mérités ni avoir la discipline nécessaire pour les contrôler. Nombreux sont les érudits de la magie estimant que Valmallos est au moins en partie responsable de la complexité des composants matériels, somatiques et verbaux nécessaires à l’exercice de la magie. Ses adorateurs sont des incantateurs qui recherchent la perfection dans l’accomplissement de la magie et dans ses effets. Bien qu’ils acceptent d’enseigner à autrui leur magie, ils dissimulent leurs techniques sous de multiples rituels pour éliminer ceux qui n’auraient pas la patience de l’exercer correctement.</p>\n<p><strong>Édits</strong> Affiner les principes fondamentaux des arcanes, complexifier les techniques magiques, enseigner aux apprentis arcanistes à utiliser la magie de manière responsable.</p>\n<p><strong>Anathèmes</strong> Accorder de la magie à ceux qui ne peuvent pas l’utiliser de manière responsable, ne pas réagir face à une mauvaise utilisation de la magie, provoquer un désastre magique.</p>\n<p><strong>Préoccupations</strong> Rituels, magie, et préparations</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}</p>"
         },
         {
             "id": "Shyka",
@@ -543,8 +543,8 @@
         },
         {
             "id": "Trelmarixian",
-            "name": "Trelmarixian (Trelmarixian)",
-            "description": ""
+            "name": "Trelmarixian (Cavalier) (Trelmarixian)",
+            "description": "<p>Avant son décès en tant que mortel, Trelmarixian avait déjà détruit un monde entier. Autrefois un tieffelin au sang de daémon, il vouait à tous ceux qui l’entouraient d’une haine inexpiable et ne connaissait jamais la paix. Au cours d’une éclipse, il accomplit un rituel si puissant que toutes les créatures vivantes de son monde se momifièrent, ce qui combla enfin son coeur. Mourant de faim mais exultant de son triomphe, Trelmarixian entendit une voix l’appeler. Sur un ton moqueur, elle prétendait que ce qu’il avait commis n’était rien à côté de ce qui l’attendait. Le dernier souvenir de mortel de Trelmarixian est d’avoir contemplé une éclipse.</p>\n<p>Lyutheria, le Cavalier de la Famine d’origine, impressionnée par les hauts faits de Trelmarixian, le prit comme apprenti, commettant l’erreur fatale de sous-estimer ses ambitions. Après que Trelmarixian eut appris tout ce qu’il pouvait de sa maîtresse, il la dévora et reprit son titre.</p>\n<p>Trelmarixian a l’apparence d’un homme maladif doté de trois têtes de chacals aux mâchoires qui claquent et dont la chair putride et membraneuse suinte et se détache de son corps en permanence. En tant que Cavalier de la Famine, Trelmarixian amène lentement au néant, observant les mortels se flétrir et leurs corps se tourner contre eux. Il répand le cancer par son contact, poussant les cellules à la rébellion, et son souffle déclenche crises d’urticaire et attaques d’asthme autour de lui. Avec Szuriel, il fait en sorte que les soldats ne retournent jamais dans leurs foyers pour cultiver leurs champs, afin que les moissons pourrissent sur pied. Il coopère avec Apollyon pour répandre des maladies au sein du bétail, vidant les étals des bouchers. En revanche, Trelmarixian n’accorde que peu de confiance à Charon, persuadé que le plus vieux des Cavaliers cache des secrets.</p>\n<p><strong>Édits</strong> Dévorer violemment la matière et les âmes, mettre fin à toute vie mortelle par une lente maladie et la famine</p>\n<p><strong>Anathèmes</strong> Faire pousser de la nourriture, tuer ou retirer un parasite ou une tumeur</p>\n<p><strong>Préoccupations</strong> Famine</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.zec5N7EnDJANGHmy]{Poussière}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}</p>"
         },
         {
             "id": "Zon-Kuthon",
@@ -598,8 +598,8 @@
         },
         {
             "id": "Mahathallah",
-            "name": "Mahathallah (Mahathallah)",
-            "description": ""
+            "name": "Mahathallah (Reine de la nuit) (Mahathallah)",
+            "description": "<p>Alors que les autres reines de la nuit sont toutes des célestes déchues, Mahathallah comptait jadis parmi les veilleurs les plus puissants : une guide psychopompe au service de Pharasma. Mais après qu’on lui eut permis d’entrevoir la fin de sa propre existence, Mahathallah se réfugia dans les fosses des Enfers où Asmodeus, par son soutien, lui prodigua un certain réconfort. Désormais appelée la Douairière des Illusions, elle traite des questions de la mort, de la destinée et de la vanité, déchirant les voiles des mensonges qui dissimulent les faits profonds de l’existence. Elle apprend à ses adorateurs à rechercher les vérités derrière chaque mensonge et fomente en leur coeur l’arrogance et l’insensibilité. Elle sert aussi de conseillère froide et réfléchie pour les autres reines de la nuit.</p>\n<p><strong>Édits</strong> Miser sur l’ignorance des autres, rejeter la sagesse conventionnelle comme étant erronée, se faire arbitre de la réalité.</p>\n<p><strong>Anathèmes</strong> Trop s’investir dans les affaires des mortels.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.9tsJg13xeJLGzzGV]{Non-mort}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}<p>"
         },
         {
             "id": "Urgathoa",
@@ -738,8 +738,8 @@
         },
         {
             "id": "Lamashtu",
-            "name": "Lamashtu (Lamashtu)",
-            "description": ""
+            "name": "Lamashtu (Mer Intérieure) (Lamashtu)",
+            "description": "<p>À tous ceux qui savourent la corruption des purs ou qui se sentent rejetés et négligés par un monde qui méprise leurs différences, Lamashtu offre un répit parmi sa progéniture grotesque. La Mère des Monstres accueille volontiers des mortels dans son giron et elle s’est donné pour objectif de dévoyer les mortels et les attirer vers ses ignobles idéaux. Son intervention est réputée être corruptrice et causer de terribles cauchemars. Les individus ostracisés qui partagent ses idéaux considèrent cette intervention comme une grâce, tandis que les autres y voient une malédiction. Par-dessus tout, Lamashtu désire la prolifération, la propagation et la domination de ses enfants. Son contact avec le monde des mortels révèle les défauts répugnants de ceux qui sont considérés comme beaux et respectables. Elle cherche, tout comme ses adeptes, des occasions de déchirer le voile de l’innocence de toutes les créatures afin de révéler leur potentiel de haine et d’abjection dans un monde hypocrite.</p>\n<p><strong>Édits</strong> Donner du pouvoir aux parias et aux rejetés, endoctriner les enfants selon les préceptes de Lamashtu, rendre le beau monstrueux, se délecter de la corruption et des défauts de toute chose.</p>\n<p><strong>Anathèmes</strong> Tenter de soigner une maladie mentale ou une difformité, apporter de l’aide aux ennemis de Lamashtu.</p>\n<p><strong>Préoccupation</strong> Aberration, monstres et cauchemars</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement} </p>"
         },
         {
             "id": "Gozreh",
@@ -753,8 +753,8 @@
         },
         {
             "id": "Nethys",
-            "name": "Néthys (Nethys)",
-            "description": ""
+            "name": "Néthys (Mer Intérieure) (Nethys)",
+            "description": "<p>Certains considèrent la magie comme une arme puissante. D’autres y voient un outil malléable. Et, pour quelques-uns, elle est une finalité. Une bonne compréhension de la magie permet aux créatures de faire jaillir du feu de leurs mains, d’appeler à leur aide des êtres d’un autre monde, d’ensorceler les sens et même de ramener les morts à la vie. Nombreux sont ceux qui rêvent d’avoir cette capacité à remodeler la réalité afin qu’elle réponde à leurs besoins et leurs désirs, mais rares sont ceux qui parviennent à une véritable maîtrise de tels pouvoirs.</p>\n<p>Un de ces maîtres était Néthys, qui était vénéré comme un dieu-roi dans l’ancien Osirion. Après avoir cherché à percer tous les secrets des plans et au-delà et à en découvrir le potentiel, Néthys avait accumulé tellement de connaissances que son esprit s’était brisé. Voir l’ensemble de la création, accéder aux secrets de l’univers et à l’étendue de tout ce qui avait été vu et entendu et le serait, lui permit à la fois d’atteindre la divinité et, au même moment, lui fissura l’esprit. Néthys avait obtenu un pouvoir illimité et la capacité de l’utiliser, mais au prix de son identité profonde et de sa stabilité mentale. Son âme a été divisée en deux fragments luttant l’un contre l’autre au sein d’un même corps. L’un veut détruire le monde, le purger par le feu et la dévastation, et conquérir tout ce qui existe. L’autre veut protéger le monde, l’élever et l’éduquer, et lui permettre de s’affranchir de ses limitations.</p>\n<p><strong>Édits</strong> Chercher la puissance magique et s’en servir.</p>\n<p><strong>Anathèmes</strong> Préférer une approche ordinaire à une approche magique.</p>\n<p><strong>Préoccupation</strong> Magie</p\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Souvenir}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphe}</p>"
         },
         {
             "id": "Angazhan",
@@ -873,8 +873,8 @@
         },
         {
             "id": "Dagon",
-            "name": "Dagon (Dagon)",
-            "description": ""
+            "name": "Dagon (Seigneur Démon) (Dagon)",
+            "description": "<p>Dagon, l’Ombre sous la Mer, est le seigneur démon de la difformité, de la mer et des monstres marins. Il tient sa cour dans un océan sans fin parsemé d’îles déconcertantes et de fosses océaniques remplies de villes englouties qui échappent à la compréhension. Il a l’apparence d’une créature massive au bas du corps en forme d’anguille, avec la tête d’un prédateur des profondeurs et quatre tentacules s’agitant à la place de ses bras. Dagon était jadis un qlippoth, et aucun mortel ne sait pourquoi il s’est transformé en seigneur démon, ce qui lui a valu l’inimitié de son ancien peuple. Dagon est surtout adoré par les bourbiérins, les sahuagins, les skums et les géants des marais, quoique les habitants désespérés ou dépravés de certains villages côtiers se soient aussi dévoués à ce seigneur démon.</p>\n<p><strong>Édits</strong> Développer sa force, favoriser la propagation de dangereux monstres marins, nager sous l’eau</p>\n<p><strong>Anathèmes</strong> Briser un serment, raconter les secrets de Dagon à des étrangers, s’installer dans une région enclavée</p>\n<p><strong>Préoccupations</strong> Déformités, l'Océan, monstres marins.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Arshea",
@@ -973,8 +973,8 @@
         },
         {
             "id": "Thoth",
-            "name": "Thoth (Thoth)",
-            "description": ""
+            "name": "Thoth (Ancien dieu Osirien) (Thoth)",
+            "description": "<p><strong>Édits</strong> Maintain order in society and the multiverse, innovate scientific and magical knowledge, record events</p>\n<p><strong>Anathèmes</strong> Upset stable mechanisms or ecosystems, fail to correct false information</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphe}, @Compendium[pf2e.domains.mBvjWSvg7UYdS9TL]{Lune}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}</p>"
         },
         {
             "id": "Wadjet",
@@ -1113,8 +1113,8 @@
         },
         {
             "id": "Kofusachi",
-            "name": "Kofusachi (Kofusachi)",
-            "description": ""
+            "name": "Kofusachi (Dieu Tianais) (Kofusachi)",
+            "description": "<p><strong>Édits</strong> Contribuer à la prospérité de sa communauté, savourer les plaisirs de la vie, soutenir les entreprises locales</p>\n<p><strong>Anathèmes</strong> Juger quelqu’un en fonction de ses préférences sexuelles ou de son genre, s’installer quelque part</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.l2EFJssJKu7rG77m]{Chance}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage }</p>"
         }
     ],
     "mapping": {

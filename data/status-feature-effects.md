@@ -1,11 +1,19 @@
 # État de la traduction (feature-effects)
 
- * **libre**: 66
+ * **libre**: 64
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-c6yRHikgf6cm7cyB.htm](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wyrmblessed Blood Magic (Status Bonus - Self)|Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même)|changé|
+|[01-nX7fp5pZhTJH6Qfa.htm](feature-effects/01-nX7fp5pZhTJH6Qfa.htm)|Effect: Wyrmblessed Blood Magic (Status Penalty - Target)|Magie du sang béni du Ver (Pénalité de statut - cible)|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -23,7 +31,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-9AUcoY48H5LrVZiF.htm](feature-effects/01-9AUcoY48H5LrVZiF.htm)|Effect: Genie Blood Magic (Self)|Effet : Magie du sang génie (soi-même)|libre|
 |[01-9GIlMB09zKCsnuBP.htm](feature-effects/01-9GIlMB09zKCsnuBP.htm)|Effect: Moderate Life Curse|Effet : Malédiction modérée de la vie|libre|
 |[01-aKRo5TIhUtu0kyEr.htm](feature-effects/01-aKRo5TIhUtu0kyEr.htm)|Effect: Demonic Blood Magic (Self)|Effet : Magie du sang démoniaque (Soi-même)|libre|
-|[01-c6yRHikgf6cm7cyB.htm](feature-effects/01-c6yRHikgf6cm7cyB.htm)|Effect: Wymblessed Blood Magic (Status Bonus - Self)|Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même)|libre|
 |[01-cCouACwRwxjEgy7u.htm](feature-effects/01-cCouACwRwxjEgy7u.htm)|Effect: Major Cosmos Curse|Effet : Malédiction majeure du cosmos|libre|
 |[01-d0fXbhu8qH1TQwXE.htm](feature-effects/01-d0fXbhu8qH1TQwXE.htm)|Effect: Moderate Flames Curse|Effet : Malédiction modérée des flammes|libre|
 |[01-EtFMN1ZLkL7sUk01.htm](feature-effects/01-EtFMN1ZLkL7sUk01.htm)|Effect: Life Curse|Effet : Malédiction de la vie|libre|
@@ -47,7 +54,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-MrLjJVltBpvMMD8Q.htm](feature-effects/01-MrLjJVltBpvMMD8Q.htm)|Effect: Moderate Lore Curse|Effet : Malédiction modérée du Savoir|libre|
 |[01-n1vhmOd7aNiuR3nk.htm](feature-effects/01-n1vhmOd7aNiuR3nk.htm)|Effect: Diabolic Blood Magic (Self)|Effet : Magie du sang diabolique (soi-même)|libre|
 |[01-Nv70aqcQgCBpDYp8.htm](feature-effects/01-Nv70aqcQgCBpDYp8.htm)|Effect: Shadow Blood Magic (Perception)|Effet : Magie du sang ombre (Perception)|libre|
-|[01-nX7fp5pZhTJH6Qfa.htm](feature-effects/01-nX7fp5pZhTJH6Qfa.htm)|Effect: Wymblessed Blood Magic (Status Penalty - Target)|Magie du sang béni du Ver (Pénalité de statut - cible)|libre|
 |[01-OqH6IaeOwRWkGPrk.htm](feature-effects/01-OqH6IaeOwRWkGPrk.htm)|Effect: Shadow Blood Magic (Stealth)|Effet : Magie du sang ombre (Discrétion)|libre|
 |[01-Osr01ZmGZNdArXyT.htm](feature-effects/01-Osr01ZmGZNdArXyT.htm)|Effect: Major Bones Curse|Effet : Malédiction majeure des ossements|libre|
 |[01-OzA7pUzYe2ZIprYJ.htm](feature-effects/01-OzA7pUzYe2ZIprYJ.htm)|Effect: Major Martial Ancestor Curse|Effet : Malédiction majeure de l'ancêtre combattant|libre|

@@ -2,8 +2,8 @@
     "label": "Effets des capacités",
     "entries": [
         {
-            "id": "Effect: Wymblessed Blood Magic (Status Bonus - Self)",
-            "name": "Effect: Wymblessed Blood Magic (Status Bonus - Self) (Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même))",
+            "id": "Effect: Wyrmblessed Blood Magic (Status Bonus - Self)",
+            "name": "Effect: Wyrmblessed Blood Magic (Status Bonus - Self) (Effet : Magie du sang béni du Ver (Bonus de statut - Soi-même))",
             "description": "<p>La puissance draconique transparaît dans votre voix. Vous obtenez un bonus de statut de +1 aux tests d'intimidation pendant 1 round.</p>"
         },
         {
@@ -67,8 +67,8 @@
             "description": "<p>Des étincelles féeriques colorées virevoltent autour de vous ou autour d’une cible ; vous ou la cible êtes ainsi Masqués pendant 1 round. Un camouflage aussi évident ne permet pas de Se cacher.</p>"
         },
         {
-            "id": "Effect: Wymblessed Blood Magic (Status Penalty - Target)",
-            "name": "Effect: Wymblessed Blood Magic (Status Penalty - Target) (Magie du sang béni du Ver (Pénalité de statut - cible))",
+            "id": "Effect: Wyrmblessed Blood Magic (Status Penalty - Target)",
+            "name": "Effect: Wyrmblessed Blood Magic (Status Penalty - Target) (Magie du sang béni du Ver (Pénalité de statut - cible))",
             "description": "<p>La puissance draconique transparaît dans votre voix. Une cible subit une pénalité de statut de -1 aux jets de Volonté pendant 1 round.</p>"
         },
         {
@@ -214,7 +214,7 @@
         {
             "id": "Effect: Demonic Blood Magic (Target)",
             "name": "Effect: Demonic Blood Magic (Target) (Effet : Magie du sang démoniaque (Cible))",
-            "description": "<p>La corruption pécheresse affaiblit les défenses d’une cible. Une cible subit un malus de statut de −1 à la CA pendant 1 round.</p>"
+            "description": "<p>La corruption pécheresse affaiblit les défenses d’une cible. Une cible subit un malus de statut de -1 à la CA pendant 1 round.</p>"
         },
         {
             "id": "Effect: Genie Blood Magic (Target)",

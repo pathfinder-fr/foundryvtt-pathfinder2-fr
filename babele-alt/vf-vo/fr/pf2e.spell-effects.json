@@ -19,7 +19,7 @@
         {
             "id": "Spell Effect: Levitate",
             "name": "Effet : Lévitation (Spell Effect: Levitate)",
-            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]{Lévitation}</em>.</p>\n<p>Vous subissez un malus de circonstances de −2 aux jets d’attaque pendant que vous flottez dans les airs. Vous pouvez effectuer l’action Interagir pour vous stabiliser et annuler ce malus pour le reste de votre tour.</p>"
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.fI20AVwOzJMHXRdo]{Lévitation}</em>.</p>\n<p>Vous subissez un malus de circonstances de -2 aux jets d’attaque pendant que vous flottez dans les airs. Vous pouvez effectuer l’action Interagir pour vous stabiliser et annuler ce malus pour le reste de votre tour.</p>"
         },
         {
             "id": "Spell Effect: Dragon Claws",
