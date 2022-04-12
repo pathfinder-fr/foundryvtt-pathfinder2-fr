@@ -26,6 +26,7 @@ from dataclasses import dataclass
 # extract   Dictionnaire contenant la liste des champs supplémentaires à extraire dans la section ------- Data et à traduire.
 #           La clé correspondra au nom du champ auquel sera ajouté FR et EN
 # lists     Dictionnaire contenant la liste des champs supplémentaires à extraire sous forme de liste, dont les différentes valeurs seront extraites avec un "|" comme séparateur, et à traduire.
+# items     (Bestiaire only) Les objets présents sur la créature
 SUPPORTED = {
     #### Les ascendances et les capacités
     "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
@@ -109,9 +110,84 @@ SUPPORTED = {
     #### Les conditions et états
     "conditionitems": {'transl': "Conditions", "paths": {'name': "name", 'desc': "data.description.value"}},
     #### L'opposition : bestiaires et dangers, capacités des monstres
-    "pathfinder-bestiary": {'transl': "Bestiaire", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
-    "pathfinder-bestiary-2": {'transl': "Bestiaire 2", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
-    "pathfinder-bestiary-3": {'transl': "Bestiaire 3", "paths": {'name': "name", 'desc': "data.details.publicNotes"}},
+    "pathfinder-bestiary": {
+        'transl': "Bestiaire",
+        "paths": {
+            'name': "name",
+            'desc': "data.details.publicNotes"
+        },
+        "extract": {
+            'CADetails': "data.attributes.ac.details",
+            'CI': "data.traits.ci.custom",
+            'DamageImmunity': "data.traits.di.custom",
+            'DamageResistance': "data.traits.dr.custom",
+            'DamageVulnerability': "data.traits.dv.custom",
+            'HPDetails': "data.attributes.hp.details",
+            'Languages': "data.traits.languages.custom",
+            'Saves': "data.attributes.allSaves.value",
+            'Senses': "data.traits.senses.value",
+            'Speeds': "data.attributes.speed.details",
+            'Traits': "data.traits.traits.custom"
+        },
+        "items": {
+            'paths': {
+                'name': "name",
+                'desc': "data.description.value"
+            },
+        }
+    },
+    "pathfinder-bestiary-2": {
+        'transl': "Bestiaire 2",
+        "paths": {
+            'name': "name",
+            'desc': "data.details.publicNotes"
+        },
+        "extract": {
+            'CADetails': "data.attributes.ac.details",
+            'CI': "data.traits.ci.custom",
+            'DamageImmunity': "data.traits.di.custom",
+            'DamageResistance': "data.traits.dr.custom",
+            'DamageVulnerability': "data.traits.dv.custom",
+            'HPDetails': "data.attributes.hp.details",
+            'Languages': "data.traits.languages.custom",
+            'Saves': "data.attributes.allSaves.value",
+            'Senses': "data.traits.senses.value",
+            'Speeds': "data.attributes.speed.details",
+            'Traits': "data.traits.traits.custom"
+        },
+        "items": {
+            'paths': {
+                'name': "name",
+                'desc': "data.description.value"
+            },
+        }
+    },
+    "pathfinder-bestiary-3": {
+        'transl': "Bestiaire 3",
+        "paths": {
+            'name': "name",
+            'desc': "data.details.publicNotes"
+        },
+        "extract": {
+            'CADetails': "data.attributes.ac.details",
+            'CI': "data.traits.ci.custom",
+            'DamageImmunity': "data.traits.di.custom",
+            'DamageResistance': "data.traits.dr.custom",
+            'DamageVulnerability': "data.traits.dv.custom",
+            'HPDetails': "data.attributes.hp.details",
+            'Languages': "data.traits.languages.custom",
+            'Saves': "data.attributes.allSaves.value",
+            'Senses': "data.traits.senses.value",
+            'Speeds': "data.attributes.speed.details",
+            'Traits': "data.traits.traits.custom"
+        },
+        "items": {
+            'paths': {
+                'name': "name",
+                'desc': "data.description.value"
+            },
+        }
+    },
     "hazards": {
       'transl': "Dangers",
       "paths": {
@@ -267,7 +343,6 @@ def equals(val1, val2):
     else:
         return val1.replace('\n', '').replace('\r', '').strip() == val2.replace('\n', '').replace('\r', '').strip()
 
-
 #
 # cette fonction tente une extraction d'une valeur dans un objet
 # Ex: data.level.value => obj["data"]["level"]["value"]
@@ -283,7 +358,6 @@ def getObject(obj, path, exitOnError=True):
         else:
             # print("Path %s not found for %s!" % (path, obj['name']))
             return None
-
     return element
 
 
@@ -318,7 +392,6 @@ def getList(obj, path, exitOnError=True):
         return []
     else:
         return element
-
 
 #
 # Cette fonction extrait l'information d'un fichier .htm sous forme d'un tableau contenant les différens attributs
@@ -370,6 +443,8 @@ def fileToData(filepath):
         data['misc'] = {}
 
         for line in content:
+            if line.startswith("Parent Name:"):
+                data['parentName'] = line[12:].strip()
             if line.startswith("Name:"):
                 data['nameEN'] = line[5:].strip()
             elif line.startswith("Nom:"):
@@ -397,11 +472,13 @@ def fileToData(filepath):
                 isData = True
             elif line.startswith("------ Description (en) ------"):
                 isData = False
+                isItems = False
                 isDescEN = True
                 isDescFR = False
                 continue
             elif line.startswith("------ Description (fr) ------"):
                 isData = False
+                isItems = False
                 isDescFR = True
                 isDescEN = False
                 continue
@@ -470,6 +547,8 @@ def fileToData(filepath):
 #
 def dataToFile(data, filepath):
     with open(filepath, 'w', encoding='utf8') as df:
+        if(data['parentName']):
+            df.write('Parent Name: ' + data['parentName'] + '\n')
         df.write('Name: ' + data['nameEN'] + '\n')
         df.write('Nom: ' + data['nameFR'] + '\n')
 
@@ -541,7 +620,6 @@ def isValid(data):
 # cette fonction lit tous les fichiers d'un répertoire (data)
 # et génère un dictionnaire basé sur les identifiants
 #
-
 
 def readFolder(path):
     resultById = {}
@@ -631,3 +709,4 @@ def addIfNotNull(dict: dict, key: str, value: any):
     if value is None:
         return
     dict[key] = value
+
