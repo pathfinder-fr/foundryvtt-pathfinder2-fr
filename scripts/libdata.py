@@ -134,6 +134,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
+            'extract': {
+                "variant-0": "data.variants.0.label",
+                "variant-1": "data.variants.1.label",
+                "variant-2": "data.variants.2.label"
+            }
         }
     },
     "pathfinder-bestiary-2": {
@@ -472,13 +477,11 @@ def fileToData(filepath):
                 isData = True
             elif line.startswith("------ Description (en) ------"):
                 isData = False
-                isItems = False
                 isDescEN = True
                 isDescFR = False
                 continue
             elif line.startswith("------ Description (fr) ------"):
                 isData = False
-                isItems = False
                 isDescFR = True
                 isDescEN = False
                 continue

@@ -18,7 +18,7 @@ translations = {}
 #
 # cette fonction ajoute dynamiquement les champs de listes
 #
-def addLists(pack, data, entry):
+def addLists(pack, data, entry, mapping_prefix):
   if "lists" in pack and "listsFR" in data:
     for k in pack["lists"]:
       if len(data["listsFR"][k]) > 0:
@@ -26,48 +26,46 @@ def addLists(pack, data, entry):
           json_array = []
           for item in data["listsFR"][k]:
             json_array += [{ "value": item }]
-          entry[k.lower()] = json_array
+          entry[mapping_prefix+k.lower()] = json_array
         else:
-          entry[k.lower()] = data["listsFR"][k]
+          entry[mapping_prefix+k.lower()] = data["listsFR"][k]
 
   if "extract" in pack:
     for k in pack["extract"]:
       if k in data["dataFR"] and len(data["dataFR"][k].strip()) > 0:
-        entry[k.lower()] = data["dataFR"][k]
+        entry[mapping_prefix+k.lower()] = data["dataFR"][k]
 
 
-def handlePack(p, path, key, packname, isItems=False):
+def handlePack(p, path, key, babele, babeleVfVo, babeleVoVf, babeleVo, isItems=False):
   preparedTranslations = []
   all_files = os.listdir(path)
-
-  babele     = { 'label': packname, 'entries': [], 'mapping': {}}
-  babeleVfVo = { 'label': packname, 'entries': [], 'mapping': {}}
-  babeleVoVf = { 'label': packname, 'entries': [], 'mapping': {}}
-  babeleVo   = { 'label': packname, 'entries': [], 'mapping': {}}
 
   count = { "aucune": 0, "libre": 0, "officielle": 0, "changé": 0, "doublon": 0,
             "auto-trad": 0, "auto-googtrad": 0, "vide": 0 }
 
+  # This in case of items, to prefix mappings
+  mapping_prefix = "items-" if isItems else ""
+
   # add mappings
   if 'desc' in p['paths']:
-    babele['mapping']["description"] = p['paths']['desc']
-    babeleVfVo['mapping']["description"] = p['paths']['desc']
-    babeleVoVf['mapping']["description"] = p['paths']['desc']
-    babeleVo['mapping']["description"] = p['paths']['desc']
+    babele['mapping'][mapping_prefix+"description"] = p['paths']['desc']
+    babeleVfVo['mapping'][mapping_prefix+"description"] = p['paths']['desc']
+    babeleVoVf['mapping'][mapping_prefix+"description"] = p['paths']['desc']
+    babeleVo['mapping'][mapping_prefix+"description"] = p['paths']['desc']
 
   if "lists" in p:
     for k in p["lists"]:
-      babele['mapping'][k.lower()] = p["lists"][k]
-      babeleVfVo['mapping'][k.lower()] = p["lists"][k]
-      babeleVoVf['mapping'][k.lower()] = p["lists"][k]
-      babeleVo['mapping'][k.lower()] = p["lists"][k]
+      babele['mapping'][mapping_prefix+k.lower()] = p["lists"][k]
+      babeleVfVo['mapping'][mapping_prefix+k.lower()] = p["lists"][k]
+      babeleVoVf['mapping'][mapping_prefix+k.lower()] = p["lists"][k]
+      babeleVo['mapping'][mapping_prefix+k.lower()] = p["lists"][k]
 
   if "extract" in p:
     for k in p["extract"]:
-      babele['mapping'][k.lower()] = p["extract"][k]
-      babeleVfVo['mapping'][k.lower()] = p["extract"][k]
-      babeleVoVf['mapping'][k.lower()] = p["extract"][k]
-      babeleVo['mapping'][k.lower()] = p["extract"][k]
+      babele['mapping'][mapping_prefix+k.lower()] = p["extract"][k]
+      babeleVfVo['mapping'][mapping_prefix+k.lower()] = p["extract"][k]
+      babeleVoVf['mapping'][mapping_prefix+k.lower()] = p["extract"][k]
+      babeleVo['mapping'][mapping_prefix+k.lower()] = p["extract"][k]
 
   # read all files in folder
   for fpath in all_files:
@@ -97,26 +95,57 @@ def handlePack(p, path, key, packname, isItems=False):
       print("Skipping invalid entry %s" % path + fpath)
       continue
 
+    # We use IDs for items
     if isItems:
-      entryId = fpath.replace(".htm", "")
+      entry_id = data["id"]
     else:
-      entryId = data['nameEN']
+      entry_id = data['nameEN']
+
     # default (all translations in french)
-    entry = { 'id': entryId, 'name': data['nameFR'], 'description': data['descrFR'] }
-    addLists(p, data, entry)
+    entry = { 'id': entry_id, 'name': data['nameFR'], mapping_prefix+"description": data['descrFR'] }
+    addLists(p, data, entry, mapping_prefix)
     babele['entries'].append(entry)
     # vf-vo (names in both languages, vf first)
-    entry = { 'id': entryId, 'name': ("%s (%s)" % (data['nameFR'], data['nameEN'])), 'description': data['descrFR'] }
-    addLists(p, data, entry)
+    entry = { 'id': entry_id, 'name': ("%s (%s)" % (data['nameFR'], data['nameEN'])), mapping_prefix+"description": data['descrFR'] }
+    addLists(p, data, entry, mapping_prefix)
     babeleVfVo['entries'].append(entry)
     # vo-vf (names in both languages, vo first)
-    entry = { 'id': entryId, 'name': ("%s (%s)" % (data['nameEN'], data['nameFR'])), 'description': data['descrFR'] }
-    addLists(p, data, entry)
+    entry = { 'id': entry_id, 'name': ("%s (%s)" % (data['nameEN'], data['nameFR'])), mapping_prefix+"description": data['descrFR'] }
+    addLists(p, data, entry, mapping_prefix)
     babeleVoVf['entries'].append(entry)
     # vo (only descriptions in french)
-    entry = { 'id': entryId, 'name': data['nameEN'], 'description': data['descrFR'] }
-    addLists(p, data, entry)
+    entry = { 'id': entry_id, 'name': data['nameEN'], mapping_prefix+"description": data['descrFR'] }
+    addLists(p, data, entry, mapping_prefix)
     babeleVo['entries'].append(entry)
+
+  print("Statistiques: " + path[8:][:-1])
+  print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]))
+  print(" - Changé: %d" % count["changé"])
+  print(" - Non-traduits: %d - Auto-générés: %d" % (count["aucune"], count['auto-trad']+count['auto-googtrad']))
+  print(" - Vides: %d" % count["vide"])
+
+  return preparedTranslations
+
+
+for p in packs:
+  module = p["module"] if "module" in p else "pf2e"
+  key = "%s.%s" % (module,p["name"])
+  path = "../data/%s/" % p["id"]
+  packName = p["transl"]
+
+  #Fichiers de destination
+  babele     = { 'label': packName, 'entries': [], 'mapping': {}}
+  babeleVfVo = { 'label': packName, 'entries': [], 'mapping': {}}
+  babeleVoVf = { 'label': packName, 'entries': [], 'mapping': {}}
+  babeleVo   = { 'label': packName, 'entries': [], 'mapping': {}}
+
+  # Generate main pack JSON
+  translations[p["id"]] = handlePack(p, path, key, babele, babeleVfVo, babeleVoVf, babeleVo)
+
+  # Traitement des items (ajout au fichier)
+  if "items" in p:
+    path = "../data/%s-items/" % p["id"]
+    translations[p["id"]+"-items"] = handlePack(p["items"], path, key, babele, babeleVfVo, babeleVoVf, babeleVo, True)
 
   print(BABELE + key + ".json")
   with open(BABELE + key + ".json", 'w', encoding='utf-8') as f:
@@ -127,33 +156,6 @@ def handlePack(p, path, key, packname, isItems=False):
     json.dump(babeleVoVf, f, ensure_ascii=False, indent=4)
   with open(BABELE_VO + key + ".json", 'w', encoding='utf-8') as f:
     json.dump(babeleVo, f, ensure_ascii=False, indent=4)
-
-  print("Statistiques: " + packname)
-  print(" - Traduits: %d (officielle) %d (libre)" % (count["officielle"], count["libre"]))
-  print(" - Changé: %d" % count["changé"])
-  print(" - Non-traduits: %d - Auto-générés: %d" % (count["aucune"], count['auto-trad']+count['auto-googtrad']))
-  print(" - Vides: %d" % count["vide"])
-
-  return preparedTranslations
-
-
-for p in packs:   
-  # Generate main pack JSON
-  module = p["module"] if "module" in p else "pf2e"
-  key = "%s.%s" % (module,p["name"])
-  path = "../data/%s/" % p["id"]
-  packName = p["transl"]
-
-  translations[p["id"]] = handlePack(p, path, key, packName)
-
-  #Generate additional "items"
-  if "items" in p:
-    itemsId = p["id"]+"-items"
-    key = "%s.%s" % (module,itemsId)
-    path = "../data/%s/" % itemsId
-    packName = p["transl"] + " (Éléments)"
-
-    translations[itemsId] = handlePack(p['items'], path, key, packName, True)
 
 # ===============================
 # génération du dictionnaire (EN)
