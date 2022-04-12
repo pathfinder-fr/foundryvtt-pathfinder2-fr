@@ -18,7 +18,7 @@ logging.basicConfig(filename='translation.log', level=logging.INFO)
   
 ROOT="../"
 
-def checkItems(entries, folderPath, items=False):
+def checkItems(entries, folderPath, isItems=False):
   # ==========================
   # read all available entries
   # ==========================
@@ -66,7 +66,7 @@ def checkItems(entries, folderPath, items=False):
       change = False
       #if p["name"] == "feats-srd":
       #  change = True
-      if change or (items and not equals(existing[id]['parentName'],source['parentName'])) or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']) or not equals(existing[id]['dataEN'], source['data']):
+      if change or (isItems and not equals(existing[id]['parentName'], source['parentName'])) or not equals(existing[id]['nameEN'], source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']) or not equals(existing[id]['dataEN'], source['data']):
         existing[id]['parentName'] = source['parentName']
         existing[id]['nameEN'] = source['name']
         existing[id]['descrEN'] = source['desc']
@@ -87,8 +87,8 @@ def checkItems(entries, folderPath, items=False):
     else:
 
       # check if other entry exists with same name => means that ID has changed for the same element
-      # not applicable to items (monsters have entries with the same name but different descriptions
-      if source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray") and not items:
+      # not applicable to items (monsters have entries with the same name but different descriptions, we target on ID)
+      if not isItems and source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray"):
         oldEntry = existingByName[source['name']]
         # rename file
         pathFrom = "%s/%s" % (folderPath, oldEntry['filename'])
@@ -116,7 +116,7 @@ def checkItems(entries, folderPath, items=False):
           status = "vide"
 
         data = {
-          'parentName': source["parentName"] if items else None,
+          'parentName': source["parentName"] if isItems else None,
           'nameEN': name,
           'nameFR': "",
           'status': status,
@@ -213,14 +213,14 @@ for p in packs:
           obj_items[item['_id']] = {
             "_id": getValue(item, '_id', False),
             "parentName": getValue(obj, p['paths']['name']),
-            "name": getValue(item, 'name', False),
-            "desc": getValue(item, 'data.description.value', False),
+            "name": getValue(item, p['items']['paths']['name'], False),
+            "desc": getValue(item, p['items']['paths']['desc'], False, "") if 'desc' in p['items']['paths'] else "NE PAS TRADUIRE",
             'type1': None,
             'type2': None,
             'lists': {},
             'data': {}
           }
-        # Compétences avec variantes uniquement
+        # Cas spécifique : ne prendre que les compétences avec variants
         elif item['type'] == 'lore' and 'variants' in item['data'] and len(item['data']['variants']) > 0:
           data_variants = {}
           for key in item['data']['variants']:
@@ -228,8 +228,8 @@ for p in packs:
           obj_items[item['_id']] = {
             "_id": getValue(item, '_id', False),
             "parentName": getValue(obj, p['paths']['name']),
-            "name": getValue(item, 'name', False),
-            "desc": getValue(item, 'data.description.value', False, ""),
+            "name": getValue(item, p['items']['paths']['name'], False),
+            "desc": getValue(item, p['items']['paths']['desc'], False, "") if 'desc' in p['items']['paths'] else "NE PAS TRADUIRE",
             'type1': None,
             'type2': None,
             'lists': {},
@@ -258,7 +258,7 @@ for p in packs:
   # process items
   # =============
   if len(obj_items) > 0:
-    folderPath = "%sdata/%s/" % (ROOT, p["items"]["folder"])
+    folderPath = "%sdata/%s/" % (ROOT, pack_id+"-items")
     has_errors = checkItems(obj_items, folderPath, True)
 
 # à réactiver pour autotrad
