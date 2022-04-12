@@ -167,7 +167,7 @@ packs = sorted(packs, key=lambda k: k['transl'])
 for p in packs:
   packName = p["transl"]
   content += " * [%s](#%s)\n" % (packName, packName.lower().replace(' ', '-'))
-  if p["items"]:
+  if 'items' in p:
     content += " * [%s](#%s)\n" % (packName + " (Items)", packName.lower().replace(' ', '-')+"-items")
   
 for p in packs: 
@@ -180,7 +180,7 @@ for p in packs:
   for el in sortedList:
     content += "|[%s](%s)|%s|`%s`|\n" % (el['name'], el['file'], el['nom'], el['link'])
 
-  if p["items"]:
+  if 'items' in p:
     content += "\n\n## %s (Items)\n\n" % packName
     content += "| Nom (EN)   | Nom (FR)    | Lien compendium |\n"
     content += "|------------|-------------|-----------------|\n"
@@ -206,7 +206,7 @@ packs = sorted(packs, key=lambda k: k['transl'])
 for p in packs:
   packName = p["transl"]
   content += " * [%s](#%s)\n" % (packName, packName.lower().replace(' ', '-'))
-  if p["items"]:
+  if 'items' in p:
     content += " * [%s](#%s)\n" % (packName + " (Éléments)", packName.lower().replace(' ', '-')+"-items")
 
 for p in packs:
@@ -219,7 +219,7 @@ for p in packs:
   for el in sortedList:
     content += "|[%s](%s)|%s|`%s`|\n" % (el['nom'], el['file'], el['name'], el['link'])
 
-  if p["items"]:
+  if 'items' in p:
     content += "\n\n## %s (Éléments)\n\n" % packName
     content += "| Nom (FR)   | Nom (EN)    | Lien compendium |\n"
     content += "|------------|-------------|-----------------|\n"
