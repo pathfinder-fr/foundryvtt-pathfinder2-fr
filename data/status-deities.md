@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 25
- * **changé**: 198
+ * **libre**: 38
+ * **changé**: 185
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,19 +37,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis (Ancien dieu osirien)|changé|
 |[6nq25AjImkT5GxDT.htm](deities/6nq25AjImkT5GxDT.htm)|The Prismatic Ray|Le rayon prismatique|changé|
 |[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi (Dieu Tianais)|changé|
-|[9EKyWmjLUu42evxC.htm](deities/9EKyWmjLUu42evxC.htm)|Nethys|Néthys|changé|
-|[9eltBjLngkR9x1Xm.htm](deities/9eltBjLngkR9x1Xm.htm)|Trelmarixian|Trelmarixian|changé|
-|[9FWBJcADLEeP8Krf.htm](deities/9FWBJcADLEeP8Krf.htm)|Valmallos|Valmallos|changé|
-|[9n2CI0B3EA4y3BuU.htm](deities/9n2CI0B3EA4y3BuU.htm)|Alseta|Alséta|changé|
-|[9WD0hbUT0IbnuTiM.htm](deities/9WD0hbUT0IbnuTiM.htm)|Baalzebul|Baalzébul|changé|
-|[A37XqON6QRPzQhp7.htm](deities/A37XqON6QRPzQhp7.htm)|Hshurha|Hshurha|changé|
-|[aChBtIDfA59QQ7SN.htm](deities/aChBtIDfA59QQ7SN.htm)|Ayrzul|Ayrzul|changé|
-|[Af4TSJjutVi9Vdwi.htm](deities/Af4TSJjutVi9Vdwi.htm)|Mahathallah|Mahathallah|changé|
-|[AHX89nhuVhmg8k6w.htm](deities/AHX89nhuVhmg8k6w.htm)|Dagon|Dagon|changé|
-|[AIcDyoff265z9285.htm](deities/AIcDyoff265z9285.htm)|Kofusachi|Kofusachi|changé|
-|[aievwuZalZ2abs2q.htm](deities/aievwuZalZ2abs2q.htm)|Thoth|Thoth|changé|
-|[aipkJQxP4GBsTaGq.htm](deities/aipkJQxP4GBsTaGq.htm)|Lamashtu|Lamashtu|changé|
-|[aj4ChTlDcZCmrtJD.htm](deities/aj4ChTlDcZCmrtJD.htm)|Baphomet|Baphomet|changé|
 |[aLCfEgt48SRUHnMC.htm](deities/aLCfEgt48SRUHnMC.htm)|Jaidi|Jaidi|changé|
 |[AlL9GtlTldbqNoVm.htm](deities/AlL9GtlTldbqNoVm.htm)|Calistria|Calistria|changé|
 |[AMFkYKUNQ3kCD0ob.htm](deities/AMFkYKUNQ3kCD0ob.htm)|Doloras|Doloras|changé|
@@ -256,4 +243,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8wOAwLMgB1HFLo9n.htm](deities/8wOAwLMgB1HFLo9n.htm)|Winlas|Winlas (Seigneur empyréen)|libre|
 |[8ZSywyo8YQPduo92.htm](deities/8ZSywyo8YQPduo92.htm)|Zura|Zura (Seigneur démon)|libre|
 |[97Qe42wJN5EVUS14.htm](deities/97Qe42wJN5EVUS14.htm)|Sturovenen|Sturovenen (Dieu Sarkarien)|libre|
+|[9EKyWmjLUu42evxC.htm](deities/9EKyWmjLUu42evxC.htm)|Nethys|Néthys (Mer Intérieure)|libre|
+|[9eltBjLngkR9x1Xm.htm](deities/9eltBjLngkR9x1Xm.htm)|Trelmarixian|Trelmarixian (Cavalier)|libre|
+|[9FWBJcADLEeP8Krf.htm](deities/9FWBJcADLEeP8Krf.htm)|Valmallos|Valmallos (Demi-dieu Veilleur)|libre|
+|[9n2CI0B3EA4y3BuU.htm](deities/9n2CI0B3EA4y3BuU.htm)|Alseta|Alséta (Mer intérieure)|libre|
+|[9WD0hbUT0IbnuTiM.htm](deities/9WD0hbUT0IbnuTiM.htm)|Baalzebul|Baalzébul (Archidiable)|libre|
+|[A37XqON6QRPzQhp7.htm](deities/A37XqON6QRPzQhp7.htm)|Hshurha|Hshurha (Seigneur Élémentaire)|libre|
+|[aChBtIDfA59QQ7SN.htm](deities/aChBtIDfA59QQ7SN.htm)|Ayrzul|Ayrzul (Seigneur Élémentaire)|libre|
+|[Af4TSJjutVi9Vdwi.htm](deities/Af4TSJjutVi9Vdwi.htm)|Mahathallah|Mahathallah (Reine de la nuit)|libre|
+|[AHX89nhuVhmg8k6w.htm](deities/AHX89nhuVhmg8k6w.htm)|Dagon|Dagon (Seigneur Démon)|libre|
+|[AIcDyoff265z9285.htm](deities/AIcDyoff265z9285.htm)|Kofusachi|Kofusachi (Dieu Tianais)|libre|
+|[aievwuZalZ2abs2q.htm](deities/aievwuZalZ2abs2q.htm)|Thoth|Thoth (Ancien dieu Osirien)|libre|
+|[aipkJQxP4GBsTaGq.htm](deities/aipkJQxP4GBsTaGq.htm)|Lamashtu|Lamashtu (Mer Intérieure)|libre|
+|[aj4ChTlDcZCmrtJD.htm](deities/aj4ChTlDcZCmrtJD.htm)|Baphomet|Baphomet (Seigneur démon)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|

@@ -1,0 +1,48 @@
+Parent Name: Alchemical Golem
+Name: Generate Bomb
+Nom: 
+État: aucune
+
+------ Description (en) ------
+<p>The golem fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike.</p>
+<p>Determine the type of bomb created by rolling 1d6 on the alchemical chambers list.</p>
+<p>On a roll of 1-4, it creates the corresponding greater alchemical bomb: an @Compendium[pf2e.equipment-srd.jC8GmH0Un6vDxdMj]{Acid Flask} from chamber 1, a @Compendium[pf2e.equipment-srd.intVPcEzbE9o4NQd]{Frost Vial} from chamber 2, @Compendium[pf2e.equipment-srd.r2iTRbt1zpkAqHj2]{Bottled Lightning} from chamber 3, or @Compendium[pf2e.equipment-srd.n5yTlTs63o53n3k6]{Alchemist's Fire} from chamber 4.</p>
+<p>On a roll of 5, it creates a poisonous bomb that deals 3d10 poison damage and 3 poison splash damage with no other effects.</p>
+<p>On a roll of 6, it creates a sickness bomb, which exposes the target and all creatures in the splash radius to the sickness effect; creatures hit by only the splash receive a +2 circumstance bonus to their Fortitude saves.</p>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>[[/br {1d6}[Alchemical Effect] #Generate Bomb]]{1d6}</th>
+<th>Alchemical Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<p>Acid Flask: [[/r {1}[acid]]]{1 acid damage}, [[/r {3d6}[persistent,acid]]]{3d6 persistent acid damage}@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Acid Damage} and [[/r {3}[splash,acid]]]{3 acid splash damage}</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Frost Vial: [[/r {3d6}[cold]]]{3d6 cold damage}, [[/r {3}[splash,cold]]]{3 cold splash damage} and -10-foot status penalty to Speeds until end of targets next turn @Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Effect: Frost Vial (Greater)}</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Bottled Lightning: [[/r {3d6}[electricity]]]{3d6 electricity damage}, [[/r {3}[splash,electricity]]]{3 electricity splash damage} and @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until start of targets next turn</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Alchemist's Fire: [[/r {3d8}[fire]]]{3d8 fire damage}, [[/r {3}[persistent,fire]]]{3 persistent fire damage}@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Fire Damage} and [[/r {3}[splash,fire]]]{3 fire splash damage}</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Poisonous Bomb: [[/r {3d10}[poison]]]{3d10 poison damage} and [[/r {3}[splash,poison]]]{3 poison splash damage}</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Sickness: @Check[type:fortitude|dc:26|name:Alchemical Sickness|traits:disease] save or @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2} on a critical failure)</td>
+</tr>
+</tbody>
+</table>
+------ Description (fr) ------

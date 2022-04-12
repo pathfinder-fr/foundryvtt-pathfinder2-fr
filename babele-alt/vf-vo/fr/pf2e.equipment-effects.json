@@ -54,7 +54,7 @@
         {
             "id": "Effect: Frost Vial (Lesser)",
             "name": "Effet : Fiole givrée inférieure (Effect: Frost Vial (Lesser))",
-            "description": "<p>La créature subit un malus de statut à ses Vitesses de −1,5 mètres jusqu’à la fin de son prochain tour.</p>"
+            "description": "<p>La créature subit un malus de statut à ses Vitesses de -1,5 mètres jusqu’à la fin de son prochain tour.</p>"
         },
         {
             "id": "Effect: Greater Potion of Stable Form",
@@ -139,7 +139,7 @@
         {
             "id": "Effect: Disarm (Success)",
             "name": "Effet : Désarmer (succès) (Effect: Disarm (Success))",
-            "description": "<p>La cible subit un malus de circonstances de −2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.</p>"
+            "description": "<p>La cible subit un malus de circonstances de -2 aux attaques effectuées avec l’objet ou aux autres tests nécessitant une prise ferme sur l’objet.</p>"
         },
         {
             "id": "Effect: Energized Cartridge (Acid)",
@@ -434,7 +434,7 @@
         {
             "id": "Effect: Clandestine Cloak",
             "name": "Effet : Cape de clandestinité (Effect: Clandestine Cloak)",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hmmDa6LCS22dZT7P]{Cape de clandestinité}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +1 aux tests de Discrétion+1 item bonus to Stealth checks</li>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.hmmDa6LCS22dZT7P]{Cape de clandestinité}</p>\n<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +1 aux tests de Discrétion+1 item bonus to Stealth checks</li>\n<li>Bonus d'objet de +1 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de -1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
         },
         {
             "id": "Effect: Red-Rib Gill Mask (Greater)",
@@ -889,7 +889,7 @@
         {
             "id": "Effect: Clandestine Cloak (Greater)",
             "name": "Effect: Cape de clandestinité supérieure (Effect: Clandestine Cloak (Greater))",
-            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.6jRXUXzYKIpm2uNp]{Cape de clandestinité supérieure}</p>\n<p>Automatically applied effects:</p>\n<<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +2 aux tests de Discrétion</li>\n<li>Bonus d'objet de +2 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de −1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
+            "description": "<p>Accordé par @Compendium[pf2e.equipment-srd.6jRXUXzYKIpm2uNp]{Cape de clandestinité supérieure}</p>\n<p>Automatically applied effects:</p>\n<<p>Effets appliqués automatiquement</p>\n<ul>\n<li>bonus d’objet de +2 aux tests de Discrétion</li>\n<li>Bonus d'objet de +2 aux tests de Duperie pour Se déguiser en un personnage secondaire et ordinaire</li>\n<li>Malus d’objet de -1 aux tests de Diplomatie et d’Intimidation.</li>\n</ul>"
         },
         {
             "id": "Effect: Mudrock Snare (Failure)",

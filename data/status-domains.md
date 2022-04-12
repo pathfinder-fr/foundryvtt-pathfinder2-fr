@@ -3,14 +3,14 @@
  * **libre**: 58
 
 
-Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[0cbxczrql4MwAHwV.htm](domains/0cbxczrql4MwAHwV.htm)|Glyph Domain|Glyphe|libre|
+|[0cbxczrql4MwAHwV.htm](domains/0cbxczrql4MwAHwV.htm)|Glyph Domain|Glyphes|libre|
 |[1aoUqGYDrdpnPWio.htm](domains/1aoUqGYDrdpnPWio.htm)|Family Domain|Famille|libre|
 |[1BU8deh48XZFclWl.htm](domains/1BU8deh48XZFclWl.htm)|Healing Domain|Guérison|libre|
 |[1NHV4ujqoR2JVWpY.htm](domains/1NHV4ujqoR2JVWpY.htm)|Travel Domain|Voyage|libre|
@@ -29,7 +29,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[FJ9D4qpeRhJvjHai.htm](domains/FJ9D4qpeRhJvjHai.htm)|Star Domain|Étoile|libre|
 |[fqr2OnTww3bAq0ae.htm](domains/fqr2OnTww3bAq0ae.htm)|Sun Domain|Soleil|libre|
 |[fVfFKKvGocG2JM5q.htm](domains/fVfFKKvGocG2JM5q.htm)|Toil Domain|Labeur|libre|
-|[giUsAWI9NbpdeUzl.htm](domains/giUsAWI9NbpdeUzl.htm)|Knowledge Domain|Souvenir|libre|
+|[giUsAWI9NbpdeUzl.htm](domains/giUsAWI9NbpdeUzl.htm)|Knowledge Domain|Savoir|libre|
 |[HpZ4NQIqBRcFihyE.htm](domains/HpZ4NQIqBRcFihyE.htm)|Wealth Domain|Richesse|libre|
 |[HYe7Yv1fYUANVVI3.htm](domains/HYe7Yv1fYUANVVI3.htm)|Death Domain|Mort|libre|
 |[i4UU3qCjIMwejIQF.htm](domains/i4UU3qCjIMwejIQF.htm)|Delirium Domain|Delirium|libre|

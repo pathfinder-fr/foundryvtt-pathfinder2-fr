@@ -2,17 +2,18 @@
 
  * **officielle**: 110
  * **libre**: 157
- * **aucune**: 2
+ * **aucune**: 3
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[EUcnU1JTJsMF2fVD.htm](actions/EUcnU1JTJsMF2fVD.htm)|Protector's Interdiction|
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
 

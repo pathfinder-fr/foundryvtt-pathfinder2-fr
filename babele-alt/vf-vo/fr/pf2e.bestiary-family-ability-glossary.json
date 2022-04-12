@@ -4,7 +4,7 @@
         {
             "id": "(Lich) Void Shroud",
             "name": "(Liche) Linceul de néant ((Lich) Void Shroud)",
-            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée par une aura de mort qui attire les âmes dont la liche se nourrit pour apaiser sa faim constante.</p>\n<p>Les créatures vivantes dans l’émanation subissent un malus de statut de −2 à leurs jets de sauvegarde contre la terreur et les effets de mort. De plus, toute créature qui commence son tour dans la zone subit l’état @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 à moins de réussir un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,death,necromancy\" data-pf2-label=\"DD Linceul du néant\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD des sorts de la liche −4.</p>\n<p>@Compendium[pf2e.bestiary-effects.i3942RucZD9OHbAE]{Effet : Linceul de néant}</p>"
+            "description": "<p>@Template[type:emanation|distance:30]{9 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>La liche est enveloppée par une aura de mort qui attire les âmes dont la liche se nourrit pour apaiser sa faim constante.</p>\n<p>Les créatures vivantes dans l’émanation subissent un malus de statut de -2 à leurs jets de sauvegarde contre la terreur et les effets de mort. De plus, toute créature qui commence son tour dans la zone subit l’état @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné} 1 à moins de réussir un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-traits=\"aura,death,necromancy\" data-pf2-label=\"DD Linceul du néant\" data-pf2-show-dc=\"gm\">Volonté</span> contre le DD des sorts de la liche −4.</p>\n<p>@Compendium[pf2e.bestiary-effects.i3942RucZD9OHbAE]{Effet : Linceul de néant}</p>"
         },
         {
             "id": "(Ravener) Soul Ward",
@@ -44,7 +44,7 @@
         {
             "id": "(Worm That Walks) Squirming Embrace",
             "name": "(Ver-qui-marche) Etreinte grouillante ((Worm That Walks) Squirming Embrace)",
-            "description": "<p>Le ver-qui-marche Marche rapidement et termine son déplacement dans l’espace occupé par une autre créature, à laquelle il inflige une quantité de dégâts perforants égale à [[/r {1d8}[piercing]]]{1d8 perforants}, plus 1d8 pour chaque tranche de 3 niveaux qu’il possède. La créature peut tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD étreinte grouillante\" data-pf2-show-dc=\"gm\">Réflexes basique</span> dont le DD est égal au DD des sorts du ver-qui-marche −2.</p>"
+            "description": "<p>Le ver-qui-marche Marche rapidement et termine son déplacement dans l’espace occupé par une autre créature, à laquelle il inflige une quantité de dégâts perforants égale à [[/r {1d8}[piercing]]]{1d8 perforants}, plus 1d8 pour chaque tranche de 3 niveaux qu’il possède. La créature peut tenter un jet de <span data-pf2-check=\"reflex\" data-pf2-dc=\"\" data-pf2-traits=\"damaging-effect\" data-pf2-label=\"DD étreinte grouillante\" data-pf2-show-dc=\"gm\">Réflexes basique</span> dont le DD est égal au DD des sorts du ver-qui-marche -2.</p>"
         },
         {
             "id": "(Vampire, True) Children of the Night",
@@ -69,7 +69,7 @@
         {
             "id": "(Lich) Blasphemous Utterances",
             "name": "(Liche) Paroles blasphématoires ((Lich) Blasphemous Utterances)",
-            "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 mètres}</p>\n<hr />\n<p>La liche est enveloppée d’un écho constant de murmures blasphématoires et de chuchotements impies.</p>\n<p>Une créature dans l’aura subit un malus de circonstances de −2 à ses jets de sauvegarde contre les effets mentaux et ne peut utiliser d’actions avec le trait Concentration à moins de réussir un test @Check[type:flat|dc:10]. Si le test rate, l’action est perdue.</p>\n<p>@Compendium[pf2e.bestiary-effects.jrfuplUEq3PIo6j1]{Effet : Paroles blasphématoires}</p>"
+            "description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 mètres}</p>\n<hr />\n<p>La liche est enveloppée d’un écho constant de murmures blasphématoires et de chuchotements impies.</p>\n<p>Une créature dans l’aura subit un malus de circonstances de -2 à ses jets de sauvegarde contre les effets mentaux et ne peut utiliser d’actions avec le trait Concentration à moins de réussir un test @Check[type:flat|dc:10]. Si le test rate, l’action est perdue.</p>\n<p>@Compendium[pf2e.bestiary-effects.jrfuplUEq3PIo6j1]{Effet : Paroles blasphématoires}</p>"
         },
         {
             "id": "(Protean) Warpwave",
@@ -314,7 +314,7 @@
         {
             "id": "(Werecreature) Curse of the Werecreature",
             "name": "(Créature garou) Malédiction du garou ((Werecreature) Curse of the Werecreature)",
-            "description": "<div data-visibility=\"gm\">\n<p>Cette malédiction affecte seulement les humanoïdes.</p>\n<hr /></div>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:|name:Malédiction du garou] Le DD du jet de Vigueur correspond au DD standard pour le nouveau niveau du garou −1.</p>\n<div data-visibility=\"gm\">\n<p>À chaque pleine lune, la créature maudite doit réussir un nouveau jet de Vigueur ou se changer en garou jusqu’à l’aube.</p> \n<p>Le garou est sous le contrôle du MJ et saccage tout ce qu’il trouve pendant la moitié de la nuit, après quoi il tombe inconscient jusqu’à l’aube.</p>\n</div>"
+            "description": "<div data-visibility=\"gm\">\n<p>Cette malédiction affecte seulement les humanoïdes.</p>\n<hr /></div>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:|name:Malédiction du garou] Le DD du jet de Vigueur correspond au DD standard pour le nouveau niveau du garou -1.</p>\n<div data-visibility=\"gm\">\n<p>À chaque pleine lune, la créature maudite doit réussir un nouveau jet de Vigueur ou se changer en garou jusqu’à l’aube.</p> \n<p>Le garou est sous le contrôle du MJ et saccage tout ce qu’il trouve pendant la moitié de la nuit, après quoi il tombe inconscient jusqu’à l’aube.</p>\n</div>"
         },
         {
             "id": "(Melfesh Monster) Death Throes",
@@ -554,7 +554,7 @@
         {
             "id": "(Ghast) Stench",
             "name": "(Blême) Puanteur ((Ghast) Stench)",
-            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui entre ou commence son tour dans l’aura doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,olfactory\" data-pf2-label=\"Stench DC\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (plus @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 tant qu’elle est malade en cas d’échec critique).</p>\n<p>Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de −2 aux jets de sauvegarde contre les maladies et aux tentatives pour se débarrasser de l’état malade. <span data-visibility=\"gm\">Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 min.</span></p>\n<p>@Compendium[pf2e.bestiary-effects.wX9L6fbqVMLP05hn]{Effet : Puanteur de Blême}</p>"
+            "description": "<p>@Template[type:emanation|distance:10]{3 mètres} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura}</p>\n<p>Une créature qui entre ou commence son tour dans l’aura doit réussir un jet de <span data-pf2-check=\"fortitude\" data-pf2-dc=\"\" data-pf2-traits=\"aura,olfactory\" data-pf2-label=\"Stench DC\" data-pf2-show-dc=\"gm\">Vigueur</span> ou devenir @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 1 (plus @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} 1 tant qu’elle est malade en cas d’échec critique).</p>\n<p>Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 aux jets de sauvegarde contre les maladies et aux tentatives pour se débarrasser de l’état malade. <span data-visibility=\"gm\">Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 min.</span></p>\n<p>@Compendium[pf2e.bestiary-effects.wX9L6fbqVMLP05hn]{Effet : Puanteur de Blême}</p>"
         },
         {
             "id": "(Nymph Queen) Nymph's Beauty",
@@ -719,7 +719,7 @@
         {
             "id": "(Ghost) Inhabit Object",
             "name": "(Fantôme) Occuper un objet ((Ghost) Inhabit Object)",
-            "description": "<p>Le fantôme possède un objet de Grande taille ou plus petit situé à 6 mètres ou moins de lui et en fait un objet animé. Le niveau de cet objet animé ne peut pas être supérieur à celui du fantôme −2. Si l’objet ciblé est tenu par une créature, celle-ci peut faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Inhabit Object DC\" data-pf2-show-dc=\"gm\">Volonté</span> pour empêcher la possession.</p> \n<p data-visibility=\"gm\">Cette possession prend fin quand l’objet est détruit ou si le fantôme en sort. Le cas échéant, le fantôme réapparaît dans la case de l’objet et ne peut de nouveau Occuper un objet avant[[/br 1d4 #rounds]](1d4 rounds}.</p>"
+            "description": "<p>Le fantôme possède un objet de Grande taille ou plus petit situé à 6 mètres ou moins de lui et en fait un objet animé. Le niveau de cet objet animé ne peut pas être supérieur à celui du fantôme -2. Si l’objet ciblé est tenu par une créature, celle-ci peut faire un jet de <span data-pf2-check=\"will\" data-pf2-dc=\"\" data-pf2-label=\"Inhabit Object DC\" data-pf2-show-dc=\"gm\">Volonté</span> pour empêcher la possession.</p> \n<p data-visibility=\"gm\">Cette possession prend fin quand l’objet est détruit ou si le fantôme en sort. Le cas échéant, le fantôme réapparaît dans la case de l’objet et ne peut de nouveau Occuper un objet avant[[/br 1d4 #rounds]](1d4 rounds}.</p>"
         },
         {
             "id": "(Vampire, Vrykolakas Master) Pestilential Aura",

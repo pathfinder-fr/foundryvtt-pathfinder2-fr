@@ -1,12 +1,12 @@
 # État de la traduction (feats)
 
- * **libre**: 2528
+ * **libre**: 2527
  * **officielle**: 906
- * **changé**: 9
+ * **changé**: 10
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-10 13:31 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -26,6 +26,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-06-eTqWgfojpvuigdvx.htm](feats/archetype-06-eTqWgfojpvuigdvx.htm)|Advanced Muse's Whispers|Murmures de la muse avancés|changé|
 |[archetype-06-XkemuXgSQtxFAhZ8.htm](feats/archetype-06-XkemuXgSQtxFAhZ8.htm)|Advanced Shooting|Tir avancé|changé|
 |[archetype-12-xmccXo6U7P0IMM3z.htm](feats/archetype-12-xmccXo6U7P0IMM3z.htm)|Reaper of Repose|Violeur de repos|changé|
+|[archetype-20-nn7DiYYWinsSYrZy.htm](feats/archetype-20-nn7DiYYWinsSYrZy.htm)|Protective Spirit Mask|Masque de l'esprit protecteur|changé|
 |[class-01-hT4INKGtly4QY8KN.htm](feats/class-01-hT4INKGtly4QY8KN.htm)|Domain Initiate|Initié du domaine|changé|
 |[class-16-a6xUSibsRaclbSz3.htm](feats/class-16-a6xUSibsRaclbSz3.htm)|Ever-Vigilant Senses|Sens toujours en éveil|changé|
 
@@ -1917,7 +1918,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-20-epNrbgmjZDjJe7Ry.htm](feats/archetype-20-epNrbgmjZDjJe7Ry.htm)|Legendary Rider|Chevaucheur légendaire|libre|
 |[archetype-20-f4k5ripShCn5orZB.htm](feats/archetype-20-f4k5ripShCn5orZB.htm)|Grand Medic's Mask|Masque du grand médecin|libre|
 |[archetype-20-HxO0Sh3hNFMoSsTB.htm](feats/archetype-20-HxO0Sh3hNFMoSsTB.htm)|Emancipator's Mask|Masque de l'émancipateur|libre|
-|[archetype-20-nn7DiYYWinsSYrZy.htm](feats/archetype-20-nn7DiYYWinsSYrZy.htm)|Protective Spirit Mask|Masque de l'esprit protecteur|libre|
 |[archetype-20-SS8JSDB2P0SFX1KH.htm](feats/archetype-20-SS8JSDB2P0SFX1KH.htm)|Sky Master Mask|Masque du maître du ciel|libre|
 |[archetype-20-tFUo2tsdreWBxMfs.htm](feats/archetype-20-tFUo2tsdreWBxMfs.htm)|Stalking Feline Mask|Masque du félin suiveur|libre|
 |[archetype-20-WAWaew53zpTFVwQM.htm](feats/archetype-20-WAWaew53zpTFVwQM.htm)|Synergistic Spell|Sort synergique|libre|

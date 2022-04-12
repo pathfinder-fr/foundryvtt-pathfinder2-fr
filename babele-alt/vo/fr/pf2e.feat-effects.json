@@ -44,7 +44,7 @@
         {
             "id": "Effect: Hunter's Edge, Flurry",
             "name": "Effect: Hunter's Edge, Flurry",
-            "description": "<p>Accordé lorsqu'un rôdeur partage sa spécialité  @Compendium[pf2e.classfeatures.6v4Rj7wWfOH1882r]{Déluge} avec vous.</p>\n<p>Votre pénalité d’attaques multiples pour les attaques contre votre proie s’élève à −3 (−2 avec une arme agile) sur la deuxième attaque du tour au lieu de −5, et à −6 (−4 avec une arme agile) sur la troisième et les suivantes au lieu de −10.</p>"
+            "description": "<p>Accordé lorsqu'un rôdeur partage sa spécialité  @Compendium[pf2e.classfeatures.6v4Rj7wWfOH1882r]{Déluge} avec vous.</p>\n<p>Votre pénalité d’attaques multiples pour les attaques contre votre proie s’élève à −3 (-2 avec une arme agile) sur la deuxième attaque du tour au lieu de −5, et à −6 (−4 avec une arme agile) sur la troisième et les suivantes au lieu de -10.</p>"
         },
         {
             "id": "Effect: Aura of Faith",
@@ -99,7 +99,7 @@
         {
             "id": "Effect: Masterful Hunter's Edge, Flurry",
             "name": "Effect: Masterful Hunter's Edge, Flurry",
-            "description": "<p>Accordé lorsqu'un rôdeur partage sa spécialité @Compendium[pf2e.classfeatures.JhLncIB10GSQowWL]{Maître chasseur (Déluge)} avec vous.</p>\n<p>Si vous êtes un maître avec votre arme et que vous attaquez votre proie, votre malus d’attaques multiples s’élève à −2 (−1 avec une arme agile) sur la deuxième attaque du tour, et à −4 (−2 avec une arme agile) sur la troisième et les suivantes.</p>"
+            "description": "<p>Accordé lorsqu'un rôdeur partage sa spécialité @Compendium[pf2e.classfeatures.JhLncIB10GSQowWL]{Maître chasseur (Déluge)} avec vous.</p>\n<p>Si vous êtes un maître avec votre arme et que vous attaquez votre proie, votre malus d’attaques multiples s’élève à -2 (-1 avec une arme agile) sur la deuxième attaque du tour, et à −4 (-2 avec une arme agile) sur la troisième et les suivantes.</p>"
         },
         {
             "id": "Effect: Twin Parry",
@@ -434,7 +434,7 @@
         {
             "id": "Stance: Multishot Stance",
             "name": "Stance: Multishot Stance",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.RzhnxgiAopWILCvs]{Posture de tirs multiples}.</p>\n<p>Tant que vous gardez cette posture, votre malus de @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double tir} est réduit à −1, ou à −2 si vous ajoutez l’action supplémentaire pour effectuer trois Frappes. Vous quittez cette posture si vous vous déplacez.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.RzhnxgiAopWILCvs]{Posture de tirs multiples}.</p>\n<p>Tant que vous gardez cette posture, votre malus de @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double tir} est réduit à -1, ou à -2 si vous ajoutez l’action supplémentaire pour effectuer trois Frappes. Vous quittez cette posture si vous vous déplacez.</p>"
         },
         {
             "id": "Effect: Reflective Ripple Stance",
@@ -494,7 +494,7 @@
         {
             "id": "Effect: Distracting Feint",
             "name": "Effect: Distracting Feint",
-            "description": "<p>Quand une créature devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} suite à votre Feinte, elle subit également un malus de circonstances de −2 à ses tests de Perception et à ses jets de Réflexes.</p>"
+            "description": "<p>Quand une créature devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} suite à votre Feinte, elle subit également un malus de circonstances de -2 à ses tests de Perception et à ses jets de Réflexes.</p>"
         },
         {
             "id": "Effect: Masterful Hunter's Edge, Outwit",

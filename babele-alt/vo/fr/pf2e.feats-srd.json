@@ -42,7 +42,7 @@
         {
             "id": "Impossible Volley (Eldritch Archer)",
             "name": "Impossible Volley (Eldritch Archer)",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 mètres de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de -2 contre chaque ennemi dans une explosion de 3 mètres de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
         },
         {
             "id": "Torch Goblin",
@@ -276,7 +276,7 @@
         {
             "id": "Double Slice",
             "name": "Double Slice",
-            "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps-à-corps, une dans chaque main</p>\n<hr />\n<p>Vous frappez votre ennemi avec vos deux armes.</p>\n<p>Effectuez deux Frappes, la première avec l’une de vos deux armes de corps-à-corps, la deuxième avec l’autre, chacune appliquant votre malus d’attaques multiples actuel. Les deux Frappes doivent être faites sur la même cible. Si la deuxième Frappe est effectuée avec une arme qui n’a pas le trait agile, elle est faite avec un malus de −2.</p>\n<p>Si les deux attaques touchent, faites la somme des dégâts, puis ajoutez tous les éventuels autres effets produits par les deux armes. Vous ajoutez une seule fois seulement les éventuels dégâts de précision à l’attaque de votre choix. Faites la somme des dégâts des deux Frappes et appliquez les résistances et les faiblesses une seule fois. Cela compte comme deux attaques pour le calcul de votre malus d’attaques multiples.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez deux armes de corps-à-corps, une dans chaque main</p>\n<hr />\n<p>Vous frappez votre ennemi avec vos deux armes.</p>\n<p>Effectuez deux Frappes, la première avec l’une de vos deux armes de corps-à-corps, la deuxième avec l’autre, chacune appliquant votre malus d’attaques multiples actuel. Les deux Frappes doivent être faites sur la même cible. Si la deuxième Frappe est effectuée avec une arme qui n’a pas le trait agile, elle est faite avec un malus de -2.</p>\n<p>Si les deux attaques touchent, faites la somme des dégâts, puis ajoutez tous les éventuels autres effets produits par les deux armes. Vous ajoutez une seule fois seulement les éventuels dégâts de précision à l’attaque de votre choix. Faites la somme des dégâts des deux Frappes et appliquez les résistances et les faiblesses une seule fois. Cela compte comme deux attaques pour le calcul de votre malus d’attaques multiples.</p>"
         },
         {
             "id": "Riftmarked",
@@ -4619,7 +4619,7 @@
         {
             "id": "Feral Mutagen",
             "name": "Feral Mutagen",
-            "description": "<p>Votre mutagène bestial fait ressortir la bête tapie en vous, en vous dotant de griffes et de dents acérées ainsi que d’une apparence féroce. À chaque fois que vous êtes affecté par un @Compendium[pf2e.equipment-srd.IQK9N2mEOyAj3iWU]{Mutagène bestial}, vous gagnez le bonus d’objet de ce mutagène à vos tests d’Intimidation.</p>\n<p>En outre, vos griffes et vos mâchoires sont particulièrement redoutables et elles gagnent le trait mortel d10. Enfin, vous pouvez choisir de faire passer le malus de CA conféré par le mutagène de −1 à −2 afin d’augmenter d’un échelon le dé de dégâts de vos griffes et de vos mâchoires.</p>"
+            "description": "<p>Votre mutagène bestial fait ressortir la bête tapie en vous, en vous dotant de griffes et de dents acérées ainsi que d’une apparence féroce. À chaque fois que vous êtes affecté par un @Compendium[pf2e.equipment-srd.IQK9N2mEOyAj3iWU]{Mutagène bestial}, vous gagnez le bonus d’objet de ce mutagène à vos tests d’Intimidation.</p>\n<p>En outre, vos griffes et vos mâchoires sont particulièrement redoutables et elles gagnent le trait mortel d10. Enfin, vous pouvez choisir de faire passer le malus de CA conféré par le mutagène de -1 à -2 afin d’augmenter d’un échelon le dé de dégâts de vos griffes et de vos mâchoires.</p>"
         },
         {
             "id": "Unexpected Sharpshooter Dedication",
@@ -5478,7 +5478,7 @@
         {
             "id": "Subtle Theft",
             "name": "Subtle Theft",
-            "description": "<p>Quand vous réussissez à Voler quelque chose, les observateurs (les créatures autres que la créature que vous avez volée) subissent un malus de circonstances de −2 à leurs DD de Perception pour détecter votre larcin. De plus, si vous commencez par Faire diversion en utilisant Duperie, effectuer une seule action pour Escamoter un objet ou Voler ne met pas fin à votre état Non détecté.</p>",
+            "description": "<p>Quand vous réussissez à Voler quelque chose, les observateurs (les créatures autres que la créature que vous avez volée) subissent un malus de circonstances de -2 à leurs DD de Perception pour détecter votre larcin. De plus, si vous commencez par Faire diversion en utilisant Duperie, effectuer une seule action pour Escamoter un objet ou Voler ne met pas fin à votre état Non détecté.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Vol"
@@ -5858,7 +5858,7 @@
         {
             "id": "Debilitating Bomb",
             "name": "Debilitating Bomb",
-            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Alchimie rapide} pour fabriquer une bombe alchimique qui est inférieure d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>\n<hr />\n<p>Vos bombes infligent des effets supplémentaires à vos ennemis. Vous intégrez dans votre bombe une substance qui cause l’un des effets suivants : l’état @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd}, @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, ou un malus de −1,50 mètres à toutes les Vitesses.</p>\n<p>Si vous réussissez votre attaque avec la bombe, la cible doit réussir un jet de Vigueur ou se trouver sous l’effet choisi jusqu’au début de votre prochain tour. Ce jet de sauvegarde utilise votre DD de classe (même si quelqu’un d’autre que vous lance la bombe).</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Déclencheur</strong> Vous utilisez @Compendium[pf2e.classfeatures.sPtl05wwTpqFI0lL]{Alchimie rapide} pour fabriquer une bombe alchimique qui est inférieure d’au moins 2 niveaux à votre niveau d’alchimie avancée.</p>\n<hr />\n<p>Vos bombes infligent des effets supplémentaires à vos ennemis. Vous intégrez dans votre bombe une substance qui cause l’un des effets suivants : l’état @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui}, @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourd}, @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu}, ou un malus de -1,50 mètres à toutes les Vitesses.</p>\n<p>Si vous réussissez votre attaque avec la bombe, la cible doit réussir un jet de Vigueur ou se trouver sous l’effet choisi jusqu’au début de votre prochain tour. Ce jet de sauvegarde utilise votre DD de classe (même si quelqu’un d’autre que vous lance la bombe).</p>"
         },
         {
             "id": "Mortal Healing",
@@ -7473,7 +7473,7 @@
         {
             "id": "Deadly Aim",
             "name": "Deadly Aim",
-            "description": "<p>Vous visez les points faibles de votre proie, ce qui augmente la difficulté du tir mais permet d’infliger plus de dégâts en cas de coup au but.</p>\n<p>Faites une Frappe à distance contre votre proie avec un malus de −2. Vous bénéficiez d’un bonus de circonstances de +4 aux dégâts de cette Frappe. Ce bonus passe à +6 au niveau 11 et à +8 au niveau 15.</p>",
+            "description": "<p>Vous visez les points faibles de votre proie, ce qui augmente la difficulté du tir mais permet d’infliger plus de dégâts en cas de coup au but.</p>\n<p>Faites une Frappe à distance contre votre proie avec un malus de -2. Vous bénéficiez d’un bonus de circonstances de +4 aux dégâts de cette Frappe. Ce bonus passe à +6 au niveau 11 et à +8 au niveau 15.</p>",
             "prereq": [
                 {
                     "value": "spécialisation martiale"
@@ -7498,7 +7498,7 @@
         {
             "id": "Stonewalker",
             "name": "Stonewalker",
-            "description": "<p>Vous faites preuve d’un profond respect pour la pierre, avec laquelle vous vous sentez étroitement lié. Vous gagnez <em>@Compendium[pf2e.spells-srd.vh1RpbWfqdNC4L3P]{Fusion dans la pierre}</em> comme sort inné divin de niveau 3 et vous pouvez le lancer une fois par jour.</p>\n<p>Si vous possédez également le don ancestral @Compendium[pf2e.feats-srd.HOUHs5rahwIsQoBf]{Connaissance de la pierre}, vous pouvez tenter de repérer des irrégularités et des pièges dans les constructions de pierre qui demandent normalement un rang de maîtrise légendaire en Perception. Si vous possédez à la fois le don ancestral Connaissance de la pierre et une maîtrise légendaire en Perception, lorsque vous n’êtes pas en train de Chercher et que le MJ fait un test secret afin de déterminer si vous remarquez des irrégularités dans les constructions en pierre, vous conservez le bonus acquis grâce à Connaissance de la pierre et ne subissez pas le malus de circonstances de −2.</p>"
+            "description": "<p>Vous faites preuve d’un profond respect pour la pierre, avec laquelle vous vous sentez étroitement lié. Vous gagnez <em>@Compendium[pf2e.spells-srd.vh1RpbWfqdNC4L3P]{Fusion dans la pierre}</em> comme sort inné divin de niveau 3 et vous pouvez le lancer une fois par jour.</p>\n<p>Si vous possédez également le don ancestral @Compendium[pf2e.feats-srd.HOUHs5rahwIsQoBf]{Connaissance de la pierre}, vous pouvez tenter de repérer des irrégularités et des pièges dans les constructions de pierre qui demandent normalement un rang de maîtrise légendaire en Perception. Si vous possédez à la fois le don ancestral Connaissance de la pierre et une maîtrise légendaire en Perception, lorsque vous n’êtes pas en train de Chercher et que le MJ fait un test secret afin de déterminer si vous remarquez des irrégularités dans les constructions en pierre, vous conservez le bonus acquis grâce à Connaissance de la pierre et ne subissez pas le malus de circonstances de -2.</p>"
         },
         {
             "id": "Demolitionist Dedication",
@@ -9324,7 +9324,7 @@
         {
             "id": "Clever Counterspell",
             "name": "Clever Counterspell",
-            "description": "<p>Votre créativité vous permet d’appliquer vos sorts préparés comme @Compendium[pf2e.feats-srd.EpBG4CFMNSZQx7vI]{Contresorts} contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire.</p>\n<p>Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de −2 à votre test de Contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié.</p>",
+            "description": "<p>Votre créativité vous permet d’appliquer vos sorts préparés comme @Compendium[pf2e.feats-srd.EpBG4CFMNSZQx7vI]{Contresorts} contre un éventail de magie ennemie bien plus large. Au lieu de contrer un sort ennemi avec Contresort uniquement si vous avez préparé le même sort, vous pouvez utiliser Contresort tant que le sort que lance l’ennemi figure dans votre grimoire.</p>\n<p>Quand vous utilisez Contresort ainsi, le sort préparé dépensé doit partager un trait autre que sa tradition avec celui qu’il contre. Si le MJ accepte, vous pouvez à la place utiliser un sort doté d’un trait opposé ou qui contre logiquement le sort adverse (en vous servant par exemple d’un sort de froid ou d’eau pour contrer boule de feu ou délivrance de la peur pour contrer un sort de terreur). Quel que soit le sort dépensé, vous subissez un malus de -2 à votre test de Contresort, bien que le MJ puisse annuler ce malus si le sort dépensé est particulièrement bien approprié.</p>",
             "prereq": [
                 {
                     "value": "Contresort"
@@ -11127,7 +11127,7 @@
         {
             "id": "Whirling Throw",
             "name": "Whirling Throw",
-            "description": "<p><strong>Conditions</strong> Vous @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippez/Empoignez} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravez} une créature.</p>\n<hr />\n<p>Vous projetez votre adversaire Agrippé/Empoigné ou entravé. Vous pouvez projeter la créature à une distance maximale de 3 mètres, plus 1,50 mètres × votre modificateur de Force. Si vous parvenez à la projeter, elle subit un montant de dégâts contondants égal à votre modificateur de Force plus 1d6 par tranche de 3 mètres parcourus.</p>\n<p>Effectuez un test <span data-pf2-action=\"whirlingThrow\">d’Athlétisme</span> contre le DD de Vigueur de la créature. Vous subissez un malus de circonstances de −2 à votre test si la cible fait une catégorie de taille de plus que vous et un malus de circonstances de −4 si elle est encore plus grande. Vous bénéficiez d’un bonus de circonstances de +2 à votre test si la cible fait une catégorie de taille de moins que vous et un bonus de circonstances de +4 si elle est encore plus petite.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous projetez la créature à la distance prévue et elle tombe @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}</p>\n<p><strong>Succès</strong> Vous projetez la créature à la distance prévue.</p>\n<p><strong>Échec</strong> Vous ne projetez pas la créature.</p>\n<p><strong>Échec critique</strong> Vous ne projetez pas la créature et elle n'est plus ni Entravée, ni Saisie.</p>"
+            "description": "<p><strong>Conditions</strong> Vous @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippez/Empoignez} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravez} une créature.</p>\n<hr />\n<p>Vous projetez votre adversaire Agrippé/Empoigné ou entravé. Vous pouvez projeter la créature à une distance maximale de 3 mètres, plus 1,50 mètres × votre modificateur de Force. Si vous parvenez à la projeter, elle subit un montant de dégâts contondants égal à votre modificateur de Force plus 1d6 par tranche de 3 mètres parcourus.</p>\n<p>Effectuez un test <span data-pf2-action=\"whirlingThrow\">d’Athlétisme</span> contre le DD de Vigueur de la créature. Vous subissez un malus de circonstances de -2 à votre test si la cible fait une catégorie de taille de plus que vous et un malus de circonstances de −4 si elle est encore plus grande. Vous bénéficiez d’un bonus de circonstances de +2 à votre test si la cible fait une catégorie de taille de moins que vous et un bonus de circonstances de +4 si elle est encore plus petite.</p>\n<hr />\n<p><strong>Succès critique</strong> Vous projetez la créature à la distance prévue et elle tombe @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}</p>\n<p><strong>Succès</strong> Vous projetez la créature à la distance prévue.</p>\n<p><strong>Échec</strong> Vous ne projetez pas la créature.</p>\n<p><strong>Échec critique</strong> Vous ne projetez pas la créature et elle n'est plus ni Entravée, ni Saisie.</p>"
         },
         {
             "id": "Ubiquitous Snares",
@@ -12153,7 +12153,7 @@
         {
             "id": "Stonecunning",
             "name": "Stonecunning",
-            "description": "<p>Vous avez le don de remarquer les plus petites irrégularités et d’identifier les techniques artisanales dans les constructions de pierre.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception pour remarquer les irrégularités dans les constructions en pierre. Ce bonus s’applique à vos tests pour découvrir des pièges mécaniques de pierre ou cachés par de la pierre. Même si vous n’utilisez pas l’action Chercher ou que vous n’êtes pas en train d’étudier les alentours, le MJ fait automatiquement un test secret pour déterminer si vous notez des irrégularités dans les constructions de pierre. Ce test ne bénéficie par contre pas de votre bonus de circonstances, mais subit une pénalité de circonstances de −2.</p>"
+            "description": "<p>Vous avez le don de remarquer les plus petites irrégularités et d’identifier les techniques artisanales dans les constructions de pierre.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception pour remarquer les irrégularités dans les constructions en pierre. Ce bonus s’applique à vos tests pour découvrir des pièges mécaniques de pierre ou cachés par de la pierre. Même si vous n’utilisez pas l’action Chercher ou que vous n’êtes pas en train d’étudier les alentours, le MJ fait automatiquement un test secret pour déterminer si vous notez des irrégularités dans les constructions de pierre. Ce test ne bénéficie par contre pas de votre bonus de circonstances, mais subit une pénalité de circonstances de -2.</p>"
         },
         {
             "id": "Juvenile Flight",
@@ -13676,7 +13676,7 @@
         {
             "id": "Predictive Purchase (Rogue)",
             "name": "Predictive Purchase (Rogue)",
-            "description": "<p>Vous vous arrangez pour disposer de la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons @Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]{Planificateur prescient} et @Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]{Consommable prescient}.</p>\n<p>Lorsque vous utilisez Planificateur prescient, vous pouvez tirer de votre sac à dos (ou d'un conteneur équivalent) l'objet par une activité nécessitant 2 actions, plutôt qu'en y passant 1 minute.</p>"
+            "description": "<p>Vous vous arrangez pour disposer de la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons @Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]{Planificateur prescient} et @Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]{Consommable prescient}.</p>\n<p>Lorsque vous utilisez Planificateur prescient, vous pouvez tirer de votre sac à dos (ou d'un contenant équivalent) l'objet par une activité nécessitant 2 actions, plutôt qu'en y passant 1 minute.</p>"
         },
         {
             "id": "Efreeti Magic",
@@ -13721,7 +13721,7 @@
         {
             "id": "Watchful Halfling",
             "name": "Watchful Halfling",
-            "description": "<p>Votre mode de vie communautaire vous a appris à faire attention aux gens qui vous entourent et vous remarquez plus facilement quand leur comportement est inhabituel.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception quand vous utilisez l’action basique @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} afin de remarquer les personnages enchantés ou possédés. Si vous n’êtes pas en train de tenter de Deviner les intentions d’un personnage enchanté ou possédé, le MJ fait un test secret afin de déterminer si vous remarquez que cette créature est enchantée ou possédée, sans tenir compte des circonstances habituelles et en appliquant un malus de circonstances de −2.</p>\n<p>En plus de l’utiliser pour les tests de compétence, vous pouvez utiliser l’action basique @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder un bonus à une autre créature qui fait un jet de sauvegarde ou un autre test afin de passer outre un enchantement ou une possession. Comme c’est le cas avec l’action Aider, vous devez vous préparer en utilisant une action lors de votre tour afin d’encourager la créature à lutter contre l’effet.</p>"
+            "description": "<p>Votre mode de vie communautaire vous a appris à faire attention aux gens qui vous entourent et vous remarquez plus facilement quand leur comportement est inhabituel.</p>\n<p>Vous gagnez un bonus de circonstances de +2 à vos tests de Perception quand vous utilisez l’action basique @Compendium[pf2e.actionspf2e.1xRFPTFtWtGJ9ELw]{Deviner les intentions} afin de remarquer les personnages enchantés ou possédés. Si vous n’êtes pas en train de tenter de Deviner les intentions d’un personnage enchanté ou possédé, le MJ fait un test secret afin de déterminer si vous remarquez que cette créature est enchantée ou possédée, sans tenir compte des circonstances habituelles et en appliquant un malus de circonstances de -2.</p>\n<p>En plus de l’utiliser pour les tests de compétence, vous pouvez utiliser l’action basique @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aider} pour accorder un bonus à une autre créature qui fait un jet de sauvegarde ou un autre test afin de passer outre un enchantement ou une possession. Comme c’est le cas avec l’action Aider, vous devez vous préparer en utilisant une action lors de votre tour afin d’encourager la créature à lutter contre l’effet.</p>"
         },
         {
             "id": "Versatile Spellstrike",
@@ -13975,7 +13975,7 @@
         {
             "id": "Impossible Volley (Ranger)",
             "name": "Impossible Volley (Ranger)",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0.</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de -2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>"
         },
         {
             "id": "Swift",
@@ -14113,7 +14113,7 @@
         {
             "id": "Improved Swift Banishment",
             "name": "Improved Swift Banishment",
-            "description": "<p>Vous bannissez aisément les créatures avec votre arme. Vous pouvez utiliser @Compendium[pf2e.feats-srd.t3unBu3PX6AO0uIW]{Bannissement rapide} tant qu’il vous reste un emplacement de sort de niveau 5 ou plus, même si vous n’avez pas préparé le sort Bannissement. Vous devez sacrifier un sort préparé de niveau 5 ou plus et l’effet de Bannissement est intensifié jusqu’au niveau de ce sort. Votre arme fait office de composant matériel spécial pour le Bannissement, infligeant à la cible un malus de −2 à son jet de sauvegarde contre tout Bannissement que vous lancez en utilisant Bannissement rapide.</p>",
+            "description": "<p>Vous bannissez aisément les créatures avec votre arme. Vous pouvez utiliser @Compendium[pf2e.feats-srd.t3unBu3PX6AO0uIW]{Bannissement rapide} tant qu’il vous reste un emplacement de sort de niveau 5 ou plus, même si vous n’avez pas préparé le sort Bannissement. Vous devez sacrifier un sort préparé de niveau 5 ou plus et l’effet de Bannissement est intensifié jusqu’au niveau de ce sort. Votre arme fait office de composant matériel spécial pour le Bannissement, infligeant à la cible un malus de -2 à son jet de sauvegarde contre tout Bannissement que vous lancez en utilisant Bannissement rapide.</p>",
             "prereq": [
                 {
                     "value": "Bannissement rapide"
@@ -15627,7 +15627,7 @@
         {
             "id": "Decry Thief",
             "name": "Decry Thief",
-            "description": "<p>Quand vous tentez de Démoraliser, vous pouvez faire en sorte qu’il soit plus difficile à la cible de fuir au lieu des effets normaux de cette action.</p>\n<hr />\n<p><strong>Succès critique</strong> Pendant 1 round, la cible subit un malus de statut de −3 mètres à sa Vitesse et un malus de statut de −4 en Discrétion</p>\n<p>@Compendium[pf2e.feat-effects.kAgUld9PcI4XkHbq]{{Effet : Fléau des voleurs (Succès critique)}</p>\n<p><strong>Succès</strong> Pendant 1 round, la cible subit un malus de statut de −1,5 mètres à sa Vitesse et un malus de statut de −2 en Discrétion.</p>\n<p>@Compendium[pf2e.feat-effects.FyaekbWsazkJhJda]{Effet : Fléau des voleurs (Succès)}</p>\n</ul>",
+            "description": "<p>Quand vous tentez de Démoraliser, vous pouvez faire en sorte qu’il soit plus difficile à la cible de fuir au lieu des effets normaux de cette action.</p>\n<hr />\n<p><strong>Succès critique</strong> Pendant 1 round, la cible subit un malus de statut de −3 mètres à sa Vitesse et un malus de statut de −4 en Discrétion</p>\n<p>@Compendium[pf2e.feat-effects.kAgUld9PcI4XkHbq]{{Effet : Fléau des voleurs (Succès critique)}</p>\n<p><strong>Succès</strong> Pendant 1 round, la cible subit un malus de statut de -1,5 mètres à sa Vitesse et un malus de statut de -2 en Discrétion.</p>\n<p>@Compendium[pf2e.feat-effects.FyaekbWsazkJhJda]{Effet : Fléau des voleurs (Succès)}</p>\n</ul>",
             "prereq": [
                 {
                     "value": "Dévouement du Garde zéphyr"
@@ -15722,7 +15722,7 @@
         {
             "id": "Double Shot",
             "name": "Double Shot",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec 0 en rechargement.</p>\n<hr />\n<p>Vous tirez deux fois à une vitesse aveuglante.</p>\n<p>Effectuez deux Frappes, chacune contre une cible distincte et avec un malus de −2. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec 0 en rechargement.</p>\n<hr />\n<p>Vous tirez deux fois à une vitesse aveuglante.</p>\n<p>Effectuez deux Frappes, chacune contre une cible distincte et avec un malus de -2. Les deux attaques comptent dans le calcul de votre malus d’attaques multiples mais le malus n’augmente qu’après avoir effectué ces deux attaques.</p>"
         },
         {
             "id": "Shatter Defenses",
@@ -16304,7 +16304,7 @@
         {
             "id": "Hefting Shadow",
             "name": "Hefting Shadow",
-            "description": "<p>Votre ombre peut contenir des objets.</p>\n<p>Vous pouvez interagir avec votre ombre pour ranger ou retirer des objets, juste comme vous le feriez avec un conteneur ordinaire (ce qui signifie que vous utilisez un total de deux actions Interagir pour ranger puis retirer l'objet, par exemple). Votre ombre peut contenir l'équivalent d'un Encombrement de 2, qui ne sont pas décomptés de l'encombrement que vous transportez. Les objets restent solides mais subissent une patine ombrale lorsqu'ils sont rangés de cette manière. Bien que les objets soient dans votre ombre et puissent être détectés normalement, vous obtenez un bonus de circonstances de +2 aux tests de Discrétion pour Cacher les objets à moins que l'observateur ne sache qu'il faut vérifier votre ombre pour trouver les objets.</p>",
+            "description": "<p>Votre ombre peut contenir des objets.</p>\n<p>Vous pouvez interagir avec votre ombre pour ranger ou retirer des objets, juste comme vous le feriez avec un contenant ordinaire (ce qui signifie que vous utilisez un total de deux actions Interagir pour ranger puis retirer l'objet, par exemple). Votre ombre peut contenir l'équivalent d'un Encombrement de 2, qui ne sont pas décomptés de l'encombrement que vous transportez. Les objets restent solides mais subissent une patine ombrale lorsqu'ils sont rangés de cette manière. Bien que les objets soient dans votre ombre et puissent être détectés normalement, vous obtenez un bonus de circonstances de +2 aux tests de Discrétion pour Cacher les objets à moins que l'observateur ne sache qu'il faut vérifier votre ombre pour trouver les objets.</p>",
             "prereq": [
                 {
                     "value": "Ombre intelligente"
@@ -17128,7 +17128,7 @@
         {
             "id": "Bon Mot",
             "name": "Bon Mot",
-            "description": "<p>Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un ennemi situé à 9 mètres ou moins de vous et lancez un test de <span data-pf2-action=\"bonMot\" data-pf2-glyph=\"A\">Diplomatie</span> contre son DD de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible est distraite et subit une pénalité de statut de -3 aux tests de Perception et de Volonté pendant 1 minute.</p>\n<p>@Compendium[pf2e.feat-effects.CtrZFI3RV0yPNzTv]{Effet : Bon Mot (Succès critique)}</p>\n<p><strong>Succès</strong> Comme une réussite critique, mais la pénalité est de -2.</p>\n<p>@Compendium[pf2e.feat-effects.GoSls6SKCFmSoDxT]{Effet : Bon Mot (Succès)}</p>\n<p><strong>Échec critique</strong> Votre trait d’esprit est atroce. Vous subissez la même pénalité que celle que l’ennemi aurait subi si vous aviez obtenu un succès. Cette pénalité prend fin après 1 minute ou dès que vous réussissez à placer un autre Bon mot.</p>",
+            "description": "<p>Vous lancez une pique bien sentie à un ennemi pour le distraire. Choisissez un ennemi situé à 9 mètres ou moins de vous et lancez un test de <span data-pf2-action=\"bonMot\" data-pf2-glyph=\"A\">Diplomatie</span> contre son DD de Volonté.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible est distraite et subit une pénalité de statut de -3 aux tests de Perception et de Volonté pendant 1 minute.</p>\n<p>@Compendium[pf2e.feat-effects.CtrZFI3RV0yPNzTv]{Effet : Bon Mot (Succès critique)}</p>\n<p><strong>Succès</strong> Comme un succès critique, mais la pénalité est de -2.</p>\n<p>@Compendium[pf2e.feat-effects.GoSls6SKCFmSoDxT]{Effet : Bon Mot (Succès)}</p>\n<p><strong>Échec critique</strong> Votre trait d’esprit est atroce. Vous subissez la même pénalité que celle que l’ennemi aurait subi si vous aviez obtenu un succès. Cette pénalité prend fin après 1 minute ou dès que vous réussissez à placer un autre Bon mot.</p>",
             "prereq": [
                 {
                     "value": "Qualifié en Diplomatie"
@@ -17181,7 +17181,7 @@
         {
             "id": "Impossible Volley (Fighter)",
             "name": "Impossible Volley (Fighter)",
-            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de −2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsqu'il est pris en tant que don de guerrier, ce don possède les traits Sophistication et Ouverture.</p>"
+            "description": "<p><strong>Conditions</strong> Vous maniez une arme à distance avec le trait volée et un rechargement 0</p>\n<hr />\n<p>Vous tirez une volée de projectiles sur tous les adversaires dans une zone. Effectuez une Frappe avec un malus de -2 contre chaque ennemi dans une explosion de 3 m de rayon centrée sur un point situé à une distance supérieure ou égale à la portée de volée de votre arme. Faites un seul jet de dégâts pour toutes les cibles.</p>\n<p>Chacune de ces attaques compte dans le calcul de votre malus d’attaques multiples, mais celui-ci n’augmente qu’une fois toutes vos attaques effectuées.</p>\n<hr />\n<p><strong>Spécial</strong> Lorsqu'il est pris en tant que don de guerrier, ce don possède les traits Sophistication et Ouverture.</p>"
         },
         {
             "id": "Staff Sweep",
@@ -18128,7 +18128,7 @@
         {
             "id": "Distracting Feint",
             "name": "Distracting Feint",
-            "description": "<p>Vos Feintes sont bien plus efficaces que la normale et attirent l’attention de vos ennemis, ce qui les rend plus vulnérables à vous et vos alliés. Quand une créature devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{prise au dépourvu} suite à votre Feinte, elle subit également un malus de circonstances de −2 à ses tests de Perception et à ses jets de Réflexes.</p>\n<p>@Compendium[pf2e.feat-effects.7hRgBo0fRQBxMK7g]{Effet : Feinte de diversion}</p>",
+            "description": "<p>Vos Feintes sont bien plus efficaces que la normale et attirent l’attention de vos ennemis, ce qui les rend plus vulnérables à vous et vos alliés. Quand une créature devient @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{prise au dépourvu} suite à votre Feinte, elle subit également un malus de circonstances de -2 à ses tests de Perception et à ses jets de Réflexes.</p>\n<p>@Compendium[pf2e.feat-effects.7hRgBo0fRQBxMK7g]{Effet : Feinte de diversion}</p>",
             "prereq": [
                 {
                     "value": "Trafic de scélérat"
@@ -19003,7 +19003,7 @@
         {
             "id": "Multishot Stance",
             "name": "Multishot Stance",
-            "description": "<p>Vous ancrez vos pieds dans le sol et prenez une position stable pour pouvoir tirer rapidement et avec précision.</p>\n<p>Tant que vous gardez cette posture, votre malus de @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double tir} est réduit à −1, ou à −2 si vous ajoutez l’action supplémentaire pour effectuer trois Frappes. Vous quittez cette posture si vous vous déplacez.</p>\n<p>@Compendium[pf2e.feat-effects.l4QUaedYofnfXig0]{Posture: Posture de tirs multiples}</p>",
+            "description": "<p>Vous ancrez vos pieds dans le sol et prenez une position stable pour pouvoir tirer rapidement et avec précision.</p>\n<p>Tant que vous gardez cette posture, votre malus de @Compendium[pf2e.feats-srd.PwcmmJOLY8C9JHau]{Double tir} est réduit à -1, ou à -2 si vous ajoutez l’action supplémentaire pour effectuer trois Frappes. Vous quittez cette posture si vous vous déplacez.</p>\n<p>@Compendium[pf2e.feat-effects.l4QUaedYofnfXig0]{Posture: Posture de tirs multiples}</p>",
             "prereq": [
                 {
                     "value": "Triple tir"
@@ -19023,7 +19023,7 @@
         {
             "id": "Survey Wildlife",
             "name": "Survey Wildlife",
-            "description": "<p>Vous pouvez étudier les détails des régions sauvages pour déterminer la présence de créatures proches. Vous pouvez passer 10 minutes à évaluer la zone autour de vous pour découvrir quelles créatures se trouvent à proximité, en vous basant sur les nids, les excréments et les marques sur la végétation. Tentez un test de Survie contre un DD déterminé par le MJ en fonction de l’évidence des signes. Sur un succès, vous pouvez tenter un test pour Vous souvenir avec un malus de −2 pour en apprendre plus au sujet des créatures juste à partir de ces signes. Si vous êtes un maître en Survie, vous ne subissez pas le malus.</p>",
+            "description": "<p>Vous pouvez étudier les détails des régions sauvages pour déterminer la présence de créatures proches. Vous pouvez passer 10 minutes à évaluer la zone autour de vous pour découvrir quelles créatures se trouvent à proximité, en vous basant sur les nids, les excréments et les marques sur la végétation. Tentez un test de Survie contre un DD déterminé par le MJ en fonction de l’évidence des signes. Sur un succès, vous pouvez tenter un test pour Vous souvenir avec un malus de -2 pour en apprendre plus au sujet des créatures juste à partir de ces signes. Si vous êtes un maître en Survie, vous ne subissez pas le malus.</p>",
             "prereq": [
                 {
                     "value": "qualifié en Survie"
@@ -20808,7 +20808,7 @@
         {
             "id": "Crane Flutter",
             "name": "Crane Flutter",
-            "description": "<p><strong>Déclencheur</strong> Vous êtes attaqué au corps-à-corps par une créature que vous pouvez voir.</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la grue.</p>\n<hr />\n<p>Vous placez votre bras entre vous et votre adversaire. Votre bonus de circonstances à la CA conféré par la Posture de la grue passe à +3 contre l’attaque à l’origine du déclenchement. Si l’attaque vous rate, vous pouvez immédiatement effectuer une Frappe d’aile de grue contre l’attaquant avec un malus de −2, même s’il est hors de votre allonge.</p>",
+            "description": "<p><strong>Déclencheur</strong> Vous êtes attaqué au corps-à-corps par une créature que vous pouvez voir.</p>\n<p><strong>Conditions</strong> Vous êtes dans la Posture de la grue.</p>\n<hr />\n<p>Vous placez votre bras entre vous et votre adversaire. Votre bonus de circonstances à la CA conféré par la Posture de la grue passe à +3 contre l’attaque à l’origine du déclenchement. Si l’attaque vous rate, vous pouvez immédiatement effectuer une Frappe d’aile de grue contre l’attaquant avec un malus de -2, même s’il est hors de votre allonge.</p>",
             "prereq": [
                 {
                     "value": "Posture de la grue"
@@ -24738,7 +24738,7 @@
         {
             "id": "Predictive Purchase (Investigator)",
             "name": "Predictive Purchase (Investigator)",
-            "description": "<p>Vous avez juste la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons @Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]{Planificateur prescient} et @Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]{Consommable prescient}.</p>\n<p>Lorsque vous utilisez Planificateur prescient, vous pouvez tirer de votre sac à dos (ou d'un conteneur équivalent) l'objet par une activité nécessitant 2 actions, plutôt qu'en y passant 1 minute.</p>"
+            "description": "<p>Vous avez juste la chose dont vous avez besoin pour faire face à la situation. Vous obtenez les dons @Compendium[pf2e.feats-srd.bh2jHyyYrkLMsIdX]{Planificateur prescient} et @Compendium[pf2e.feats-srd.lHFz4MmebvPqTb0A]{Consommable prescient}.</p>\n<p>Lorsque vous utilisez Planificateur prescient, vous pouvez tirer de votre sac à dos (ou d'un contenant équivalent) l'objet par une activité nécessitant 2 actions, plutôt qu'en y passant 1 minute.</p>"
         },
         {
             "id": "Aerial Pilerdriver",
@@ -25039,7 +25039,7 @@
         {
             "id": "Forced Entry",
             "name": "Forced Entry",
-            "description": "<p>Vous êtes habitué à préserve la valeur archéologique du lieu lorsque vous y entrez. Vous ne subissez pas de pénalité lorsque vous @Compendium[pf2e.actionspf2e.SjmKHgI7a5Z9JzBx]{Ouvrez de force} les portes, les fenêtres ou les conteneurs sans disposer d'un @Compendium[pf2e.equipment-srd.44F1mfJei4GY8f2X]{pied-de-biche}.</p>\n<p>Si vous obtenez un succès sur un test pour Ouvrir de force, vous considérez qu'il s'agit d'un succès critique à la place.</p>",
+            "description": "<p>Vous êtes habitué à préserve la valeur archéologique du lieu lorsque vous y entrez. Vous ne subissez pas de pénalité lorsque vous @Compendium[pf2e.actionspf2e.SjmKHgI7a5Z9JzBx]{Ouvrez de force} les portes, les fenêtres ou les contenants sans disposer d'un @Compendium[pf2e.equipment-srd.44F1mfJei4GY8f2X]{pied-de-biche}.</p>\n<p>Si vous obtenez un succès sur un test pour Ouvrir de force, vous considérez qu'il s'agit d'un succès critique à la place.</p>",
             "prereq": [
                 {
                     "value": "expert en Athlétisme"
@@ -25397,7 +25397,7 @@
         {
             "id": "Animal Skin",
             "name": "Animal Skin",
-            "description": "<p>Votre rang de maîtrise pour la défense sans armure passe à expert.</p>\n<p>Quand vous êtes enragé et ne portez pas d’armure, votre peau s’épaissit jusqu’à ressembler à l’épais cuir de votre animal.</p>\n<p>Vous gagnez un bonus de statut de +1 à votre CA au lieu de subir un malus de −1 à votre CA. Si vous possédez la capacité de classe Juggernaut supérieur, ce bonus de statut est de +2. L’épaisseur de votre cuir vous confère un Bonus de Dextérité maximal de +3 à votre CA.</p>",
+            "description": "<p>Votre rang de maîtrise pour la défense sans armure passe à expert.</p>\n<p>Quand vous êtes enragé et ne portez pas d’armure, votre peau s’épaissit jusqu’à ressembler à l’épais cuir de votre animal.</p>\n<p>Vous gagnez un bonus de statut de +1 à votre CA au lieu de subir un malus de -1 à votre CA. Si vous possédez la capacité de classe Juggernaut supérieur, ce bonus de statut est de +2. L’épaisseur de votre cuir vous confère un Bonus de Dextérité maximal de +3 à votre CA.</p>",
             "prereq": [
                 {
                     "value": "Instinct animal"
@@ -25914,7 +25914,7 @@
         {
             "id": "Aura of Vengeance",
             "name": "Aura of Vengeance",
-            "description": "<p>Quand vous demandez aux autres d’appliquer des représailles, vous améliorez également la précision de leurs coups. Quand vous utilisez Frappe punitive, vos alliés qui Frappent subissent un malus de −2 seulement, au lieu de −5.</p>",
+            "description": "<p>Quand vous demandez aux autres d’appliquer des représailles, vous améliorez également la précision de leurs coups. Quand vous utilisez Frappe punitive, vos alliés qui Frappent subissent un malus de -2 seulement, au lieu de −5.</p>",
             "prereq": [
                 {
                     "value": "exaltation"

@@ -129,7 +129,7 @@
         {
             "id": "Keen Flair",
             "name": "Keen Flair",
-            "description": "<p>Vous portez des attaques tout particulièrement dévastatrices même contre des adversaires bien protégés. Quand vous Frappez avec une arme ou une attaque à mains nues pour laquelle vous êtes un maître, si vous obtenez un 19 sur le dé et qu’il s’agit d’une réussite, le résultat est considéré comme une réussite critique.</p>"
+            "description": "<p>Vous portez des attaques tout particulièrement dévastatrices même contre des adversaires bien protégés. Quand vous Frappez avec une arme ou une attaque à mains nues pour laquelle vous êtes un maître, si vous obtenez un 19 sur le dé et qu’il s’agit d’un succès, le résultat est considéré comme un coup critique.</p>"
         },
         {
             "id": "Eidolon Weapon Specialization",
@@ -884,7 +884,7 @@
         {
             "id": "Bloodline: Demonic",
             "name": "Bloodline: Demonic",
-            "description": "<p>Les démons corrompent tout ce qu’ils touchent. L’un de vos ancêtres a succombé à leur corruption et vous portez à présent le poids de ce péché.</p>\n<p><strong>Liste de sorts</strong> divine</p>\n<p><strong>Compétences de lignage</strong> Intimidation, Religion</p>\n<p><strong>Sorts accordés</strong> tour de magie <em>@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Aspersion acide}</em>, 1er: <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Terreur}</em>, 2e: <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</em>, 3e: <em>@Compendium[pf2e.spells-srd.WsUwpfmhKrKwoIe3]{Lenteur}</em>, 4e: <em>@Compendium[pf2e.spells-srd.hVU9msO9yGkxKZ3J]{Colère divine}</em>, 5e: <em>@Compendium[pf2e.spells-srd.vJuaxTd6q11OjGqA]{Peste abyssale}</em>, 6e: <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Désintégration}</em>, 7e: <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{Décret divin}</em>, 8e: <em>@Compendium[pf2e.spells-srd.nsQvjNyg4Whw2mek]{Aura divine}</em>, 9e: <em>@Compendium[pf2e.spells-srd.4WS7HrFjwNvTn8T2]{Prémonition}</em></p>\n<p><strong>Sorts de lignage</strong> initial: <em>@Compendium[pf2e.spells-srd.SdXFiQ4Py8761sNO]{Mâchoires gloutonnes}</em>, avancé: <em>@Compendium[pf2e.spells-srd.iQD8OhhkwhvD8Blw]{Marais de paresse}</em>, supérieur: <em>@Compendium[pf2e.spells-srd.crF4g9jRN1y84MSD]{Colère abyssale}</em></p>\n<p><strong>Magie du sang</strong> La corruption pécheresse affaiblit les défenses d’une cible ou vous rend plus intimidant. Soit une cible subit un malus de statut de −1 à la CA pendant 1 round ou vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>\n<p>@Compendium[pf2e.feature-effects.aKRo5TIhUtu0kyEr]{Effet : Magie du sang démoniaque (Soi-même)}, @Compendium[pf2e.feature-effects.yfbP64r4a9e5oyli]{Effet : Magie du sang démoniaque (Cible)}</p>"
+            "description": "<p>Les démons corrompent tout ce qu’ils touchent. L’un de vos ancêtres a succombé à leur corruption et vous portez à présent le poids de ce péché.</p>\n<p><strong>Liste de sorts</strong> divine</p>\n<p><strong>Compétences de lignage</strong> Intimidation, Religion</p>\n<p><strong>Sorts accordés</strong> tour de magie <em>@Compendium[pf2e.spells-srd.WBmvzNDfpwka3qT4]{Aspersion acide}</em>, 1er: <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Terreur}</em>, 2e: <em>@Compendium[pf2e.spells-srd.wzctak6BxOW8xvFV]{Agrandissement}</em>, 3e: <em>@Compendium[pf2e.spells-srd.WsUwpfmhKrKwoIe3]{Lenteur}</em>, 4e: <em>@Compendium[pf2e.spells-srd.hVU9msO9yGkxKZ3J]{Colère divine}</em>, 5e: <em>@Compendium[pf2e.spells-srd.vJuaxTd6q11OjGqA]{Peste abyssale}</em>, 6e: <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Désintégration}</em>, 7e: <em>@Compendium[pf2e.spells-srd.sX2o0HH4RjJDAZ8C]{Décret divin}</em>, 8e: <em>@Compendium[pf2e.spells-srd.nsQvjNyg4Whw2mek]{Aura divine}</em>, 9e: <em>@Compendium[pf2e.spells-srd.4WS7HrFjwNvTn8T2]{Prémonition}</em></p>\n<p><strong>Sorts de lignage</strong> initial: <em>@Compendium[pf2e.spells-srd.SdXFiQ4Py8761sNO]{Mâchoires gloutonnes}</em>, avancé: <em>@Compendium[pf2e.spells-srd.iQD8OhhkwhvD8Blw]{Marais de paresse}</em>, supérieur: <em>@Compendium[pf2e.spells-srd.crF4g9jRN1y84MSD]{Colère abyssale}</em></p>\n<p><strong>Magie du sang</strong> La corruption pécheresse affaiblit les défenses d’une cible ou vous rend plus intimidant. Soit une cible subit un malus de statut de -1 à la CA pendant 1 round ou vous bénéficiez d’un bonus de statut de +1 aux tests d’Intimidation pendant 1 round.</p>\n<p>@Compendium[pf2e.feature-effects.aKRo5TIhUtu0kyEr]{Effet : Magie du sang démoniaque (Soi-même)}, @Compendium[pf2e.feature-effects.yfbP64r4a9e5oyli]{Effet : Magie du sang démoniaque (Cible)}</p>"
         },
         {
             "id": "Bloodline: Diabolic",
@@ -1429,7 +1429,7 @@
         {
             "id": "Flurry",
             "name": "Flurry",
-            "description": "<p>Votre entraînement vous permet de faire pleuvoir un déluge d’attaques dévastatrices sur votre proie.</p>\n<p>Votre pénalité d’attaques multiples pour les attaques contre votre proie s’élève à −3 (−2 avec une arme agile) sur la deuxième attaque du tour au lieu de −5, et à −6 (−4 avec une arme agile) sur la troisième et les suivantes au lieu de −10.</p>"
+            "description": "<p>Votre entraînement vous permet de faire pleuvoir un déluge d’attaques dévastatrices sur votre proie.</p>\n<p>Votre pénalité d’attaques multiples pour les attaques contre votre proie s’élève à −3 (-2 avec une arme agile) sur la deuxième attaque du tour au lieu de −5, et à −6 (−4 avec une arme agile) sur la troisième et les suivantes au lieu de -10.</p>"
         },
         {
             "id": "Gunslinger Expertise",
@@ -1514,7 +1514,7 @@
         {
             "id": "Masterful Hunter (Flurry)",
             "name": "Masterful Hunter (Flurry)",
-            "description": "<h2>Amélioration de Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Votre maîtrise martiale et vos talents pour viser vous permettent d’effectuer  plusieurs attaques précises d’affilée.</p>\n<p>Si vous êtes un maître avec votre arme et que vous attaquez votre proie, votre malus d’attaques multiples s’élève à −2 (−1 avec une arme agile) sur la deuxième attaque du tour, et à −4 (−2 avec une arme agile) sur la troisième et les suivantes.</p>"
+            "description": "<h2>Amélioration de Maître chasseur<span style=\"float: right;\">Niveau 17</span></h2>\n<p>Votre maîtrise martiale et vos talents pour viser vous permettent d’effectuer  plusieurs attaques précises d’affilée.</p>\n<p>Si vous êtes un maître avec votre arme et que vous attaquez votre proie, votre malus d’attaques multiples s’élève à -2 (-1 avec une arme agile) sur la deuxième attaque du tour, et à −4 (-2 avec une arme agile) sur la troisième et les suivantes.</p>"
         },
         {
             "id": "Masterful Hunter (Outwit)",
@@ -1854,7 +1854,7 @@
         {
             "id": "Powerful Fist",
             "name": "Powerful Fist",
-            "description": "<p>Vous savez comment faire de vos poings des armes mortelles. Le dé de dégâts de vos poings est 1d6 au lieu de 1d4. La plupart des créatures appliquent un malus de circonstances de −2 lorsqu’elles effectuent une attaque létale avec des attaques à mains nues non létales car il est toujours plus compliqué d’utiliser ses poings avec suffisamment de force pour infliger de véritables blessures. Vous n’appliquez pas ce malus quand vous effectuez une attaque létale avec vos poings ou d’autres parties de votre corps.</p>"
+            "description": "<p>Vous savez comment faire de vos poings des armes mortelles. Le dé de dégâts de vos poings est 1d6 au lieu de 1d4. La plupart des créatures appliquent un malus de circonstances de -2 lorsqu’elles effectuent une attaque létale avec des attaques à mains nues non létales car il est toujours plus compliqué d’utiliser ses poings avec suffisamment de force pour infliger de véritables blessures. Vous n’appliquez pas ce malus quand vous effectuez une attaque létale avec vos poings ou d’autres parties de votre corps.</p>"
         },
         {
             "id": "Ancestors",
@@ -2239,7 +2239,7 @@
         {
             "id": "Arcane Cascade",
             "name": "Arcane Cascade",
-            "description": "<p>Après avoir manié la magie, vous pouvez adopter une posture spéciale pour rendre vos attaques plus efficaces. Vous obtenez l'action Cascade arcanique.</p><p>@Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{Cascade arcanique}</p>"
+            "description": "<p>Après avoir manié la magie, vous pouvez adopter une posture spéciale pour rendre vos attaques plus efficaces. Vous obtenez l'action Cascade arcanique.</p>\n<p>@Compendium[pf2e.actionspf2e.HbejhIywqIufrmVM]{Cascade arcanique}</p>"
         }
     ],
     "mapping": {

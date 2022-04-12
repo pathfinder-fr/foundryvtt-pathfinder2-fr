@@ -21,7 +21,7 @@ then
     git add ../data ../babele* ../module.json
     git commit -m $VERSION
     git tag $VERSION
-    git push --tags -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master
+    git push --tags -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:$CI_COMMIT_REF_NAME
     # désactivé car à priori inutile. A réactiver si nécessaire
     #git push        -o ci.skip https://root:$ACCESS_TOKEN@gitlab.com/pathfinder-fr/foundryvtt-pathfinder2-fr.git HEAD:master 
 else
