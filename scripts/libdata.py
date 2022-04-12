@@ -392,6 +392,8 @@ def fileToData(filepath):
         data['misc'] = {}
 
         for line in content:
+            if line.startswith("Parent Name:"):
+                data['parentName'] = line[12:].strip()
             if line.startswith("Name:"):
                 data['nameEN'] = line[5:].strip()
             elif line.startswith("Nom:"):
@@ -494,6 +496,8 @@ def fileToData(filepath):
 #
 def dataToFile(data, filepath):
     with open(filepath, 'w', encoding='utf8') as df:
+        if(data['parentName']):
+            df.write('Parent Name: ' + data['parentName'] + '\n')
         df.write('Name: ' + data['nameEN'] + '\n')
         df.write('Nom: ' + data['nameFR'] + '\n')
 
@@ -655,127 +659,3 @@ def addIfNotNull(dict: dict, key: str, value: any):
         return
     dict[key] = value
 
-def checkItems(entries, folderPath, avoidDuplicate=True):
-    # ==========================
-    # read all available entries
-    # ==========================
-    if not os.path.isdir(folderPath):
-        os.mkdir(folderPath)
-
-    folderData = readFolder(folderPath)
-    existing = folderData[0]
-    existingByName = folderData[1]
-    pack_has_errors = folderData[2]
-
-    # ========================
-    # create or update entries
-    # ========================
-    for id in entries:
-        source = entries[id]
-        if not source:
-            continue
-
-        # build filename
-        filename = "%s.htm" % id
-        if source['type2']:
-            filename = "%s-%s-%s" % (source['type1'], source['type2'], filename)
-        elif source['type1']:
-            filename = "%s-%s" % (source['type1'], filename)
-        filepath = "%s/%s" % (folderPath, filename)
-
-        # data exists for id
-        if id in existing:
-
-            # rename file if filepath not the same
-            if existing[id]['filename'] != filename:
-
-                pathFrom = "%s/%s" % (folderPath, existing[id]['filename'])
-                pathTo = "%s/%s" % (folderPath, filename)
-                os.rename(pathFrom, pathTo)
-
-            # check status from existing file
-            if not existing[id]["status"] in ("libre", "officielle", "doublon", "aucune", "changé", "auto-trad", "auto-googtrad", "vide"):
-                print_error("Status error for : %s" % filepath);
-                has_errors = True
-                continue
-
-            # QUICK FIX pour: https://discord.com/channels/@me/757146858828333077/815954577219780728
-            change = False
-            #if p["name"] == "feats-srd":
-            #  change = True
-            if change or not equals(existing[id]['nameEN'],source['name']) or not equals(existing[id]['descrEN'], source['desc']) or not equals(existing[id]['listsEN'], source['lists']) or not equals(existing[id]['dataEN'], source['data']):
-                existing[id]['nameEN'] = source['name']
-                existing[id]['descrEN'] = source['desc']
-                existing[id]['listsEN'] = source['lists']
-                existing[id]['dataEN'] = source['data']
-
-                if existing[id]['status'] != "aucune" and existing[id]['status'] != "changé":
-                    existing[id]['oldstatus'] = existing[id]['status']
-                    existing[id]['status'] = "changé"
-
-                dataToFile(existing[id], filepath)
-
-            elif 'oldstatus' in existing[id] and existing[id]['status'] != 'changé':
-                del existing[id]['oldstatus']
-                dataToFile(existing[id], filepath)
-
-        # file doesn't exist
-        else:
-
-            # check if other entry exists with same name => means that ID has changed for the same element
-            # not applicable to items (monsters have entries with the same name but different descriptions
-            if source['name'] in existingByName and not source['name'] in ("Shattering Strike", "Chilling Spray") and avoidDuplicate:
-                oldEntry = existingByName[source['name']]
-                # rename file
-                pathFrom = "%s/%s" % (folderPath, oldEntry['filename'])
-                pathTo = "%s/%s" % (folderPath, filename)
-
-                if oldEntry['id'] in existing:
-                    del existing[oldEntry['id']]
-                os.rename(pathFrom, pathTo)
-
-            # create new
-            else:
-                name = source["name"]
-                if len(source['desc']) > 0:
-                    # Automatic translation
-                    logging.info("Translating %s" % name)
-                    #print("Translating %s" % name)
-                    #translation_data = full_trad(driver, source['desc'])
-                    #tradDesc = translation_data.data
-                    #status = translation_data.status
-                    # FIX : auto-trad trop longue pour le bestiaire 3
-                    status="aucune"
-                    tradDesc = ""
-                else:
-                    tradDesc = ""
-                    status = "vide"
-
-                data = {
-                    'nameEN': name,
-                    'nameFR': "",
-                    'status': status,
-                    'descrEN': source['desc'],
-                    'descrFR': tradDesc,
-                    'listsEN': source['lists'],
-                    'dataEN': source['data'],
-                    'listsFR': {}
-                }
-                dataToFile(data, filepath)
-                # si le pack contient au moins une erreur à la lecture, on arrête de l'examiner
-
-    if pack_has_errors == True:
-        print_warning("Invalid data in pack %s, skipping" % (folderPath))
-        return True
-
-    # =======================
-    # search deleted elements
-    # =======================
-    for id in existing:
-        if not id in entries:
-            filename = "%s/%s" % (folderPath, existing[id]['filename'])
-            if existing[id]['status'] != 'aucune':
-                print_warning("File cannot be safely removed! %s, please fix manually!" % filename)
-            os.remove(filename)
-
-    return False
