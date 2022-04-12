@@ -224,7 +224,7 @@ for p in packs:
         elif item['type'] == 'lore' and 'variants' in item['data'] and len(item['data']['variants']) > 0:
           data_variants = {}
           for key in item['data']['variants']:
-            data_variants['variant-'+key] = item['data']['variants'][key]["label"]
+            data_variants[key+'.label'] = item['data']['variants'][key]["label"]
           obj_items[item['_id']] = {
             "_id": getValue(item, '_id', False),
             "parentName": getValue(obj, p['paths']['name']),
