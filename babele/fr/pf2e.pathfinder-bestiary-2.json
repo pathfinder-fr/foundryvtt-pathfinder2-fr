@@ -2029,8 +2029,7 @@
         {
             "id": "1yoCf7iLNmn7SD5D",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+3 dans l'eau"
+            "items-description": ""
         },
         {
             "id": "U6lHO1793L8PN4Hc",
@@ -2785,8 +2784,7 @@
         {
             "id": "0DWjvOoTNOT0cP4O",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+24 dans la glace et la neige"
+            "items-description": ""
         },
         {
             "id": "FHyqgRwAZouh37Gw",
@@ -2806,8 +2804,7 @@
         {
             "id": "cbhhzA952sTW7Nlb",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+17 dans les sous-bois"
+            "items-description": ""
         },
         {
             "id": "I2sDX6PHhRSYYUZN",
@@ -3217,8 +3214,7 @@
         {
             "id": "6dch35LAYgze01qE",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+12 dans les environnements humides"
+            "items-description": ""
         },
         {
             "id": "4oL2L4CT1FG6IAEu",
@@ -3323,8 +3319,7 @@
         {
             "id": "7iLw2emMidGNxyzJ",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+8 au milieu de la matière végétale ou fongique en décomposiition"
+            "items-description": ""
         },
         {
             "id": "LFvM7oAwEJD1soNx",
@@ -3369,8 +3364,7 @@
         {
             "id": "hX2hdrvbUdBKffJD",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+15 dans les forêts"
+            "items-description": ""
         },
         {
             "id": "CSSsFGyexhD5YUX3",
@@ -3600,8 +3594,7 @@
         {
             "id": "gfmpjwebcEUzSXoN",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+11 dans les sous-bois ou les zones rocheuses"
+            "items-description": ""
         },
         {
             "id": "aBIEnRecRBiBmpU4",
@@ -4626,8 +4619,7 @@
         {
             "id": "c4ByZjVeW0km1U7W",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+17 dans la fûmée"
+            "items-description": ""
         },
         {
             "id": "Fc0hTwlWHz8gcaaN",
@@ -4747,8 +4739,7 @@
         {
             "id": "jljKVq6TmhKOQUSh",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+16 dans les sous-bois"
+            "items-description": ""
         },
         {
             "id": "njNLaG6BmpA7LInp",
@@ -5033,8 +5024,7 @@
         {
             "id": "3IKSOIIWyaxP7Xbh",
             "name": "Discrétion",
-            "items-description": "",
-            "items-0.label": "+17 dans le sable"
+            "items-description": ""
         },
         {
             "id": "yKOp4n7Sk96x65EX",
@@ -5675,9 +5665,6 @@
         "senses": "data.traits.senses.value",
         "speeds": "data.attributes.speed.details",
         "traits": "data.traits.traits.custom",
-        "items-description": "data.description.value",
-        "items-0.label": "data.variants.0.label",
-        "items-1.label": "data.variants.1.label",
-        "items-2.label": "data.variants.2.label"
+        "items-description": "data.description.value"
     }
 }

@@ -3339,8 +3339,7 @@
         {
             "id": "0M6FpfseLeWc1yHA",
             "name": "Athletics (Athlétisme)",
-            "items-description": "",
-            "items-0.label": "+35 pour désarmer les ojets en pierre ou métalliques"
+            "items-description": ""
         },
         {
             "id": "B9YtjVsCCmeVw39y",
@@ -7510,8 +7509,7 @@
         {
             "id": "1pcQlMiq7wKREOZC",
             "name": "Crafting (Artisanat)",
-            "items-description": "",
-            "items-0.label": "+9 en menuiserie"
+            "items-description": ""
         },
         {
             "id": "tvnn3d6VCprLkoQ2",
@@ -8317,9 +8315,6 @@
         "senses": "data.traits.senses.value",
         "speeds": "data.attributes.speed.details",
         "traits": "data.traits.traits.custom",
-        "items-description": "data.description.value",
-        "items-0.label": "data.variants.0.label",
-        "items-1.label": "data.variants.1.label",
-        "items-2.label": "data.variants.2.label"
+        "items-description": "data.description.value"
     }
 }
