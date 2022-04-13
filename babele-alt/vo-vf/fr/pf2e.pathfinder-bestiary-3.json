@@ -1702,9 +1702,24 @@
             "description": "<p>Les lédaluscas sont des élémentaires d'eau réflecteurs qui peuvent faire apparaître des images préalablement réfléchies sur leurs surfaces et se figer entièrement sous une formes de ce qu'ils ont reflété. Ils explorent et protègent les frontières les plus calmes des régions glacées du plan de l'Eau, où la glace se forme en feuilles miroitantes, sans défaut.</p>\n<p>Insatiablement curieux, leur ardeur propulse certains lédaluscas à piquer des objets d'apparence intéressante pour jouer avec. D'autres voyagent sur différents plans pour repérer, observer et refléter une plus grande variété de créatures que celles de leur plan d'origine. Ils se font passer pour des sculptures de glace ou des bassins d'eau calme dans ce but, surtout s'ils peuvent trouver un endroit à habiter dans une zone très fréquentée. Malgré leur mimétisme parfait, les lédaluscas sont incapables de créer une apparence à partir de rien, ni d'ajuster l'apparence qu'ils prennent ou de combiner des éléments de reflets différents. Certains d'entre eux trouvent cela décourageant, tels des artistes vexés par un manque de créativité.</p>\n<p>L'une des rencontres les plus étranges qu'un lédalusca puisse faire est celle d'une créature ou d'un objet qui n'a pas de reflet. Un lédalusca peut voir un vampire, par exemple, mais il est incapable de reproduire son image. Pour une créature qui a une mémoire illimitée pour les images, cela s'avère tout à fait déroutant. Le vague souvenir de la rencontre reste dans l'esprit du lédalusca comme une écharde dans le doigt d'un humanoïde.</p>"
         },
         {
+            "id": "XpkRG2gKRWLJkJEI",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "POpEyXnpPzh143yS",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
             "id": "ArUOj1l83noyJaED",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "ccTVoapWVmh0M4t3",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "8So4CPwp508RfAuQ",
@@ -1737,6 +1752,16 @@
             "items-description": ""
         },
         {
+            "id": "7cU2Ki9ZUte4XeOY",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "hoeCSNdGULGrdSYX",
+            "name": "Shield Block (Blocage au bouclier)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+        },
+        {
             "id": "PO5OyKjxeT0rYaYl",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -1745,6 +1770,11 @@
             "id": "dwi92HM5kiYhFz8W",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "oD3DnNMV4dQa3Gss",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "SnFwuUdykz9voojZ",
@@ -1757,6 +1787,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "xEEbQADYYULp07pu",
+            "name": "Stinger (Dard)",
+            "items-description": ""
+        },
+        {
+            "id": "jKqS45yr5dqPtPAf",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "7VXwGJWTdkaP6Ch0",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -1765,6 +1805,11 @@
             "id": "k44mSYJOxW3sojaA",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "BFS5mQ3ITub7ZdJL",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "a9aLzghe9uCANIDN",
@@ -1782,6 +1827,11 @@
             "items-description": ""
         },
         {
+            "id": "bUFMLfwRNZ1zBmqa",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "eiBZvzNac6ZHZQDi",
             "name": "Hatchet (Hachette)",
             "items-description": ""
@@ -1795,6 +1845,11 @@
             "id": "MUxEI1u92ZQGjdB8",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "R0HLiBnfzTgXGH4w",
+            "name": "Staff (Bâton)",
+            "items-description": ""
         },
         {
             "id": "mfooCk9alzoismP0",
@@ -1812,14 +1867,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "rwY8lCJ2IEJlLbhC",
+            "name": "Improved Knockdown (Renversement amélioré)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+        },
+        {
+            "id": "h4X51BYbgu9tzFnJ",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "ztbAEwewoiM3nyRj",
             "name": "Dagger (Dague)",
             "items-description": ""
         },
         {
+            "id": "ncklibzh6Dfp2LTc",
+            "name": "Shield Block (Blocage au bouclier)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+        },
+        {
             "id": "Y2rKb2rKiZlOJBow",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ttBTEeYxisLmK0oL",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "PFvXq6fIzpNGeRPv",
@@ -1847,9 +1922,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "iWhzjrN6V3SMvbjf",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "nVOb5B6Sn8JM7NDn",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "Bo9liMM0Qn69gKdi",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "uM7SvgL7DwtCruSv",
+            "name": "Leg (Jambe)",
+            "items-description": ""
         },
         {
             "id": "dQxVi7hnToSGSm1i",
@@ -1860,6 +1950,16 @@
             "id": "qeD0FrozbnxsNAPi",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "fNmXIe2WUwoH6Bt3",
+            "name": "Improved Knockdown (Renversement amélioré)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+        },
+        {
+            "id": "PfPbwkrM06fK0tGR",
+            "name": "Hand (Main)",
+            "items-description": ""
         },
         {
             "id": "ADj1D97ZuGgEgAMr",
@@ -1892,6 +1992,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "cpVCCJ4aUToJ2wyU",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
             "id": "M1p2Iq57MOBT9II9",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -1900,6 +2005,11 @@
             "id": "WZ8Y5R6xt0YzzTUf",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "x5dNPm9EV0pS1WDJ",
+            "name": "Spiked Chain (Chaîne cloutée)",
+            "items-description": ""
         },
         {
             "id": "X6SY2vedf1w4NFyM",
@@ -1912,9 +2022,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "2kFQsJv3fMYJ1RND",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
             "id": "GkEh5ET2hVXw3FKO",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vct7Th4oUyktL8WO",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "90h9CZlrzmq29yPp",
@@ -1942,6 +2062,11 @@
             "items-description": ""
         },
         {
+            "id": "jveVL0lDMa0EIIx6",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "KdePPltFxHzCPJrm",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -1950,6 +2075,16 @@
             "id": "c98PM0QPXi4xWm6M",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "I6ATQo2zBIuQQinX",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "afMfaRhaS5GxcQY2",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "OwpDVJif5SRqFrSS",
@@ -1962,6 +2097,11 @@
             "items-description": ""
         },
         {
+            "id": "4w6cni5pDSonPMZW",
+            "name": "Shortsword (Épée courte)",
+            "items-description": ""
+        },
+        {
             "id": "2815rJTOaYW8FTZW",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -1969,6 +2109,16 @@
         {
             "id": "8BmcD1iEjqhQRthD",
             "name": "Tail (Queue)",
+            "items-description": ""
+        },
+        {
+            "id": "pJKtjGeoTW0LzTPG",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "DotZCkt036LONE1t",
+            "name": "Claw (Griffe)",
             "items-description": ""
         },
         {
@@ -1987,6 +2137,11 @@
             "items-description": ""
         },
         {
+            "id": "Q2J6B9C1q7HPAVHY",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "JOnNHpqNRRfoZym8",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -1995,6 +2150,16 @@
             "id": "EZESCdF1dzv8z0rc",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ULp1f7aziCabSbdr",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "wK3dnqQbpz2HUZw5",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "dStg3v3luFQKIonn",
@@ -2027,9 +2192,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "ASdIdSgTDc6bN48E",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "WIkVLqYDYSPO2pUz",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "ozof8R0i6Gx0GTeA",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "w6hxoqW1tHgrDy7z",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "liMrTZS1ECyEEh6I",
@@ -2052,6 +2232,11 @@
             "items-description": ""
         },
         {
+            "id": "8IQ2N3VKsykBfWvw",
+            "name": "Pincer (Pince)",
+            "items-description": ""
+        },
+        {
             "id": "Ll9EKS0upQ66GUIJ",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -2064,6 +2249,26 @@
         {
             "id": "pXlz78EGb6lw6Aij",
             "name": "Fist (Poing)",
+            "items-description": ""
+        },
+        {
+            "id": "BsVgKelZGZWfZaYs",
+            "name": "Greatclub (Massue)",
+            "items-description": ""
+        },
+        {
+            "id": "An7ZmOxkCPkGUuBN",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "qRW2k1VmeIkTIOB9",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
+            "id": "zZADJ8AZtILSidCx",
+            "name": "Horn (Corne)",
             "items-description": ""
         },
         {
@@ -2085,6 +2290,16 @@
             "id": "p3DOduEPOUUeLaxK",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "ypyEw36BPA1kfq0T",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "4t6lOiLhCYAlFpnf",
+            "name": "Greatsword (Épée à deux mains)",
+            "items-description": ""
         },
         {
             "id": "AlDSrVGyweTmAY0N",
@@ -2112,6 +2327,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "QB0FNEPET64VPGnO",
+            "name": "Greatclub (Massue)",
+            "items-description": ""
+        },
+        {
             "id": "CYFB6ARFi1FTJRUe",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -2127,9 +2347,24 @@
             "items-description": ""
         },
         {
+            "id": "dyqAZBHswn1148hK",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "FAGZiwfUhhTFHxxn",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "SfQfbmrgZ4vr3nFt",
             "name": "Spear (Lance)",
             "items-description": ""
+        },
+        {
+            "id": "AJLCWM50AXEWFDYT",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "sZ2qJ9Ced7EAt6pU",
@@ -2147,6 +2382,11 @@
             "items-description": ""
         },
         {
+            "id": "fvbnbBzVNf3FpASj",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "4Q80XDMMBCj2Mihv",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -2160,6 +2400,11 @@
             "id": "3ZZyaQ6uTOW9lyxY",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "PlTKFXVlBOQ1pLtX",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "OVXjqkURq28dcMFO",
@@ -2177,6 +2422,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "bTNygOkcj07sIda5",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
             "id": "NFIsLlfq5D02gNol",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -2185,6 +2435,11 @@
             "id": "Lscs4sD2vIZEzZIX",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "m03bX0sD03E32bCM",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "Vvhg9eA8gPTjQD32",
@@ -2215,6 +2470,11 @@
             "id": "ji4mZPdeTTXd5DD2",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "WE0EIWm5dsgBMGU3",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
         },
         {
             "id": "5YK8hJa0XyWYTPW1",
@@ -2257,9 +2517,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "Nskz1Z4716xdGyZy",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
             "id": "x40IMqy9XVt1sVgV",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "sNth9LOE6nRfhE3n",
+            "name": "Telepathy (Touch) (Télépathie (Contact))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "1RfKpuWxU1cMc4p7",
@@ -2287,6 +2557,16 @@
             "items-description": ""
         },
         {
+            "id": "IP7OFv62ex3QvHzS",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "kqcQU0n1PhfM4fgW",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "bRWkzuZ2ByRvUEXx",
             "name": "Negative Healing (Guérison négative)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -2302,13 +2582,68 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Xq6IkurlmqAmuchc",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "zCqM5htGK65bK9Uh",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "3xQc4jPhxkh2EbIF",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "qkU2EydXIrYI5Hxx",
+            "name": "Tusk (Défense)",
+            "items-description": ""
+        },
+        {
+            "id": "mfQZq4ONY5lVM7IX",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "7nKf0MorIXpyERki",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "lJmwCccZmDCYJEQj",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "X4oCGHtZLhDPu84J",
+            "name": "Shortbow (Arc court)",
+            "items-description": ""
+        },
+        {
             "id": "jTT3N3sXixsPE4b1",
             "name": "Fist (Poing)",
+            "items-description": ""
+        },
+        {
+            "id": "QvzzSlemey10PLLP",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "X9vCwZ0X1VwQW8K8",
+            "name": "Telepathy (Télépathie)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "llRkvAv40JIHPwXk",
+            "name": "Horn (Corne)",
+            "items-description": ""
+        },
+        {
+            "id": "VdKAGQI4ZZFDhZeL",
+            "name": "Claw (Griffe)",
             "items-description": ""
         },
         {
@@ -2322,6 +2657,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "p8hPnF6s5wU3KJk3",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "YsbObHTSL33vRGBA",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2332,6 +2672,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "iK81tvrAddbR20xS",
+            "name": "Pincer (Pince)",
+            "items-description": ""
+        },
+        {
+            "id": "ofXdILv2twbnZo5Z",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "7V9CRphWnj5Wbphk",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "ON9shjsp6vVBXsO0",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2340,6 +2695,11 @@
             "id": "rb3UkMRburjTZJpj",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "gokPql4rMjZsUmFa",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "pVxNWlSICm5ij03c",
@@ -2367,6 +2727,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "0k3Jmkc79tf6HAi0",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "b8889HDEEpdiqYFf",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "UQgqIDpkTWprpPzL",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -2387,6 +2757,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "fzkFHUIw06YZhQU3",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "GZIzUrSeCXXcCvhZ",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -2395,6 +2770,16 @@
             "id": "CuvZkG5iAgBSIV6w",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jqQAuZsUGFs0m1uI",
+            "name": "Lifesense (Perception de la vie)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+        },
+        {
+            "id": "1emEy5ty5iwJ1bDG",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "2epurBlrSyaqWetH",
@@ -2407,9 +2792,24 @@
             "items-description": ""
         },
         {
+            "id": "x68dPIsgXM3s4jCZ",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "r5va25MjWQsL5Nut",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "DCeV72u09INkg49k",
+            "name": "Trident (Trident)",
+            "items-description": ""
+        },
+        {
+            "id": "SIJXP2XGtiBASmHE",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "Q7Qfg4mcXnQcUmCd",
@@ -2430,6 +2830,21 @@
             "id": "9hTzL7fC49Gu7r0d",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "uuZFA4waTTmjGuf7",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "stXqE9CezJeM4Whd",
+            "name": "Greatclub (Massue)",
+            "items-description": ""
+        },
+        {
+            "id": "clhTA2gOuBMmlt3H",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
             "id": "kSMYzNRzwjJcLeCe",
@@ -2457,6 +2872,26 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "GwFweqcXjZtUSJhx",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "qHZIM3SkMqqfQWWG",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
+            "id": "Beza9NhyMXwRQGuW",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "xMNtSzQGqtHwsi9I",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
             "id": "R6XHv4H8ZshCgHND",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -2464,6 +2899,16 @@
         {
             "id": "paacuYr4AiURwRWW",
             "name": "Tail (Queue)",
+            "items-description": ""
+        },
+        {
+            "id": "HJT5NvgiIrqOYp97",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "wq97ytCKPYfmWhuM",
+            "name": "Hand Crossbow (Arbalète à main)",
             "items-description": ""
         },
         {
@@ -2475,6 +2920,21 @@
             "id": "WEHUYKZKXhfx4gbC",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "c85RY0nsV1xyDA3t",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "lbG0r8knl6cp3RdW",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "ATHIMU2gAEe2QKdX",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "JD7dIGSb1yYwZOil",
@@ -2502,6 +2962,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "SgXWjRi0fOvCndJM",
+            "name": "Tongue (Langue)",
+            "items-description": ""
+        },
+        {
+            "id": "FR0NE1tkGwNuwmOZ",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "L5pxFPV3rkw95DZh",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
             "id": "XFaAhmVWAH18gZJm",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -2527,9 +3002,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "lj6vRNNZwXQmeqG7",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "LP9djZsLKMnkBo3M",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "lQKNHnyXpn3nHnzE",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "ks76ZS8gWSFgrdl9",
             "name": "Catch Rock (Interception de rochers)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "S3S752aZGm6sxlqG",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "c3sGdZtwuCDBGlig",
+            "name": "Shortbow (Arc court)",
+            "items-description": ""
         },
         {
             "id": "vx5wkGlnDaE4xpPz",
@@ -2562,6 +3062,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "jGzfb4XyxgW8SV3c",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "cpz6wBNJNghKDVg5",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "VnUdpwyEF14owCWc",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -2577,6 +3087,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "hD8oXqV8Wz5DBv2c",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "qxwRgSrhcUpigMaY",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2585,6 +3100,11 @@
             "id": "sfp7Tgb12PISMHBT",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "ehlp9AWnS6V5OAuB",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "zxRmkFpH5qKW2WJe",
@@ -2602,9 +3122,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "RxVHmIYJh9eOX9c3",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "FyrrgVjaMyZCtRfk",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "xpme2qrEuLWWs2go",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "wFODYfYciuYCHMTF",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         },
         {
             "id": "uLwnIHpENAqfjCwz",
@@ -2657,6 +3192,11 @@
             "items-description": ""
         },
         {
+            "id": "n96wAvXJdhT8a2uD",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "S2oLvvECz7beXP1O",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -2672,6 +3212,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "WtYldqbo5WHxuBHU",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
+            "id": "cdrifaen6W903klB",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "gbeM9uQuXvgenm6R",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -2684,6 +3234,16 @@
         {
             "id": "jhi0sreme2yjolfI",
             "name": "Spear (Lance)",
+            "items-description": ""
+        },
+        {
+            "id": "j67aVe855G3FeDEO",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "oYkjHDyRshnK5WUJ",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
         },
         {
@@ -2707,6 +3267,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "6LN4eVSW1LF6YGqK",
+            "name": "Scent (Imprecise) 100 feet (Odorat (imprécis) 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "xDnUeGZfUafSNkYD",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2717,6 +3282,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "3FHM8X9p0VGx9jpe",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
             "id": "LMRK013cxClnSMlQ",
             "name": "Tail (Queue)",
             "items-description": ""
@@ -2725,6 +3295,16 @@
             "id": "Ophbfa4MbDPldjGG",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VHwtj3724SEQAAlz",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "SamwGEbNZfw3hWWZ",
+            "name": "Rapier (Rapière)",
+            "items-description": ""
         },
         {
             "id": "WMgMO9G3wUtuSBs8",
@@ -2747,6 +3327,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "tPeyvoLtiaoQbNwJ",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "06mT1ZKXqT7oAL0x",
             "name": "Talon (Ergot)",
             "items-description": ""
@@ -2755,6 +3340,11 @@
             "id": "CeOSCnHJGUDn6dhR",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "tC5SlnihlaxwiNPE",
+            "name": "Horn (Corne)",
+            "items-description": ""
         },
         {
             "id": "hpnfCntk1ckhAgoE",
@@ -2777,6 +3367,11 @@
             "items-description": ""
         },
         {
+            "id": "c8PAFRWNosDhOxsm",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
             "id": "jBnvJizQVNlbpByJ",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -2792,6 +3387,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "ohqrq2d7d3If0s76",
+            "name": "Club (Gourdin)",
+            "items-description": ""
+        },
+        {
             "id": "yJoFSnPHI2YuGrUT",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2804,6 +3404,16 @@
         {
             "id": "p6oPHL2T4fZfMivY",
             "name": "Jaws (Mâchoires)",
+            "items-description": ""
+        },
+        {
+            "id": "MfS2aGB9sp6OgznC",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "5JjMeb6t3MgQy8HQ",
+            "name": "Rock (Rocher)",
             "items-description": ""
         },
         {
@@ -2822,6 +3432,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "xBKXa275uqX5FmD9",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
             "id": "Cdh7brQkfnpWbZDJ",
             "name": "Mandibles (Mandibules)",
             "items-description": ""
@@ -2837,9 +3452,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "rNBF8QplzOETa39b",
+            "name": "Branch (Branche)",
+            "items-description": ""
+        },
+        {
             "id": "sk5aFaaf3tRIgb0p",
             "name": "Spear (Lance)",
             "items-description": ""
+        },
+        {
+            "id": "CEHvST4zuzVjG0oO",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "WFS8UUOKxm78jwiH",
@@ -2867,6 +3492,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "VBxySuyNQGXdtmjL",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "GNmpOlkmA2KqPmhK",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2880,6 +3510,11 @@
             "id": "h4zO0kK45DmIdXa1",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "VhXGyXRgvJQTjUxr",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "S8UsqHDRsdN6XtV5",
@@ -2902,6 +3537,11 @@
             "items-description": ""
         },
         {
+            "id": "oAwLdSvl1lwzYmYb",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "yrUTciOjsrqkiFEh",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -2910,6 +3550,11 @@
             "id": "NNtG56XbAhdoWSdA",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "YUL8RxZTiMHqh5iC",
+            "name": "Shortsword (Épée courte)",
+            "items-description": ""
         },
         {
             "id": "N4NhBjgFg8WdpS84",
@@ -2927,6 +3572,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "Vu7yHDGMbHRCK2KR",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
             "id": "u8fKUkjNFuyL7a5x",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2937,6 +3587,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "iQvaTMNbSTahgvnU",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
             "id": "M4yZRTxw1DkV1j2m",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -2945,6 +3600,11 @@
             "id": "khSydk2fZucaWpwr",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "aZYbkerDQjojnR8G",
+            "name": "Shield Block (Blocage au bouclier)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
         },
         {
             "id": "maPEoGc6nv9lMP5R",
@@ -2962,14 +3622,39 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "ou7GQNYw2dnoJPZW",
+            "name": "Greatsword (Épée à deux mains)",
+            "items-description": ""
+        },
+        {
+            "id": "XhqGsa6pKMextMJ1",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "6jmiViG6aADCKgpM",
             "name": "Wing (Aile)",
             "items-description": ""
         },
         {
+            "id": "tvG7g3H6RsfVKvsw",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
             "id": "ZEFMlTiTYApQQKuS",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "4q3DAdCBSdwFd8Ge",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "eoGlb3oqWZjUaNDi",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "YSVbN2hohx9XI8OH",
@@ -2980,6 +3665,11 @@
             "id": "vOKfAcHQJQuAlDmX",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "fEwSHWY53TbRJoqX",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "VAggE1QOFwbQrV0m",
@@ -3012,14 +3702,39 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "pbSfPZuBX9faeDui",
+            "name": "Horn (Corne)",
+            "items-description": ""
+        },
+        {
             "id": "MhafIYjoiiUIlHV9",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "0XhFSYYoNSo9Uab7",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "Urwp7vLcfy6avc98",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "qSCF9pmEsCQejxxw",
+            "name": "Lifesense 30 feet (Perception de la vie (9 m))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+        },
+        {
+            "id": "iIkQe60YaPrjs5Wa",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "gi7A2YM0065rtCEt",
+            "name": "Horn (Corne)",
+            "items-description": ""
         },
         {
             "id": "uybrNwUFDqMCKZ3R",
@@ -3032,9 +3747,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "SzbZwTdWXUHNi17Y",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "K6p90DP5TOgu1uHl",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "3bqSjZ8OFBahcmGk",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7yLVXXBzbC849DcT",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "Mj3sDpLmMbVTOv59",
@@ -3062,6 +3792,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "zJVmAmV1kg1wV6T3",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "bYiotnUBfPu81i3V",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "uQmt7JbKVVMAsd5R",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -3077,6 +3817,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "bMrJDUmLpocEes2w",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "oMZGYxkqoirlCaQm",
+            "name": "Shortsword (Épée courte)",
+            "items-description": ""
+        },
+        {
             "id": "pRfIkGoEX8AyxeSw",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3085,6 +3835,21 @@
             "id": "Pv0epZ0IMHJFIRG2",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "d8xFQfk53fDdc7Ge",
+            "name": "Telepathy (Touch) (Télépathie (Contact))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "1kVcCXmy5LAtuBqr",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "48uJqrNPzQyywSb2",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "ZkPq0d1hLdzoA3Mf",
@@ -3110,6 +3875,11 @@
             "id": "dEG5crSMOZ8MheG9",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pDpwUF5lNCdUWFQT",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "VFkAq790PgfMtp1j",
@@ -3142,8 +3912,33 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "faqkx0QvzDNLMR1M",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "pFDqDZzKZDMzZZk1",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "RdbeYdVwFLgopJjk",
             "name": "Talon (Ergot)",
+            "items-description": ""
+        },
+        {
+            "id": "KnlMKaajUHNW24mj",
+            "name": "Crossbow (Arbalète)",
+            "items-description": ""
+        },
+        {
+            "id": "OW9oEttpg9WFvgOt",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "DL9RtsdSy9Gulbqd",
+            "name": "Greatsword (Épée à deux mains)",
             "items-description": ""
         },
         {
@@ -3177,6 +3972,11 @@
             "items-description": ""
         },
         {
+            "id": "bIOojNVEElRivlmd",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "lgdEGoF8XPhWshor",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -3195,6 +3995,11 @@
             "id": "QwKsTc2ps0cjzmnW",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "v1QCjwqVT1EeAZW8",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
             "id": "R4UxTvMjd8XGo0H1",
@@ -3222,6 +4027,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "eZiRahkdCT1SRMx1",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
+            "id": "FkwYpWuwVTFS02Jn",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "lPHcKkQiBqbtQQ8z",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "V1IL4PehVXrysvbs",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3237,8 +4057,18 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "x3F1PlXQKZuCBCGg",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "tpcpAmqxc53jhCQ7",
             "name": "Talon (Ergot)",
+            "items-description": ""
+        },
+        {
+            "id": "o9gWtjSqFLRnOVk2",
+            "name": "Claw (Griffe)",
             "items-description": ""
         },
         {
@@ -3255,6 +4085,21 @@
             "id": "lMXYO6JBRd5NxL4O",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "dJT018LZV3FEJvJO",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "sBY73yijWI9qogpX",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "u0EOvM37SL9GUjJu",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "yC55qBRcZsAS9EaR",
@@ -3282,8 +4127,28 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "dyrhkvCX2H3pZBp9",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "RcFq3iNSRnikQSug",
+            "name": "Tusk (Défense)",
+            "items-description": ""
+        },
+        {
             "id": "pedL6wHN0TYSu6Fd",
             "name": "Spear (Lance)",
+            "items-description": ""
+        },
+        {
+            "id": "Scblqwycs4aZk1u1",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "QyBhco1VMbstqt4y",
+            "name": "Branch (Branche)",
             "items-description": ""
         },
         {
@@ -3302,6 +4167,11 @@
             "items-description": ""
         },
         {
+            "id": "pgNaQm9L35oslwOp",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
             "id": "ZY0LmvdvxDzWYzTp",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -3310,6 +4180,11 @@
             "id": "FkGm83vCSFYej5yy",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "93MtSffrKnk4gD8h",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "af7dgcRuc5gWm1ej",
@@ -3362,6 +4237,21 @@
             "items-description": ""
         },
         {
+            "id": "iov5t4k8TcxeShEp",
+            "name": "Shortbow (Arc court)",
+            "items-description": ""
+        },
+        {
+            "id": "N0j4xFqLJ9FtXRAP",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "t7CjYNBBlJpWyWLj",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "vFdekjhomHHOwhBO",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3392,6 +4282,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "CzKSMmeRg2rmeWlU",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "fhK47KtCqw1hqre0",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -3402,6 +4297,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "LupnDs04lfZkJ52r",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "MEdTOOe1fbIYRy1N",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -3409,6 +4309,11 @@
         {
             "id": "ulnI58GokIE09FJW",
             "name": "Fist (Poing)",
+            "items-description": ""
+        },
+        {
+            "id": "DpQ8esg6GOdnxHkt",
+            "name": "Claw (Griffe)",
             "items-description": ""
         },
         {
@@ -3437,6 +4342,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "Mf6HjC4fVjp3RLPm",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "befWMYmJQKeMMpzD",
+            "name": "Club (Gourdin)",
+            "items-description": ""
+        },
+        {
             "id": "01ilz97XBaKB0Kz1",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3462,14 +4377,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "atf7XFGfAWXeI1TN",
+            "name": "Tremorsense (Imprecise) 30 feet (Perception des vibrations (imprécis) 9 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "oTrOmw914xPkqVd5",
             "name": "Fist (Poing)",
+            "items-description": ""
+        },
+        {
+            "id": "oXM5aJ0mHfq2fGWh",
+            "name": "Javelin (Javelot)",
             "items-description": ""
         },
         {
             "id": "zJSR7LD72PzGqnDl",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "YRKU8F7zH6qq03Om",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "FmabDHqtzgl9JIl4",
@@ -3487,9 +4417,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "sNchZQFp9J0mXyVA",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
             "id": "HwqKHt0yeIDL3Jjm",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "a8Oke93EjcLb3CyD",
+            "name": "Trident (Trident)",
+            "items-description": ""
+        },
+        {
+            "id": "u4b35ICyQPSv3OKF",
+            "name": "Scimitar (Cimeterre)",
+            "items-description": ""
         },
         {
             "id": "qjiQvNcg8Xp6U5g6",
@@ -3507,9 +4452,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "knIdAZZkuVAcH33t",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "R4Vzee8KxsqTF0Wf",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "UZivbag22tDFAKdd",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "YJ4VNOPXDLADhc0v",
@@ -3522,9 +4477,29 @@
             "items-description": ""
         },
         {
+            "id": "ZFMGP6RS8c651Pki",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "276uGZ3JI9bINWVh",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "Z79hB9KYIozan9AY",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "dLMAFMqNUxlmTN4X",
             "name": "Dagger (Dague)",
             "items-description": ""
+        },
+        {
+            "id": "2ERFu4hiXliGhhKj",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
             "id": "4W98qLPXYtwytrBj",
@@ -3557,14 +4532,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "BKsoNNVMI5d9mEhL",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
             "id": "VdgqOmcdTkgggnVY",
             "name": "Dagger (Dague)",
             "items-description": ""
         },
         {
+            "id": "b7j8M7xzLStzldNC",
+            "name": "Fast Healing 5 (Guérison accélérée 5)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+        },
+        {
             "id": "IjHEwnv7xjIRPpYZ",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "N0L60ChJeeVdQogn",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
             "id": "MWJz2HDAK5IGRX8W",
@@ -3582,14 +4572,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "He0zYHgzyYLryoo4",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "D1Nl8ZLF8I2wRwxv",
             "name": "Hoof (Sabot)",
+            "items-description": ""
+        },
+        {
+            "id": "Sh368mCxkzNFInV2",
+            "name": "Greataxe (Grande hache)",
             "items-description": ""
         },
         {
             "id": "9WYmk5gm1kpKey4j",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "qEjTHqZLDRx2o0dJ",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "BTxgwCFuROqASlPz",
@@ -3607,6 +4612,21 @@
             "items-description": ""
         },
         {
+            "id": "Xyy6EkOtHfPObm42",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "sq2f8Tcx4gzFa7t5",
+            "name": "Tusk (Défense)",
+            "items-description": ""
+        },
+        {
+            "id": "CgQW6ZFOrGsrgkHZ",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
             "id": "CZmwCcrjPndjeWl3",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -3620,6 +4640,11 @@
             "id": "POZqpY2nqdOUZBf7",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "HnMf71jrOP4K1Obj",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "1hdOnHb2baGiZGTs",
@@ -3637,9 +4662,54 @@
             "items-description": ""
         },
         {
+            "id": "ECVcMDSSzJXSESDi",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "Or20Bb0UzTLxRqoj",
+            "name": "Shortbow (Arc court)",
+            "items-description": ""
+        },
+        {
+            "id": "UfNh8dkCPsG8SGyD",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "ga5JXiw8tZ2VnkLB",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "fRSODlNG63LciyB1",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "LhA2xtluaWsZrc1T",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "QCpgvjWcAi1GGE3l",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
+            "id": "8hoPxayirM6ubTyC",
+            "name": "Longspear (Pique)",
+            "items-description": ""
+        },
+        {
+            "id": "1CAm301u2swnFr8b",
+            "name": "Horn (Corne)",
+            "items-description": ""
+        },
+        {
+            "id": "HrRxdd28hXOyez3u",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "rQhc6SkjKUBdbb2C",
@@ -3650,6 +4720,11 @@
             "id": "nhlXnY0WEq9xwOO7",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Ig0zFPa6ddSOqkXY",
+            "name": "Javelin (Javelot)",
+            "items-description": ""
         },
         {
             "id": "2nEKM6ZrGJImSDZh",
@@ -3687,6 +4762,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "cg8fgSm6sGAJE6bt",
+            "name": "Fast Healing 10 (Guérison accélérée 10)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+        },
+        {
+            "id": "Gxd48LW0au3UyXRn",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "0LnVcBoOwSUOZfMh",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "CRN9VNs8XxxFho4z",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3695,6 +4785,11 @@
             "id": "jRNANkCIgSnmDUWP",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "r5rP9a4eNdlmkjiO",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "wHFnTcSpBzMvrkSD",
@@ -3707,6 +4802,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "CC7MztEx8rEoNgaL",
+            "name": "Longsword (Épée longue)",
+            "items-description": ""
+        },
+        {
             "id": "fOaemwLydAbI9Tdb",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -3717,14 +4817,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "DW8Cqi1XpUWPpQyd",
+            "name": "Stinger (Dard)",
+            "items-description": ""
+        },
+        {
             "id": "osh2zvGEnGifdNKA",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "85CNz1N6H7AEa4kU",
+            "name": "Scimitar (Cimeterre)",
+            "items-description": ""
+        },
+        {
             "id": "KluTBobaNmcJwryy",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "IyoiZQ9XhzNia9nz",
+            "name": "Shortsword (Épée courte)",
+            "items-description": ""
         },
         {
             "id": "IKBRGKTG4o0biJz9",
@@ -3747,6 +4862,11 @@
             "items-description": ""
         },
         {
+            "id": "UrsYHXoFzbr0aW0A",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "8N2A9BvddYZu0qKO",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -3757,9 +4877,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Ol5nO6bgZS5cJIkA",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "NunhObJDovYnRhq5",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "2Vj9sjJhfJuSzBn1",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "CGGteK4W2llBvMSr",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "YZALPaj0pw2QQhWF",
@@ -3787,6 +4922,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "WOLOhrv8TOFesFur",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "ebuEFfG89GEGr5RZ",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "y9v6b1HnMTeyR6Aa",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -3805,6 +4950,21 @@
             "id": "xEaJ3PQ5662GbdCV",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "6ludWZkd4jUcg8tv",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "71vyIq4WtorjpuSI",
+            "name": "Pseudopod (Pseudopode)",
+            "items-description": ""
+        },
+        {
+            "id": "XP76YL0LderRWSee",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "nNJH2B7s8hfn3Tci",
@@ -3827,14 +4987,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "rbM0VDuWa5kOfsbQ",
+            "name": "Tentacle (Tentacule)",
+            "items-description": ""
+        },
+        {
             "id": "bAYPijLnxouZs1Ea",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "MLb6AX5Sc9kHDdik",
+            "name": "Ranseur (Corsèque)",
+            "items-description": ""
+        },
+        {
+            "id": "1AH3QAMA4BbIHNxh",
+            "name": "Stinger (Dard)",
+            "items-description": ""
+        },
+        {
             "id": "lwLwA2EvXhOPYIuA",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "XjarabsV3GAFA01K",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "Qgr1ThnIaqkHRArD",
@@ -3847,14 +5027,44 @@
             "items-description": ""
         },
         {
+            "id": "EhcLe86zdmbslOZG",
+            "name": "Wave (Vague)",
+            "items-description": ""
+        },
+        {
             "id": "kpvnHl1XmqHSX6rP",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "uQaUx0jJSihzX8ob",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "dSIKXmZhpwoDtoh3",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
+            "id": "JXy1hnyoxsc0xnCO",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "2JQEQa6cUhcYoUM4",
+            "name": "Tentacle (Tentacule)",
+            "items-description": ""
+        },
+        {
             "id": "fp6MDEvJKxcE7hE3",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "XkAvPPqqBigAbyb2",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "H2G6L0SJ45uHxDiE",
@@ -3872,6 +5082,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "xFhOtowzFmFYfYz2",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "bjdMKR5pT4EwhJzy",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "WpHT325mhd62bmHx",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3885,6 +5105,21 @@
             "id": "QZPUv0k24Dx8d0JZ",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "QK1KSdReMjOYsfEi",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "RIfmoCoHRDlhRlU1",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "Q0IYQhi4qttZkUKn",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "9kiCgRcrTLqrvzAj",
@@ -3912,6 +5147,11 @@
             "items-description": ""
         },
         {
+            "id": "9rWukglRKNo6c7Jk",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "pcMLR5ngGmapeJYS",
             "name": "Tail (Queue)",
             "items-description": ""
@@ -3932,6 +5172,11 @@
             "items-description": ""
         },
         {
+            "id": "EXGuVjwgxRF2HOZS",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "p5ehmmbLpFgYFlYF",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3942,6 +5187,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "8XnKrSfP40tWixA8",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "4TqIsk44LcZm61Ws",
+            "name": "Rend (Éventration)",
+            "items-description": "<p>Griffe</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+        },
+        {
             "id": "cdmwwMzpk0Bsc4Jg",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -3950,6 +5205,11 @@
             "id": "9uoAAHOpjHhrvzWl",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QbUWrst99xyuP7X9",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "DSDbtNz99LPKAHnV",
@@ -3967,9 +5227,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "QjPAdrlUZg0m46Pp",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "2LhHLzXgOoyNmS7p",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "j3teD40q6U6024pW",
+            "name": "Foot (Pied)",
+            "items-description": ""
         },
         {
             "id": "FJ2XX66HiOYT7Uwj",
@@ -3992,9 +5262,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "njHt74BnuaBXWlru",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "g5zUhW3HyLCDaXR1",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "VAj42GSNyP2at5VR",
+            "name": "Tremorsense (Imprecise) 30 feet (Perception des vibrations (imprécis) 9 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
             "id": "in1uP9OS2QpQrSOo",
@@ -4002,14 +5282,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Y4oA2HgV17hVTTpr",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "cKPht63RYzs7KnVb",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "B0CIGI7Er3AYCaem",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "MAu9spTENeddU6Zv",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
             "id": "ZuL0FdvovBnvOlaq",
             "name": "Negative Healing (Guérison négative)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "ohHcoAMXMCHN6Scv",
+            "name": "Beak (Bec)",
+            "items-description": ""
         },
         {
             "id": "TAMn8gMkkXRH5ctl",
@@ -4020,6 +5320,11 @@
             "id": "VHt437pso612ShZb",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VdozlfKy0DHfmOKJ",
+            "name": "Flail (Fléau)",
+            "items-description": ""
         },
         {
             "id": "eogxSxYx5HC0X9Tc",
@@ -4042,9 +5347,34 @@
             "items-description": ""
         },
         {
+            "id": "wnU6uJTmKOXIQ2vc",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "OefOHzgwbJDv2iJS",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "I5FrBDYXau3Iuild",
+            "name": "Telepathy 120 feet (Télépathie 36 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "ySPa5Sa7wY7Oyugj",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "ELmguzDIW19zBvG2",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "s6k7oyMyiZKIqAar",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "7oiohGkxeOfZceVR",
@@ -4062,6 +5392,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "FHWDKbm2r5ltPmmK",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "oj5hseYYTFuq4OYh",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4072,9 +5407,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "zwfNSb5Ft4v1QTW3",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
             "id": "caAfIPQy8oLw6CGa",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "k7WrjUZ3f6y3uK20",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "nyVgRtyjT3c8xnz7",
@@ -4097,14 +5442,69 @@
             "items-description": ""
         },
         {
+            "id": "8cr5UQhOU7Fs4x6B",
+            "name": "Scent (Imprecise) 100 feet (Odorat (imprécis) 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "P8K5a9sUjb1J99U0",
             "name": "Talon (Ergot)",
             "items-description": ""
         },
         {
+            "id": "rVdhm2xzR2AUjY4g",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
+            "id": "vfThatLsAEQPDKBL",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "9MHMx6sPv3PI8rHT",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
+            "id": "tTRbrpeMS0tQXfb1",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "aEnTHY8PwlCJWqzG",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
+            "id": "udfFYOsTo90aVSzS",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
             "id": "UbBKIIrkXaXbJIR2",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "yox41dJM9YFdHSRU",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "fKdYArB4XGbeZO0e",
+            "name": "Staff (Bâton)",
+            "items-description": ""
+        },
+        {
+            "id": "oPF7KkI27o6FCE0l",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "SE2Oc5VGiAxYtDb3",
+            "name": "Crossbow (Arbalète)",
+            "items-description": ""
         },
         {
             "id": "6QzeJqibXMpIAXDj",
@@ -4122,8 +5522,18 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "3gYN9UrAQK8utoKH",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "8AK5AzyX03GXrikY",
             "name": "Fist (Poing)",
+            "items-description": ""
+        },
+        {
+            "id": "ZLFfrg26KKB9491o",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
         },
         {
@@ -4137,14 +5547,29 @@
             "items-description": ""
         },
         {
+            "id": "xGpHtG4FKoXUAvFz",
+            "name": "Trident (Trident)",
+            "items-description": ""
+        },
+        {
             "id": "lq5shiJkFR0pdE6O",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "ojGq55t3EY5AHaLi",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "xXgKRQDkgjLOs0Pw",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "5OjmNZx2hq4oc5GJ",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
         },
         {
             "id": "qP4bmFVnqKAeVCn1",
@@ -4162,9 +5587,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "FYOsSxnsDAEzO8SZ",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "HeSYt5jeXQwluP8x",
             "name": "Fangs (Crocs)",
             "items-description": ""
+        },
+        {
+            "id": "cBLNcI8XKhBuOFqE",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "DhZVlrSd475Ljs1k",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "fDOGJqfBeWIT7IOl",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "h7VjKWk9XbmBEL2M",
@@ -4187,14 +5632,44 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "0ftgGUzxUSGkDH1w",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "iJuVRVeuCbiPmn0M",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "RM8HImoxZfJtj8F9",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "lkfuADlIxVnyt6EH",
+            "name": "Scimitar (Cimeterre)",
+            "items-description": ""
+        },
+        {
+            "id": "nZLnu6bwL0bYmIYm",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "qNUdm1wGl9coLrPP",
             "name": "Dagger (Dague)",
             "items-description": ""
+        },
+        {
+            "id": "CK5NsrPLZx91r8av",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "MS8VRrrPU2Us5eB9",
+            "name": "Shield Block (Blocage au bouclier)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
         },
         {
             "id": "Y4jOGsg9U0NdL52x",
@@ -4217,6 +5692,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "1zABoyA2x54PjRbW",
+            "name": "Staff (Bâton)",
+            "items-description": ""
+        },
+        {
             "id": "GCG8oOD2iTmTVFyN",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4237,6 +5717,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "a0XndmlcRchhe4Sl",
+            "name": "Horn (Corne)",
+            "items-description": ""
+        },
+        {
+            "id": "f9xJOejUBSfPwnLt",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "BqST74R7dRaivdDQ",
+            "name": "Beak (Bec)",
+            "items-description": ""
+        },
+        {
             "id": "1Ssl4YAndiCjS1sF",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -4245,6 +5740,11 @@
             "id": "go13nXjPXGhj1YCQ",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "iGBJDGQHVXz9hpgE",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "S5fuvAOuYoMnXjOB",
@@ -4257,6 +5757,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "60CCB5Edf3n6TRxV",
+            "name": "Tongue (Langue)",
+            "items-description": ""
+        },
+        {
             "id": "IfQ2Ql0FDoKs4CXh",
             "name": "Fist (Poing)",
             "items-description": ""
@@ -4265,6 +5770,16 @@
             "id": "JScL1xh1oN0V3BSZ",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "JNHO9c4kCv8dEqkU",
+            "name": "Tongue (Langue)",
+            "items-description": ""
+        },
+        {
+            "id": "IDk5Kln9p90yl0SF",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "Px3PToNF8Czy5qrn",
@@ -4280,6 +5795,11 @@
             "id": "rgq47BGgm0jbIXb6",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "b5tNOyXUMi9maaal",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "rtGARtAYnK1Pseab",
@@ -4302,6 +5822,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "K3okiJnrmgicRkEQ",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "eTWugVatqxe8rLdZ",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "sT02s8CpPBlLaICN",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "ifv7iRcnxapPCh5S",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -4310,6 +5845,21 @@
             "id": "Gj7A4LTikw9f1cDC",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "L2LnR1T2MiBlznWr",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "BHN2n3G77QRNLHhM",
+            "name": "Stinger (Dard)",
+            "items-description": ""
+        },
+        {
+            "id": "sZ10byXqZzWm4yp5",
+            "name": "Throw Rock (Lancer de rocher)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
         },
         {
             "id": "wVY7ijG6fY0kdgBv",
@@ -4327,6 +5877,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "pnaFRppT92BaCHjj",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "4JqTaWMRh2PWQLJX",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
             "id": "5AumaQTWt3WVkDej",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -4335,6 +5895,11 @@
             "id": "135ZjsQICC0n6hMK",
             "name": "Hoof (Sabot)",
             "items-description": ""
+        },
+        {
+            "id": "DNDY9jZtwm6GdoBP",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
             "id": "BG9o62cI16MBV3Qy",
@@ -4352,6 +5917,21 @@
             "items-description": ""
         },
         {
+            "id": "mjNu7tTMIDpyD02w",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
+            "id": "gKhFLhWvvDGY1Xbf",
+            "name": "Trident (Trident)",
+            "items-description": ""
+        },
+        {
+            "id": "NxYSa8z9vgTVhuCT",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "9ksWonUvUDnlpZJ9",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4367,14 +5947,39 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "bwScFju6YTBM7feQ",
+            "name": "Horn (Corne)",
+            "items-description": ""
+        },
+        {
             "id": "hJMhsrU4b1Xsyslz",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "rFakD0KrlUr9DJiQ",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "7F01r7qfkds4bfEo",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "Ram97nW6kaJ9IBc0",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "hT2TFquy1W3hmWXW",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "xQqEt4PLNOCTutWG",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
         },
         {
             "id": "X7tUpkvJ2IFENOEb",
@@ -4412,8 +6017,18 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "lDtCFaHXdvj9JdET",
+            "name": "Shortbow (Arc court)",
+            "items-description": ""
+        },
+        {
             "id": "pwmnQMrCnI7oQIoE",
             "name": "Jaws (Mâchoires)",
+            "items-description": ""
+        },
+        {
+            "id": "OEzKykNunY5znzf7",
+            "name": "Claw (Griffe)",
             "items-description": ""
         },
         {
@@ -4425,6 +6040,21 @@
             "id": "NbGq64tR4svPBmpM",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pYnHQN69rHC0bPm0",
+            "name": "Longspear (Pique)",
+            "items-description": ""
+        },
+        {
+            "id": "KD9WyZyMHgs07nLa",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "kPhOwZbsXGQU7VRq",
+            "name": "Telepathy (Touch) (Télépathie (Contact))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "Y1NA8w2GEqKfmqbJ",
@@ -4442,6 +6072,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "j6z5lXtJI1JXtP6N",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "Fk6KpPG5r84Cxf3v",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "uRFTCAT3URlRs0Pp",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4452,9 +6092,39 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "ODB8H9ordvDj9MK8",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "xUovRSHL0ImgkXwW",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "hNp02EzjCutL6cMN",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "ZEGxGxVAaZSmhNp7",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
+            "id": "T52SfDBkv0NA6Q8o",
+            "name": "Pincer (Pince)",
+            "items-description": ""
+        },
+        {
+            "id": "eLKeINPUnuoZeD9D",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
+            "id": "tX4NpGH9LfAqWKz6",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
         },
         {
             "id": "SWneYGYH8A9aMZmK",
@@ -4465,6 +6135,16 @@
             "id": "Q49aLd8cKOkjpk9J",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "5RtC2ASqDYa1fPfS",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "Sryn4awFAiEFPWJi",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "l3QKE8kkrmNe5aZO",
@@ -4507,9 +6187,19 @@
             "items-description": ""
         },
         {
+            "id": "o1xm0AkoMLLKUiqH",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "M9Gq6cRX2w40Q3Yb",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VVske3A1OOjBtpVV",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         },
         {
             "id": "3FtOenHRAd3nreJ2",
@@ -4522,9 +6212,34 @@
             "items-description": ""
         },
         {
+            "id": "ce63eYi0AotvHaz2",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "s7ODA9MMbyTJSlyF",
+            "name": "Lifesense 30 feet (Perception de la vie (9 m))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+        },
+        {
             "id": "K32Ag7GpssjobCOz",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "svN7CmHYusjv1DJ0",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "QeDdL4PRsKD6EnrC",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
+            "id": "XqjbxnxA89sOEKAK",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "dWtpFgBDu68MZFgx",
@@ -4532,9 +6247,19 @@
             "items-description": ""
         },
         {
+            "id": "A7emqw5XPEaVatWu",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "KdYM2NV3yWc57PNc",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "wncZzBRw5mBr1I3b",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "t2HIuBRLJiGYJZXE",
@@ -4547,14 +6272,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "DzdpbPovIBcXuiRi",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "ebO4IFQGFnQQfnSq",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "x5ke7WXv7p23V2Mc",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "U4IAJfb86qQA800m",
+            "name": "Pincer (Pince)",
+            "items-description": ""
+        },
+        {
             "id": "3SCP38lxFNM5HyPh",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "PnJfuVPrYH1cItcX",
+            "name": "All-Around Vision (Vision à 360°)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
             "id": "WgefMvFrdC4a4wjm",
@@ -4565,6 +6310,11 @@
             "id": "i0GVDRjE4Mf3fPfW",
             "name": "Spear (Lance)",
             "items-description": ""
+        },
+        {
+            "id": "n249UcrNORZw28Hg",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
         },
         {
             "id": "kzOsIUUeSNgTP9xK",
@@ -4597,6 +6347,11 @@
             "items-description": ""
         },
         {
+            "id": "7JznoiaHsY4zQn0z",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "sLdsVr8WCWegLUjP",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4612,9 +6367,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "Ti3e0CkEDJSOuOJy",
+            "name": "Ferocity (Férocité)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+        },
+        {
             "id": "m2GqanJ6fVKX39SQ",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "l2ymfoz6uzs9Q7vM",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "atgtDLkpO7KEpGOE",
@@ -4625,6 +6390,11 @@
             "id": "B2rF45WAMrowNHio",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "CTfA2dy8dT55Ygfa",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
         },
         {
             "id": "7bvs9Qjgwf9G0s4w",
@@ -4642,14 +6412,59 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Y9n8hgpI4feL9erM",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "KXYQjUBjJFbx6t3Z",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "And8KF1KdAhqnNh9",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
+            "id": "TRofD56vepZwhI9C",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "vDVTFesUl1YqnWqr",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "7i9LTQqlhq2Hhy7j",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "RFaRYNVP3GPdcMkY",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "hD5zZmaH7szmKu7h",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "y0GOJlbF7uqf9iXm",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "2KYuE80DPoFkgFGT",
+            "name": "Spiked Chain (Chaîne cloutée)",
+            "items-description": ""
+        },
+        {
+            "id": "Vy9JT36ldSAVIuxB",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "sfynZ9FF1MvgyIsO",
@@ -4682,9 +6497,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "O7GCOmC1ewn8Hglr",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "icUrUnsfgvWuac89",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "f0YkO5SMtEfB3r39",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "Nwuz4zQLB3u2ujwO",
@@ -4697,9 +6522,29 @@
             "items-description": ""
         },
         {
+            "id": "VbzlMz5d1BV2siTI",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
             "id": "TFIM3DwopeaNPL4N",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2gs1tULfH278de1h",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "Nvg6G4rwFK7be0Td",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "IH1oaRD65ApAyt5k",
+            "name": "Longsword (Épée longue)",
+            "items-description": ""
         },
         {
             "id": "d9VRUtPpmcA0zUfF",
@@ -4712,6 +6557,11 @@
             "items-description": ""
         },
         {
+            "id": "B6M6fTBtJwAQDYCs",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "NlBTftnU3oQdbjtw",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -4720,6 +6570,16 @@
             "id": "YfW3hmqsouC0M5an",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "0PhWUNCIDMNJ1T2x",
+            "name": "Telepathy (Touch) (Télépathie (Contact))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "SbZX27efEktYhABv",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
             "id": "nIiLVQf3htOx2fUg",
@@ -4732,14 +6592,34 @@
             "items-description": ""
         },
         {
+            "id": "xji68Q4mnqfdWVnq",
+            "name": "Shield Block (Blocage au bouclier)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+        },
+        {
             "id": "Sn9QsKQ5fSuHrD9F",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "8oZMFFQs6aQ2T29D",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
             "id": "koOLkiJRcE1XYMxS",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "O5Ub4Pr4nhdrG6Xy",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "z8QOqIIzB4F2TaBY",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "uC8vf4vEv2zFOWgo",
@@ -4757,6 +6637,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Oj448zcLgfmVIFy1",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "2HxMlxTXwWW6ubW6",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "JpsnonKEA4ScV5n5",
             "name": "Tail (Queue)",
             "items-description": ""
@@ -4767,9 +6657,24 @@
             "items-description": ""
         },
         {
+            "id": "zR7WoyREJtjNrtuv",
+            "name": "Rock (Rocher)",
+            "items-description": ""
+        },
+        {
+            "id": "mLIM2js0SKePsRgt",
+            "name": "Shortsword (Épée courte)",
+            "items-description": ""
+        },
+        {
             "id": "DADYHBK8ittlLsj9",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "ETZ0a2GwlpGrMxWM",
+            "name": "Rock (Rocher)",
+            "items-description": ""
         },
         {
             "id": "6OT1Cj34QvB0zv3Q",
@@ -4777,9 +6682,19 @@
             "items-description": ""
         },
         {
+            "id": "34s5p7VALREkL8Sh",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "6LVQDNRocR70kvVD",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jTvAXL1UqsQrbQhO",
+            "name": "Telepathy (Touch) (Télépathie (Contact))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
             "id": "jQDDocLXx8D5KEwx",
@@ -4812,9 +6727,24 @@
             "items-description": ""
         },
         {
+            "id": "h8Phu8ErJOaWCuUU",
+            "name": "Pincer (Pince)",
+            "items-description": ""
+        },
+        {
+            "id": "UGDbrE4flLByNgPe",
+            "name": "Tusk (Défense)",
+            "items-description": ""
+        },
+        {
             "id": "7SJO477OusJy7wpB",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "yNJghW8czppyVYi1",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
         },
         {
             "id": "42qxpi5EYfZ17E0X",
@@ -4832,9 +6762,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "GWx7ppzGBq5TVLbL",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "HvYM5Z1ubUt120XB",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "fQuNqFErQHkBJLE8",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "lxWOOSDzdS3gKtgq",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "Q77O3dFWbNc8OyJh",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "N0n5SsuqfJHWLi1E",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "kWiBTKt3h01RReit",
@@ -4850,6 +6805,21 @@
             "id": "hozqm7eiBZchD7T3",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "aqpkkRpk5KmwHfhG",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "td7f48qGt23BZNFA",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "3VJSS90TtdqUONTz",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "RfXLcZpuY88IxZTD",
@@ -4872,9 +6842,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "wuJYkji7dBLYrLAK",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
             "id": "EWX813DLZAePlSAY",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "B0U6YmeB8UGglyGa",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
             "id": "TM9l7vqFbUf1UCLT",
@@ -4885,6 +6865,16 @@
             "id": "8kIjzzH6mYzHjhor",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4yxB753affbJoFUo",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "aZTKSdmtywAvr7TJ",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "wzhDzF6I1V67YTEq",
@@ -4902,9 +6892,19 @@
             "items-description": ""
         },
         {
+            "id": "TFCVPbBolzO2jAdu",
+            "name": "Knockdown (Renversement)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
             "id": "m1kfe61fI2Y0NgZd",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "46M4PewZUpmrWn09",
+            "name": "Longsword (Épée longue)",
+            "items-description": ""
         },
         {
             "id": "7qBjkooMOFnRW7Uy",
@@ -4920,6 +6920,16 @@
             "id": "58QNGdCWXAUWVAti",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vlGXeDzuvihHbasj",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "cwzm6hgGDNWyBDjU",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
         },
         {
             "id": "d85usCDnVlCRnJzP",
@@ -4947,9 +6957,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "vrYCafAUKL8c1AqG",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "LVzeZlyXzpgBSv5s",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "WJd6BkqpLfOkXE2u",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "HYlZSPGidgo056wQ",
+            "name": "Constant Spells (Sorts constants)",
+            "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
             "id": "jMQ5yo71IDbzIoiV",
@@ -4957,9 +6982,24 @@
             "items-description": ""
         },
         {
+            "id": "np15xTTViDna2Ngj",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "b3L5EEZVfcjwleqc",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "0fyQTAFgkuG0R7JH",
+            "name": "Stinger (Dard)",
+            "items-description": ""
+        },
+        {
+            "id": "FeIulhzHCcKLFyNH",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "V2NsuzlWxUrYA0mE",
@@ -4977,9 +7017,34 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "w7iV0zSL62nhwGjX",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "qQZbVChzEGjI5sIk",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
             "id": "eWeqt47GwgkuwIQ8",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "KmgwRHZExpyqDBij",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "wJ1vHRd41BTDplWu",
+            "name": "Longspear (Pique)",
+            "items-description": ""
+        },
+        {
+            "id": "nmzcowdCvUQCrcqI",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "uBnRvlWD0zCwJWoX",
@@ -5002,9 +7067,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "cb5dMTXksovLZMVP",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "lmUd66np5PVIvPFr",
+            "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "6xahDCfkFUkOeoVD",
+            "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
+            "items-description": ""
+        },
+        {
             "id": "kt9Kmearp1t75oDh",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "MzIjuOCLnKBWgj5w",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "b4LBZAjcRm8KzaWR",
@@ -5012,9 +7097,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "QP9beVsoQsi5P8A5",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
             "id": "qT7gzi3MA0fVfY8a",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "yF5x6s4ZYEZtto6J",
+            "name": "Claw (Griffe)",
+            "items-description": ""
         },
         {
             "id": "9Io2XFFvCWC7aHPp",
@@ -5032,9 +7127,29 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "Mfyiq7MrkDXVAE1n",
+            "name": "Greater Darkvision (Vision dans le noir supérieure)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
             "id": "sbFqRQAmJParFwfu",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "vNKRTp7YasyHRjqH",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "MCvCX567cQVCilQv",
+            "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "UCfN3V1AIADUiNel",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
             "id": "YDmIyZCs3c67oBWR",
@@ -5052,9 +7167,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "g67OF2C6ofc7JN3N",
+            "name": "Tremorsense (Imprecise) 60 feet (Perception des vibrations (imprécis) 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "EbsFN4gbz3zpDwft",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
             "id": "zGXRWPh3UMA5q46D",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lHGpzeVpbkAh9PNL",
+            "name": "Bastard Sword (Épée bâtarde)",
+            "items-description": ""
         },
         {
             "id": "SZ0KpuFOSI1WY5Fo",
@@ -5087,9 +7217,19 @@
             "items-description": ""
         },
         {
+            "id": "yoFbIDWoysXLt9p4",
+            "name": "Foot (Pied)",
+            "items-description": ""
+        },
+        {
             "id": "TTotdT50Y6eFIsHY",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "tetpWKxbpwLYXdRP",
+            "name": "Improved Grab (Empoignade/Agrippement améliorée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
             "id": "37C5tkSFoAf7HJd2",
@@ -5097,9 +7237,19 @@
             "items-description": ""
         },
         {
+            "id": "cEoEWTWpIT4SBb0S",
+            "name": "Swarm Mind (Esprit de nuée)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
+        },
+        {
             "id": "riqBNngN6YkDWYqv",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "AyDallashGfDWvMX",
+            "name": "Telepathy 100 feet (Télépathie 30 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         }
     ],
     "mapping": {
