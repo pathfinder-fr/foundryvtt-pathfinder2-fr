@@ -28,7 +28,7 @@ from dataclasses import dataclass
 # lists     Dictionnaire contenant la liste des champs supplémentaires à extraire sous forme de liste, dont les différentes valeurs seront extraites avec un "|" comme séparateur, et à traduire.
 # items     (Bestiaire only) Les objets présents sur la créature
 SUPPORTED = {
-    #### Les ascendances et les capacités
+    ### Les ascendances et les capacités
     "ancestries": {'transl': "Ascendances", "paths": {'name': "name", 'desc': "data.description.value"}},
     "heritages": {
         'transl': "Héritages des ascendances",
@@ -134,11 +134,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
-            'extract': {
-                "0.label": "data.variants.0.label",
-                "1.label": "data.variants.1.label",
-                "2.label": "data.variants.2.label"
-            }
+            # 'extract': {
+            #     "0.label": "data.variants.0.label",
+            #     "1.label": "data.variants.1.label",
+            #     "2.label": "data.variants.2.label"
+            # }
         }
     },
     "pathfinder-bestiary-2": {
@@ -165,11 +165,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
-            'extract': {
-                "0.label": "data.variants.0.label",
-                "1.label": "data.variants.1.label",
-                "2.label": "data.variants.2.label"
-            }
+            # 'extract': {
+            #     "0.label": "data.variants.0.label",
+            #     "1.label": "data.variants.1.label",
+            #     "2.label": "data.variants.2.label"
+            # }
         }
     },
     "pathfinder-bestiary-3": {
@@ -196,11 +196,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
-            'extract': {
-                "0.label": "data.variants.0.label",
-                "1.label": "data.variants.1.label",
-                "2.label": "data.variants.2.label"
-            }
+            # 'extract': {
+            #     "0.label": "data.variants.0.label",
+            #     "1.label": "data.variants.1.label",
+            #     "2.label": "data.variants.2.label"
+            # }
         }
     },
     "hazards": {
