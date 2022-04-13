@@ -6,7 +6,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-12 14:14 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-13 06:25 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -545,7 +545,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-04-skMIwUIMjWzgkZ5B.htm](equipment/consumable-04-skMIwUIMjWzgkZ5B.htm)|Blessed Ampoule|Ampoule bénie|libre|
 |[consumable-04-SWqzv0hYCIczICeR.htm](equipment/consumable-04-SWqzv0hYCIczICeR.htm)|Trip Snare|Piège artisanal trébucheur|libre|
 |[consumable-04-T4ouD4mVFHA3EHs6.htm](equipment/consumable-04-T4ouD4mVFHA3EHs6.htm)|Bomber's Eye Elixir (Lesser)|Élixir d'œil du mitrailleur inférieur|officielle|
-|[consumable-04-tslVf3qtQE7V1YvG.htm](equipment/consumable-04-tslVf3qtQE7V1YvG.htm)|Sinew-Shock Serum (Moderate)|Sérum de Choc-vigueur modéré|libre|
+|[consumable-04-tslVf3qtQE7V1YvG.htm](equipment/consumable-04-tslVf3qtQE7V1YvG.htm)|Sinew-Shock Serum (Moderate)|Sérum de choc-vigueur modéré|libre|
 |[consumable-04-WeiUTSRc17HLNehg.htm](equipment/consumable-04-WeiUTSRc17HLNehg.htm)|Sniper's Bead|Perle du tireur d'élite|libre|
 |[consumable-04-xcH5IW7ahE3q8cPq.htm](equipment/consumable-04-xcH5IW7ahE3q8cPq.htm)|Dazzling Rosary|Chapelet éblouissant|libre|
 |[consumable-04-XfcSVHwMA60JxUXJ.htm](equipment/consumable-04-XfcSVHwMA60JxUXJ.htm)|Focus Cathartic (Moderate)|Élixir de concentration cathartique modéré|libre|

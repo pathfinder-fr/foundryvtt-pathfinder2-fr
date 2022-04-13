@@ -1790,6 +1790,3876 @@
             "id": "Nuckelavee",
             "name": "Nuckelavee",
             "description": "Lorsque la pollution gâche un cours d'eau naturel, elle attire le redoutable Nuckelavee du Premier Monde. Cet esprit de la colère est un spectacle macabre à voir : une monstruosité en forme de cheval avec le haut du corps noueux d'un humanoïde poussant directement de son dos. Cette forme hybride difforme n'a pas une seule parcelle de peau, comme si elle avait survécu à son propre écorchement.<br /><br /> Lorsqu'un Nuckelavee sort de son domaine, il sème la destruction sur les terres qui l'entourent. Les Nuckelavees sont considérés comme l'une des fées les plus cruelles et les plus monstrueuses et certains les considèrent comme un juste fléau infligé à ceux qui souillent les eaux de leurs foyers. Un Nuckelavee, cependant, ne fait pas de distinction entre ceux qui polluent et ceux qui ont simplement la malchance de se trouver au mauvais endroit au mauvais moment.<br /><br />"
+        },
+        {
+            "id": "NEE6cuy1OUxkBe2Q",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "k0yAlAVkZbGrXfX3",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "2YDmS6mB4lt2kYvF",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "L97RozqSBXjCukbA",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "3F8tYJDQeeHlPY6p",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Wx80gWdCaIlQR8Yn",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7TyKfwJXlkKJmSp1",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "G0091T8nIwBjmZUF",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "ieuwqdM4zXO2i22Z",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "UQft7JhW6zhtWCy2",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "kbzaYm7nhy7Ip1Tj",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "GY6jeRcNdp5Fd9OB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "WpWYDh7Z8YVMtkCU",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "2bevQZIcuccKMxmq",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "eTTwVRhxdeVx0PRD",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "qwdqondeCGj9321E",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "hyT0NpcWHdpgo5lt",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "2bthXOLfHVbIarRo",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "XcpCwjEjd7OKbKnx",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "gADgaaM8ZZlYZcXg",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "lPnyzUu12dzRoAGk",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "4eJg9N0UmfD2Yt6C",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "W7bXRQuNuOabEMJg",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "mqgxK9jf9zGXE672",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "8SI23rDwK2QYJaxP",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "rLT3Kld8E7p9hG1y",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "rnvfOLxvrsqRTH2s",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vbL3yHO5ysgCJOcD",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "xpfZ2YkQuu4I8kW0",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "UK2ayZO6tmbwgHBL",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "zwROdG6waBZIlf4v",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "TVOxysBVf9C1u5wF",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "CR1qaOcpKevyIuQj",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "l0ivHsOCu0wN1yYF",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Zh1eW0zEMgFfvRik",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "9Q05lkXgY0PrqSQz",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "QQSJHx4JIqEThZoC",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "gsfeTAQtmgDaEQI7",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "APd8zemC3kgQClDQ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QTxOTyLCST6Zaqb3",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "OYTKATaPDdautdNt",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "QHdmWY86UyD9ECHR",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "K8JEIxdXOOyv0Mm6",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "MPbG99HGshwvN1vm",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "1w9sOvRdSaIEpLNe",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "pRC5IW45o7eWNos1",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ROfUBzcM8hE66OL5",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "1yoCf7iLNmn7SD5D",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+3 dans l'eau"
+        },
+        {
+            "id": "U6lHO1793L8PN4Hc",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "YsR1W3Gw985Xzr24",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "5IQ8tiyhCdSfyPEo",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "ewIhUHZqcxVqsG7x",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "XcF1XgnCOdQvrvbz",
+            "name": "Talon",
+            "items-description": ""
+        },
+        {
+            "id": "W5c599K6o0Z10LCq",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "9ONTjzUo2qngSIHO",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "o3nbXHISVkXC32B1",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "uQ1bRoDBDEldN87d",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7j5B40DMWHBTShLl",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "EelpjpvvyRcCSTCg",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "qeIQpw65yitumRkB",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "61GyOh9BdFBPZCUD",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "N5U9pyyTitN5UDgN",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Qj1AizQTHLeRQxPV",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tnyUum6cGLUvry3c",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "GbfpFzRZunqiRxI5",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "D8xygwrc0WQBOje8",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "jK8jhXaoNnEEDRLV",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4PmFH52nJw8E0Xwl",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "3CKGWY5tOmbNJznT",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "JoBMwImgYPvlh4zo",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "s8TihgQDAypdPOee",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VxDq9bJ1tuymcMTt",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "9H6kMOzk61FQZoC9",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "lt0GXB5vawxWhRLk",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "nj1sfrFbZHDVVn3y",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "6LuECgP1a3GGskbB",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "DLcmdOFICEUjArKs",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "cM6xjoHii8NbgRz1",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "cNnj1mdRc6n47fUX",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "JkVCc433MJHRl0qG",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QUwEfng9Ey9oqGwE",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "J9iEljd9P9EPB4wm",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "fxuqMIJcFuZQworq",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "9tmJIJ6vy9JEPaL3",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "YBRIxpMXUrxJfeV1",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "6a1pfDWvzEsw0JWE",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "YXm2W59CMTMhb25j",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "yRTlpaC9IkrTE5xd",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "DlQoJTMEjgmsWgCa",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "j8i5xeCEDDiWbh3z",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "BQb8kxk0ZDelZ82e",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "h9Ugyirm1B1g6pt6",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "stKoZGNXuFFgUzxE",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "ql5PVdfgunDKXI5N",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "f61dlQmeP2vZs1Go",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jG3O965IQDZgxg9B",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "SqBptcrkfElc5p4M",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "pztBMGaCTnjDqJCY",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "uD7Sv3Sf3fTDECXG",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "yTHhCN6VWoGZKUqM",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "HHnlE5IJhxgzBkin",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "bcYwNYN6KGrhljcb",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "zvpqR9uOambi8VIJ",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "3tFe6InN38WdT6ps",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "LcHF4msXaAScrZFk",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "ki1JmOjsmc5eRI42",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "vZ2zVHToKsyYJOTI",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "E9d31Pl4TeWAIjWG",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "5kEI04PwOkPj2l0j",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Oe7KNrqiGTrNfkV9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "uzav7YxjDugksaRl",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "dx1pnJnp1Gvp5XLN",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "I1cXiDVfmHepyrXf",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "DryXaAfUqz1HN8lZ",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "GryMTmkSRqTAW3ol",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "xBrIiF2AXw27mMmW",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Kk860My0b7DPBnAo",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ayFG0wkvOvyHre59",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "A2KzHDp53CpDVtv5",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "icFkORI0Y4bNqBbP",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "AUp2Wnd4EQNf6jKb",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "8WsmugIanltHKUg1",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "l4eGICy0QK1EEERs",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Cp1loMnqFXw0uGPS",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "iZA7ek0jbfpt5FDo",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "lcdESp8kjoyZyuYE",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "xRPyNMWHvevzaNHI",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "42LsnRw0ara1e2xW",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lZ2HxJLCCy5TITMC",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "tByLKFHCnMANfCJV",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "AbJYjoA74dUGnY4h",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "HilJh22elkeshhLj",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "DtSPqabFqLrQDfGC",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "2uyZOjTUnURaOWQp",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "oifiHjSHVsJGyQiE",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "D7nU92x03rn3cnoU",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "eBkXc5S4Spo7zZ3w",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "LV58uBPdmRP5wve2",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "3MKqU2vGsb11kD4j",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "YnfFdQs1dxCIBHYJ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "MDX9dw99EkjeyPM0",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "vBhPWXgs8q8icc85",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "AuRaykn2A42pUIob",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ZKbT5kDUoOwBrcCA",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "9rLnLLOFCIgXRAK8",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "5yWmBrLhwYvStUFi",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "E7WX10Amh46NUWCC",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "ewPaxkwRS28GoetB",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "1BD5jRohvhbGdDwq",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "8sphOZAnVIS4eVZ6",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "X9SDgPuuF9AwEVsK",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "efL2PrxRnB9GLHmZ",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "fRtY0qdhDDIRBRWj",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "A2lqtFMyanvkN6wM",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "joBz08Vy0TnC5ELN",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Nnavq7mhKrb8vMx5",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "j2XC7qI2EMqGvGSs",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "gINTMtPPDP3qyAhd",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "b9pe5dbiY9560pAA",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "YerPyajhgUANJwRq",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kAgFhMe8TiBlKO3j",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "FXSgcv7xK9yqmz6Q",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "AhkuOBFHV5aW2vlI",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "Ar1bSS3EJOZsaTMx",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "LbTesuVUtAbIzLRY",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "WKRlqiMNA7n19s8U",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "goYkQxQdewpmD26j",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "oabwo3FEBY2CjPRM",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QD2iwjozawGYYqOf",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "rasNjBJHTsaP5LFC",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "YfFUNMAKaJ0wspVA",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "OzuFfQ0SSo89GdPZ",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "KJj34nHnZfjz70Pj",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "pntbmMiiU6IArfJX",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "5xuP57kLx1Xu16ZO",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "coCCw9uVbyTHhKfl",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "U291oOsn8aI5u9Za",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Ne1X80xmcoz2KP6a",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "l8iqEFTf53TY4e9n",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "dYdv3Ex4iHyirwUo",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tFkVmhokDW1zCny4",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "hHqx5bavcH4BYz5s",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ZzXV8so5F6pu1j3r",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "qebLFwBJf98hFcSv",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "u6T8tsZkOcFjvrzG",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "r8zcJu9p3TzgNHoU",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "HNfXE0yusiYA2juN",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "q0kSVZllWCY1CwD2",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "37D2wZ5XwqQ5zjsE",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "zZd6BogevnvvWpQx",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "mlnT94tqOlTGgqXM",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "fcCuiTHr7ed8LhqK",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "POIZ15lxh5FqbzaK",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "8CRzC395t7TeEnQO",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ehUknW9WZvN9eNjb",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "nSgOSBLM92y28WsS",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "G5e1Cf5jNqFiqF6y",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "7Qq2wYdCdaBf6zs4",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "0DWjvOoTNOT0cP4O",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+24 dans la glace et la neige"
+        },
+        {
+            "id": "FHyqgRwAZouh37Gw",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "aDF1WE7DJM17CR29",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "3zjA9MZy3tcHkLRD",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "cbhhzA952sTW7Nlb",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+17 dans les sous-bois"
+        },
+        {
+            "id": "I2sDX6PHhRSYYUZN",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "LBtPHwiQcsiBIHG7",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "wqGETtOyNtSqKkGC",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "yiiBFzSFMWspwb05",
+            "name": "Talon",
+            "items-description": ""
+        },
+        {
+            "id": "90V4TwzjxTH7bK7r",
+            "name": "Spear",
+            "items-description": ""
+        },
+        {
+            "id": "DQT6UjypWovf9CmL",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "qs95uKqjbpoxk48D",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "uLVKT1uotgIuFDA2",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Kzxltf72FUB0IXJp",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lc7e1FfD0zeKHSkz",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "6no2LBNfSHP8w9DB",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "H7is94BX3CDB78hl",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "Aq9Qe7xGRm2JMoFA",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "c4mDZBMrkh9kwIHn",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "1BrHXN7JmOnmyeOk",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "w1UuelNH4N0BPFBe",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "WOqo2UC99RfWFqA0",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "68RVtURJJY5N5dTK",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "S0ETALXebRGPPFPv",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "t8m638wy4P8pa4PZ",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Ur31aU2yqO6lWSV2",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "xAtGnv1FFFsyE06f",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "B2rF8mguredueRbP",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "ZoL2vMSlQqYIUJAX",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "N5T2rvrlqZmn4pNy",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "qfYFz5QrJfsbmJng",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "6gwNFiImkw2H0QWA",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "tisbaQ4bvix6pdXR",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "8PpUoIkvn5HDKBBp",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vb0fFWLf39zgAI4N",
+            "name": "Spear",
+            "items-description": ""
+        },
+        {
+            "id": "cJFgwvR7wtsldJBw",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Z5SqMzsLOhD9YS8w",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "9KZUjyVAnGC6gEbC",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Lt44trsI3w4Nptsb",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "o6CQEcEj0w3RIaZB",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "ZDDAw2k12iKwWmyi",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "rMTD8eLYVnpfvpCd",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "0s7Elyqvdpp0ck2s",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "U1rCcNDpkbvZuuCb",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "CDAurAI8XPZBeHsL",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "XHSGBobf5LZDw5R5",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "GmbRFl9ktqpdH1WE",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "5XOy3zqts39I3bzo",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "FcLtb9IKlH2X8wBl",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Z1OJoOqn3eSaMnv3",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "b342tA8Gkde6f6zo",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "MopioBBWXr3np4t0",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "l0J79vRF4TUP2DXP",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "DQRNNHu5GqCVAno4",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "W8H9WsxFN6hIlghm",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "OBbctD8lNz3bU0yf",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "jppcxZjbxQ0e8W30",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "7dxhRfITiiUW00kr",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "iKjpMK3lSakpUkFY",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "SpQLyhSHuzpd81GZ",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "S6Avv1gbTIidozSY",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "VFprYdFvs654DtJ6",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "7x3Iu1Xd8r44ZR48",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "Mg0QNEtZXzZdfn88",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "7RZaK7BB8AYtaXJb",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "K7yXQ4PZPINLQXnj",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "uMr0g5ycTJTsxsHh",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lvSGUnxmrOKOF2tT",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "XhyjVYavWAJIwq7b",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "boC55Edo1J7Heynq",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "5gLIoGOoPN1ReZMD",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "6lnr0C4QK4LAkOa1",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "UcRrxW2Ay0vhDBrn",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "8r5XXqPZOhI0JSfB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "FHQiK6c7jZUggMXg",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vHtf6k3iRMSkYTZd",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "rDl9ZNp0ry5Tek3B",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "IzbfeuZKm6hz1cWS",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "aSfa8TllpzF0cq1p",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "znnYZfV4tw03wze8",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "T7tMkEUVA0Pq90Yo",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Nz33adJeSgdyaAw6",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "iHNeGlvXTDOXMF0H",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "MkwxsOzEbMfQNQfG",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "jJAZZAqxbrSxGLXv",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "k8uRKWJkW8KHtabq",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "6dch35LAYgze01qE",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+12 dans les environnements humides"
+        },
+        {
+            "id": "4oL2L4CT1FG6IAEu",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "2HOhVTSCzGdbcfjr",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "MRVG5RH41oEJ41N3",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "wjVFu1tX56VVEB8G",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kUtQvCE4ePTqjluS",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Ybx41yIdQO59hKjK",
+            "name": "+1 Status to All Saves vs Magic",
+            "items-description": ""
+        },
+        {
+            "id": "PDKjx7hYxc0mQaVe",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "0XjG2HkUAja2e7pE",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "FKgN8Ya6AS8vCOry",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "hQdMdV8u5o7eWZEV",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "dsZl9DioIJswY3Gs",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "dFTh6F51ONxZqLHO",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "Pq25te8zoxBzUMRN",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "vtC1BWVjxbgjcJ2H",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pVbWqNxbj50FvZ38",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "V01q458qlTH6dA7i",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "AfwRVW7rPHMx2CVt",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "oBq0zVqb67SoY8qy",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Zt3p0OLPOAG0F5xm",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "43K5JpJ2j1VBI70k",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7iLw2emMidGNxyzJ",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+8 au milieu de la matière végétale ou fongique en décomposiition"
+        },
+        {
+            "id": "LFvM7oAwEJD1soNx",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "nKHp4Fk7EvpSS3N9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "qdKGH0iZztLLCCPz",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "PxJ09KlgYVpdaklS",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "awrAfsHw9vT0Y612",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "tssacopT88cz2z8v",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "KdVfLfgHwYXdIYXG",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "dXKhtDCdlXRIWq2O",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "hX2hdrvbUdBKffJD",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+15 dans les forêts"
+        },
+        {
+            "id": "CSSsFGyexhD5YUX3",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "x6cH9h8wAkR78uX9",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "4cwmHfbkRG2Hqswy",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "xiOTeaVvejTPBrhk",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "rA2rDDvXjf2Cfr4w",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "9oJwSlJ6tyt3KuRl",
+            "name": "Spear",
+            "items-description": ""
+        },
+        {
+            "id": "4w3vvxZvUVrs2iWm",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QHvw3fI9gFNac33v",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "S2jsW7P3mTUPKBHZ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "sdQC9PYloWzpJd9P",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "CTeYc8gFkSPfWH7F",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "FqRKnuudm93xTutr",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Hmb2WHTATQHONj7o",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "X1Hh7DXiCGoPXh2j",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "vu2E8xDlE75Jm0Mt",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "iqDrSwSZaUvRJKuG",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "HR9jZiX9oYUmGloZ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "FrDnLG8ehjXFC6Ey",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "R30Gee8hs5TPUNYY",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "EEVNlijtDn2A6Y9J",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "bRIQtOJZdj1Z9gcD",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "05N8sEltz4b9htCX",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "ZnwcqtkzrHYsNa9W",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "1ChXT4DL7N5JhHEq",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "sMafmLEOWxv5RH1h",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "l25YrJUMqQDtE3NT",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Y2i3TiK6GDsS9UIv",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VtQnDFC3P9Efec5Z",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "zzv3YiVwAfvq91jl",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "ZDynxQcPOYUqgupw",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "oG07EBWnvzNPv4hk",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pzMdTIEh6A57hKG7",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "QSxWcw9SiRdGtKM7",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "reBkTZBqwYPgsiFb",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "bIfz2rvBHXjIjmyK",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ugIVlLPaqyvekXgN",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "nD0QzJqbAecWv9ls",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "2wJro1SjxNwEf7TQ",
+            "name": "Hatchet",
+            "items-description": ""
+        },
+        {
+            "id": "ma50pIyMGEpOtjhi",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "0NKzpP896UuTepW0",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "bl1xW54BlfiFnU8h",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "RF4DrP2dezs9NRn8",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "V7yL5WF6xEMuHMIf",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "ExsxFy6Bmcgsy0GX",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "mwrBvwI1EzNpPqAp",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "gfmpjwebcEUzSXoN",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+11 dans les sous-bois ou les zones rocheuses"
+        },
+        {
+            "id": "aBIEnRecRBiBmpU4",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "1RcwWRNvn63MNFhB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "FrTdGO6BqbRvBLu9",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "78oc41E029XUkMoS",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "y5Va61hQuxXJ9dhb",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "x8IEFlb3LI5XDtkm",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4zBBMGUTIvxbdVBf",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "AtW9S7uW8rnbEEtY",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "sBfOfFAVZjz8e2Sk",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "ot1RNObQMdnpWSrb",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "0vrX1z0w3GFCktsF",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mOfIGDW3g48Ft7w8",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "tjNFJu8XOANHpzYB",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "YuIDIcSKbqQHoLea",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "Ctng3iJDIMkFh490",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "JImKJVdKy1YbBpwf",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "TfK9D77zOoU9jjxj",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "61nmK3yvcoeX2PbG",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "L9XO3TUsAurnPduF",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "OygWVWtANgUBztcL",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "hDdpyAhdnjpO1Bp9",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "Am3HvCv3WfgNu9sm",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "YEQydLBRNZJVJBAN",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "iSvQy8CUUD5u4nsG",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "ra2VPYkOtDIX5nt5",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "gmjig3Ov1aG6tBOx",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "SOgonEKuJHWkgeNc",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "hegoW9J1eMFWn0I6",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "gQnxWI3DPgkoWjmj",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kVPXtEyRgZTAdwiv",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "QuK27vpZ1PXmKcRW",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "cb6s0BQEA2EVpswg",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "r5Mw7uM8br1L49y5",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "mnNaEVfu4nEmEwem",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "5tqNBlspN6txKrz9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "7AMBKbBXmPFp0RlP",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "eR2U38j5LSvSk5t6",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "Rp0zPvS2PAgfYdfn",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "HmU4KBbkb30WqDpU",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "I4ZjVogUXmOSRkNn",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "JgV2QrmvVWjF51JT",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "T4TOIiPyHfghQy04",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "Bk63QeRIxXqBysrQ",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "dOkhtnPU3mvJbRar",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "5qArY8oNtsZLv3Lg",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "fKeX8OGCBc8j0eJu",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "IpYr4SLkhnzKvpdC",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "acasfdr7NXNxUTjJ",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "4W4LiMhJykn0tAnC",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jNQXKdaz3dr7h6s3",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "a3nL0MNgY6YXvvP9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "0Q0S3Hd1xOjt3Ked",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "H7ZdigvTaI99Ab76",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "NYqhdSbPLiwcvxjs",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mObSHLoIirMcASES",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "mey0HoXRCPNAYCqa",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "BmSUiM1ndU9nWVml",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ffxbLuQioRQZCSba",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "B4lZzVAkZocFD4OC",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "zA4dkHLp5wB4ZlmE",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "sqrdrxJ0d19wPysW",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "T7rTM38nfnCsn85I",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "EG42MTaDcKnzDi6h",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Ar58HUSjCtqUCBWd",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "4AlhbRnSYawCodcB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "FTil5NFptMbuNK7y",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "Zvjunjzq6eA7veaV",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "v6dHZF6ZJriIUH9V",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "pV2UvWTozyuKQHGx",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "oLxdFwYmbkBdHCgB",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "vda7kHsnuwSQWtXd",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "OL5iKgpKK0q9NrD1",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "V9VYMbFdFCqt2IqA",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "eFQH0YR5OMYZyD7n",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "xomzu6MJJ9pOCVdY",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "5Ygh7NnWAZBamFaS",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "X6lteRmVzKPr3P02",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "p9ZGDxOXXXlq8PuH",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "VDa8nmlZXUFf1Y7z",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "zVAwB8xvMUpj9BcX",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "V4PELj4i5rSeImC7",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ehOgYBBQ86ktUisv",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "2B1o26m73tHgV6UJ",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "4ujIS89zTfcMbbaX",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "JLgWzofKmiq0ajpJ",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "ZVXPGw1qzr4AJYst",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "GcML4HwZyqVy7XVw",
+            "name": "Talon",
+            "items-description": ""
+        },
+        {
+            "id": "yjgVEFL2BwjC3Ylc",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "AAyJQ8CViWWMXWPU",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "rRJmbyj1idfcUw82",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "qEh64WzRoljm53JB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "bxjYZ892TLi9AizW",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "1eb07HNvWyOOELI3",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "M14sGTx3h9uOKf65",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "5rN2CIypbGA4N34M",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "Pxxr235CKBdgLZ6y",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "SvghWJwmAo36V4Sx",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "So7Gr127G3zbRJAt",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "lssPHJEGxZtK2T3A",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "EWOsMDPiDiwsUVSL",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "vMozJKWMEqEZvBOl",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "4PAeJHUBsggCTLYw",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "nceXlZk44iBehzvl",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "swPjSgGgOFitRVM8",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "HDyQbtYQNxLarefS",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "V0XpLpHdJ1rYFrd8",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "eESVKEI54htLp14a",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "JqoRYjfcXOg9zHSr",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2GNdGYBXQOD8VlC7",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "taEoZD9fGbhrr6G9",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Xb5fg9Wf3Iiz5qeu",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "5tiASMinDzyHUAEv",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "MzmPJ00qwdaxKPhE",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "Ehx0cPu5CtggKCGE",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "A9SIfdrB8Hk28o23",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "61EkmT4Ba451hMDC",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "4z5ULy6UhFHErn4I",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "BKpd3Xf4hwQIvXYT",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "H6d3brisQR3MDHO6",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "6Sms9YOa60rjevVP",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "DL16zUuUzuYySm31",
+            "name": "Wing",
+            "items-description": ""
+        },
+        {
+            "id": "wleIqE8aRKNBcgOU",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "1RA0WbiyBjX7Iegz",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mMsy3KDfbrGBdYgB",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "IeAmIUQMEYZdSbaq",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "WmPbJSiwT9lndOlq",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "qUtjLPzfgoNg1aAP",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "aT4z6HhNe6Rlop3y",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "q5XLED0zxjExmJp2",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "dW28Q4hMeEWpDtay",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "FUbGjkLswPM3bxUL",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "a8kHbScnPzkgg3j3",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "uKp0N4KDIGVFsJ1T",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tG4nT3YD8KPOsT5n",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "NJorOVwoCKz6JGOq",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "0vByzvft4IIwjZh2",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "00zSyT0a2tdDQnmZ",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "FKd8OWhPrCEcBKFC",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ISiKvYdK9qbVBsG0",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "DyfwddYc7CkBo0HK",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Xmq08HzwUTnliDuF",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "HMmnA0DwFNibve0c",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "zcMAmOWmYshvH5lq",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "2ooN4XI8c3aPZmLa",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "D3ePCbVgWGtm6c2e",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "7FksKj3ieU9yJEu0",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "XqpyTWP6g2DVmNqf",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "n5nOO8opkHkd9ZDW",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pP0EwdXTDTjgDpZA",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "wKTyf3x01s0VjUOw",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "SU9JTCOQpNZUjegs",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "O4cx0ZHztve08mHY",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "CwjWGtOVvGZH0bP8",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "yl8CvIWxZx0c6fcn",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "hSqvFZoc1oaDpRVt",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7mVYoMlm7knbjqzo",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "Ax2F85HRXfPDtO6x",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "jXl0E4vOdMPzQ3Hi",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "8SCH000Zv6X9BFPf",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "LbkW4zjvlyreuGX1",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "zczeWPJAvYdnHaPh",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "W1PoKy0P1n1NYE7q",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "uR5sStuJbBbR9XK6",
+            "name": "Hatchet",
+            "items-description": ""
+        },
+        {
+            "id": "kIvuH6nOKhB0zVQI",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "V5AYyUYH7UjuXk8T",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vu53NeOG28PzBXPL",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "DBzHso7FlJtYCeiU",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "lJ35tuNxwPc194AM",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "y9b4KGpxjtDbtBFO",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "BkLQtw75VewmqYSQ",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "IVUIIQ9KDB8DHfvL",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "rUvfMcCzgvir0ElO",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "tIvtO7TbZgSNlr3F",
+            "name": "Constant Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "Er19GkrGFluxc3FN",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "tZhV19HIQBeAjdki",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "GVFq98KDosC4rgkt",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "MKjlk8JpKxpWjpPW",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "iPIBtZVZ5TaPEFp6",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "cQH5uYYBW0hseijL",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Kmh2fOosCcnUFq1X",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "EF6jFpXwBUM3i2gf",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "VdCpMDU3TyIElL0X",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "W9urt04ZY9TmtKEz",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "hNAE5swsHtvsyity",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "GJECjnP6onECplMu",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "9atqlz9j100vC4uo",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "xwvyEIcVrXBhC3JM",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "c9Aq0MMPKh2wKXXy",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "aUo4Cxd0YTiFEabx",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "t4DBIA1EMPiRHvkY",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "W0kFuPmuWmicQuUc",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ofz49oiBkargWzh6",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "28i8LDUqvwLQGZFc",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Wq62yRjG1oubi4Cf",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "3cCdl7Qgc7kTT6at",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "9Xg9EXT1XEoi38zM",
+            "name": "Spear",
+            "items-description": ""
+        },
+        {
+            "id": "3141UeEi3hFz0moy",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ZFxl4Vr0gR7v2Vms",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "5lPaA6GKal2YHAjj",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Xnn4xjhGBTSE9KtK",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "tdnc6MMJXidby82v",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tIQTZDimC6ewCWZ7",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "wQeIEyoNfxwL2mn1",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "CkFeQyjFwtsMRJY8",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "c4ByZjVeW0km1U7W",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+17 dans la fûmée"
+        },
+        {
+            "id": "Fc0hTwlWHz8gcaaN",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "ChobeFNcesw2DX01",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "JVezHGtBp5knZ21Z",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ubttzSAG6qyejH25",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "YHLI3DUcgA33ovkw",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Su8xRpdikP4lRabN",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "8g9m2H7zav2ekCFO",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "DEac5zIyNqdQYdnc",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "wWilHEuB4DGYHQdO",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "gCwKF48GST0z9EEa",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "H5oOhIYYYiEvkna6",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "T30LeVWTmp9xhLg7",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "hbf277SQgtMCjjWF",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "FsgtuZo9KF7fxlp5",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "MLvT2QA997KCHesX",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "NrafRXoflRlcVm6H",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "xURZboPgZokTtHAT",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "8Zo1SkheQdiIdsNs",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "EaiT42eaTUXQMPIu",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "rN5DBFuJma8wPkT1",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "UGoT9Ax8vT4G0yrI",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "YrMHTjkFMDgVtW5i",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "MUg2W7zTfRWFuMZY",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "jljKVq6TmhKOQUSh",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+16 dans les sous-bois"
+        },
+        {
+            "id": "njNLaG6BmpA7LInp",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "aNHpJbgvbOZz2Kpc",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "rGG9CbH3CnQNbztb",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "O0uewbc9915uqqlD",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "98pkTquG5m1vBxbt",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "BXp3Iqh8AykJCF9i",
+            "name": "Talon",
+            "items-description": ""
+        },
+        {
+            "id": "1Re8gJ0YTH6TxfLa",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Ab4r9QqPgjwOMjaW",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "zUZAQv67fQN1itGn",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "2SEpmpzrfI3iTOKV",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ykVZX3vwjXXl9WoS",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "lIutGZGuGlSN1uvq",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "x0tIw8t8mhFgH7ab",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "2J8nRu7ryhdxrn6Q",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "NUrrmWCh8zDwdKFw",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "rPjj6ZCE5pwwVZg1",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "OXfHyEExXIhlnUp7",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "3jVmH3McNsX8B0Od",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "X3x7z0KsDNoqFpey",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "hm7ls5Yo0n7QOWMl",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "2szfgkG5m4pZQ6z8",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "0uU20iNCnRv4spmg",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "1DfgmZUiWL8m4tiP",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "C6IiDSyc4X1neQwS",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "WTUxYAzq1Nr3FFwN",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "5ASzxj6oyeWu6gWM",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pL08UYEZoKBSYUzv",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "8F42ZUECGwbl9nmU",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VL2af2GD7VsPiI1u",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "keXbMIiyh6Q6tjbr",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "XJ7A5MPGGNFZpxXP",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "9G77nycfkHc93HGi",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "9bMQUXIt8V0ivYCg",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4jUkeNIE92J0asLl",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "6Yl0sNRGgIqfvRj8",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tcE3BBuNT8JtsDJQ",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "FjdhY5Rvi0x7AdX0",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "IWIgUhii4TYY31l7",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "HaXqTHQH97u8nuJK",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "jVnAGrnHMY0ZZTAt",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "U4uu4gkB12yKgjWl",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "s4Ce80I5ui9yCmbG",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "RFGL24YZ4ufhBCRM",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "32RMKlAce7FfxW8e",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "odZw9mK4mxnlp6qz",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "dNZMLg4zcPVX3fSU",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "iKVdFpbg8QyKzl0S",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Eo3e73BdyU4oMYEq",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "wOW7iWJBYxXBP4Dm",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lPV8I6T6I09MjTy3",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ElDo5C9tGNaFEyUo",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "xxEXe18G17Aqb8EC",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "V5YgaBwWcZPdAj1X",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2ABnFaydFGtobnZC",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "GPSk2dGRxJdcBtW7",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "rwYZxmONVe2JmBPn",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "3IKSOIIWyaxP7Xbh",
+            "name": "Stealth",
+            "items-description": "",
+            "items-0.label": "+17 dans le sable"
+        },
+        {
+            "id": "yKOp4n7Sk96x65EX",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "dYHg3Ty9ZIAGqZaE",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "orQ7bvmsL70g6qk9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "wOmBOkeQmHwUzF7p",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "aRTvrHip6K9YL4qq",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "AfkzOHwQLaNCyPZt",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "rCDEvA0MWLJZe3ba",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "rp6F9XDfGE9qOef0",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "YyBAAbT6VQ7kpDW4",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "DuUso0h1BlAS0Ch3",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "CUcADH9CrR1t2kkL",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "wtvDPCazUVSsqJ2O",
+            "name": "Negative Healing",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "0xGnS3VP3WvvpnSI",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "AjxbFK9De8rRPATh",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "6UhOo5jcpQz76GcZ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "d5CWT1AwKpYtsajX",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pheseepJ6Q1YF17G",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "S3MoMWkoEovX2zha",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "sIL9AEoQV1qcrskK",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "2yuX2a5ufNBYmWHK",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "ZZAHwe62kuHct1sT",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "X5uycRcoYkauIGYQ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ZJGndV534YfOPIyl",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "27ggnHd24eNbhg9e",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "OR27Y1Vkv8bMFjHO",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "PGeuRIZhMLp88mYc",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "iT766eWfAydCiJYK",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "jzVssayBq4mzMU9u",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Bo7Y34vNrq537uhA",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "V0hJjrywdDfeOIZf",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "NOvlBahz080PaM4R",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "T0KOWsF7QwJ1oDQq",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "J2LUtQlsnbpMEQ1r",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "BkmdLBAIea36UOWC",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "JzdZZiLkLG0WmOid",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "l3FDPjYAvQMi4tfJ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "uXmhD5XQjEMFuZSJ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mXh2p5FT7dkLC4KJ",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "yxVTa3OmhUhlgNqp",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "C6LpIB1Gy5mjBk2G",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "LRAuzrNMjhe4ZYR9",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "otBr1P6MKia09fCt",
+            "name": "Catch Rock",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "bYuZrlYxVWLd0lD3",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "gYXpVKd4NC2QDwe3",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "OlnWMyIX3qedGUTu",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "h1bIOksYIZLff4Jb",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "8qlQbmcwGPfRmLYu",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "jTPTmoj95k6FZSf8",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mHMefxDyPXjW4mKt",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "i1qGIf7bGKRu3RUq",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "dG6wdlMkywKsurgA",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "vIzThDo5KtpM1fnu",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "Eqk7JKBf2mGkZbCf",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "NHDhjNbpULppyjkP",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "C7C9dLMFwNtAccbA",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "nxagDqd1qxC8w8dl",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "lbG9FKqt6rVqqKrM",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "4Ok3T9qk3DEMSviw",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "drwHha4i2p4cqBa7",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "SQM0OqkayL2Oywmm",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "FBiCgn8XESVcHSPx",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "adAFWbGgq7jnZcih",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "BOGJAY8I1abQRm7S",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "XErVBE2Mmnzz099t",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "j45FbeObppNsRIhN",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "XjvtH7IilCnzJpIN",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "XSrKkFryn35jFMnz",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "E9FVtTu2qyp5HgnY",
+            "name": "Scent (Imprecise) 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "ysSzKfSqDhv0OTY7",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "AmgNn4ZAhXxVpdtv",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "eTAHPb22Vfb1ZIIA",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "ggo5fsSPiaSiT5ot",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "mqqrT74LZMyFyuic",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "2FR8eBARbXfskcJR",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "5YDssRfPpgId4gTE",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "gH06P6rp2bswuGya",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "3z9Sgd2sbQUaFIUK",
+            "name": "Dagger",
+            "items-description": ""
+        },
+        {
+            "id": "uMPmwIYK4s395qvB",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "12e8csvZLJdg2OS8",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "Oz0PpydQ8KCagat3",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "F4z6xO5BYtoag9hK",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "Znvln0bJmtXz7d7o",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "98N9e0IqCp7WoRHr",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "OqJWwPCeEzKsYH8X",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "BbeKEw6uMpYbSxue",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "FcnwHTEpIdO7oCXf",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "KqYkMZZ4hM5T9rej",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "GoYV1mj4XKxDiBOM",
+            "name": "+1 Status to All Saves vs Magic",
+            "items-description": ""
+        },
+        {
+            "id": "jM9qG2FB1AcJMMiL",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jgUPBrXeWbjnI6f1",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "8UGnwgNXjFG8VCZU",
+            "name": "Hoof",
+            "items-description": ""
+        },
+        {
+            "id": "AasR87d76iiM7CAd",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "iWjW5DElqzkofyBS",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "m39B0WvlTUpZ3tLS",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7KzbzFV96YELFVZA",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VdCXQ44TAdADVOEd",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "AGZBKBnJMkp5NrlX",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "UScYAVgddobTyqOw",
+            "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "VOzKuytxsOHWyPEJ",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "BA1HIu1Y9Xs74B9s",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QTFJOKoZto5yRgDd",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "xPTfLI21EUbrSp4Z",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "zDdJpAQ7FmnjLelY",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "ERoYflv6bErPQNP2",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "l0EHPtcSyp31Bf57",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "HrUGB7et2xcTkWSB",
+            "name": "Mandibles",
+            "items-description": ""
+        },
+        {
+            "id": "967GKOeV0EqG2hzn",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "LTcf2lgijfe0Cv96",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "TlRvAbAXlF8M2LXl",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "kKubgrbJBPv5ke6D",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "gu96K11Wqu5OcYew",
+            "name": "Jaws",
+            "items-description": ""
+        },
+        {
+            "id": "jTkhIBakBrDpEBuu",
+            "name": "At-Will Spells",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "numgrwQUdlF3fy51",
+            "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "Ipe3znrfNfiAvRCl",
+            "name": "+1 Status to All Saves vs Magic",
+            "items-description": ""
+        },
+        {
+            "id": "D1QeVZDcMpO7hdmk",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "tjv4Luss5zUtzkrn",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "38rv8OhglPWCKDoM",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "ubHtu9kCddCNuEjt",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "cttVijuQGlQJk5Ux",
+            "name": "Grab",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "kCNQjJs87QDFBoGR",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "fm5cOYL11qhzHV3G",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "P8P9UmFHbSmMnTnd",
+            "name": "Low-Light Vision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "tKbplFnGrHjbOkKF",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2BHwzsnFNAsPoULp",
+            "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "RSXc4NTQGKjlqt3X",
+            "name": "Darkvision",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         }
     ],
     "mapping": {
@@ -1804,6 +5674,10 @@
         "saves": "data.attributes.allSaves.value",
         "senses": "data.traits.senses.value",
         "speeds": "data.attributes.speed.details",
-        "traits": "data.traits.traits.custom"
+        "traits": "data.traits.traits.custom",
+        "items-description": "data.description.value",
+        "items-0.label": "data.variants.0.label",
+        "items-1.label": "data.variants.1.label",
+        "items-2.label": "data.variants.2.label"
     }
 }
