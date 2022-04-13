@@ -165,6 +165,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
+            'extract': {
+                "0.label": "data.variants.0.label",
+                "1.label": "data.variants.1.label",
+                "2.label": "data.variants.2.label"
+            }
         }
     },
     "pathfinder-bestiary-3": {
@@ -191,6 +196,11 @@ SUPPORTED = {
                 'name': "name",
                 'desc': "data.description.value"
             },
+            'extract': {
+                "0.label": "data.variants.0.label",
+                "1.label": "data.variants.1.label",
+                "2.label": "data.variants.2.label"
+            }
         }
     },
     "hazards": {
