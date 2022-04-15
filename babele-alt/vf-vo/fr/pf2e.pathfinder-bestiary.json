@@ -3204,6 +3204,11 @@
             "senses": "vision dans le noir"
         },
         {
+            "id": "9tXYGUH9QFkHOzla",
+            "name": "Arc long composite (Composite Longbow)",
+            "items-description": ""
+        },
+        {
             "id": "xxGqls5RMZVYvmHf",
             "name": "Guérison accélérée 10 (Fast Healing 10)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
@@ -3217,6 +3222,11 @@
             "id": "hhL0DgwVWFclIPih",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "ODGzZo0VrXZyNziZ",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "Itw1pfAvHSiAptUZ",
@@ -3654,6 +3664,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "j3ILBYm7ssA8p2Nz",
+            "name": "Flammèche (Fire Mote)",
+            "items-description": ""
+        },
+        {
             "id": "1U37Lsr3NMgzLqLM",
             "name": "Mandibules (Mandibles)",
             "items-description": ""
@@ -3662,6 +3677,11 @@
             "id": "r5JyVLxepP2bpNAq",
             "name": "Frénésie draconique (Draconic Frenzy)",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de queue dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "FDVxe2jOvdrTKmQY",
+            "name": "Élan draconique (Draconic Momentum)",
+            "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
         },
         {
             "id": "BLleGAYzhc0cIyIz",
@@ -3712,6 +3732,11 @@
             "id": "DOr9FvQdsMfK9He0",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "FUIS7buU2stLWVpK",
+            "name": "Griffes (Claws)",
+            "items-description": ""
         },
         {
             "id": "7ODNVUAaNraSivsT",
@@ -3854,6 +3879,11 @@
             "items-description": ""
         },
         {
+            "id": "56yBsaqp9GmItJzk",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le dragon de bronze adulte souffle de deux manières différentes.</p>\n<p data-visibility=\"gm\">Le dragon ne peut utiliser Arme de souffle de nouveau pendant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Foudre</strong> Le dragon souffle un éclair qui inflige [[/r {8d12}[electricity]]]{8d12 dégâts d’électricité} sur une @Template[type:line|distance:80|traits:arcane,electricity,evocation,mental]{ligne de 24 m} (@Check[type:reflex|dc:33|basic:true]{jet de Réflexes} basique DD 33).</li>\n<li><strong>Gaz répulsif</strong> Le dragon souffle un gaz répulsif sur une @Template[type:line|distance:80|traits:arcane,abjuration,incapacitation,mental]{ligne de 24 m}. Chaque créature dans la zone d’effet doit réussir un jet de @Check[type:will|dc:33]{Volonté DD 33} ou @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fuir} le dragon pendant 1 round (ou 2 rounds en cas d’échec critique).</li>\n</ul>"
+        },
+        {
             "id": "X0BfkEsL9YNikfyR",
             "name": "Vague (Wave)",
             "items-description": ""
@@ -3984,14 +4014,29 @@
             "items-description": ""
         },
         {
+            "id": "PMBSc3Ypq9HMYeKR",
+            "name": "Maitrise de l'eau (Water Mastery)",
+            "items-description": "<p>Pendant un maximum de 30 minutes par jour, le dragon ainsi que les navires et créatures alliés dans un rayon de 15 m, peuvent se déplacer au double de leur Vitesse normale dans l’eau.</p>"
+        },
+        {
             "id": "myHidV8LBPQYfgGg",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "i3byEluD3eLH89OG",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "7ZnWKFvAT28mjh65",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "Fa3Nn9PdJzbO1Fwg",
+            "name": "Fléchette (Dart)",
+            "items-description": ""
         },
         {
             "id": "KLX51VJomJOpNAgE",
@@ -4047,6 +4092,11 @@
             "id": "PmnlcdA8wcJdRNmR",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "UsbbZtRGFg0fzukO",
+            "name": "Arc long composite (Composite Longbow)",
+            "items-description": ""
         },
         {
             "id": "Wvb6MKl733cfKJ64",
@@ -4134,6 +4184,11 @@
             "items-description": ""
         },
         {
+            "id": "Yo23Art466hO6dEO",
+            "name": "Bombe (Bomb)",
+            "items-description": ""
+        },
+        {
             "id": "VfbM5E2GxtRqzswt",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -4184,6 +4239,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "gZywv8nUOzTjloep",
+            "name": "Flammèche (Fire Mote)",
+            "items-description": ""
+        },
+        {
             "id": "MNeTs8gNujcsFNkv",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4199,6 +4259,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "fQ0vMmyTwWHXQy7V",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "DqJFXur9S0e0C54j",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4212,6 +4277,11 @@
             "id": "JIRrOHVjqWOmt2TV",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "lmmVhyJxHrIHi4Je",
+            "name": "Antenne (Antenna)",
+            "items-description": ""
         },
         {
             "id": "SWBrXQjy0PikJ1wd",
@@ -4241,6 +4311,16 @@
         {
             "id": "gUMIzpDGWwaygeXn",
             "name": "Queue (Tail)",
+            "items-description": ""
+        },
+        {
+            "id": "uFWe6jAjZ0J95ox9",
+            "name": "Hache de bataille (Battle Axe)",
+            "items-description": ""
+        },
+        {
+            "id": "T0L16oJLdZYthupK",
+            "name": "Cornes (Horns)",
             "items-description": ""
         },
         {
@@ -4274,6 +4354,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "7Iww6mLyrRcTXqWv",
+            "name": "Hallebarde (Halberd)",
+            "items-description": ""
+        },
+        {
             "id": "r3WeFaPkohKTnc3H",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -4282,6 +4367,11 @@
             "id": "D6yxsFtZFG5ysaek",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "IcOzxaLaimK6QUsg",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "0fQVIqLvgnfSP4JM",
@@ -4414,6 +4504,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "PB7yguG7pz4ib0ps",
+            "name": "Communication avec les requins 45 m (Shark Commune 150 feet)",
+            "items-description": "<p>Le diable des mers peut communiquer par télépathie avec les requins qui se trouvent à portée. Il peut seulement communiquer des concepts simples comme «viens», «garde» ou «attaque».</p>"
+        },
+        {
             "id": "JfUL91jTnBSObypg",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -4421,6 +4516,11 @@
         {
             "id": "b0CZ1TMWNNWhztYK",
             "name": "Poing (Fist)",
+            "items-description": ""
+        },
+        {
+            "id": "gJlDdyxfSGMpZN7a",
+            "name": "Défenses (Tusks)",
             "items-description": ""
         },
         {
@@ -4579,9 +4679,19 @@
             "items-description": ""
         },
         {
+            "id": "dF7ibA1On3Nvjxqk",
+            "name": "Retraite précipitée (Hurried Retreat)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Le guerrier kobold est adjacent à au moins un ennemi.</p>\n<p><strong>Effet</strong> le guerrier kobold Marche rapidement à un maximum de deux fois sa Vitesse plus 1,5 m et obtient un bonus de circonstances de +2 à la CA contre les réactions déclenchées par ce déplacement. Il doit mettre un terme à son déplacement dans une case qui n'est adjacente à aucun ennemi.</p>"
+        },
+        {
             "id": "b9p4QWRBH39ePPdV",
             "name": "Morgenstern (Morningstar)",
             "items-description": ""
+        },
+        {
+            "id": "QbCC0DUye0oVFVc4",
+            "name": "Élan draconique (Draconic Momentum)",
+            "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
         },
         {
             "id": "cyykndggOJBnOeK7",
@@ -4627,6 +4737,11 @@
             "id": "dzZj81bjKpvnxgLG",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "K8rZwgv45XvIe8vL",
+            "name": "Crochet ogre (Ogre Hook)",
+            "items-description": ""
         },
         {
             "id": "C77jgOGQyRA9OepX",
@@ -4799,6 +4914,21 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "fkSqSiW3qLpaq6hp",
+            "name": "Corps (Body)",
+            "items-description": ""
+        },
+        {
+            "id": "u0WWqexz5TB2gEqn",
+            "name": "Griffes (Claws)",
+            "items-description": ""
+        },
+        {
+            "id": "0JCakW3iPRouHFU2",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Moyenne, [[/r {1d8+1}[bludgeoning]{1d8+1 dégâts contondants} plus 1d6 dégâts d’acide, Rupture 5</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "ydL0czc2qFw4RnCW",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -4812,6 +4942,11 @@
             "id": "ui6XZl3S0T45fJFu",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "0bcvSP6hBMQd3ATb",
+            "name": "Vision malgré la neige (Snow Vision)",
+            "items-description": "<p>La neige ne gêne pas la vision d'un dragon blanc. Il ignore l'état masqué dû à une chute de neige.</p>"
         },
         {
             "id": "21Edo8B2yXlM0Sd7",
@@ -4849,6 +4984,11 @@
             "items-description": ""
         },
         {
+            "id": "i0HAcFnNZ6dlKhwT",
+            "name": "Serpe (Sickle)",
+            "items-description": ""
+        },
+        {
             "id": "ubptAi7h2I8spy2V",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4877,6 +5017,11 @@
             "id": "Sjf1HpLuxn9U6lr2",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "FFjYHtFi991MRIlJ",
+            "name": "Flammèche (Fire Mote)",
+            "items-description": ""
         },
         {
             "id": "DxJcguaM5VY5ipoX",
@@ -4967,6 +5112,11 @@
             "id": "MVOUIn7qGVbFyHG8",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "0rf640gBxRc7gfuM",
+            "name": "Contre-courant spatial (Spatial Riptide)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} </p>\n<hr />\n<p>Une créature utilisant un pouvoir de téléportation au sein de cette aura ou y pénétrant par téléportation doit réussir un jet de @Check[type:fortitude|dc:38]{Vigueur} DD 38 ou être isolée de la réalité pendant [[/br 1d4 #rounds]]{1d4 rounds} avant d’achever sa téléportation. La créature ne peut agir, percevoir quoi que ce soit ou être prise pour cible. Si elle réussit son jet de sauvegarde, la créature se téléporte normalement mais elle est @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{étourdie 1}. Les ké’ktars sont immunisés contre cet effet.</p>"
         },
         {
             "id": "hfNcV2xUlTHlcRk0",
@@ -5209,6 +5359,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
         },
         {
+            "id": "J1HcaTe5BjGFYDgL",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "0Hf2BPIsl4GkboQ4",
             "name": "Dague (Dagger)",
             "items-description": ""
@@ -5227,6 +5382,11 @@
             "id": "iUAQwRninJ973LoN",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "gC0TpsGsMQ5RDDau",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Très grande, [[/r {2d8+5}[bludgeoning]{2d8+5 dégâts contondants}, Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "yhjUEa7dDonD0fSh",
@@ -5319,6 +5479,11 @@
             "items-description": ""
         },
         {
+            "id": "5dshGJm0RD445JZG",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "nQAtVtNKfvmpm1T4",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -5369,6 +5534,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "umShxoDTXECH3WCs",
+            "name": "Vision malgré la neige (Snow Vision)",
+            "items-description": "<p>La neige ne gêne pas la vision d'un dragon blanc. Il ignore l'état masqué dû à une chute de neige.</p>"
+        },
+        {
             "id": "jYjpln4mc6udm6oF",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -5404,6 +5574,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "03GLgyeAGjU6XdPt",
+            "name": "Empathie avec la nature (Nature Empathy)",
+            "items-description": "<p>La dryade peut utiliser Diplomatie pour @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} et pour les @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Solliciter} les animaux et les plantes pour accomplir des choses très simples.</p>"
+        },
+        {
             "id": "80wSAXH5wAj5t4fT",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -5437,6 +5612,11 @@
             "id": "ZRU4JYMsdXENmG5Q",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "ltvMN7K0itu2l3WZ",
+            "name": "Crocs de serpent (Snake Fangs)",
+            "items-description": ""
         },
         {
             "id": "Zc2k22zs45gbuybT",
@@ -5499,6 +5679,11 @@
             "items-description": ""
         },
         {
+            "id": "e5zu7QFkUzeeeoVM",
+            "name": "Vision dans la fumée (Smoke Vision)",
+            "items-description": "<p>Le wyrm de feu ignore l'état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} liée à la fumée.</p>"
+        },
+        {
             "id": "6HJGU4tyzZ6JeEbD",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -5512,6 +5697,11 @@
             "id": "9EIwBDwTdZ56ngZa",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "0OOTRB9nI9G0zd8v",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le méphite de la terre souffle des rochers dans un @Template[type:cone|distance:15]{cône de 4,5 m} infligeant [[/r {2d6}[bludgeoning]]]{2d6 dégâts contondants} aux créatures dans la zone d’effet (@Check[type:reflex|dc:17|basic:true]{jet de Réflexes basique} DD 17).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
         },
         {
             "id": "lieMSuY1PxRJK0CX",
@@ -5729,6 +5919,11 @@
             "items-description": ""
         },
         {
+            "id": "2vkb6KDhuhqgqrlz",
+            "name": "Marteau de guerre (Warhammer)",
+            "items-description": ""
+        },
+        {
             "id": "VYK3ix2hBaIvUNXp",
             "name": "Poing (Fist)",
             "items-description": ""
@@ -5799,9 +5994,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "0KLll6op6LwSp19s",
+            "name": "Régénération de l'hydre (Hydra Regeneration)",
+            "items-description": "<p>L’hydre a une  @Compendium[pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]{régénération} égale à 3 x son nombre de têtes. S’il lui manque des têtes et que des moignons n’ont pas été cautérisés, l’hydre tente un jet de @Check[type:fortitude|dc:25]{Vigueur} DD 25 après avoir récupéré des points de vie grâce à sa régénération. Si elle réussit, deux têtes repoussent à partir d’un moignon non cautérisé. En cas de succès critique, deux têtes repoussent à partir de deux moignons non cautérisés. L’hydre ne peut jamais faire repousser plus du double de son nombre de têtes d’origine. La régénération de l’hydre ne se désactive complètement que si toutes ses têtes sont tranchées et tous ses moignons cautérisés ; dans ce cas, elle meurt.</p>"
+        },
+        {
             "id": "ExqWcZmrd3RhXgLt",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "GIxGQeMwhYMa5aqt",
+            "name": "Fronde (Sling)",
+            "items-description": ""
         },
         {
             "id": "2h0yKU2nKX609M3Q",
@@ -5949,6 +6154,16 @@
             "items-description": ""
         },
         {
+            "id": "gCMdnmRVTS96OQxR",
+            "name": "Toile (Web)",
+            "items-description": ""
+        },
+        {
+            "id": "mHS7Uj0GKGKhQiNo",
+            "name": "Coupecou orc (Orc Necksplitter)",
+            "items-description": ""
+        },
+        {
             "id": "VPh2h7TJhQU8ugDu",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -6011,6 +6226,11 @@
         {
             "id": "0XydXCehPsY2yGto",
             "name": "Poils (Bristles)",
+            "items-description": ""
+        },
+        {
+            "id": "2V6mUk75bI02ShGa",
+            "name": "Rapière en argent (Silver Rapier)",
             "items-description": ""
         },
         {
@@ -6194,6 +6414,11 @@
             "items-description": ""
         },
         {
+            "id": "4s0p8fCnssqfycUf",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Grande, [[/r {1d10+7}[bludgeoning]{1d10+7 dégâts contondants}, Rupture 21</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "BnuggroyV0iJLdlp",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -6206,6 +6431,11 @@
         {
             "id": "2wdfh7JIT7SjhXIz",
             "name": "Griffe (Claw)",
+            "items-description": ""
+        },
+        {
+            "id": "vt7bc5rxJY8WxTy0",
+            "name": "Crachat acide (Acid Spit)",
             "items-description": ""
         },
         {
@@ -6369,6 +6599,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "ioskOBeviPp2ll8D",
+            "name": "Toile (Web)",
+            "items-description": ""
+        },
+        {
             "id": "Ux1Z45Ai509H8jm7",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6402,6 +6637,11 @@
             "id": "BJ9pqonMdpZOYbY7",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "09tr8RqXPJwNExtR",
+            "name": "Aria assourdissante (Deafening Aria)",
+            "items-description": "<p> Sur un coup critique avec hymne perçant, la cible est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 minute.</p>"
         },
         {
             "id": "Z0xjQ4vMpyymQS0z",
@@ -6476,6 +6716,11 @@
         {
             "id": "Lt1Gndh1LAlY6Q2u",
             "name": "Grande hache (Greataxe)",
+            "items-description": ""
+        },
+        {
+            "id": "8jF0NZz94zAMhCHA",
+            "name": "Spores (Spores)",
             "items-description": ""
         },
         {
@@ -6599,9 +6844,24 @@
             "items-description": ""
         },
         {
+            "id": "Jf6SQTejkZnEWA2T",
+            "name": "Bô (Bo Staff)",
+            "items-description": ""
+        },
+        {
             "id": "freYXZtmDhD5zIrA",
             "name": "Javelot (Javelin)",
             "items-description": ""
+        },
+        {
+            "id": "ZgpdfTBdMYYRwcfP",
+            "name": "Toile (Web)",
+            "items-description": ""
+        },
+        {
+            "id": "7XIYM7XKRyeIRUn6",
+            "name": "Vision malgré la neige (Snow Vision)",
+            "items-description": "<p>La neige ne gêne pas la vision d'un drake du froid. Il ignore l'état masqué dû à une chute de neige.</p>"
         },
         {
             "id": "Jxa5SzH4ybrGFB9q",
@@ -6619,6 +6879,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
         },
         {
+            "id": "fZx0EfFDzx8aK7tG",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "hXmPoWQ69iXdq42A",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -6632,6 +6897,11 @@
             "id": "m6E1gSnAhXp72yBC",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "zOzr7HCfJlCH6I7z",
+            "name": "Élan draconique (Draconic Momentum)",
+            "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
         },
         {
             "id": "7Tl0EsClc5Q8xh8G",
@@ -6744,6 +7014,11 @@
             "items-description": ""
         },
         {
+            "id": "mjClQEAEbQfY2Zfr",
+            "name": "Griffe d'adamantium (Adamantine Claw)",
+            "items-description": ""
+        },
+        {
             "id": "lPUoJQI3bTRTV4ct",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -6769,6 +7044,11 @@
             "items-description": ""
         },
         {
+            "id": "ZlxZ2pDpBDTkPZ6M",
+            "name": "Fronde (Sling)",
+            "items-description": ""
+        },
+        {
             "id": "cTy576jgZ9YTvVnf",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -6782,6 +7062,11 @@
             "id": "wb9jgdwbjkdgmDPc",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "0naynsYzlUHn8xiZ",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le méphite de l’eau souffle de l’acide dans un @Template[type:cone|distance:15]{cône de 4,5 m} infligeant [[/r {2d6}[acid]]]{2d6 dégâts d’acide} aux créatures dans la zone d’effet (@Check[type:reflex|dc:17|basic:true]{jet de Réflexes basique} DD 17).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
         },
         {
             "id": "kTCYz9Dnx9Zw1RHa",
@@ -6884,6 +7169,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "jhCCqt7r2yw8bad1",
+            "name": "Feuilles (Leaves)",
+            "items-description": ""
+        },
+        {
+            "id": "xxUW9YkqVCI57nCo",
+            "name": "Poing aqueux (Aqueous Fist)",
+            "items-description": ""
+        },
+        {
             "id": "PrsRCxi6j7SHJeMu",
             "name": "Bonus de statut de +1 jds contre magie (+1 Status to All Saves vs Magic)",
             "items-description": ""
@@ -6892,6 +7187,11 @@
             "id": "8wYxLklNMjT1ZPCT",
             "name": "Télépathie 30 m (Telepathy 100 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "qyAQlXz42QsRrsCo",
+            "name": "Cimeterre enflammé (Flaming Scimitar)",
+            "items-description": ""
         },
         {
             "id": "4SeHhCM0ulS4TIjL",
@@ -6974,6 +7274,11 @@
             "items-description": ""
         },
         {
+            "id": "pSJ8UuUcEbstSlWE",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le dragon de bronze vénérable souffle de deux manières différentes.</p>\n<p data-visibility=\"gm\">Le dragon ne peut utiliser Arme de souffle de nouveau pendant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Foudre</strong> Le dragon souffle un éclair qui inflige [[/r {12d12}[electricity]]]{12d12 dégâts d’électricité} sur une @Template[type:line|distance:100|traits:arcane,electricity,evocation,mental]{ligne de 30 m} (@Check[type:reflex|dc:40|basic:true]{jet de Réflexes} basique DD 40).</li>\n<li><strong>Gaz répulsif</strong> Le dragon souffle un gaz répulsif sur une @Template[type:line|distance:100|traits:arcane,abjuration,incapacitation,mental]{ligne de 30 m}. Chaque créature dans la zone d’effet doit réussir un jet de @Check[type:will|dc:28]{Volonté DD 40} ou @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fuir} le dragon pendant 1 round (ou 2 rounds en cas d’échec critique).</li>\n</ul>"
+        },
+        {
             "id": "VyTDZWtEYeQGBrXk",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -7031,6 +7336,11 @@
         {
             "id": "6VrL0WH1rLsYXFpD",
             "name": "Griffe (Claw)",
+            "items-description": ""
+        },
+        {
+            "id": "x7U8W2mn02rKkpEU",
+            "name": "Faux (Scythe)",
             "items-description": ""
         },
         {
@@ -7324,6 +7634,11 @@
             "items-description": ""
         },
         {
+            "id": "p4gHmixTKN3Gb87J",
+            "name": "Mâchoires de dragon (Dragon Jaws)",
+            "items-description": ""
+        },
+        {
             "id": "Ko6ZjYsY5A063K9J",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -7359,6 +7674,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
         },
         {
+            "id": "HQrZGDENHs9wuZxK",
+            "name": "Fronde (Sling)",
+            "items-description": ""
+        },
+        {
             "id": "tV18raweChPRFzPo",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -7377,6 +7697,11 @@
             "id": "EEVvFBuUd4ji3NX1",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "MsksF4NK5nEBIyq6",
+            "name": "Queue (Tail)",
+            "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d8.success]</p>"
         },
         {
             "id": "U7gmP0tQ6eQor3xT",
@@ -7439,6 +7764,11 @@
             "items-description": ""
         },
         {
+            "id": "8CNN6le6tEVrWmR5",
+            "name": "Faux (Scythe)",
+            "items-description": ""
+        },
+        {
             "id": "T4pc6k7hdxLa8syv",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -7472,6 +7802,11 @@
             "id": "YdUFMjejXRVik0Ql",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "zzGNgcKnTWZFH3Jk",
+            "name": "Marteau de guerre (Warhammer)",
+            "items-description": ""
         },
         {
             "id": "fb8hCFDmwVrYAiRL",
@@ -7654,6 +7989,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "7pkevpR7Am9eNCD5",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Petite, [[/r {1d6+6}[bludgeoning]{1d6+6 dégâts contondants}, Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "kNOnudI7TvbeSrjS",
             "name": "Poing (Fist)",
             "items-description": ""
@@ -7677,6 +8017,16 @@
             "id": "a3oRCd6Fs4j19XDe",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "qqpgMalbjoAykhjP",
+            "name": "Faux acérée (Keen Scythe)",
+            "items-description": ""
+        },
+        {
+            "id": "kN3GBlB8fFVIQvRu",
+            "name": "Cimeterre à deux mains (Falchion)",
+            "items-description": ""
         },
         {
             "id": "YW6KUycT9oCKgOAo",
@@ -7714,6 +8064,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "Xg50UZe4CSts7Kvw",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "rQa09Nb9LtSI9UYi",
             "name": "Perception des vibrations (imprécis) 18 m (Tremorsense (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -7721,6 +8076,11 @@
         {
             "id": "OcYo8NrM7fSjcymh",
             "name": "Griffe (Claw)",
+            "items-description": ""
+        },
+        {
+            "id": "TVLAYoQrAgNovOAr",
+            "name": "débris (Debris)",
             "items-description": ""
         },
         {
@@ -7732,6 +8092,11 @@
             "id": "cL9t5xg0FTPCRpjR",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "0lFm2C1Slc60GuoD",
+            "name": "Changement de forme (Change Shape)",
+            "items-description": "<p>Le rakshasa raja peut prendre la forme de n’importe quel humanoïde de taille Moyenne. Ce changement de forme n’a pas d’impact sur la Vitesse du rakshasa raja, sur son attaque et les modificateurs de dégâts de ses Frappes, mais peut modifier le type de dégâts que ses Frappes infligent (généralement en dégâts contondants). Il perd généralement sa Frappe de crocs, sauf si la forme humanoïde qu’il a choisie possède des crocs ou une attaque à mains nues comparable.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
             "id": "7KT3KfzD3HVUhRjt",
@@ -7824,6 +8189,11 @@
             "items-description": ""
         },
         {
+            "id": "qjYI8SCJrXWZopn6",
+            "name": "Crochet ogre (Ogre Hook)",
+            "items-description": ""
+        },
+        {
             "id": "00veaqCowh9RkTrj",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -7852,6 +8222,11 @@
             "id": "Eng6Mv69WWeKb4Wq",
             "name": "Bonus de statut de +1 jds contre magie (+1 Status to All Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "T2hVNG1lQgAAAy70",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Très grande, [[/r {3d8+10}[bludgeoning]{3d8+10 dégâts contondants}, Rupture 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "m5FtOPWhFYV34o9q",
@@ -8059,6 +8434,11 @@
             "items-description": ""
         },
         {
+            "id": "FEiMSx6vAjQ1oKaY",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Grande, [[/r {2d8+3}[bludgeoning]{2d8+3 dégâts contondants} plus 2d6 dégâts d’acide, Rupture 17</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "B4uQ3uTmODEiTxnM",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -8184,6 +8564,11 @@
             "items-description": ""
         },
         {
+            "id": "IXWkQwpWIcMopGvV",
+            "name": "Bras (Arm)",
+            "items-description": ""
+        },
+        {
             "id": "2arq3zK9f6JQ5ZcN",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8227,6 +8612,11 @@
             "id": "zUyuIoJBzk4LNvK2",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "svdaEp5rN3vr0zjk",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "uT4KswZKvsTixIVs",
@@ -8307,6 +8697,11 @@
             "id": "cnueIB7ag8UbEdIb",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "mnmPiXMTDMbeqRnI",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "83QmDBGigZxaHbbd",
@@ -8399,6 +8794,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
         },
         {
+            "id": "0QWVJ7Of8cQNKp0N",
+            "name": "Se glisser dans les ombres (Slink in Shadows)",
+            "items-description": "<p>L'ombre peut @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} ou terminer son action pour @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif} dans l'ombre d'une créature ou d'un objet.</p>"
+        },
+        {
             "id": "EmEYyJxT9UcKh4lK",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -8407,6 +8807,11 @@
             "id": "pyD5mpeBbbBmJcvA",
             "name": "Élan draconique (Draconic Momentum)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "nbClUIeaboa77zlN",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Moyenne, [[/r {3d6+8}[bludgeoning]{3d6+8 dégâts contondants}, Rupture 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "YZxhBg9R5m8ydWm1",
@@ -8437,6 +8842,11 @@
             "id": "bZL57I2PUMygGVWO",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "RDAI0FQdtpHFrFa5",
+            "name": "Chaleur intense (Intense Heat)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 m}</p>\n<hr />\n<p>[[/r {4d6}[fire]]]{4d6 dégât de feu} @Check[type:reflex|dc:25|basic:true]{Réflexes basique DD 25}</p>"
         },
         {
             "id": "zb5Fwjfb2emTLKdL",
@@ -8519,6 +8929,11 @@
             "items-description": ""
         },
         {
+            "id": "oXZ9gBxLTC4PuQec",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "LRxNywKFwiFUofE7",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8594,6 +9009,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "rTDme0840mDZkokU",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Très grande, [[/r {3d6+9}[bludgeoning]{3d6+9 dégâts contondants}, Rupture 24</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "UpXcSbQhJBN069fE",
             "name": "Corne (Horn)",
             "items-description": ""
@@ -8607,6 +9027,11 @@
             "id": "bgmY8mouK9Yal1iO",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "0HSgD6W8PvrZ62ts",
+            "name": "Communication avec les requins 45 m (Shark Commune 150 feet)",
+            "items-description": "<p>Le diable des mers peut communiquer par télépathie avec les requins qui se trouvent à portée. Il peut seulement communiquer des concepts simples comme «viens», «garde» ou «attaque».</p>"
         },
         {
             "id": "FrOech6HlG52AZBy",
@@ -8652,6 +9077,11 @@
             "id": "z07apLapCrVoCKOc",
             "name": "Dague (Dagger)",
             "items-description": ""
+        },
+        {
+            "id": "lYUnEWGhnlYFvH6B",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Gigantesque, [[/r {20d6+9}[acid]{20d6+9 dégâts d’acide}, Rupture 37</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "S6DALcZPm4YWrvWR",
@@ -8919,6 +9349,11 @@
             "items-description": ""
         },
         {
+            "id": "0qvSsLdTulsncbsi",
+            "name": "Retraite précipitée (Hurried Retreat)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> L'éclaireur kobold est adjacent à au moins un ennemi.</p>\n<p><strong>Effet</strong> l'éclaireur kobold Marche rapidement à un maximum de deux fois sa Vitesse plus 1,5 m et obtient un bonus de circonstances de +2 à la CA contre les réactions déclenchées par ce déplacement. Il doit mettre un terme à son déplacement dans une case qui n'est adjacente à aucun ennemi.</p>"
+        },
+        {
             "id": "CQRb2PNLd84eBkAH",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -8967,6 +9402,11 @@
             "id": "2J5aw0w2MvuE4ISK",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "u59sSnB7GuFn9ofv",
+            "name": "Communication avec les requins 45 m (Shark Commune 150 feet)",
+            "items-description": "<p>Le diable des mers peut communiquer par télépathie avec les requins qui se trouvent à portée. Il peut seulement communiquer des concepts simples comme «viens», «garde» ou «attaque».</p>"
         },
         {
             "id": "zm5hc0YuNjjknTeP",
@@ -9074,6 +9514,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "6gzE3WOZs1801eyS",
+            "name": "Crachat acide (Acid Spit)",
+            "items-description": ""
+        },
+        {
             "id": "2nd3Ete1Wir3K3bj",
             "name": "Vague (Wave)",
             "items-description": ""
@@ -9129,6 +9574,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "ir8tXGoz964QTWmv",
+            "name": "Toile (Web)",
+            "items-description": ""
+        },
+        {
             "id": "PrtfnlNRqEPNsEDh",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9174,6 +9624,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "wgMagyELbs4gcxl2",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "SjtL4vaiiGNkeXDm",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -9214,6 +9669,11 @@
             "items-description": ""
         },
         {
+            "id": "9MKpsapkMcaRXfuH",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "XbEOrTGzNN49cBsV",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -9242,6 +9702,11 @@
             "id": "7HZont6X72rI49Ax",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "yOxa8PKiBE6PbRBA",
+            "name": "Corps (Body)",
+            "items-description": ""
         },
         {
             "id": "EISoRK24Azg22k0m",
@@ -9304,6 +9769,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "OQICdYHqGHNlnuut",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Petite, [[/r {2d4+4}[bludgeoning]{2d4+4 dégâts contondants}, Rupture 14</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "pChhLSd048EpUiL0",
             "name": "Crocs (Fangs)",
             "items-description": ""
@@ -9346,6 +9816,11 @@
         {
             "id": "ESyhQLjcnQvrHNwr",
             "name": "Queue (Tail)",
+            "items-description": ""
+        },
+        {
+            "id": "oiDsSoQk3eAUnpKj",
+            "name": "Corps (Body)",
             "items-description": ""
         },
         {
@@ -9481,6 +9956,16 @@
         {
             "id": "y8SLwokMHGSHm0S9",
             "name": "Mâchoires (Jaws)",
+            "items-description": ""
+        },
+        {
+            "id": "qniHJ3WvDHkUKTJ3",
+            "name": "Arc long composite (Composite Longbow)",
+            "items-description": ""
+        },
+        {
+            "id": "UakPnn8jYjY9gCdo",
+            "name": "Corde (Rope)",
             "items-description": ""
         },
         {
@@ -9724,6 +10209,11 @@
             "items-description": ""
         },
         {
+            "id": "thy0OpcI6dFq3W3j",
+            "name": "Attaque d'opportunité (Attack of Opportunity)",
+            "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "mZDSdkhKHanRDmIg",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -9746,6 +10236,11 @@
         {
             "id": "vGCCZICFjOj2u4Dh",
             "name": "Aile (Wing)",
+            "items-description": ""
+        },
+        {
+            "id": "jzku4qcmz6H3dk9C",
+            "name": "Torche (Torch)",
             "items-description": ""
         },
         {
@@ -9782,6 +10277,11 @@
             "id": "cTKVS3tS8RBLruwP",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "YuzoCdKpCzawAPTJ",
+            "name": "Piquant (Spike)",
+            "items-description": ""
         },
         {
             "id": "hdxkFShEWbTlfmhb",
@@ -9829,6 +10329,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "EnBK4J1yRnqIdTCA",
+            "name": "Hache de bataille (Battle Axe)",
+            "items-description": ""
+        },
+        {
             "id": "BJiQlSKAx6WhMT1p",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -9864,6 +10369,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "00dvi5eqFTozS4ym",
+            "name": "Vortex (Vortex)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:40]{12 m}</p>\n<hr />\n<p>L’eau située dans l’aura et qui est dans la même étendue liquide que le maride est considérée comme un terrain difficile pour les créatures qui Nagent. Les créatures avec le trait eau sont immunisées.</p."
+        },
+        {
             "id": "DM0bCE11AyauvvEH",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -9872,6 +10382,11 @@
             "id": "crbSG0me6XVQjR9f",
             "name": "Bourrasque (Gust)",
             "items-description": ""
+        },
+        {
+            "id": "0qVGuAvlfZ7EplZ5",
+            "name": "Imprégnation d'armes (Infuse Weapon)",
+            "items-description": "<p>Entre les mains d’une Faucheuse, n’importe quelle faux gagne le trait agile, ne peut être désarmée et devient une <em>faux de frappe majeure acérée +3</em> tant que la faucheuse la manie. Si la Faucheuse Frappe une créature ayant une faiblesse contre un certain type de dégâts, les dégâts de la faux sont considérés comme étant de ce type en plus d’être tranchants.</p>"
         },
         {
             "id": "1qswe7SVM8T7WkWr",
@@ -9957,6 +10472,16 @@
             "id": "MBIM9DzCh32Rrta8",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7swXlOjSl2oHLuDv",
+            "name": "Coupecheval (Horsechopper)",
+            "items-description": ""
+        },
+        {
+            "id": "5Qq44Y2MrPleByoB",
+            "name": "Arc long composite (Composite Longbow)",
+            "items-description": ""
         },
         {
             "id": "hr7MMe0oUKYOwUNV",
@@ -10049,6 +10574,11 @@
             "items-description": ""
         },
         {
+            "id": "5k5qe7LZeapjusIM",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le wyrm de feu souffle un @Template[type:cone|distance:30]{cône de 9 m} de feu infligeant [[/r {7d6}[fire]]]{7d6 dégâts de feu} et [[/r {2d8}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants} à chaque créature au sein du cône (@Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28).</p>\n<p data-visibility=\"gm\">Le wyrm de feu ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "wR8rvUNTkSFlNhUv",
             "name": "Poing (Fist)",
             "items-description": ""
@@ -10067,6 +10597,11 @@
             "id": "eDMgpSPjK69nCKMZ",
             "name": "Aile (Wing)",
             "items-description": ""
+        },
+        {
+            "id": "ex0dTLedYlwxNB3T",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Grande, [[/r {2d8+5}[bludgeoning]{2d8+5 dégâts contondants} plus 2d6 dégâts de feu, Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "z42GiliLLdEVPTiX",
@@ -10092,6 +10627,11 @@
             "id": "LdDQZazfe2aGupQ2",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "jKUKY0ByHy5vvU8u",
+            "name": "Arc long (Longbow)",
+            "items-description": ""
         },
         {
             "id": "DOWxg5PQXXUG8Ddy",
@@ -10179,6 +10719,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "7LQPJRBvruncsAz1",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
+            "id": "8B4xwRLas4rp2NnR",
+            "name": "Cimeterre à deux mains (Falchion)",
+            "items-description": ""
+        },
+        {
             "id": "IzdeO18d4uSX3LyW",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10222,6 +10772,11 @@
             "id": "8cpYftgTlNcCeNyN",
             "name": "Queue (Tail)",
             "items-description": ""
+        },
+        {
+            "id": "Saaz9FC4uuWqbzUs",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Grande, [[/r {2d8+7}[bludgeoning]{2d8+7 dégâts contondants}, Rupture 18</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "RrUfNcdLaL1BhWLR",
@@ -10334,6 +10889,11 @@
             "items-description": ""
         },
         {
+            "id": "vwWsYBBoZjtVHTuT",
+            "name": "Vision malgré la neige (Snow Vision)",
+            "items-description": "<p>La neige ne gêne pas la vision d'un dragon blanc. Il ignore l'état masqué dû à une chute de neige.</p>"
+        },
+        {
             "id": "hYuh2ahMpMeOTyoZ",
             "name": "Aile (Wing)",
             "items-description": ""
@@ -10379,6 +10939,11 @@
             "items-description": ""
         },
         {
+            "id": "2vwlAmF93myITMjw",
+            "name": "Fronde (Sling)",
+            "items-description": ""
+        },
+        {
             "id": "y0ncwssgPJfLWMgt",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -10407,6 +10972,11 @@
             "id": "MwNIK1P57HlN0q90",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "5HpQse2MIBQbs10B",
+            "name": "Toile (Web)",
+            "items-description": ""
         },
         {
             "id": "orlHVFqe7EEW7ruO",
@@ -10529,6 +11099,11 @@
             "items-description": ""
         },
         {
+            "id": "gxJrJPqtpVlM0Xe6",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Petite, [[/r {1d6+2}[bludgeoning]{1d6+2 dégâts contondants}, Rupture 9</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "qFvtSo4GpY09J6wr",
             "name": "Dague (Dagger)",
             "items-description": ""
@@ -10597,6 +11172,11 @@
             "id": "j7PKag1rt4Uml8gg",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "jAZY8WC1BtImPyEF",
+            "name": "Gantelet (Gauntlet)",
+            "items-description": ""
         },
         {
             "id": "cprgu1LyMWRqzI0w",
@@ -10669,6 +11249,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4uy8ctqHkWgUS4KY",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le linnorm des glaces souffle un jet de mucus glacial dans un @Template[type:cone|distance:60]{cône de 18 m} infligeant [[/r {15d6}[cold]]]{15d6 dégâts de froid} aux créatures dans la zone d’effet (@Check[type:reflex|dc:38|basic:true]{jet de Réflexes basique} DD 38). Ce mucus colle sur tout ce qu’il touche et se solidifie en une épaisse couche de glace. Si une créature rate son jet de sauvegarde, elle est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{immobilisée} jusqu’à ce qu’elle réussisse un test pour @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{S’échapper} ou qu’un allié @Compendium[pf2e.actionspf2e.SjmKHgI7a5Z9JzBx]{Ouvre de force} la gangue de glace (DD 34 dans les deux cas). Au début de son tour, une créature encore immobilisée par la glace subit [[/r {4d6}[cold]]]{4d6 dégâts de froid}. Une autre créature peut libérer la cible gelée en lui infligeant un total de 20 dégâts de feu. Si rien n’interfère avec la glace, elle s’effrite au bout d’une minute. Une créature dotée du trait feu ne peut pas être gelée sur place à cause du souffle. Si une créature est gelée en plein vol, elle tombe, tandis que si elle nageait, elle remonte à la surface à une vitesse de 18 m par round. </p>\n<p data-visibility=\"gm\">Le linnorm des glaces ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "mS77pmvBFQBdJrrS",
             "name": "Perception des vibrations (imprécis) 18 m (Tremorsense (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -10714,6 +11299,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "2nWoUs5yTHmZJd6s",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le dragon souffle des éclairs qui infligent [[/r {5d12}[electricity]]]{5d12 dégâts d'électricité} aux créatures dans une @Template[type:line|distance:80]{ligne de 24 m} (@Check[type:reflex|dc:28|basic:true]{jet de Réflexes basique} DD 28).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "LMiVMxKOuhUjGd45",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10727,6 +11317,11 @@
             "id": "GmwDsrs27J6RnwHo",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "0L6qwj5JpEiwbnph",
+            "name": "Tempêtes de machoires (Storm of Jaws)",
+            "items-description": "<p>L’hydre effectue un nombre de Frappes au maximum égal à son nombre de têtes, chacune contre une cible différente. Ces attaques comptent pour le malus d’attaques multiples de l’hydre mais ce malus n’augmente qu’une fois toutes les attaques effectuées.</p>"
         },
         {
             "id": "dB4Pr3yiNKH32fE8",
@@ -10829,6 +11424,11 @@
             "items-description": ""
         },
         {
+            "id": "pqbk6QDDIpUVuKRX",
+            "name": "Racine (Root)",
+            "items-description": ""
+        },
+        {
             "id": "gurbv9AAgZYNEghZ",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10872,6 +11472,11 @@
             "id": "JjvXFkGRXacPPnXd",
             "name": "Queue (Tail)",
             "items-description": ""
+        },
+        {
+            "id": "8VCoSCtEbUqhtmnI",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Très grande, [[/r {3d10+10}[bludgeoning]{1d8+1 dégâts contondants} plus 2d6 dégâts de feu, Rupture 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
             "id": "ADmvv8bwerUunNDn",
@@ -11024,6 +11629,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "FX1GZJoTSgtAlICB",
+            "name": "Bras (Arm)",
+            "items-description": ""
+        },
+        {
             "id": "sylWtqbDKbIIyCtj",
             "name": "Crocs (Fangs)",
             "items-description": ""
@@ -11057,6 +11667,11 @@
             "id": "FPjjWa8f7H8lZRFS",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "0Qt9ULbGzJV8ZG3W",
+            "name": "Rejeton d'ombre (Shadow Spawn)",
+            "items-description": "<p>Quand l’ombre d’une créature lui est arrachée grâce au pouvoir Vol d’ombre, celle-ci devient un @Compendium[pf2e.pathfinder-bestiary.XrmHgbKgcHDi4OnK]{rejeton d’ombre} qui sert l’ombre qui l’a créé. Ce rejeton d’ombre ne possède pas le pouvoir Vol d’ombre et est perpétuellement et incurablement dans l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{maladroit 2}. Si la créature dont le rejeton d’ombre est issu meurt, il devient une ombre véritable et autonome. Par contre, si la créature se remet de son affaiblissement, elle récupère son ombre et le rejeton d’ombre n’est plus.</p>"
         },
         {
             "id": "2hjq0oo2EsTcXPJe",
@@ -11106,6 +11721,11 @@
         {
             "id": "r9cb3wi4i5kmkIVZ",
             "name": "Aile (Wing)",
+            "items-description": ""
+        },
+        {
+            "id": "fd6LoAjku28Cm4oo",
+            "name": "Kukri (Kukri)",
             "items-description": ""
         },
         {
@@ -11244,6 +11864,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "TTlpPh49DdSgaBxG",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "yLnwKltbJHYpn8qC",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -11354,6 +11979,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "055jXlPNVGmKtAdN",
+            "name": "Maitrise de l'eau (Water Mastery)",
+            "items-description": "<p>Pendant un maximum de 120 minutes par jour, le dragon ainsi que les navires et créatures alliés dans un rayon de 15 m, peuvent se déplacer au double de leur Vitesse normale dans l’eau.</p>"
+        },
+        {
             "id": "wrHyzkgKb8tdmukX",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -11391,6 +12021,11 @@
         {
             "id": "DyABhSgZNJ3ICo85",
             "name": "Lance (Spear)",
+            "items-description": ""
+        },
+        {
+            "id": "WeXirhh6gD0DCTGB",
+            "name": "Racine (Root)",
             "items-description": ""
         },
         {
@@ -11439,6 +12074,11 @@
             "items-description": ""
         },
         {
+            "id": "fegp7nmVFKZeTSA5",
+            "name": "Hymne perçant (Piercing Hymn)",
+            "items-description": ""
+        },
+        {
             "id": "Dy5EMIJUvL46ibmR",
             "name": "Guérison accélérée 20 (Fast Healing 20)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
@@ -11452,6 +12092,11 @@
             "id": "nbVDArIMsO5ljcOd",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "KR3Cm5a8kO5abrJc",
+            "name": "Élan draconique (Draconic Momentum)",
+            "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
         },
         {
             "id": "7ECMLvSVWJWwwgKi",
@@ -11519,6 +12164,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "kwMV2uj1jCdvIm7J",
+            "name": "Barbe (Beard)",
+            "items-description": ""
+        },
+        {
             "id": "YSjgR6s49HwnqEi6",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -11529,6 +12179,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "upJaEvHTKGpsW57H",
+            "name": "Épée longue enflammée (Flaming Longsword)",
+            "items-description": ""
+        },
+        {
+            "id": "tJF3MvlHvCalGkXk",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "RgUtXbdxY4ir0GNG",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -11537,6 +12197,11 @@
             "id": "WDz6pEmszokFTO25",
             "name": "Élan draconique (Draconic Momentum)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "hQNxvkHklgW9fvpf",
+            "name": "Déflagration (Explosion)",
+            "items-description": "<p>Lorsque le wyrm de feu meurt, il explose en infligeant [[/r {6d6}[fire]]]{6d6 dégâts de feu} à chaque créature dans un @Template[type:emanation|distance:10|traits:fire,damaging-effect]{rayon de 3 m} (@Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28).</p>"
         },
         {
             "id": "I9gdtsVJjPZVXvSq",
@@ -11574,9 +12239,19 @@
             "items-description": "<p>Le dragon porte deux Frappes de griffes et une Frappe de corne dans n'importe quelle ordre</p>"
         },
         {
+            "id": "WLWmgPx0MfGb1F5z",
+            "name": "Pic léger (Light Pick)",
+            "items-description": ""
+        },
+        {
             "id": "jN4atm9Y2nSfZFtO",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "l4eldMZrkZle4K3Y",
+            "name": "Cornes (Horns)",
+            "items-description": ""
         },
         {
             "id": "0WRHP09tquSt6GBg",
@@ -11654,6 +12329,11 @@
             "items-description": ""
         },
         {
+            "id": "U1y2WggaYWJc6YHr",
+            "name": "Cornes (Horns)",
+            "items-description": ""
+        },
+        {
             "id": "gxq2qiGUPuQ5wCW9",
             "name": "Perception des vibrations (imprécis) 18 m (Tremorsense (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -11697,6 +12377,11 @@
             "id": "iw0W5WgXZN9Y21ul",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "0yW0yjKdtDS5ur0I",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le dragon souffle un nuage toxique qui inflige [[/r {9d6}[poison]]]{9d6 dégâts de poison} aux créatures dans un @Template[type:cone|distance:40]{cône de 12 m} (@Check[type:fortitude|dc:25|basic:true]{jet de Vigueur basique} DD 25).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
         },
         {
             "id": "wJnJT5Ecr1w6xix3",
@@ -11767,6 +12452,11 @@
             "id": "9DJr6sgB54eTLxDn",
             "name": "Sabot (Hoof)",
             "items-description": ""
+        },
+        {
+            "id": "0lvwb1cNAaOUc6Be",
+            "name": "Fin de la mascarade (End the Charade)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le doppelganger est transformé avec Changement de forme et une autre créature se déplace et lui est adjacente ou effectue une action hostile contre lui.</p>\n<hr />\n<p><strong>Effet</strong> Le doppelganger reprend sa forme naturelle et peut effectuer une Frappe contre la créature ayant déclenché ce pouvoir. Si la créature ignorait que le doppelganger était transformé, elle est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque.</p>"
         },
         {
             "id": "p1oWXCxvOv782fSp",
@@ -11929,6 +12619,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
+            "id": "09dEV7gYGOvdo2T6",
+            "name": "Maitrise de l'eau (Water Mastery)",
+            "items-description": "<p>Pendant un maximum de 60 minutes par jour, le dragon ainsi que les navires et créatures alliés dans un rayon de 15 m, peuvent se déplacer au double de leur Vitesse normale dans l’eau.</p>"
+        },
+        {
             "id": "Se0RGAQyLYAwETrV",
             "name": "Bec (Beak)",
             "items-description": ""
@@ -11964,6 +12659,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "4tsSsz41K5abcM8D",
+            "name": "Gober (Swallow Whole)",
+            "items-description": "<p>Très grande, [[/r {2d10+6}[bludgeoning]{2d10+6 dégâts contondants}, Rupture 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
             "id": "k9T6UTS86VkzB0LP",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -11977,6 +12677,11 @@
             "id": "2QFZHcrVJOpbzlkr",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "fchD9qieGM9L8Vag",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le jeune dragon de bronze souffle de deux manières différentes.</p>\n<p data-visibility=\"gm\">Le dragon ne peut utiliser Arme de souffle de nouveau pendant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Foudre</strong> Le dragon souffle un éclair qui inflige [[/r {6d12}[electricity]]]{6d12 dégâts d’électricité} sur une @Template[type:line|distance:60|traits:arcane,electricity,evocation,mental]{ligne de 18 m} (@Check[type:reflex|dc:28|basic:true]{jet de Réflexes} basique DD 28).</li>\n<li><strong>Gaz répulsif</strong> Le dragon souffle un gaz répulsif sur une @Template[type:line|distance:80|traits:arcane,abjuration,incapacitation,mental]{ligne de 18 m}. Chaque créature dans la zone d’effet doit réussir un jet de @Check[type:will|dc:28]{Volonté DD 28} ou @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fuir} le dragon pendant 1 round (ou 2 rounds en cas d’échec critique).</li>\n</ul>"
         },
         {
             "id": "VbE9aK6V1gA4Fbv9",

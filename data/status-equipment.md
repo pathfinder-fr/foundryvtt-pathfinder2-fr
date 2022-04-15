@@ -6,7 +6,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-13 20:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire

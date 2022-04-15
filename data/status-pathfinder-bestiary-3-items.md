@@ -1,11 +1,12 @@
 # État de la traduction (pathfinder-bestiary-3-items)
 
- * **libre**: 1110
+ * **libre**: 1139
  * **aucune**: 1361
- * **vide**: 267
+ * **vide**: 237
+ * **officielle**: 1
 
 
-Dernière mise à jour: 2022-04-13 20:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1382,11 +1383,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[156wrijkOcFyFY9M.htm](pathfinder-bestiary-3-items/156wrijkOcFyFY9M.htm)|+4 Status Bonus on Saves vs. Mental|vide|
 |[1CvWXq8Ii6oimfQW.htm](pathfinder-bestiary-3-items/1CvWXq8Ii6oimfQW.htm)|Stealth|vide|
 |[2Cym04NuN3V52Lkm.htm](pathfinder-bestiary-3-items/2Cym04NuN3V52Lkm.htm)|Performance|vide|
-|[2DJRrjRKoxQStF9N.htm](pathfinder-bestiary-3-items/2DJRrjRKoxQStF9N.htm)|Kukri|vide|
 |[2iSSH3y2Kuv4MNqO.htm](pathfinder-bestiary-3-items/2iSSH3y2Kuv4MNqO.htm)|Emotional Bolt|vide|
 |[2pZ54UBlAD1KlL3E.htm](pathfinder-bestiary-3-items/2pZ54UBlAD1KlL3E.htm)|Flame|vide|
 |[302qi3pb2HGvsM6E.htm](pathfinder-bestiary-3-items/302qi3pb2HGvsM6E.htm)|Shield Spikes|vide|
-|[3b4YyISk8knkUFuM.htm](pathfinder-bestiary-3-items/3b4YyISk8knkUFuM.htm)|Falchion|vide|
 |[3nAIvklO9ro6F88p.htm](pathfinder-bestiary-3-items/3nAIvklO9ro6F88p.htm)|Big Claw|vide|
 |[3VjRp3T0kmoqaYH2.htm](pathfinder-bestiary-3-items/3VjRp3T0kmoqaYH2.htm)|Break Swell|vide|
 |[4KGlzeHqmtsJnLv9.htm](pathfinder-bestiary-3-items/4KGlzeHqmtsJnLv9.htm)|Spectral Hand|vide|
@@ -1411,9 +1410,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8cXuUewtlaWaE5MT.htm](pathfinder-bestiary-3-items/8cXuUewtlaWaE5MT.htm)|Tendril|vide|
 |[8GbsrAKrtoDroA9Y.htm](pathfinder-bestiary-3-items/8GbsrAKrtoDroA9Y.htm)|Snout|vide|
 |[8HtO6GuiGguIFsmV.htm](pathfinder-bestiary-3-items/8HtO6GuiGguIFsmV.htm)|Spine|vide|
-|[8IAg57ZRzV51urlh.htm](pathfinder-bestiary-3-items/8IAg57ZRzV51urlh.htm)|Warhammer|vide|
-|[8JO7dr59w8qgOjKx.htm](pathfinder-bestiary-3-items/8JO7dr59w8qgOjKx.htm)|Sling|vide|
-|[8n2FSC3RM16gF3r7.htm](pathfinder-bestiary-3-items/8n2FSC3RM16gF3r7.htm)|Falchion|vide|
 |[8Ukd831yvoAA6YEz.htm](pathfinder-bestiary-3-items/8Ukd831yvoAA6YEz.htm)|Hull|vide|
 |[8WmPWIXXUs0n6cTP.htm](pathfinder-bestiary-3-items/8WmPWIXXUs0n6cTP.htm)|-1 Status Penalty to Saves vs Death Effects|vide|
 |[9xiLnsl12cVesxyN.htm](pathfinder-bestiary-3-items/9xiLnsl12cVesxyN.htm)|Crafting|vide|
@@ -1422,7 +1418,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[AirzEgJQdbzrmlyJ.htm](pathfinder-bestiary-3-items/AirzEgJQdbzrmlyJ.htm)|Light Wisp|vide|
 |[AmUgwUNSujKkZSco.htm](pathfinder-bestiary-3-items/AmUgwUNSujKkZSco.htm)|Forehead|vide|
 |[ANmHs5lPkYTGdNq1.htm](pathfinder-bestiary-3-items/ANmHs5lPkYTGdNq1.htm)|-1 to Saves vs Emotion Effects|vide|
-|[aNoJsFxQdiX8ZDqx.htm](pathfinder-bestiary-3-items/aNoJsFxQdiX8ZDqx.htm)|Halberd|vide|
 |[aO0RDgMo7pF6pa0h.htm](pathfinder-bestiary-3-items/aO0RDgMo7pF6pa0h.htm)|Snake Fangs|vide|
 |[apuiQK82CCi4s2wU.htm](pathfinder-bestiary-3-items/apuiQK82CCi4s2wU.htm)|Echoblade|vide|
 |[AuA52N8pGsULYcjw.htm](pathfinder-bestiary-3-items/AuA52N8pGsULYcjw.htm)|Tendril|vide|
@@ -1430,7 +1425,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[B7om86293U5EoCpJ.htm](pathfinder-bestiary-3-items/B7om86293U5EoCpJ.htm)|+2 Status Bonus on Saves vs. Divine Magic|vide|
 |[BFhitQjxtXx7cQKS.htm](pathfinder-bestiary-3-items/BFhitQjxtXx7cQKS.htm)|Sting Shot|vide|
 |[bJUdfd279JTmWONI.htm](pathfinder-bestiary-3-items/bJUdfd279JTmWONI.htm)|Door|vide|
-|[bkajUVm6XDKbIO89.htm](pathfinder-bestiary-3-items/bkajUVm6XDKbIO89.htm)|Spike|vide|
 |[bqDyC6IKtXktariv.htm](pathfinder-bestiary-3-items/bqDyC6IKtXktariv.htm)|Needle|vide|
 |[bsKbGLCEij4kqAPY.htm](pathfinder-bestiary-3-items/bsKbGLCEij4kqAPY.htm)|Ice Staff|vide|
 |[btVPiH1rJHK8iziH.htm](pathfinder-bestiary-3-items/btVPiH1rJHK8iziH.htm)|Elven Curve Blade|vide|
@@ -1455,7 +1449,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dRvlYR5tSwnpG9he.htm](pathfinder-bestiary-3-items/dRvlYR5tSwnpG9he.htm)|+1 Status Bonus on Saves vs Positive|vide|
 |[dUtAAFoA9eQnE0J5.htm](pathfinder-bestiary-3-items/dUtAAFoA9eQnE0J5.htm)|Disrupting Staff|vide|
 |[DV2xCCy0CiARYlCH.htm](pathfinder-bestiary-3-items/DV2xCCy0CiARYlCH.htm)|+2 Status Bonus on Saves vs. Magic|vide|
-|[dX486NKkzEeXKpLt.htm](pathfinder-bestiary-3-items/dX486NKkzEeXKpLt.htm)|Composite Longbow|vide|
 |[dyHPOgwE2Bso99pQ.htm](pathfinder-bestiary-3-items/dyHPOgwE2Bso99pQ.htm)|Antler|vide|
 |[e4gcYFnxnq6FmPws.htm](pathfinder-bestiary-3-items/e4gcYFnxnq6FmPws.htm)|Deadly Spark|vide|
 |[E5jGyO2W780NMvYV.htm](pathfinder-bestiary-3-items/E5jGyO2W780NMvYV.htm)|Antler|vide|
@@ -1464,20 +1457,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EhA1NamwzAZrJMj2.htm](pathfinder-bestiary-3-items/EhA1NamwzAZrJMj2.htm)|Bite|vide|
 |[eIrU8U3KMyv0flIO.htm](pathfinder-bestiary-3-items/eIrU8U3KMyv0flIO.htm)|Deception|vide|
 |[f9gqhbFaPyj77i0e.htm](pathfinder-bestiary-3-items/f9gqhbFaPyj77i0e.htm)|Light Hammer|vide|
-|[F9OvUrIH2XqsqnGm.htm](pathfinder-bestiary-3-items/F9OvUrIH2XqsqnGm.htm)|Root|vide|
 |[fLXcaCWjl1dAjO33.htm](pathfinder-bestiary-3-items/fLXcaCWjl1dAjO33.htm)|Bite|vide|
-|[FnIxsS3RE81lmBvi.htm](pathfinder-bestiary-3-items/FnIxsS3RE81lmBvi.htm)|Kukri|vide|
 |[FnprXuiZYx2NzuJr.htm](pathfinder-bestiary-3-items/FnprXuiZYx2NzuJr.htm)|+1 Status Bonus on Saves vs Controlled Condition|vide|
 |[fr7zLtKzGQVPqqKL.htm](pathfinder-bestiary-3-items/fr7zLtKzGQVPqqKL.htm)|Spit|vide|
 |[FVNiKshCldd6k244.htm](pathfinder-bestiary-3-items/FVNiKshCldd6k244.htm)|Hand of Despair|vide|
-|[FYQBhz6UyHtF4h3Q.htm](pathfinder-bestiary-3-items/FYQBhz6UyHtF4h3Q.htm)|Claws|vide|
 |[fysOeh3zCgDpX1IC.htm](pathfinder-bestiary-3-items/fysOeh3zCgDpX1IC.htm)|Antler|vide|
 |[gdbnGMdSRW0Nzev8.htm](pathfinder-bestiary-3-items/gdbnGMdSRW0Nzev8.htm)|Spit|vide|
 |[gJ7hdDvMBTlevMyx.htm](pathfinder-bestiary-3-items/gJ7hdDvMBTlevMyx.htm)|Maw|vide|
-|[GqtkVnERy0SmBtKA.htm](pathfinder-bestiary-3-items/GqtkVnERy0SmBtKA.htm)|Dart|vide|
 |[GrP9ijoNzD5cbT4X.htm](pathfinder-bestiary-3-items/GrP9ijoNzD5cbT4X.htm)|Composite Shortbow|vide|
-|[GugfZAMFY5fRgjN3.htm](pathfinder-bestiary-3-items/GugfZAMFY5fRgjN3.htm)|Longbow|vide|
-|[h8UYIVYJvZxviPCt.htm](pathfinder-bestiary-3-items/h8UYIVYJvZxviPCt.htm)|Web|vide|
 |[hbJLdmKm20p84vtq.htm](pathfinder-bestiary-3-items/hbJLdmKm20p84vtq.htm)|Hurled Debris|vide|
 |[hCqIQRbX94na2LJI.htm](pathfinder-bestiary-3-items/hCqIQRbX94na2LJI.htm)|Spit|vide|
 |[hfMabMzyolY9p2Gw.htm](pathfinder-bestiary-3-items/hfMabMzyolY9p2Gw.htm)|Euphoric Spark|vide|
@@ -1496,9 +1483,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[inTqnHZGNmB3Nv4k.htm](pathfinder-bestiary-3-items/inTqnHZGNmB3Nv4k.htm)|Crafting|vide|
 |[iraYrEvANESYqSYz.htm](pathfinder-bestiary-3-items/iraYrEvANESYqSYz.htm)|Antler|vide|
 |[IvCrd9B34OQupCPq.htm](pathfinder-bestiary-3-items/IvCrd9B34OQupCPq.htm)|Slime Ball|vide|
-|[ivTJbPtmjGlcioNL.htm](pathfinder-bestiary-3-items/ivTJbPtmjGlcioNL.htm)|Halberd|vide|
 |[IXlGwryzhB2V9aPV.htm](pathfinder-bestiary-3-items/IXlGwryzhB2V9aPV.htm)|Stealth|vide|
-|[j1yTlYWclYVbVuCO.htm](pathfinder-bestiary-3-items/j1yTlYWclYVbVuCO.htm)|Composite Longbow|vide|
 |[J9DbeNCFrbq08rQy.htm](pathfinder-bestiary-3-items/J9DbeNCFrbq08rQy.htm)|Felt Shears|vide|
 |[JA8W1EoSKmMH74zg.htm](pathfinder-bestiary-3-items/JA8W1EoSKmMH74zg.htm)|Illusory Weapon|vide|
 |[jBu4ahdLBrGQ0cxJ.htm](pathfinder-bestiary-3-items/jBu4ahdLBrGQ0cxJ.htm)|Shuriken|vide|
@@ -1507,11 +1492,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[k1fBI6krs8NLi3AR.htm](pathfinder-bestiary-3-items/k1fBI6krs8NLi3AR.htm)|Pitchfork|vide|
 |[ka8ggPLmvKPNC19r.htm](pathfinder-bestiary-3-items/ka8ggPLmvKPNC19r.htm)|Wind Blast|vide|
 |[Kf0yffdxraBrMmiJ.htm](pathfinder-bestiary-3-items/Kf0yffdxraBrMmiJ.htm)|Acrobatics|vide|
-|[KgidUZZqAF6dfZdR.htm](pathfinder-bestiary-3-items/KgidUZZqAF6dfZdR.htm)|Bo Staff|vide|
 |[KkkIZP8XxpPJcECa.htm](pathfinder-bestiary-3-items/KkkIZP8XxpPJcECa.htm)|Flaming Greataxe|vide|
 |[kMfzeWG6rv2XM68m.htm](pathfinder-bestiary-3-items/kMfzeWG6rv2XM68m.htm)|Blade-Leg|vide|
 |[kNl1E67lBZGpSC5U.htm](pathfinder-bestiary-3-items/kNl1E67lBZGpSC5U.htm)|Gory Tendril|vide|
-|[kpySQfuxcXr6ztFA.htm](pathfinder-bestiary-3-items/kpySQfuxcXr6ztFA.htm)|Halberd|vide|
 |[kry7QWW5PONsNRlw.htm](pathfinder-bestiary-3-items/kry7QWW5PONsNRlw.htm)|Stealth|vide|
 |[kTat5821y2lN7nGX.htm](pathfinder-bestiary-3-items/kTat5821y2lN7nGX.htm)|+2 Status Bonus on Saves vs. Magic|vide|
 |[kzwDYGXsWl0wyTwN.htm](pathfinder-bestiary-3-items/kzwDYGXsWl0wyTwN.htm)|Light Hammer|vide|
@@ -1542,10 +1525,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nLrqfymDMpj0e5mW.htm](pathfinder-bestiary-3-items/nLrqfymDMpj0e5mW.htm)|Stealth|vide|
 |[NpayKO1iSOwbw5bd.htm](pathfinder-bestiary-3-items/NpayKO1iSOwbw5bd.htm)|+2 Status Bonus on Fortitude Saves vs. Poison|vide|
 |[NqfZq31gduTX8PMN.htm](pathfinder-bestiary-3-items/NqfZq31gduTX8PMN.htm)|Thorn|vide|
-|[o3fl8ed8HrHnV97F.htm](pathfinder-bestiary-3-items/o3fl8ed8HrHnV97F.htm)|Longbow|vide|
 |[oRzzljhsCixNqf5j.htm](pathfinder-bestiary-3-items/oRzzljhsCixNqf5j.htm)|Elegant Cane|vide|
-|[OTkxsBzxKFuPWRCX.htm](pathfinder-bestiary-3-items/OTkxsBzxKFuPWRCX.htm)|Composite Longbow|vide|
-|[oU5HOhztZ5crg339.htm](pathfinder-bestiary-3-items/oU5HOhztZ5crg339.htm)|Kukri|vide|
 |[OV494E7Id86ywjEH.htm](pathfinder-bestiary-3-items/OV494E7Id86ywjEH.htm)|+2 Status Bonus on Saves vs. Primal Magic|vide|
 |[oveFRPbhF3sXi9RJ.htm](pathfinder-bestiary-3-items/oveFRPbhF3sXi9RJ.htm)|Ephemeral Claw|vide|
 |[OW53VBMI2Iw52vm3.htm](pathfinder-bestiary-3-items/OW53VBMI2Iw52vm3.htm)|Nature|vide|
@@ -1554,7 +1534,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[p931SlqMJE64SPG4.htm](pathfinder-bestiary-3-items/p931SlqMJE64SPG4.htm)|Spirit Tendril|vide|
 |[PbrxNFl95AGC5nKu.htm](pathfinder-bestiary-3-items/PbrxNFl95AGC5nKu.htm)|Diplomacy|vide|
 |[PG2qs05bMZmS8OIt.htm](pathfinder-bestiary-3-items/PG2qs05bMZmS8OIt.htm)|Composite Shortbow|vide|
-|[phH8RreUZhjjwiuo.htm](pathfinder-bestiary-3-items/phH8RreUZhjjwiuo.htm)|Body|vide|
 |[Phi18mvpdKJpQmql.htm](pathfinder-bestiary-3-items/Phi18mvpdKJpQmql.htm)|Phantom Horn|vide|
 |[PHZ0zixmQt2ljkJm.htm](pathfinder-bestiary-3-items/PHZ0zixmQt2ljkJm.htm)|Entrails|vide|
 |[PKh7s5uQyxm0yPQg.htm](pathfinder-bestiary-3-items/PKh7s5uQyxm0yPQg.htm)|Pliers|vide|
@@ -1564,7 +1543,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Q9YkvCkVgM00oIy8.htm](pathfinder-bestiary-3-items/Q9YkvCkVgM00oIy8.htm)|Thorn|vide|
 |[qbjGaacQh4FUm7lS.htm](pathfinder-bestiary-3-items/qbjGaacQh4FUm7lS.htm)|Athletics|vide|
 |[qFcO9H7RqfAJpdi6.htm](pathfinder-bestiary-3-items/qFcO9H7RqfAJpdi6.htm)|+1 AC versus Evil Creatures|vide|
-|[QfgdLYrvrXT358Kh.htm](pathfinder-bestiary-3-items/QfgdLYrvrXT358Kh.htm)|Body|vide|
 |[Qq0M2j9jLs4ePYWY.htm](pathfinder-bestiary-3-items/Qq0M2j9jLs4ePYWY.htm)|Athletics|vide|
 |[qsBmWCL2GK9QfAiP.htm](pathfinder-bestiary-3-items/qsBmWCL2GK9QfAiP.htm)|Crafting|vide|
 |[qvJ5SX7zo7TKIP2h.htm](pathfinder-bestiary-3-items/qvJ5SX7zo7TKIP2h.htm)|Toenail Cutter|vide|
@@ -1578,7 +1556,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rmezKNjwT2IakFHV.htm](pathfinder-bestiary-3-items/rmezKNjwT2IakFHV.htm)|Spine|vide|
 |[rPTqCxoOB0B5ON1m.htm](pathfinder-bestiary-3-items/rPTqCxoOB0B5ON1m.htm)|Weapon Arm|vide|
 |[RUqAGMQwHrGpfJPs.htm](pathfinder-bestiary-3-items/RUqAGMQwHrGpfJPs.htm)|Arcane Tendril|vide|
-|[SCWOEv6X8RtegOjU.htm](pathfinder-bestiary-3-items/SCWOEv6X8RtegOjU.htm)|Scythe|vide|
 |[se2uQ9cHOTmmlxON.htm](pathfinder-bestiary-3-items/se2uQ9cHOTmmlxON.htm)|Spectral Claw|vide|
 |[sEbF3y3ttLqHmwtS.htm](pathfinder-bestiary-3-items/sEbF3y3ttLqHmwtS.htm)|Flame Ray|vide|
 |[sjeNzkkJM6xfdPo8.htm](pathfinder-bestiary-3-items/sjeNzkkJM6xfdPo8.htm)|Eye Beam|vide|
@@ -1605,7 +1582,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UR0KFHIUkZ47JTL0.htm](pathfinder-bestiary-3-items/UR0KFHIUkZ47JTL0.htm)|Athletics|vide|
 |[Uy3YAPSoQX8UsHK3.htm](pathfinder-bestiary-3-items/Uy3YAPSoQX8UsHK3.htm)|Athletics|vide|
 |[UzKSlqvopdc1rGlh.htm](pathfinder-bestiary-3-items/UzKSlqvopdc1rGlh.htm)|Spit|vide|
-|[VBA2WIH3wy9R2XsO.htm](pathfinder-bestiary-3-items/VBA2WIH3wy9R2XsO.htm)|Kukri|vide|
 |[vgGl8uaNNQbavIkC.htm](pathfinder-bestiary-3-items/vgGl8uaNNQbavIkC.htm)|Stealth|vide|
 |[Vh1hkSBb3FKa0QjG.htm](pathfinder-bestiary-3-items/Vh1hkSBb3FKa0QjG.htm)|Sumbreiva Huntblade|vide|
 |[vMTJr0Wv9CyKUmqi.htm](pathfinder-bestiary-3-items/vMTJr0Wv9CyKUmqi.htm)|Composite Shortbow|vide|
@@ -1618,10 +1594,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wPEh1COqJAlq37ce.htm](pathfinder-bestiary-3-items/wPEh1COqJAlq37ce.htm)|Shock Composite Longbow|vide|
 |[WrlWLg3CTbIvRroV.htm](pathfinder-bestiary-3-items/WrlWLg3CTbIvRroV.htm)|Mace|vide|
 |[wRO8DImltQqpTp5v.htm](pathfinder-bestiary-3-items/wRO8DImltQqpTp5v.htm)|Felt Shears|vide|
-|[WsuMP3feuXNP1eeE.htm](pathfinder-bestiary-3-items/WsuMP3feuXNP1eeE.htm)|Sling|vide|
 |[wY1dx0xYE5qgM9aA.htm](pathfinder-bestiary-3-items/wY1dx0xYE5qgM9aA.htm)|Sonic Pulse|vide|
-|[X7keRhNv8rJSPJUM.htm](pathfinder-bestiary-3-items/X7keRhNv8rJSPJUM.htm)|Composite Longbow|vide|
-|[XdiuvRsoT9Lh40Vm.htm](pathfinder-bestiary-3-items/XdiuvRsoT9Lh40Vm.htm)|Spike|vide|
 |[XFheFXfH7AWzxt0S.htm](pathfinder-bestiary-3-items/XFheFXfH7AWzxt0S.htm)|Bone Cannon|vide|
 |[XGpAwWvwSpDI36HG.htm](pathfinder-bestiary-3-items/XGpAwWvwSpDI36HG.htm)|Skeleton Crew|vide|
 |[XlCJ1ZHQ8EGtKrFn.htm](pathfinder-bestiary-3-items/XlCJ1ZHQ8EGtKrFn.htm)|Bite|vide|
@@ -1638,11 +1611,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[YwaUnI2GQySpg6fO.htm](pathfinder-bestiary-3-items/YwaUnI2GQySpg6fO.htm)|Stealth|vide|
 |[YwO8ViIiTT0pBxLd.htm](pathfinder-bestiary-3-items/YwO8ViIiTT0pBxLd.htm)|Splatter|vide|
 |[YZgastPDC3pUUwDr.htm](pathfinder-bestiary-3-items/YZgastPDC3pUUwDr.htm)|Ink Blade|vide|
-|[zc0tBM6QCWY3pRQR.htm](pathfinder-bestiary-3-items/zc0tBM6QCWY3pRQR.htm)|Arm|vide|
 |[zFOxLexJnjqhpWy0.htm](pathfinder-bestiary-3-items/zFOxLexJnjqhpWy0.htm)|Needle|vide|
 |[Zh8VyOJVStjNfjec.htm](pathfinder-bestiary-3-items/Zh8VyOJVStjNfjec.htm)|Acrobatics|vide|
 |[zJKO70Z0e4PdkPUS.htm](pathfinder-bestiary-3-items/zJKO70Z0e4PdkPUS.htm)|Quills|vide|
-|[zjRf8vLHR2qRhuCx.htm](pathfinder-bestiary-3-items/zjRf8vLHR2qRhuCx.htm)|Kukri|vide|
 |[ZSyd5tDHWnYAj8zD.htm](pathfinder-bestiary-3-items/ZSyd5tDHWnYAj8zD.htm)|Spectral Jaws|vide|
 |[zTJl5YEwlSQQwXu1.htm](pathfinder-bestiary-3-items/zTJl5YEwlSQQwXu1.htm)|Stealth|vide|
 
@@ -1683,6 +1654,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[276uGZ3JI9bINWVh.htm](pathfinder-bestiary-3-items/276uGZ3JI9bINWVh.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[2815rJTOaYW8FTZW.htm](pathfinder-bestiary-3-items/2815rJTOaYW8FTZW.htm)|At-Will Spells|Sorts à volonté|libre|
 |[2CGRxGWozrsdSvIi.htm](pathfinder-bestiary-3-items/2CGRxGWozrsdSvIi.htm)|Low-Light Vision|Vision nocturne|libre|
+|[2DJRrjRKoxQStF9N.htm](pathfinder-bestiary-3-items/2DJRrjRKoxQStF9N.htm)|Kukri|Kukri|libre|
 |[2epurBlrSyaqWetH.htm](pathfinder-bestiary-3-items/2epurBlrSyaqWetH.htm)|Darkvision|Vision dans le noir|libre|
 |[2ERFu4hiXliGhhKj.htm](pathfinder-bestiary-3-items/2ERFu4hiXliGhhKj.htm)|All-Around Vision|Vision à 360°|libre|
 |[2gs1tULfH278de1h.htm](pathfinder-bestiary-3-items/2gs1tULfH278de1h.htm)|Tremorsense (Imprecise) 60 feet|Perception des vibrations (imprécis) 18 m|libre|
@@ -1700,6 +1672,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2xn05F1PZDFa3Es4.htm](pathfinder-bestiary-3-items/2xn05F1PZDFa3Es4.htm)|Jaws|Mâchoires|libre|
 |[34s5p7VALREkL8Sh.htm](pathfinder-bestiary-3-items/34s5p7VALREkL8Sh.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[37C5tkSFoAf7HJd2.htm](pathfinder-bestiary-3-items/37C5tkSFoAf7HJd2.htm)|Fist|Poing|libre|
+|[3b4YyISk8knkUFuM.htm](pathfinder-bestiary-3-items/3b4YyISk8knkUFuM.htm)|Falchion|Cimeterre à deux mains|libre|
 |[3bqSjZ8OFBahcmGk.htm](pathfinder-bestiary-3-items/3bqSjZ8OFBahcmGk.htm)|Darkvision|Vision dans le noir|libre|
 |[3Epd1MoTcY2zIoJQ.htm](pathfinder-bestiary-3-items/3Epd1MoTcY2zIoJQ.htm)|Darkvision|Vision dans le noir|libre|
 |[3F0FPP20eSpY3u1Q.htm](pathfinder-bestiary-3-items/3F0FPP20eSpY3u1Q.htm)|Darkvision|Vision dans le noir|libre|
@@ -1774,10 +1747,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[8cr5UQhOU7Fs4x6B.htm](pathfinder-bestiary-3-items/8cr5UQhOU7Fs4x6B.htm)|Scent (Imprecise) 100 feet|Odorat (imprécis) 30 m|libre|
 |[8EzoTBKzzz2kcPsk.htm](pathfinder-bestiary-3-items/8EzoTBKzzz2kcPsk.htm)|Darkvision|Vision dans le noir|libre|
 |[8hoPxayirM6ubTyC.htm](pathfinder-bestiary-3-items/8hoPxayirM6ubTyC.htm)|Longspear|Pique|libre|
+|[8IAg57ZRzV51urlh.htm](pathfinder-bestiary-3-items/8IAg57ZRzV51urlh.htm)|Warhammer|Marteau de guerre|officielle|
 |[8IQ2N3VKsykBfWvw.htm](pathfinder-bestiary-3-items/8IQ2N3VKsykBfWvw.htm)|Pincer|Pince|libre|
+|[8JO7dr59w8qgOjKx.htm](pathfinder-bestiary-3-items/8JO7dr59w8qgOjKx.htm)|Sling|Fronde|libre|
 |[8k94OQXOqEJ2FUbE.htm](pathfinder-bestiary-3-items/8k94OQXOqEJ2FUbE.htm)|Grab|Empoignade/Agrippement|libre|
 |[8kIjzzH6mYzHjhor.htm](pathfinder-bestiary-3-items/8kIjzzH6mYzHjhor.htm)|Darkvision|Vision dans le noir|libre|
 |[8N2A9BvddYZu0qKO.htm](pathfinder-bestiary-3-items/8N2A9BvddYZu0qKO.htm)|Scent (Imprecise) 30 feet|Odorat (imprécis) 9 m|libre|
+|[8n2FSC3RM16gF3r7.htm](pathfinder-bestiary-3-items/8n2FSC3RM16gF3r7.htm)|Falchion|Cimeterre à deux mains|libre|
 |[8oZMFFQs6aQ2T29D.htm](pathfinder-bestiary-3-items/8oZMFFQs6aQ2T29D.htm)|Knockdown|Renversement|libre|
 |[8So4CPwp508RfAuQ.htm](pathfinder-bestiary-3-items/8So4CPwp508RfAuQ.htm)|Hoof|Sabot|libre|
 |[8SPxajKwnuThr56n.htm](pathfinder-bestiary-3-items/8SPxajKwnuThr56n.htm)|Darkvision|Vision dans le noir|libre|
@@ -1814,6 +1790,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[AMm6H92aq1YeGmGO.htm](pathfinder-bestiary-3-items/AMm6H92aq1YeGmGO.htm)|At-Will Spells|Sorts à volonté|libre|
 |[An7ZmOxkCPkGUuBN.htm](pathfinder-bestiary-3-items/An7ZmOxkCPkGUuBN.htm)|Claw|Griffe|libre|
 |[And8KF1KdAhqnNh9.htm](pathfinder-bestiary-3-items/And8KF1KdAhqnNh9.htm)|+1 Status Bonus on Saves vs Magic|Bonus de statut de +1 aux jds contre la magie|libre|
+|[aNoJsFxQdiX8ZDqx.htm](pathfinder-bestiary-3-items/aNoJsFxQdiX8ZDqx.htm)|Halberd|Hallebarde|libre|
 |[AnUoueNoV6oGqvsj.htm](pathfinder-bestiary-3-items/AnUoueNoV6oGqvsj.htm)|Negative Healing|Guérison négative|libre|
 |[aqpkkRpk5KmwHfhG.htm](pathfinder-bestiary-3-items/aqpkkRpk5KmwHfhG.htm)|Knockdown|Renversement|libre|
 |[AQxSKJnCPtcDDqGB.htm](pathfinder-bestiary-3-items/AQxSKJnCPtcDDqGB.htm)|Scent (Imprecise) 30 feet|Odorat (imprécis) 9 m|libre|
@@ -1844,6 +1821,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BHN2n3G77QRNLHhM.htm](pathfinder-bestiary-3-items/BHN2n3G77QRNLHhM.htm)|Stinger|Dard|libre|
 |[bIOojNVEElRivlmd.htm](pathfinder-bestiary-3-items/bIOojNVEElRivlmd.htm)|Claw|Griffe|libre|
 |[bjdMKR5pT4EwhJzy.htm](pathfinder-bestiary-3-items/bjdMKR5pT4EwhJzy.htm)|+1 Status Bonus on Saves vs Magic|Bonus de statut de +1 aux jds contre la magie|libre|
+|[bkajUVm6XDKbIO89.htm](pathfinder-bestiary-3-items/bkajUVm6XDKbIO89.htm)|Spike|Piquant|libre|
 |[BKsoNNVMI5d9mEhL.htm](pathfinder-bestiary-3-items/BKsoNNVMI5d9mEhL.htm)|All-Around Vision|Vision à 360°|libre|
 |[blSV9HiaoSCWQT9w.htm](pathfinder-bestiary-3-items/blSV9HiaoSCWQT9w.htm)|Grab|Empoignade/Agrippement|libre|
 |[bMrJDUmLpocEes2w.htm](pathfinder-bestiary-3-items/bMrJDUmLpocEes2w.htm)|Draconic Momentum|Élan draconique|libre|
@@ -1933,6 +1911,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dwi92HM5kiYhFz8W.htm](pathfinder-bestiary-3-items/dwi92HM5kiYhFz8W.htm)|Fist|Poing|libre|
 |[dWphYFgVjZP3oKOy.htm](pathfinder-bestiary-3-items/dWphYFgVjZP3oKOy.htm)|Negative Healing|Guérison négative|libre|
 |[dWtpFgBDu68MZFgx.htm](pathfinder-bestiary-3-items/dWtpFgBDu68MZFgx.htm)|Fist|Poing|libre|
+|[dX486NKkzEeXKpLt.htm](pathfinder-bestiary-3-items/dX486NKkzEeXKpLt.htm)|Composite Longbow|Arc long composite|libre|
 |[dyqAZBHswn1148hK.htm](pathfinder-bestiary-3-items/dyqAZBHswn1148hK.htm)|Knockdown|Renversement|libre|
 |[dyrhkvCX2H3pZBp9.htm](pathfinder-bestiary-3-items/dyrhkvCX2H3pZBp9.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[DzdpbPovIBcXuiRi.htm](pathfinder-bestiary-3-items/DzdpbPovIBcXuiRi.htm)|Claw|Griffe|libre|
@@ -1975,6 +1954,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[f661MaVKOhxZZMUI.htm](pathfinder-bestiary-3-items/f661MaVKOhxZZMUI.htm)|Scent (Imprecise) 30 feet|Odorat (imprécis) 9 m|libre|
 |[f714vqweH1u5q1ZG.htm](pathfinder-bestiary-3-items/f714vqweH1u5q1ZG.htm)|Low-Light Vision|Vision nocturne|libre|
 |[F7XOjtJspPrYwCzy.htm](pathfinder-bestiary-3-items/F7XOjtJspPrYwCzy.htm)|Darkvision|Vision dans le noir|libre|
+|[F9OvUrIH2XqsqnGm.htm](pathfinder-bestiary-3-items/F9OvUrIH2XqsqnGm.htm)|Root|Racine|libre|
 |[f9xJOejUBSfPwnLt.htm](pathfinder-bestiary-3-items/f9xJOejUBSfPwnLt.htm)|Draconic Momentum|Élan draconique|libre|
 |[FAGZiwfUhhTFHxxn.htm](pathfinder-bestiary-3-items/FAGZiwfUhhTFHxxn.htm)|Claw|Griffe|libre|
 |[faqkx0QvzDNLMR1M.htm](pathfinder-bestiary-3-items/faqkx0QvzDNLMR1M.htm)|Constant Spells|Sorts constants|libre|
@@ -1993,6 +1973,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[FkwYpWuwVTFS02Jn.htm](pathfinder-bestiary-3-items/FkwYpWuwVTFS02Jn.htm)|All-Around Vision|Vision à 360°|libre|
 |[flo5oC8zWtFBUsvt.htm](pathfinder-bestiary-3-items/flo5oC8zWtFBUsvt.htm)|Jaws|Mâchoires|libre|
 |[FmabDHqtzgl9JIl4.htm](pathfinder-bestiary-3-items/FmabDHqtzgl9JIl4.htm)|Jaws|Mâchoires|libre|
+|[FnIxsS3RE81lmBvi.htm](pathfinder-bestiary-3-items/FnIxsS3RE81lmBvi.htm)|Kukri|Kukri|libre|
 |[fNmXIe2WUwoH6Bt3.htm](pathfinder-bestiary-3-items/fNmXIe2WUwoH6Bt3.htm)|Improved Knockdown|Renversement amélioré|libre|
 |[fOaemwLydAbI9Tdb.htm](pathfinder-bestiary-3-items/fOaemwLydAbI9Tdb.htm)|Grab|Empoignade/Agrippement|libre|
 |[fp6MDEvJKxcE7hE3.htm](pathfinder-bestiary-3-items/fp6MDEvJKxcE7hE3.htm)|Low-Light Vision|Vision nocturne|libre|
@@ -2004,6 +1985,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fvbnbBzVNf3FpASj.htm](pathfinder-bestiary-3-items/fvbnbBzVNf3FpASj.htm)|Scent (Imprecise) 60 feet|Odorat (imprécis) 18 m|libre|
 |[FwEig8ZIZ5piqwrd.htm](pathfinder-bestiary-3-items/FwEig8ZIZ5piqwrd.htm)|Negative Healing|Guérison négative|libre|
 |[FYOsSxnsDAEzO8SZ.htm](pathfinder-bestiary-3-items/FYOsSxnsDAEzO8SZ.htm)|Claw|Griffe|libre|
+|[FYQBhz6UyHtF4h3Q.htm](pathfinder-bestiary-3-items/FYQBhz6UyHtF4h3Q.htm)|Claws|Griffes|libre|
 |[FyrrgVjaMyZCtRfk.htm](pathfinder-bestiary-3-items/FyrrgVjaMyZCtRfk.htm)|Darkvision|Vision dans le noir|libre|
 |[fzkFHUIw06YZhQU3.htm](pathfinder-bestiary-3-items/fzkFHUIw06YZhQU3.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
 |[g2ws0uSei8FpMGsN.htm](pathfinder-bestiary-3-items/g2ws0uSei8FpMGsN.htm)|Negative Healing|Guérison négative|libre|
@@ -2027,9 +2009,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gokPql4rMjZsUmFa.htm](pathfinder-bestiary-3-items/gokPql4rMjZsUmFa.htm)|Claw|Griffe|libre|
 |[GPeTASJke20Pg69M.htm](pathfinder-bestiary-3-items/GPeTASJke20Pg69M.htm)|Negative Healing|Guérison négative|libre|
 |[GPZIIPDmUwYRcaYF.htm](pathfinder-bestiary-3-items/GPZIIPDmUwYRcaYF.htm)|Grab|Empoignade/Agrippement|libre|
+|[GqtkVnERy0SmBtKA.htm](pathfinder-bestiary-3-items/GqtkVnERy0SmBtKA.htm)|Dart|Fléchette|libre|
 |[gr15jMdsKQApNTr1.htm](pathfinder-bestiary-3-items/gr15jMdsKQApNTr1.htm)|Hatchet|Hachette|libre|
 |[GRQsdgoPIcgExLRe.htm](pathfinder-bestiary-3-items/GRQsdgoPIcgExLRe.htm)|Darkvision|Vision dans le noir|libre|
 |[gsORJTMYFRzNjUAn.htm](pathfinder-bestiary-3-items/gsORJTMYFRzNjUAn.htm)|Low-Light Vision|Vision nocturne|libre|
+|[GugfZAMFY5fRgjN3.htm](pathfinder-bestiary-3-items/GugfZAMFY5fRgjN3.htm)|Longbow|Arc long|libre|
 |[GwFweqcXjZtUSJhx.htm](pathfinder-bestiary-3-items/GwFweqcXjZtUSJhx.htm)|All-Around Vision|Vision à 360°|libre|
 |[GWx7ppzGBq5TVLbL.htm](pathfinder-bestiary-3-items/GWx7ppzGBq5TVLbL.htm)|Constant Spells|Sorts constants|libre|
 |[Gxd48LW0au3UyXRn.htm](pathfinder-bestiary-3-items/Gxd48LW0au3UyXRn.htm)|Greater Darkvision|Vision dans le noir supérieure|libre|
@@ -2045,6 +2029,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[h7VjKWk9XbmBEL2M.htm](pathfinder-bestiary-3-items/h7VjKWk9XbmBEL2M.htm)|Low-Light Vision|Vision nocturne|libre|
 |[h8iiN0oJfHoKkkw6.htm](pathfinder-bestiary-3-items/h8iiN0oJfHoKkkw6.htm)|Darkvision|Vision dans le noir|libre|
 |[h8Phu8ErJOaWCuUU.htm](pathfinder-bestiary-3-items/h8Phu8ErJOaWCuUU.htm)|Pincer|Pince|libre|
+|[h8UYIVYJvZxviPCt.htm](pathfinder-bestiary-3-items/h8UYIVYJvZxviPCt.htm)|Web|Toile|libre|
 |[H8WZz3DKIs1SCcFr.htm](pathfinder-bestiary-3-items/H8WZz3DKIs1SCcFr.htm)|Darkvision|Vision dans le noir|libre|
 |[H9YGbRcmWQV6mrYy.htm](pathfinder-bestiary-3-items/H9YGbRcmWQV6mrYy.htm)|Grab|Empoignade/Agrippement|libre|
 |[hD5zZmaH7szmKu7h.htm](pathfinder-bestiary-3-items/hD5zZmaH7szmKu7h.htm)|Claw|Griffe|libre|
@@ -2099,12 +2084,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IP7OFv62ex3QvHzS.htm](pathfinder-bestiary-3-items/IP7OFv62ex3QvHzS.htm)|Knockdown|Renversement|libre|
 |[IpaUvWrHaznmdOGb.htm](pathfinder-bestiary-3-items/IpaUvWrHaznmdOGb.htm)|Darkvision|Vision dans le noir|libre|
 |[iQvaTMNbSTahgvnU.htm](pathfinder-bestiary-3-items/iQvaTMNbSTahgvnU.htm)|Foot|Pied|libre|
+|[ivTJbPtmjGlcioNL.htm](pathfinder-bestiary-3-items/ivTJbPtmjGlcioNL.htm)|Halberd|Hallebarde|libre|
 |[iWhzjrN6V3SMvbjf.htm](pathfinder-bestiary-3-items/iWhzjrN6V3SMvbjf.htm)|Claw|Griffe|libre|
 |[iXj6VKYDT9ao0fDy.htm](pathfinder-bestiary-3-items/iXj6VKYDT9ao0fDy.htm)|Darkvision|Vision dans le noir|libre|
 |[IyoiZQ9XhzNia9nz.htm](pathfinder-bestiary-3-items/IyoiZQ9XhzNia9nz.htm)|Shortsword|Épée courte|libre|
 |[iYWcxAxjnGp9gag8.htm](pathfinder-bestiary-3-items/iYWcxAxjnGp9gag8.htm)|Hatchet|Hachette|libre|
 |[iZ48ihJeJ9DbfW5I.htm](pathfinder-bestiary-3-items/iZ48ihJeJ9DbfW5I.htm)|Jaws|Mâchoires|libre|
 |[j1Bwf8sEmKvjZNHK.htm](pathfinder-bestiary-3-items/j1Bwf8sEmKvjZNHK.htm)|Low-Light Vision|Vision nocturne|libre|
+|[j1yTlYWclYVbVuCO.htm](pathfinder-bestiary-3-items/j1yTlYWclYVbVuCO.htm)|Composite Longbow|Arc long composite|libre|
 |[J2Wcbnb4u8polTU4.htm](pathfinder-bestiary-3-items/J2Wcbnb4u8polTU4.htm)|Grab|Empoignade/Agrippement|libre|
 |[j3teD40q6U6024pW.htm](pathfinder-bestiary-3-items/j3teD40q6U6024pW.htm)|Foot|Pied|libre|
 |[j67aVe855G3FeDEO.htm](pathfinder-bestiary-3-items/j67aVe855G3FeDEO.htm)|Improved Grab|Empoignade/Agrippement améliorée|libre|
@@ -2159,6 +2146,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KdYM2NV3yWc57PNc.htm](pathfinder-bestiary-3-items/KdYM2NV3yWc57PNc.htm)|Darkvision|Vision dans le noir|libre|
 |[Ke8jPPnQzzzeKXWw.htm](pathfinder-bestiary-3-items/Ke8jPPnQzzzeKXWw.htm)|Darkvision|Vision dans le noir|libre|
 |[kf3XkgtVbL9zpUBM.htm](pathfinder-bestiary-3-items/kf3XkgtVbL9zpUBM.htm)|Attack of Opportunity|Attaque d'opportunité|libre|
+|[KgidUZZqAF6dfZdR.htm](pathfinder-bestiary-3-items/KgidUZZqAF6dfZdR.htm)|Bo Staff|Bô|libre|
 |[khSydk2fZucaWpwr.htm](pathfinder-bestiary-3-items/khSydk2fZucaWpwr.htm)|At-Will Spells|Sorts à volonté|libre|
 |[kimzS4sVtC1JuBK6.htm](pathfinder-bestiary-3-items/kimzS4sVtC1JuBK6.htm)|Tail|Queue|libre|
 |[kL9IYzunO4Xu4wvN.htm](pathfinder-bestiary-3-items/kL9IYzunO4Xu4wvN.htm)|Darkvision|Vision dans le noir|libre|
@@ -2170,6 +2158,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kpB9dRBV5LWoW0uG.htm](pathfinder-bestiary-3-items/kpB9dRBV5LWoW0uG.htm)|Darkvision|Vision dans le noir|libre|
 |[kPhOwZbsXGQU7VRq.htm](pathfinder-bestiary-3-items/kPhOwZbsXGQU7VRq.htm)|Telepathy (Touch)|Télépathie (Contact)|libre|
 |[kpvnHl1XmqHSX6rP.htm](pathfinder-bestiary-3-items/kpvnHl1XmqHSX6rP.htm)|At-Will Spells|Sorts à volonté|libre|
+|[kpySQfuxcXr6ztFA.htm](pathfinder-bestiary-3-items/kpySQfuxcXr6ztFA.htm)|Halberd|Hallebarde|libre|
 |[kQaDhJaLxNJw4l8l.htm](pathfinder-bestiary-3-items/kQaDhJaLxNJw4l8l.htm)|Low-Light Vision|Vision nocturne|libre|
 |[kqcQU0n1PhfM4fgW.htm](pathfinder-bestiary-3-items/kqcQU0n1PhfM4fgW.htm)|Swarm Mind|Esprit de nuée|libre|
 |[ks76ZS8gWSFgrdl9.htm](pathfinder-bestiary-3-items/ks76ZS8gWSFgrdl9.htm)|Catch Rock|Interception de rochers|libre|
@@ -2299,6 +2288,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[nyVgRtyjT3c8xnz7.htm](pathfinder-bestiary-3-items/nyVgRtyjT3c8xnz7.htm)|At-Will Spells|Sorts à volonté|libre|
 |[nZLnu6bwL0bYmIYm.htm](pathfinder-bestiary-3-items/nZLnu6bwL0bYmIYm.htm)|Constant Spells|Sorts constants|libre|
 |[o1xm0AkoMLLKUiqH.htm](pathfinder-bestiary-3-items/o1xm0AkoMLLKUiqH.htm)|Claw|Griffe|libre|
+|[o3fl8ed8HrHnV97F.htm](pathfinder-bestiary-3-items/o3fl8ed8HrHnV97F.htm)|Longbow|Arc long|libre|
 |[O5Ub4Pr4nhdrG6Xy.htm](pathfinder-bestiary-3-items/O5Ub4Pr4nhdrG6Xy.htm)|Telepathy 100 feet|Télépathie 30 m|libre|
 |[o5UbC8XEchUb9DrO.htm](pathfinder-bestiary-3-items/o5UbC8XEchUb9DrO.htm)|Darkvision|Vision dans le noir|libre|
 |[O7GCOmC1ewn8Hglr.htm](pathfinder-bestiary-3-items/O7GCOmC1ewn8Hglr.htm)|Claw|Griffe|libre|
@@ -2332,7 +2322,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ORnkr2b5BKCvtKXe.htm](pathfinder-bestiary-3-items/ORnkr2b5BKCvtKXe.htm)|Grab|Empoignade/Agrippement|libre|
 |[osh2zvGEnGifdNKA.htm](pathfinder-bestiary-3-items/osh2zvGEnGifdNKA.htm)|Darkvision|Vision dans le noir|libre|
 |[OsJRsnBwCYSFdA4G.htm](pathfinder-bestiary-3-items/OsJRsnBwCYSFdA4G.htm)|Scent (Imprecise) 30 feet|Odorat (imprécis) 9 m|libre|
+|[OTkxsBzxKFuPWRCX.htm](pathfinder-bestiary-3-items/OTkxsBzxKFuPWRCX.htm)|Composite Longbow|Arc long composite|libre|
 |[oTrOmw914xPkqVd5.htm](pathfinder-bestiary-3-items/oTrOmw914xPkqVd5.htm)|Fist|Poing|libre|
+|[oU5HOhztZ5crg339.htm](pathfinder-bestiary-3-items/oU5HOhztZ5crg339.htm)|Kukri|Kukri|libre|
 |[ou7GQNYw2dnoJPZW.htm](pathfinder-bestiary-3-items/ou7GQNYw2dnoJPZW.htm)|Greatsword|Épée à deux mains|libre|
 |[OVXjqkURq28dcMFO.htm](pathfinder-bestiary-3-items/OVXjqkURq28dcMFO.htm)|Negative Healing|Guérison négative|libre|
 |[OW9oEttpg9WFvgOt.htm](pathfinder-bestiary-3-items/OW9oEttpg9WFvgOt.htm)|Constant Spells|Sorts constants|libre|
@@ -2360,6 +2352,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[PFvXq6fIzpNGeRPv.htm](pathfinder-bestiary-3-items/PFvXq6fIzpNGeRPv.htm)|Darkvision|Vision dans le noir|libre|
 |[pgNaQm9L35oslwOp.htm](pathfinder-bestiary-3-items/pgNaQm9L35oslwOp.htm)|All-Around Vision|Vision à 360°|libre|
 |[PgnWSQrfu9kmcYy1.htm](pathfinder-bestiary-3-items/PgnWSQrfu9kmcYy1.htm)|Scent (Imprecise) 30 feet|Odorat (imprécis) 9 m|libre|
+|[phH8RreUZhjjwiuo.htm](pathfinder-bestiary-3-items/phH8RreUZhjjwiuo.htm)|Body|Corps|libre|
 |[pJKtjGeoTW0LzTPG.htm](pathfinder-bestiary-3-items/pJKtjGeoTW0LzTPG.htm)|Draconic Momentum|Élan draconique|libre|
 |[PlTKFXVlBOQ1pLtX.htm](pathfinder-bestiary-3-items/PlTKFXVlBOQ1pLtX.htm)|Telepathy 100 feet|Télépathie 30 m|libre|
 |[pnaFRppT92BaCHjj.htm](pathfinder-bestiary-3-items/pnaFRppT92BaCHjj.htm)|Claw|Griffe|libre|
@@ -2389,6 +2382,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qedIdKEDmmqyp8F5.htm](pathfinder-bestiary-3-items/qedIdKEDmmqyp8F5.htm)|Low-Light Vision|Vision nocturne|libre|
 |[qEjTHqZLDRx2o0dJ.htm](pathfinder-bestiary-3-items/qEjTHqZLDRx2o0dJ.htm)|Claw|Griffe|libre|
 |[QEObXX17C19vzj8L.htm](pathfinder-bestiary-3-items/QEObXX17C19vzj8L.htm)|Tail|Queue|libre|
+|[QfgdLYrvrXT358Kh.htm](pathfinder-bestiary-3-items/QfgdLYrvrXT358Kh.htm)|Body|Corps|libre|
 |[qgbvTpc5c7E9GDGd.htm](pathfinder-bestiary-3-items/qgbvTpc5c7E9GDGd.htm)|Jaws|Mâchoires|libre|
 |[Qgr1ThnIaqkHRArD.htm](pathfinder-bestiary-3-items/Qgr1ThnIaqkHRArD.htm)|At-Will Spells|Sorts à volonté|libre|
 |[qHZIM3SkMqqfQWWG.htm](pathfinder-bestiary-3-items/qHZIM3SkMqqfQWWG.htm)|Beak|Bec|libre|
@@ -2469,6 +2463,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[sBY73yijWI9qogpX.htm](pathfinder-bestiary-3-items/sBY73yijWI9qogpX.htm)|All-Around Vision|Vision à 360°|libre|
 |[SbZX27efEktYhABv.htm](pathfinder-bestiary-3-items/SbZX27efEktYhABv.htm)|Tremorsense (Imprecise) 60 feet|Perception des vibrations (imprécis) 18 m|libre|
 |[Scblqwycs4aZk1u1.htm](pathfinder-bestiary-3-items/Scblqwycs4aZk1u1.htm)|Scent (Imprecise) 60 feet|Odorat (imprécis) 18 m|libre|
+|[SCWOEv6X8RtegOjU.htm](pathfinder-bestiary-3-items/SCWOEv6X8RtegOjU.htm)|Scythe|Faux|libre|
 |[SE2Oc5VGiAxYtDb3.htm](pathfinder-bestiary-3-items/SE2Oc5VGiAxYtDb3.htm)|Crossbow|Arbalète|libre|
 |[SfFcwGTaNbZ6zFNW.htm](pathfinder-bestiary-3-items/SfFcwGTaNbZ6zFNW.htm)|Spear|Lance|libre|
 |[sfp7Tgb12PISMHBT.htm](pathfinder-bestiary-3-items/sfp7Tgb12PISMHBT.htm)|Fist|Poing|libre|
@@ -2572,6 +2567,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VAggE1QOFwbQrV0m.htm](pathfinder-bestiary-3-items/VAggE1QOFwbQrV0m.htm)|Grab|Empoignade/Agrippement|libre|
 |[VAigsB3VKLeJJ9J0.htm](pathfinder-bestiary-3-items/VAigsB3VKLeJJ9J0.htm)|At-Will Spells|Sorts à volonté|libre|
 |[VAj42GSNyP2at5VR.htm](pathfinder-bestiary-3-items/VAj42GSNyP2at5VR.htm)|Tremorsense (Imprecise) 30 feet|Perception des vibrations (imprécis) 9 m|libre|
+|[VBA2WIH3wy9R2XsO.htm](pathfinder-bestiary-3-items/VBA2WIH3wy9R2XsO.htm)|Kukri|Kukri|libre|
 |[vBOtCKqI5yNghuqQ.htm](pathfinder-bestiary-3-items/vBOtCKqI5yNghuqQ.htm)|Low-Light Vision|Vision nocturne|libre|
 |[vbSi698j0JxF2fvv.htm](pathfinder-bestiary-3-items/vbSi698j0JxF2fvv.htm)|Negative Healing|Guérison négative|libre|
 |[VBxySuyNQGXdtmjL.htm](pathfinder-bestiary-3-items/VBxySuyNQGXdtmjL.htm)|Claw|Griffe|libre|
@@ -2632,6 +2628,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wP25CSpHH1XfhQZV.htm](pathfinder-bestiary-3-items/wP25CSpHH1XfhQZV.htm)|Wing|Aile|libre|
 |[WpHT325mhd62bmHx.htm](pathfinder-bestiary-3-items/WpHT325mhd62bmHx.htm)|Low-Light Vision|Vision nocturne|libre|
 |[wq97ytCKPYfmWhuM.htm](pathfinder-bestiary-3-items/wq97ytCKPYfmWhuM.htm)|Hand Crossbow|Arbalète à main|libre|
+|[WsuMP3feuXNP1eeE.htm](pathfinder-bestiary-3-items/WsuMP3feuXNP1eeE.htm)|Sling|Fronde|libre|
 |[WtYldqbo5WHxuBHU.htm](pathfinder-bestiary-3-items/WtYldqbo5WHxuBHU.htm)|Swarm Mind|Esprit de nuée|libre|
 |[wuJYkji7dBLYrLAK.htm](pathfinder-bestiary-3-items/wuJYkji7dBLYrLAK.htm)|Constant Spells|Sorts constants|libre|
 |[WUlRpT25Akwrbx9n.htm](pathfinder-bestiary-3-items/WUlRpT25Akwrbx9n.htm)|Hatchet|Hachette|libre|
@@ -2650,11 +2647,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[x5ke7WXv7p23V2Mc.htm](pathfinder-bestiary-3-items/x5ke7WXv7p23V2Mc.htm)|Low-Light Vision|Vision nocturne|libre|
 |[x68dPIsgXM3s4jCZ.htm](pathfinder-bestiary-3-items/x68dPIsgXM3s4jCZ.htm)|Claw|Griffe|libre|
 |[X6SY2vedf1w4NFyM.htm](pathfinder-bestiary-3-items/X6SY2vedf1w4NFyM.htm)|Fangs|Crocs|libre|
+|[X7keRhNv8rJSPJUM.htm](pathfinder-bestiary-3-items/X7keRhNv8rJSPJUM.htm)|Composite Longbow|Arc long composite|libre|
 |[X7My4JpekzJFoAlA.htm](pathfinder-bestiary-3-items/X7My4JpekzJFoAlA.htm)|Jaws|Mâchoires|libre|
 |[X7tUpkvJ2IFENOEb.htm](pathfinder-bestiary-3-items/X7tUpkvJ2IFENOEb.htm)|Low-Light Vision|Vision nocturne|libre|
 |[X9vCwZ0X1VwQW8K8.htm](pathfinder-bestiary-3-items/X9vCwZ0X1VwQW8K8.htm)|Telepathy|Télépathie|libre|
 |[xBKXa275uqX5FmD9.htm](pathfinder-bestiary-3-items/xBKXa275uqX5FmD9.htm)|Beak|Bec|libre|
 |[xc23c2YKrqqX2Dqy.htm](pathfinder-bestiary-3-items/xc23c2YKrqqX2Dqy.htm)|At-Will Spells|Sorts à volonté|libre|
+|[XdiuvRsoT9Lh40Vm.htm](pathfinder-bestiary-3-items/XdiuvRsoT9Lh40Vm.htm)|Spike|Piquant|libre|
 |[xDnUeGZfUafSNkYD.htm](pathfinder-bestiary-3-items/xDnUeGZfUafSNkYD.htm)|Darkvision|Vision dans le noir|libre|
 |[xEaJ3PQ5662GbdCV.htm](pathfinder-bestiary-3-items/xEaJ3PQ5662GbdCV.htm)|Jaws|Mâchoires|libre|
 |[xEEbQADYYULp07pu.htm](pathfinder-bestiary-3-items/xEEbQADYYULp07pu.htm)|Stinger|Dard|libre|
@@ -2728,6 +2727,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Z79hB9KYIozan9AY.htm](pathfinder-bestiary-3-items/Z79hB9KYIozan9AY.htm)|Telepathy 100 feet|Télépathie 30 m|libre|
 |[z8QOqIIzB4F2TaBY.htm](pathfinder-bestiary-3-items/z8QOqIIzB4F2TaBY.htm)|Claw|Griffe|libre|
 |[zbmQRPZHDEeRga68.htm](pathfinder-bestiary-3-items/zbmQRPZHDEeRga68.htm)|At-Will Spells|Sorts à volonté|libre|
+|[zc0tBM6QCWY3pRQR.htm](pathfinder-bestiary-3-items/zc0tBM6QCWY3pRQR.htm)|Arm|Bras|libre|
 |[zCqM5htGK65bK9Uh.htm](pathfinder-bestiary-3-items/zCqM5htGK65bK9Uh.htm)|Telepathy 100 feet|Télépathie 30 m|libre|
 |[ZEFMlTiTYApQQKuS.htm](pathfinder-bestiary-3-items/ZEFMlTiTYApQQKuS.htm)|Grab|Empoignade/Agrippement|libre|
 |[ZEGxGxVAaZSmhNp7.htm](pathfinder-bestiary-3-items/ZEGxGxVAaZSmhNp7.htm)|Foot|Pied|libre|
@@ -2736,6 +2736,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[zGreN5MDFtAqJh8U.htm](pathfinder-bestiary-3-items/zGreN5MDFtAqJh8U.htm)|Darkvision|Vision dans le noir|libre|
 |[zGXRWPh3UMA5q46D.htm](pathfinder-bestiary-3-items/zGXRWPh3UMA5q46D.htm)|Darkvision|Vision dans le noir|libre|
 |[zhUapm5Z8hOglOwU.htm](pathfinder-bestiary-3-items/zhUapm5Z8hOglOwU.htm)|Low-Light Vision|Vision nocturne|libre|
+|[zjRf8vLHR2qRhuCx.htm](pathfinder-bestiary-3-items/zjRf8vLHR2qRhuCx.htm)|Kukri|Kukri|libre|
 |[zJSR7LD72PzGqnDl.htm](pathfinder-bestiary-3-items/zJSR7LD72PzGqnDl.htm)|Low-Light Vision|Vision nocturne|libre|
 |[zJVmAmV1kg1wV6T3.htm](pathfinder-bestiary-3-items/zJVmAmV1kg1wV6T3.htm)|Scent (Imprecise) 60 feet|Odorat (imprécis) 18 m|libre|
 |[zJy7PDnzhddBqXOb.htm](pathfinder-bestiary-3-items/zJy7PDnzhddBqXOb.htm)|Darkvision|Vision dans le noir|libre|

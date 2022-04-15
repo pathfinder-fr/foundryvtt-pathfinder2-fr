@@ -8,8 +8,8 @@
         },
         {
             "id": "Sifkesh",
-            "name": "Siskesh",
-            "description": ""
+            "name": "Siskesh (Seigneur Démon)",
+            "description": "<p><strong>Édits</strong> Entacher la réputation des religions, pousser les malfaiteurs au suicide au lieu de leur permettre de se racheter, semer le doute parmi les fidèles</p>\n<p><strong>Anathèmes</strong> Accorder le pardon, honorer sincèrement ou invoquer un autre dieu, propager l’espoir</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.TpFgfwcWrfT8zVMP]{Souffrance}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie} </p>"
         },
         {
             "id": "Irez",
@@ -48,8 +48,8 @@
         },
         {
             "id": "Ma'at",
-            "name": "Maât",
-            "description": ""
+            "name": "Maât (Ancien dieu osirien)",
+            "description": "<p><strong>Édits</strong> Avoir un jugement impartial et dire la vérité, défendre la civilisation contre le chaos, mener une vie honnête et juste</p>\n<p><strong>Anathèmes</strong> Dégrader l’environnement, mentir, traiter injustement sa famille ou sa communauté</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.FJ9D4qpeRhJvjHai]{Étoiles}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}</p>"
         },
         {
             "id": "Kerkamoth",
@@ -88,8 +88,8 @@
         },
         {
             "id": "Eiseth",
-            "name": "Eiseth",
-            "description": ""
+            "name": "Eiseth (Reine de la nuit)",
+            "description": "<p>La Valkyrie des Enfers règne sur un domaine qui fait partie du royaume de Dispater et commande comme elle l’entend à ses légions d’érinyes et de diables bourreaux. Eiseth agit en dehors de l’autorité de Dispater et a scellé de solides alliances avec d’autres résidents des Enfers ou d’ailleurs. Elle ignore depuis longtemps les limites que d’autres lui imposaient. La plus éminente des reines de la nuit, elle incarne la bataille, la vengeance et la furie ; ses ambitions s’élèvent aussi haut que les tours de son nid d’aigle du Cri de la veuve, où, à partir des âmes de damnés, elle forge d’invincibles légions n’obéissant qu’à elle.</p>\n<p><strong>Édits</strong> Exiger ce que vous souhaitez et méritez, humilier ses ennemis avec ironie, se venger de toutes les insultes</p>\n<p><strong>Anathèmes</strong> Faire preuve d’humilité ou laisser paraître sa peur, ne pas réagir à un affront</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}</p>"
         },
         {
             "id": "Shoanti Animism",
@@ -129,12 +129,12 @@
         {
             "id": "Anubis",
             "name": "Anubis (Ancien dieu osirien)",
-            "description": ""
+            "description": "<p>Anubis est le fils d'Osiris et de Nephtys, né hors mariage et il a aidé Isis dans la momification de son père. Il travaille fréquemment avec Isis, Neith, Nephthys et Selket à la protection des morts, et est un ennemi de Seth en raison de son association avec les morts-vivants.</p>\n<p><strong>Édits</strong> Apporter le repos aux morts, détruire les morts-vivants, faire preuve d’un jugement impartial</p>\n<p><strong>Anathèmes</strong> Piéger une âme, piller une tombe, profaner un corps</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âmes}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille}</p>"
         },
         {
             "id": "Rovagug",
-            "name": "Rovagug",
-            "description": ""
+            "name": "Rovagug (Mer intérieure)",
+            "description": "<p>Rovagug ne possède pas de texte sacré. Il n’en a pas l’usage, car son seul commandement est de détruire et ses adeptes n’ont pas besoin d’instructions pour y parvenir. Les monstres, au sens propre comme au sens figuré, qui vénèrent Rovagug partagent leurs mythes et leurs légendes dans des sanctuaires secrets et des grottes cachées. Ils surnomment leur dieu la Bête Hirsute, le Roi Emprisonné, la Marée de Crocs, le Dévastateur et le Briseur de Mondes. Ils se répètent que chaque vie qu’ils ont prise, chaque oeuvre d’art qu’ils ont détruite et chaque travail qu’ils ont sapé fissure toujours un peu plus la prison de leur dieu. Le moindre effort de destruction s’ajoute aux autres et permettra un jour de le libérer afin qu’il provoque la fin de toute chose.</p>\n<p><strong>Édits</strong> Détruire toute chose, libérer Rovagug de sa prison.</p>\n<p><strong>Anathèmes</strong> Créer quelque chose de nouveau, laisser des liens matériels vous restreindre, torturer une victime ou retarder autrement son exécution.</p>\n<p><strong>Préoccupations</strong> destruction, désastres et fureur</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}</p>"
         },
         {
             "id": "The Prismatic Ray",
@@ -218,8 +218,8 @@
         },
         {
             "id": "Hei Feng",
-            "name": "Hei Feng",
-            "description": ""
+            "name": "Hei Feng (Mer Intérieure)",
+            "description": "<p>Hei Feng, le dieu tengu des tempêtes, est aussi imprévisible que la mer, aussi destructeur qu’un ouragan et généralement aussi saoul et grossier que les marins qui lui adressent leurs prières. Impulsif et passionné, son humeur peut passer de la joie à la tristesse ou à la colère dans le temps qu’il lui faut pour finir son verre et, quelle que soit sa disposition du moment, celle-ci n’a rien de modéré. Ainsi, il pourra accorder à une pêcheuse qui l’a ému une pêche miraculeuse à même de nourrir son village et, peu après, déchaîner la mer contre ce même en réaction à un affront mineur. Alors que cette imprévisibilité agace la Cour céleste, les humains considèrent Hei Feng avec un respect teinté de prudence.</p>\n<p><strong>Édits</strong> Apprécier les divertissements spectaculaires, respecter le pouvoir de la mer et du ciel, suivre ses passions, tenter symboliquement de s’excuser auprès de ceux que vous avez lésés</p>\n<p><strong>Anathèmes</strong> feindre l’amitié avec ceux que vous méprisez, manquer de respect à Hei Feng ou à son ancienne épouse Dame Jingxi, ignorer un affront envers soi ou Hei Feng</p>\n<p><strong>Préoccupations</strong> Mer, tempêtes, tengus, marins</p>\n<hr />\n<p><strong>Domaines</strong>  @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, Petits plaisirs, @Compendium[pf2e.domains.ywn4ODaUt382Z3Nz]{Foudre}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyages} </p>"
         },
         {
             "id": "Ashukharma",
@@ -303,8 +303,8 @@
         },
         {
             "id": "Doloras",
-            "name": "Doloras",
-            "description": ""
+            "name": "Doloras (Reine de la nuit)",
+            "description": "<p>Peut-être la plus cruelle des divinités des Enfers, l’Ange sadique partage certaines caractéristiques des velstracs qui y résidaient jadis – dont un besoin pressant d’infliger de la douleur physique à des créatures vivantes. Elle ne les fait pas souffrir par colère ni par goût de la vengeance ; c’est un art qu’elle pratique avec un détachement inégalé et sans émotion. Ses adorateurs sont les sadiques, les tortionnaires qui savourent leur atroce travail, et ceux parmi les diabolistes qui préfèrent convoquer des velstracs que des diables. Bien qu’elle porte le titre de reine de la nuit et que sa puissance soit l’égale de celle des autres, Notre Dame de douleur se contente de son statut et n’a pas d’autre ambition que de perpétuer son droit à torturer sans cesse.</p>\n<p><strong>Édits</strong> Repousser les limites de la science et de la souffrance, torturer d’autres créatures</p>\n<p><strong>Anathèmes</strong> Faire preuve d’émotions ou agir sous le coup de l’émotion, laisser un appel à la pitié vous influencer</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude}, @Compendium[pf2e.domains.TpFgfwcWrfT8zVMP]{Souffrance}</p>"
         },
         {
             "id": "Prophecies of Kalistrade",
@@ -324,7 +324,7 @@
         {
             "id": "Dahak",
             "name": "Dahak",
-            "description": ""
+            "description": "<p>Les dragons croient que Dahak était l'un des dieux originaux créés par Apsu et Tiamat au début de la création. Alors que les autres divinités ont commencé à créer, Dahak a choisi de détruire. On lui attribue la transformation de l'enfer en un lieu d'agonie et de flammes. On pense également qu'il est le créateur des dragons métalliques, qu'il a formés uniquement pour les chasser comme un sport. Voyant la destruction et le chaos engendrés, Apsu est entré dans le plan matériel afin de mettre fin au règne de terreur de Dahak. Cependant, Tiamat considérait Dahak comme un fils et voulait l'épargner. Dans un accord pour sauver Dahak, Tiamat guérit certains des dragons métalliques blessés. Ces dragons devinrent les dragons chromatiques originaux.</p>\n<p><strong>Édits</strong> Détruire au gré de ses envies, tuer des dragons métalliques</p>\n<p><strong>Anathèmes</strong> Épargner un ennemi après avoir décidé de le tuer, pardonner une offense</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.OsM8NfP408uB6yTi]{Parenté dracosire}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Bolka",
@@ -488,8 +488,8 @@
         },
         {
             "id": "Sun Wukong",
-            "name": "Sun Wukong",
-            "description": ""
+            "name": "Sun Wukong (Dieu Tianais)",
+            "description": "<p><strong>Édits</strong> Boire, faire des farces, vivre sans contraintes</p>\n<p><strong>Anathèmes</strong> Modifier son comportement sous la pression sociale, refuser un pari ou un duel raisonnable</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, Petits plaisirs, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie} </p>"
         },
         {
             "id": "Ng",
@@ -613,8 +613,8 @@
         },
         {
             "id": "Jaidi",
-            "name": "Jaidi",
-            "description": ""
+            "name": "Jaïdi (Dieu Azlanti)",
+            "description": "<p>Jaïdi est la déesse de l'agriculture vénérée par les peuples de l'ancient Azlant.  Elle représente le plaisir que l'on ressent en travaillant durement pour l'ensemble de la communauté.</p>\n<p><strong>Édits</strong> Encourager le travail ardu qui profite à tous, veiller à la santé des cultures et de la végétation</p>\n<p><strong>Anathèmes</strong> Détruire des cultures saines, gaspiller de la nourriture, refuser de l’aide aux membres de votre communauté</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}</p>"
         },
         {
             "id": "Kitumu",
@@ -658,8 +658,8 @@
         },
         {
             "id": "Black Butterfly",
-            "name": "Papillon noir",
-            "description": ""
+            "name": "Papillon noir (Seigneur Empyréen)",
+            "description": "<p>Le Silence Interstitiel voltige entre et parmi les étoiles et représente la distance, le silence et l’espace. Souvent appelé l’Ombre de Desna, Papillon noir est parfois prise pour un aspect de Desna qui s’en serait séparé pour prendre vie ; de fait, son goût pour la distance et l’espace reflète l’amour des voyages de Desna. Papillon noir apprécie le silence de la mer d’étoiles en ce qu’il favorise l’introspection et l’étude de soi-même. Ceux qui la vénèrent saisissent toutes les occasions de s’asseoir pour méditer sans bruit, si possible dans un endroit sombre et silencieux. Les voyages lointains offrent de nombreuses occasions de réflexion et de contemplation, ce qui explique que Papillon noir les encourage. Elle déteste le mal sous toutes ses formes, mais elle abhorre particulièrement les puissants êtres maléfiques qui habitent la Sombre Tapisserie et attend de ses fidèles qu’ils combattent ces êtres et leurs adorateurs sans merci.</p>\n<p><strong>Édits</strong> Accomplir des gestes bienveillants anonymes, étudier les étoiles, remarquer les moments de silence</p>\n<p><strong>Anathèmes</strong> Déranger quelqu’un en train de méditer, interrompre un moment de tranquillité, jouer de la musique bruyante ou discordante</p>\n<p><strong>Préoccupations</strong> Distance, silence, et l'espace</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.FJ9D4qpeRhJvjHai]{Étoiles}, @Compendium[pf2e.domains.J7K7kHoIE69558Su]{Liberté}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.6klWznsb0f2bNg3T]{Vide} </p>"
         },
         {
             "id": "Grundinnar",
@@ -708,8 +708,8 @@
         },
         {
             "id": "Andoletta",
-            "name": "Andoletta",
-            "description": ""
+            "name": "Andoletta (Seigneur Empyréen)",
+            "description": "<p>Andoletta, surnommée Grand-mère Corneille, représente la consolation, le respect et la sécurité. Elle distingue clairement la culpabilité de l’innocence : pour elle, il n’y a jamais d’entre-deux. Elle offre un chemin de retour vers la lumière à tous ceux qui sont injustement accusés ou qui montrent des signes de rédemption. Ce chemin n’est jamais aisé, mais il vaut la peine d’être suivi, et Andoletta se tient aux côtés de ceux qui l’osent. Mais pour ceux qui n’ont aucun remords ou sont véritablement vicieux, elle n’éprouve aucune pitié. C’est pourquoi son portrait apparaît souvent dans les tribunaux, lui permettant d’y exercer sa surveillance et de garantir la justice aux accusés. Andoletta accorde aussi beaucoup d’importance au respect envers les morts et à la protection des enfants. C’est en offrant du réconfort aux personnes endeuillées que l’on fait véritablement preuve de bonté et de compassion. Les enfants sont des feuilles blanches avec un immense potentiel pour le bien – pour peu qu’ils y soient amenés, et protégés du mal.</p>\n<p>Grand-mère Corneille se présente aux mortels sous les traits d’une vieille femme ridée, aux cheveux gris et au regard vif et pénétrant. Elle tient une canne à la main et porte sur les épaules une cape noire en plumes de corneille, qui a l’air d’une grande paire d’ailes repliées. Parmi ceux qui font appel à Andoletta figurent les gens âgés, les personnes en deuil ou indécises, ainsi que les accusés à tort, les enquêteurs et les juges.</p>\n<p><strong>Édits</strong> Inculquer des vertus aux enfants, rechercher et favoriser la rédemption, respecter les aînés</p>\n<p><strong>Anathèmes</strong> Être rancunier, porter un jugement hâtif ou désinvolte, se moquer des morts</p>\n<p><strong>Préoccupations</strong> Consolation, respect, et sécurité</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}</p>"
         },
         {
             "id": "The Godclaw",
@@ -758,8 +758,8 @@
         },
         {
             "id": "Angazhan",
-            "name": "Angazhan",
-            "description": ""
+            "name": "Angazhan (Seigneur Démon)",
+            "description": "<p>Angazhan est un nom bien connu dans l'étendue de Mwangi, et pour de bonnes raisons. Appelé le Roi vorace et le Seigneur démoniaque des bêtes, il apparaît comme un énorme et terrifiant singe à fourrure rouge avec six longs doigts à chaque main, massifs et griffus. Ses yeux rouges, ses cornes tordues et ses crocs vicieusement aiguisés lui donnent une apparence démoniaque. Ses adeptes vont des gnolls aux charau-kas en passant par les démons nalfeshnee qui se comptent par milliers.</p> <p>Angazhan a une présence et une influence stupéfiantes, mais cette influence est rivalisée par sa puissance brute. Il est assez habile avec les armes, mais préfère utiliser ses propres capacités - ses poings puissants, ses crocs mortels, ses cornes acérées et sa queue mortelle. Sa terrible emprise s'étend au-delà de la vie, jusque dans la mort. Parfois, ceux qui sont tués au combat par les sbires d'Angazhan sont réincarnés de force en une créature simiesque au service du roi corbeau. Cette malédiction amène la victime à servir éternellement, et ce n'est qu'à sa mort que son âme a une chance d'être récupérée avant qu'elle ne glisse dans l'Ossuaire, pour être envoyée et subir un tourment sans fin dans les Abysses.</p> \n<p>Un engagement envers Angazhan est une promesse d'acquisition de pouvoir. Angazhan encourage ses adeptes à détruire tous ceux qui s'opposent à eux avec une force implacable, à dominer jusqu'à ce qu'il ne reste plus rien à contester, et à traiter les obstacles comme quelque chose à écraser avec rapidité. Ceux qui ne respectent pas ces commandements sont rapidement mis à l'écart. Cette force attire les personnages dangereux, les créatures malhonnêtes et les êtres terrifiants. Les adeptes partagent moins de liens qu'ils ne comprennent qu'en fin de compte, ils servent un seigneur dont la domination ne peut être rivalisée.</p>\n<p>Angazhan est le patron d'Usaro, une ville charau-ka crainte et détestée dans l'étendue de Mwangi. Un représentant d'Angazhan, le Roi Gorille, a autrefois régné sur Usrao, mais il a récemment été tué, plongeant la ville dans le chaos.</p> \n<p><strong>Édits</strong>Commettre des actions violentes, rendre les animaux plus dangereux, se mesurer à la nature</p>\n<p><strong>Anathèmes</strong> Accepter d’être ressuscité au lieu de se réincarner, fuir un combat</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie}</p>"
         },
         {
             "id": "Ardad Lili",
@@ -768,8 +768,8 @@
         },
         {
             "id": "Sarenrae",
-            "name": "Sarenrae",
-            "description": ""
+            "name": "Sarenrae (Mer intérieure)",
+            "description": "<p>Sarenrae est l’une des divinités les plus populaires de Golarion en raison de son association avec le soleil et de sa volonté d’aider les gens à devenir meilleurs, même s’ils ont commis des erreurs. Les gens lui sont reconnaissants de canaliser la puissance du soleil et d’assurer ainsi la sécurité et la survie de tous, et remercient son clergé de prodiguer ses pouvoirs de guérison à tous ceux qui en ont besoin. Les mortels voient dans la Fleur de l’Aube un symbole d’amour illimité, de bonté exceptionnelle et de véritable patience. Ils lui adressent leurs prières afin qu’elle guérisse les malades, secoure les opprimés et illumine les ténèbres véritables et celles de l’esprit. Ses disciples aspirent à l’imiter en faisant preuve de générosité, de sollicitude, de sincérité et de courage désintéressé. Partout, ils se dressent contre le mal, d’abord avec des mots et, si nécessaire, avec un cimeterre et du feu.</p>\n<p><strong>Édits</strong> Détruire les Rejetons de Rovagug, protéger ses alliés, aider les malades et les blessés, chercher et permettre la rédemption.</p>\n<p><strong>Anathèmes</strong> Créer des morts-vivants, mentir, refuser une chance de rédemption à une créature repentante, échouer à terrasser le mal.</p>\n<p><strong>Préoccupations</strong> Guérison, honnêteté, rédemption et soleil</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Vérité} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude} </p>"
         },
         {
             "id": "Desna",
@@ -868,8 +868,8 @@
         },
         {
             "id": "Tsukiyo",
-            "name": "Tsukiyo",
-            "description": ""
+            "name": "Tsukiyo (Mer Intérieure, Tianais)",
+            "description": "<p>La surface de la lune de Golarion est marquée d’une grande balafre. Les habitants du Tian Xia racontent que c’est là que Tsukiyo, le Prince de la Lune, a été terrassé par son frère jaloux Fumeiyoshi. Lorsque son amante Shizuru a trouvé son corps le lendemain matin, ses larmes se sont mélangées au sang du dieu pour créer les premiers morceaux de jade. Shizuru a amené Tsukiyo à Qi Zhong, le dieu de la médecine, qui l’a ressuscité ; mais son expérience de l’au-delà l’a transformé et le dieu turbulent et insouciant est devenu sérieux et capricieux. Sa vision du monde a changé, compliquant énormément ses rapports avec les autres, mais cela lui permet également de se montrer plus compréhensif et d’épauler calmement ceux qui sont perdus, diabolisés ou incompris.</p>\n<p><strong>Édits</strong> Aider et conseiller impartialement ceux qui ont besoin d’aide, aider les morts à trouver le repos, transmettre la parole des individus impuissants ou diabolisés ou les aider à s’exprimer</p>\n<p><strong>Anathèmes</strong> Imposer son aide à ceux qui n’en veulent pas, infliger à autrui des effets mentaux néfastes pour les punir, nuire à autrui par jalousie</p>\n<p><strong>Préoccupations</strong> Jade, la lune, esprits</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.i4UU3qCjIMwejIQF]{Delirium}, @Compendium[pf2e.domains.mBvjWSvg7UYdS9TL]{Lune}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude}, @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme} </p>\n<p><strong>Domaine alternatif</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}</p>"
         },
         {
             "id": "Dagon",
@@ -943,8 +943,8 @@
         },
         {
             "id": "Calistria",
-            "name": "Calistria",
-            "description": ""
+            "name": "Calistria (Mer Intérieure, Elfique)",
+            "description": "<p>Comme l’évoquent les trois dagues qui apparaissent dans son symbole religieux, Calistria a trois aspects : la luxure, la vengeance et la tromperie. Éloquente et charmante, elle instille avec brio des insultes dans ses compliments en tissant la toile complexe de ses représailles. Si elle est une déesse de la vengeance, ce serait une erreur de penser qu’elle cherche la justice. Calistria est inconstante et sa loyauté et ses intérêts changent au gré de ses caprices. Malgré cela, elle n’oublie jamais un affront et tous ceux qui pensent avoir été pardonnés n’ont simplement pas encore compris qu’ils finiraient tôt ou tard par payer pour leur impudence.</p>\n<p><strong>Édits</strong> Conserver sa liberté personnelle, chercher des plaisirs hédonistes, se venger.</p>\n<p><strong>Anathèmes</strong> Se laisser entièrement dévorer par l’amour ou le besoin de vengeance, laisser un affront sans réponse</p>\n<p><strong>Préoccupations</strong> luxure, vengeance et tromperie</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.TpFgfwcWrfT8zVMP]{Souffrance}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}<p>"
         },
         {
             "id": "Besmara",
@@ -998,8 +998,8 @@
         },
         {
             "id": "Jaidz",
-            "name": "Jaidz",
-            "description": ""
+            "name": "Jaidz (Seigneur Empyréen)",
+            "description": "<p>Jaidz est un agathion et puissant Seigneur Empyréen qui cherche à inspirer le courage aux lâches et aux immatures par sa compassion et ses conseils.</p>\n<p><strong>Édits</strong> Affronter ses peurs et en tirer des leçons, encourager les autres à mettre leur courage à l’épreuve, pardonner aux lâches et leur offrir des conseils</p>\n<p><strong>Anathèmes</strong>Éviter systématiquement ce qui fait peur, punir une créature pour sa lâcheté</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage}</p>"
         },
         {
             "id": "Lao Shu Po",
@@ -1038,8 +1038,8 @@
         },
         {
             "id": "Tanagaar",
-            "name": "Tanagaar",
-            "description": ""
+            "name": "Tanagaar (Seigneur Empyréen)",
+            "description": "<p><strong>Édits</strong> Attendre d’avoir l’avantage pour frapper, défendre les frontières légales, surveiller ou patrouiller pour détecter le mal</p>\n<p><strong>Anathèmes</strong> Abandonner son poste, tolérer le braconnage, tourmenter des animaux</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre} </p>"
         },
         {
             "id": "Chohar",
@@ -1068,8 +1068,8 @@
         },
         {
             "id": "Abraxas",
-            "name": "Abraxas",
-            "description": ""
+            "name": "Abraxas (Seigneur Démon)",
+            "description": "<p>Abraxas, le Maître de l’Ultime Incantation, est le seigneur démon des connaissances interdites, de la magie et des serpents. Il dispose d’un savoir encyclopédique de formules magiques et de secrets destructeurs, en particulier ceux qui infligent souffrance et dévastation. Son Ultime Incantation est un mot de pouvoir qui peut dissiper les sorts les plus puissants et briser tout artefact. Il a une apparence humanoïde, avec des jambes vipérines et une tête d’oiseau difforme, au bec rempli de crocs. Les sectes adorant Abraxas sont plus présentes chez les drows de Golarion, mais de petits cercles de ses adorateurs peuvent se trouver dans la plupart des cités importantes de la surface.</p>\n<p><strong>Édits</strong> Découvrir et accumuler de la magie interdite, voler les secrets d’autrui.</p>\n<p><strong>Anathèmes</strong> Détruire des savoirs interdits, dévoiler l’ensemble d’un secret</p>\n<p><strong>Préoccupations</strong> Savoir interdit, magie, et serpents</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.OsM8NfP408uB6yTi]{Parenté dracosire}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}</p>"
         },
         {
             "id": "Winlas",
@@ -1088,13 +1088,13 @@
         },
         {
             "id": "Abadar",
-            "name": "Abadar",
-            "description": ""
+            "name": "Abadar (Mer intérieure)",
+            "description": "<p>Abadar est vénéré comme le dieu des villes, de la loi, des marchands et de la richesse. De nombreuses villes où l’ordre prospère (ou est en train de s’établir) abritent ses banques-cathédrales. Les adorateurs du dieu des villes sont généralement des aristocrates, des gardes municipaux, des marchands, des citoyens travaillant dans le domaine juridique ou qui oeuvrent pour le bien-être de leur communauté, et bien souvent des nains. Les membres du clergé d’Abadar qui vivent en ville occupent souvent des fonctions de juges, d’avocats et de greffiers, tandis que ceux qui vivent dans des zones encore sauvages cumulent souvent les rôles de juge, jury et bourreau itinérant au nom de l’ordre.</p>\n<p><strong>Édits</strong> Apporter la civilisation dans les terres frontalières, devenir riche grâce au commerce et à un dur labeur, obéir à la loi.</p>\n<p><strong>Anathèmes</strong> Se livrer au banditisme ou à la piraterie, voler, saper un tribunal respectueux de la loi</p>\n<p><strong>Préoccupations</strong> Villes, loi, marchands et richesse.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.MRHDhBQvgJhDZ1zq]{Villes}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyages}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesses} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir} </p>"
         },
         {
             "id": "Dispater",
-            "name": "Dispater",
-            "description": ""
+            "name": "Dispater (Archidiable)",
+            "description": "<p>La deuxième strate des Enfers est la cité Infernale, Dis, dont le souverain est l’archidiable Dispater. Le Seigneur de Fer est l’architecte de l’ordre parfait des Enfers, qu’il voit comme un modèle pour le reste du multivers, et est responsable de la stupéfiante et ténébreuse perfection de Dis elle-même. Il se tient à l’écart des manigances et machinations des autres archidiables et du plan Archidiables et du plan matériel, et préfère agir d’une façon calme et délibérée, empreinte d’une arrogance brutale et sans pitié. Il est le plus courtois des archidiables, ce qui attire à lui nombre d’adorateurs parmi ceux qui souhaitent voir la sombre majesté des Enfers se répandre sur l’univers.</p>\n<p><strong>Édits</strong> Faire respecter la loi à la lettre, rechercher la perfection autour de soi, s’exprimer avec raffinement</p>\n<p><strong>Anathèmes</strong> Ne pas respecter son rang, négliger ses défenses, trahir un amant</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir},@Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie}, @Compendium[pf2e.domains.MRHDhBQvgJhDZ1zq]{Villes} </p>"
         },
         {
             "id": "Kols",
@@ -1103,8 +1103,8 @@
         },
         {
             "id": "Dhalavei",
-            "name": "Dhalavei",
-            "description": ""
+            "name": "Dhalavei (Dieu Vudrain)",
+            "description": "<p><strong>Édits</strong> Infiltrer des organisations et des gouvernements vertueux, miner la confiance, pratiquer des sacrifices humains</p>\n<p><strong>Anathèmes</strong> Nuire à ceux qui sont sous la protection de Dhalavei, trahir un autre serviteur de Dhalavei</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "Iomedae",

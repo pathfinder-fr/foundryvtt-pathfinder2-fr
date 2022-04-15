@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 38
- * **changé**: 185
+ * **libre**: 60
+ * **changé**: 163
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-13 20:56 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -34,31 +34,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3ffVxwgtvR1imHm8.htm](deities/3ffVxwgtvR1imHm8.htm)|Gendowyn|Gendowyn|changé|
 |[4bEPoujxhYdUyUOg.htm](deities/4bEPoujxhYdUyUOg.htm)|Ydersius|Ydersius|changé|
 |[4GO4iT585ynLJnc8.htm](deities/4GO4iT585ynLJnc8.htm)|Chaldira|Chaldira|changé|
-|[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis (Ancien dieu osirien)|changé|
 |[6nq25AjImkT5GxDT.htm](deities/6nq25AjImkT5GxDT.htm)|The Prismatic Ray|Le rayon prismatique|changé|
 |[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi (Dieu Tianais)|changé|
-|[aLCfEgt48SRUHnMC.htm](deities/aLCfEgt48SRUHnMC.htm)|Jaidi|Jaidi|changé|
-|[AlL9GtlTldbqNoVm.htm](deities/AlL9GtlTldbqNoVm.htm)|Calistria|Calistria|changé|
-|[AMFkYKUNQ3kCD0ob.htm](deities/AMFkYKUNQ3kCD0ob.htm)|Doloras|Doloras|changé|
-|[ArmPZQrl0SFAKvrY.htm](deities/ArmPZQrl0SFAKvrY.htm)|Ma'at|Maât|changé|
-|[aTYy1WHwAZiuei4h.htm](deities/aTYy1WHwAZiuei4h.htm)|Tsukiyo|Tsukiyo|changé|
-|[aVyxfqY9GBjTqQul.htm](deities/aVyxfqY9GBjTqQul.htm)|Eiseth|Eiseth|changé|
-|[bF77ydtptI54STl9.htm](deities/bF77ydtptI54STl9.htm)|Jaidz|Jaidz|changé|
-|[Bhxji0kxIbMKqdkw.htm](deities/Bhxji0kxIbMKqdkw.htm)|Rovagug|Rovagug|changé|
-|[bLI1JMpI2GXQT5AC.htm](deities/bLI1JMpI2GXQT5AC.htm)|Abraxas|Abraxas|changé|
-|[BLNXYqvzmLgjMq2p.htm](deities/BLNXYqvzmLgjMq2p.htm)|Sun Wukong|Sun Wukong|changé|
-|[BNycwu3I21dTh4D9.htm](deities/BNycwu3I21dTh4D9.htm)|Sarenrae|Sarenrae|changé|
-|[BrbXGyzCeORNyJT5.htm](deities/BrbXGyzCeORNyJT5.htm)|Sifkesh|Siskesh|changé|
-|[Bzfc5mIUfMxOnQWu.htm](deities/Bzfc5mIUfMxOnQWu.htm)|Dahak|Dahak|changé|
-|[c9NFjRR8gr6CWpjl.htm](deities/c9NFjRR8gr6CWpjl.htm)|Black Butterfly|Papillon noir|changé|
-|[CDkr6eXR1lgu7g6A.htm](deities/CDkr6eXR1lgu7g6A.htm)|Andoletta|Andoletta|changé|
-|[cHAbE86pto5bvIWo.htm](deities/cHAbE86pto5bvIWo.htm)|Angazhan|Angazhan|changé|
 |[CnDEoo6WruQCXo1o.htm](deities/CnDEoo6WruQCXo1o.htm)|Lubaiko|Lubaiko|changé|
-|[CzHjFLx4hpIEIoWt.htm](deities/CzHjFLx4hpIEIoWt.htm)|Dispater|Dispater|changé|
-|[d56paSkcwvll2OhR.htm](deities/d56paSkcwvll2OhR.htm)|Abadar|Abadar|changé|
-|[dcbf3pBSNa2q1Kkq.htm](deities/dcbf3pBSNa2q1Kkq.htm)|Dhalavei|Dhalavei|changé|
-|[DEKKbg6riAdL2ARf.htm](deities/DEKKbg6riAdL2ARf.htm)|Hei Feng|Hei Feng|changé|
-|[DFxbPmQLOqcmbPTz.htm](deities/DFxbPmQLOqcmbPTz.htm)|Tanagaar|Tanagaar|changé|
 |[DJ7LDFTtns6YFodT.htm](deities/DJ7LDFTtns6YFodT.htm)|Ashava|Ashava|changé|
 |[Dm8qlzpUj7g82QFv.htm](deities/Dm8qlzpUj7g82QFv.htm)|Erecura|Érécura|changé|
 |[E1dUhoSEf2XfklU2.htm](deities/E1dUhoSEf2XfklU2.htm)|Mother Vulture|Mère Vautour|changé|
@@ -231,6 +209,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[3nxIpMGeCvcBIVov.htm](deities/3nxIpMGeCvcBIVov.htm)|Nyarlathotep (The Crawling Chaos)|Nyarlathotep (Le chaos rampant)|libre|
 |[4I1aVKED08cwcC4H.htm](deities/4I1aVKED08cwcC4H.htm)|Laws of Mortality|Lois de la mortalité|libre|
 |[51kMMWaT6CqpGlGk.htm](deities/51kMMWaT6CqpGlGk.htm)|Achaekek|Achaékek (Mer Intérieure)|libre|
+|[5YUNikBpJZ596MRD.htm](deities/5YUNikBpJZ596MRD.htm)|Anubis|Anubis (Ancien dieu osirien)|libre|
 |[5ZIvg8CkqRMepVcX.htm](deities/5ZIvg8CkqRMepVcX.htm)|Korada|Korada (Seigneur empyréen)|libre|
 |[65o189p2eUPbqaDK.htm](deities/65o189p2eUPbqaDK.htm)|Narriseminek|Narriseminek (Demi-dieux Veilleurs)|libre|
 |[6mgCX7lvKtaEYoa9.htm](deities/6mgCX7lvKtaEYoa9.htm)|Dwarven Pantheon|Panthéon nain|libre|
@@ -256,4 +235,25 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aievwuZalZ2abs2q.htm](deities/aievwuZalZ2abs2q.htm)|Thoth|Thoth (Ancien dieu Osirien)|libre|
 |[aipkJQxP4GBsTaGq.htm](deities/aipkJQxP4GBsTaGq.htm)|Lamashtu|Lamashtu (Mer Intérieure)|libre|
 |[aj4ChTlDcZCmrtJD.htm](deities/aj4ChTlDcZCmrtJD.htm)|Baphomet|Baphomet (Seigneur démon)|libre|
+|[aLCfEgt48SRUHnMC.htm](deities/aLCfEgt48SRUHnMC.htm)|Jaidi|Jaïdi (Dieu Azlanti)|libre|
+|[AlL9GtlTldbqNoVm.htm](deities/AlL9GtlTldbqNoVm.htm)|Calistria|Calistria (Mer Intérieure, Elfique)|libre|
+|[AMFkYKUNQ3kCD0ob.htm](deities/AMFkYKUNQ3kCD0ob.htm)|Doloras|Doloras (Reine de la nuit)|libre|
+|[ArmPZQrl0SFAKvrY.htm](deities/ArmPZQrl0SFAKvrY.htm)|Ma'at|Maât (Ancien dieu osirien)|libre|
+|[aTYy1WHwAZiuei4h.htm](deities/aTYy1WHwAZiuei4h.htm)|Tsukiyo|Tsukiyo (Mer Intérieure, Tianais)|libre|
+|[aVyxfqY9GBjTqQul.htm](deities/aVyxfqY9GBjTqQul.htm)|Eiseth|Eiseth (Reine de la nuit)|libre|
+|[bF77ydtptI54STl9.htm](deities/bF77ydtptI54STl9.htm)|Jaidz|Jaidz (Seigneur Empyréen)|libre|
+|[Bhxji0kxIbMKqdkw.htm](deities/Bhxji0kxIbMKqdkw.htm)|Rovagug|Rovagug (Mer intérieure)|libre|
+|[bLI1JMpI2GXQT5AC.htm](deities/bLI1JMpI2GXQT5AC.htm)|Abraxas|Abraxas (Seigneur Démon)|libre|
+|[BLNXYqvzmLgjMq2p.htm](deities/BLNXYqvzmLgjMq2p.htm)|Sun Wukong|Sun Wukong (Dieu Tianais)|libre|
+|[BNycwu3I21dTh4D9.htm](deities/BNycwu3I21dTh4D9.htm)|Sarenrae|Sarenrae (Mer intérieure)|libre|
+|[BrbXGyzCeORNyJT5.htm](deities/BrbXGyzCeORNyJT5.htm)|Sifkesh|Siskesh (Seigneur Démon)|libre|
+|[Bzfc5mIUfMxOnQWu.htm](deities/Bzfc5mIUfMxOnQWu.htm)|Dahak|Dahak|libre|
+|[c9NFjRR8gr6CWpjl.htm](deities/c9NFjRR8gr6CWpjl.htm)|Black Butterfly|Papillon noir (Seigneur Empyréen)|libre|
+|[CDkr6eXR1lgu7g6A.htm](deities/CDkr6eXR1lgu7g6A.htm)|Andoletta|Andoletta (Seigneur Empyréen)|libre|
+|[cHAbE86pto5bvIWo.htm](deities/cHAbE86pto5bvIWo.htm)|Angazhan|Angazhan (Seigneur Démon)|libre|
+|[CzHjFLx4hpIEIoWt.htm](deities/CzHjFLx4hpIEIoWt.htm)|Dispater|Dispater (Archidiable)|libre|
+|[d56paSkcwvll2OhR.htm](deities/d56paSkcwvll2OhR.htm)|Abadar|Abadar (Mer intérieure)|libre|
+|[dcbf3pBSNa2q1Kkq.htm](deities/dcbf3pBSNa2q1Kkq.htm)|Dhalavei|Dhalavei (Dieu Vudrain)|libre|
+|[DEKKbg6riAdL2ARf.htm](deities/DEKKbg6riAdL2ARf.htm)|Hei Feng|Hei Feng (Mer Intérieure)|libre|
+|[DFxbPmQLOqcmbPTz.htm](deities/DFxbPmQLOqcmbPTz.htm)|Tanagaar|Tanagaar (Seigneur Empyréen)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|

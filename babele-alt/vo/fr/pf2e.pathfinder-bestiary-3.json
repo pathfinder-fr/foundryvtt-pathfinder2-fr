@@ -1777,6 +1777,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "WsuMP3feuXNP1eeE",
+            "name": "Sling",
+            "items-description": ""
+        },
+        {
             "id": "SnFwuUdykz9voojZ",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -1800,6 +1805,11 @@
             "id": "7VXwGJWTdkaP6Ch0",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "oU5HOhztZ5crg339",
+            "name": "Kukri",
+            "items-description": ""
         },
         {
             "id": "k44mSYJOxW3sojaA",
@@ -2042,6 +2052,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "QfgdLYrvrXT358Kh",
+            "name": "Body",
+            "items-description": ""
+        },
+        {
             "id": "AF48h2X3hAjthWZX",
             "name": "Jaws",
             "items-description": ""
@@ -2249,6 +2264,11 @@
         {
             "id": "pXlz78EGb6lw6Aij",
             "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "FYQBhz6UyHtF4h3Q",
+            "name": "Claws",
             "items-description": ""
         },
         {
@@ -2787,6 +2807,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "8JO7dr59w8qgOjKx",
+            "name": "Sling",
+            "items-description": ""
+        },
+        {
             "id": "v9Q0Mz13HzloiDTp",
             "name": "Dagger",
             "items-description": ""
@@ -2897,6 +2922,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "FnIxsS3RE81lmBvi",
+            "name": "Kukri",
+            "items-description": ""
+        },
+        {
             "id": "paacuYr4AiURwRWW",
             "name": "Tail",
             "items-description": ""
@@ -2977,6 +3007,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
         },
         {
+            "id": "XdiuvRsoT9Lh40Vm",
+            "name": "Spike",
+            "items-description": ""
+        },
+        {
             "id": "XFaAhmVWAH18gZJm",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3029,6 +3064,11 @@
         {
             "id": "c3sGdZtwuCDBGlig",
             "name": "Shortbow",
+            "items-description": ""
+        },
+        {
+            "id": "o3fl8ed8HrHnV97F",
+            "name": "Longbow",
             "items-description": ""
         },
         {
@@ -3105,6 +3145,11 @@
             "id": "ehlp9AWnS6V5OAuB",
             "name": "Telepathy 100 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "h8UYIVYJvZxviPCt",
+            "name": "Web",
+            "items-description": ""
         },
         {
             "id": "zxRmkFpH5qKW2WJe",
@@ -3257,6 +3302,11 @@
             "items-description": ""
         },
         {
+            "id": "j1yTlYWclYVbVuCO",
+            "name": "Composite Longbow",
+            "items-description": ""
+        },
+        {
             "id": "10hI8m7tJ9cKdeoE",
             "name": "Hoof",
             "items-description": ""
@@ -3272,9 +3322,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "8IAg57ZRzV51urlh",
+            "name": "Warhammer",
+            "items-description": ""
+        },
+        {
             "id": "xDnUeGZfUafSNkYD",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "8n2FSC3RM16gF3r7",
+            "name": "Falchion",
+            "items-description": ""
         },
         {
             "id": "71ZISy5sK6KLCTyg",
@@ -3289,6 +3349,11 @@
         {
             "id": "LMRK013cxClnSMlQ",
             "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "3b4YyISk8knkUFuM",
+            "name": "Falchion",
             "items-description": ""
         },
         {
@@ -3325,6 +3390,11 @@
             "id": "YAt3ohXujxgfi1dY",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kpySQfuxcXr6ztFA",
+            "name": "Halberd",
+            "items-description": ""
         },
         {
             "id": "tPeyvoLtiaoQbNwJ",
@@ -3577,6 +3647,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
+            "id": "GqtkVnERy0SmBtKA",
+            "name": "Dart",
+            "items-description": ""
+        },
+        {
             "id": "u8fKUkjNFuyL7a5x",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3655,6 +3730,11 @@
             "id": "eoGlb3oqWZjUaNDi",
             "name": "Telepathy 100 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "phH8RreUZhjjwiuo",
+            "name": "Body",
+            "items-description": ""
         },
         {
             "id": "YSVbN2hohx9XI8OH",
@@ -3782,6 +3862,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "zc0tBM6QCWY3pRQR",
+            "name": "Arm",
+            "items-description": ""
+        },
+        {
             "id": "BD35N4Wa7tdNg5y4",
             "name": "Jaws",
             "items-description": ""
@@ -3905,6 +3990,11 @@
             "id": "zeWAnIFSjhteCiiY",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "F9OvUrIH2XqsqnGm",
+            "name": "Root",
+            "items-description": ""
         },
         {
             "id": "k3a4ohAlfjdpm7Ck",
@@ -4265,6 +4355,11 @@
             "id": "8SPxajKwnuThr56n",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "SCWOEv6X8RtegOjU",
+            "name": "Scythe",
+            "items-description": ""
         },
         {
             "id": "F7XOjtJspPrYwCzy",
@@ -5012,6 +5107,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "aNoJsFxQdiX8ZDqx",
+            "name": "Halberd",
+            "items-description": ""
+        },
+        {
             "id": "XjarabsV3GAFA01K",
             "name": "Claw",
             "items-description": ""
@@ -5372,6 +5472,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "ivTJbPtmjGlcioNL",
+            "name": "Halberd",
+            "items-description": ""
+        },
+        {
             "id": "s6k7oyMyiZKIqAar",
             "name": "Claw",
             "items-description": ""
@@ -5502,6 +5607,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
+            "id": "dX486NKkzEeXKpLt",
+            "name": "Composite Longbow",
+            "items-description": ""
+        },
+        {
             "id": "SE2Oc5VGiAxYtDb3",
             "name": "Crossbow",
             "items-description": ""
@@ -5630,6 +5740,11 @@
             "id": "leLKKGPbDbUPHstg",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "bkajUVm6XDKbIO89",
+            "name": "Spike",
+            "items-description": ""
         },
         {
             "id": "0ftgGUzxUSGkDH1w",
@@ -6477,6 +6592,11 @@
             "items-description": ""
         },
         {
+            "id": "KgidUZZqAF6dfZdR",
+            "name": "Bo Staff",
+            "items-description": ""
+        },
+        {
             "id": "zsHciQgmfpHT7Rdu",
             "name": "Jaws",
             "items-description": ""
@@ -6490,6 +6610,11 @@
             "id": "zJy7PDnzhddBqXOb",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "zjRf8vLHR2qRhuCx",
+            "name": "Kukri",
+            "items-description": ""
         },
         {
             "id": "ggqzAen8OXMFadmR",
@@ -6610,6 +6735,11 @@
             "id": "koOLkiJRcE1XYMxS",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "X7keRhNv8rJSPJUM",
+            "name": "Composite Longbow",
+            "items-description": ""
         },
         {
             "id": "O5Ub4Pr4nhdrG6Xy",
@@ -6797,6 +6927,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "2DJRrjRKoxQStF9N",
+            "name": "Kukri",
+            "items-description": ""
+        },
+        {
             "id": "85a0vfvP7BEWaC7o",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -6832,6 +6967,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "GugfZAMFY5fRgjN3",
+            "name": "Longbow",
+            "items-description": ""
+        },
+        {
             "id": "lYRZM8I1flblujiU",
             "name": "Negative Healing",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -6855,6 +6995,11 @@
             "id": "B0U6YmeB8UGglyGa",
             "name": "Tremorsense (Imprecise) 60 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
+            "id": "VBA2WIH3wy9R2XsO",
+            "name": "Kukri",
+            "items-description": ""
         },
         {
             "id": "TM9l7vqFbUf1UCLT",
@@ -7119,6 +7264,11 @@
         {
             "id": "xIt4uW4tEMRY5Y7p",
             "name": "Fist",
+            "items-description": ""
+        },
+        {
+            "id": "OTkxsBzxKFuPWRCX",
+            "name": "Composite Longbow",
             "items-description": ""
         },
         {
