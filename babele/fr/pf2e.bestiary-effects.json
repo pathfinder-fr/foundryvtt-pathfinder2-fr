@@ -57,6 +57,11 @@
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaques et 10 points de vie temporaires.</p>"
         },
         {
+            "id": "Effect: Splintered Ground (Critical Failure)",
+            "name": "Effet : Champ d'esquilles (Échec critique)",
+            "description": "<p>La créature subit une pénalité de circonstance de -4,5 m à toutes ses Vitesses.</p>"
+        },
+        {
             "id": "Effect: Adaptive Strike",
             "name": "Effet : Frappe adaptative",
             "description": "<p>Les Frappes au corps-à-corps de la créature comptent soit comme de l'adamantium, du fer froid ou de l'argent.</p>"
@@ -163,7 +168,7 @@
         },
         {
             "id": "Effect: Splintered Ground",
-            "name": "Effet : Sol fracturé",
+            "name": "Effet : Champ d'esquilles",
             "description": "<p>La créature subit une pénalité de circonstances de -3 mètres à toutes ses Vitesses.</p>"
         },
         {

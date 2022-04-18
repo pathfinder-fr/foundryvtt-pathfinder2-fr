@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 60
- * **changé**: 163
+ * **libre**: 85
+ * **changé**: 138
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -37,31 +37,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6nq25AjImkT5GxDT.htm](deities/6nq25AjImkT5GxDT.htm)|The Prismatic Ray|Le rayon prismatique|changé|
 |[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi (Dieu Tianais)|changé|
 |[CnDEoo6WruQCXo1o.htm](deities/CnDEoo6WruQCXo1o.htm)|Lubaiko|Lubaiko|changé|
-|[DJ7LDFTtns6YFodT.htm](deities/DJ7LDFTtns6YFodT.htm)|Ashava|Ashava|changé|
-|[Dm8qlzpUj7g82QFv.htm](deities/Dm8qlzpUj7g82QFv.htm)|Erecura|Érécura|changé|
-|[E1dUhoSEf2XfklU2.htm](deities/E1dUhoSEf2XfklU2.htm)|Mother Vulture|Mère Vautour|changé|
-|[EE8sNM4JraOPN669.htm](deities/EE8sNM4JraOPN669.htm)|Cernunnos|Cernunnos|changé|
-|[eErEiVmBqltYXFJ6.htm](deities/eErEiVmBqltYXFJ6.htm)|Iomedae|Iomédae|changé|
-|[EFyDjlH7XjGq7Erd.htm](deities/EFyDjlH7XjGq7Erd.htm)|Isis|Isis|changé|
-|[ENzMYuzBZGIujSMx.htm](deities/ENzMYuzBZGIujSMx.htm)|Treerazer|Fléau des arbres|changé|
-|[EUOAV02rHz96jMPh.htm](deities/EUOAV02rHz96jMPh.htm)|Whispering Way|Voie du murmure|changé|
-|[eyGEoggFlTEUQmvJ.htm](deities/eyGEoggFlTEUQmvJ.htm)|Bes|Bès|changé|
-|[fTJLgTfEMZreJ19r.htm](deities/fTJLgTfEMZreJ19r.htm)|Milani|Milani|changé|
-|[fTs56epghXwclPcX.htm](deities/fTs56epghXwclPcX.htm)|Stag Mother of the Forest of Stones|Mère cerf de la forêt de pierres|changé|
-|[fuPTR1laXO6EionS.htm](deities/fuPTR1laXO6EionS.htm)|Grandmother Spider|Grand-mère araignée|changé|
-|[g1AVEGi8QibhS007.htm](deities/g1AVEGi8QibhS007.htm)|Walkena|Walkena|changé|
-|[g1VxllMjs2YRIJAm.htm](deities/g1VxllMjs2YRIJAm.htm)|Moloch|Moloch|changé|
-|[GEBaoeiv5CB9h2Bn.htm](deities/GEBaoeiv5CB9h2Bn.htm)|Ragathiel|Ragathiel|changé|
-|[giAsBYiL2omr0x2L.htm](deities/giAsBYiL2omr0x2L.htm)|Qi Zhong|Qi Zhong|changé|
-|[gsFaxWHbZmc1moY6.htm](deities/gsFaxWHbZmc1moY6.htm)|Nalinivati|Nalinivati|changé|
-|[GUmYLD7PGmE2TOx6.htm](deities/GUmYLD7PGmE2TOx6.htm)|Wadjet|Wadjet|changé|
 |[gutbzYTZvRTnq4on.htm](deities/gutbzYTZvRTnq4on.htm)|Adanye|Adanye|changé|
-|[GX6PF9ifR47Xyjg9.htm](deities/GX6PF9ifR47Xyjg9.htm)|Norgorber|Norgorber|changé|
-|[gXHoxuuiAD54LnWV.htm](deities/gXHoxuuiAD54LnWV.htm)|Cyth-V'sug|Cyth-V'sug|changé|
-|[gxwmzxUWBOhdgFSN.htm](deities/gxwmzxUWBOhdgFSN.htm)|Shelyn|Shélyn|changé|
-|[H1VrZ1QX0d2aPXT8.htm](deities/H1VrZ1QX0d2aPXT8.htm)|Dammerich|Dammerich|changé|
-|[HbuynQRCjGKtbhcC.htm](deities/HbuynQRCjGKtbhcC.htm)|The Lost Prince|Le prince perdu|changé|
-|[HD7g8T8ioy1EH3M8.htm](deities/HD7g8T8ioy1EH3M8.htm)|Bolka|Bolka|changé|
 |[hhV2g6aU8jKLEca1.htm](deities/hhV2g6aU8jKLEca1.htm)|Narakaas|Narakaas|changé|
 |[HtRxo4J3elFteIqu.htm](deities/HtRxo4J3elFteIqu.htm)|Arazni|Arazni|changé|
 |[hWTTS0e7J9hJfsp3.htm](deities/hWTTS0e7J9hJfsp3.htm)|Matravash|Matravash|changé|
@@ -159,7 +135,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vEMCpm7iidycRT5D.htm](deities/vEMCpm7iidycRT5D.htm)|Brigh|Brigh|changé|
 |[VEyowuhC4FsBnG8c.htm](deities/VEyowuhC4FsBnG8c.htm)|Folgrit|Folgrit|changé|
 |[VG51y4FbTLdeGHZB.htm](deities/VG51y4FbTLdeGHZB.htm)|The Path of the Heavens|Le chemin des cieux|changé|
-|[vnmoAGURp8oWCY6R.htm](deities/vnmoAGURp8oWCY6R.htm)|Soralyon|Soralyon|changé|
 |[VRPVppdQ4W0oXeB1.htm](deities/VRPVppdQ4W0oXeB1.htm)|Alocer|Alocer|changé|
 |[vSUz97Y29l1O50bC.htm](deities/vSUz97Y29l1O50bC.htm)|Count Ranalc|Comte Ranalc|changé|
 |[VvxEvEKhCGRwrMJp.htm](deities/VvxEvEKhCGRwrMJp.htm)|Imbrex|Imbrex|changé|
@@ -256,4 +231,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dcbf3pBSNa2q1Kkq.htm](deities/dcbf3pBSNa2q1Kkq.htm)|Dhalavei|Dhalavei (Dieu Vudrain)|libre|
 |[DEKKbg6riAdL2ARf.htm](deities/DEKKbg6riAdL2ARf.htm)|Hei Feng|Hei Feng (Mer Intérieure)|libre|
 |[DFxbPmQLOqcmbPTz.htm](deities/DFxbPmQLOqcmbPTz.htm)|Tanagaar|Tanagaar (Seigneur Empyréen)|libre|
+|[DJ7LDFTtns6YFodT.htm](deities/DJ7LDFTtns6YFodT.htm)|Ashava|Ashava (Seigneur Empyréen)|libre|
+|[Dm8qlzpUj7g82QFv.htm](deities/Dm8qlzpUj7g82QFv.htm)|Erecura|Érécura|libre|
+|[E1dUhoSEf2XfklU2.htm](deities/E1dUhoSEf2XfklU2.htm)|Mother Vulture|Mère Vautour (Demi-dieu Veilleur)|libre|
+|[EE8sNM4JraOPN669.htm](deities/EE8sNM4JraOPN669.htm)|Cernunnos|Cernunnos (Seigneur Empyréen)|libre|
+|[eErEiVmBqltYXFJ6.htm](deities/eErEiVmBqltYXFJ6.htm)|Iomedae|Iomédae (Mer Intérieure)|libre|
+|[EFyDjlH7XjGq7Erd.htm](deities/EFyDjlH7XjGq7Erd.htm)|Isis|Isis (Ancien dieu Osirien)|libre|
+|[ENzMYuzBZGIujSMx.htm](deities/ENzMYuzBZGIujSMx.htm)|Treerazer|Fléau des arbres (Seigneur Démon)|libre|
+|[EUOAV02rHz96jMPh.htm](deities/EUOAV02rHz96jMPh.htm)|Whispering Way|Voie du murmure|libre|
+|[eyGEoggFlTEUQmvJ.htm](deities/eyGEoggFlTEUQmvJ.htm)|Bes|Bès (Ancien dieu Osirien)|libre|
+|[fTJLgTfEMZreJ19r.htm](deities/fTJLgTfEMZreJ19r.htm)|Milani|Milani (Mer intérieure)|libre|
+|[fTs56epghXwclPcX.htm](deities/fTs56epghXwclPcX.htm)|Stag Mother of the Forest of Stones|Mère Élaphe de la Forêt de pierres (Dieu Sarkarien)|libre|
+|[fuPTR1laXO6EionS.htm](deities/fuPTR1laXO6EionS.htm)|Grandmother Spider|Grand-mère araignée (Mer intérieure)|libre|
+|[g1AVEGi8QibhS007.htm](deities/g1AVEGi8QibhS007.htm)|Walkena|Walkena|libre|
+|[g1VxllMjs2YRIJAm.htm](deities/g1VxllMjs2YRIJAm.htm)|Moloch|Moloch (Archidiable)|libre|
+|[GEBaoeiv5CB9h2Bn.htm](deities/GEBaoeiv5CB9h2Bn.htm)|Ragathiel|Ragathiel (Seigneur Empyréen)|libre|
+|[giAsBYiL2omr0x2L.htm](deities/giAsBYiL2omr0x2L.htm)|Qi Zhong|Qi Zhong (Dieu Tianais)|libre|
+|[gsFaxWHbZmc1moY6.htm](deities/gsFaxWHbZmc1moY6.htm)|Nalinivati|Nalinivati (Dieu Tianais)|libre|
+|[GUmYLD7PGmE2TOx6.htm](deities/GUmYLD7PGmE2TOx6.htm)|Wadjet|Wadjet (Ancien dieu osirien)|libre|
+|[GX6PF9ifR47Xyjg9.htm](deities/GX6PF9ifR47Xyjg9.htm)|Norgorber|Norgorber (Mer Intérieure)|libre|
+|[gXHoxuuiAD54LnWV.htm](deities/gXHoxuuiAD54LnWV.htm)|Cyth-V'sug|Cyth-V'sug (Seigneur Démon)|libre|
+|[gxwmzxUWBOhdgFSN.htm](deities/gxwmzxUWBOhdgFSN.htm)|Shelyn|Shélyn (Mer Intérieure)|libre|
+|[H1VrZ1QX0d2aPXT8.htm](deities/H1VrZ1QX0d2aPXT8.htm)|Dammerich|Dammerich (Seigneur Empyréen)|libre|
+|[HbuynQRCjGKtbhcC.htm](deities/HbuynQRCjGKtbhcC.htm)|The Lost Prince|Le prince perdu (Aîné)|libre|
+|[HD7g8T8ioy1EH3M8.htm](deities/HD7g8T8ioy1EH3M8.htm)|Bolka|Bolka (Dieu Nain)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|
+|[vnmoAGURp8oWCY6R.htm](deities/vnmoAGURp8oWCY6R.htm)|Soralyon|Soralyon (Seigneur Empyréen)|libre|

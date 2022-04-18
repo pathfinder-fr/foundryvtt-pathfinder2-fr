@@ -3,8 +3,8 @@
     "entries": [
         {
             "id": "Stag Mother of the Forest of Stones",
-            "name": "Mère cerf de la forêt de pierres",
-            "description": ""
+            "name": "Mère Élaphe de la Forêt de pierres (Dieu Sarkarien)",
+            "description": "<p><strong>Édits</strong> Agir en tant que gardien responsable de son environnement, offrir un abri et de l’aide aux femmes et aux enfants dans le besoin</p>\n<p><strong>Anathèmes</strong> Porter atteinte à une mère enceinte ou à un enfant innocent (animaux compris)</p>\n<hr />\n<strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.TpFgfwcWrfT8zVMP]{Souffrance} </p>"
         },
         {
             "id": "Sifkesh",
@@ -38,8 +38,8 @@
         },
         {
             "id": "Milani",
-            "name": "Milani",
-            "description": ""
+            "name": "Milani (Mer intérieure)",
+            "description": "<p>Milani est la protectrice de ceux qui luttent contre l’oppression et elle récompense ceux qui sont prêts à sacrifier leur vie et à utiliser tous les outils à leur disposition pour se battre au nom des opprimés, en particulier s’il s’agit de personnes capturées ou réduites en esclavage. Dans tout Golarion, Milani est également connue sous le nom de Bourgeon Éternel, car le symbole de son culte est une magnifique rose émergeant d’un sol imbibé de sang.</p>\n<p><strong>Édits</strong> affronter l’oppression sous toutes ses formes, défendre le peuple, surmonter le désespoir pour obtenir la victoire</p>\n<p><strong>Anathèmes</strong> Affronter l’oppression sous toutes ses formes, défendre le peuple, surmonter le désespoir pour obtenir la victoire</p>\n<p><strong>Préoccupations</strong> Dévotion, espoir et insurrections</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.J7K7kHoIE69558Su]{Liberté}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Zyphus",
@@ -58,8 +58,8 @@
         },
         {
             "id": "Mother Vulture",
-            "name": "Mère Vautour",
-            "description": ""
+            "name": "Mère Vautour (Demi-dieu Veilleur)",
+            "description": "<p>Bien qu’elle adopte le plus souvent l’aspect d’une jeune femme aveugle, sous sa forme naturelle, la Mangeuse de Chair est une créature énorme et boursouflée dotée de quatre ailes et de deux longs cous surmontés de têtes masquées aux gueules béantes. Mère Vautour reflète la nature duale du processus de décomposition. Elle est tout à la fois une tueuse brutale Demi-dieux veilleurs qui détrempe le sol du sang de ses festins, représentant la mort liée à la décomposition, et une mère attentionnée, symbolisant la vie nouvelle prenant racine dans le sol fertilisé par la destruction. Les adorateurs mortels de Mère Vautour vivent souvent dans les déserts ou les marais, et la vénèrent en tant que protectrice de la consommation, du renouveau et de la transformation. Le dernier de ces rôles l’amène à juger les âmes qui cherchaient la rédemption au cours de leur vie, en décidant si leur expiation fut suffisante pour leur épargner un au-delà non désiré.</p>\n<p><strong>Édits</strong> Manger la chair de ses semblables, participer à l’éducation des enfants, récupérer la pourriture et les déchets pour en faire des créations utiles, tuer sans pitié si cela profite à sa communauté</p>\n<p><strong>Anathèmes</strong> Créer des morts-vivants, empoisonner des insectes ou des charognards, gaspiller de la nourriture ou de bons produits, laisser la pourriture empoisonner une région</p>\n<p><strong>Préoccupations</strong> consommation, renouveau, et transformation</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature} </p>"
         },
         {
             "id": "Charon",
@@ -148,8 +148,8 @@
         },
         {
             "id": "Dammerich",
-            "name": "Dammerich",
-            "description": ""
+            "name": "Dammerich (Seigneur Empyréen)",
+            "description": "<p><strong>Édits</strong> Étudier les lois locales, procéder à des exécutions justes, s’opposer aux fonctionnaires corrompus ou sanguinaires</p>\n<p><strong>Anathèmes</strong> Exécuter un innocent, incriminer quelqu’un à tort, se moquer d’un condamné, tuer sans réfléchir</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité} </p>"
         },
         {
             "id": "Yamatsumi",
@@ -183,13 +183,13 @@
         },
         {
             "id": "Treerazer",
-            "name": "Fléau des arbres",
-            "description": ""
+            "name": "Fléau des arbres (Seigneur Démon)",
+            "description": "<p>Le Fléau des Arbres, seigneur du lac Dévasté, est le seigneur démon en devenir de la pollution et de la corruption de la nature. Beaucoup croient qu’il est un serviteur ou un rejeton banni de Cyth-V’sug, qui l’aurait exilé sur Golarion après qu’il eut échoué dans sa tentative de renverser le seigneur démon. En tant que seigneur démon naissant, il n’est pas encore aussi puissant qu’un vrai seigneur démon, mais il est peut-être le plus remarquable de ceux qui s’investissent sur Golarion en raison de sa présence physique dans le Roncier, un marais fétide et corrompu qui jadis formait les marches méridionales de la nation elfique du Kyonin. De dévoués sectateurs le servent dans le Kyonin et les territoires adjacents, mais de petits groupes de croyants travaillent pour lui partout sur Golarion, dans l’espoir de le libérer et de profiter de ses faveurs après son ascension.</p>\n<p><strong>Édits</strong> Corrompre la vie végétale, se délecter de chair pourrie ou de champignons, tuer des elfes</p>\n<p><strong>Anathèmes</strong> Faire preuve de clémence envers des elfes, favoriser la croissance naturelle des plantes, planter des arbres</p>\n<p><strong>Préoccupations</strong> Pollution et corruption de la nature</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.a0fe0kFowMMwUFZa]{Cauchemars}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Bes",
-            "name": "Bès",
-            "description": ""
+            "name": "Bès (Ancien dieu Osirien)",
+            "description": "<p>Bès vénérée par les anciens osiriens est un membre de leur panthéon.</p>\n<p><strong>Édits</strong> Accompagner un accouchement, répandre la joie et la fête, protéger les créatures endormies</p>\n<p><strong>Anathèmes</strong> Blesser ou négliger un enfant, séparer des familles, utiliser la magie pour corrompre les rêves</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.l2EFJssJKu7rG77m]{Chance}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}"
         },
         {
             "id": "Magdh",
@@ -228,13 +228,13 @@
         },
         {
             "id": "Isis",
-            "name": "Isis",
-            "description": ""
+            "name": "Isis (Ancien dieu Osirien)",
+            "description": "<p>Isis vénérée par les anciens osiriens est un membre de leur panthéon.</p>\n<p><strong>Édits</strong> Accomplir des rites de purification avant de pénétrer dans les lieux sacrés, aider les malades et les blessés, faire le deuil des êtres chers, utiliser la magie pour aider autrui</p>\n<p><strong>Anathèmes</strong> Discriminer quelqu’un en fonction de son statut social, révéler des rites sacrés aux non-initiés, trahir ses enfants ou son partenaire</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion} </p>"
         },
         {
             "id": "Moloch",
-            "name": "Moloch",
-            "description": ""
+            "name": "Moloch (Archidiable)",
+            "description": "<p>Moloch, le généralissime des armées des Enfers, incarne leur discipline infernale et leur incomparable pouvoir de destruction. Dans son royaume de Malebolge, la sixième strate des Enfers, le Taureau Cendré forme d’innombrables légions de diables pour se préparer à une guerre sans fin. Il inculque et exige l’obéissance absolue, et l’insubordination ou les faux pas même les plus insignifiants sont immédiatement et férocement punis. Malgré sa nature cruelle, Moloch est, de tous les archidiables, le plus largement vénéré parmi les mortels, car le plus susceptible de répondre à leurs prières, même les plus prosaïques. En échange, il ne demande que leur âme, qui ira rejoindre les rangs de ses immenses armées – un prix que beaucoup sont prêts à payer.</p>\n<p><strong>Édits</strong> Convertir des communautés au seul culte de Moloch, propager l’ordre des enfers par la guerre, sacrifier des créatures par le feu</p>\n<p><strong>Anathèmes</strong> Désobéir à un supérieur militaire, fuir un combat (sauf s’il s’agit d’un ordre), laisser les vices émousser votre talent martial</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance} </p>"
         },
         {
             "id": "Sairazul",
@@ -249,7 +249,7 @@
         {
             "id": "Erecura",
             "name": "Érécura",
-            "description": ""
+            "description": "<p>Érecura est la reine de Dis, deuxième strate des Enfers, et l'épouse de son dirigeant, l'archidiable Dispater. Bien qu'elle soit une figure d'autorité de l'Enfer, ses perspectives et ses motivations sont très éloignées de celles des diables, et peu claires, même pour son propre mari.</p>\n<p><strong>Édits</strong> Manipuler des êtres dangereux et des opportunités à son avantage, prédire le futur, prospérer dans des situations adverses</p>\n<p><strong>Anathèmes</strong> Saccager la nature, tuer une plante ou un animal qui a réussi à survivre hors de son environnement naturel</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.KzuJAIWdjwoPjHkc]{Secret}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tomperie}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité} </p>"
         },
         {
             "id": "Vildeis",
@@ -328,8 +328,8 @@
         },
         {
             "id": "Bolka",
-            "name": "Bolka",
-            "description": ""
+            "name": "Bolka (Dieu Nain)",
+            "description": "<p>Bolka est la déesse naine du mariage. Elle est la fille du dieu nain Torag et de son épouse Folgrit. On dit de Bolka qu'elle est une belle jeune fille naine. En tant que déesse du mariage chez les nains, elle aide les prétendants réticents à rassembler le courage nécessaire pour demander à leur partenaire et aide à favoriser l'amour entre les partenaires d'un mariage arrangé.</p>\n<p><strong>Édits</strong> Chercher la beauté chez autrui, encourager ceux qui cherchent l’amour, encourager les relations d’autrui</p>\n<p><strong>Anathèmes</strong> Briser un mariage authentique, empêcher un soupirant de trouver son conjoint, trahir son conjoint</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion} </p>"
         },
         {
             "id": "Findeladlara",
@@ -398,8 +398,8 @@
         },
         {
             "id": "Norgorber",
-            "name": "Norgorber",
-            "description": ""
+            "name": "Norgorber (Mer Intérieure)",
+            "description": "<p>Norgorber est le plus mystérieux des Exaltés, ces mortels qui ont accédé à la divinité en réussissant l’épreuve de la Pierrétoile. Contrairement à Iomédae e t Cayden Cailéan, la vie de Norgorber avant son ascension est un mystère qu’il contribue à entretenir. Pour ceux qui le connaissent, ce n’est pas une surprise. Il s’agit en effet du maître des secrets, un manipulateur calculateur qui exploite habilement et impitoyablement les secrets qu’il possède pour parvenir à ses propres fins. Seuls ses adorateurs les plus fidèles en savent assez sur ses objectifs pour aider leur dieu et même eux voient souvent leur mémoire modifiée une fois qu’ils ont joué leur rôle dans les plans de Norgorber.</p>\n<p><strong>Édits</strong> Garder le secret sur sa véritable identité, sacrifier quelqu’un s’il le faut, profiter de tous les avantages possibles en combat, oeuvrer dans l’ombre</p>\n<p><strong>Anathèmes</strong> Laisser sa véritable identité être associée à ses sinistres affaires, partager librement un secret, montrer de la pitié</p>\n<p><strong>Préoccupations</strong> Avidité, meurtre, poison et secret</p>\n<p><strong>Alignements des fidèles</strong> LM, NM, CM, plus N pour le Faucheur de réputation</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse} </p>"
         },
         {
             "id": "God Calling",
@@ -443,8 +443,8 @@
         },
         {
             "id": "Cernunnos",
-            "name": "Cernunnos",
-            "description": ""
+            "name": "Cernunnos (Seigneur Empyréen)",
+            "description": "<p>Conscient qu'il est toujours une personne malgré son pouvoir, Cernunnos forme des commandants et des émissaires pour combattre le mal à la fois dans le Plan Matériel et dans le Premier Monde. Les fidèles de Cernunnos sont principalement des créatures végétales intelligentes, des fées et des rôdeurs et druides mortels. Les elfes le considèrent comme le patron de la chance, tandis que d'autres le prient pour la force. Les bosquets cachés, les chutes d'eau et les forêts profondes sont sacrés pour Cernunnos.</p>\n<p><strong>Édits</strong> Défendre les animaux et les plantes, entreprendre des actions décisives et s’y tenir, protéger les forêts et autres zones naturelles</p>\n<p><strong>Anathèmes</strong> Ne pas réussir à vaincre le mal, permettre la destruction de la nature sauvage, tuer inutilement des animaux</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ywn4ODaUt382Z3Nz]{Foudre}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Gendowyn",
@@ -458,8 +458,8 @@
         },
         {
             "id": "Cyth-V'sug",
-            "name": "Cyth-V'sug",
-            "description": ""
+            "name": "Cyth-V'sug (Seigneur Démon)",
+            "description": "<p>Cyth-V’sug, Prince de la Lande Flétrie, est le seigneur démon des maladies, des champignons et des parasites. Jadis un seigneur parmi les qlippoths, il fut banni par ses pairs pour avoir accepté l’adoration de mortels. Transformé depuis en l’un des démons qu’il méprise, il cherche à dévorer toute vie pour exterminer tous les démons – et lui-même en dernier lieu. Il adopte le plus souvent l’apparence d’une créature draconique gigantesque, faite de lianes enchevêtrées, d’excroissances fongiques et de tentacules trépignants. Cyth-V’sug est le plus souvent vénéré par des reclus qui veulent corrompre et détruire leur environnement. Toutefois, certains résidents d’Ombreterre lui rendent aussi hommage.</p>\n<p><strong>Édits</strong> Corrompre tout ce qui existe à l’aide de parasites ou de champignons, favoriser la croissance des champignons, se délecter de chair pourrie ou de champignons</p>\n<p><strong>Anathèmes</strong> Purifier sa nourriture, soigner une maladie ou tuer un parasite, tolérer un autre seigneur démon ou ses serviteurs (à l’exception du @Compendium[pf2e.pathfinder-bestiary.8BloAdRqlLpt5bNg]{Fléau des arbres})</p>\n<p><strong>Préoccupations</strong> Maladie, champignons et parasites</p>\n<hr />\n<p><strong>Domaines</strong>{Changement}, {Décomposition}, {Fléau}, {Nature} <p>"
         },
         {
             "id": "Luhar",
@@ -473,8 +473,8 @@
         },
         {
             "id": "Soralyon",
-            "name": "Soralyon",
-            "description": ""
+            "name": "Soralyon (Seigneur Empyréen)",
+            "description": "<p>Les gardiens, les monuments et la magie sont du domaine de l’Ange mystique. Soralyon pense que les monuments et les ruines forment d’importants liens vers le passé. Il est donc absolument essentiel de les protéger de ceux qui voudraient les profaner ou les détruire, faute de quoi les gens oublieraient ce qu’ils sont, d’où ils viennent et ce qu’ils ont accompli. Ainsi, ceux qui assurent la garde des ruines et monuments sont bénis de Soralyon, de même que ceux qui étudient les monuments du passé comme du présent avec respect ou qui cherchent à les préserver pour la postérité. La protection d’autrui, mais surtout de ceux qui étudient et préservent les reliques du passé, a également beaucoup de valeur aux yeux de Soralyon. Comme la magie est un outil utile pour protéger, étudier et préserver ces monuments et ces gens, il en encourage l’étude, de préférence pour servir à apprendre ou protéger. Quand l’Ange mystique se présente à des mortels, c’est le plus souvent sous l’apparence d’un bel être de marbre poli, en général dans les teintes et variétés locales les plus courantes de ce matériau. Les adorateurs de Soralyon comprennent des archéologues et des historiens, des gardes du corps et des gardiens, des sculpteurs et des conservateurs ainsi que des incantateurs arcaniques.</p>\n<p><strong>Édits</strong> Étudier des monuments, fabriquer des golems et des oeuvres d’art en pierre, protéger les sites anciens</p>\n<p><strong>Anathèmes</strong> Déterrer sciemment des monuments maléfiques, détruire des artefacts historiques, profaner des bâtiments sacrés</p>\n<p><strong>Préoccupations</strong> Gardiens, monuments, et magie</p>\n<hr/ >\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre} </p>"
         },
         {
             "id": "Valmallos",
@@ -578,8 +578,8 @@
         },
         {
             "id": "Grandmother Spider",
-            "name": "Grand-mère araignée",
-            "description": ""
+            "name": "Grand-mère araignée (Mer intérieure)",
+            "description": "<p>Également connue sous le nom de Nana Anadi, Grand-Mère Araignée a d’abord été au service des autres dieux, chargée de tisser le destin et la réalité dans la toile de l’existence. Furieuse d’être reléguée à un poste de laquais, elle a entrepris de ridiculiser les grands dieux en semant le désordre et en jouant de mauvais tours. Elle a ainsi volé et fait une copie des clés d’Asmodeus, causant un chaos généralisé, et s’est accaparé une partie du feu de Sarenrae, détournant ainsi de nombreux adeptes de leur chemin. Évitant habilement de se faire punir pour ses frasques, Grand-Mère Araignée a retissé les fils du destin afin de s’accorder la liberté. Elle exhorte régulièrement son frère Achaékek à suivre son exemple et se rebeller contre les dieux. S’il refuse toujours et semble indifférent, Achaékek s’est, en une occasion notable, vengé de ceux qui faisaient du mal à sa soeur et à ses disciples.</p>\n<p>En raison de l’animosité qu’éprouve Asmodeus à son égard, le culte de Grand-Mère Araignée est pratiquement inconnu en Avistan. Elle est traditionnellement vénérée au Garund et parmi les anadis, dont elle a guidé les ancêtres à travers les ténèbres et jusqu’à la liberté. Rares sont les temples dédiés à Grand-Mère Araignée. Ses lieux de culte sont plutôt des écoles ou de petits autels situés au bord de chemins ou dans des maisons et qui consistent en une figurine d’araignée, un métier à tisser ou un objet tissé. On trouve également des losanges tissés représentant le symbole religieux de Grand-Mère Araignée dans les temples d’autres divinités, notamment ceux des Exaltés, ces dieux qui étaient autrefois mortels.</p>\n<p><strong>Édits</strong> Être habile et intelligent, être payé pour son travail, humilier les puissants, penser par soi-même</p>\n<p><strong>Anathèmes</strong> abuser du pouvoir que vous avez sur quelqu’un, ne pas répondre à un affront, nuire à quelqu’un qui a fait preuve d’une bonté sincère envers vous, posséder un esclave</p>\n<p><strong>Préoccupations</strong> Famille, illusions, histoires, crépuscule, tissage</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.8pPvbTMZLIsvCwQk]{Ténèbres} </p>"
         },
         {
             "id": "Asmodeus",
@@ -638,8 +638,8 @@
         },
         {
             "id": "Ashava",
-            "name": "Ashava",
-            "description": ""
+            "name": "Ashava (Seigneur Empyréen)",
+            "description": "<p>Ashava, l’Étincelle Véritable, personnifie la clarté lunaire, la danse et les esprits solitaires. La danse est la véritable passion d’Ashava. Elle encourage ses adorateurs à danser le plus souvent possible. Pour certains, elle n’est guère que la protectrice de cet art, mais Ashava agit aussi comme guide tant dans le monde des esprits que dans le monde physique. Au profit des vivants, elle aide les solitaires à passer les périodes difficiles Seigneurs empyréens et ses lumières guident les voyageurs égarés pour qu’ils retrouvent la sécurité. Pour les morts, ses danses au clair de lune guident les esprits égarés et solitaires vers le jugement dernier. Elle encourage ses fidèles à guider ceux qui sont perdus – dans la nature ou au fond de leur coeur – vers leur destination. Les prêtres d’Ashava sont la lumière dansante qui montre le chemin, mais les feux follets sont anathèmes pour Ashava, et ses fidèles détruisent ces créatures où qu’elles soient.</p>\n<p>L’Étincelle Véritable prend l’apparence d’une femme de haute taille qui rayonne des efforts fournis pour ses danses prolongées. Ses traits sont difficiles à percevoir, sauf à la lueur de la lune ; ils apparaissent alors étonnamment précis. Elle porte une robe magnifique, tissée dans la lumière stellaire et toujours en mouvement. Elle-même semble ne jamais pouvoir rester immobile. Elle est coiffée d’une couronne de mousse multicolore. Parmi les adorateurs d’Ashava se trouvent des danseurs, des artistes, des amants et des voyageurs, mais aussi des gens qui vivent la nuit, ou d’autres qui sont esseulés ou en deuil.</p>\n<p><strong>Édits</strong> Danser même en l’absence de musique, guider les égarés, illuminer les ténèbres</p>\n<p><strong>Anathèmes</strong> Abandonner une créature dans l’obscurité, profaner des tombes, tromper intentionnellement quelqu’un</p>\n<p><strong>Préoccupations</strong> Lumière de la lune, danse et esprits esseulés</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âmes}, @Compendium[pf2e.domains.mBvjWSvg7UYdS9TL]{Lune}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude}, @Compendium[pf2e.domains.8pPvbTMZLIsvCwQk]{Ténèbres} </p>"
         },
         {
             "id": "Kazutal",
@@ -799,7 +799,7 @@
         {
             "id": "Walkena",
             "name": "Walkena",
-            "description": ""
+            "description": "<p><p>Dans la cité-état de Mzali, dans l'étendue de Mwangi, réside un être mort-vivant d'une immense puissance, un dieu-roi de la taille d'un enfant. Dans le passé, Walkena était un descendant mortel des dieux qui régnaient sur Mzali dans les temps anciens, l'un des rois soleil d'un ancien empire et d'un âge d'or de la cité. Des années plus tard, son corps préservé a été retrouvé par des membres du Conseil de Mwanyisa, qui dirigeait Mzali à cette époque. Croyant qu'il était un présage de la résurgence imminente de la ville, le conseil l'a emmené pour l'exposer à Mzali. Lorsqu'une armée de la cité sargavienne de Kalabuto attaqua la ville, Walkena se réveilla - cette fois sous la forme d'une créature morte-vivante - et tua chacun des envahisseurs dans une pluie de feu purgative.</p>\n<p>Walkena est entièrement différent de ce qu'il était avant sa mort. Un sens de la bonté et de la compassion était autrefois courant dans sa disposition, mais après son réveil, il est devenu contrôlant et inébranlable. Le jeune roi soleil incarnait auparavant une douce compassion ; il est maintenant devenu dur comme le soleil d'été. Il purifie, mais à un coût terrible.</p>\n</p> <p>La position de Walkena est que tous les résidents de l'étendue de Mwangi sont liés, qu'ils doivent tous pratiquer l'unité. Ceux qui s'associent et conspirent avec des étrangers sont des traîtres et un danger. Bien que ses moyens ne soient pas toujours considérés comme bons, il fera tout pour protéger son peuple, tant qu'il ne le défie pas. Redonner à sa patrie la gloire qu'elle a connue est son plus grand objectif.</p> \n<p>Bien que cruel dans son règne et terrifiant pour ses ennemis, Walkena a longtemps été l'un des points forts de la résistance aux forces coloniales et à l'exploitation de l'étendue de Mwangi. Beaucoup hésitaient à affronter les abus du dieu-enfant, craignant de critiquer l'un des plus éminents défenseurs du peuple Mwangi. Le dédain apparent de Walkena pour la nouvelle nation de Vidrian fait craindre à beaucoup que Walkena ne soit plus nuisible qu'utile à long terme. Malgré cela, Walkena reste une figure fascinante pour beaucoup. Sa grâce transparaît dans chacun de ses actes et de ses paroles. Il bénit ceux qui se sont consacrés à l'Etendue de Mwangi. Walkena ne prêche pas de grandes récompenses après la mort, mais parle plutôt de la grandeur dans la vie.</p>\n<p><strong>Édits</strong> Respecter les lois de mzali, s’opposer à l’exploitation de l’étendue du mwangi, veiller sur Walkena et obéir à ses instructions</p>\n<p><strong>Anathèmes</strong> Désobéir aux ordres de Walkena, fréquenter ou commercer avec des individus non mwangis</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.J7K7kHoIE69558Su]{Liberté}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie} </p>"
         },
         {
             "id": "Alglenweis",
@@ -823,8 +823,8 @@
         },
         {
             "id": "Qi Zhong",
-            "name": "Qi Zhong",
-            "description": ""
+            "name": "Qi Zhong (Dieu Tianais)",
+            "description": "<p><strong>Édits</strong> Enseigner son savoir aux autres, soigner les maladies et les blessures, soulager des souffrances malgré ses difficultés personnelles</p>\n<p><strong>Anathèmes</strong> Infliger des dégâts mortels à une autre créature (sauf si c’est dans le cadre d’un traitement médical nécessaire)</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir} </p>"
         },
         {
             "id": "Gogunta",
@@ -913,8 +913,8 @@
         },
         {
             "id": "Shelyn",
-            "name": "Shélyn",
-            "description": ""
+            "name": "Shélyn (Mer Intérieure)",
+            "description": "<p>Shélyn porte sur l’existence un regard bienveillant et aimant et elle encourage les mortels à profiter de la vie en faisant leur possible pour répandre l’amour, l’art et la beauté. Pour elle, même les élans artistiques les plus grossiers sont dignes d’éloges, car ils représentent l’expression individuelle des épreuves et des réussites d’une vie. Elle pense chaque créature digne d’être aimée et capable de création artistique à sa manière. Le culte de Shélyn n’est pas attaché à la chasteté, la fidélité ou à un type de relations particulier, car la passion d’un amour naissant est aussi importante et légitime que la relation de confiance qui existe dans un couple marié de longue date. Shélyn fait cependant une distinction entre la cour et le simple désir charnel et elle préfère quand ces rencontres amoureuses évoluent en relations plus sérieuses.</p>\n<p><strong>Édits</strong> Se montrer pacifique, choisir et perfectionner un art, guider par l’exemple, voir la beauté en toute chose.</p>\n<p><strong>Anathèmes</strong> Détruire une oeuvre d’art ou la laisser détruire à moins que ce ne soit pour sauver une vie ou accomplir une oeuvre encore plus belle, refuser d’accepter une reddition.</p>\n<p><strong>Préoccupations</strong> Art, beauté, amour et musique.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude} </p>"
         },
         {
             "id": "Esoteric Order of the Palatine Eye",
@@ -923,8 +923,8 @@
         },
         {
             "id": "The Lost Prince",
-            "name": "Le prince perdu",
-            "description": ""
+            "name": "Le prince perdu (Aîné)",
+            "description": "<p>L’Aîné de la solitude, de la tristesse et des choses oubliées, le Prince Perdu passe le plus clair de son temps à broyer du noir dans la salle du trône de sa tour croulante. On sait qu’il n’est pas natif du Premier Monde, mais ses origines précises font l’objet de débats animés. Le Seigneur mélancolique ne parle jamais de son pays, et s’exprime d’ailleurs très peu de façon générale : il est sujet à des accès de dépression assez puissants pour faire ternir les couleurs de son environnement et forcer sa cour à un silence respectueux. Il a l’apparence d’un humain pâle et émacié, vêtu de beaux habits noirs, avec des runes écarlates sur son front et le dos de ses mains. Il s’efforce de rester neutre vis-à-vis des machinations des autres Aînés, ce qui leur rend ses avis et faveurs d’autant plus précieux.</p>\n<p><strong>Edits</strong> Aider les personnes déprimées, porter des vêtements sombres, rester neutre, ruminer le passé</p>\n<p><strong>Anathèmes</strong> Abandonner quelqu’un qui n’a pas de famille, se féliciter publiquement de ses bonnes actions</p>\n<p><strong>Préoccupations</strong> Solitude, tristesse, choses oubliées</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille} </p>"
         },
         {
             "id": "Pillars of Knowledge",
@@ -934,7 +934,7 @@
         {
             "id": "Whispering Way",
             "name": "Voie du murmure",
-            "description": ""
+            "description": "<p>Ces fanatiques pensent que la non-mort est la forme d’existence ultime et qu’il faut passer sa vie à préparer la transition vers une non-mort bien plus glorieuse après son trépas.</p>\n<p><strong>Édits</strong> Chercher comment devenir un mort-vivant (si possible une liche), s’opposer à ceux qui tentent de détruire les morts-vivants, protéger des secrets nécromantiques, servir le Tyran qui Murmure.</p>\n<p><strong>Anathèmes</strong> Détruire des textes nécromantiques (à moins qu’ils ne révèlent des secrets sur la voie du Murmure), enseigner la voie du Murmure à autrui autrement qu’en chuchotant, utiliser l’énergie positive pour blesser un mort-vivant</p>"
         },
         {
             "id": "Sturovenen",
@@ -963,8 +963,8 @@
         },
         {
             "id": "Nalinivati",
-            "name": "Nalinivati",
-            "description": ""
+            "name": "Nalinivati (Dieu Tianais)",
+            "description": "<p><strong>Édits</strong> Avoir des enfants ou en adopter, élever des serpents, guérir les poisons, rechercher de la magie et l’utiliser, utiliser du poison</p>\n<p><strong>Anathèmes</strong> Causer la séparation d’amants, repousser ses amis par jalousie ou par rivalité romantique, trahir sa progéniture, tuer un serpent ou un cygne inoffensif</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.OsM8NfP408uB6yTi]{Parent dracosire}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion} </p>"
         },
         {
             "id": "Tlehar",
@@ -978,8 +978,8 @@
         },
         {
             "id": "Wadjet",
-            "name": "Wadjet",
-            "description": ""
+            "name": "Wadjet (Ancien dieu osirien)",
+            "description": "<p><strong>Édits</strong> Accompagner des accouchements, défendre sa patrie et son peuple, faire pousser du papyrus, protéger les sources d’eau potable</p>\n<p><strong>Anathèmes</strong> Nuire à un souverain légitime, refuser d’aider une créature qui se noie</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Ahriman",
@@ -1008,8 +1008,8 @@
         },
         {
             "id": "Ragathiel",
-            "name": "Ragathiel",
-            "description": ""
+            "name": "Ragathiel (Seigneur Empyréen)",
+            "description": "<p>Le domaine du Général de la Vengeance englobe le sens de la chevalerie, du devoir et de la vengeance, et il agit en toutes choses comme le chevalier par excellence. Fils de l’archidiable Dispater et de Feronia, une demi-déesse neutre du feu, Ragathiel s’efforce de surmonter la réputation de ses géniteurs et comprend ce que signifie lutter contre sa propre nature pour la cause du bien, pour être accepté et pour gagner la confiance d’autrui. Il représente la force au combat, la colère qui s’abat sur les malfaisants et l’absolution ou la vengeance pour ceux qui ont subi des torts, mais aussi le sens du commandement qui s’exprime quand nécessaire, la vertu et le devoir envers les innocents. Il attend de ses fidèles qu’ils détruisent les fiélons dès qu’ils en trouvent et qu’ils s’efforcent de mériter vraiment la confiance et la reconnaissance de leur entourage. Ceux qui le vénèrent dirigent par la force de l’exemple et peuvent se trouver en première ligne de toutes les batailles ou de tous les conflits contre le mal. Le Général de la vengeance a l’apparence d’un géant massif de plus de 6 mètres, revêtu d’un harnois doré brillant de son propre éclat, et manie une épée qui brûle d’un feu sacré. Cinq ailes flamboyantes partent de son dos, trois à gauche et deux à droite – la sixième aile perdue lui fut jadis arrachée par son propre père dans un accès de rage. Les adorateurs de Ragathiel comprennent des croisés, des chevaliers, des soldats, ainsi que des gens marginalisés, lésés ou faussement accusés.</p>\n<p><strong>Édits</strong> Détruire les criminels, mener la charge lors des combats, venger les personnes lésées</p>\n<p><strong>Anathèmes</strong> Fuir le combat, laisser des alliés dans les ténèbres contre leur gré, pardonner à ceux qui ont commis des péchés irréparables</p>\n<p><strong>Préoccupations</strong> Chevalerie, devoir et vengeance</p>\n<hr/ >\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Kelizandri",
@@ -1108,8 +1108,8 @@
         },
         {
             "id": "Iomedae",
-            "name": "Iomédae",
-            "description": ""
+            "name": "Iomédae (Mer Intérieure)",
+            "description": "<p>Iomédae, la plus jeune des grandes divinités du pourtour de la mer Intérieure, s’est montrée digne de son statut avant même d’y accéder. Née au Chéliax, elle est devenue paladin d’Arazni, héraut d’Aroden, après avoir décidé de prendre les armes pour combattre le mal. Enchaînant les victoires à la tête des Chevaliers d’Ozem contre le Tyran qui Murmure, elle n’a pas tardé à devenir une légende au sein de la Croisade étincelante. Iomédae est la troisième mortelle à avoir réussi l’épreuve de la Pierrétoile et ainsi accédé à la divinité en 3832 AR. Quand Arazni a péri lors de la Croisade étincelante, Aroden a fait de la nouvelle déesse son héraut et, à sa mort, Iomédae a hérité de la plupart de ses adorateurs et est devenue à son tour une divinité majeure de l’honneur et de la justice.</p>\n<p><strong>Édits</strong> Faire preuve de tempérance, combattre pour la justice et l’honneur, chérir la vaillance.</p>\n<p><strong>Anathèmes</strong> Abandonner un compagnon en difficulté, se déshonorer, refuser le défi d’un égal.</p>\n<p><strong>Préoccupations</strong> honneur, justice, commandement et bravoure</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} <p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir} </p>"
         },
         {
             "id": "Kofusachi",

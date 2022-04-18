@@ -2689,7 +2689,7 @@
             "name": "Volecrâne (Skulltaker)",
             "description": "<p>Les tourbillons d’os désignés sous le nom de volecrânes descendent des pics brumeux et traversent les défilés des montagnes comme un vent maléfique, et ils sont souvent la dernière chose que voient les grimpeurs et autres pionniers condamnés, délirants et à l’agonie, avant de trépasser. Dans certaines régions, les volecrânes portent également le nom de Saxras.</p>",
             "languages": "langues liées aux Connaissances squelettiques",
-            "saves": "+1 de statut contre positif",
+            "saves": "bonus de statut de +1 à tous les jds contre positif",
             "senses": "vision dans le noir, vision lucide"
         },
         {
@@ -3254,6 +3254,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "WIHK77N13bnY09Iq",
+            "name": "Poing aqueux (Aqueous Fist)",
+            "items-description": ""
+        },
+        {
             "id": "Y2ewuQtDMN0O0bSp",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3284,6 +3289,11 @@
             "items-description": ""
         },
         {
+            "id": "7ABEQLk7SMoCzea5",
+            "name": "Discrétion (Stealth)",
+            "items-description": ""
+        },
+        {
             "id": "nQr3N8AIARUFBqx8",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -3300,13 +3310,18 @@
         },
         {
             "id": "5HRKFbIvbD2qXTXD",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
             "id": "uR0sxFBmOFXxYqZi",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "9RRqDOZEOM8rUI1P",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un loup arctique inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "R9CYDurnZPOlDiFg",
@@ -3327,6 +3342,16 @@
             "id": "EzSKWtWM2tSTtZwA",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "5kSNwp8DyNYR62vW",
+            "name": "Discrétion (Stealth)",
+            "items-description": ""
+        },
+        {
+            "id": "GWK22q1k4VFPbsKf",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un chien de garde inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "GrDnRSSifZtVibbk",
@@ -3384,6 +3409,11 @@
             "items-description": ""
         },
         {
+            "id": "1hjabmTtR1jzUEh9",
+            "name": "Vengeance infernale (Hellish Revenge)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une Frappe inflige un coup critique au molosse nessien.</p>\n<p><strong>Effet</strong> Le Souffle du molosse est rechargé. Il peut l’utiliser immédiatement lors de sa réaction.</p>"
+        },
+        {
             "id": "bW0FVpeKKVStkJVf",
             "name": "Télépathie 30 m (Telepathy 100 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
@@ -3414,6 +3444,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "KcCw29PtlpuADI1x",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un sergent gnoll inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "AFuY9kW00fzj7WH5",
             "name": "Corsèque (Ranseur)",
             "items-description": ""
@@ -3437,6 +3472,11 @@
             "id": "0Pe1uBGVehRLhBim",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "glwIs2UR3O1wG0tc",
+            "name": "Verrou d'âme (Soul Lock)",
+            "items-description": "<p> Une fois par jour, un cacodaémon peut ingérer l’âme d’une créature intelligente située dans un rayon de 9 m et qui est morte au cours de la dernière minute. Quand il le fait, le cacodaémon produit dans son estomac une gemme d’âme de la taille d’un poing (Solidité 2, PV 8) qu’il peut régurgiter à n’importe quel moment par une action Interagir.</p>\n<p>Détruire la gemme libère l’âme qui s’y trouve mais ne rend pas la vie à la créature décédée. L’incantateur d’un sort visant à redonner la vie à une créature dont l’âme est prisonnière d’une gemme d’âme doit réussir un test de @Check[type:religion|dc:30]{Religion DD 30}. S’il réussit, la gemme se brise et la créature revient normalement à la vie.\n<p>En utilisant une action Interagir, un fiélon peut ingérer une gemme d’âme qu’il tient, condamnant ainsi l’âme au plan d’origine du fiélon. Le fiélon gagne @Compendium[pf2e.bestiary-ability-glossary-srd.fJSNOw4zHGbIm4bZ]{Guérison accélérée 5} pendant 1 minute.</p>"
         },
         {
             "id": "UW8qbPcbWR2N4HcI",
@@ -3509,6 +3549,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
+            "id": "M8RNAgw0OgnUOpKP",
+            "name": "Critique spécialissé à l'arme d'hast (Polearm Critical Specialization)",
+            "items-description": "<p> Sur un coup critique, la cible qui le subit est déplacée de 1,5 m dans une direction au choix du général hobgobelin.</p>"
+        },
+        {
             "id": "VNCpyxuyRZEyA5HG",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3567,6 +3612,16 @@
             "id": "xx2paGql0oW1VL3k",
             "name": "Télépathie 30 m (Telepathy 100 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "SCGxYeDTWb4Hznwu",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
+            "items-description": ""
+        },
+        {
+            "id": "KZ4sC23Z3r4PS4V6",
+            "name": "Défense télékinésique (Telekinetic Defense)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature approche à une distance de 3 m du poltergeist.</p>\n<p><strong>Effet</strong> Le poltergeist effectue une Frappe d’objet télékinésique contre la créature ayant déclenché \nce pouvoir.</p>"
         },
         {
             "id": "bcl3zcX6TOOupNt9",
@@ -3764,6 +3819,11 @@
             "items-description": ""
         },
         {
+            "id": "1QVkgQh59Pmq5fP3",
+            "name": "Champ d'esquilles (Splintered Ground)",
+            "items-description": "<p>Le volecrâne fait émerger des os brisés de toutes les surfaces solides, à l’exception de la pierre taillée, dans une @Template[type:emanation|distance:100]{émanation de 30 m}. Toute créature qui se déplace dans la zone affectée subit [[/r {10}[piercing]+{10}[negative]]]{10 dégâts perforants et 10 dégâts négatifs} par tranche de 1,5 m parcourue. La première fois qu’une créature subit des dégâts infligés par ces esquilles au cours d’un round, elle doit réussir un jet de Réflexes pour éviter de subir un malus de circonstances de -3 m à toutes ses Vitesses pendant 10 minutes ou un malus de circonstances de -4,5 m pendant 24 heures en cas d’échec critique. Les os restent en place jusqu’à ce que le volecrâne utilise de nouveau cette action ou qu’ils soient retirés manuellement (10 minutes par case de 1,5 m de côté). \n<hr />\n<p>@Compendium[pf2e.bestiary-effects.86uYNsVXzYWxqLTV]{Effet : Champ d'esquilles}</p>\n<p>@Compendium[pf2e.bestiary-effects.hc7kR6quUE9ryRyj]{Effet : Champ d'esquilles (Échec critique)}</p>"
+        },
+        {
             "id": "Bk5ADVa0aOQ7APmH",
             "name": "Queue (Tail)",
             "items-description": ""
@@ -3889,6 +3949,16 @@
             "items-description": ""
         },
         {
+            "id": "1UAh4ooLm8sQPmeN",
+            "name": "Contact spirituel (Spirit Touch)",
+            "items-description": "<p>Les Frappes d’un nosoi affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {1d6}[positive]]]{1d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
+        },
+        {
+            "id": "hcXr2FC36bTLJ9kF",
+            "name": "Arc court composite (Composite Shortbow)",
+            "items-description": ""
+        },
+        {
             "id": "093ZnioHRqaohRiq",
             "name": "Lancer de rocher (Throw Rock)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
@@ -3902,6 +3972,11 @@
             "id": "tFYFPReEO8BIA94l",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "1BwIo7mgXKcuS2Vg",
+            "name": "Frappe affaiblissante (Weakening Strike)",
+            "items-description": "<p>La cible doit réussir un jet de @Check[type:fortitude|dc:20]{Vigueur} DD 20 ou se trouver @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} (ou Affaiblie 2 sur un succès critique) pendant 1 round.</p>"
         },
         {
             "id": "JRoSNngd9XENOzDl",
@@ -3932,6 +4007,11 @@
             "id": "CBSPcFxMeCnKziJ9",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "gV8plzH46OeVvlNG",
+            "name": "Puanteur (Stench)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui pénètre dans la zone affectée doit faire un jet de Vigueur @Check[type:fortitude|dc:19]DD 19}. Sur un échec, elle se trouve dans l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} et, sur un échec critique, elle subit également un malus de -1,5 m à ses Vitesses pendant 1 round. Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 à ses jets de sauvegarde pour se débarrasser de l’état malade. Une créature qui réussit son jet de sauvegarde est temporairement immunisée contre la puanteur de tous les xulgaths pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]{Effet : Puanteur Xulgath}</p>"
         },
         {
             "id": "WzNNAcPz7ibjxcS8",
@@ -3967,6 +4047,11 @@
             "id": "d0rdYMltT1ZmbABn",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "22HJYuw6ET85gOrj",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
         },
         {
             "id": "1EVHcXa6gUWUY0Cl",
@@ -4007,6 +4092,11 @@
             "id": "TIGvNHFixJK8sJCg",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "dxLrvmfMtHkddYo4",
+            "name": "Contact spirituel (Spirit Touch)",
+            "items-description": "<p>Les Frappes d’un morrigna affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {4d6}[positive]]]{4d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
         },
         {
             "id": "ztAIkCm5tn8PbtUr",
@@ -4214,8 +4304,13 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
+            "id": "1N1JI8DtK2Tm842J",
+            "name": "Inspiration profonde (Deep Breath)",
+            "items-description": "<p>Un homme-lézard astrobservateur peut retenir son souffle 200 rounds (20 minutes).</p>"
+        },
+        {
             "id": "4jo5EjR59Kycpzcy",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
@@ -4227,6 +4322,11 @@
             "id": "koIcuQqgttVU1vlz",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "gRQ32Y4BWrQbWOlS",
+            "name": "Cercueil restorateur (Coffin Restoration)",
+            "items-description": "<p>Contrairement aux autres morts-vivants, le vampire n’est pas détruit une fois à 0 PV. Il tombe seulement @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient}. Si son corps reste dans son cercueil pendant 1 heure, il récupère 1 PV, après quoi sa guérison accélérée commence à fonctionner normalement.</p>"
         },
         {
             "id": "0UIiiS68BvgFMTnC",
@@ -4241,6 +4341,16 @@
         {
             "id": "gZywv8nUOzTjloep",
             "name": "Flammèche (Fire Mote)",
+            "items-description": ""
+        },
+        {
+            "id": "Y2DYcAAQLTtolq5o",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
+            "items-description": ""
+        },
+        {
+            "id": "LRAh1zPRfZ1jQ8a6",
+            "name": "Arc court composite (Composite Shortbow)",
             "items-description": ""
         },
         {
@@ -4309,6 +4419,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
+            "id": "1AzFNDZFiaJxTAJf",
+            "name": "Monture morte vivante (Undead Steed)",
+            "items-description": "<p>Les morts-vivants et les créatures qui leur sont alliées peuvent @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger} une monture squelettique sans avoir besoin de faire de test de compétence.</p>"
+        },
+        {
+            "id": "zFNrz9di2EnI53hz",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Les Frappes du loup sanguinaire infligent [[/r {1d6}]]{1d6 dégâts supplémentaires} aux créatures à portée d’au moins deux de ses alliés. </p>"
+        },
+        {
             "id": "gUMIzpDGWwaygeXn",
             "name": "Queue (Tail)",
             "items-description": ""
@@ -4347,6 +4467,11 @@
             "id": "A4Iy8pTKRCuXe0bh",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "r0Jfu2EKhpHiK8Io",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
         },
         {
             "id": "TKC7njhX3a3mq4eY",
@@ -4392,6 +4517,11 @@
             "id": "uQywdK0j1lggScR1",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "A0HAbzH4Gjn59ZLw",
+            "name": "Inspiration profonde (Deep Breath)",
+            "items-description": "<p>Le crocodile peut retenir son souffle pendant 2 heures.</p>"
         },
         {
             "id": "Ibj6bgSG7PZrEoiR",
@@ -4484,6 +4614,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "tdX5F9iFFF0sboNA",
+            "name": "Arbalète lourde (Heavy Crossbow)",
+            "items-description": ""
+        },
+        {
             "id": "QBOHDvvqEsUhdk0Y",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4517,6 +4652,11 @@
             "id": "b0CZ1TMWNNWhztYK",
             "name": "Poing (Fist)",
             "items-description": ""
+        },
+        {
+            "id": "RJlLjrzqdXREWyPR",
+            "name": "Tempête télékinésique (Telekinetic Storm)",
+            "items-description": "<p>Le poltergeist projette par télékinésie de nombreux petits objets comme des dizaines de pièces d’argenterie ou des livres, soit en les répartissant entre plusieurs cibles, soit en focalisant son attaque contre une cible. </p>\n<ul>\n<li>Quand cet effet est réparti entre plusieurs cibles, le poltergeist effectue une Frappe d’objet télékinésique avec un malus de -2 contre chaque créature située dans un @Template[type:emanation|distance:30]{rayon de 9 m}. Cela compte comme une seule attaque pour le malus d’attaques multiples du poltergeist et le malus n’augmente qu’une fois toutes les attaques effectuées.</li>\n<li>Quand cet effet n’affecte qu’une seule cible, le poltergeist effectue une Frappe d’objet télékinésique contre elle et les dégâts sont augmentés à [[/r {3d12}]]{3d12}. L’attaque inflige [[/r {1d12}]]{1d12 dégâts} en cas d’échec et aucun dégât en cas d’échec critique.</li>\n</ul>"
         },
         {
             "id": "gJlDdyxfSGMpZN7a",
@@ -4562,6 +4702,11 @@
             "id": "UfLxn8BgeR2BOqee",
             "name": "Poing (Fist)",
             "items-description": ""
+        },
+        {
+            "id": "16mvgME2H3Zp8aMW",
+            "name": "Mâchoires (Jaws)",
+            "items-description": "<p>Le loup sanguinaire peut utiliser soit Renversement, soit Empoignade/Agrippement sur une Frappe réussie.</p>"
         },
         {
             "id": "eg7TTGELwmYoMNM7",
@@ -4612,6 +4757,11 @@
             "id": "RZBxog3E2iCbQY5r",
             "name": "Main-gauche (Main-Gauche)",
             "items-description": ""
+        },
+        {
+            "id": "RibPgalaxUxyuwym",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un vélociraptor inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "IQwShRAySaUkCUW5",
@@ -4734,6 +4884,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "scTXJJONiH5Y5Rpf",
+            "name": "Antimagie du golem (Golem Antimagic)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par l’acide</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {9d10}]]{9d10 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant d'acide, il subit [[/r {2d10}]]{2d10 dégâts}.</li>\n<li><strong>Ralenti par l'électricité</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type électricité, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par le feu</strong> Toute magie du type feu qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type feu, il gagne [[/r {2d10}[healing]]]{2d10 PV}.</li>\n</ul>"
+        },
+        {
             "id": "dzZj81bjKpvnxgLG",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4744,14 +4899,29 @@
             "items-description": ""
         },
         {
+            "id": "izty6IGZL6BowyUS",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un élananxe inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "C77jgOGQyRA9OepX",
             "name": "Griffe (Claw)",
             "items-description": ""
         },
         {
+            "id": "BleHEEpt3dwEMeDo",
+            "name": "Aura semée d'embûches (Treacherous Aura)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:15]{4,5 m} </p>\n<hr />\n<p>Des racines enchevêtrées, des petits trous aux bords déchiquetés, des cailloux acérés et d’autres obstacles apparaissent sur les surfaces au sein de l’aura et les transforment en terrain difficile.</p>"
+        },
+        {
             "id": "achgTT7jV4XPMG5S",
             "name": "Élan draconique (Draconic Momentum)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "HtPykjM3gCE3oQiR",
+            "name": "Torpeur (Torpor)",
+            "items-description": "<p>Généralement, une demi-liche est inerte quand on la rencontre et n’utilise aucune action jusqu’à sa ce que sa réaction <em>@Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]{contingence}</em> ait été déclenchée.</p>"
         },
         {
             "id": "idWgJAjZ5pi1uI2C",
@@ -4812,6 +4982,11 @@
             "id": "TQ0FOP3X7LrgaS6J",
             "name": "Férocité (Ferocity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+        },
+        {
+            "id": "9iYmbVoVyCe6SNu9",
+            "name": "Cercueil restorateur (Coffin Restoration)",
+            "items-description": "<p>Contrairement aux autres morts-vivants, le vampire n’est pas détruit une fois à 0 PV. Il tombe seulement @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient}. Si son corps reste dans son cercueil pendant 1 heure, il récupère 1 PV, après quoi sa guérison accélérée commence à fonctionner normalement.</p>"
         },
         {
             "id": "LRVsZzLZZ4VCKy1h",
@@ -4914,6 +5089,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "F8wXzsUNliJVU8bv",
+            "name": "Arc court composite (Composite Shortbow)",
+            "items-description": ""
+        },
+        {
+            "id": "0RWfxFkqPwKKKdiY",
+            "name": "Coup au sol (Ground Slam)",
+            "items-description": "<p>Le dragon frappe le sol. Il peut agir ainsi s’il est au sol ou s’il vole à 3 m ou moins au-dessus. Chaque créature au sol dans un @Template[type:emanation|distance:10]{rayon de 3 m} doit réussir un jet de @Check[type:reflex|dc:29|traits:damaging-effect]{Réflexes} DD 29 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et subir [[/r {3d6}[bludgeoning]]]{3d6 dégâts contondants}. Puis le dragon peut Faire un pas.</p>"
+        },
+        {
             "id": "fkSqSiW3qLpaq6hp",
             "name": "Corps (Body)",
             "items-description": ""
@@ -4957,6 +5142,11 @@
             "id": "a9UivdapXwh89X3a",
             "name": "Rocher (Rock)",
             "items-description": ""
+        },
+        {
+            "id": "bKPOLbNfdVcrEpjV",
+            "name": "Liens de fer (Bonds of Iron)",
+            "items-description": "<p>Une fois par jour, une guenaude annis peut créer à partir du néant une cage, constituée d’ongles en fer froid, qui apparaît dans un rayon de 9 m et tenter un test d’@Check[type:athletics|traits:action:grapple|overrideTraits:true]{Athlétisme} pour @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Saisir} contre le DD de Vigueur de la cible.</p>\n<p>Si cette dernière possède une vulnérabilité au fer froid, la guenaude annis bénéficie d’un bonus de circonstances de +2 pour ce test.</p>\n<p>Contrairement à une Saisie normale, l’annis n’a pas besoin d’être à portée, peut se déplacer comme elle le souhaite et une tentative réussie dure jusqu’à ce que la cible S’échappe (DD 24), auquel cas la cage se désagrège en fragments de rouille. Une créature peut tenter de détruire la cage en l’attaquant. Elle a une CA 19, Solidité 10 et 40 PV.</p>"
         },
         {
             "id": "GqnL43j2bn0yBMad",
@@ -5069,8 +5259,13 @@
             "items-description": ""
         },
         {
+            "id": "40tsiDz5txNIXOqI",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
+        },
+        {
             "id": "EajnVKV3NKyICaQ8",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
@@ -5097,6 +5292,11 @@
             "id": "rog22HpLDkUnfolA",
             "name": "Cornes de bélier (Goat Horns)",
             "items-description": ""
+        },
+        {
+            "id": "xHg8hrfrTg35erxf",
+            "name": "Contingence (Contingency)",
+            "items-description": "<p> Une demi-liche a un sort de niveau 8 de <em>@Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]{contingence}</em> actif en permanence associé à un de ses sorts innés arcaniques de niveau 5 ou inférieur, généralement <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{porte dimensionnelle}</em>.</p>\n<p data-visibility=\"gm\"><strong>Déclencheur</strong>  Alors que la demi-liche est plongée dans sa torpeur, une créature dérange ses restes, touche ses trésors ou lance un sort qui l’affecterait.</p>\n<p><strong>Effet</strong> La demi-liche met un terme à sa torpeur lance l'initiative et obtient l'effet du sort associé à <em>Contingence</em>. La contingence est réinitialisée après 24 heures.</p>"
         },
         {
             "id": "XqSpTVGRCbtpPfJU",
@@ -5127,6 +5327,11 @@
             "id": "vJxCPyKdG9Aaedkx",
             "name": "bonus de statut de +2 aux jds contre la magie (+2 Status to All Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "d9nsBoLgYoGWORv2",
+            "name": "Antimagie du golem (Golem Antimagic)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le froid et l’eau</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {5d10}]]{5d10 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de froid ou d'eau, il subit [[/r {2d6}]]{2d6 dégâts}.</li>\n<li><strong>Ralenti par la terre</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type terre, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par l'acide</strong> Toute magie du type acide qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type acide, il gagne [[/r {2d6}[healing]]]{2d6 PV}.</li>\n</ul>"
         },
         {
             "id": "FtQATmD9TKhRQwoZ",
@@ -5239,6 +5444,11 @@
             "items-description": ""
         },
         {
+            "id": "0ZKaotgANUyAmZDc",
+            "name": "Chance du félin (Cat's Luck)",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Déclencheur</strong> Le musard obtient un échec ou un échec critique à un jet de Réflexes. </p>\n<p><strong>Fréquence</strong> Une fois par jour.</p>\n</div>\n<p><strong>Effet</strong> Il relance ce jet de sauvegarde et choisit le meilleur résultat.</p>"
+        },
+        {
             "id": "M6OcH3aIVdTWr7gq",
             "name": "Queue (Tail)",
             "items-description": ""
@@ -5252,6 +5462,11 @@
             "id": "xVw1eoXAtuPKjE3x",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "qtXj0TB36n30L7my",
+            "name": "Désarmer (Disarm)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> La dernière action du gimmerling était une Frappe réussie qui comporte Désarmer dans l’entrée des dégâts.</p>\n<p><strong>Effet</strong> La cible lâche une arme qu’elle porte ou tient. L’arme se retrouve au sol dans la case que la cible occupe.</p>"
         },
         {
             "id": "zuuG6E7754pHBLsE",
@@ -5287,6 +5502,11 @@
             "id": "VQFM8xePgKsrXydY",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "1qFhgFYCKIDaF8mk",
+            "name": "Engloutissement d'âme (Devour Soul)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une âme est emprisonnée dans l’un des quartz corrompus de la demi-liche depuis 24 heures</p>\n<p><strong>Effet</strong> La demi-liche consume cette âme. L’âme est totalement anéantie et la demi-liche récupère un nombre de points de vie égal au double du niveau de la créature.</p>"
         },
         {
             "id": "uB2gaJscmmSbNNVZ",
@@ -5494,6 +5714,11 @@
             "items-description": ""
         },
         {
+            "id": "pOtIHukgdOyL8rMp",
+            "name": "Antimagie du golem (Golem Antimagic)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le son</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {5d8}]]{5d8 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de son, il subit [[/r {2d6}]]{2d6 dégâts}.</li>\n<li><strong>Ralenti par le froid</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type froid, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par l'acide</strong> Toute magie du type acide qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type acide, il gagne [[/r {2d4}[healing]]]{2d4 PV}.</li>\n</ul>"
+        },
+        {
             "id": "Eejxi0k01WzbvUUh",
             "name": "Blocage au bouclier (Shield Block)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
@@ -5520,13 +5745,18 @@
         },
         {
             "id": "XDq62TH6LQA4rgny",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
             "id": "oOto6dxiQZFhZzKY",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "vr6e0VYbUOGnEU3M",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
+            "items-description": ""
         },
         {
             "id": "2XSVapoeItmk2zU0",
@@ -5572,6 +5802,11 @@
             "id": "KpFmMp8bJz2ZkMQN",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pv4cYBnhSh901lFA",
+            "name": "Odorat (imprécis) 36 m (Scent (Imprecise) 120 feet)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "03GLgyeAGjU6XdPt",
@@ -5646,6 +5881,11 @@
         {
             "id": "NUuZmLjmz4NPx29q",
             "name": "Aile (Wing)",
+            "items-description": ""
+        },
+        {
+            "id": "iP02Y8PDHLNbctbc",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
             "items-description": ""
         },
         {
@@ -5794,6 +6034,11 @@
             "items-description": ""
         },
         {
+            "id": "FhLr7TEb7n9FRT5I",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un chien inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "9Aa0Gupq2BHChPd3",
             "name": "Grande hache (Greataxe)",
             "items-description": ""
@@ -5817,6 +6062,11 @@
             "id": "qhS5ZEJcqNFytqWd",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "xswRs14UWcUn7b5S",
+            "name": "Désarçonner (Buck)",
+            "items-description": "<p>@Check[type:reflex|dc:20]{Réflexes} DD 20</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
         },
         {
             "id": "r035iPNnkvHhoCqt",
@@ -5887,6 +6137,11 @@
             "id": "qIqgF3PIeW7W6Fft",
             "name": "Élan draconique (Draconic Momentum)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "I5zNTSZyjvhCKz3D",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un loup-garou inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "kBcZLCEv6TSReExJ",
@@ -5989,6 +6244,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "4QNftOG1O0v3IrVA",
+            "name": "Croche-pied (Trip Up)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature obtient un échec critique en faisant une attaque au corps à corps contre le gimmerling ou se déplace dans une case au sein de son aura semée d’embûches.</p>\n<p><strong>Effet</strong> La créature qui déclenche l’effet doit effectuer un jet de @Check[type:reflex|dc:32|traits:damaging-effect]{Réflexes} DD 32.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n’est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} jusqu’au début de son prochain tour.</p>\n<p><strong>Échec</strong> La créature subit [[/r {2d10}[bludgeoning]]]{2d10 dégâts contondants} de son et elle est prise au dépourvu jusqu’au début de son prochain tour.</p>\n<p><strong>Échec critique</strong> Comme l’échec et la créature est jetée à terre.</p>"
+        },
+        {
             "id": "MrCFRuiA29CCYxgb",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -5996,12 +6256,22 @@
         {
             "id": "0KLll6op6LwSp19s",
             "name": "Régénération de l'hydre (Hydra Regeneration)",
-            "items-description": "<p>L’hydre a une  @Compendium[pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]{régénération} égale à 3 x son nombre de têtes. S’il lui manque des têtes et que des moignons n’ont pas été cautérisés, l’hydre tente un jet de @Check[type:fortitude|dc:25]{Vigueur} DD 25 après avoir récupéré des points de vie grâce à sa régénération. Si elle réussit, deux têtes repoussent à partir d’un moignon non cautérisé. En cas de succès critique, deux têtes repoussent à partir de deux moignons non cautérisés. L’hydre ne peut jamais faire repousser plus du double de son nombre de têtes d’origine. La régénération de l’hydre ne se désactive complètement que si toutes ses têtes sont tranchées et tous ses moignons cautérisés ; dans ce cas, elle meurt.</p>"
+            "items-description": "<p>L’hydre a une @Compendium[pf2e.bestiary-ability-glossary-srd.lR9R5Vld8Eu2Dha5]{régénération} égale à 3 x son nombre de têtes. S’il lui manque des têtes et que des moignons n’ont pas été cautérisés, l’hydre tente un jet de @Check[type:fortitude|dc:25]{Vigueur} DD 25 après avoir récupéré des points de vie grâce à sa régénération. Si elle réussit, deux têtes repoussent à partir d’un moignon non cautérisé. En cas de succès critique, deux têtes repoussent à partir de deux moignons non cautérisés. L’hydre ne peut jamais faire repousser plus du double de son nombre de têtes d’origine. La régénération de l’hydre ne se désactive complètement que si toutes ses têtes sont tranchées et tous ses moignons cautérisés ; dans ce cas, elle meurt.</p>"
+        },
+        {
+            "id": "1ich4lSlipgnuhyC",
+            "name": "Désespoir (Despair)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p> Les créatures vivantes sont @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayées 1} tant qu’elles se trouvent dans l’aura de désespoir de la momie gardienne. Elles ne peuvent se remettre naturellement de cette peur tant qu’elles restent dans l’aura et cet effet disparaît immédiatement si elles la quittent.</p>\n<p>Quand une créature entre dans la zone d’effet pour la première fois, elle doit réussir un jet de @Check[type:will|dc:22]{Volonté} DD 22 (en subissant le malus lié au fait d'être Effrayée) ou être @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round. La créature est alors temporairement immunisée pendant 24 heures.</p>"
         },
         {
             "id": "ExqWcZmrd3RhXgLt",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "CLQtaRBZzEVhkEpc",
+            "name": "Gemmes du bâton (Staff Gems)",
+            "items-description": "<p>Une demi-liche a depuis longtemps absorbé les sorts d’un bâton dans des nodules, des sortes de gemmes, incrustés dans son crâne, les plus gros nodules représentant les sorts des plus hats niveaux. Elle peut lancer n’importe lequel de ces sorts comme si elle Activait le bâton et elle regagne 1 charge toutes les 4 heures de torpeur jusqu’à un maximum de 8 charges. Une demi-liche typique dispose des sorts d’un <em>@Compendium[pf2e.equipment-srd.Ab5EjJyoRSec5YrW]{bâton de nécromancie supérieur} mais elle peut avoir à la place les sorts d’un autre bâton de niveau 8 ou inférieur.</p>"
         },
         {
             "id": "GIxGQeMwhYMa5aqt",
@@ -6214,6 +6484,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "0RsLlXY365ytSohG",
+            "name": "Contre-mesures (Countermeasures)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le tour de la demi-liche commence.</p>\n<p><strong>Effet</strong> La demi-liche lance <em>@Compendium[pf2e.spells-srd.zR67Rt3UMHKC5evy]{Clignotement}</em>, <em>@Compendium[pf2e.spells-srd.OOELvfkTedBMlWtq]{Renvoi de sort}</em>, <em>@Compendium[pf2e.spells-srd.uqlxMQQeSGWEVjki]{Vision lucide}</em> ou <em>@Compendium[pf2e.spells-srd.A2JfEKe6BZcTG1S8]{Vol}</em> sur elle-même. Elle choisit habituellement <em>Renvoi de sort</em> à moins que ce sort soit déjà actif.</p>"
+        },
+        {
             "id": "3SpNnQV9X8P44yW0",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6314,6 +6589,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "8Ga9mRyTf82SeeOx",
+            "name": "Discrétion (Stealth)",
+            "items-description": ""
+        },
+        {
             "id": "tBCaXMwzwsRxvg1U",
             "name": "Dague (Dagger)",
             "items-description": ""
@@ -6359,6 +6639,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "rGbtqEmUFQBjGvOd",
+            "name": "Perception de la faim (imprécis) 9 m (Hungersense (Imprecise) 30 feet)",
+            "items-description": "<p>Perception de la faim permet au gimmerling de sentir la présence de créatures qui ont besoin de se nourrir pour vivre.</p>"
+        },
+        {
             "id": "7HbtTKCzPMHlRdFT",
             "name": "Queue (Tail)",
             "items-description": ""
@@ -6397,6 +6682,11 @@
             "id": "QI8J1BJYyzaJqGgr",
             "name": "Lancer de rocher (Throw Rock)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
+        },
+        {
+            "id": "0uxUMo5bNxKA5eIg",
+            "name": "Changement de forme (Change Shape)",
+            "items-description": "<p>Le gimmerling revêt une forme humanoïde ou reprend sa forme naturelle. Sous forme humanoïde, il perd son aura semée d’embûches et son équipement prend l’aspect de babioles et de jouets. S’il prend la forme d’un humanoïde sans griffes ni crocs, il perd la Frappe correspondante. S’il perd sa Frappe de griffe, il obtient une Frappe de poing identique, sauf qu’elle inflige des dégâts contondants.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
             "id": "ObIC1c8HIIuC53Nb",
@@ -6502,6 +6792,11 @@
             "id": "kBr3AKRl4vlCwVK2",
             "name": "Massue (Greatclub)",
             "items-description": ""
+        },
+        {
+            "id": "Zi3UHzrDTQBgI0SW",
+            "name": "Objet télékinésique (Perforant) (Telekinetic Object (Piercing))",
+            "items-description": "<p>Les dégâts sont perforants.</p>"
         },
         {
             "id": "dECHo3MtMAC4Dkh8",
@@ -6629,8 +6924,18 @@
             "items-description": ""
         },
         {
+            "id": "1AemwaFBoSAJ1UHj",
+            "name": "Changement de forme (Change Shape)",
+            "items-description": "<p>La guenaude annis peut prendre l'apparence de toute femelle humanoïde de taille Moyenne. Cela ne change ni sa vitesse, ni ses attaques et ses bonus aux dégâts avec ses Frappes mais cela pourrait changer le type de dégâts sque ses Frappes infligent (les rendant typiquement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
             "id": "BaQdyDW5VvRs5ZV4",
             "name": "Griffe (Claw)",
+            "items-description": ""
+        },
+        {
+            "id": "ErH5biSmkMOD58yj",
+            "name": "Nature (Nature)",
             "items-description": ""
         },
         {
@@ -6667,6 +6972,11 @@
             "id": "yDIuApGqKF4695Oq",
             "name": "Lance (Spear)",
             "items-description": ""
+        },
+        {
+            "id": "o6Y376tDDVyc2Cf8",
+            "name": "Voleur d'os (Bonetaker)",
+            "items-description": "<p>À chaque fois qu’une créature meurt dans un rayon de 18 m autour d’un volecrâne, celui-ci récupère une partie de ses os qu’il intègre à sa tempête d’esquilles. La créature doit alors réussir un @Check[type:will|dc:40]{jet de Volonté} DD 40 ou revenir sous la forme d’un @Compendium[pf2e.pathfinder-bestiary.RMSx2C27yty0MTva]{Champion squelettique} au cours des [[/br 1d4 #temps de transformation]]{1d4 rounds} suivants. Ces champions squelettiques se trouvent sous le contrôle du volecrâne.</p>"
         },
         {
             "id": "aoLTJq3XbJ29K6yY",
@@ -6712,6 +7022,11 @@
             "id": "ouaeCAenWwGPbpdb",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "GauPueVChScKx1eH",
+            "name": "Survie (Survival)",
+            "items-description": ""
         },
         {
             "id": "Lt1Gndh1LAlY6Q2u",
@@ -6869,6 +7184,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "FdQL1f8wOuuy69Tz",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p> Le gimmerling inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises au dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "Ch3sywJ2yffhRgXI",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
@@ -6929,6 +7249,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "HhkalK1aMfqDSiWQ",
+            "name": "Boire le sang (Drink Blood)",
+            "items-description": "<p><strong>Conditions</strong>  Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoignée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{entravée}, @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente} ou consentante est à portée du vampire.</p>\n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement. La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{drainée} 1 et le vampire récupère [[/r {10}[healing]]]{10 pv}, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de l'état Drainé de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p>\n<p>L’état drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de @Check[type:medicine|dc:20|name:Transfusion]{Médecine} DD 20 et assez de sang ou un donneur) réduit l’état Drainé de 1 au bout de 10 minutes.</p>"
+        },
+        {
             "id": "0FCCLjtCWvBlUoFA",
             "name": "Frénésie draconique (Draconic Frenzy)",
             "items-description": "<p>Le dragon porte deux Frappes de griffes et une Frappe de corne dans n'importe quelle ordre</p>"
@@ -6949,6 +7274,11 @@
             "items-description": ""
         },
         {
+            "id": "0SVph284K2Css2S6",
+            "name": "Implantation d'œufs (Implant Eggs)",
+            "items-description": "<p>La guêpe géante pond ses œufs dans une créature adjacente @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralysée} ou @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente}, ce qui l’expose à la maladie de la larve de guêpe.</p>"
+        },
+        {
             "id": "oGR3hLNhUlAR66Kw",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -6967,6 +7297,11 @@
             "id": "kswB083sGau5ZaJ5",
             "name": "bonus de statut de +2 aux jds contre la magie (+2 Status to All Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "xrTNYpA1abm4LPwG",
+            "name": "Cercle (Coven)",
+            "items-description": "<p>Une guenaude annis ajoute <em>@Compendium[pf2e.spells-srd.gPvtmKMRpg9I9D7H]{cloué à terre}</em>, <em>@Compendium[pf2e.spells-srd.115Xp9E38CJENhNS]{passe-muraille}</em> et <em>@Compendium[pf2e.spells-srd.8Umt1AzYfFbC4fui]{ravages magiques}</em> à ses sorts de cercle.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
         },
         {
             "id": "lhQcYifFNlqvbw4G",
@@ -7019,6 +7354,11 @@
             "items-description": ""
         },
         {
+            "id": "escewXwusyFQw1t9",
+            "name": "Arme de souffle (Breath Weapon)",
+            "items-description": "<p>Le molosse nessien souffle des flammes qui infligent [[/r {10d6}[fire]]]{10d6 dégâts de feu} à toutes les créatures dans un @Template[type:cone|distance:15]{cône de 4,5 m} (@Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}. Si le molosse devait subir des dégâts de feu ou être ciblé par un effet de feu, cela recharge son Souffle.</p>"
+        },
+        {
             "id": "lPUoJQI3bTRTV4ct",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -7049,9 +7389,19 @@
             "items-description": ""
         },
         {
+            "id": "Crv6pRa77FWxBY6M",
+            "name": "Larve de guêpe (Wasp Larva)",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:21]{Vigueur DD 21}</p>\n<hr />\n<p><strong>Stade 1</strong> porteur sans effet néfaste ([[/br 1d6 #jours]]{1d6 jours})</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 1} ([[/br 1d3 #jours]]{1d3 jours})</p>\n<p><strong>Stade 3</strong> [[/r {5d6}]]{5d6 dégâts}, la larve émerge (fin de la maladie)</p>"
+        },
+        {
             "id": "cTy576jgZ9YTvVnf",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "H7ILhQt7vbCdQYmv",
+            "name": "Inspiration profonde (Deep Breath)",
+            "items-description": "<p>Un deinosuchus peut retenir son souffle pendant à peu près 2 heures.</p>"
         },
         {
             "id": "FRSknzZLlvXTktV6",
@@ -7074,9 +7424,24 @@
             "items-description": ""
         },
         {
+            "id": "12LD6QHUzml95C9n",
+            "name": "Épée à deux mains de froid (Frost Greatsword)",
+            "items-description": ""
+        },
+        {
             "id": "vM8KFrCj03Tm1Odl",
             "name": "Frénésie draconique (Draconic Frenzy)",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "1UmNfowZ4HWxS9rx",
+            "name": "Déflagration dévastatrice (Devastating Blast)",
+            "items-description": "<p>Le chevalier sépulcre projette un @Template[type:cone|distance:30]{cône d’énergie de 9 m}. Les créatures prises dans la zone d’effet subissent [[/r {6d12}[cold]]]{6d12 dégâts} (@Check[type:reflex|dc:29|basic:true]{jet de Réflexes basique DD 29}).</p>\n<p data-visibility=\"gm\">Il peut utiliser ce pouvoir une fois tous les 1d4 rounds. Les dégâts d’énergie sont du même type que pour armes du désastre ; Déflagration dévastatrice gagne le trait associé à ce type d’énergie.</p>"
+        },
+        {
+            "id": "fWTtIUDtbSfOzgqv",
+            "name": "Cri du général (General's Cry)",
+            "items-description": "<p>Quand un général hobgobelin lance l’initiative, tant qu’il peut percevoir au moins un adversaire, il peut pousser un puissant cri de guerre. Le général hobgobelin tente un test d’Intimidation en tant qu’action gratuite pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} un seul adversaire situé à une distance maximale de 18 m. S’il réussit, tout allié avec le trait gobelin peut, pour sa première action de son premier tour de combat, Marcher rapidement jusqu’au double de sa vitesse en une seule action.</p>"
         },
         {
             "id": "TYcAOZDcSQlHGVZx",
@@ -7142,6 +7507,11 @@
             "id": "lYpvPmdtgwwrvYGd",
             "name": "Queue (Tail)",
             "items-description": ""
+        },
+        {
+            "id": "GXr4u9s0uuvI5J6d",
+            "name": "Faiblesses des vampires (Vampire Weaknesses)",
+            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n</li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
         },
         {
             "id": "D71sSjwa6Oa7yHvw",
@@ -7222,6 +7592,16 @@
             "id": "6ROvbbPgi1hsjjkb",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "1jREnmv7xdTiRRHp",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le rejeton de vampire inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision supplémentaires} aux créatures Prises au dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
+            "id": "OgOkCo3ZpgcUbZr1",
+            "name": "Faiblesse des vampires (Vampire Weaknesses)",
+            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n</li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
         },
         {
             "id": "WGKxmcUB8pYq06Qv",
@@ -7389,9 +7769,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "M0BuH1pWhtWsVIYm",
+            "name": "Malmener (Worry)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Le loup sanguinaire @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippe/Empoigne} une créature avec ses mâchoires.</p>\n<p><strong>Effet</strong> Le loup sanguinaire secoue violemment la créature agrippée/empoignée entre ses crocs, lui infligeant [[/r {1d10+2}]]{1d10+2 dégâts} (jet de @Check[type:fortitude|dc:20|basic:true]{Vigueur basique} DD 20).</p>"
+        },
+        {
             "id": "XgoaORovhBAB82vg",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "jj8vv07lGAp4FELU",
+            "name": "Connaissances squelettiques (Skeletal Lore)",
+            "items-description": "<p>Un volecrâne peut puiser dans les souvenirs des os des créatures qui composent son corps. Cela lui confère la compétence Connaissances squelettiques, qu’il peut utiliser pour Se souvenir de savoirs de n’importe quel type. En outre, il peut parler et comprendre tous les langages connus par les créatures dont il possède les os (généralement, ces langues sont le commun et les langues régionales du territoire dont le volecrâne est originaire). Le volecrâne peut utiliser Connaissances squelettiques comme compétence servant au test principal du rituel <em>@Compendium[pf2e.spells-srd.hp6Q64dl7xbdn4gQ]{Mythes et légendes} et il peut lancer <em>Mythes et légendes</em> sans incantateur secondaire.</p>"
         },
         {
             "id": "8u1Hcx3t6JzOkXtF",
@@ -7402,6 +7792,11 @@
             "id": "Ef73Htwp9vIyrZWi",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "y5Na5QhVKW187D0K",
+            "name": "Magie mentale (Mental Magic)",
+            "items-description": "<p>Une demi-liche peut remplacer tous les composants matériels et somatiques pour incanter des sorts par des composants verbaux et elle peut remplacer tous les composants Interagir pour activer des objets magiques par des composants imaginer.</p>"
         },
         {
             "id": "aoyjyhv7Dw4gIwd3",
@@ -7441,6 +7836,11 @@
         {
             "id": "1pyQC74ZkhcOllQ8",
             "name": "Hachette (Hatchet)",
+            "items-description": ""
+        },
+        {
+            "id": "6aID4H750Zqy0EOH",
+            "name": "Épée longue en argent et en fer froid (Cold Iron Silver Longsword)",
             "items-description": ""
         },
         {
@@ -7510,7 +7910,7 @@
         },
         {
             "id": "BsLJO9VEEJtk5wse",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
@@ -7574,6 +7974,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
+            "id": "pWm5TTC2umXroqjo",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un chasseur gnoll inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "1EXMfAvy6zP7X2ix",
+            "name": "Absorption de la mémoire (Consume Memories)",
+            "items-description": "<p>Quand un maître voilé effectue une Frappe de crocs contre une créature, il peut absorber une partie des souvenirs de la victime. La cible doit réussir un jet de @Check[type:fortitude|dc:37]{Vigueur} DD 37 ou être @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{stupéfiée 1}. Un maître voilé récupère 5 points de vie à chaque fois qu’il réussit à absorber des souvenirs. Quand il parvient à utiliser ce pouvoir contre une cible, le maître voilé découvre certains souvenirs de la victime (à l’appréciation du MJ).</p>"
+        },
+        {
             "id": "hIpNUSZedk66VUWy",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -7634,6 +8044,11 @@
             "items-description": ""
         },
         {
+            "id": "4NqTHQqAkLmiUovi",
+            "name": "Puanteur (Stench)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui pénètre dans la zone affectée doit faire un jet de Vigueur @Check[type:fortitude|dc:16]DD 16}. Sur un échec, elle se trouve dans l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} et, sur un échec critique, elle subit également un malus de -1,5 m à ses Vitesses pendant 1 round. Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 à ses jets de sauvegarde pour se débarrasser de l’état malade. Une créature qui réussit son jet de sauvegarde est temporairement immunisée contre la puanteur de tous les xulgaths pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]{Effet : Puanteur Xulgath}</p>"
+        },
+        {
             "id": "p4gHmixTKN3Gb87J",
             "name": "Mâchoires de dragon (Dragon Jaws)",
             "items-description": ""
@@ -7647,6 +8062,11 @@
             "id": "Q5WTbR9lUXHMagS8",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "9AEzHj5y2T93e7EF",
+            "name": "Régurgitation (Regurgitate)",
+            "items-description": ""
         },
         {
             "id": "Jxw7RvEERHGRzycq",
@@ -7717,6 +8137,11 @@
             "id": "pJ5VmBxu1TYtLUuZ",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "SFJ6XAQzgQGC5zVV",
+            "name": "Coup au sol (Ground Slam)",
+            "items-description": "<p>Le dragon frappe le sol. Il peut agir ainsi s’il est au sol ou s’il vole à 3 m ou moins au-dessus. Chaque créature au sol dans un @Template[type:emanation|distance:10]{rayon de 3 m} doit réussir un jet de @Check[type:reflex|dc:24|traits:damaging-effect]{Réflexes} DD 24 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et subir [[/r {2d6}[bludgeoning]]]{2d6 dégâts contondants}. Puis le dragon peut Faire un pas.</p>"
         },
         {
             "id": "Id4tvbdVJaXtgOOu",
@@ -7834,6 +8259,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "AuhMdlvvBkXqKNG8",
+            "name": "Objet télékinésique (tranchant) (Telekinetic Object (Slashing))",
+            "items-description": "<p>Les dégâts sont tranchants.</p>"
+        },
+        {
             "id": "0w3FhoNrrNel3ZcH",
             "name": "Guérison négative (Negative Healing)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -7887,6 +8317,11 @@
             "id": "rbYlQJlNI4Qk0aXW",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "1cbIF1wUJSF3WWPk",
+            "name": "Objet télékinésique (contondant) (Telekinetic Object (Bludgeoning))",
+            "items-description": "<p>Les dégâts sont contondants.</p>"
         },
         {
             "id": "Bie1u5IuxXpAhbC7",
@@ -7969,8 +8404,28 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "pvdHMw62l3uanob8",
+            "name": "Reconstruction (Rejuvenation)",
+            "items-description": "<p>Quand un poltergeist est détruit, il se reforme au bout de [[/br 2d4 #jours]]{2d4 jours}, complètement guéri, là où il a été détruit. Un poltergeist peut être définitivement détruit uniquement si quelqu’un trouve la raison expliquant son existence et rétablit le tort qui empêche son esprit de trouver le repos</p>"
+        },
+        {
+            "id": "6OspJylC319MBk17",
+            "name": "Chnagement de forme (Change Shape)",
+            "items-description": "<ul>\n<li><strong>Lézard</strong>\n<ul>\n<li><strong>Vitesse</strong> 6 m</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> [[/r 1d20+8 #Mâchoires]]{Mâchoire +8} (agile, finesse), <strong>Dégâts</strong> [[/r {1d8+1}[piercing]]]{1d8+1 perforants}</li>\n</ul>\n</li>\n<li><strong>Pieuvre</strong>\n<ul>\n<li><strong>Taille</strong> petite</li>\n<li><strong>Vitesse</strong> 6 m, nage 9 m</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> [[/r 1d20+8 #Tentacle]]{Tentacule +8} (finesse), <strong>Dégâts</strong> [[/r {1d8+1}[bludgeoning]]]{1d8+1 contondants} plus @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Agripper/Empoigner}</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> [[/r 1d20+8 #Bec]]{Bec +8} (agile, finesse), <strong>Dégâts</strong> [[/r {1d6}[piercing] + {2}[poison] #Bec]]{1d6 perforant plus 2 poison}</li>\n</ul>\n</li>\n<li><strong>Scorpion</strong>\n<ul>\n<li><strong>Taille</strong> petite</li>\n<li><strong>Vitesse</strong> 9 m</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> [[/r 1d20+8 #Pince]]{Pince +8} (agile, finesse), <strong>Dégâts</strong> [[/r {1d6+1}[bludgeoning]]]{1d6+1 contondants} plus @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Agripper/Empoigner}</li>\n<li><strong>Corps-à-corps</strong> <span class=\"pf2-icon\">1</span> [[/r 1d20+8 #Dard]]{Dard +8} (agile, finesse), <strong>Dégâts</strong> [[/r {1d6}[piercing] + {1d4}[poison] #Dard]]{1d6 perforants plus 1d4 poison}</li>\n</ul>\n</li>\n</ul>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
             "id": "NHSqYE5ZeWiln3Vx",
             "name": "Sabot (Hoof)",
+            "items-description": ""
+        },
+        {
+            "id": "fqwCiWMkfhbYojJI",
+            "name": "Antimagie du golem (Golem Antimagic)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par l'acide</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {6d10}]]{6d10 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant d'acide, il subit [[/r {2d8}]]{2d8 dégâts}.</li>\n<li><strong>Ralenti par l'électricité</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type électricité, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par le feu</strong> Toute magie du type feu qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type feu, il gagne [[/r {2d8}]]{2d8 PV}.</li>\n</ul>"
+        },
+        {
+            "id": "p80DPc7fm2auFNQg",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
             "items-description": ""
         },
         {
@@ -7992,6 +8447,11 @@
             "id": "7pkevpR7Am9eNCD5",
             "name": "Gober (Swallow Whole)",
             "items-description": "<p>Petite, [[/r {1d6+6}[bludgeoning]{1d6+6 dégâts contondants}, Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
+            "id": "lwUnUfQ1EWHSs1xW",
+            "name": "Bourrasque (Gust)",
+            "items-description": ""
         },
         {
             "id": "kNOnudI7TvbeSrjS",
@@ -8254,9 +8714,19 @@
             "items-description": ""
         },
         {
+            "id": "smEk0yh1Pe95Nvsc",
+            "name": "Invisibilité naturelle (Natural Invisibility)",
+            "items-description": "<p>Un poltergeist est naturellement Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{invisible}. Il ne devient visible que quand il utilise Effrayer.</p>"
+        },
+        {
             "id": "qkKWOWe1wAc9Jffg",
             "name": "Bonus de statut de +1 jds contre magie (+1 Status to All Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "RlajqjwuSiKB8NGC",
+            "name": "Paralysie imposée (Impose Paralysis)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le golem de pierre touche une créature @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie}.</p>\n<p><strong>Effet</strong> La créature doit réussir un jet de @Check[type:fortitude|dc:30]{Vigueur DD 30} ou être @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round.</p>"
         },
         {
             "id": "6N6oDDqKb0CaILEx",
@@ -8367,6 +8837,11 @@
             "id": "BoUOzgE6tap1MfMd",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "LLDqAQlq7w0YWyO0",
+            "name": "Ergot (Talon)",
+            "items-description": "<p>@Localize[PF2E.PersistentDamage.Bleed1d4.success]</p>"
         },
         {
             "id": "yntcM5gKBjUuNen1",
@@ -8629,6 +9104,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "LbGQE0qrzbORDYH9",
+            "name": "Charge soudaine (Sudden Charge)",
+            "items-description": "<p>. Le félide musard Marche rapidement jusqu’au double de sa Vitesse. S’il termine son déplacement à portée d'allonge d’au moins un ennemi, il peut le Frapper au corps-à-corps.</p>"
+        },
+        {
             "id": "7hIKn4hwekvsOCAW",
             "name": "Aklys (Aklys)",
             "items-description": ""
@@ -8662,6 +9142,11 @@
             "id": "9KaWgpJiexo6SDru",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Jg5WkDHWpi1JRQ9k",
+            "name": "Vulnérabilité à Pierre en chair (Vulnerable to Stone to Flesh)",
+            "items-description": "<p> Un sort <em>@Compendium[pf2e.spells-srd.Pr1ruNTbzGn3H9w5]{Pierre en chair}</em> annule l’antimagie du golem et sa résistance aux dégâts physiques pendant 1 round. Un sort <em>@Compendium[pf2e.spells-srd.znv4ECL7ZtuiagtA]{Chair en pierre</em> inverse cet effet immédiatement.</p>"
         },
         {
             "id": "XYmhvkJxbC5BrIJG",
@@ -8704,6 +9189,11 @@
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "wya8y6adOGTfI5jX",
+            "name": "Changement de forme (Change Shape)",
+            "items-description": "<p>La guenaude de la nuit peut prendre l'apparence de toute femelle humanoïde de taille Moyenne. Cela ne change ni sa vitesse, ni ses attaques et ses bonus aux dégâts avec ses Frappes mais cela pourrait changer le type de dégâts sque ses Frappes infligent (les rendant typiquement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
             "id": "83QmDBGigZxaHbbd",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8717,6 +9207,11 @@
             "id": "wi645CsJxPLHzqhq",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "RaYfxxlT031lUgCP",
+            "name": "Cercueil restorateur (Coffin Restoration)",
+            "items-description": "<p>Contrairement aux autres morts-vivants, le vampire n’est pas détruit une fois à 0 PV. Il tombe seulement @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconscient}. Si son corps reste dans son cercueil pendant 1 heure, il récupère 1 PV, après quoi sa guérison accélérée commence à fonctionner normalement.</p>"
         },
         {
             "id": "rkM1yAFkUMEFUnsZ",
@@ -8754,6 +9249,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "K56mdzOHeveTvQ5D",
+            "name": "Venin de guêpe géante (Giant Wasp Venom)",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:19]{Vigueur} DD 19</p>\n<hr />\n<p><strong>Durée Maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> pas d'effet (1 round)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2} (1 round)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé} (1 round)</p>"
+        },
+        {
             "id": "3EFMknJHLeVqcKmf",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -8775,8 +9275,13 @@
         },
         {
             "id": "DRnLEIRSbgIT3V0F",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
+        },
+        {
+            "id": "eYD6EiiIYvny4Vq2",
+            "name": "Antimagie du golem (Golem Antimagic)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le froid et l’eau</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {5d10}]]{5d10 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de froid ou d'eau, il subit [[/r {2d8}]]{2d8 dégâts}.</li>\n<li><strong>Ralenti par la terre</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type terre, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par l'acide</strong> Toute magie du type acide qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type acide, il gagne [[/r {2d8}[healing]]]{2d8 PV}.</li>\n</ul>"
         },
         {
             "id": "oblGn3AB742xJUfT",
@@ -9064,6 +9569,11 @@
             "items-description": ""
         },
         {
+            "id": "hn5GBufYeA5C1oOg",
+            "name": "Boire le sang (Drink Blood)",
+            "items-description": "<p><strong>Conditions</strong>  Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoignée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{entravée}, @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente} ou consentante est à portée du vampire.</p>\n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement. La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{drainée} 1 et le vampire récupère [[/r {5}[healing]]]{5 pv}, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de l'état Drainé de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p>\n<p>L’état drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de @Check[type:medicine|dc:20|name:Transfusion]{Médecine} DD 20 et assez de sang ou un donneur) réduit l’état Drainé de 1 au bout de 10 minutes.</p>"
+        },
+        {
             "id": "TOGa0vvktQjKmJ7K",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9115,7 +9625,7 @@
         },
         {
             "id": "ib3hNOxGFodAt0fV",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
@@ -9127,6 +9637,11 @@
             "id": "9oOOWjBu08zVDEgp",
             "name": "Épée à deux mains (Greatsword)",
             "items-description": ""
+        },
+        {
+            "id": "ROtcz4ACRnmedQua",
+            "name": "Attaque foudroyante (Darting Strike)",
+            "items-description": "<p>Le deinonychus Marche rapidement sur une distance maximale de 3 m puis effectue une Frappe ou il effectue une Frappe puis Marche rapidement sur 3 m. </p>"
         },
         {
             "id": "LRoHaUgN8RugcqOi",
@@ -9189,6 +9704,11 @@
             "items-description": ""
         },
         {
+            "id": "1fzwu2J1jldVzBPc",
+            "name": "Enrouler (Coil)",
+            "items-description": "<p>La vipère géante utilise une action pour s’enrouler sur elle-même et augmenter son allonge avec ses crochets de 1,5 à 3 m. Après avoir Frappé avec ses crochets, la vipère géante est déroulée.</p>"
+        },
+        {
             "id": "Vib8DhTL418GaOhc",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -9241,6 +9761,16 @@
         {
             "id": "VKxXRGAQaygpB7SH",
             "name": "Mâchoires (Jaws)",
+            "items-description": ""
+        },
+        {
+            "id": "hYcrjabm50sPyqBV",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un lion inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "ztyTHwNIKhCgnOc2",
+            "name": "Javeline d'os (Bone Javelin)",
             "items-description": ""
         },
         {
@@ -9494,6 +10024,11 @@
             "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son arme de souffle.</p>"
         },
         {
+            "id": "Dn7B8j6FSbVD4U9x",
+            "name": "Puanteur (Stench)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui pénètre dans la zone affectée doit faire un jet de Vigueur @Check[type:fortitude|dc:16]DD 16}. Sur un échec, elle se trouve dans l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} et, sur un échec critique, elle subit également un malus de -1,5 m à ses Vitesses pendant 1 round. Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 à ses jets de sauvegarde pour se débarrasser de l’état malade. Une créature qui réussit son jet de sauvegarde est temporairement immunisée contre la puanteur de tous les xulgaths pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]{Effet : Puanteur Xulgath}</p>"
+        },
+        {
             "id": "IUNBun7zEVrlp6AY",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9699,6 +10234,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "Yi4K7PbKaZWlXxWj",
+            "name": "Lié à un site (Site Bound)",
+            "items-description": "<p>Un poltergeist est lié à un endroit et il ne peut s’éloigner de plus de 36 m du lieu où il s’est formé ou a été créé. Certains poltergeists sont liés à une pièce spécifique, à un bâtiment ou à un endroit similaire.</p>"
+        },
+        {
             "id": "7HZont6X72rI49Ax",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -9777,6 +10317,11 @@
             "id": "pChhLSd048EpUiL0",
             "name": "Crocs (Fangs)",
             "items-description": ""
+        },
+        {
+            "id": "3RCPLD1d6zfYm2VI",
+            "name": "Tout terrain (Rugged Travel)",
+            "items-description": "<p>Un gnoll ignore la première case de terrain difficile dans laquelle il se déplace à chaque action Faire un pas ou Marcher rapidement.</p>"
         },
         {
             "id": "sE5xyEupWe7f3yot",
@@ -9897,6 +10442,11 @@
             "id": "kmUfrNR3jYGHG5co",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "Imio5DQk9gfplk5I",
+            "name": "Arc court composite (Composite Shortbow)",
+            "items-description": ""
         },
         {
             "id": "jK2StyBBiefgpRNw",
@@ -10059,6 +10609,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "pYg2FGHWnoS7Le78",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un hyaenodon inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "bo8qDCWaF4txPsi1",
             "name": "Hachette boomerang acérée (Keen Returning Hatchet)",
             "items-description": ""
@@ -10132,6 +10687,11 @@
             "id": "JUgPxjF2b7DYZwEu",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "el4yrHrtMr3LobtV",
+            "name": "Bourrasque (Gust)",
+            "items-description": ""
         },
         {
             "id": "NDm80a7dNC5LKMIS",
@@ -10269,6 +10829,11 @@
             "items-description": ""
         },
         {
+            "id": "WYP5ilxerdImWTrf",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
+        },
+        {
             "id": "aGg1kw2fRdZFdeew",
             "name": "Poing de pierre (Stone Fist)",
             "items-description": ""
@@ -10379,6 +10944,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "1GBTPnqIIGld3Wu1",
+            "name": "Écailles de dragon (Dragonscaled)",
+            "items-description": "<p>La résistance d’un mage draconique kobold dépend de la couleur de ses écailles.</p>\n<hr />\n<p>Le mage draconique kobold blanc a une résistance 5 contre le froid.</p>"
+        },
+        {
             "id": "crbSG0me6XVQjR9f",
             "name": "Bourrasque (Gust)",
             "items-description": ""
@@ -10402,6 +10972,11 @@
             "id": "ZrxAcxdGyfkm2kZf",
             "name": "Pseudopode (Pseudopod)",
             "items-description": ""
+        },
+        {
+            "id": "OgkLVLhW0uOMdbGj",
+            "name": "Formation (Formation)",
+            "items-description": "<p>Lorsqu'il est adjacent à au moins deux de ses alliés, le soldat hobgobelin obtient un bonus de circonstances de +1 à la CA et aux jets de sauvegarde. Ce bonus passe à +2 aux jets de Réflexes contre les effets de zone.</p>"
         },
         {
             "id": "2rAKighB6Ywhk5s3",
@@ -10599,6 +11174,11 @@
             "items-description": ""
         },
         {
+            "id": "209XT5BBx9vzGaVU",
+            "name": "Épée longue de froid (Frost Longspear)",
+            "items-description": ""
+        },
+        {
             "id": "ex0dTLedYlwxNB3T",
             "name": "Gober (Swallow Whole)",
             "items-description": "<p>Grande, [[/r {2d8+5}[bludgeoning]{2d8+5 dégâts contondants} plus 2d6 dégâts de feu, Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
@@ -10609,6 +11189,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "GhRRqxvK6T21zheo",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Les Frappes d'un loup infligent [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "WH7tGqprqYb1tk4C",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -10617,6 +11202,11 @@
             "id": "slCMgd2stlwxBKdg",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "aTtxivkD4mgfosfH",
+            "name": "Changement de forme (Change Shape)",
+            "items-description": "<p>La guenaude verte peut prendre l'apparence de toute femelle humanoïde de taille Moyenne. Cela ne change ni sa vitesse, ni ses attaques et ses bonus aux dégâts avec ses Frappes mais cela pourrait changer le type de dégâts sque ses Frappes infligent (les rendant typiquement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
             "id": "inK7m9JBf4286NW2",
@@ -10662,6 +11252,11 @@
             "id": "mAzjVKaBRjpMwszN",
             "name": "Télépathie (Contact) (Telepathy (Touch))",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "19cNQjbQEVxmiger",
+            "name": "Tourbillon télékinésique (Telekinetic Whirlwind)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m}</p>\n<hr />\n<p>Le tourbillon télékinésique s’active dès que la demi-liche sort de sa torpeur. Tous les débris dans la zone sont charriés par une tempête tourbillonnante. Cela obscurcit la vision. Toutes les créatures dans la zone sont Masquées et, à l’exception de la demi-liche, considèrent toutes les autres créatures comme @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquées}. Toute créature autre que la demi-liche qui entre dans l’aura, ou qui y commence son tour, subit [[/r {2d12}[bludgeoning]]]{2d12 dégâts contondants}.</p>"
         },
         {
             "id": "MhpbBKngUDFRNsQF",
@@ -10712,6 +11307,16 @@
             "id": "UvKqCH4Y10AWYyTl",
             "name": "Poing (Fist)",
             "items-description": ""
+        },
+        {
+            "id": "1AbBtZhPY7lYpSm0",
+            "name": "Variole gobeline (Goblin Pox)",
+            "items-description": "<p>Les gobelins et les chiens gobelins sont immunisés à la variole gobeline.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:17]{Vigueur} DD 17</p>\n<hr />\n<p><strong>Stade 1</strong> Malade 1 (1 round)</p>\n<p><strong>Stade 2</strong> Malade 1 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 round)</p>\n<p><strong>Stade 3</strong> Malade 1 et la créature ne peut pas réduire l’état malade à moins de 1 (1 jour)</p>"
+        },
+        {
+            "id": "rWeRpLhEFS7p5VCy",
+            "name": "Formation (Formation)",
+            "items-description": "<p>Lorsqu'il est adjacent à au moins deux de ses alliés, le général hobgobelin obtient un bonus de circonstances de +1 à la CA et aux jets de sauvegarde. Ce bonus passe à +2 aux jets de Réflexes contre les effets de zone.</p>"
         },
         {
             "id": "3Jg7XQGrHZ2lpqc1",
@@ -10797,6 +11402,11 @@
             "id": "ykjhYVy331qKqLO7",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "xYOVclWnoxsqGBCY",
+            "name": "Arbalète lourde (Heavy Crossbow)",
+            "items-description": ""
         },
         {
             "id": "76JTH3gizL3NZAYl",
@@ -11099,6 +11709,11 @@
             "items-description": ""
         },
         {
+            "id": "JOlynEzl2UrSa16n",
+            "name": "Absorption d'énergie (Energy Drain)",
+            "items-description": "<p>Quand un volecrâne porte une Frappe au corps-à-corps, sa cible doit réussir un @Check[type:fortitude|dc:40]{jet de Vigueur} DD 40 ou être @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{drainé 2} et @Compendium[pf2e.conditionitems.3uh1r86TzbQvosxv]{Condamné 1}. </p>"
+        },
+        {
             "id": "gxJrJPqtpVlM0Xe6",
             "name": "Gober (Swallow Whole)",
             "items-description": "<p>Petite, [[/r {1d6+2}[bludgeoning]{1d6+2 dégâts contondants}, Rupture 9</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
@@ -11122,6 +11737,11 @@
             "id": "VXAdFMEIJiPWyhRq",
             "name": "Guérison négative (Negative Healing)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "1N7APEdVVZHtrMup",
+            "name": "Cacodaémence (Cacodaemonia)",
+            "items-description": "<p data-visibility=\"gm\">Le cacodaémon peut communiquer télépathiquement avec la créature affectée à n’importe quelle distance sur le même plan.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:17]{Vigueur DD 17}</p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> porteur (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 1} (1 jour)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 2} (1 jour)</p>\n</div>"
         },
         {
             "id": "bPBjZcWUOmlUEYIw",
@@ -11189,6 +11809,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "VdlfnhKj8BudHVMB",
+            "name": "Démarche de filou (Trickster's Step)",
+            "items-description": "<p>Le gimmerling ignore le terrain difficile et ne déclenche pas de pièges en se déplaçant.</p>"
+        },
+        {
             "id": "azSRd7to2x2eVjTv",
             "name": "Cimeterre (Scimitar)",
             "items-description": ""
@@ -11205,7 +11830,7 @@
         },
         {
             "id": "XPgz4pQn9aYVvddX",
-            "name": "Arbalète à main (Hand Crossbow)",
+            "name": "Arbalète de poing (Hand Crossbow)",
             "items-description": ""
         },
         {
@@ -11229,6 +11854,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "t1tq9YiGmfqQQV5C",
+            "name": "Arc court composite (Composite Shortbow)",
+            "items-description": ""
+        },
+        {
             "id": "HNM58d8JH28lGstw",
             "name": "Sabot (Hoof)",
             "items-description": ""
@@ -11247,6 +11877,11 @@
             "id": "gdUSuIptZvtLZ7ts",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "NxXkXhUBYYX8UsfS",
+            "name": "Tout terrain (Rugged Travel)",
+            "items-description": "<p>Un gnoll ignore la première case de terrain difficile dans laquelle il se déplace à chaque action Faire un pas ou Marcher rapidement.</p>"
         },
         {
             "id": "4uy8ctqHkWgUS4KY",
@@ -11309,6 +11944,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "A53fmiOtIr4DZqy0",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Une hyène inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "r4Qkdy83VOkw6r0p",
             "name": "Botte (Boot)",
             "items-description": ""
@@ -11357,6 +11997,11 @@
             "id": "sr3LyPHlpXyJIW1Z",
             "name": "Attaque d'opportunité (Attack of Opportunity)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "AIcffB6vSk2oEmqt",
+            "name": "Coup au sol (Ground Slam)",
+            "items-description": "<p>Le dragon frappe le sol. Il peut agir ainsi s’il est au sol ou s’il vole à 3 m ou moins au-dessus. Chaque créature au sol dans un @Template[type:emanation|distance:10]{rayon de 3 m} doit réussir un jet de @Check[type:reflex|dc:37|traits:damaging-effect]{Réflexes} DD 37 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et subir [[/r {5d6}[bludgeoning]]]{5d6 dégâts contondants}. Puis le dragon peut Faire un pas.</p>"
         },
         {
             "id": "8KbESiYnn2ngs6MZ",
@@ -11417,6 +12062,11 @@
             "id": "UKNPyXkarfzkXTHO",
             "name": "Pique (Longspear)",
             "items-description": ""
+        },
+        {
+            "id": "0xo9GafMlJXTsSNk",
+            "name": "Avantage du prédateur (Predator's Advantage)",
+            "items-description": "<p>Les créatures qui saignent sont considérées comme @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} par le deinonychus.</p>"
         },
         {
             "id": "BblU1XBSC9IdeWlp",
@@ -11492,6 +12142,11 @@
             "id": "lV6uRtAWXQ1eYrO3",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "nlnYY25ImmMf9WxI",
+            "name": "Inspiration profonde (Deep Breath)",
+            "items-description": "<p>Un défenseur homme-lézard peut retenir son souffle 175 rounds (17 minutes 30).</p>"
         },
         {
             "id": "M99t6H3so0fp0wTH",
@@ -11639,6 +12294,11 @@
             "items-description": ""
         },
         {
+            "id": "1TgSjt8UKPwTjAH9",
+            "name": "Tout terrain (Rugged Travel)",
+            "items-description": "<p>Un gnoll ignore la première case de terrain difficile dans laquelle il se déplace à chaque action Faire un pas ou Marcher rapidement.</p>"
+        },
+        {
             "id": "zeWfNg7lIyopCbmn",
             "name": "Poing (Fist)",
             "items-description": ""
@@ -11692,6 +12352,11 @@
             "id": "fOXEVyfWiHQRSyiC",
             "name": "Vision dans le noir supérieure (Greater Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
+        },
+        {
+            "id": "5HEJugVADSVpGXgp",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
         },
         {
             "id": "T6CjPHrd4XMeWpiE",
@@ -11789,6 +12454,11 @@
             "items-description": ""
         },
         {
+            "id": "kGKrPttfeXrnHGWr",
+            "name": "Putréfaction de la momie (Mummy Rot)",
+            "items-description": "<p>Cette maladie et les dégâts qu’elle inflige ne peuvent être soignés tant que la malédiction n’a pas été neutralisée. Une créature tuée par putréfaction de la momie tombe en poussière et ne peut être ressuscitée sauf par un rituel <em>@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]{résurrection</em> de niveau 7 ou une magie similaire.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:22]{Vigueur DD 22}</p> \n<hr />\n<p><strong>Stade 1</strong> porteur sans effet néfaste (1 minute)</p> \n<p><strong>Stade 2</strong> [[/r {4d6}[negative]]]{4d6 dégâts négatifs} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 1} (1 jour)</p>"
+        },
+        {
             "id": "AMOJU0wX8r6flwf4",
             "name": "Bonus de statut de +1 aux jds contre les effets positifs (+1 Status to All Saves vs Positive)",
             "items-description": ""
@@ -11802,6 +12472,11 @@
             "id": "a0noDtcOBbRDMiow",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "bKmTRJI4PjS70sWZ",
+            "name": "Marche inexorable (Inexorable March)",
+            "items-description": "<p>Le golem de pierre Marche rapidement jusqu’à sa Vitesse maximale en repoussant toute créature dans la case de laquelle il pénètre et en leur infligeant des dégâts si elles tentent de l’arrêter. Une créature peut tenter de lui bloquer le chemin en réussissant un jet de @Check[type:fortitude|dc:34|traits:damaging-effect]{Vigueur DD 34}</p>\n<p data-visibility=\"gm\">Sur un succès critique, la créature qui résiste ne subit aucun dégât. Sinon, elle subit des dégâts comme si elle avait été frappée par le poing du golem. </p>"
         },
         {
             "id": "Vy7eGgsZwEtFCJod",
@@ -11872,6 +12547,11 @@
             "id": "yLnwKltbJHYpn8qC",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "rk9Qa3TRqh7vnR4r",
+            "name": "Inspiration profonde (Deep Breath)",
+            "items-description": "<p>Un éclaireur homme-lézard peut retenir son souffle pendant 150 rounds (15 minutes).</p>"
         },
         {
             "id": "zZ7YQvZHZDePNYfh",
@@ -11969,6 +12649,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "6GOUhOX6Gf4iNJ4w",
+            "name": "Athlétisme (Athletics)",
+            "items-description": ""
+        },
+        {
             "id": "bsSr0xdB56iFuS70",
             "name": "Vision à 360° (All-Around Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
@@ -11992,6 +12677,11 @@
             "id": "dWgrFKYnx0FM8zl3",
             "name": "Bonus de statut de +1 jds contre magie (+1 Status to All Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "v8X1W0LmbkWRpOS6",
+            "name": "Effrayer (Frighten)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Le poltergeist doit être invisible.</p>\n<p><strong>Effet</strong> Le poltergeist devient visible, apparaissant sous la forme d’un humanoïde squelettique et fantomatique. Chaque créature située dans un @Template[type:emanation|distance:30]{rayon de 9 m} doit tenter un jet de @Check[type:will|dc:21]Volonté} DD 21 ; une victime est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} en cas d’échec. En cas d’échec critique, elle est aussi @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} aussi longtemps qu’elle est effrayée. Elle est temporairement immunisée pendant 1 minute en cas de succès. Au début de son prochain tour, le poltergeist redevient invisible.</p>"
         },
         {
             "id": "dXBqzoJaaPfabPMM",
@@ -12019,6 +12709,11 @@
             "items-description": ""
         },
         {
+            "id": "saqRnmZhtXKwqFed",
+            "name": "Gemmes oculaires de la demi-liche (Demilich Eye Gems)",
+            "items-description": "<p>Une demi-liche a des gemmes à la place des yeux qui brillent quand elle est active. Chaque gemme contient un sort de niveau 8 qui cible une créature (généralement un des yeux a <em>@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Dédale}</em> et l’autre <em>@Compendium[pf2e.spells-srd.BKIet436snMNcnez]{Rayon polaire}</em>). La demi-liche peut Activer un œil. Cela utilise le nombre d’actions d’incantation requis par le sort et nécessite également les composants sur ordre et imaginer. Quand une demi-liche lance un sort avec une gemme oculaire, cette dernière cesse de briller pendant [[/br 1d4 #Recharge des yeux oculaires]]{1d4 rounds}, durée pendant laquelle le sort de cet œil ne peut plus être utilisé. Parfois, une des deux <em>@Compendium[pf2e.equipment-srd.Q4o8pEdxSY0bnJQZ]{gemmes oculaires de la demi-liche} ou même les deux, peuvent être récupérées en tant qu’objet magique une fois la créature détruite.</p>"
+        },
+        {
             "id": "DyABhSgZNJ3ICo85",
             "name": "Lance (Spear)",
             "items-description": ""
@@ -12027,6 +12722,11 @@
             "id": "WeXirhh6gD0DCTGB",
             "name": "Racine (Root)",
             "items-description": ""
+        },
+        {
+            "id": "0BMCA9P7mLMAMs10",
+            "name": "Destruction d'objets (Sunder Objects)",
+            "items-description": "<p>Lorsqu'un régent arboréen endommage un objet ou une structure, il inflige [[/r {2d10}]]{2d10 dégâts} supplémentaires à cet objet ou à cette structure.</p>"
         },
         {
             "id": "VhgpqA8362l8qc64",
@@ -12289,6 +12989,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4gDOqdD5endao3AS",
+            "name": "Survie (Survival)",
+            "items-description": ""
+        },
+        {
             "id": "RG4odvzk9bSpL19C",
             "name": "Jet de flammes (Flame Jet)",
             "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d10.success]</p>"
@@ -12417,6 +13122,11 @@
             "id": "WCpWLcuShftaYr4k",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "VfGIlE5o88e6ZuW6",
+            "name": "Attaquee en meute (Pack Attack)",
+            "items-description": "<p>Un warg inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "v2Vcuxvy5icZyHkj",
@@ -12569,6 +13279,16 @@
             "items-description": ""
         },
         {
+            "id": "11mRPoFSEt1nYAnE",
+            "name": "Pulsation de lenteur (Slowing Pulse)",
+            "items-description": "<p> Chaque créature dans une @Template[type:emanation|distance:10]{émanation de 3 m} doit réussir un jet de @Check[type:fortitude|dc:30]{Vigueur} DD 30 ou être @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} pendant 1 minute.</p>\n<p data-visibility=\"gm\">Le golem ne peut utiliser une nouvelle fois Pulsation de lenteur avant [[/br 1d4 #Recharge Pulsation de lenteur]]{1d4 rounds}. </p>"
+        },
+        {
+            "id": "WnjXiMvqjEQAuxnZ",
+            "name": "Bonus de statut de +4 aux jds contre les effets mentaux (+4 Status to All Saves vs Mental)",
+            "items-description": ""
+        },
+        {
             "id": "OTKM4OSjZGvMhEEJ",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -12677,6 +13397,21 @@
             "id": "2QFZHcrVJOpbzlkr",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "0MG0h9aFc2pBo8d3",
+            "name": "Duperie (Deception)",
+            "items-description": ""
+        },
+        {
+            "id": "1gKtaE366xqxGDdV",
+            "name": "Formation (Formation)",
+            "items-description": "<p>Lorsqu'il est adjacent à au moins deux de ses alliés, le général hobgobelin obtient un bonus de circonstances de +1 à la CA et aux jets de sauvegarde. Ce bonus passe à +2 aux jets de Réflexes contre les effets de zone.</p>"
+        },
+        {
+            "id": "jfJXOP78x7xyHplx",
+            "name": "Attaque en meute (Pack Attack)",
+            "items-description": "<p>Un cultiste gnoll inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
         },
         {
             "id": "fchD9qieGM9L8Vag",

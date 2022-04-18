@@ -774,7 +774,7 @@
         {
             "id": "That's My Number",
             "name": "C'est mon numéro (That's My Number)",
-            "description": "<p><strong>Déclencheur</strong> Vous obtenez votre numéro porte bonheur comme résultat à votre d20 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence non secret</p>\n<hr />\n<p><strong>Effet</strong> Vous faites appel à la chance emmagasinée dans votre numéro porte bonheur et relancez le test déclencheur. Quoi qu'il en soit, pousser votre chance a un coût : si votre résultat sur la relance est le même nombre de nouveau, vous obtenez un échec critique, quel que soit le degré de succès que vous avez obtenu.</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous obtenez votre numéro porte bonheur comme résultat à votre d20 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence non secret</p>\n<hr />\n<p><strong>Effet</strong> Vous faites appel à la chance emmagasinée dans votre numéro porte bonheur et relancez le test déclencheur. Quoi qu'il en soit, pousser votre chance a un coût : si votre résultat sur la relance est le même nombre de nouveau, vous obtenez un échec critique, quel que soit le degré de succès que vous auriez autrement obtenu.</p>"
         },
         {
             "id": "Decipher Writing",
@@ -1155,6 +1155,11 @@
             "id": "Flurry of Blows",
             "name": "Déluge de coups (Flurry of Blows)",
             "description": "<p>Faites deux Frappes à mains nues. Si les deux touchent la même créature, faites la somme de leurs dégâts avant d’appliquer les résistances et les faiblesses. Vous appliquez votre malus d’attaques multiples à ces Frappes comme à l’accoutumée. Étant donné que déluge de coups a le trait sophistication, vous ne pouvez l’utiliser qu’une seule fois par tour.</p>"
+        },
+        {
+            "id": "Protector's Interdiction",
+            "name": "Interdiction du protecteur (Protector's Interdiction)",
+            "description": "<p><strong>Déclencheur</strong> Un allié adjacent est touché ou est l'objet d'un coup critique par une attaque</p>\n<hr />\n<p><strong>Effet</strong> Vous vous interposez entre votre allié et l'attaque. L'attaque vous touche à la place, ou vous touche de manière critique si c'était un coup critique sur votre allié.</p>"
         },
         {
             "id": "Act Together",

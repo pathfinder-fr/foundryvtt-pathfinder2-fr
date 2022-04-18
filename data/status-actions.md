@@ -1,27 +1,19 @@
 # État de la traduction (actions)
 
  * **officielle**: 110
- * **libre**: 157
- * **aucune**: 3
- * **changé**: 1
+ * **libre**: 159
+ * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[EUcnU1JTJsMF2fVD.htm](actions/EUcnU1JTJsMF2fVD.htm)|Protector's Interdiction|
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
-
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[kUME7DMhhHH6eIiH.htm](actions/kUME7DMhhHH6eIiH.htm)|That's My Number|C'est mon numéro|changé|
 
 ## Liste des traductions complétés
 
@@ -123,6 +115,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ERNaJbLeFtdV96cZ.htm](actions/ERNaJbLeFtdV96cZ.htm)|De-Animating Gestures (True)|Gestes de désactivation (corrects)|libre|
 |[ESMIHOOahLQoqxW1.htm](actions/ESMIHOOahLQoqxW1.htm)|Call Gun|Appeler un pistolet|libre|
 |[eT1jXYvz2YH70Ovp.htm](actions/eT1jXYvz2YH70Ovp.htm)|Recall Knowledge (Nature)|Se souvenir (Nature)|officielle|
+|[EUcnU1JTJsMF2fVD.htm](actions/EUcnU1JTJsMF2fVD.htm)|Protector's Interdiction|Interdiction du protecteur|libre|
 |[ev8OHpBO3xq3Zt08.htm](actions/ev8OHpBO3xq3Zt08.htm)|Tail Toxin|Queue à toxine|libre|
 |[EwgTZBWsc8qKaViP.htm](actions/EwgTZBWsc8qKaViP.htm)|Investigate|Enquêter|officielle|
 |[ewwCglB7XOPLUz72.htm](actions/ewwCglB7XOPLUz72.htm)|Lie|Mentir|officielle|
@@ -171,6 +164,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
 |[KMKuJ0onVS72t9Fv.htm](actions/KMKuJ0onVS72t9Fv.htm)|Manifest Soulforged Armament|Manifester l'arsenal du forgeur d'âme|libre|
 |[KUfLlXDWTcAWhl8l.htm](actions/KUfLlXDWTcAWhl8l.htm)|Recall Knowledge (Society)|Se souvenir (Société)|officielle|
+|[kUME7DMhhHH6eIiH.htm](actions/kUME7DMhhHH6eIiH.htm)|That's My Number|C'est mon numéro|libre|
 |[kV3XM0YJeS2KCSOb.htm](actions/kV3XM0YJeS2KCSOb.htm)|Scout|Reconnaître|officielle|
 |[KygTSeDvsFoSO6HW.htm](actions/KygTSeDvsFoSO6HW.htm)|Recall Knowledge (Arcana)|Se souvenir (Arcanes)|officielle|
 |[KyKXp599tK9BgodC.htm](actions/KyKXp599tK9BgodC.htm)|Dutiful Retaliation|Représailles consciencieuses|libre|

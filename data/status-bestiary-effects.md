@@ -2,11 +2,12 @@
 
  * **libre**: 34
  * **vide**: 10
- * **aucune**: 88
+ * **aucune**: 87
+ * **officielle**: 1
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -24,7 +25,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[g5Yen1FhEMCzCJkv.htm](bestiary-effects/g5Yen1FhEMCzCJkv.htm)|Effect: Profane Gift|
 |[GstmxSP75eKmHtCQ.htm](bestiary-effects/GstmxSP75eKmHtCQ.htm)|Effect: Hallucinogenic Pollen (Failure)|
 |[gxBjyPaYDdhjAImf.htm](bestiary-effects/gxBjyPaYDdhjAImf.htm)|Effect: Ancestral Response|
-|[hc7kR6quUE9ryRyj.htm](bestiary-effects/hc7kR6quUE9ryRyj.htm)|Effect: Splintered Ground (Critical Failure)|
 |[hdsl0XexqEL2emE3.htm](bestiary-effects/hdsl0XexqEL2emE3.htm)|Effect: Lantern of Hope (Gestalt)|
 |[HGP0c0tOK2WnC4p5.htm](bestiary-effects/HGP0c0tOK2WnC4p5.htm)|Effect: Breach the Abyss - Fire|
 |[hQsqr2sRPp9rNm4U.htm](bestiary-effects/hQsqr2sRPp9rNm4U.htm)|Effect: Putrid Blast|
@@ -144,7 +144,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7qoZauizAKfPIXeu.htm](bestiary-effects/7qoZauizAKfPIXeu.htm)|Effect: Volcanic Purge|Effet : Purge volcanique|libre|
 |[7wDH2q0UcFdu2w58.htm](bestiary-effects/7wDH2q0UcFdu2w58.htm)|Effect: Focused Assault|Effet : Assaut concentré|libre|
 |[7x0O2GqWBJiAk5PF.htm](bestiary-effects/7x0O2GqWBJiAk5PF.htm)|Effect: Brutal Rally|Effet : Ralliement brutal|libre|
-|[86uYNsVXzYWxqLTV.htm](bestiary-effects/86uYNsVXzYWxqLTV.htm)|Effect: Splintered Ground|Effet : Sol fracturé|libre|
+|[86uYNsVXzYWxqLTV.htm](bestiary-effects/86uYNsVXzYWxqLTV.htm)|Effect: Splintered Ground|Effet : Champ d'esquilles|libre|
 |[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|Effet : Morsure du péché|libre|
 |[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|Effet : Vision perturbante|libre|
 |[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'incroyant|libre|
@@ -159,5 +159,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dVVc5MYx4G3QPHoa.htm](bestiary-effects/dVVc5MYx4G3QPHoa.htm)|Effect: Guildmaster's Lead|Effet : Conduite du Maître de guilde|libre|
 |[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|Effet : Festin inspiré|libre|
 |[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|Effets : Spores brillantes|libre|
+|[hc7kR6quUE9ryRyj.htm](bestiary-effects/hc7kR6quUE9ryRyj.htm)|Effect: Splintered Ground (Critical Failure)|Effet : Champ d'esquilles (Échec critique)|officielle|
 |[ScZ8tlV5zS0Jwnqn.htm](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)|Effect: Blood Frenzy|Effet : Frénésie de sang|libre|
 |[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|Effet : Rune de flammes (épée à deux mains)|libre|

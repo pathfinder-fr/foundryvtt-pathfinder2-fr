@@ -2467,7 +2467,7 @@
         },
         {
             "id": "Blink Dog",
-            "name": "Blink Dog (Chien Esquiveur)",
+            "name": "Blink Dog (Chien esquiveur)",
             "description": "<p>À première vue, les chiens esquiveurs ne sont guère plus que des canidés barbus à longues oreilles et au pelage fauve. Pourtant, leurs yeux intelligents et le nimbe d’énergie bleuté qui danse sur leur pelage laissent entrevoir non seulement l’intelligence inhérente du chien esquiveur, mais aussi son lien avec les énergies occultes et les mystères qui se cachent à la vue d’un œil non averti. Ces créatures honorables sont aussi intelligentes que la plupart des humanoïdes. Ils vivent et chassent en grandes meutes, parcourant les forêts, les plaines et les endroits cachés du monde à la recherche de créatures maléfiques, en particulier celles qui vivent dans les profondeurs du plan éthéré. Leurs meutes sont constamment en mouvement et cachées de ceux qui voudraient les rechercher. Mais en cas de besoin, ils sont connus pour venir au secours de villages et de voyageurs perdus. Bien qu'ils n'aient pas la capacité innée de voyager dans le plan éthéré pendant de longues périodes, tous les chiens esquiveurs oscillent et ondulent constamment entre le plan matériel et le plan éthéré. Ils font de leur mieux pour utiliser leur capacité à cligner des yeux afin d'apercevoir le plan éthéré pour suivre les menaces potentielles qui pourraient s'y développer mais, en pratique, cette tactique se traduit plutôt par un flux constant d'intuitions et d'estimations des menaces éthérées. Bien sûr, pour un chien esquiveur, cet état constant de flux est aussi naturel que le fait de respirer.</p>\n<p>La direction de la meute revient toujours à un couple - un chien esquiveur plus âgé (appelé alpha) qui s'appuie sur les précieux conseils d'un compagnon de meute de confiance (le sage). L'honneur et la tradition sont les clés de voûte de la société des chiens esquiveurs. Ils sont farouchement loyaux, défendant la meute ou les créatures avec lesquelles ils se lient d'amitié jusqu'à la mort et respectent les serments transmis de portée en portée. Bien que les traditions et les serments varient d'une meute à l'autre, les liens qu'ils entretiennent grâce aux contes et aux histoires qu'ils se racontent entre eux et l'expérience partagée du mouvement des étoiles au-dessus de leur tête font de tous les chiens esquiveurs une famille élargie, une grande meute. Grâce à leurs mythes et à leur folklore, les chiens esquiveurs ont des noms pour les phénomènes célestes, notent les naissances sous des étoiles favorables et lisent les présages des conjonctions stellaires inhabituelles. Ces signes célestes font partie intégrante du mode de vie des chiens esquiveurs ; leurs noms font référence à la constellation spécifique sous laquelle ils sont nés et le sage de la meute observe les cieux à la recherche de signes qui l'aideront à décider quand un chiot est assez grand pour participer à sa première chasse.</p>",
             "senses": "odorat (imprécis) 9 m, vision dans le noir"
         },
@@ -2752,6 +2752,11 @@
             "id": "mgF7v4Mg6J6e9WVv",
             "name": "Composite Longbow (Arc long composite)",
             "items-description": ""
+        },
+        {
+            "id": "GQ4af1lP9hWhVhkx",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 mètres} (@Check[type:will|dc:25]{Volonté} DD 25)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "kJAxB9HM1zsPkPDC",
@@ -3144,6 +3149,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
         },
         {
+            "id": "oBV1Ybwqj4dpXeff",
+            "name": "Spirit Touch (Contact spirituel)",
+            "items-description": "<p>Les Frappes d’un vanth affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {2d6}[positive]]]{2d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
+        },
+        {
             "id": "3CKGWY5tOmbNJznT",
             "name": "Fist (Poing)",
             "items-description": ""
@@ -3374,6 +3384,11 @@
             "items-description": ""
         },
         {
+            "id": "R2ziTTF38PwKFQr7",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:30]{Volonté} DD 30)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "BQb8kxk0ZDelZ82e",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3441,6 +3456,11 @@
         {
             "id": "qJQGpBBEACoUjdFY",
             "name": "Claw (Griffe)",
+            "items-description": ""
+        },
+        {
+            "id": "BbzYprMJVagq4zOn",
+            "name": "Gust (Bourrasque)",
             "items-description": ""
         },
         {
@@ -3627,6 +3647,11 @@
             "id": "ayFG0wkvOvyHre59",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "GeIadA4vgUJvJ926",
+            "name": "Composite Shortbow (Arc court composite)",
+            "items-description": ""
         },
         {
             "id": "uYqNB5URDvfKjzHe",
@@ -3944,6 +3969,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "PbQYJStaqe1nhRUn",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:37]{Volonté} DD 37)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "joBz08Vy0TnC5ELN",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -4094,6 +4124,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Xc15ip4V31NZTNdq",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 mètres} (@Check[type:will|dc:43]{Volonté} DD 43)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "Q0zvzLaylr0AYBGR",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -4217,6 +4252,11 @@
             "id": "s6qHGkntlKnGpY6s",
             "name": "Telepathy (Télépathie)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "xgEzGbuJSMIIkD79",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:40]{Volonté} DD 40)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "r8zcJu9p3TzgNHoU",
@@ -4429,6 +4469,11 @@
             "items-description": ""
         },
         {
+            "id": "jwZ2PMloPddIckyK",
+            "name": "Spirit Touch (Contact spirituel)",
+            "items-description": "<p>Les Frappes d’une catrina affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {1d6}[positive]]]{1d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
+        },
+        {
             "id": "DQT6UjypWovf9CmL",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4629,6 +4674,11 @@
             "items-description": ""
         },
         {
+            "id": "2hyOsL9cmbYO1koQ",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:30]{Volonté} DD 30)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "xAtGnv1FFFsyE06f",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -4814,6 +4864,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
         },
         {
+            "id": "RNDT57aD8UzBIRVk",
+            "name": "Pack Attack (Attaque en meute)",
+            "items-description": "<p>Un trollosse inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "guUOsE03Ck5JEoBu",
             "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
@@ -4959,6 +5014,11 @@
             "items-description": ""
         },
         {
+            "id": "I6QwINd18HEwJGWW",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:31]{Volonté} DD 31)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "00kCy3dtoRU8EnP9",
             "name": "Longspear (Pique)",
             "items-description": ""
@@ -5084,6 +5144,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "YSVs60IJmBC8CFXN",
+            "name": "Pack Attack (Attaque en meute)",
+            "items-description": "<p>Un chien esquiveur inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
             "id": "nvEMR0N4HLFwMTMQ",
             "name": "Tremorsense (Perception des vibrations)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -5152,6 +5217,11 @@
             "id": "Nz33adJeSgdyaAw6",
             "name": "Hoof (Sabot)",
             "items-description": ""
+        },
+        {
+            "id": "vID81IzA60CV6yD2",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:32]{Volonté} DD 32)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "iHNeGlvXTDOXMF0H",
@@ -5587,6 +5657,11 @@
             "id": "Hmb2WHTATQHONj7o",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "mzcBU4P7MDB5Kav4",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 mètres} (@Check[type:will|dc:22]{Volonté} DD 22)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "Gz3flOxBg3X75q6s",
@@ -6049,6 +6124,11 @@
             "items-description": ""
         },
         {
+            "id": "LMv9Jl8QyuoKhMpw",
+            "name": "Spirit Touch (Contact spirituel)",
+            "items-description": "<p>Les Frappes d’un nosoi affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {1d6}[positive]]]{1d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
+        },
+        {
             "id": "gmjig3Ov1aG6tBOx",
             "name": "Mandibles (Mandibules)",
             "items-description": ""
@@ -6319,6 +6399,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "YcPEa5pOVPtksEtZ",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:26]{Volonté} DD 26)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "D5p47qiv8jIAcjoL",
             "name": "Claw (Griffe)",
             "items-description": ""
@@ -6569,6 +6654,11 @@
             "items-description": ""
         },
         {
+            "id": "kcRvfKLlgq9sdmsj",
+            "name": "Golem Antimagic (Antimagie du golem)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le son</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {6d6}]]{6d6 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de son, il subit [[/r {2d6}]]{2d6 dégâts}.</li>\n<li><strong>Ralenti par le froid</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type froid, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par le feu</strong> Toute magie du type feu qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type feu, il gagne [[/r {2d6}[healing]]]{2d6 PV}.</li>\n</ul>"
+        },
+        {
             "id": "gSm7LVM6KgueNn8S",
             "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
@@ -6699,6 +6789,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "AjxhxqAsiBgHNq9P",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:24]{Volonté} DD 24)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "5rN2CIypbGA4N34M",
             "name": "Fangs (Crocs)",
             "items-description": ""
@@ -6752,6 +6847,11 @@
             "id": "4PAeJHUBsggCTLYw",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "jskRIHujbQ0xJ8oy",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:60]{18 mètres} (@Check[type:will|dc:38]{Volonté} DD 38)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "nceXlZk44iBehzvl",
@@ -6974,6 +7074,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "gozNFecLMRX00Wzz",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:36]{Volonté} DD 36)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "LUKxBKPHrzVKWWNz",
             "name": "Tongue (Langue)",
             "items-description": ""
@@ -7097,6 +7202,11 @@
             "id": "ISiKvYdK9qbVBsG0",
             "name": "Fangs (Crocs)",
             "items-description": ""
+        },
+        {
+            "id": "1ynGuwCvWvX0EOiE",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:24]{Volonté} DD 24)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "DyfwddYc7CkBo0HK",
@@ -7774,6 +7884,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "Cl2tanuHvlyyksIz",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:37]{Volonté} DD 37)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "T30LeVWTmp9xhLg7",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8064,6 +8179,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "7RlCpEdZ5Lw3Omd2",
+            "name": "Gust (Bourrasque)",
+            "items-description": ""
+        },
+        {
             "id": "1DfgmZUiWL8m4tiP",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -8209,6 +8329,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "2M8fHq1jWvJybtt9",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:25]{Volonté} DD 25)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "E8ICm8MwDDWyjgKR",
             "name": "Rock (Rocher)",
             "items-description": ""
@@ -8247,6 +8372,11 @@
             "id": "HphLKNRNlCVczAuz",
             "name": "Claw (Griffe)",
             "items-description": ""
+        },
+        {
+            "id": "F1hR4vcfoAB63QNp",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 mètres} (@Check[type:will|dc:34]{Volonté} DD 34)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "TBsuxObKIaeVagO5",
@@ -8299,6 +8429,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "elLeiMASiyy7jPxz",
+            "name": "Spirit Touch (Contact spirituel)",
+            "items-description": "<p>Les Frappes d’un ésobok affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {1d6}[positive]]]{1d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
+        },
+        {
             "id": "wOW7iWJBYxXBP4Dm",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8332,6 +8467,11 @@
             "id": "xxEXe18G17Aqb8EC",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "0s0zoTqBFyl1ZTjC",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:60]{18 mètres} (@Check[type:will|dc:39]{Volonté} DD 39)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "V5YgaBwWcZPdAj1X",
@@ -8742,6 +8882,11 @@
             "id": "pKF3w8Hj8QFO6ZMv",
             "name": "Draconic Momentum (Élan draconique)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "L8tZphaG7qnpPLpQ",
+            "name": "Golem Antimagic (Antimagie du golem)",
+            "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le feu</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {4d8}]]{4d8 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de froid ou d'eau, il subit [[/r {2d6}]]{2d6 dégâts}.</li>\n<li><strong>Ralenti par la terre</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type terre, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par les plantes</strong> Toute magie du type plante qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type plante, il gagne [[/r {2d6}[healing]]]{2d6 PV}.</li>\n</ul>"
         },
         {
             "id": "1RpmI2FY6QNDsOVh",
@@ -9314,6 +9459,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "mUpNn76jylw99mXr",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:34]{Volonté} DD 34)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "JwstH3hUkDgNqT21",
             "name": "Stinger (Dard)",
             "items-description": ""
@@ -9717,6 +9867,11 @@
             "id": "RSXc4NTQGKjlqt3X",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "9wolaUuOroFk0cOg",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 mètres} (@Check[type:will|dc:22]{Volonté} DD 22)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         }
     ],
     "mapping": {

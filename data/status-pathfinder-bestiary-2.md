@@ -5,7 +5,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-15 19:52 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -86,7 +86,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|Mandragore|libre|
 |[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|Méphite de vapeur (Élémentaire)|libre|
 |[aVf2IojxU9ZZ64M5.htm](pathfinder-bestiary-2/aVf2IojxU9ZZ64M5.htm)|Fetchling Scout|Éclaireur Fetchelin|libre|
-|[b0jMGY65XVyuKUjf.htm](pathfinder-bestiary-2/b0jMGY65XVyuKUjf.htm)|Blink Dog|Chien Esquiveur|libre|
+|[b0jMGY65XVyuKUjf.htm](pathfinder-bestiary-2/b0jMGY65XVyuKUjf.htm)|Blink Dog|Chien esquiveur|libre|
 |[B4TJHP0yX8SXHQ4x.htm](pathfinder-bestiary-2/B4TJHP0yX8SXHQ4x.htm)|Trumpet Archon|Archange messager (Archon)|libre|
 |[b5b6J3TqbcXnmKyy.htm](pathfinder-bestiary-2/b5b6J3TqbcXnmKyy.htm)|Giant Dragonfly|Libellule géante|libre|
 |[B8dOh27iarR7rZI3.htm](pathfinder-bestiary-2/B8dOh27iarR7rZI3.htm)|Blindheim|Aveugleur|libre|
