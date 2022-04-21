@@ -1,20 +1,13 @@
 # État de la traduction (feats)
 
- * **libre**: 2527
+ * **libre**: 2528
  * **officielle**: 906
  * **changé**: 10
- * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[archetype-10-Jv24QkykqdPB7brL.htm](feats/archetype-10-Jv24QkykqdPB7brL.htm)|Unbreakable Bond|
-
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -1672,6 +1665,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[archetype-10-i8MnyasCDo3j65Xd.htm](feats/archetype-10-i8MnyasCDo3j65Xd.htm)|Quicken Heartbeat|Battements de cœur accélérés|libre|
 |[archetype-10-jBHDVsTVOBeoMoO4.htm](feats/archetype-10-jBHDVsTVOBeoMoO4.htm)|Greater Magical Edification|Édification magique supérieure|libre|
 |[archetype-10-Jnhkl2BOhxxRCTpp.htm](feats/archetype-10-Jnhkl2BOhxxRCTpp.htm)|Vigil's Walls Rise Anew|Les murs de Vigie se dressent de nouveau|libre|
+|[archetype-10-Jv24QkykqdPB7brL.htm](feats/archetype-10-Jv24QkykqdPB7brL.htm)|Unbreakable Bond|Lien incassable|libre|
 |[archetype-10-jvQoupE76OeUpjZp.htm](feats/archetype-10-jvQoupE76OeUpjZp.htm)|Scout's Pounce|Bond de l'Éclaireur|libre|
 |[archetype-10-JwosaDYoqfPiFMYa.htm](feats/archetype-10-JwosaDYoqfPiFMYa.htm)|Eidetic Memorization|Mémorisation parfaite|libre|
 |[archetype-10-K0x90HNHi5hONdDl.htm](feats/archetype-10-K0x90HNHi5hONdDl.htm)|Beast Dynamo Howl|Dynamo hurlement bestial|libre|

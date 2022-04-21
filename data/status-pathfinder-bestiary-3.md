@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **changé**: 336
- * **libre**: 4
+ * **changé**: 335
+ * **libre**: 5
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -198,7 +198,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mupW1Mgec250lQiZ.htm](pathfinder-bestiary-3/mupW1Mgec250lQiZ.htm)|Umasi|Umasi|changé|
 |[n1GmLT7b5Q579Tcf.htm](pathfinder-bestiary-3/n1GmLT7b5Q579Tcf.htm)|Trailgaunt|Échalas des chemins|changé|
 |[N6nBHGfmlaeMiBMP.htm](pathfinder-bestiary-3/N6nBHGfmlaeMiBMP.htm)|Hellwasp Swarm|Nuée de guêpes de l'enfer|changé|
-|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (Fey)|changé|
 |[NhHGDx6ChbrhAmbO.htm](pathfinder-bestiary-3/NhHGDx6ChbrhAmbO.htm)|Domovoi|Domovoï (Esprit de la maison)|changé|
 |[NikAalo85JWVE6d2.htm](pathfinder-bestiary-3/NikAalo85JWVE6d2.htm)|Nagaji Soldier|Soldat nagaji|changé|
 |[nIXWanjtyklfwH7u.htm](pathfinder-bestiary-3/nIXWanjtyklfwH7u.htm)|Tiddalik|Tiddalik|changé|
@@ -354,5 +353,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[EGyCQDseM9FaCl78.htm](pathfinder-bestiary-3/EGyCQDseM9FaCl78.htm)|Chouchin-obake|Chouchin-obaké (tsukumogami)|libre|
 |[hh7OuFB5BQIrfeRT.htm](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obake|Kasa-obaké (tsukumogami)|libre|
+|[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (Fée)|libre|
 |[o740a5FFLG834FkV.htm](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Desert Giant|Géant du désert|libre|
 |[pFUv7BzSjYTOo5mO.htm](pathfinder-bestiary-3/pFUv7BzSjYTOo5mO.htm)|Monkey|Singe (primate)|libre|

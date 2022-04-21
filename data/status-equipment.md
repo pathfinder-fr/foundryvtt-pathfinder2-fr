@@ -6,7 +6,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1280,7 +1280,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-01-9wBwuCi6jo4sfaLb.htm](equipment/equipment-01-9wBwuCi6jo4sfaLb.htm)|Puzzle Box (Complex) (Hollow)|Boite à énigmes creuse complexe|libre|
 |[equipment-01-ApMC9PSOnj7cPAGL.htm](equipment/equipment-01-ApMC9PSOnj7cPAGL.htm)|Bomb Launcher|Lanceur de bombe|libre|
 |[equipment-01-ba7Yba3Qexj4DpnD.htm](equipment/equipment-01-ba7Yba3Qexj4DpnD.htm)|Magical Hearing Aids|Appareil auditif magique|libre|
-|[equipment-01-bWcH5lQ3AuaQwZ08.htm](equipment/equipment-01-bWcH5lQ3AuaQwZ08.htm)|Mudlily|Lotus doré|libre|
+|[equipment-01-bWcH5lQ3AuaQwZ08.htm](equipment/equipment-01-bWcH5lQ3AuaQwZ08.htm)|Mudlily|lys de vase|libre|
 |[equipment-01-ckGYDocGEaelHfXF.htm](equipment/equipment-01-ckGYDocGEaelHfXF.htm)|Manacles (Simple)|Menottes (simple)|officielle|
 |[equipment-01-CVTbxCY85nLoHYuw.htm](equipment/equipment-01-CVTbxCY85nLoHYuw.htm)|Aeon Stone (Dull Grey)|Pierre d'éternité (gris terne)|libre|
 |[equipment-01-dj6sdn6b8Rw1Taih.htm](equipment/equipment-01-dj6sdn6b8Rw1Taih.htm)|Mechanical Torch|Torche mécanique|libre|

@@ -87,7 +87,7 @@
         {
             "id": "Terotricus",
             "name": "Terotricus",
-            "description": "<p>Le légendaire Térotricus est une gigantesque moisissure visqueuse venue des Abysses. Sa conscience collective est présente dans des régions entières et se répand là où l’emporte son nuage de spores en constante croissance. Une fois sorti du royaume des Abysses et infiltré sur le plan matériel, un térotricus se met en quête de créatures vivantes dont il se nourrit en les contaminant de ses spores. Sa présence peut sonner le glas de tout ce qui croise son chemin.</p> \n<p>Les térotricus se déplacent en allongeant et en contractant rapidement leur «corps» visqueux. Ils peuvent creuser dans le sol, glisser sur l’eau et grimper des pentes escarpées. Ces mastodontes pourrissants n’ont toutefois pas besoin de voyager pour que leurs plans portent leurs fruits. Leurs spores se fixent facilement sur des démons et d’autres habitants des Abysses qui exportent ce fléau sur le plan matériel une fois ces fiélons convoqués.</p> \n<p>Quand un térotricus contamine une créature avec ses spores, des moisissures aux allures de toile d’araignée commencent à apparaître sur la peau de la victime jusqu’à recouvrir entièrement son corps, auquel cas son esprit est également asservi et soumis à la volonté du térotricus. Le térotricus préfère s’en prendre aux animaux, aux elfes et aux fées, mais ne se gêne pas pour contaminer toutes les créatures qu’il parvient à attraper. Des cultes de Fléau des Arbres tentent parfois d’entrer en contact avec un térotricus, mais ces tentatives aboutissent toujours à la création d’une nouvelle secte d’esclaves contaminés par des spores.</p>",
+            "description": "<p>Le légendaire Terotricus est une gigantesque moisissure visqueuse venue des Abysses. Sa conscience collective est présente dans des régions entières et se répand là où l’emporte son nuage de spores en constante croissance. Une fois sorti du royaume des Abysses et infiltré sur le plan matériel, un terotricus se met en quête de créatures vivantes dont il se nourrit en les contaminant de ses spores. Sa présence peut sonner le glas de tout ce qui croise son chemin.</p> \n<p>Les terotricus se déplacent en allongeant et en contractant rapidement leur «corps» visqueux. Ils peuvent creuser dans le sol, glisser sur l’eau et grimper des pentes escarpées. Ces mastodontes pourrissants n’ont toutefois pas besoin de voyager pour que leurs plans portent leurs fruits. Leurs spores se fixent facilement sur des démons et d’autres habitants des Abysses qui exportent ce fléau sur le plan matériel une fois ces fiélons convoqués.</p> \n<p>Quand un terotricus contamine une créature avec ses spores, des moisissures aux allures de toile d’araignée commencent à apparaître sur la peau de la victime jusqu’à recouvrir entièrement son corps, auquel cas son esprit est également asservi et soumis à la volonté du terotricus. Le terotricus préfère s’en prendre aux animaux, aux elfes et aux fées, mais ne se gêne pas pour contaminer toutes les créatures qu’il parvient à attraper. Des cultes de Fléau des Arbres tentent parfois d’entrer en contact avec un terotricus, mais ces tentatives aboutissent toujours à la création d’une nouvelle secte d’esclaves contaminés par des spores.</p>",
             "hpdetails": "régénération 25 (désactivée par le froid)",
             "saves": "+1 de statut contre la magie",
             "senses": "perception des vibrations (imprécis) 36m, vision dans le noir"
@@ -3259,6 +3259,11 @@
             "items-description": ""
         },
         {
+            "id": "ZktMGhL2mkH1daBn",
+            "name": "Ice Climb",
+            "items-description": "<p>Un dragon blanc peut escalader la glace à la vitesse d’escalade indiquée. Il ignore les terrains difficiles et très difficiles à cause de la glace et de la neige et ne risque pas de tomber sur ces surfaces.</p>"
+        },
+        {
             "id": "Y2ewuQtDMN0O0bSp",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3374,6 +3379,11 @@
             "items-description": ""
         },
         {
+            "id": "LpOv4VRyaN38UswN",
+            "name": "Sneak Attack",
+            "items-description": "<p>L'éclaireur homme-lézard inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "yuu0RBqGlI0PYbGU",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -3397,6 +3407,11 @@
             "id": "cgTMxtmKD5ESJlyX",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "maDrDEZzxU5On8gn",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le traqueur caligni inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "ZQs5C40PhQ6fLEOd",
@@ -3447,6 +3462,11 @@
             "id": "KcCw29PtlpuADI1x",
             "name": "Pack Attack",
             "items-description": "<p>Un sergent gnoll inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "n8B8DCAuDAVcZqQx",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:27]{Volonté} DD 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "AFuY9kW00fzj7WH5",
@@ -3532,6 +3552,16 @@
             "id": "FKd3nk9u6PpHnAtX",
             "name": "Draconic Momentum",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "2JiFczs0m1iIKqPZ",
+            "name": "Flurry of Strands",
+            "items-description": "<p>L’enlaceur porte une Frappe de filament avec chacun de ses filaments (sauf ceux qui servent à @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobiliser} des créatures). Chaque attaque doit être dirigée contre une cible différente. Ces attaques sont toutes comptabilisées dans le malus d’attaques multiples de l’enlaceur, mais son malus n’augmente qu’une fois que toutes les attaques ont été effectuées.</p>"
+        },
+        {
+            "id": "H85aThyyHpy8z06u",
+            "name": "Pull the Strands",
+            "items-description": "<p>L’enlaceur tire à lui toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoignées/agrippées} grâce à ses filaments. L’enlaceur fait un unique test @Check[type:athletics]{d’Athlétisme} et en compare le résultat avec le DD de Vigueur de chacune des créatures @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisées}. L’enlaceur tire à lui chaque créature face à laquelle il a obtenu un succès sur une distance maximale de 7,5 m, et chaque créature face à laquelle il a obtenu un succès critique d’une distance maximale de 15 m.</p>"
         },
         {
             "id": "pO7Lt2BaAG6zgDvw",
@@ -3714,6 +3744,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "q1LhwW1syAxORXNt",
+            "name": "Staccato Strike",
+            "items-description": "<p>Avec de subtiles altérations de l’intensité et de la tonalité de son chant, le cauthooj pousse une créature @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} par son Gazouillement mélodieux à effectuer une Frappe. Cela fonctionne comme les autres Frappes effectuées par des créatures confuses sauf que le cauthooj choisit la cible. S’il n’y a aucune cible à portée, ou si la créature est incapable de Frapper pour une raison ou pour une autre, ce pouvoir n’a aucun effet.</p>"
+        },
+        {
             "id": "HDOKj3GkjZCeH2k3",
             "name": "Scent (Imprecise) 60 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -3774,6 +3809,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "cM51Cf58q73IyWOj",
+            "name": "Trackless Step",
+            "items-description": "<p>Le dragon vert bénéficie toujours de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} dans un environnement naturel même en se déplaçant à pleine vitesse.</p>"
+        },
+        {
             "id": "9OiXFTpXGJPjEwUL",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -3782,6 +3822,11 @@
             "id": "oN5KE37Rg66tMPMp",
             "name": "Beak",
             "items-description": ""
+        },
+        {
+            "id": "206EmbcftIC6vntv",
+            "name": "Big Swing",
+            "items-description": "<p>Le géant de pierre effectue une Frappe de massue. La cible est bousculée jusqu’à 3 m en cas de coup réussi ou jusqu’à 6 m en cas de coup critique.</p>\n<p>Si la cible percute un objet solide ou atterrit sur le sol, elle subit des dégâts contondants comme si elle avait chuté d’une hauteur égale à la distance parcourue.</p>"
         },
         {
             "id": "DOr9FvQdsMfK9He0",
@@ -3809,9 +3854,19 @@
             "items-description": ""
         },
         {
+            "id": "B9QrAlNM1MoP8sDk",
+            "name": "Bardic Lore",
+            "items-description": "<p>Les sphinx sont curieux par nature et leur amour pour les énigmes et les mystères les pousse à recueillir des informations de toutes sortes. Les sphinx ont le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}, ce qui leur permet de Se souvenir d’informations sur n’importe quel sujet.</p>"
+        },
+        {
             "id": "XLiAwm5JWDoSNIPF",
             "name": "Beak",
             "items-description": ""
+        },
+        {
+            "id": "1wtLTJx2lkvun6gV",
+            "name": "Ice Climb",
+            "items-description": "<p>Un dragon blanc peut escalader la glace à la vitesse d’escalade indiquée. Il ignore les terrains difficiles et très difficiles à cause de la glace et de la neige et ne risque pas de tomber sur ces surfaces.</p>"
         },
         {
             "id": "EaebstxdYxHFj1bR",
@@ -3989,6 +4044,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "a1diHlUPKBt1e8ZM",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:23]{Volonté} DD 23</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "uXbNGzD4guadWLp9",
             "name": "Longsword",
             "items-description": ""
@@ -4094,6 +4154,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "IsMVcoiRI9sN4iQe",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:28]{Volonté} DD 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "dxLrvmfMtHkddYo4",
             "name": "Spirit Touch",
             "items-description": "<p>Les Frappes d’un morrigna affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {4d6}[positive]]]{4d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
@@ -4112,6 +4177,11 @@
             "id": "myHidV8LBPQYfgGg",
             "name": "Constant Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "yyKQP4J4yplKGLL0",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:39]{Volonté} DD 39</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "i3byEluD3eLH89OG",
@@ -4214,6 +4284,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "LDLJlCLplbi1fPsU",
+            "name": "Disperse",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le tourbillon vivant subit des dégâts à cause d’une action hostile.</p>\n<p><strong>Effet</strong> Le tourbillon vivant se disperse.</p>\n<p>Jusqu’à la fin du tour actuel, il ne peut pas être attaqué ni ciblé, il n’occupe pas d’espace et toutes les auras ou émanations dont il dispose sont supprimées. À la fin du tour, le tourbillon vivant se reforme dans n’importe quel espace dans lequel il peut tenir dans un rayon de 7,5 m de là où il s’est dispersé et toutes les auras ou les émanations qu’il possède sont restaurées tant que leur durée ne s’est pas épuisée pendant la dispersion.</p>"
+        },
+        {
             "id": "O7YsO4EwyIY6RIDs",
             "name": "Jaws",
             "items-description": ""
@@ -4221,6 +4296,11 @@
         {
             "id": "MJ00yNypQKm6JLmB",
             "name": "Claw",
+            "items-description": ""
+        },
+        {
+            "id": "1ArJ2KyY45DuuLtC",
+            "name": "Crashing Wind",
             "items-description": ""
         },
         {
@@ -4257,6 +4337,11 @@
             "id": "d15C0z784CMcZVi4",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "9YuL1pu4ZHOAaxcZ",
+            "name": "Spore Cloud",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui entre ou commence son tour dans l’aura est exposée au flétrissement sporifère. </p>"
         },
         {
             "id": "kfjRR8MHRHoxgCkF",
@@ -4579,6 +4664,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "vEwagos32fLnf4Zc",
+            "name": "Scent 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
             "id": "f4rcDncEwu2OdC1a",
             "name": "Jaws",
             "items-description": ""
@@ -4694,9 +4784,19 @@
             "items-description": ""
         },
         {
+            "id": "YMj2YteKtdg79DoF",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le tourmenteur gobelours inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "gUqFH9kEouWhTaTk",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "PIKiUX4h9vUWIM3Y",
+            "name": "Armor-Rending Bite",
+            "items-description": "<p>La mère de la ruche effectue une Frappe avec ses mandibules ; si la Frappe touche, l’armure de la cible subit les dégâts et les dégâts d’acide ignorent la Solidité de l’armure.</p>"
         },
         {
             "id": "UfLxn8BgeR2BOqee",
@@ -4799,6 +4899,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "2MJUBT30Vn8bziTk",
+            "name": "Two-Headed Strike",
+            "items-description": "<p>Le baomal effectue une Frappe avec chaque mâchoire contre deux créatures différentes. Ces Frappes comptent comme une seule attaque pour le malus d’attaques multiples du baomal et le malus n’augmente pas avant que les deux attaques aient été effectuées.</p>"
+        },
+        {
             "id": "CvfLXQsndA3wb5S1",
             "name": "Foot",
             "items-description": ""
@@ -4839,6 +4944,11 @@
             "items-description": ""
         },
         {
+            "id": "4Iw8N4ANO4rwmrYg",
+            "name": "Tentacle",
+            "items-description": "<p>Soit Agrippement/Empognade amélioré ou Bousculade améliorée</p>"
+        },
+        {
             "id": "QbCC0DUye0oVFVc4",
             "name": "Draconic Momentum",
             "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
@@ -4867,6 +4977,11 @@
             "id": "kXAwzMH9r670KlCp",
             "name": "Glaive",
             "items-description": ""
+        },
+        {
+            "id": "QotCsUsiVM6VxMDP",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:23]{Volonté} DD 23</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "aQZZc8Ut3mpK2lO3",
@@ -5122,6 +5237,11 @@
             "id": "UhtLIPQpF9818xr2",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "fvSVZqV8GEHEzMVu",
+            "name": "Spore Blight",
+            "items-description": "<p>Les plantes et les champignons sont immunisés.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:40]{Vigueur} DD 40</p>\n<hr />\n<p><strong>Stade 1</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 4} and @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} (1 jour)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.9qGBRpbX9NEwtAAr]{Controlé} par le terotricus (comme <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> durant [[/br 5d8 #Durée controlée]]{5d8 jours})</p>\n<p><strong>Stade 4</strong> mort</p>"
         },
         {
             "id": "ui6XZl3S0T45fJFu",
@@ -5549,6 +5669,11 @@
             "items-description": ""
         },
         {
+            "id": "VBQJPk4ZTjKYg7E1",
+            "name": "Strand",
+            "items-description": ""
+        },
+        {
             "id": "jdNRBv6RogEW3DdF",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
@@ -5709,6 +5834,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "82cDSepgqLoFDjw8",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "BtBJ8FVnBLJgGYxG",
             "name": "Wing",
             "items-description": ""
@@ -5737,6 +5867,11 @@
             "id": "x0anEXm5LMDe02cY",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "vipJW7r7EquegImq",
+            "name": "Adamantine Fangs",
+            "items-description": ""
         },
         {
             "id": "rGYOx7SHsrayrSsA",
@@ -5979,6 +6114,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "cC853WQiGJtDTkRc",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "69DgtYVywDs0D5pB",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6049,6 +6189,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "hSGaU1UT8mzmPFWl",
+            "name": "Petrifying Gaze",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Toute créature qui termine son tour dans l’aura doit faire un jet de @Check[type:fortitude|dc:25]{Vigueur} DD 25. Si elle échoue, elle est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} pendant 1 minute. La méduse peut activer ou désactiver l’aura en utilisant une seule action unique dotée du trait concentration.</p>"
+        },
+        {
             "id": "lizgWV0pNr6rV2SG",
             "name": "Tail",
             "items-description": ""
@@ -6057,6 +6202,11 @@
             "id": "7lto9FCIXzooWeAW",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "eI1CqQ6uSb4iGiLS",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le traqueur dero inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "qhS5ZEJcqNFytqWd",
@@ -6162,6 +6312,11 @@
             "id": "nS74JTfKVbDhxOa2",
             "name": "Shield Block",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
+        },
+        {
+            "id": "LkBIOwt4NW6BfYFE",
+            "name": "Psychic Static Aura",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:120]{36 m}</p>\n<hr />\n<p>Toutes les créatures, à l’exception des aberrations, qui commencent leur tour dans la zone subissent 5d6 points de dégâts mentaux.</p>"
         },
         {
             "id": "QFbge8UGIYYOgoxR",
@@ -6439,6 +6594,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "NS7yHszQCqQS0Bfj",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le roublard drow inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "h0WWEsFcTFj9dtG9",
             "name": "Constant Spells",
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -6539,6 +6699,11 @@
             "items-description": ""
         },
         {
+            "id": "24g2FSPaGiTvJB6C",
+            "name": "Fling",
+            "items-description": "<p><strong>Conditions</strong> Une créature est Empoignée dans la mâchoire du tyrannosaure.</p>\n<p><strong>Effet</strong> Le tyrannosaure projette la créature dans les airs jusqu’à 3 m de hauteur et à une distance de 6 m. La créature tombe de 7,5 m (si le tyrannosaure l’a lancée aussi haut qu’il le peut) et subit les dégâts de chute correspondants. Si la créature projetée tombe sur une autre créature, cette dernière subit la même quantité de dégâts contondants. La créature percutée peut tenter un jet de @Check[type:reflex|dc:23|basic:true]{Réflexes basique} DD 23.</p>"
+        },
+        {
             "id": "B9VILNOR0aKT4LQ0",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -6612,6 +6777,11 @@
             "id": "eG1Bf18XYFvkALTq",
             "name": "Scent (Imprecise) 60 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "7O6Ud0aHDjF3hlFD",
+            "name": "Infest Environs",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Conditions</strong> Le terotricus est dans une zone forestière ou un marais.</p>\n</div>\n<p><strong>Effet</strong> Le terotricus aspire les nutriments des arbres et des buissons à proximité tout en les contaminant de ses moisissures. Toute la flore non magique (mais pas les créatures végétales) dans une @Template[type:emanation|distance:60]{émanation de 18 m} se flétrit et se recouvre d’infectes moisissures et de champignons visqueux, ce qui annule les éventuels abris et camouflages que procurent les arbres et les buissons. Le terotricus récupère [[/r {200}[healing]]]{200 points de vie}.</p>"
         },
         {
             "id": "fTPjypXzhscP42dn",
@@ -6689,6 +6859,11 @@
             "items-description": "<p>Le gimmerling revêt une forme humanoïde ou reprend sa forme naturelle. Sous forme humanoïde, il perd son aura semée d’embûches et son équipement prend l’aspect de babioles et de jouets. S’il prend la forme d’un humanoïde sans griffes ni crocs, il perd la Frappe correspondante. S’il perd sa Frappe de griffe, il obtient une Frappe de poing identique, sauf qu’elle inflige des dégâts contondants.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
+            "id": "20xbqCZ1qrIT5Yqx",
+            "name": "Ensnare",
+            "items-description": "<p>Quand le léchi calebasse blesse une créature avec une Frappe du poing ou de graine, des vignes jaillissent du léchi (ou de la graine) et s’enroulent autour des membres de la cible. La cible doit faire un jet de @Check[type:reflex|dc:17]{Réflexes} DD 17. Sur un échec, la cible subit un malus de statut de –3 m à sa Vitesse pendant 1 round ; avec un échec critique, la cible est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} pendant 1 round et le malus à sa Vitesse dure 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.fPhbDSTPuT01f0Kn]{Effet : Prise au piège}</p>"
+        },
+        {
             "id": "ObIC1c8HIIuC53Nb",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6732,6 +6907,11 @@
             "id": "XTXRL6O388nfibXc",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "2eV3trm8nKeqQ2Z4",
+            "name": "Distracting Frolic",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Un allié dans un rayon de 3 m du danseur effectue un jet de sauvegarde contre un effet mental ou d’illusion.</p>\n<p><strong>Effet</strong> L’allié ciblé peut lancer deux fois son jet de sauvegarde et choisir le meilleur résultat.</p>"
         },
         {
             "id": "2gy1EqZ99rbJPoec",
@@ -6884,6 +7064,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "8W4is1CtFAUBw0Zd",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "90eQFUneXcsHeKSK",
             "name": "Staff",
             "items-description": ""
@@ -6909,6 +7094,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "1xcDVCY3sx0uDDys",
+            "name": "Greater Constrict",
+            "items-description": "<p>[[/r {2d12+13}[bludgeoning]]]{2d12+13 dégâts contondants}, @Check[type:fortitude|dc:39|basic:true]{Vigueur basique} DD 39</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "QX0Ta7fQzEhuiCCB",
             "name": "Dagger",
             "items-description": ""
@@ -6927,6 +7117,11 @@
             "id": "1AemwaFBoSAJ1UHj",
             "name": "Change Shape",
             "items-description": "<p>La guenaude annis peut prendre l'apparence de toute femelle humanoïde de taille Moyenne. Cela ne change ni sa vitesse, ni ses attaques et ses bonus aux dégâts avec ses Frappes mais cela pourrait changer le type de dégâts sque ses Frappes infligent (les rendant typiquement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
+            "id": "sCLiSoe59ubmpiPk",
+            "name": "Change Shape",
+            "items-description": "<p>Comme le léchi de feuilles mais la créature se transforme en calebassier. cette capacité utilise autrement les effets de <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Forme d'arbre}</em>.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
         },
         {
             "id": "BaQdyDW5VvRs5ZV4",
@@ -6967,6 +7162,11 @@
             "id": "0F1cIENDKxVfgMvZ",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "xpcbUoWx3vMpIFDi",
+            "name": "Regeneration 25 (Deactivated by Cold)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
         },
         {
             "id": "yDIuApGqKF4695Oq",
@@ -7374,6 +7574,11 @@
             "items-description": ""
         },
         {
+            "id": "lszUCBGYOxZzhPEU",
+            "name": "Tremorsense (Imprecise) 90 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "dD0COaIGpOldIcFD",
             "name": "Shield Bash",
             "items-description": ""
@@ -7424,6 +7629,11 @@
             "items-description": ""
         },
         {
+            "id": "Eizm8JTXmxGFPtFL",
+            "name": "Verdant Burst",
+            "items-description": "<p>Quand un léchi callebasse meurt, une explosion d’énergie primordiale jaillit de son corps et toutes les créatures végétales dans une émanation de 9 m récupèrent [[/r {1d8}[healing]]]{1d8 points de vie}. La zone est couverte de callebasses et devient un terrain difficile. Si le terrain n’est pas un environnement viable pour ces callebasses, elles se flétrissent au bout de 24 h.</p>"
+        },
+        {
             "id": "12LD6QHUzml95C9n",
             "name": "Frost Greatsword",
             "items-description": ""
@@ -7437,6 +7647,11 @@
             "id": "1UmNfowZ4HWxS9rx",
             "name": "Devastating Blast",
             "items-description": "<p>Le chevalier sépulcre projette un @Template[type:cone|distance:30]{cône d’énergie de 9 m}. Les créatures prises dans la zone d’effet subissent [[/r {6d12}[cold]]]{6d12 dégâts} (@Check[type:reflex|dc:29|basic:true]{jet de Réflexes basique DD 29}).</p>\n<p data-visibility=\"gm\">Il peut utiliser ce pouvoir une fois tous les 1d4 rounds. Les dégâts d’énergie sont du même type que pour armes du désastre ; Déflagration dévastatrice gagne le trait associé à ce type d’énergie.</p>"
+        },
+        {
+            "id": "ivsgBmmJjZW5Wr5S",
+            "name": "Blood Soak",
+            "items-description": "<p>Le bonnet rouge trempe son bonnet dans le sang d’un ennemi tué. Cet ennemi doit être mort au cours de la dernière minute écoulée et le bonnet rouge doit avoir participé à sa mise à mort. Le bonnet rouge gagne un bonus de statut de +4 à ses jets de dégâts pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.wPIGBcpCqCWgrCiq]{Effet : Imbibition de sang}</p>"
         },
         {
             "id": "fWTtIUDtbSfOzgqv",
@@ -7474,6 +7689,11 @@
             "items-description": ""
         },
         {
+            "id": "1uZuWVNr0woQanKG",
+            "name": "Claw Rake",
+            "items-description": "<p>Le sphinx se cabre et effectue deux Frappes de griffe sur la même cible, en utilisant le même bonus d’attaque que sa meilleure attaque au corps-à-corps. Si les deux attaques infligent des dégâts, la cible subit un montant de dégâts supplémentaires égal à celui d’une Frappe de griffe.</p>"
+        },
+        {
             "id": "W9vP5WtfdUoAWPDY",
             "name": "Jaws",
             "items-description": ""
@@ -7487,6 +7707,11 @@
             "id": "cxCbteeoXr6WayNl",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "2vBMTexIigEtaKt3",
+            "name": "Breath Weapon",
+            "items-description": "<p>Le dragon féérique souffle un gaz euphorique dans un @Template[type:cone|distance:10]{cône de 3 m}. Chaque créature dans la zone doit réussir un jet de @Check[type:fortitude|dc:18]{Vigueur} DD 18) ou être @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 2} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} pendant [[/br 1d4 #durée de l'effet]]{1d4 rounds}. En cas d'échec critique, la durée est de 1 minute.</p>.</p>\n<p data-visibility=\"gm\">Le dragon féérique ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
         },
         {
             "id": "5UO7IHt7Yn75Z9rL",
@@ -7577,6 +7802,11 @@
             "id": "9h7bBppeEIWnTtJq",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "UipChONJlSGScaQZ",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le caligni rampant inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "Qk0N8XSgIpwlNKmf",
@@ -7794,6 +8024,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "pyVnqo4FLO0RWxrX",
+            "name": "Improved Push 20 feet (40 feet on a Critical Hit)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
+        },
+        {
             "id": "y5Na5QhVKW187D0K",
             "name": "Mental Magic",
             "items-description": "<p>Une demi-liche peut remplacer tous les composants matériels et somatiques pour incanter des sorts par des composants verbaux et elle peut remplacer tous les composants Interagir pour activer des objets magiques par des composants imaginer.</p>"
@@ -7841,6 +8076,11 @@
         {
             "id": "6aID4H750Zqy0EOH",
             "name": "Cold Iron Silver Longsword",
+            "items-description": ""
+        },
+        {
+            "id": "SmRyQEGPbRIR82tT",
+            "name": "Tsunami Jet",
             "items-description": ""
         },
         {
@@ -7964,6 +8204,11 @@
             "items-description": ""
         },
         {
+            "id": "6UZkK4IZ3193CYxr",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "ZuFNPk5MmcRIzGRR",
             "name": "Draconic Frenzy",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe d'aile dans n'importe quel ordre.</p>"
@@ -8067,6 +8312,11 @@
             "id": "9AEzHj5y2T93e7EF",
             "name": "Regurgitate",
             "items-description": ""
+        },
+        {
+            "id": "r89JPcf2a0fUQOAP",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:31]{Volonté} DD 31</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "Jxw7RvEERHGRzycq",
@@ -8299,6 +8549,11 @@
             "items-description": ""
         },
         {
+            "id": "ICgKjXXhG8h1g0BE",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "zKwj4CDPZ698YJci",
             "name": "Hoof",
             "items-description": ""
@@ -8312,6 +8567,11 @@
             "id": "Eaucw0lxqJ7eKezw",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "yYFISOz912MYdEDd",
+            "name": "Breath Weapon",
+            "items-description": "<p>Le dragon souffle des éclairs qui infligent [[/r {8d6}[acid]]]{8d6 dégâts d'acide} aux créatures dans une @Template[type:line|distance:60]{ligne de 24 m} (@Check[type:reflex|dc:25|basic:true]{jet de Réflexes basique} DD 25).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois son Arme de souffle avant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
         },
         {
             "id": "rbYlQJlNI4Qk0aXW",
@@ -8344,9 +8604,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "2rqAbhpsIBtY1lZp",
+            "name": "Regeneration 15 (Deactivated by Chaotic)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+        },
+        {
             "id": "oXQB3BHjejzv1QJD",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2lGYb3ZO8pwxgMhD",
+            "name": "Focus Gaze",
+            "items-description": "<p>La méduse fixe son regard sur une créature située dans son champ de vision et dans un rayon de 9 m. Cette créature doit faire immédiatement un jet de @Check[type:fortitude|dc:25]{Vigueur} DD 25 contre le regard pétrifiant de la méduse. Si la créature était déjà @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} par ce pouvoir avant de faire son jet, elle est @Compendium[pf2e.conditionitems.dTwPJuKgBQCMxixg]{Pétrifiée} de manière permanente si elle le rate. Une fois qu’elle a fait son jet de sauvegarde, elle est temporairement immunisée jusqu’au début du prochain tour de la méduse.</p>"
         },
         {
             "id": "LLJiTLsfaDzD1nZo",
@@ -8364,6 +8634,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "G3Hz9uWIYCEyoBRq",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le tigre inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "Y6FgWopPB5QwPfF4",
             "name": "Jaws",
             "items-description": ""
@@ -8372,6 +8647,11 @@
             "id": "mNfAyKfUwSuMResA",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "jbjsVEFvVsslwVHa",
+            "name": "Tail Lash",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action pour Frapper ou tenter un test de compétence.</p>\n<p><strong>Effet</strong> Le dragon Frappe cette créature avec sa queue avec un malus de -2. S’il touche, la créature subit un malus de circonstances de -2 au jet ayant déclenché la réaction.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.QqC9xymSXSVunDgl]{Effet : Coup de queue fouetté (jet d'attaque)}</p>\n<p>@Compendium[pf2e.bestiary-effects.4HJJdogS751Z04lD]{Effet : Coup de queue fouetté (Test de compétence)}</p>"
         },
         {
             "id": "67MCs85SzER633da",
@@ -8479,6 +8759,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "9wiqhTppGBReF5MG",
+            "name": "Trample",
+            "items-description": "<p>Très grande ou plus petite, pied, @Check[type:reflex|dc:29|basic:true]{Réflexes basique DD 29}</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
+        },
+        {
             "id": "qqpgMalbjoAykhjP",
             "name": "Keen Scythe",
             "items-description": ""
@@ -8537,6 +8822,11 @@
             "id": "OcYo8NrM7fSjcymh",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "1eQUxiVPWo5ndGVE",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:27]{Volonté} DD 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "TVLAYoQrAgNovOAr",
@@ -8664,6 +8954,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "W6dNim4KEjBzAlMj",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m} @Check[type:will|dc:42]{Volonté} DD 42</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "MxiNEcQrKuXmCuWD",
             "name": "Fangs",
             "items-description": ""
@@ -8712,6 +9007,11 @@
             "id": "9UvuMlLHVEKID1Jq",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "gXusGY96gXnuOJVw",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:38]{Volonté} DD 38</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "smEk0yh1Pe95Nvsc",
@@ -9079,9 +9379,24 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "JysKih2FAoEH8Jdb",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:28]{Volonté} DD 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "u71Wtb03wVLdrSUO",
+            "name": "Truespeech",
+            "items-description": "<p>un kolyarut peut comprendre et parler avec n’importe quelle créature dotée d’un langage.</p>"
+        },
+        {
             "id": "lRYUK2abQpyhIlbv",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "8Hc25NUrYBwSHQuO",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le léopard inflige [[/r {1d4}[precision]]]{1d4 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "zUyuIoJBzk4LNvK2",
@@ -9119,6 +9434,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "waCZVvDN6vAn7yCi",
+            "name": "Spray Acid",
+            "items-description": "<p>La mère de la ruche projette de l’acide dans un @Template[type:cone|distance:60]{cône de 18 m} infligeant [[/r {8d6}[acid]]]{8d6 dégâts d’acide} et [[/r {1d6}[persistent,acid]]]@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts d’acide persistants} (jet de @Check[type:reflex|dc:26|basic:true]{Réflexes basique} DD 26).</p>\n<p data-visibility=\"gm\">Elle ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "hopAbtHoJov7g8zJ",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -9132,6 +9452,11 @@
             "id": "bzNpoAXw0BCP1dGK",
             "name": "Improved Knockdown",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
+        },
+        {
+            "id": "yBOjYe8hHHRkhUyZ",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "4tRvd9W1xA0JvgPJ",
@@ -9234,6 +9559,11 @@
             "items-description": ""
         },
         {
+            "id": "RDDSANqANJv09ktQ",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "E3WrwhsH06axDfAu",
             "name": "Improved Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
@@ -9312,6 +9642,11 @@
             "id": "pyD5mpeBbbBmJcvA",
             "name": "Draconic Momentum",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "KjBveNLcC22szBCP",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le traqueur sans visage inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>\n<hr />\n<p>Lorsque le monstre Frappe une créature qui possède l'état @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} avec une arme au corps-à-corps possédant les traits agile ou finesse ou une attaque à mains nues agile ou finesse ou une attaque avec une arme à distance, il inflige aussi les dégâts de précision indiqués. Pour une attaque à distance avec une arme de jet, cette arme doit aussi être une arme agile ou de finesse.</p>"
         },
         {
             "id": "nbClUIeaboa77zlN",
@@ -9424,6 +9759,16 @@
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
         },
         {
+            "id": "5Em7mvb9ul24rwbD",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:33]{Volonté} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "7XdX39vruCh59MIe",
+            "name": "Divine Revulsion",
+            "items-description": "<p>Si un bonnet rouge voit une créature brandir un symbole religieux associé à une divinité d’alignement bon (ce qui nécessite que cette créature accomplisse une action d’interaction) ou utiliser un tel symbole pour lancer un sort divin, le bonnet rouge doit faire un jet de Volonté DD 19. Il devient alors temporairement immunisé contre tous les symboles religieux pour 10 minutes.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> Le bonnet rouge n'est pas affecté</p>\n<p><strong>Succès</strong> Le bonnet rouge est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 2}</p>\n<p><strong>Échec</strong> Le bonnet rouge se trouve dans l’état @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} pendant 1 round et est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 4}</p>\n</div>"
+        },
+        {
             "id": "xDUpwWQaZevQOkYQ",
             "name": "Ferocity",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
@@ -9444,6 +9789,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4ii4lkO4XldDodwj",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:26]{Volonté} DD 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "2QnPX6haUy6RjKvT",
+            "name": "Frenzy Pheromone",
+            "items-description": "<p> La mère de la ruche libère des phéromones qui octroient accéléré 1 à tous les autres ankhravs situés dans une émanation de 30 m jusqu’au début du prochain tour de la mère de la ruche ; ils ne peuvent utiliser l’action supplémentaire que pour Creuser, Frapper ou Marcher rapidement.</p>\n<p data-visibility=\"gm\">La mère de la ruche ne peut plus libérer ces phéromones avant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "4gO7xPscU8GkItt4",
             "name": "Spear",
             "items-description": ""
@@ -9462,6 +9817,21 @@
             "id": "UfQd4obnmoY6nVDf",
             "name": "Fist",
             "items-description": ""
+        },
+        {
+            "id": "plka6anhQ8CltSBM",
+            "name": "Greater Constrict",
+            "items-description": "<p>[[/r {1d10+7}[bludgeoning]]]{1d10+7 dégâts contondants} @Check[type:fortitude|dc:26|basic:true]{Vigueur basique} DD 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
+            "id": "2vzPRuTJZNWARxiC",
+            "name": "Tail Lash",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action pour Frapper ou tenter un test de compétence.</p>\n<p><strong>Effet</strong> Le dragon Frappe cette créature avec sa queue avec un malus de -2. S’il touche, la créature subit un malus de circonstances de -2 au jet ayant déclenché la réaction.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.QqC9xymSXSVunDgl]{Effet : Coup de queue fouetté (jet d'attaque)}</p>\n<p>@Compendium[pf2e.bestiary-effects.4HJJdogS751Z04lD]{Effet : Coup de queue fouetté (Test de compétence)}</p>"
+        },
+        {
+            "id": "ffZLFXRhI2leU0qq",
+            "name": "Push 5 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
         },
         {
             "id": "COesoRf5oc4fLJhF",
@@ -9497,6 +9867,11 @@
             "id": "pcv6j9xM8Qcw0h9R",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "gzVcZTMtslepZxcC",
+            "name": "Unstoppable Burrow",
+            "items-description": "<p>Les shulns peuvent creuser dans la pierre brute et à travers tout métal dont la solidité est inférieure à celle de l’adamantium comme s’il s’agissait de sol meuble ou de gravats, en laissant derrière eux un tunnel de 3 m de diamètre.</p>"
         },
         {
             "id": "CcLeMibU2tmiAzzF",
@@ -9774,6 +10149,11 @@
             "items-description": ""
         },
         {
+            "id": "28p2N35JT0y99D6q",
+            "name": "Trackless Step",
+            "items-description": "<p>Le dragon vert bénéficie toujours de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} dans un environnement naturel même en se déplaçant à pleine vitesse.</p>"
+        },
+        {
             "id": "PeH9Tlr3y5ABJu0g",
             "name": "Fast Healing 10",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
@@ -9924,6 +10304,11 @@
             "items-description": ""
         },
         {
+            "id": "1Vdy1h0xvUBMB9Mg",
+            "name": "Sticky Spores",
+            "items-description": "<p>Une créature touchée par les spores d’un terotricus doit réussir un jet de @Check[type:reflex|dc:40]{Réflexes} DD 40 ou subir un malus de statut de -3 m à ses Vitesses pendant 1 min. Sur un coup critique, la créature est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} jusqu’à ce qu’elle S’échappe (DD 40).</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.g4CRjb2zS1pkVDbk]{Effet : Spores gluants}</p>"
+        },
+        {
             "id": "vTjkwNzpCJmsbg6R",
             "name": "Shortsword",
             "items-description": ""
@@ -10027,6 +10412,11 @@
             "id": "Dn7B8j6FSbVD4U9x",
             "name": "Stench",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui pénètre dans la zone affectée doit faire un jet de Vigueur @Check[type:fortitude|dc:16]DD 16}. Sur un échec, elle se trouve dans l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} et, sur un échec critique, elle subit également un malus de -1,5 m à ses Vitesses pendant 1 round. Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 à ses jets de sauvegarde pour se débarrasser de l’état malade. Une créature qui réussit son jet de sauvegarde est temporairement immunisée contre la puanteur de tous les xulgaths pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]{Effet : Puanteur Xulgath}</p>"
+        },
+        {
+            "id": "Q9TQFtMzhVqywWrB",
+            "name": "Deadly Cleave",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le bonnet rouge réduit une créature à 0 point de vie grâce à une Frappe de faux.</p>\n<p><strong>Effet</strong> Le bonnet rouge porte une autre Frappe de faux contre une créature différente, en utilisant le même malus d’attaques multiples que la Frappe qui a déclenché cette réaction. Cette attaque est prise en compte dans son malus d’attaques multiples.</p>"
         },
         {
             "id": "IUNBun7zEVrlp6AY",
@@ -10164,6 +10554,11 @@
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "D4C1yHkCqpQckxgr",
+            "name": "Tail Lash",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action pour Frapper ou tenter un test de compétence.</p>\n<p><strong>Effet</strong> Le dragon Frappe cette créature avec sa queue avec un malus de -2. S’il touche, la créature subit un malus de circonstances de -2 au jet ayant déclenché la réaction.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.QqC9xymSXSVunDgl]{Effet : Coup de queue fouetté (jet d'attaque)}</p>\n<p>@Compendium[pf2e.bestiary-effects.4HJJdogS751Z04lD]{Effet : Coup de queue fouetté (Test de compétence)}</p>"
+        },
+        {
             "id": "SjtL4vaiiGNkeXDm",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -10209,6 +10604,11 @@
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "jUfHzGj1QzWogY7T",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:40]{Volonté} DD 40</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "XbEOrTGzNN49cBsV",
             "name": "Jaws",
             "items-description": ""
@@ -10242,6 +10642,11 @@
             "id": "7HZont6X72rI49Ax",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "FyUL1Dfsy8YJIJH4",
+            "name": "Sticky Strand",
+            "items-description": "<p>Toute créature touchée par une attaque de filament d’enlaceur se trouve dans les états @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} et @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippé}. Chaque coup de filament supplémentaire augmente l’intensité de l’état affaibli de 1 (jusqu’à une intensité maximum d’affaibli 4). L’intensité de cet état affaibli est réduite de 1 toutes les 8 h. L’enlaceur peut se déplacer tout en maintenant une créature empoignée dans un filament, mais il relâche automatiquement la créature si son déplacement lui fait dépasser l’allonge du filament. L’enlaceur peut relâcher une créature empoignée par une action gratuite. Une créature peut trancher un filament si elle réussit une attaque face à un CA de 27 et qu’elle inflige au moins 18 dégâts tranchants. L’enlaceur lui-même n’est pas blessé par cette attaque, mais il ne pourra pas utiliser un filament tranché pour attaquer.</p>"
         },
         {
             "id": "yOxa8PKiBE6PbRBA",
@@ -10339,6 +10744,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
         },
         {
+            "id": "LZ3htI7JRHvcwAhU",
+            "name": "Double Opportunity",
+            "items-description": "<p>Un baomal gagne une réaction supplémentaire au cours de chaque round pendant lequel il peut utiliser une Attaque d’opportunité. Il doit utiliser une tête différente pour chaque réaction qu’il tente et il ne peut effectuer plus d’une Attaque d’opportunité à cause du même déclencheur.</p>"
+        },
+        {
             "id": "jL9PDQ27Dz6UAMOH",
             "name": "Scimitar",
             "items-description": ""
@@ -10417,6 +10827,11 @@
             "id": "BeuWnsp3t3NisaY3",
             "name": "Mandibles",
             "items-description": ""
+        },
+        {
+            "id": "xgyBlDJ39BUcAINW",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le tengu inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "gGPWUqUPfUG7gzbI",
@@ -10569,6 +10984,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "YNmQSSXzIEUJ3yrh",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:28]{Volonté} DD 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "iUQXXOate2Qv004f",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -10594,6 +11014,11 @@
             "items-description": ""
         },
         {
+            "id": "2ECIwvcXVQ6w8vi5",
+            "name": "Punishing Momentum",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> La vouivre a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippé/empoigné} une créature au cours de ce tour en utilisant Piqué en puissance.</p>\n<p><strong>Effet</strong> La vouivre peut Voler à la moitié de sa Vitesse en tenant la créature dans ses serres, en la transportant et en la laissant tomber à la fin de son déplacement. Sinon, la vouivre peut Frapper la créature avec son dard avec un bonus de circonstance de +2.</p>"
+        },
+        {
             "id": "lzmS1xCoWnHVa39l",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10617,6 +11042,11 @@
             "id": "bo8qDCWaF4txPsi1",
             "name": "Keen Returning Hatchet",
             "items-description": ""
+        },
+        {
+            "id": "2UpzHQ985k9cDkOT",
+            "name": "Swiftness",
+            "items-description": "<p>Le déplacement du tourbillon vivant ne déclenche pas de réactions.</p>"
         },
         {
             "id": "MVhuX4yQFrWGRGUi",
@@ -10647,6 +11077,11 @@
             "id": "gZXfTOLjvJ7GkHxM",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "9g6k1mFztcJlfe5v",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:33]{Volonté} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "gRnmV8LgZS6qZ09j",
@@ -10699,9 +11134,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "bT8ABzfkEP7llB3c",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:31]{Volonté} DD 31</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "0vSVpFhBgh2bSdVc",
             "name": "Fist",
             "items-description": ""
+        },
+        {
+            "id": "ysMN796BHlk39kv8",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:40]{Volonté} DD 40</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "4EXgRMqNIRLXxB1c",
@@ -10757,6 +11202,11 @@
             "id": "q1OobVjFqRsc58KI",
             "name": "Negative Healing",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
+        },
+        {
+            "id": "LnCX5HAN8VUMv1f5",
+            "name": "Hop-Dodge",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le cauthooj est la cible d’une Frappe de corps à corps et est adjacent à un autre adversaire qui est aussi à portée de la Frappe de corps à corps.</p>\n<p><strong>Effet</strong> Le cauthooj fait un saut de côté, redirigeant la Frappe contre l’adversaire adjacent. Le cauthooj Marche rapidement de la moitié de sa Vitesse au maximum et se déplacement ne déclenche pas de réactions.</p>"
         },
         {
             "id": "GsaqDG9VKiNEXisx",
@@ -10824,9 +11274,19 @@
             "items-description": ""
         },
         {
+            "id": "pSpabH5fc53i9K81",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 m} @Check[type:will|dc:31]{Volonté} DD 31</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "oTXMvXAgkbwzgGhM",
             "name": "Jaws",
             "items-description": ""
+        },
+        {
+            "id": "HavBnXAT02rDNben",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le vadrouilleur xulgath inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "WYP5ilxerdImWTrf",
@@ -11004,6 +11464,11 @@
             "items-description": ""
         },
         {
+            "id": "y1CWoANqqDtCbae7",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:27]{Volonté} DD 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "REiNYp4cWbH6OcX2",
             "name": "+3 Status to All Saves vs Divine Magic",
             "items-description": ""
@@ -11159,6 +11624,16 @@
             "items-description": ""
         },
         {
+            "id": "2V1LMw2K5gNCyFjF",
+            "name": "Shuln Saliva",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:32]{Vigueur} DD 32</p>\n<hr />\n<p><strong>Durée maximum</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {2d6}[poison]]]{2d6 dégâts de poison} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {3d6}[poison]]]{3d6 dégâts de poison} et Ralenti 1 (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {4d6}[poison]]]{4d6 dégâts de poison} et @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé} pendant [[/br 2d6 #Durée paralysie]]{2d6 heures}.</p>\n<p>La salive de shuln surpasse la capacité inexorable.</p>"
+        },
+        {
+            "id": "UHxzFiyQ9sL32HBv",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} @Check[type:will|dc:23]{Volonté} DD 23</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "oe1VqqJvUvIMKRRa",
             "name": "Wing",
             "items-description": ""
@@ -11197,6 +11672,11 @@
             "id": "WH7tGqprqYb1tk4C",
             "name": "Attack of Opportunity",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "1yMkzmd8oyagICBZ",
+            "name": "Ice Climb",
+            "items-description": "<p>Un dragon blanc peut escalader la glace à la vitesse d’escalade indiquée. Il ignore les terrains difficiles et très difficiles à cause de la glace et de la neige et ne risque pas de tomber sur ces surfaces.</p>"
         },
         {
             "id": "slCMgd2stlwxBKdg",
@@ -11314,9 +11794,19 @@
             "items-description": "<p>Les gobelins et les chiens gobelins sont immunisés à la variole gobeline.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:17]{Vigueur} DD 17</p>\n<hr />\n<p><strong>Stade 1</strong> Malade 1 (1 round)</p>\n<p><strong>Stade 2</strong> Malade 1 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 (1 round)</p>\n<p><strong>Stade 3</strong> Malade 1 et la créature ne peut pas réduire l’état malade à moins de 1 (1 jour)</p>"
         },
         {
+            "id": "qqY5IlOQecESUHZP",
+            "name": "Tail Lash",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action pour Frapper ou tenter un test de compétence.</p>\n<p><strong>Effet</strong> Le dragon Frappe cette créature avec sa queue avec un malus de -2. S’il touche, la créature subit un malus de circonstances de -2 au jet ayant déclenché la réaction.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.QqC9xymSXSVunDgl]{Effet : Coup de queue fouetté (jet d'attaque)}</p>\n<p>@Compendium[pf2e.bestiary-effects.4HJJdogS751Z04lD]{Effet : Coup de queue fouetté (Test de compétence)}</p>"
+        },
+        {
             "id": "rWeRpLhEFS7p5VCy",
             "name": "Formation",
             "items-description": "<p>Lorsqu'il est adjacent à au moins deux de ses alliés, le général hobgobelin obtient un bonus de circonstances de +1 à la CA et aux jets de sauvegarde. Ce bonus passe à +2 aux jets de Réflexes contre les effets de zone.</p>"
+        },
+        {
+            "id": "UdfdvJASTQ867hij",
+            "name": "Stealth",
+            "items-description": ""
         },
         {
             "id": "3Jg7XQGrHZ2lpqc1",
@@ -11359,6 +11849,11 @@
             "items-description": ""
         },
         {
+            "id": "2jnfsvQ0IphAdWs2",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "HzveIcuKPfW88Zc6",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -11384,6 +11879,11 @@
             "items-description": "<p>Grande, [[/r {2d8+7}[bludgeoning]{2d8+7 dégâts contondants}, Rupture 18</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
+            "id": "I98w77MsvsKISF0z",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "RrUfNcdLaL1BhWLR",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -11397,6 +11897,11 @@
             "id": "LD8TK8mGL7ubLU4I",
             "name": "Stinger",
             "items-description": ""
+        },
+        {
+            "id": "n7k0vUN2EEQBVEku",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:39]{Volonté} DD 39</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "ykjhYVy331qKqLO7",
@@ -11437,6 +11942,11 @@
             "id": "JUlSpx5USh1nfM12",
             "name": "Jaws",
             "items-description": ""
+        },
+        {
+            "id": "ZuxcOScsfkdklfi8",
+            "name": "Breath of the Sea",
+            "items-description": "<p>Un baomal peut aspirer des quantités phénoménales d’eau attirant tout ce qui se trouve autour de lui. Toutes les créatures et tous les objets dans l’eau dans un @Template[type:emanation|distance:60]{rayon de 18 m} du baomal (y compris les navires) sont attirés vers lui. Les créatures doivent réussir un test d’@Check[type:athletics|dc:42]{Athlétisme} DD 42 ou être attirées de 6 m vers le baomal (12 m en cas d’échec critique). Pour les navires, utilisez Connaissances de la navigation maritime du capitaine au lieu de l’Athlétisme. Les objets non portés sont automatiquement attirés.</p>"
         },
         {
             "id": "VgEW660oBhpCgGPZ",
@@ -11499,9 +12009,19 @@
             "items-description": ""
         },
         {
+            "id": "MO9W8NpBALoHHtTS",
+            "name": "Sneak Attack",
+            "items-description": "<p>L'éclaireur kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "vwWsYBBoZjtVHTuT",
             "name": "Snow Vision",
             "items-description": "<p>La neige ne gêne pas la vision d'un dragon blanc. Il ignore l'état masqué dû à une chute de neige.</p>"
+        },
+        {
+            "id": "Vyc7HceERBcZQuXT",
+            "name": "Warding Glyph",
+            "items-description": "<p>Une fois par semaine, un sphinx peut créer un symbole magique comme s’il lançait un <em>@Compendium[pf2e.spells-srd.o0l57UfBm9ScEUMW]{glyphe de garde} intensifié. Le sphinx lui donne généralement la forme d’une énigme écrite dont le mot de passe est la réponse. Une créature qui donne une mauvaise réponse ou tente de passer sans répondre doit réussir un jet de @Check[type:will|dc:26]{Volonté} DD 26 ou subir l’un des effets de sort suivants que choisit le sphinx lorsqu’il créé le symbole : <em>@Compendium[pf2e.spells-srd.BilnTGuXrof9Dt9D]{Pulsation synaptique}</em> (5e), <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}</em> (4e), <em>@Compendium[pf2e.spells-srd.4koZzrnMXhhosn0D]{Terreur}</em> (3e), <em>@Compendium[pf2e.spells-srd.R8bqnYiThB6MYTxD]{Douleur fantôme}</em> (3e), <em>@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sommeil}</em> (3e). Le sphinx apprend l’identité des créatures qui répondent correctement à l’énigme et a tendance à se montrer amical envers elles.</p>"
         },
         {
             "id": "hYuh2ahMpMeOTyoZ",
@@ -11574,6 +12094,11 @@
             "items-description": ""
         },
         {
+            "id": "qe55DvvyEW3AC1KT",
+            "name": "Thoughtsense (Imprecise) 60 feet",
+            "items-description": "<p>Le cauthooj perçoit l’essence mentale des créatures à la portée indiquée.</p>"
+        },
+        {
             "id": "SaMUZistsZa0Bskd",
             "name": "All-Around Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
@@ -11589,9 +12114,19 @@
             "items-description": ""
         },
         {
+            "id": "LaQ2wdVBDXDNbGSR",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le traqueur invisible inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "orlHVFqe7EEW7ruO",
             "name": "Foot",
             "items-description": ""
+        },
+        {
+            "id": "387c1CSiNx4uWeqZ",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le lion inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "c2UaCFr89s3CtUzy",
@@ -11659,8 +12194,18 @@
             "items-description": ""
         },
         {
+            "id": "Fn227VCdI0YQvtkg",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:26]{Volonté} DD 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "AFLPUVObYcXb0ATY",
             "name": "Beak",
+            "items-description": ""
+        },
+        {
+            "id": "1TeUoHVS0bkCD9jX",
+            "name": "Ghostly Hand",
             "items-description": ""
         },
         {
@@ -11894,6 +12439,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
+            "id": "uZBUxDTyFWbpARud",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:37]{Volonté} DD 37</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "dlQJzPWPs48f9b4c",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le dandasuka inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "cQnMBBEfd291uJ4j",
             "name": "Stinger",
             "items-description": ""
@@ -11932,6 +12487,11 @@
             "id": "r0zMXxalwdgrXzf3",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "tqL5vKXpeLAzq2JR",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:24]{Volonté} DD 24</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "2nWoUs5yTHmZJd6s",
@@ -11989,6 +12549,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "TkDV0wPhRzYy8sii",
+            "name": "Tremorsense (Imprecise) 120 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "v9Xt73Wj9wclc3ef",
             "name": "Javelin",
             "items-description": ""
@@ -12004,9 +12569,19 @@
             "items-description": "<p>Le dragon frappe le sol. Il peut agir ainsi s’il est au sol ou s’il vole à 3 m ou moins au-dessus. Chaque créature au sol dans un @Template[type:emanation|distance:10]{rayon de 3 m} doit réussir un jet de @Check[type:reflex|dc:37|traits:damaging-effect]{Réflexes} DD 37 ou tomber @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} et subir [[/r {5d6}[bludgeoning]]]{5d6 dégâts contondants}. Puis le dragon peut Faire un pas.</p>"
         },
         {
+            "id": "zGXZKhk95VPsSdKN",
+            "name": "Biting Snakes",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature termine son tour adjacente à la méduse.</p>\n<p><strong>Effet</strong> La méduse fait une Frappe de crochets de serpents contre la créature.</p>"
+        },
+        {
             "id": "8KbESiYnn2ngs6MZ",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "tRvUNo3EA7WVnZc5",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:33]{Volonté} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "9il80y0VHh8ZAWdY",
@@ -12224,6 +12799,11 @@
             "items-description": ""
         },
         {
+            "id": "9D1QwW0n9RRjhkh0",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:23]{Volonté} DD 23</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "J2jO45MMtWXrfesA",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -12239,6 +12819,11 @@
             "items-description": ""
         },
         {
+            "id": "FuDdgAP7wwq6LCFO",
+            "name": "Serpent Venom",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:25]{Vigueur} DD 25 </p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {2d6}[poison]]]{2d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} (1 round)</p>\n</div>"
+        },
+        {
             "id": "2S4BfxyE7xLYIYr3",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -12247,6 +12832,11 @@
             "id": "CblyGPqXFB5ALfDo",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "lTAUfkDQ3VVnBakO",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:60]{18 m} @Check[type:will|dc:29]{Volonté} DD 29</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "CGWJ8z84ruiOubNo",
@@ -12344,9 +12934,19 @@
             "items-description": ""
         },
         {
+            "id": "uPAAssuXj8CktZTI",
+            "name": "Push 40 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
+        },
+        {
             "id": "HMeH7MYJTTTICR3k",
             "name": "Jaws",
             "items-description": ""
+        },
+        {
+            "id": "Fpalcgxc6alPgOA4",
+            "name": "Scent (Imprecise) 80 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
             "id": "fOXEVyfWiHQRSyiC",
@@ -12434,6 +13034,11 @@
             "items-description": ""
         },
         {
+            "id": "iVZkQBGcIBXlxkcc",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:32]{Volonté} DD 32</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "rn3k17gHgz0K9teg",
             "name": "Claw",
             "items-description": ""
@@ -12447,6 +13052,11 @@
             "id": "ObX0PxwHHLMvaTJn",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "D0BJOT03V2FE7mKT",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le guerrier kobold inflige [[/r {1d4}[precision]]]{1d4 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "DcTsGXo4ifg7cNUg",
@@ -12474,6 +13084,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "WBvBXluaSwwxLaJ4",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le smilodon inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "bKmTRJI4PjS70sWZ",
             "name": "Inexorable March",
             "items-description": "<p>Le golem de pierre Marche rapidement jusqu’à sa Vitesse maximale en repoussant toute créature dans la case de laquelle il pénètre et en leur infligeant des dégâts si elles tentent de l’arrêter. Une créature peut tenter de lui bloquer le chemin en réussissant un jet de @Check[type:fortitude|dc:34|traits:damaging-effect]{Vigueur DD 34}</p>\n<p data-visibility=\"gm\">Sur un succès critique, la créature qui résiste ne subit aucun dégât. Sinon, elle subit des dégâts comme si elle avait été frappée par le poing du golem. </p>"
@@ -12482,6 +13097,11 @@
             "id": "Vy7eGgsZwEtFCJod",
             "name": "Improved Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "dRF3nPzB91HYIbXx",
+            "name": "Ice Climb",
+            "items-description": "<p>Un drake du froid peut escalader la glace à la vitesse d’escalade indiquée. Il ignore les terrains difficiles et très difficiles à cause de la glace et de la neige et ne risque pas de tomber sur ces surfaces.</p>"
         },
         {
             "id": "MUtrSZzTqwA22XOa",
@@ -12567,6 +13187,11 @@
             "id": "rYzzaXPAJ15uHtmD",
             "name": "+1 Status to All Saves vs Positive",
             "items-description": ""
+        },
+        {
+            "id": "74Xu2C6KzxtSFcNe",
+            "name": "Two Heads",
+            "items-description": "<p>Tout pouvoir ou effet qui pourrait trancher une tête du baomal (comme un coup critique avec une épée em>@Compendium[pf2e.equipment-srd.6xaxxKfvXED6LfIY]{Vorpale}</em>) tranche une tête déterminée aléatoirement. Perdre une tête ne tue pas le baomal mais cela l’empêche d’effectuer une Frappe avec la tête détruite et d’utiliser Double opportunité ou Frappe à deux têtes.</p>"
         },
         {
             "id": "6nUf7iLY8JoKVMkD",
@@ -12774,6 +13399,11 @@
             "items-description": ""
         },
         {
+            "id": "vqr3Mssyf2Td2T1D",
+            "name": "Frightful Presence",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:34]{Volonté} DD 34</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "fegp7nmVFKZeTSA5",
             "name": "Piercing Hymn",
             "items-description": ""
@@ -12807,6 +13437,11 @@
             "id": "KjSDkdNQbNUj0pJe",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "KiBIFxCCOgpsuMvK",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le rat garou inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "mld7PgekazbX4cCh",
@@ -12854,6 +13489,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "uuMoWLbelNwKPIUM",
+            "name": "Armor-Rending",
+            "items-description": "<p>À chaque fois que le shuln réussit un coup critique avec une Frappe au corps à corps, il inflige la même quantité de dégâts à l’armure de la cible en outrepassant toute Solidité inférieure à 10, comme de l’adamantium.</p>"
+        },
+        {
             "id": "oAM6tsN2NTZwvnTf",
             "name": "Greater Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
@@ -12892,6 +13532,11 @@
             "id": "RgUtXbdxY4ir0GNG",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "2OPayJrYVYfP1LZk",
+            "name": "Red Cap",
+            "items-description": "<p>Le bonnet de laine d’un bonnet rouge est imprégné du sang de ses victimes. Si le bonnet rouge perd son bonnet, il ne bénéficie plus des effets de sa guérison accélérée et subit un malus de -4 à ses jets de dégâts. Il peut créer un nouveau bonnet en 10 minutes mais ce bonnet ne lui confère aucun pouvoir tant que la fée ne l’a pas coloré de rouge avec Imbibition de sang. Un bonnet ne confère ses pouvoirs à aucune autre créature que le bonnet rouge qui l’a créé.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.s5mS7CyE0oOYlecv]{Effet: Bonnet rouge perdu}</p>"
         },
         {
             "id": "WDz6pEmszokFTO25",
@@ -13094,6 +13739,11 @@
             "items-description": ""
         },
         {
+            "id": "oObpBdGWzojxRdfS",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le jinkin inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "CyCkk2GjnKUtz2Va",
             "name": "Improved Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
@@ -13156,6 +13806,11 @@
         {
             "id": "eUjlMs7XKcwlCfZQ",
             "name": "Claw",
+            "items-description": ""
+        },
+        {
+            "id": "kB3jH0EObomim8bP",
+            "name": "Tail Lash",
             "items-description": ""
         },
         {
@@ -13299,6 +13954,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "23duj3dLvK5Gn9tK",
+            "name": "Sneak Attack",
+            "items-description": "<p>Le danseur caligni inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "1V9uaQOnCMGgMxl2",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -13324,6 +13984,11 @@
             "items-description": ""
         },
         {
+            "id": "9gYASQQf328TmVpW",
+            "name": "Pin Prey",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le tyrannosaure a réussi une attaque critique sur une cible de Grande taille ou plus petite avec sa patte.</p>\n<p><strong>Effet</strong> La créature touchée est mise @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{à terre} et le tyrannosaure utilise sa patte pour l’immobiliser. Tant que le dinosaure ne bouge pas de la position qu’il occupe, la créature immobilisée est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippée/Empoignée}. Le tyrannosaure gagne un bonus de circonstance de +2 pour attaquer la créature immobilisée mais il ne peut pas utiliser Gober sur sa cible à moins d’avoir d’abord utiliser sa mâchoire pour l’@Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Empoigner}.</p>"
+        },
+        {
             "id": "HScepbVGbS75R0W3",
             "name": "Negative Healing",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -13342,6 +14007,11 @@
             "id": "09dEV7gYGOvdo2T6",
             "name": "Water Mastery",
             "items-description": "<p>Pendant un maximum de 60 minutes par jour, le dragon ainsi que les navires et créatures alliés dans un rayon de 15 m, peuvent se déplacer au double de leur Vitesse normale dans l’eau.</p>"
+        },
+        {
+            "id": "DZQzqTM8bO1vt4ps",
+            "name": "Extend Strands",
+            "items-description": "<p>L’enlaceur déploie ou rétracte six longs et fins cirres qui sortent de son corps. Quand les filaments sont déployés, l’enlaceur est soumis à un malus de circonstances de -4 à ses tests de Discrétion. Quand ils sont rétractés, il ne peut pas porter ses Frappes de filaments.</p>"
         },
         {
             "id": "Se0RGAQyLYAwETrV",
@@ -13407,6 +14077,11 @@
             "id": "1gKtaE366xqxGDdV",
             "name": "Formation",
             "items-description": "<p>Lorsqu'il est adjacent à au moins deux de ses alliés, le général hobgobelin obtient un bonus de circonstances de +1 à la CA et aux jets de sauvegarde. Ce bonus passe à +2 aux jets de Réflexes contre les effets de zone.</p>"
+        },
+        {
+            "id": "fSUvadSPPhS9kOAB",
+            "name": "Greater Constrict",
+            "items-description": "<p>[[/r {15}[bludgeoning]]]{15 dégâts contondants} @Check[type:fortitude|dc:45|basic:true]{Vigueur basique} DD 45</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "jfJXOP78x7xyHplx",

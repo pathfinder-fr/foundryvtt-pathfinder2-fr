@@ -4,7 +4,7 @@
  * **changé**: 18
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -155,7 +155,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[csRH8Fx0r6iMWlFc.htm](pathfinder-bestiary/csRH8Fx0r6iMWlFc.htm)|Ether Spider|Araignée de l'éther|officielle|
 |[cuET2PHGcE7eL7DJ.htm](pathfinder-bestiary/cuET2PHGcE7eL7DJ.htm)|Marid|Maride (Génie)|officielle|
 |[cZDiyluplFqRxmGy.htm](pathfinder-bestiary/cZDiyluplFqRxmGy.htm)|Animated Armor|Armure animée (Objet animé)|officielle|
-|[cZsaAKlEYWZUO1CV.htm](pathfinder-bestiary/cZsaAKlEYWZUO1CV.htm)|Terotricus|Térotricus|officielle|
+|[cZsaAKlEYWZUO1CV.htm](pathfinder-bestiary/cZsaAKlEYWZUO1CV.htm)|Terotricus|Terotricus|officielle|
 |[CzxQpB3p0d9hwPeR.htm](pathfinder-bestiary/CzxQpB3p0d9hwPeR.htm)|Bulette|Bulette|officielle|
 |[d9W89Yv6zyvfxZuG.htm](pathfinder-bestiary/d9W89Yv6zyvfxZuG.htm)|Lillend|Lillende (Azata)|officielle|
 |[dEAneTvoPuQXZoLR.htm](pathfinder-bestiary/dEAneTvoPuQXZoLR.htm)|Gibbering Mouther|Babélien|officielle|

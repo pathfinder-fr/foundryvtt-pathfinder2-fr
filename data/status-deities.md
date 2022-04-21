@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 85
- * **changé**: 138
+ * **libre**: 109
+ * **changé**: 114
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -38,31 +38,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6O4UGWcYERDEugzk.htm](deities/6O4UGWcYERDEugzk.htm)|Fumeiyoshi|Fumeiyoshi (Dieu Tianais)|changé|
 |[CnDEoo6WruQCXo1o.htm](deities/CnDEoo6WruQCXo1o.htm)|Lubaiko|Lubaiko|changé|
 |[gutbzYTZvRTnq4on.htm](deities/gutbzYTZvRTnq4on.htm)|Adanye|Adanye|changé|
-|[hhV2g6aU8jKLEca1.htm](deities/hhV2g6aU8jKLEca1.htm)|Narakaas|Narakaas|changé|
-|[HtRxo4J3elFteIqu.htm](deities/HtRxo4J3elFteIqu.htm)|Arazni|Arazni|changé|
-|[hWTTS0e7J9hJfsp3.htm](deities/hWTTS0e7J9hJfsp3.htm)|Matravash|Matravash|changé|
-|[iEt6idGIEPXY2HzV.htm](deities/iEt6idGIEPXY2HzV.htm)|Ydajisk|Ydajisk|changé|
-|[Ij1KRM8ufkEjGnR3.htm](deities/Ij1KRM8ufkEjGnR3.htm)|Ranginori|Ranginori|changé|
-|[iJyhAFmHOLZBvWnJ.htm](deities/iJyhAFmHOLZBvWnJ.htm)|Sivanah|Sivanah|changé|
-|[iKgERiIc8rt3fatf.htm](deities/iKgERiIc8rt3fatf.htm)|Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Celui qui hante les ténèbres)|changé|
-|[iMRXc519Uepf8yH3.htm](deities/iMRXc519Uepf8yH3.htm)|Magdh|Magdh|changé|
-|[ItYptsfjV8XvfhOV.htm](deities/ItYptsfjV8XvfhOV.htm)|Lahkgya|Lahkgya|changé|
-|[IXLzDSMGndFb5rGY.htm](deities/IXLzDSMGndFb5rGY.htm)|Falayna|Falayna|changé|
-|[iXvyp9rGnqvFfy4q.htm](deities/iXvyp9rGnqvFfy4q.htm)|Kazutal|Kazutal|changé|
-|[IZcdF1G8ZsnMotaM.htm](deities/IZcdF1G8ZsnMotaM.htm)|Pazuzu|Pazuzu|changé|
-|[JcIf4uwKLxEWdplI.htm](deities/JcIf4uwKLxEWdplI.htm)|Kostchtchie|Kostchtchie|changé|
-|[JgDqFUB1NtQkGmzp.htm](deities/JgDqFUB1NtQkGmzp.htm)|Otolmens|Otolmens|changé|
-|[JgqH3BhuEuA4Zyqs.htm](deities/JgqH3BhuEuA4Zyqs.htm)|Desna|Desna|changé|
-|[jL1qiVOZBKXETtVD.htm](deities/jL1qiVOZBKXETtVD.htm)|Nocticula|Nocticula|changé|
-|[JndhOIHnQoMwnsw3.htm](deities/JndhOIHnQoMwnsw3.htm)|The Godclaw|Le dieu griffu|changé|
-|[jrPmEfubRDzMKbxl.htm](deities/jrPmEfubRDzMKbxl.htm)|Arundhat|Arundhat|changé|
-|[K1tzUClsozKcdpIe.htm](deities/K1tzUClsozKcdpIe.htm)|Halcamora|Halcamora|changé|
-|[KDFujU3Yug6AwCOz.htm](deities/KDFujU3Yug6AwCOz.htm)|Arshea|Arshéa|changé|
-|[KIEgpcmHYtFu1dpg.htm](deities/KIEgpcmHYtFu1dpg.htm)|Imot|Imot|changé|
 |[kiTcZxmKxGPCwDpg.htm](deities/kiTcZxmKxGPCwDpg.htm)|Kalekot|Kalekot|changé|
-|[KT7HKL7vbZEwbzX4.htm](deities/KT7HKL7vbZEwbzX4.htm)|Green Faith|Foi verte|changé|
-|[KWVdoAm3b01M8Lcp.htm](deities/KWVdoAm3b01M8Lcp.htm)|Mephistopheles|Méphistophélès|changé|
-|[liXIbl7y8www2eAn.htm](deities/liXIbl7y8www2eAn.htm)|Findeladlara|Findeladlara|changé|
 |[lSciGZGcbU9PJxQy.htm](deities/lSciGZGcbU9PJxQy.htm)|Irez|Irèz|changé|
 |[lUFMwdv1UOyzFhIM.htm](deities/lUFMwdv1UOyzFhIM.htm)|Likha|Likha|changé|
 |[lZ74P8kUA1ti808w.htm](deities/lZ74P8kUA1ti808w.htm)|Prophecies of Kalistrade|Prohéties de Kalistrade|changé|
@@ -255,5 +231,29 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[H1VrZ1QX0d2aPXT8.htm](deities/H1VrZ1QX0d2aPXT8.htm)|Dammerich|Dammerich (Seigneur Empyréen)|libre|
 |[HbuynQRCjGKtbhcC.htm](deities/HbuynQRCjGKtbhcC.htm)|The Lost Prince|Le prince perdu (Aîné)|libre|
 |[HD7g8T8ioy1EH3M8.htm](deities/HD7g8T8ioy1EH3M8.htm)|Bolka|Bolka (Dieu Nain)|libre|
+|[hhV2g6aU8jKLEca1.htm](deities/hhV2g6aU8jKLEca1.htm)|Narakaas|Narakaas (Demi-dieu Veilleur)|libre|
+|[HtRxo4J3elFteIqu.htm](deities/HtRxo4J3elFteIqu.htm)|Arazni|Arazni (Mer intérieure)|libre|
+|[hWTTS0e7J9hJfsp3.htm](deities/hWTTS0e7J9hJfsp3.htm)|Matravash|Matravash (Dieu Vudrain)|libre|
+|[iEt6idGIEPXY2HzV.htm](deities/iEt6idGIEPXY2HzV.htm)|Ydajisk|Ydajisk (Demi-dieu Veilleur)|libre|
+|[Ij1KRM8ufkEjGnR3.htm](deities/Ij1KRM8ufkEjGnR3.htm)|Ranginori|Ranginori (Seigneur Élémentaire)|libre|
+|[iJyhAFmHOLZBvWnJ.htm](deities/iJyhAFmHOLZBvWnJ.htm)|Sivanah|Sivanah (Mer Intérieure)|libre|
+|[iKgERiIc8rt3fatf.htm](deities/iKgERiIc8rt3fatf.htm)|Nyarlathotep (Haunter in the Dark)|Nyarlathotep (Celui qui hante les ténèbres)|libre|
+|[iMRXc519Uepf8yH3.htm](deities/iMRXc519Uepf8yH3.htm)|Magdh|Magdh (Âiné)|libre|
+|[ItYptsfjV8XvfhOV.htm](deities/ItYptsfjV8XvfhOV.htm)|Lahkgya|Lahkgya (Dieu Vudrain)|libre|
+|[IXLzDSMGndFb5rGY.htm](deities/IXLzDSMGndFb5rGY.htm)|Falayna|Falayna (Seigneur Empyréen)|libre|
+|[iXvyp9rGnqvFfy4q.htm](deities/iXvyp9rGnqvFfy4q.htm)|Kazutal|Kazutal (Mer intérieure)|libre|
+|[IZcdF1G8ZsnMotaM.htm](deities/IZcdF1G8ZsnMotaM.htm)|Pazuzu|Pazuzu (Seigneur démon)|libre|
+|[JcIf4uwKLxEWdplI.htm](deities/JcIf4uwKLxEWdplI.htm)|Kostchtchie|Kostchtchie (Seigneur démon)|libre|
+|[JgDqFUB1NtQkGmzp.htm](deities/JgDqFUB1NtQkGmzp.htm)|Otolmens|Otolmens (Demi-dieu Veilleur)|libre|
+|[JgqH3BhuEuA4Zyqs.htm](deities/JgqH3BhuEuA4Zyqs.htm)|Desna|Desna (Mer intérieure)|libre|
+|[jL1qiVOZBKXETtVD.htm](deities/jL1qiVOZBKXETtVD.htm)|Nocticula|Nocticula (Mer Intérieure)|libre|
+|[JndhOIHnQoMwnsw3.htm](deities/JndhOIHnQoMwnsw3.htm)|The Godclaw|Le dieu griffu|libre|
+|[jrPmEfubRDzMKbxl.htm](deities/jrPmEfubRDzMKbxl.htm)|Arundhat|Arundhat (Dieu Vudrain)|libre|
+|[K1tzUClsozKcdpIe.htm](deities/K1tzUClsozKcdpIe.htm)|Halcamora|Halcamora (Seigneur Empyréen)|libre|
+|[KDFujU3Yug6AwCOz.htm](deities/KDFujU3Yug6AwCOz.htm)|Arshea|Arshéa (Seigneur Empyréen)|libre|
+|[KIEgpcmHYtFu1dpg.htm](deities/KIEgpcmHYtFu1dpg.htm)|Imot|Imot (Demi-dieu Veilleur)|libre|
+|[KT7HKL7vbZEwbzX4.htm](deities/KT7HKL7vbZEwbzX4.htm)|Green Faith|La Verte religion|libre|
+|[KWVdoAm3b01M8Lcp.htm](deities/KWVdoAm3b01M8Lcp.htm)|Mephistopheles|Méphistophélès (Archidiable)|libre|
+|[liXIbl7y8www2eAn.htm](deities/liXIbl7y8www2eAn.htm)|Findeladlara|Findeladlara (Dieu elfique)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|
 |[vnmoAGURp8oWCY6R.htm](deities/vnmoAGURp8oWCY6R.htm)|Soralyon|Soralyon (Seigneur Empyréen)|libre|

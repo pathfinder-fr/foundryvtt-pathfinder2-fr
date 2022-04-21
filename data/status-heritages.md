@@ -1,19 +1,12 @@
 # État de la traduction (heritages)
 
- * **libre**: 177
+ * **libre**: 178
  * **officielle**: 25
- * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des traductions à faire
-
-| Fichier   | Nom (EN)    |
-|-----------|-------------|
-|[lDT5h3f5GXRj42Ir.htm](heritages/lDT5h3f5GXRj42Ir.htm)|Stonestep Shisk|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -130,6 +123,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kTlJqhC7ZSE8P8lu.htm](heritages/kTlJqhC7ZSE8P8lu.htm)|Venomous Anadi|Anadi venimeux|libre|
 |[kXp8qRh5AgtD4Izi.htm](heritages/kXp8qRh5AgtD4Izi.htm)|Witch Gnoll|Gnoll sorcier|libre|
 |[L6zfGzLMDLHbZ7VV.htm](heritages/L6zfGzLMDLHbZ7VV.htm)|Fruit Leshy|Léchi fruit|libre|
+|[lDT5h3f5GXRj42Ir.htm](heritages/lDT5h3f5GXRj42Ir.htm)|Stonestep Shisk|Shisk Démarchepierre|libre|
 |[lj5iHaiY0IwCCptd.htm](heritages/lj5iHaiY0IwCCptd.htm)|Aphorite|Aphorite|libre|
 |[Lp7ywxabmm88Gei6.htm](heritages/Lp7ywxabmm88Gei6.htm)|Observant Halfling|Halfelin observateur|libre|
 |[LU4i3qXtyzeTGWZQ.htm](heritages/LU4i3qXtyzeTGWZQ.htm)|Luminous Sprite|Sprite lumineux|libre|

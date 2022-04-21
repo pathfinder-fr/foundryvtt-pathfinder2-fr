@@ -657,6 +657,11 @@
             "description": "<p>En plus d'un bec, votre bouche comporte aussi un nombre de dents vicieuses et pointues. Certaines légendes clament que vos puissantes mâchoires peuvent même percer l'acier. Bien que vous ne soyez pas encore assez fort pour çà, vos crocs peuvent toujours infliger de terribles blessures. Votre attaque à mains nues de bec obtient le trait mortel d8.</p>"
         },
         {
+            "id": "Stonestep Shisk",
+            "name": "Shisk Démarchepierre (Stonestep Shisk)",
+            "description": "<p>Arpenter les terrains rocheux et montagneux est, pour vous, une seconde nature. Vous pouvez ignorer le terrain difficile non magique causé par les débris et le dol inégal fait de pierre et de terre.</p>"
+        },
+        {
             "id": "Warrior Android",
             "name": "Androïde combattant (Warrior Android)",
             "description": "<p>Votre corps a été à l'origine créé en vue d'être un officier de sécurité ou un soldat. Vous êtes naturellement un combattant doué pré-programmé pour combattre. Vous êtes qualifié avec toutes les armes simples et de guerre.</p>"

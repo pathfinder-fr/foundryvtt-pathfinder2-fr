@@ -111,8 +111,8 @@
         },
         {
             "id": "Lurker In Light",
-            "name": "Lurker In Light (Rôdeur de lumière (Fey))",
-            "description": "<p>Ces malveillantes et étranges fey apparaissent comme des créatures d'environ 60 centimètres de haut, avec des ailes insectoïdes, de grands yeux et des têtes bulbeuses. Ils massacrent et causent des méfaits selon un schéma que seul leur intellect étranger comprend, mais on a vu qu'ils s'offusquent particulièrement des nains, des gnomes et des créatures qui vivent dans l'obscurité. Du fait de leur rancune et de la poursuite de leurs propres caprices méchants et sadiques, ces rôdeurs de lumière renversent habilement la sagesse conventionnelle selon laquelle les créatures associées à la lumière sont bénignes et amicales.</p>\n<p>Bien que les rôdeurs de lumière sont des feys et ont des liens avec le Premier Monde, ces créatures se trouvent souvent ailleurs dans le Grand Au-delà. Elles aiment particulièrement envahir le plan de l'Ombre pour apporter la lumière à ceux qui y habitent - non pas pour aider, mais pour répandre la misère et la douleur parmi ceux que la lumière fait souffrir.</p>",
+            "name": "Lurker In Light (Rôdeur de lumière (Fée))",
+            "description": "<p>Ces malveillantes et étranges fées apparaissent comme des créatures d'environ 60 centimètres de haut, avec des ailes insectoïdes, de grands yeux et des têtes bulbeuses. Ils massacrent et causent des méfaits selon un schéma que seul leur intellect étranger comprend, mais on a vu qu'ils s'offusquent particulièrement des nains, des gnomes et des créatures qui vivent dans l'obscurité. Du fait de leur rancune et de la poursuite de leurs propres caprices méchants et sadiques, ces rôdeurs de lumière renversent habilement la sagesse conventionnelle selon laquelle les créatures associées à la lumière sont bénignes et amicales.</p>\n<p>Bien que les rôdeurs de lumière soient des fées et aient des liens avec le Premier Monde, ces créatures se trouvent souvent ailleurs dans le Grand Au-delà. Elles aiment particulièrement envahir le plan de l'Ombre pour apporter la lumière à ceux qui y habitent - non pas pour aider, mais pour répandre la misère et la douleur parmi ceux que la lumière fait souffrir.</p>",
             "senses": "vision nocturne"
         },
         {
@@ -2879,6 +2879,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         },
         {
+            "id": "dkFTU2VIAk9BBNw3",
+            "name": "Greater Constrict (Constriction supérieure)",
+            "items-description": "<p>[[/r {2d10+7}[bludgeoning]]]{2d10+7 dégâts contondants} @Check[type:fortitude|dc:29|basic:true]{Vigueur basique} DD 29</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "VwEDItuYmaW2BAkI",
             "name": "Draconic Momentum (Élan draconique)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
@@ -2942,6 +2947,11 @@
             "id": "pRC5IW45o7eWNos1",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "2R71xX6zTcFcPntf",
+            "name": "Greater Constrict (Constriction supérieure)",
+            "items-description": "<p>[[/r {2d6+17}[bludgeoning]]]{2d6+17 dégâts contondants} et [[/r {1d6}[acid]]]{1d6 dégâts d'acide} @Check[type:fortitude|dc:40|basic:true]{Vigueur basique} DD 40</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "ROfUBzcM8hE66OL5",
@@ -3349,6 +3359,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "HhUiMTB8Qa8ySlVM",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le sylphe inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "YXm2W59CMTMhb25j",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -3679,6 +3694,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "nQV7pNdpGD2GDrgl",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le rôdeur de lumière inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "8WsmugIanltHKUg1",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -3827,6 +3847,11 @@
             "id": "InntbXg8SWCGpsZF",
             "name": "Telepathy (Télépathie)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "k7IjtCkUuIzOv0dz",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:40]{Volonté} DD 40)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "vBhPWXgs8q8icc85",
@@ -4859,6 +4884,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
         },
         {
+            "id": "IM4bochbTpbrXxfY",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>L'ours polaire inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "5cC1uj7hBSGN8tix",
             "name": "Lifesense (Perception de la vie)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
@@ -5187,6 +5217,11 @@
             "id": "rDl9ZNp0ry5Tek3B",
             "name": "Dagger (Dague)",
             "items-description": ""
+        },
+        {
+            "id": "mcOn5wJPK3EDRCeU",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>L'éclaireur fetchelin inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "IzbfeuZKm6hz1cWS",
@@ -5549,6 +5584,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "9bkFg1e33lRT8urN",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Un spriggan inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "VS237lvefLjMX0lY",
             "name": "Tremorsense (Perception des vibrations)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -5864,6 +5904,11 @@
             "items-description": ""
         },
         {
+            "id": "NXk6QjCfO8eW6Txp",
+            "name": "Sneak Attack (Attaque sournnoise)",
+            "items-description": "<p>Le morlock inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "reBkTZBqwYPgsiFb",
             "name": "Tail (Queue)",
             "items-description": ""
@@ -6149,6 +6194,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
         },
         {
+            "id": "dEiJsJoECS4hvDnB",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Un imentesh inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "IW1NCko3S3NUTExU",
             "name": "Knockdown (Renversement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
@@ -6349,6 +6399,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "ktdazJyPHLCoWXur",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>L'ours polaire inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "Bk63QeRIxXqBysrQ",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -6407,6 +6462,11 @@
             "id": "D5p47qiv8jIAcjoL",
             "name": "Claw (Griffe)",
             "items-description": ""
+        },
+        {
+            "id": "MH7wNM2dBDOtmzVO",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>L'automate excavateur inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "acasfdr7NXNxUTjJ",
@@ -6604,6 +6664,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "D5jAYC0XRC68X1gB",
+            "name": "Greater Constrict (Constriction supérieure)",
+            "items-description": "<p>[[/r {2d10+8}[bludgeoning]]]{2d10+8 dégâts contondants} @Check[type:fortitude|dc:36|basic:true]{Vigueur basique} DD 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "V9VYMbFdFCqt2IqA",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -6659,6 +6724,11 @@
             "items-description": "<p>Un golem est immunisé contre les sorts et les pouvoirs magiques autres que les siens mais chaque type de golem est affecté d’une manière spéciale par quelques formes de magie. Ces exceptions sont expliquées ci-après. S’il est indiqué plusieurs types de sorts (comme «froid» et «eau»), ils affectent tous le golem.</p>\n<ul>\n<li><strong>Blessé par le son</strong> Toute magie de ce type qui cible le golem lui inflige [[/r {6d6}]]{6d6 dégâts} (ces dégâts n’ont aucun type) au lieu de l’effet habituel. Si le golem commence son tour dans une zone de magie de ce type ou s’il est affecté par un effet persistant de son, il subit [[/r {2d6}]]{2d6 dégâts}.</li>\n<li><strong>Ralenti par le froid</strong> Toute magie de ce type qui le cible lui confère l’état Ralenti 1 pendant [[/r 2d6 #rounds]]{2d6 rounds} au lieu de l’effet normal. Si le golem commence son tour dans une zone de magie de type froid, il est ralenti 1 pour ce round.</li>\n<li><strong>Soigné par le feu</strong> Toute magie du type feu qui cible le golem lui fait perdre son état ralenti et lui permet de récupérer un nombre de PV égal à la moitié des dégâts qu’aurait dû infliger le sort. Si le golem commence son tour dans une zone de magie de type feu, il gagne [[/r {2d6}[healing]]]{2d6 PV}.</li>\n</ul>"
         },
         {
+            "id": "Bpm9xvzcp3dBpCvp",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Un ankou inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "gSm7LVM6KgueNn8S",
             "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
@@ -6692,6 +6762,11 @@
             "id": "ehOgYBBQ86ktUisv",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "8UOucEsn2oF9O2uX",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:26]{Volonté} DD 26)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "dSkIJ0gsh7XlH2OA",
@@ -7022,6 +7097,11 @@
             "id": "XucZtbvC1QhYV0HW",
             "name": "Ferocity (Férocité)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
+        },
+        {
+            "id": "YRhZxIyDuKIuiHky",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le transformateur homme-serpent inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "6Sms9YOa60rjevVP",
@@ -7874,6 +7954,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "VLwTahhYo1OObMUv",
+            "name": "Greater Constrict (Constriction supérieure)",
+            "items-description": "<p>[[/r {3d6+12}[bludgeoning]]]{3d6+12 dégâts contondants} @Check[type:fortitude|dc:33|basic:true]{Vigueur basique} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "H5oOhIYYYiEvkna6",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -8137,6 +8222,11 @@
             "id": "W9vOqV3RGCnKCbHu",
             "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
+        },
+        {
+            "id": "7kGu1ORgE4Nay79B",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Un spriggan inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "3jVmH3McNsX8B0Od",
@@ -8577,6 +8667,11 @@
             "id": "B3HRE3VYFmesNO4i",
             "name": "Scent (Odorat)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "3BSxL95mz6QjoWi1",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Un viflin inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "CpTRDv42ZCA5jHZL",
@@ -9334,6 +9429,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "QZup3O3zcKH6TFZd",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le zebub inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "WxKg83hAxh4B0VJo",
             "name": "Flaming Ghost Touch Longspear (Pique spectrale enflammée)",
             "items-description": ""
@@ -9624,6 +9724,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "BsxGfhkuyAGxetGI",
+            "name": "Frightful Presence (Présence terrifiante)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:30]{Volonté} DD 30)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "gbsLwd2FBQal3xdZ",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le skulk inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "2IZWaM2O4amLWbye",
             "name": "Draconic Frenzy (Frénésie draconique)",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe d'aile dans n'importe quel ordre.</p>"
@@ -9647,6 +9757,11 @@
             "id": "A18yDTtE84tJ1jhJ",
             "name": "+1 Status Bonus on Saves vs Magic (Bonus de statut de +1 aux jds contre la magie)",
             "items-description": ""
+        },
+        {
+            "id": "GtJ8PtIPDvGSAIHU",
+            "name": "Sneak Attack (Attaque sournoise)",
+            "items-description": "<p>Le nuglub inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu ou [[/r {1d10}[precision]]]{1d10 dégâts de précision} si la cible est @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre}.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "w7j7MOc866dBtx82",
@@ -9857,6 +9972,11 @@
             "id": "tKbplFnGrHjbOkKF",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "KovaVbwNiKoGj4DJ",
+            "name": "Greater Constrict (Constriction supérieure)",
+            "items-description": "<p>[[/r {2d10+12}[bludgeoning]]]{2d10+12 dégâts contondants} @Check[type:fortitude|dc:36|basic:true]{Vigueur basique} DD 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "2BHwzsnFNAsPoULp",

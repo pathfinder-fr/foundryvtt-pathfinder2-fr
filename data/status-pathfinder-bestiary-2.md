@@ -5,7 +5,7 @@
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-18 09:09 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-21 20:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -62,7 +62,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcier|libre|
 |[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|libre|
 |[6ZLs4H4gjVyb3yV7.htm](pathfinder-bestiary-2/6ZLs4H4gjVyb3yV7.htm)|Petitioner (Elysium)|Pétitionnaire (Élysée)|libre|
-|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fey)|libre|
+|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fée)|libre|
 |[7EppoGdIcmd0AV9B.htm](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|Onidoshi (Oni)|libre|
 |[7lL7APeHQgkVxU1B.htm](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|Nuée de méduses de feu|libre|
 |[7oiIDnLBDpC2r2AA.htm](pathfinder-bestiary-2/7oiIDnLBDpC2r2AA.htm)|Sacristan|Sacristain (Velstrac)|libre|

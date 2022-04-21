@@ -21488,7 +21488,7 @@
         {
             "id": "Adroit Manipulation",
             "name": "Manipulation adroite",
-            "description": "<p><strong>Accès</strong> ethnie Mihrini</p>\n<hr />\n<p>Depuis que vous êtes enfant, on vous a donné des noeuds à défaire, des serrures à ouvrir et des puzzles de forgeron pour vous occuper les mains. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol à un test pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter une serrure}, vous obtenez un succès critique à la place.</p>"
+            "description": "<p><strong>Accès</strong> ethnie Mihrini</p>\n<hr />\n<p>Depuis que vous êtes enfant, on vous a donné des nœuds à défaire, des serrures à ouvrir et des puzzles de forgeron pour vous occuper les mains. Vous êtes qualifié en Vol (ou une compétence de votre choix, si vous étiez déjà qualifié en Vol). Si vous obtenez un succès sur un test de Vol pour @Compendium[pf2e.actionspf2e.2EE4aF4SZpYf0R6H]{Crocheter une serrure}, vous obtenez un succès critique à la place.</p>"
         },
         {
             "id": "Gnome Polyglot",
@@ -26730,6 +26730,16 @@
             "prereq": [
                 {
                     "value": "expert en Arcanes, Nature, Occultisme ou Religion"
+                }
+            ]
+        },
+        {
+            "id": "Unbreakable Bond",
+            "name": "Lien incassable",
+            "description": "<p>Vous et votre compagnon mégafaune êtes liés ; tant que vous vivez, il est beaucoup plus difficile pour votre compagnon de mourir. Si votre compagnon mégafaune acquiert la condition mourant, il réussit automatiquement le test de récupération pour se stabiliser à 0 point de vie à son tour. De plus, votre compagnon mégafaune ne meurt qu'à l'état de mourant 5 au lieu de mourant 4. Enfin, la première fois par jour que votre compagnon mégafaune atteindrait le stade de mourant 5 et devrait mourir, tant que vous êtes encore en vie, la valeur de mourant de votre compagnon est remise à 0 à la place.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement du Seigneur des mammouths"
                 }
             ]
         },

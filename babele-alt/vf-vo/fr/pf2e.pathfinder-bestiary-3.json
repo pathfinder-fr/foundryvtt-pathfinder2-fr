@@ -1693,8 +1693,8 @@
         },
         {
             "id": "Millindemalion",
-            "name": "Millindemalion (Fey) (Millindemalion)",
-            "description": "<p>Les millindemalion sont de cruels filous capables de semer la pagaille avec leurs chapeaux magiques altérant l'esprit. De nombreux contes populaires du monde entier parlent de fées industrieuses qui aident les artisans en difficulté - cordonniers, modistes, tailleurs et ainsi de suite - pendant la nuit, créant des articles de qualité en secret sans autre paiement qu'une miette de pain ou une soucoupe de crème. Ces histoires contiennent une part de vérité, car il arrive que de gracieuses feys voyagent du Premier Monde pour aider un humble artisan sur un coup de tête contre des bribes de nourriture ou parfois même dans le cadre d'un effort concerté pour répandre la beauté dans le monde. Cependant, lorsqu'un artisan devient trop dépendant de cette aide, son sympathique aide féerique peut être déformé et tordu par le ressentiment et la négligence. Il peut finir par se muer en un cruel farceur qui prend plaisir à punir les mortels qui osent confier à un fey un travail aussi banal. Le millindemalion est le résultat de la transformation d'un fey chapelier bienveillant. Certains érudits pensent que ce comportement erratique est causé par la prépondérance du vif-argent utilisé dans la plupart des chapelleries.</p>"
+            "name": "Millindemalion (Fée) (Millindemalion)",
+            "description": "<p>Les millindemalions sont de cruelles fées filous capables de semer la pagaille avec leurs chapeaux magiques altérant l'esprit. De nombreux contes populaires du monde entier parlent de fées industrieuses qui aident les artisans en difficulté - cordonniers, modistes, tailleurs et ainsi de suite - pendant la nuit, créant des articles de qualité en secret sans autre paiement qu'une miette de pain ou une soucoupe de crème. Ces histoires contiennent une part de vérité, car il arrive que de gracieuses fées voyagent du Premier Monde pour aider un humble artisan sur un coup de tête contre des bribes de nourriture ou parfois même dans le cadre d'un effort concerté pour répandre la beauté dans le monde. Cependant, lorsqu'un artisan devient trop dépendant de cette aide, son sympathique aide féerique peut être déformé et tordu par le ressentiment et la négligence. Il peut finir par se muer en un cruel farceur qui prend plaisir à punir les mortels qui osent confier à une fée un travail aussi banal. Le millindemalion est le résultat de la transformation d'une fée chapelier bienveillante. Certains érudits pensent que ce comportement erratique est causé par la prépondérance du vif-argent utilisé dans la plupart des chapelleries.</p>"
         },
         {
             "id": "Ledalusca",
@@ -1827,6 +1827,11 @@
             "items-description": ""
         },
         {
+            "id": "dahd3jKunJZarMSO",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:38]{Volonté} DD 38</p>\n<p>Les animaux, les champignons et les plantes subissent une pénalité de circonstance de -2 à leur jet de sauvegarde.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "qTVf39ECIPyC5jMa",
             "name": "Guérison négative (Negative Healing)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -1870,6 +1875,11 @@
             "id": "fRYKciZWxC0TiEcw",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "gU4MP6UZdedQtspk",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:34]{Volonté} DD 34</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "5e9nAAnEPwtzAoiR",
@@ -2027,6 +2037,11 @@
             "items-description": ""
         },
         {
+            "id": "atierys9eTCKzPyz",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d10+9}[bludgeoning]]]{3d10+9 dégâts contondants} @Check[type:fortitude|dc:37|basic:true]{Vigueur basique} DD 37</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "5pRHBAOx7kPRJDBR",
             "name": "Guérison négative (Negative Healing)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -2035,6 +2050,11 @@
             "id": "2kFQsJv3fMYJ1RND",
             "name": "Bec (Beak)",
             "items-description": ""
+        },
+        {
+            "id": "niyS4ePBUKlm1nbJ",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:38]{Volonté} DD 38</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "GkEh5ET2hVXw3FKO",
@@ -2060,6 +2080,11 @@
             "id": "AF48h2X3hAjthWZX",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "xWTrZfFzg3jvqkuu",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d8+6}[bludgeoning]]]{3d8+6 dégâts contondants} @Check[type:fortitude|dc:30|basic:true]{Vigueur basique} DD 30</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "R0bN0QbVsJDFnHId",
@@ -2232,6 +2257,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "n7ZxA7v0OJE04AGq",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:32]{Volonté} DD 32</p>\n<p>Les animaux, les champignons et les plantes subissent une pénalité de circonstances de -2 au jet de sauvegarde.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "o7YwycWP8YFceUCM",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2245,6 +2275,11 @@
             "id": "k2oujPtkWYkCjV8t",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "obpFkh9f0LWUmFG2",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:27]{Volonté} DD 27</p>\n<p>Les animaux, les champignons et les plantes subissent une pénalité de circonstances de -2 au jet de sauvegarde.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "8IQ2N3VKsykBfWvw",
@@ -2270,6 +2305,11 @@
             "id": "FYQBhz6UyHtF4h3Q",
             "name": "Griffes (Claws)",
             "items-description": ""
+        },
+        {
+            "id": "q6bluZPiKPFzD79n",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:41]{Volonté} DD 41</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "BsVgKelZGZWfZaYs",
@@ -2402,6 +2442,11 @@
             "items-description": ""
         },
         {
+            "id": "3r5kNijs14DNKRqh",
+            "name": "Escalade de la glace (Ice Climb)",
+            "items-description": "<p>Une guenaude d'hiver peut escalader la glace à la vitesse d’escalade indiquée. Elle ignore les terrains difficiles et très difficiles à cause de la glace et de la neige et ne risque pas de tomber sur ces surfaces.</p>"
+        },
+        {
             "id": "fvbnbBzVNf3FpASj",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -2450,6 +2495,11 @@
             "id": "NFIsLlfq5D02gNol",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "DrR0GXOBDUWyiyEd",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:28]{Volonté} DD 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "Lscs4sD2vIZEzZIX",
@@ -2550,6 +2600,11 @@
             "id": "sNth9LOE6nRfhE3n",
             "name": "Télépathie (Contact) (Telepathy (Touch))",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "Rubn1my2aY6utJPZ",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>L'infiltrateur androïde inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "1RfKpuWxU1cMc4p7",
@@ -2702,6 +2757,11 @@
             "items-description": ""
         },
         {
+            "id": "yiRwJtMI4udvjxuF",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:24]{Volonté} DD 24</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "ofXdILv2twbnZo5Z",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -2730,6 +2790,11 @@
             "id": "pVxNWlSICm5ij03c",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "Ew8oLYahqyGEluxo",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d10+8}[bludgeoning]]]{3d10+8 dégâts contondants} @Check[type:fortitude|dc:36|basic:true]{Vigueur basique} DD 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "i2YbHX9ZBEKMZMOv",
@@ -3097,6 +3162,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "7101NEoU5qf7eU5R",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d8+10}[bludgeoning]]]{3d8+10 dégâts contondants} @Check[type:fortitude|dc:34|basic:true]{Vigueur basique} DD 34</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "EaFbQFfNsYFJLrSK",
             "name": "Crocs (Fangs)",
             "items-description": ""
@@ -3230,6 +3300,11 @@
             "id": "dDtA4Al0gFgC9jck",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "ZLvVuoT7wsCVMtYC",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:46]{Volonté} DD 46</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "oxJLEKIfZkDETCv8",
@@ -3435,6 +3510,11 @@
             "id": "2CGRxGWozrsdSvIi",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "iHPmzxNLB3Yqy1nG",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:28]{Volonté} DD 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "vHyMiWUvIDKSzTO4",
@@ -3727,6 +3807,11 @@
             "items-description": ""
         },
         {
+            "id": "fzak2ynta3xkJOf2",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le kokogiak inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "tvG7g3H6RsfVKvsw",
             "name": "Élan draconique (Draconic Momentum)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
@@ -3790,6 +3875,11 @@
             "id": "H9YGbRcmWQV6mrYy",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "4j8tGzWuHcBuRSsZ",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:120]{36 m} @Check[type:will|dc:42]{Volonté} DD 42</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "vBOtCKqI5yNghuqQ",
@@ -3995,6 +4085,11 @@
             "id": "f661MaVKOhxZZMUI",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "ab11N1FmMkMVAP9Q",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d10+8}[bludgeoning]]]{3d10+8 dégâts contondants} @Check[type:fortitude|dc:38|basic:true]{Vigueur basique} DD 38</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "QTLnr9MYtcbjoq6C",
@@ -4242,6 +4337,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "KewwLz9N8mWqhTpA",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:31]{Volonté} DD 31</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "dyrhkvCX2H3pZBp9",
             "name": "Vision dans le noir supérieure (Greater Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
@@ -4297,9 +4397,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "F9z5eqsEuY9xP7v7",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} @Check[type:will|dc:33]{Volonté} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "93MtSffrKnk4gD8h",
             "name": "Bonus de statut de +1 aux jds contre la magie (+1 Status Bonus on Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "mEWYraWAQafyA1Ve",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>L'implorant caligni inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "af7dgcRuc5gWm1ej",
@@ -4722,6 +4832,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "gfdUdq48zE9ToEDk",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le mi-go inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "n0IdU8aHDRaDIoOA",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -4785,6 +4900,11 @@
             "id": "ECVcMDSSzJXSESDi",
             "name": "Griffe (Claw)",
             "items-description": ""
+        },
+        {
+            "id": "JiieW7FHU7H9vlCH",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d8+8}[bludgeoning]]]{3d8+8 dégâts contondants} @Check[type:fortitude|dc:33|basic:true]{Vigueur basique} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "Or20Bb0UzTLxRqoj",
@@ -5242,6 +5362,11 @@
             "items-description": ""
         },
         {
+            "id": "VhHPHnq8mOa0YC7b",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le millindemalion inflige [[/r {4d6}[precision]]]{4d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "Q0IYQhi4qttZkUKn",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -5325,6 +5450,11 @@
             "id": "cdmwwMzpk0Bsc4Jg",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "Oo1ff4ERhvPS7Bhw",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "9uoAAHOpjHhrvzWl",
@@ -5522,6 +5652,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "vRX7fHLnwfVnMQMN",
+            "name": "Absence de traces (Trackless Step)",
+            "items-description": "<p>Le kokogiak bénéficie toujours de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} dans un environnement naturel même en se déplaçant à pleine vitesse.</p>"
+        },
+        {
             "id": "SKfXJh58tHRMQxNa",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -5580,6 +5715,11 @@
             "id": "8cr5UQhOU7Fs4x6B",
             "name": "Odorat (imprécis) 30 m (Scent (Imprecise) 100 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "KPwsQn8bO8tcLOgw",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:26]{Volonté} DD 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "P8K5a9sUjb1J99U0",
@@ -5647,6 +5787,11 @@
             "items-description": ""
         },
         {
+            "id": "VWYPFAK34Zjcc8sf",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le renard évanescent inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "6QzeJqibXMpIAXDj",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -5665,6 +5810,11 @@
             "id": "3gYN9UrAQK8utoKH",
             "name": "Odorat (imprécis) 18 m (Scent (Imprecise) 60 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "ykB9VqfwXdIegLS2",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>La goule de leng inflige [[/r {2d6}[precision]]]{2d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "8AK5AzyX03GXrikY",
@@ -5770,6 +5920,11 @@
             "id": "kziqHkR0lOsYBKJz",
             "name": "Odorat (imprécis) 9 m (Scent (Imprecise) 30 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "cUQLbIojBehGDQn1",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:23]{Volonté} DD 23</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "leLKKGPbDbUPHstg",
@@ -6197,6 +6352,11 @@
             "items-description": ""
         },
         {
+            "id": "zLh5jRcxUaafQvod",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {1d10+10}[bludgeoning]]]{1d10+10 dégâts contondants} plus [[/r {1d8}[electricity]]]{1d8 dégâts d'électricité} à n'importe quel nombre de créatures @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippées/Empoignées} ou @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravées} par ses soins. Chacune de ces créatures peut tenter un jet de @Check[type:fortitude|dc:32|basic:true]{Vigueur basique} DD 32. Une créature qui obtient un échec sur ce jet est @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} et une créature qui obtient un succèss est temporairement immunisée à l'inconscience de constriction supérieure pendant 1 minute.</p></p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "KD9WyZyMHgs07nLa",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -6297,6 +6457,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
+            "id": "KkSN8aLpddZGTcZq",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {2d8+10}[bludgeoning]]]{2d8+10 dégâts contondants} @Check[type:fortitude|dc:30|basic:true]{Vigueur basique} DD 30</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "l3QKE8kkrmNe5aZO",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6365,6 +6530,11 @@
             "id": "ZmVqNTMjqte6Xf1k",
             "name": "Poing (Fist)",
             "items-description": ""
+        },
+        {
+            "id": "IOBHBhN2gfM5QQHO",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {3d10+11}[bludgeoning]]]{3d10+11 dégâts contondants} @Check[type:fortitude|dc:40|basic:true]{Vigueur basique} DD 40</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "ce63eYi0AotvHaz2",
@@ -6522,6 +6692,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "TUeQuUGgoRmhyIBI",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le wwayang inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "unEjKFEEILdk8x7m",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -6550,6 +6725,11 @@
             "id": "B2rF45WAMrowNHio",
             "name": "Vision dans le noir (Darkvision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "E3tmyHUT7v0BSgAP",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {4d8+10}[bludgeoning]]]{4d8+10 dégâts contondants} @Check[type:fortitude|dc:41|basic:true]{Vigueur basique} DD 41</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
         },
         {
             "id": "CTfA2dy8dT55Ygfa",
@@ -6882,6 +7062,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
         },
         {
+            "id": "EFkfk6hbU9iqt1ja",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:36]{Volonté} DD 36</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "kQaDhJaLxNJw4l8l",
             "name": "Vision nocturne (Low-Light Vision)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -6967,6 +7152,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "6mHmfXwMk0MX37HC",
+            "name": "Constriction supérieure (Greater Constrict)",
+            "items-description": "<p>[[/r {4d8+11}[bludgeoning]]]{4d8+11 dégâts contondants} @Check[type:fortitude|dc:43|basic:true]{Vigueur basique} DD 43</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
+        },
+        {
             "id": "N0n5SsuqfJHWLi1E",
             "name": "Griffe (Claw)",
             "items-description": ""
@@ -7005,6 +7195,11 @@
             "id": "3VJSS90TtdqUONTz",
             "name": "Sorts constants (Constant Spells)",
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "PLTi8diRg1rhDOR9",
+            "name": "Absence de traces (Trackless Step)",
+            "items-description": "<p>Le renard évanescent bénéficie toujours de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} dans un environnement naturel même en se déplaçant à pleine vitesse.</p>"
         },
         {
             "id": "RfXLcZpuY88IxZTD",
@@ -7112,6 +7307,16 @@
             "items-description": ""
         },
         {
+            "id": "pHOf2i3tNwpIeAHs",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:33]{Volonté} DD 33</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "3keJLwwlQMlCUtDM",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:31]{Volonté} DD 31)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
             "id": "mk57CVzb2MTvBoCX",
             "name": "Sorts à volonté (At-Will Spells)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -7180,6 +7385,11 @@
             "id": "jMQ5yo71IDbzIoiV",
             "name": "Mâchoires (Jaws)",
             "items-description": ""
+        },
+        {
+            "id": "MedC7s1LzUCBByh3",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le vishkanya inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
             "id": "np15xTTViDna2Ngj",
@@ -7252,6 +7462,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "jTr10cfJXMg0qGZO",
+            "name": "Attaque sournoise (Sneak Attack)",
+            "items-description": "<p>Le virebois inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
             "id": "WEZI1PxyY7ic04Cy",
             "name": "Empoignade/Agrippement (Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -7280,6 +7495,11 @@
             "id": "6xahDCfkFUkOeoVD",
             "name": "Bonus de statut de +1 aux jds contre la magie (+1 Status Bonus on Saves vs Magic)",
             "items-description": ""
+        },
+        {
+            "id": "yko1i4iRHZ27lWIG",
+            "name": "Présence terrifiante (Frightful Presence)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{36 m} @Check[type:will|dc:25]{Volonté} DD 25</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
             "id": "kt9Kmearp1t75oDh",
