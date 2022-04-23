@@ -2999,6 +2999,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
         },
         {
+            "id": "OBn7syfr2t30QJaa",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "Tjvf8RD2s6FEQelo",
             "name": "Rock",
             "items-description": ""
@@ -3379,6 +3384,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
         },
         {
+            "id": "Y3O7AOvH1wkpSV2Z",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "DlQoJTMEjgmsWgCa",
             "name": "Mandibles",
             "items-description": ""
@@ -3639,6 +3649,11 @@
             "items-description": ""
         },
         {
+            "id": "hWi2Ff37mvsMC81Y",
+            "name": "Aquatic Ambush",
+            "items-description": "<p>12 m</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+        },
+        {
             "id": "GryMTmkSRqTAW3ol",
             "name": "Wing",
             "items-description": ""
@@ -3837,6 +3852,11 @@
             "id": "zHWFkxssQtSSZH42",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "pvqYJHUkKVxUx3Q2",
+            "name": "Claw",
+            "items-description": "<p>[[/r {1d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants}</p>"
         },
         {
             "id": "MDX9dw99EkjeyPM0",
@@ -4126,6 +4146,11 @@
         {
             "id": "rasNjBJHTsaP5LFC",
             "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "MZYIlatBEX5yoG4G",
+            "name": "Bite",
             "items-description": ""
         },
         {
@@ -4529,6 +4554,11 @@
             "items-description": ""
         },
         {
+            "id": "ZdHLSjspChUCaebu",
+            "name": "Rhoka Sword",
+            "items-description": ""
+        },
+        {
             "id": "kGnrd8Q7x3x8myE3",
             "name": "Tremorsense",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
@@ -4567,6 +4597,11 @@
             "id": "Pb3h2ToW8cyiBXN7",
             "name": "Tentacle",
             "items-description": ""
+        },
+        {
+            "id": "NqdW9zuvmBwHZScr",
+            "name": "Archon's Door",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
         },
         {
             "id": "lc7e1FfD0zeKHSkz",
@@ -4897,6 +4932,11 @@
             "id": "RNDT57aD8UzBIRVk",
             "name": "Pack Attack",
             "items-description": "<p>Un trollosse inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "zIgTjSPfr6rcIZod",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>Queue seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "guUOsE03Ck5JEoBu",
@@ -5254,9 +5294,19 @@
             "items-description": ""
         },
         {
+            "id": "mjWf3inPCmf7NzIh",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "vID81IzA60CV6yD2",
             "name": "Frightful Presence",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:32]{Volonté} DD 32)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "1lYZ7v9sRWUarCls",
+            "name": "Wing Deflection",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque.</p>"
         },
         {
             "id": "iHNeGlvXTDOXMF0H",
@@ -5342,6 +5392,11 @@
             "id": "kUtQvCE4ePTqjluS",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "9bSMDZ283g6Zq6IU",
+            "name": "Aquatic Ambush",
+            "items-description": "<p>9 m. Une orque peut se déplacer pas plus loin qu'à 1,5 m sur la terre ferme lorsqu'elle dresse une embuscade aquatique. Après cela, elle est @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{À terre} jusqu'à ce qu'elle @Compendium[pf2e.actionspf2e.Tj055UcNm6UEgtCg]{Rampe} pour retourner à l'eau.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
         },
         {
             "id": "Ybx41yIdQO59hKjK",
@@ -5819,6 +5874,11 @@
             "items-description": ""
         },
         {
+            "id": "CYtByJ7KaQiXTAWv",
+            "name": "Retributive Strike",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 22</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+        },
+        {
             "id": "y7LC1NdSY22WtjWg",
             "name": "Claw",
             "items-description": ""
@@ -6057,6 +6117,11 @@
             "id": "mOfIGDW3g48Ft7w8",
             "name": "Catch Rock",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
+        },
+        {
+            "id": "0F96cEU48FezVgKB",
+            "name": "Bite",
+            "items-description": ""
         },
         {
             "id": "tjNFJu8XOANHpzYB",
@@ -6849,6 +6914,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "zuum0VinuCKcAh3D",
+            "name": "Light Hammer",
+            "items-description": ""
+        },
+        {
             "id": "1eb07HNvWyOOELI3",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6939,6 +7009,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "mmb4NGB4HueXi8Ty",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "avWzQnKIoQnTzxDr",
             "name": "Greater Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
@@ -6957,6 +7032,11 @@
             "id": "eESVKEI54htLp14a",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "MVRIjPsJ2e4QYHM9",
+            "name": "Wing Deflection",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque.</p>"
         },
         {
             "id": "JqoRYjfcXOg9zHSr",
@@ -7089,6 +7169,11 @@
             "items-description": ""
         },
         {
+            "id": "y7wcFxhYodNrBPwL",
+            "name": "Wraith Spawn",
+            "items-description": "<p>Un humanoïde vivant tué par la Frappe de main spectrale d’une âme-en-peine se relève sous forme d’âme-en-peine au bout de [[/br 1d4 #rounds]]{1d4 rounds}. Ce rejeton est aux ordres de l’âme-en-peine qui l’a tué. Il ne possède pas les pouvoirs Drain de vie ni Rejeton d’âme-en-peine et subit l’état Mmaladroit 2 tant qu’il conserve son statut de rejeton. Si son créateur est détruit, le rejeton devient une véritable âme-en-peine autonome. Il récupère son libre arbitre, obtient les pouvoirs Drain de vie et Rejeton d’âme-en-peine et n’est plus Maladroit.</p>"
+        },
+        {
             "id": "H6d3brisQR3MDHO6",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -7206,6 +7291,11 @@
         {
             "id": "q5XLED0zxjExmJp2",
             "name": "Tail",
+            "items-description": ""
+        },
+        {
+            "id": "Nz9xljPpg09kcxBl",
+            "name": "Bite",
             "items-description": ""
         },
         {
@@ -7494,6 +7584,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "dydhZgaxaoJL5dXx",
+            "name": "Aquatic Ambush",
+            "items-description": "<p>12 m</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+        },
+        {
             "id": "W1PoKy0P1n1NYE7q",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -7587,6 +7682,11 @@
             "id": "iRcU8dloUGz1q7VC",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "r421CNwt0qBGoUVK",
+            "name": "Retributive Strike",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 6</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
         },
         {
             "id": "ZD69ngyFRQ3FHnUr",
@@ -7734,6 +7834,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "HWUmjgOASJXWhmgn",
+            "name": "Aquatic Ambush",
+            "items-description": "<p>9 m</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+        },
+        {
             "id": "Wq62yRjG1oubi4Cf",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -7742,6 +7847,11 @@
             "id": "qARQ5Sntem4thRiy",
             "name": "Improved Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "EEQTDYHn0GwNCqRL",
+            "name": "Retributive Strike",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 16</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
         },
         {
             "id": "3cCdl7Qgc7kTT6at",
@@ -7942,6 +8052,11 @@
             "id": "DEac5zIyNqdQYdnc",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "Ew7CBGn58KzAoHsQ",
+            "name": "Bite",
+            "items-description": ""
         },
         {
             "id": "wWilHEuB4DGYHQdO",
@@ -8194,6 +8309,11 @@
             "items-description": ""
         },
         {
+            "id": "xa0P6lS6jAgU3iPX",
+            "name": "Archon's Door",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
+        },
+        {
             "id": "x0tIw8t8mhFgH7ab",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -8252,6 +8372,11 @@
             "id": "hm7ls5Yo0n7QOWMl",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "2SKe9OcSUJ5AXTPf",
+            "name": "Archon's Door",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
         },
         {
             "id": "r9UN2dDmxrL8ACPX",
@@ -8449,6 +8574,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "x3aksJFYweZk98OP",
+            "name": "Retributive Strike",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 21</p>\n<p>Un archon étoile peut aussi porter une Frappe punitive en lançant sa lamétoile et l'ennemi et l'allié peuvent être à 18 m au lieu de 4,5 m.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+        },
+        {
             "id": "U4uu4gkB12yKgjWl",
             "name": "Jaws",
             "items-description": ""
@@ -8572,6 +8702,11 @@
             "id": "2ABnFaydFGtobnZC",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "jpeqjLFSGfQaHqwb",
+            "name": "Bite",
+            "items-description": ""
         },
         {
             "id": "GPSk2dGRxJdcBtW7",
@@ -8749,6 +8884,11 @@
             "items-description": ""
         },
         {
+            "id": "Ym0WhQCJHDGT3v4z",
+            "name": "Attack of Opportunity",
+            "items-description": "<p>Un athach obtient une réaction supplémentaire au début de chacun de ses tours qu'il peut utiliser uniquement pour porter une Attaque d'opportunité avec sa griffe. Il ne peut utiliser plus d'une attaque d'opportunité déclenchée par la même action.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "wtvDPCazUVSsqJ2O",
             "name": "Negative Healing",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
@@ -8814,6 +8954,11 @@
             "items-description": ""
         },
         {
+            "id": "SDF2zWv6zGkmcQH9",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "CwNuoWOgc2U8qCLd",
             "name": "Knockdown",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
@@ -8871,6 +9016,11 @@
         {
             "id": "2yuX2a5ufNBYmWHK",
             "name": "Fangs",
+            "items-description": ""
+        },
+        {
+            "id": "XMTEsGgReo4d8QMB",
+            "name": "Katana",
             "items-description": ""
         },
         {
@@ -8987,6 +9137,11 @@
             "id": "1RpmI2FY6QNDsOVh",
             "name": "Scent",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "6ZtjeB9jdEW4o2QJ",
+            "name": "Bite",
+            "items-description": ""
         },
         {
             "id": "J2LUtQlsnbpMEQ1r",
@@ -9339,6 +9494,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "3AK8xWwQNAfn8GZR",
+            "name": "Bite",
+            "items-description": ""
+        },
+        {
             "id": "XSrKkFryn35jFMnz",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9362,6 +9522,11 @@
             "id": "dkeTBVoAjjtnQkuW",
             "name": "Scent",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "TUaSPYJP2yuCkKh9",
+            "name": "Wing Deflection",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque.</p>"
         },
         {
             "id": "2JNLdz4nnbNkOkbO",
@@ -9649,6 +9814,11 @@
             "items-description": ""
         },
         {
+            "id": "B26U4dSQygOAKMgv",
+            "name": "Archon's Door",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
+        },
+        {
             "id": "Z08HAZUvnJBGvImG",
             "name": "Swarm Mind",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
@@ -9767,6 +9937,11 @@
             "id": "w7j7MOc866dBtx82",
             "name": "Scent",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "xXv6eUeKYXjO80rc",
+            "name": "Swoop",
+            "items-description": "<p>La libellule géante Vole à une distance maximale égale à sa Vitesse et porte une Frappe de mandibule à n’importe quel moment de son déplacement.</p>"
         },
         {
             "id": "pYBvVxfTXqJhnpWd",

@@ -2112,6 +2112,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "f9gqhbFaPyj77i0e",
+            "name": "Marteau léger",
+            "items-description": ""
+        },
+        {
             "id": "c98PM0QPXi4xWm6M",
             "name": "Odorat (imprécis) 9 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -2260,6 +2265,11 @@
             "id": "n7ZxA7v0OJE04AGq",
             "name": "Présence terrifiante",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:32]{Volonté} DD 32</p>\n<p>Les animaux, les champignons et les plantes subissent une pénalité de circonstances de -2 au jet de sauvegarde.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "D8VyX86E4dNG3pvk",
+            "name": "Katana",
+            "items-description": ""
         },
         {
             "id": "o7YwycWP8YFceUCM",
@@ -3672,6 +3682,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "fLXcaCWjl1dAjO33",
+            "name": "Morsure",
+            "items-description": ""
+        },
+        {
             "id": "h4zO0kK45DmIdXa1",
             "name": "Empoignade/Agrippement",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -3889,6 +3904,11 @@
         {
             "id": "pbSfPZuBX9faeDui",
             "name": "Corne",
+            "items-description": ""
+        },
+        {
+            "id": "6jXWp7OM7AukkRT3",
+            "name": "Morsure",
             "items-description": ""
         },
         {
@@ -4917,6 +4937,11 @@
             "items-description": ""
         },
         {
+            "id": "XlCJ1ZHQ8EGtKrFn",
+            "name": "Morsure",
+            "items-description": ""
+        },
+        {
             "id": "ga5JXiw8tZ2VnkLB",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -5069,6 +5094,11 @@
         {
             "id": "85CNz1N6H7AEa4kU",
             "name": "Cimeterre",
+            "items-description": ""
+        },
+        {
+            "id": "C6Fl3KvNV5ml8FIL",
+            "name": "Discrétion",
             "items-description": ""
         },
         {
@@ -6207,6 +6237,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
         },
         {
+            "id": "6fc7mDScSYrAh4aK",
+            "name": "Balai",
+            "items-description": ""
+        },
+        {
             "id": "BG9o62cI16MBV3Qy",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6559,6 +6594,11 @@
         {
             "id": "QeDdL4PRsKD6EnrC",
             "name": "Rocher",
+            "items-description": ""
+        },
+        {
+            "id": "EhA1NamwzAZrJMj2",
+            "name": "Morsure",
             "items-description": ""
         },
         {
@@ -7587,6 +7627,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "tauTat1vId2N5H4u",
+            "name": "Morsure",
+            "items-description": ""
+        },
+        {
             "id": "08t9rJT8yGrqWVpw",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -7632,9 +7677,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "df6x7z2JqZ325lY2",
+            "name": "Morsure",
+            "items-description": ""
+        },
+        {
             "id": "txykeoHQFVm7Kix0",
             "name": "Sorts à volonté",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "kzwDYGXsWl0wyTwN",
+            "name": "Marteau léger",
+            "items-description": ""
         },
         {
             "id": "evm4eCyWjNyR4429",

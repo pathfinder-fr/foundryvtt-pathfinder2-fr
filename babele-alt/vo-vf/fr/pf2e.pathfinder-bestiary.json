@@ -3414,6 +3414,11 @@
             "items-description": "<p>Le traqueur caligni inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
+            "id": "DjE8LDaTqE6Y8m1b",
+            "name": "Daemonic Pestilence (Pestilence démoniaque)",
+            "items-description": "<p data-visibility=\"gm\"> Le leukodaémon peut communiquer télépathiquement avec la créature affligée à n’importe quelle distance sur le même plan.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:28]{Vigueur} DD 28</p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> porteur (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 1} (1 jour)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 2} (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 2} (1 jour)</p>\n<p><strong>Stade 5</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 3} (1 semaine)</p>\n<p><strong>Stade 6</strong> mort</p>\n</div>"
+        },
+        {
             "id": "ZQs5C40PhQ6fLEOd",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -3514,6 +3519,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "qcCBWdNoDKQOL8YM",
+            "name": "Athletics (Athlétisme)",
+            "items-description": ""
+        },
+        {
             "id": "QK3Y9sXcSwM0Bsm8",
             "name": "Claw (Griffe)",
             "items-description": ""
@@ -3532,6 +3542,11 @@
             "id": "XJHXZOImLOORwInT",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "uGne7svJszeghy3d",
+            "name": "Plaguesense 60 feet (Perception des maladies 18 m)",
+            "items-description": "<p>Un leukodaémon est capable de sentir si une créature à portée est atteinte d’une maladie et il sait quelle est cette maladie et à quel stade en est la victime.</p>"
         },
         {
             "id": "40xrU4USJeyzTqIE",
@@ -3564,9 +3579,19 @@
             "items-description": "<p>L’enlaceur tire à lui toutes les créatures qu’il a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoignées/agrippées} grâce à ses filaments. L’enlaceur fait un unique test @Check[type:athletics]{d’Athlétisme} et en compare le résultat avec le DD de Vigueur de chacune des créatures @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisées}. L’enlaceur tire à lui chaque créature face à laquelle il a obtenu un succès sur une distance maximale de 7,5 m, et chaque créature face à laquelle il a obtenu un succès critique d’une distance maximale de 15 m.</p>"
         },
         {
+            "id": "tMGdCYYP6CA506om",
+            "name": "Morphic Hands (Mains morphiques)",
+            "items-description": "<p>Les mains d’un archon bouclier peuvent se transformer en une <em>lance sainte de frappe +1</em> et en un bouclier renforcé inférieur ou reprendre leur forme normale.</p>\n<p>La transformation ne permet pas aux objets de récupérer des PV et si l’épée ou le bouclier sont totalement détruits, l’archon perd cette main jusqu’à ce qu’il bénéficie d’un sort <em>@Compendium[pf2e.spells-srd.2Vkd1IxylPceUAAF]{Régénération}</em> ou d’une magie similaire.</p>\n<p>Si un archon bouclier est tué, on peut prendre son arme et son bouclier mais ils disparaissent au bout de 24 heures.</p>"
+        },
+        {
             "id": "pO7Lt2BaAG6zgDvw",
             "name": "Scent (Imprecise) 100 feet (Odorat (imprécis) 30 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "3jppXkfB2qjbeRic",
+            "name": "Vortex (Vortex)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>L’eau située dans l’aura et qui est dans la même masse liquide que la cascade vivante est considérée comme un terrain difficile pour les créatures qui Nagent et qui n’ont pas le trait eau.</p>"
         },
         {
             "id": "GLucEXJUhwdRS7q9",
@@ -3582,6 +3607,11 @@
             "id": "M8RNAgw0OgnUOpKP",
             "name": "Polearm Critical Specialization (Critique spécialissé à l'arme d'hast)",
             "items-description": "<p> Sur un coup critique, la cible qui le subit est déplacée de 1,5 m dans une direction au choix du général hobgobelin.</p>"
+        },
+        {
+            "id": "czVzxuwWmCRLgnuc",
+            "name": "Forced Regeneration (Régénération forcée)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Condition</strong> La régénération du roi troll est actuellement désactivée.</p>\n<p><strong>Effet</strong> Le roi troll regagne [[/r {15}[healing]]]{15 PV}.</p>"
         },
         {
             "id": "VNCpyxuyRZEyA5HG",
@@ -3647,6 +3677,16 @@
             "id": "SCGxYeDTWb4Hznwu",
             "name": "+4 Status to All Saves vs Mental (Bonus de statut de +4 aux jds contre les effets mentaux)",
             "items-description": ""
+        },
+        {
+            "id": "KddvbFPsHJAfqGAc",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
+            "id": "aE5LiTLYluL3FG7u",
+            "name": "Desert Thirst (Soif du désert)",
+            "items-description": "<p>Quand il incante <em>@Compendium[pf2e.spells-srd.WzLKjSw6hsBhuklC]{Création d’eau} le dragon peut tenter de détruire des liquides au lieu d’en créer, transformant en sable un volume équivalent de substance. Cela détruit les liquides magiques et les objets alchimiques s’ils sont d’un niveau inférieur à celui du dragon (une créature peut tenter un jet de @Check[type:will|dc:37]{Volonté} DD 37 pour protéger les liquides qu’elle possède). Cela n’affecte pas les liquides dans le corps d’une créature.</p>"
         },
         {
             "id": "KZ4sC23Z3r4PS4V6",
@@ -3799,6 +3839,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "7CQGpLGBAg2Jbtjv",
+            "name": "Three Headed (Tricéphale)",
+            "items-description": "<p>Tout pouvoir ou effet qui pourrait trancher une tête de la chimère (comme un coup critique avec une <em>@Compendium[pf2e.equipment-srd.6xaxxKfvXED6LfIY]{arme vorpale}</em>) tranche une tête déterminée aléatoirement. Perdre une tête ne tue pas la chimère (tant qu’il lui en reste une) mais cela l’empêche d’effectuer une Frappe avec la tête détruite et d’utiliser le Souffle qui lui est associé.</p>"
+        },
+        {
             "id": "yAj0s7l7lPJLSE8C",
             "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -3819,6 +3864,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "36QKwrAooz1cygR4",
+            "name": "Cytillesh Stare (Regard cytillesh)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le magister focalise son regard sur une créature qu’il peut voir à une distance maximale de 9 mètres. La cible est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round et doit réussir un jet de @Check[type:will|dc:24]{Volonté} DD 24 ou être @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round.</p>"
+        },
+        {
+            "id": "UemgQLIDasOGrvNC",
+            "name": "Archon's Door (Porte de l'archon)",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
+        },
+        {
             "id": "oN5KE37Rg66tMPMp",
             "name": "Beak (Bec)",
             "items-description": ""
@@ -3832,6 +3887,21 @@
             "id": "DOr9FvQdsMfK9He0",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "pPuHLDfAI4W6qEr6",
+            "name": "Messenger's Amnesty (Amnistie du messager)",
+            "items-description": "<p>Un déva astral avec un message à remettre est continuellement protégé par l’effet d’un <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{Sanctuaire} (DD 32). Si le déva brise le <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{Sanctuaire}, l’effet se réactive si le déva cesse toute hostilité pendant 10 minutes.</p>"
+        },
+        {
+            "id": "krINP0tRSuTbpzys",
+            "name": "Water-Bound (Lié à l'eau)",
+            "items-description": "<p> Si elle n’est pas en contact avec de l’eau, la cascade vivante est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} et ne peut utiliser de réactions.</p>"
+        },
+        {
+            "id": "UgyxwE6dj48w1zhM",
+            "name": "Retributive Strike (Frappe punitive)",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
         },
         {
             "id": "FUIS7buU2stLWVpK",
@@ -3857,6 +3927,11 @@
             "id": "B9QrAlNM1MoP8sDk",
             "name": "Bardic Lore (Connaissance bardique)",
             "items-description": "<p>Les sphinx sont curieux par nature et leur amour pour les énigmes et les mystères les pousse à recueillir des informations de toutes sortes. Les sphinx ont le don @Compendium[pf2e.feats-srd.uVXEZblPRuCyPRua]{Connaissance bardique}, ce qui leur permet de Se souvenir d’informations sur n’importe quel sujet.</p>"
+        },
+        {
+            "id": "AUlLGXQgQx21Rynz",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
         },
         {
             "id": "XLiAwm5JWDoSNIPF",
@@ -3969,6 +4044,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
         },
         {
+            "id": "8xYRzzHeY6uZztPe",
+            "name": "Unstoppable Charge (Charge imparable)",
+            "items-description": "<p>Le roi troll Marche rapidement deux fois en ligne droite. Il peut porter jusqu’à deux Frappes de griffe pendant ce déplacement et une Frappe de mâchoires à la fin de son déplacement. Il ne peut pas Frapper la même créature plus d’une fois.</p>"
+        },
+        {
             "id": "QkmDtTbsggbI0MQy",
             "name": "+1 Status to All Saves vs Magic (Bonus de statut de +1 jds contre magie)",
             "items-description": ""
@@ -4002,6 +4082,16 @@
             "id": "X0BfkEsL9YNikfyR",
             "name": "Wave (Vague)",
             "items-description": ""
+        },
+        {
+            "id": "r04hQrUajd4T3K6Z",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
+            "id": "abEaFObv46UrcGMU",
+            "name": "Aquatic Ambush (Embuscade aquatique)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
         },
         {
             "id": "1UAh4ooLm8sQPmeN",
@@ -4217,6 +4307,11 @@
             "id": "bnuflGRdVoZz0Rf9",
             "name": "+1 Status to All Saves vs Magic (Bonus de statut de +1 jds contre magie)",
             "items-description": ""
+        },
+        {
+            "id": "3BMDL7DFtWP5HozZ",
+            "name": "Traveler's Aura (Aura du voyageur)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m}</p>\n<hr />\n<p>Les créatures dans l’aura d’un déva astral sont protégées contre les dégâts environnementaux ambiants des plans y compris la chaleur ou le froid important ou extrême ainsi que des dangers plus exotiques. Le déva astral n’est jamais @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} par les créatures situées dans son aura.</p>"
         },
         {
             "id": "uCBBqgflwHqvZeg5",
@@ -4449,6 +4544,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4kBeGDMZLn75niF4",
+            "name": "Sound Imitation (Imitation du son)",
+            "items-description": "<p> Le dragon peut imiter n’importe quel son qu’il a entendu. Il doit réussir un test de Duperie avec un bonus de circonstance de +4 pour le faire.</p>"
+        },
+        {
             "id": "uPrkt0x7Qt0nbh7U",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -4457,6 +4557,11 @@
             "id": "fQ0vMmyTwWHXQy7V",
             "name": "Horns (Cornes)",
             "items-description": ""
+        },
+        {
+            "id": "4pzu3XHcK4Rd1GQX",
+            "name": "Wing Deflection (Délection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque.</p>"
         },
         {
             "id": "DqJFXur9S0e0C54j",
@@ -4504,9 +4609,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
         },
         {
+            "id": "R9oCMdMtlo1aed3A",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
             "id": "1AzFNDZFiaJxTAJf",
             "name": "Undead Steed (Monture morte vivante)",
             "items-description": "<p>Les morts-vivants et les créatures qui leur sont alliées peuvent @Compendium[pf2e.actionspf2e.q9nbyIF0PEBqMtYe]{Diriger} une monture squelettique sans avoir besoin de faire de test de compétence.</p>"
+        },
+        {
+            "id": "5xEEdMhQDZQFuUpv",
+            "name": "Archon's Door (Porte de l'archon)",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
         },
         {
             "id": "zFNrz9di2EnI53hz",
@@ -4537,6 +4652,11 @@
             "id": "5rSjCpmIctYFNqcn",
             "name": "Draconic Frenzy (Frénésie draconique)",
             "items-description": "<p>Le dragon porte deux Frappes de griffes et une Frappe de corne dans n'importe quelle ordre</p>"
+        },
+        {
+            "id": "3SNH7v25J8TbPWvC",
+            "name": "Construct Armor (Hardness 2) (Armure de créature artificielle (Solidité 2))",
+            "items-description": "<p>Comme les objets normaux, un balai animé a une Solidité. Les dégâts subis par le balai sont réduits de sa valeur de Solidité. Une fois qu’un balai animé à moins de la moitié de ses points de vie, ou s’il est endommagé par un coup critique, son armure de créature artificielle se brise et sa Classe d’armure est réduite à 14.</p>"
         },
         {
             "id": "EydNDPNpUXcKp0PD",
@@ -4634,6 +4754,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "7brI3OuzocwPLZcW",
+            "name": "Quick Alchemy (Alchimie rapide)",
+            "items-description": "<p>Le bombardier duergar crée un unique objet alchimique à partir de son formulaire (voir Formules alchimiques). Cet objet possède le trait imprégné, mais est seulement efficace jusqu’au début du prochain tour du bombardier duergar.</p>"
+        },
+        {
             "id": "6pKzCiashjeFYDdw",
             "name": "Constant Spells (Sorts constants)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -4692,6 +4817,11 @@
             "id": "UwaLPxPywao4fbN3",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "Y0hXaOxr6GsRFfoz",
+            "name": "+1 Status to All Saves and AC vs Evil Creatures (Bonus de statut de +1 à tous les jds contre les créatures mauvaises)",
+            "items-description": ""
         },
         {
             "id": "8R3jmOcyIfgNNdKr",
@@ -4754,6 +4884,11 @@
             "items-description": ""
         },
         {
+            "id": "6yZ26OupmzzPO1vZ",
+            "name": "Miasma (Miasme)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m}</p>\n<hr />\n<p>Après avoir utilisé son Souffle, un nuage de gaz empoisonné continue à émaner du corps du dragon pendant 1 round. Toute créature qui termine son tour dans le miasme subit [[/r {4d6}[poison]]]{4d6 dégâts de poison} (jet de@Check[type:fortitude|dc:37|basic:true]{Vigueur basique} DD 37).</p>\n<p data-visibility=\"gm\">Toute créature dans le miasme est @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} et considère les autres créatures comme Masquées. Le dragon voit normalement et les créatures ne sont pas Masquées pour lui.</p>"
+        },
+        {
             "id": "laPA1RpDHNNksUzO",
             "name": "Claw (Griffe)",
             "items-description": ""
@@ -4779,9 +4914,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "44gZk9CBkA5y9VOb",
+            "name": "Mass Laughter (Fou rire de masse)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par jour.</p>\n<p><strong>Effet</strong> Le dragon de cuivre raconte une blague irrésistible. Chaque créature dans une @Template[type:emanation|distance:100]{émanation de 30 m} doit réussir un jet de @Check[type:will|dc:39]{Volonté DD 39}<span data-visibility=\"gm\"> ou subir les effets du sort <em>@Compendium[pf2e.spells-srd.tlSE7Ly8vi1Dgddv]{Fou rire}</em> au niveau 9 pendant une minute</span>.</p>"
+        },
+        {
             "id": "Sj3qaBkh1exbNXJY",
             "name": "Dagger (Dague)",
             "items-description": ""
+        },
+        {
+            "id": "3b7IgOx3d3REF2NR",
+            "name": "Swoop (Piqué)",
+            "items-description": "<p>Le ptéranodon Vole à une distance maximale égale à sa Vitesse et porte une Frappe de bec à n’importe quel moment de son déplacement.</p>"
         },
         {
             "id": "YMj2YteKtdg79DoF",
@@ -4802,6 +4947,11 @@
             "id": "UfLxn8BgeR2BOqee",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "21tFYXEcsuyuh5GQ",
+            "name": "Warbling Song (Gazouillement mélodieux)",
+            "items-description": "<p>Le cauthooj émet un étrange cri modulé qui pousse les créatures à se déchaîner violemment et sans aucun contrôle. Chaque créature dans une émanation de 36 m qui peut entendre le cauthooj doit tenter un jet de Volonté DD 32 pour résister à cet effet. </p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La cible ne subit aucun effet et elle est temporairement immunisée pendant 1 minute.</p>\n<p><strong>Succès</strong> La cible n’est pas affectée.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round.</p> \n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round et doit immédiatement s’attaquer elle-même (de la même manière dont on s’attaque soi-même en étant confus). Cette Frappe n’accorde pas à la créature un test nu pour récupérer de son état confus.</p>\n</div>"
         },
         {
             "id": "16mvgME2H3Zp8aMW",
@@ -5039,6 +5189,11 @@
             "items-description": "<p>Généralement, une demi-liche est inerte quand on la rencontre et n’utilise aucune action jusqu’à sa ce que sa réaction <em>@Compendium[pf2e.spells-srd.WG91Z5TiR6oO5FOw]{contingence}</em> ait été déclenchée.</p>"
         },
         {
+            "id": "3o5i63MTjWyPqXG3",
+            "name": "Transfer Protection (Transfert de protection)",
+            "items-description": "<p> Une créature non mauvaise peut se coiffer d’un cassisien volontaire comme d’un heaume. Pendant ce temps, le cassisien ne peut effectuer aucune action mais il confère à son porteur son bonus de statut de +1 à la CA et aux jets de sauvegardes contre les créatures mauvaises. À n’importe quel moment, le cassisien peut, par une action, se séparer de son porteur.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.kHRbOHKEedKaBFH5]{Effet : Transfert de protection}</p>"
+        },
+        {
             "id": "idWgJAjZ5pi1uI2C",
             "name": "Trunk (Trompe)",
             "items-description": ""
@@ -5082,6 +5237,11 @@
             "id": "lg0ZOYopXDTR0Atj",
             "name": "Fangs (Crocs)",
             "items-description": ""
+        },
+        {
+            "id": "5kWr1s58IkPKdMcL",
+            "name": "Mirage (Mirage)",
+            "items-description": "<p>À chaque fois que le dragon utilise Souffle alors que l’image illusoire de son sort <em>@Compendium[pf2e.spells-srd.0873MWM0qKDDv81O]{projection d’image}</em> persiste, il peut choisir de faire provenir son Souffle de lui-même ou de cette image.</p>"
         },
         {
             "id": "j0pCK3mNfxlgQemu",
@@ -5254,6 +5414,11 @@
             "items-description": "<p>La neige ne gêne pas la vision d'un dragon blanc. Il ignore l'état masqué dû à une chute de neige.</p>"
         },
         {
+            "id": "KXqIPpRkKZEFXqNo",
+            "name": "Divine Armament (Armement divin)",
+            "items-description": "<p>Tant qu’elle est utilisée par un déva astral, une arme, quelle qu’elle soit, gagne l’effet d’une rune de propriété @Compendium[pf2e.equipment-srd.DH0kB9Wbr5pDeunX]{Sainte}.</p>"
+        },
+        {
             "id": "21Edo8B2yXlM0Sd7",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -5317,6 +5482,11 @@
             "id": "6QbeDmIcvY8S3ldj",
             "name": "Lifesense 30 feet (Perception de la vie (9 m))",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
+        },
+        {
+            "id": "82KaMhK0BRaEZMbn",
+            "name": "Retributive Strike (Frappe punitive)",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 9</p>\n<p>Un archon légionnaire peut aussi porter une Frappe punitive en lançant sa Flamme de justice.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
         },
         {
             "id": "gYS1Pu6DMoqNba15",
@@ -5424,6 +5594,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "nbUmQWTABz3t1MCW",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
             "id": "k1kPrQ3Krhcipl4E",
             "name": "Fist (Poing)",
             "items-description": ""
@@ -5494,6 +5669,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "USCoVo5LJNs12zB4",
+            "name": "Go Dark (S'éteindre)",
+            "items-description": "<p>Le feu follet éteint sa lumière et devient @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{invisible}. Il peut mettre un terme à cet effet en utilisant de nouveau cette action. S’il utilise son attaque de foudre alors qu’il est invisible, l’arc électrique permet aux observateurs de déterminer sa position. Il est alors seulement @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} jusqu’à ce qu’il se déplace.</p>"
+        },
+        {
             "id": "iqVhVxGvfUFnJ2uq",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -5506,6 +5686,11 @@
         {
             "id": "iwppReF9hEA7igPO",
             "name": "Jaws (Mâchoires)",
+            "items-description": ""
+        },
+        {
+            "id": "z8haj2djGN404zAS",
+            "name": "Diplomacy (Diplomatie)",
             "items-description": ""
         },
         {
@@ -5774,6 +5959,11 @@
             "items-description": ""
         },
         {
+            "id": "4fZp6kK5h1WOCAAq",
+            "name": "Compression (Compression)",
+            "items-description": "<p>Une pieuvre géante peut passer à travers une fente d’au moins 60 cm de large sans Se faufiler et peut @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler} à travers un interstice d’au moins 30 cm de large.</p>"
+        },
+        {
             "id": "2sLJMpYvshlQx7Ck",
             "name": "+1 Status to All Saves vs Magic (Bonus de statut de +1 jds contre magie)",
             "items-description": ""
@@ -5792,6 +5982,16 @@
             "id": "yfZjkf1LqlK3U7HM",
             "name": "Tusk (Défense)",
             "items-description": ""
+        },
+        {
+            "id": "6zbiPHhWaAV5pJd6",
+            "name": "Wriggling Beard (Barbe ondulante)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par round.</p>\n<p><strong>Effet</strong> Le barbazu effectue une Frappe de barbe. Cette Frappe ignore le malus d’attaques multiples et n'est pas prise en compte pour calculer ce malus.</p>"
+        },
+        {
+            "id": "kZqLmEhJGdtImTFg",
+            "name": "Push or Pull 5 feet (Bousculade ou Attraction 1,5 m)",
+            "items-description": "<p>La cascade vivante peut aussi attirer la créature.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
         },
         {
             "id": "5pgk77sKtK8gCgSb",
@@ -5897,6 +6097,11 @@
             "id": "2XSVapoeItmk2zU0",
             "name": "Scent (Imprecise) 30 feet (Odorat (imprécis) 9 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "hrylbarG87YtJSgb",
+            "name": "Breath Weapon (Arme de souffle)",
+            "items-description": "<p>Le dragon de cuivre peut souffler de deux manières différentes. .</p>\n<p data-visibility=\"gm\"> Le dragon ne peut utiliser une nouvelle fois son Souffle avant [[/br 1d4 #Recharge arme de souffle]]{1d4 rounds}.</p>\n<ul>\n<li><strong>Acide</strong> Le dragon souffle de l’acide dans une @Template[type:line|distance:100|traits:acid,arcane,evocation,damaging-effect]{ligne de 30 m} qui ionflige [[/r {18d6}[acid]]]{18d6 dégâts d'acide} (@Check[type:reflex|dc:38|basic:true]{Réflexes basique} DD 38).</li>\n<li><strong>Gaz ralentissant</strong>  Le dragon souffle un gaz ralentissant dans une @Template[type:line|distance:100|traits:arcane,transmutation]{ligne de 30 m}. Chaque créature dans la zone d’effet doit réussir un jet de @Check[type:fortitude|dc:38]{Vigueur} DD 38<span data-visibility=\"gm\"> ou être @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} pendat 1 round (ou @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 2} en cas d'échec critique)</span>.</li>\n</ul>"
         },
         {
             "id": "umShxoDTXECH3WCs",
@@ -6084,6 +6289,11 @@
             "items-description": ""
         },
         {
+            "id": "n1ci9JWzjxR4IICp",
+            "name": "Headbutt (Coup de tête)",
+            "items-description": ""
+        },
+        {
             "id": "aPjm9C2ibRhYAr0x",
             "name": "Telepathy 120 feet (Télépathie 36 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
@@ -6234,9 +6444,19 @@
             "items-description": ""
         },
         {
+            "id": "aQJcYgTKQBvgKvIv",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
             "id": "Ptn3Zb1Syk7YdL4y",
             "name": "Claw (Griffe)",
             "items-description": ""
+        },
+        {
+            "id": "M4f06NOUIcSyQNr2",
+            "name": "Regeneration 30 (Deactivated by Acid or Fire) (Régénération 30 (Désactivée par l'acide ou le feu))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
         },
         {
             "id": "oEHHDWURCYEb1t7W",
@@ -6282,6 +6502,11 @@
             "id": "LQPUOdcFtZk2FzJz",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
+        },
+        {
+            "id": "fLzaGzA3jMdzslmt",
+            "name": "Metal Scent 30 feet (Perception du métal)",
+            "items-description": "<p>Un oxydeur possède un sens précis qui lui permet de sentir le métal.</p>"
         },
         {
             "id": "qIqgF3PIeW7W6Fft",
@@ -6397,6 +6622,11 @@
             "id": "G9f4Fx5llYjESmPt",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "3H0tPL2AeonSy2gM",
+            "name": "Jet (Propulsion)",
+            "items-description": "<p>La pieuvre se déplace à travers l’eau jusqu’à 60 m en ligne droite sans déclencher de réactions.</p>"
         },
         {
             "id": "4QNftOG1O0v3IrVA",
@@ -6539,6 +6769,11 @@
             "items-description": ""
         },
         {
+            "id": "3xoqcUVujuOLU773",
+            "name": "Menacing Guardian (Gardien menaçant)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} </p>\n<hr />\n<p>Les ennemis qui commencent leur tour dans la zone d’effet ou qui y pénètrent doivent tenter un jet de @Check[type:will|dc:23]{Volonté} DD 23.</p>\n<div data-visibility=\"gm\">\n<p>En cas d’échec, ils subissent un malus de statut de -1 à leurs jets d’attaque, à leurs jets d'attaques de sorts et à leurs jets de dégâts contre toute autre cible située dans l’aura pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier). En cas d’échec critique, tant qu’ils sont dans la zone d’effet, ils ne peuvent effectuer d’action hostile contre n’importe quelle autre cible pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier).</p>\n<p>Quel que soit le résultat, une créature est alors temporairement immunisée à l’aura gardien menaçant pendant 24 heures.</p>\n</div>"
+        },
+        {
             "id": "uuI4sId0T1tDVCla",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6567,6 +6802,11 @@
             "id": "s4VdQZkBvye1Qm6o",
             "name": "Scent (Imprecise) 100 feet (Odorat (imprécis) 30 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "tFRnP7KsOLmYb44P",
+            "name": "Archon's Door (Porte de l'archon)",
+            "items-description": "<p>Une fois par jour, si un archon voit une autre créature lancer <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>, il peut lancer un sort inné de <em>Porte dimensionnelle</em> (intensifié au niveau 5) dans un délai d’un round pour tenter de suivre cette créature jusqu’à la distance maximale de la porte dimensionnelle de l’archon. Si la porte dimensionnelle de l’archon a une portée suffisante, il réapparaît à la même distance et dans la même orientation par rapport à la créature qu’avant l’utilisation de ce pouvoir. </p>"
         },
         {
             "id": "L4dKqPtdmyspmZtd",
@@ -6637,6 +6877,11 @@
             "id": "rtgmVsdePPj1Qutv",
             "name": "Fist (Poing)",
             "items-description": ""
+        },
+        {
+            "id": "RYEcc50Tn0g5GE6m",
+            "name": "Tail Trip (Fauchage caudal)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature qui porte un objet métallique tente de quitter une case à portée de la queue d’un oxydeur.</p>\n<p><strong>Effet</strong> L’oxydeur porte une Frappe de queue contre la créature déclencheur.</p>"
         },
         {
             "id": "RRokxFBvuXGVzodp",
@@ -7024,6 +7269,11 @@
             "items-description": ""
         },
         {
+            "id": "AmPgQIXqmES8fImF",
+            "name": "Climb Stone (Escalade de la pierre)",
+            "items-description": "<p>La vitesse d'escalade du dragon ne fonctionne que lorsqu'il escalade une surface en pierre.</p>"
+        },
+        {
             "id": "PsH13WVcjnQPM2Iy",
             "name": "Fangs (Crocs)",
             "items-description": ""
@@ -7112,6 +7362,11 @@
             "id": "977xdYIDaM8Nrj7X",
             "name": "Tail (Queue)",
             "items-description": ""
+        },
+        {
+            "id": "2YipTTPgQfiSBAHG",
+            "name": "Climb Stone (Escalade de la pierre)",
+            "items-description": "<p>La vitesse d'escalade du dragon ne fonctionne que lorsqu'il escalade une surface en pierre.</p>"
         },
         {
             "id": "1AemwaFBoSAJ1UHj",
@@ -7222,6 +7477,11 @@
             "id": "ouaeCAenWwGPbpdb",
             "name": "Scent (Imprecise) 60 feet (Odorat (imprécis) 18 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "zD3l2lGfHmnHF8iq",
+            "name": "Drain Life (Drain de vie)",
+            "items-description": "<p>Quand une âme-en-peine blesse une créature vivante avec sa Frappe de main spectrale, elle gagne [[/r 5 #Temporary Hit Points]]{5 PV temporaires} et sa victime doit réussir un jet de @Check[type:fortitude|dc:23]{Vigueur} DD 23 ou être @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1}. Les dégâts que l’âme-en-peine inflige ensuite augmentent l’état Drainé de 1 en cas de jet de sauvegarde raté, jusqu’à atteindre au maximum  @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 4}.</p>"
         },
         {
             "id": "GauPueVChScKx1eH",
@@ -7414,6 +7674,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "zDDzvsB3OrJU9QXn",
+            "name": "Vigorous Shake (S'ébrouer vigoureusement)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le roi troll subit des dégâts d’acide ou de feu @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{persistants}.</p>\n<p><strong>Effet</strong> Le roi troll s’ébroue pour éliminer les effets d’acide ou de feu persistants. Il fait immédiatement un @Check[type:flat|dc:15]{test nu} DD 15 pour mettre fin aux dégâts persistants ayant déclenché cette réaction. S’il le réussit, il peut immédiatement utiliser Rugissement primordial dans le cadre de cette réaction."
+        },
+        {
             "id": "m6E1gSnAhXp72yBC",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -7437,6 +7702,11 @@
             "id": "bjVIgy73LNkpiuOw",
             "name": "Dagger (Dague)",
             "items-description": ""
+        },
+        {
+            "id": "I7qCrIGJsKvrguZB",
+            "name": "Swoop (Piqué)",
+            "items-description": "<p>Le quetzacoatlus Vole à une distance maximale égale à sa Vitesse et porte une Frappe de bec à n’importe quel moment de son déplacement.</p>"
         },
         {
             "id": "BXuDhj7X68wG6zma",
@@ -7509,6 +7779,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "3CJoA00OmtSsKcBR",
+            "name": "Aquatic Ambush (Embuscade aquatique)",
+            "items-description": "<p>15 m</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
+        },
+        {
             "id": "pkTWnzYC0Yob3mzf",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -7579,6 +7854,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
+            "id": "3A8TmAuVP2C3XDsX",
+            "name": "Refuse Pile (Tas de déchets)",
+            "items-description": "<p>Quand il n’est pas en danger, un ofalth peut passer 1 minute à prendre la forme d’un tas de déchets de 3 m qui ressemble à un simple monceau d’ordures. Quand il le fait, il gagne un bonus de circonstances de +2 à sa CA mais ne peut utiliser les actions d’attaque, de manipulation ou de déplacement. Une créature qui pénètre dans la zone du tas de déchets ou qui interagit avec doit tenter un jet de sauvegarde contre la puanteur putride de l’ofalth et sa maladie de suintements effroyables. Un ofalth peut abandonner cette forme par une action unique.</p>"
+        },
+        {
             "id": "dD0COaIGpOldIcFD",
             "name": "Shield Bash (Coup de bouclier)",
             "items-description": ""
@@ -7647,6 +7927,11 @@
             "id": "1UmNfowZ4HWxS9rx",
             "name": "Devastating Blast (Déflagration dévastatrice)",
             "items-description": "<p>Le chevalier sépulcre projette un @Template[type:cone|distance:30]{cône d’énergie de 9 m}. Les créatures prises dans la zone d’effet subissent [[/r {6d12}[cold]]]{6d12 dégâts} (@Check[type:reflex|dc:29|basic:true]{jet de Réflexes basique DD 29}).</p>\n<p data-visibility=\"gm\">Il peut utiliser ce pouvoir une fois tous les 1d4 rounds. Les dégâts d’énergie sont du même type que pour armes du désastre ; Déflagration dévastatrice gagne le trait associé à ce type d’énergie.</p>"
+        },
+        {
+            "id": "36UmeWHlowHAjVXV",
+            "name": "Combat Grab (Empoignade en combat)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> L'éfrit dispose d'une main libre.</p>\n<hr />\n<p><strong>Effet</strong>  L’éfrit effectue une Frappe au corps-à-corps en gardant une main libre. Si la Frappe touche, la cible est @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée} par la main libre de l’éfrit.</p>"
         },
         {
             "id": "ivsgBmmJjZW5Wr5S",
@@ -8154,6 +8439,11 @@
             "items-description": ""
         },
         {
+            "id": "3HPvO9ipnRupy7G0",
+            "name": "Living Shield (Bouclier vivant)",
+            "items-description": "<p>Le bouclier d’un archon est le point focal de son courage et de son âme. Il a toujours son bouclier levé sans avoir besoin de Lever un bouclier et il peut utiliser @Compendium[pf2e.bestiary-ability-glossary-srd.m4HQ2o5aPxjXf2kY]{Blocage au bouclier} en tant qu’action gratuite au lieu d’une réaction (Solidité 10, PV 80). L’archon peut déclencher son action gratuite Blocage au bouclier quand un allié situé à 3 m de lui est attaqué ; il réduit ainsi les dégâts subis par cet allié au lieu des siens mais, sinon, il suit les règles normales du Blocage au bouclier.</p>"
+        },
+        {
             "id": "aY1GSHaV78XgFK6W",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -8229,6 +8519,11 @@
             "items-description": "<p>Quand un maître voilé effectue une Frappe de crocs contre une créature, il peut absorber une partie des souvenirs de la victime. La cible doit réussir un jet de @Check[type:fortitude|dc:37]{Vigueur} DD 37 ou être @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{stupéfiée 1}. Un maître voilé récupère 5 points de vie à chaque fois qu’il réussit à absorber des souvenirs. Quand il parvient à utiliser ce pouvoir contre une cible, le maître voilé découvre certains souvenirs de la victime (à l’appréciation du MJ).</p>"
         },
         {
+            "id": "CiirPvlIj0ZtuHce",
+            "name": "Vengeful Anger (Colère vengeresse)",
+            "items-description": "<p>Tant qu’il n’est pas @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé}, un mitflit gagne un bonus de statut de +2 à ses jets de dégâts contre une créature qui l’a blessé ou tourmenté.</p>"
+        },
+        {
             "id": "hIpNUSZedk66VUWy",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8282,6 +8577,11 @@
             "id": "MPJDgS7lWLTOqNeT",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "7CjSawx6weIPrIFL",
+            "name": "Flashing Runes (Runes étincelantes)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le géant des runes utilise un pouvoir arcanique ou lance un sort arcanique.</p>\n<p><strong>Effet</strong> Les runes sur le corps du géant étincellent en produisant de l’énergie magique. Chaque créature dans une @Template[type:emanation|distance:10]{émanation de 3 m} doit faire un jet de @Check[type:fortitude|dc:35]{Vigueur} DD 35.</p>\n<div data-visibility=\"gm\">\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round.</p>\n</div>"
         },
         {
             "id": "qUGNxVPDLyqLK3is",
@@ -8347,6 +8647,11 @@
             "id": "HQrZGDENHs9wuZxK",
             "name": "Sling (Fronde)",
             "items-description": ""
+        },
+        {
+            "id": "oSoU8REx8w5hSHcD",
+            "name": "Twisting Tail (Queue sinueuse)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une de ses actions de déplacement.</p>\n<p><strong>Effet</strong> Le dragon effectue une Frappe de queue contre cette créature avec un malus de –2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
         },
         {
             "id": "tV18raweChPRFzPo",
@@ -8432,6 +8737,11 @@
             "id": "SbBp90Oz1LZfllYh",
             "name": "Spear (Lance)",
             "items-description": ""
+        },
+        {
+            "id": "C5CTHxWjBYotqr2K",
+            "name": "Breath Weapon (Arme de souffle)",
+            "items-description": "<p>Le dragon souffle un éclair qui inflige [[/r {12d12}[electricity]]]{12d12 dégâts d'électricité} sur une @Template[type:line|distance:120]{ligne de 36 m} (@Check[type:reflex|dc:40|basic:true]{Réflexes} DD 40).</p>\n<div data-visibility=\"gm\">\n<p>Il ne peut utiliser son arme de souffle pendant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>\n<hr />\n<p>À chaque fois que le dragon utilise son Souffle, un nuage orageux de @Template[type:burst|distance:20]{6 m de rayon} apparaît à 24 m au-dessus d’un point choisi par le dragon le long de la ligne du souffle. Le nuage dure 10 minutes et permet au dragon d’utiliser Souffle de tempête.</p>\n</div>"
         },
         {
             "id": "RMbB0Cy1iBEXCD5A",
@@ -8567,6 +8877,11 @@
             "id": "Eaucw0lxqJ7eKezw",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "Nu3jevz0ikfeGuLs",
+            "name": "Holy Striking Spear (Lance sainte de frappe)",
+            "items-description": ""
         },
         {
             "id": "yYFISOz912MYdEDd",
@@ -8774,6 +9089,11 @@
             "items-description": ""
         },
         {
+            "id": "3aQmojgOn0OyqrYB",
+            "name": "Retributive Strike (Frappe punitive)",
+            "items-description": "<p>Un archon lumineux peut également effectuer une Frappe punitive avec son rayon de lumière.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
+        },
+        {
             "id": "YW6KUycT9oCKgOAo",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8797,6 +9117,11 @@
             "id": "kDtkieHx63QY56es",
             "name": "Horn (Corne)",
             "items-description": ""
+        },
+        {
+            "id": "kjpNSY1WlZHMXIS6",
+            "name": "Powerful Charge (Charge puissante)",
+            "items-description": "<p>Le grand cyclope Marche rapidement deux fois puis effectue une Frappe de corne. S’il s’est déplacé d’au moins 6 m à partir de sa position de départ, les dégâts de la Frappe passent à [[/r 3d10+20[piercing]]]{3d10+20 dégâts perforants}.</p>"
         },
         {
             "id": "U1ORlKZKu61bng75",
@@ -8964,6 +9289,11 @@
             "items-description": ""
         },
         {
+            "id": "wAPCN756UU6AV2AN",
+            "name": "Courageous Switch (Substitution courageuse)",
+            "items-description": "<p>Quand un archon bouclier utilise son sort inné <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}, il peut choisir de se déplacer dans l’espace occupé par un allié volontaire qui est à portée et qu’il peut voir. S’il le fait, l’allié change de place avec l’archon et réapparaît dans l’espace que vient de quitter l’archon comme si, lui aussi, avait lancé Porte dimensionnelle.</p>"
+        },
+        {
             "id": "0mC5JVblweUZ0WxU",
             "name": "Jaws (Mâchoires)",
             "items-description": ""
@@ -9069,6 +9399,11 @@
             "items-description": ""
         },
         {
+            "id": "zXDFVZKb5GlrVnod",
+            "name": "Dust (Poussière)",
+            "items-description": "<p> Une créature touchée par les poils du balai animé doit réussir un jet de @Check[type:fortitude|dc:15]{Vigueur} DD 15 ou perdre sa prochaine action en toussant. Même si elle est touchée par plusieurs attaques de poussière, la créature ne dépense qu’une seule action pour tousser et évacuer la poussière. Une créature qui ne respire pas est immunisée contre cet effet.</p>"
+        },
+        {
             "id": "agqHW8i0ToF0OIyF",
             "name": "+1 Status to All Saves vs Magic (Bonus de statut de +1 jds contre magie)",
             "items-description": ""
@@ -9132,6 +9467,11 @@
             "id": "OFtZ11CEYiceib4W",
             "name": "Rend (Éventration)",
             "items-description": "<p>Griffe</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
+        },
+        {
+            "id": "Kt4KG0QuJD0Qf4kp",
+            "name": "Climb Stone (Escalade de la pierre)",
+            "items-description": "<p>La vitesse d'escalade du dragon ne fonctionne que lorsqu'il escalade une surface en pierre.</p>"
         },
         {
             "id": "BoUOzgE6tap1MfMd",
@@ -9397,6 +9737,11 @@
             "id": "8Hc25NUrYBwSHQuO",
             "name": "Sneak Attack (Attaque sournoise)",
             "items-description": "<p>Le léopard inflige [[/r {1d4}[precision]]]{1d4 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
+        },
+        {
+            "id": "xdClMhhs1mXbf26g",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
         },
         {
             "id": "zUyuIoJBzk4LNvK2",
@@ -9699,6 +10044,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "GoEK3KTZm6r0vhaU",
+            "name": "Infectious Aura (Aura infectieuse)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Les leukodaémons irradient des infections. Toutes les créatures qui se trouvent dans un rayon de 9 m d’un leukodaémon subissent un malus de -2 à leurs jets de sauvegarde contre les effets de maladie. Si une créature à portée contracte une maladie ou si sa maladie s’aggrave, toutes les créatures adjacentes sont exposées à la même maladie avec le même DD. </p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.T2tfacwoOozQfsIz]{Effet : Aura infectieuse}</p>"
+        },
+        {
             "id": "6pFoOIHjIKB8RSDO",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9757,6 +10107,11 @@
             "id": "UZp9NX0EnCBPGns5",
             "name": "Draconic Momentum (Élan draconique)",
             "items-description": "<p>Le dragon recharge son Arme de souffle lorsqu'il obtient un coup critique avec une Frappe.</p>"
+        },
+        {
+            "id": "3wMfK5zZSqFhhTgs",
+            "name": "Primordial Roar (Rugissement primordial)",
+            "items-description": "<p>Le roi troll pousse un rugissement bestial. Chaque créature qui n’est pas un troll dans un @Template[type:emanation|distance:100]{rayon de 30 m} doit effectuer un jet de @Check[type:will|dc:29]{Volonté} DD 29. Une créature est ensuite temporairement immunisée pendant 1 minute.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 1}</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2}</p>\n<p><strong>Échec critique</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 3}</p>\n</div>"
         },
         {
             "id": "5Em7mvb9ul24rwbD",
@@ -10059,6 +10414,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
+            "id": "Ita7hOSbzKOHxexv",
+            "name": "Drench (Tremper)",
+            "items-description": "<p>L’élémentaire éteint tous les feux dans une @Template[type:emanation|distance:5]{émanation de 1,5 m}.</p>\n<p>La cascade vivante éteint tous les feux non magiques automatiquement et tente de contrer les feux magiques (modificateur de contre [[/r 1d20+14 #Tremper]]{+14}).</p>"
+        },
+        {
             "id": "Hxm0zO7GdMBB0p4S",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10067,6 +10427,11 @@
             "id": "ikE6Os9KaQ3E0ApZ",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "3HkWPtBVUhYiB7al",
+            "name": "Nimble Dodge (Esquive agile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le rat-garou est la cible d’une attaque au corps à corps ou à distance émanant d’un assaillant situé dans son champ de vision.</p>\n<p><strong>Effet</strong> Le rat-garou bénéficie d’un bonus de circonstances de +2 à la CA contre l’attaque qui déclenche l’effet.</p>"
         },
         {
             "id": "9aYwSAhxxa0rnngi",
@@ -10122,6 +10487,11 @@
             "id": "2OIVJJBOOtBD6Bce",
             "name": "Horn (Corne)",
             "items-description": ""
+        },
+        {
+            "id": "ykw7UpzKukRpwEcU",
+            "name": "Slow Aura (Aura de lenteur)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 m}</p>\n<hr />\n<p>Chaque créature qui termine son tour dans l’aura doit réussir un jet de @Check[type:will|dc:37]{Volonté} DD 37 ou être @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} pendant 1 round (ou @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 2} en cas d’échec critique). Le dragon de cuivre peut activer ou désactiver cette aura avec une action unique, qui a le trait concentration, et il peut choisir de ne pas affecter les alliés présents dans l’aura.</p>"
         },
         {
             "id": "OTuZbxVdoEtjN7ap",
@@ -10214,6 +10584,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "3EkDCh4CkGrgHhlf",
+            "name": "Antenna Disarm (Désarmer)",
+            "items-description": "<p>L’oxydeur tente de @Compendium[pf2e.action-macros.ooiO59Ch2QaebOmc]{Désarmer} un objet métallique tenu par une créature en utilisant une antenne (avec le même modificateur qu’une Frappe d’antenne).</p>\n<p> Sur un succès, l’objet se trouve soumis au pouvoir de rouille de l’oxydeur en plus des effets du Désarmement et, s’il obtient un succès critique à son test pour Désarmer, l’oxydeur fait tomber l’objet au sol dans sa propre case.</p>"
+        },
+        {
             "id": "0EEefBsju5qv29p5",
             "name": "Fangs (Crocs)",
             "items-description": ""
@@ -10232,6 +10607,11 @@
             "id": "NwuVG96DJON1Txro",
             "name": "Constant Spells (Sorts constants)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "IqlIzn7bY9FduX6g",
+            "name": "Menacing Guardian (Gardien menaçant)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} </p>\n<hr />\n<p>Les ennemis qui commencent leur tour dans la zone d’effet ou qui y pénètrent doivent tenter un jet de @Check[type:will|dc:19]{Volonté} DD 19.</p>\n<div data-visibility=\"gm\">\n<p>En cas d’échec, ils subissent un malus de statut de -1 à leurs jets d’attaque, à leurs jets d'attaques de sorts et à leurs jets de dégâts contre toute autre cible située dans l’aura pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier). En cas d’échec critique, tant qu’ils sont dans la zone d’effet, ils ne peuvent effectuer d’action hostile contre n’importe quelle autre cible pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier).</p>\n<p>Quel que soit le résultat, une créature est alors temporairement immunisée à l’aura gardien menaçant pendant 24 heures.</p>\n</div>"
         },
         {
             "id": "gjZuHZMNsUIskGJf",
@@ -10344,6 +10724,11 @@
             "items-description": ""
         },
         {
+            "id": "BuEcwGM7NH9is0w9",
+            "name": "Eye Beams (Rayons oculaires)",
+            "items-description": "<p>Les yeux du cassisien projettent des rayons de chaleur ou de froid qui infligent [[/r {2d6}[fire]]]{2d6 dégâts de feu} ou [[/r {2d6}[cold]]]{de froid} (jet de Réflexes basique DD 17) à toutes les créatures sur une @Template[type:line|distance:15]{ligne de 4,5 m}.</p>\n<p data-visibility=\"gm\">Il ne peut utiliser une nouvelle fois ce pouvoir avant [[/br 1d4 #Recharge rayons oculaires]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "SLSaqsPAeFZlQ4U8",
             "name": "At-Will Spells (Sorts à volonté)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -10414,6 +10799,11 @@
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Une créature qui pénètre dans la zone affectée doit faire un jet de Vigueur @Check[type:fortitude|dc:16]DD 16}. Sur un échec, elle se trouve dans l’état @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} et, sur un échec critique, elle subit également un malus de -1,5 m à ses Vitesses pendant 1 round. Tant qu’elle reste dans l’aura, la créature subit un malus de circonstances de -2 à ses jets de sauvegarde pour se débarrasser de l’état malade. Une créature qui réussit son jet de sauvegarde est temporairement immunisée contre la puanteur de tous les xulgaths pendant 1 minute.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.uB3CVn3momZO9h0L]{Effet : Puanteur Xulgath}</p>"
         },
         {
+            "id": "wChn2PEw9GYziq2n",
+            "name": "Glow (Lueur)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m}</p>\n<hr />\n<p>Un feu follet est naturellement invisible, mais émet une lueur colorée qui projette une lumière vive au sein de son aura et le rend visible.</p>"
+        },
+        {
             "id": "Q9TQFtMzhVqywWrB",
             "name": "Deadly Cleave (Coup tranchant mortel)",
             "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le bonnet rouge réduit une créature à 0 point de vie grâce à une Frappe de faux.</p>\n<p><strong>Effet</strong> Le bonnet rouge porte une autre Frappe de faux contre une créature différente, en utilisant le même malus d’attaques multiples que la Frappe qui a déclenché cette réaction. Cette attaque est prise en compte dans son malus d’attaques multiples.</p>"
@@ -10452,6 +10842,11 @@
             "id": "jrRWYmGu9vVkAfdv",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "QAKar9jh0ZBRftHz",
+            "name": "Draconic Momentum (Élan draconique)",
+            "items-description": "<p>Lorsque le dragon obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
         },
         {
             "id": "mbrIsofRTRy9BMDp",
@@ -10549,6 +10944,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "gCQ2k3U8EhFrjpCO",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
             "id": "wgMagyELbs4gcxl2",
             "name": "Attack of Opportunity (Attaque d'opportunité)",
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -10562,6 +10962,11 @@
             "id": "SjtL4vaiiGNkeXDm",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "XK9Va6QKy2g8z1dZ",
+            "name": "Giant Octopus Venom (Venin de pieuvre géante)",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:26]{Vigueur} DD 26</p>\n<hr />\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {2d6}[poison]]]{2d6 dégâts de poison} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {2d6}[poison]]]{2d6 dégâts de poison}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} et Pris au dépourvu (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {2d6}[poison]]]{2d6 dégâts de poison}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2} et Pris au dépourvu (1 round)</p>"
         },
         {
             "id": "pR9Yyd3sYM5iPspf",
@@ -10647,6 +11052,11 @@
             "id": "FyUL1Dfsy8YJIJH4",
             "name": "Sticky Strand (Filament collant)",
             "items-description": "<p>Toute créature touchée par une attaque de filament d’enlaceur se trouve dans les états @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} et @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippé}. Chaque coup de filament supplémentaire augmente l’intensité de l’état affaibli de 1 (jusqu’à une intensité maximum d’affaibli 4). L’intensité de cet état affaibli est réduite de 1 toutes les 8 h. L’enlaceur peut se déplacer tout en maintenant une créature empoignée dans un filament, mais il relâche automatiquement la créature si son déplacement lui fait dépasser l’allonge du filament. L’enlaceur peut relâcher une créature empoignée par une action gratuite. Une créature peut trancher un filament si elle réussit une attaque face à un CA de 27 et qu’elle inflige au moins 18 dégâts tranchants. L’enlaceur lui-même n’est pas blessé par cette attaque, mais il ne pourra pas utiliser un filament tranché pour attaquer.</p>"
+        },
+        {
+            "id": "tvFxmbJKPxnCnTbb",
+            "name": "Vermin Empathy (Empathie avec la vermine)",
+            "items-description": "<p>Les mitflits peuvent utiliser Diplomatie pour utiliser @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} et @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Solliciter} pour demander quelque chose à des arthropodes (insectes, araignées, scorpions, crabes et d’autres créatures invertébrées similaires). La plupart des arthropodes ont une attitude de départ indifférente envers les mitflits.</p>"
         },
         {
             "id": "yOxa8PKiBE6PbRBA",
@@ -11069,6 +11479,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "3Eksrmh390T4SrP7",
+            "name": "Magic Immunity (Immunité à la magie)",
+            "items-description": "<p> Un feu follet est immunisé contre tous les sorts sauf <em>@Compendium[pf2e.spells-srd.HRb2doyaLtaoCfi3]{Lueurs féeriques}</em>, <em>@Compendium[pf2e.spells-srd.0qaqksrGGDj74HXE]{Poussière scintillante</em>, <em>@Compendium[pf2e.spells-srd.gKKqvLohtrSJj3BM]{Projectile magique}</em> et <em>@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Dédale}</em>.</p>"
+        },
+        {
             "id": "LfYdkPPdY3ZvMyEk",
             "name": "Grab (Empoignade/Agrippement)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -11179,6 +11594,11 @@
             "items-description": ""
         },
         {
+            "id": "lYeYZZa66BG9v3KY",
+            "name": "Spectral Hand (Main spectrale)",
+            "items-description": ""
+        },
+        {
             "id": "hTNAzHRu1qlREBai",
             "name": "Talon (Ergot)",
             "items-description": ""
@@ -11264,6 +11684,11 @@
             "items-description": ""
         },
         {
+            "id": "3uMuKyVKQxpFxP0o",
+            "name": "Flash of Brutality (Accès de brutalité)",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> une fois par jour et se recharge quand le grand cyclope utilise Férocité</p>\n<p><strong>Déclencheur</strong> Le grand cyclope réussit un jet d’attaque.</p>\n</div>\n<p><strong>Effet</strong> L’attaque devient un succès critique.</p>"
+        },
+        {
             "id": "saoVl2MlopNbuTo8",
             "name": "Aklys (Aklys)",
             "items-description": ""
@@ -11307,6 +11732,11 @@
             "id": "YuzoCdKpCzawAPTJ",
             "name": "Spike (Piquant)",
             "items-description": ""
+        },
+        {
+            "id": "3ViZWXlxM2CUiPGG",
+            "name": "Quicken Pestilence (Pestilence accélérée)",
+            "items-description": "<p>Le leukodaémon fait évoluer une maladie jusqu’à un stade plus grave. Il choisit une cible située dans son aura de pestilence et affectée par une maladie. Cette créature doit tenter un jet de Vigueur contre la maladie comme si l’intervalle du stade actuel de cette maladie était passé.</p>"
         },
         {
             "id": "hdxkFShEWbTlfmhb",
@@ -11372,6 +11802,11 @@
             "id": "nVHHHvNcvXZZYYnc",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "3TfIMe12rJpDf9LZ",
+            "name": "Self-Loathing (Auto-dénigrement)",
+            "items-description": "<p>L’autodénigrement d’un mitflit fait qu’il est facile de l’influencer. Il subit un malus de –4 à son DD de Volonté sur les tests pour le @Compendium[pf2e.actionspf2e.tHCqgwjtQtzNqVvd]{Contraindre}, le @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser}, lui @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} et le @Compendium[pf2e.actionspf2e.DCb62iCBrJXy0Ik6]{Solliciter}.</p>"
         },
         {
             "id": "465xP8CbWAyUkrIj",
@@ -11440,13 +11875,18 @@
         },
         {
             "id": "2rAKighB6Ywhk5s3",
-            "name": "Shock (Choc)",
+            "name": "Shock (Foudre)",
             "items-description": ""
         },
         {
             "id": "ydtRuz8pJkmMi4Uh",
             "name": "Telepathy 100 feet (Télépathie 30 m)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "cqn01fpxgrAl4NvI",
+            "name": "Wraith Spawn (Rejeton d'âme-en-peine)",
+            "items-description": "<p>Un humanoïde vivant tué par la Frappe de main spectrale d’une âme-en-peine se relève sous forme de @Compendium[pf2e.pathfinder-bestiary.HbROgIcU9Z9m6XuD]{rejeton d’âme-en-peine} au bout de [[/br 1d4 #Transformation en rejeton]]{1d4 rounds}. Ce rejeton est aux ordres de l’âme-en-peine qui l’a tué. Il ne possède pas les pouvoirs Drain de vie ni Rejeton d’âme-en-peine et subit l’état @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2} tant qu’il conserve son statut de rejeton. Si son créateur est détruit, le rejeton devient une véritable âme-en-peine autonome. Il récupère son libre arbitre, obtient les pouvoirs Drain de vie et Rejeton d’âme-en-peine et n’est plus maladroit.</p>"
         },
         {
             "id": "1VqUGL35cW3NbTOz",
@@ -11492,6 +11932,11 @@
             "id": "HAG0BZUyUX7lvLH9",
             "name": "Darkvision (Vision dans le noir)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "coknqLEZIU2gBBH1",
+            "name": "Writhing Arms (Membres grouillants)",
+            "items-description": "<p>La pieuvre géante effectue jusqu’à quatre Frappes avec différents bras, chaque attaque se faisant contre une cible différente. Chaque attaque compte dans le malus d’attaques multiples de la pieuvre géante mais ce malus n’augmente qu’une fois toutes les attaques effectuées. Si la pieuvre enchaîne en utilisant l’action @Compendium[pf2e.bestiary-ability-glossary-srd.Tkd8sH4pwFIPzqTr]{Agripper/Empoigner}, elle Agrippe le nombre de créatures de son choix parmi celles qui ont été touchées par Membres grouillants.</p>"
         },
         {
             "id": "4NvG4sOzNrtZikHp",
@@ -11579,6 +12024,11 @@
             "items-description": ""
         },
         {
+            "id": "2xaMJwr5gjV30x3x",
+            "name": "Drench (tremper)",
+            "items-description": "<p>Le méphite de l’eau éteint tous les feux dans une @Template[type:emanation|distance:5]{émanation de 1,5 m}.</p>\n<p data-visibility=\"gm\"> Le méphite éteint tous les feux non magiques automatiquement et tente de contrer les feux magiques (modificateur de contre [[/r 1d20+7 #Tremper]]{+7}).</p>"
+        },
+        {
             "id": "o8i1KXLMvT5NmVxw",
             "name": "Low-Light Vision (Vision nocturne)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -11612,6 +12062,11 @@
             "id": "M05pu8jIHs0qEKzP",
             "name": "Hand (Main)",
             "items-description": ""
+        },
+        {
+            "id": "XXiHxjwFvBeHoJUK",
+            "name": "Lifesense 60 feet (Perception de la vie 18 m)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
         },
         {
             "id": "5k5qe7LZeapjusIM",
@@ -11657,6 +12112,11 @@
             "id": "ex0dTLedYlwxNB3T",
             "name": "Swallow Whole (Gober)",
             "items-description": "<p>Grande, [[/r {2d8+5}[bludgeoning]{2d8+5 dégâts contondants} plus 2d6 dégâts de feu, Rupture 12</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
+        },
+        {
+            "id": "6vLerwjydBOU4Iv7",
+            "name": "+2 Status to All Saves vs Mental (Bonus de statut de +2 aux jds contre les effets mentaux)",
+            "items-description": ""
         },
         {
             "id": "z42GiliLLdEVPTiX",
@@ -11807,6 +12267,11 @@
             "id": "UdfdvJASTQ867hij",
             "name": "Stealth (Discrétion)",
             "items-description": ""
+        },
+        {
+            "id": "HM9U7vUmg5uUan4k",
+            "name": "Fast Healing 2 (While Underwater) (Guérison accélérée 2 (sous l'eau))",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
         },
         {
             "id": "3Jg7XQGrHZ2lpqc1",
@@ -12444,6 +12909,11 @@
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:37]{Volonté} DD 37</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
+            "id": "RKCbcbBugZzIrxdw",
+            "name": "Menacing Guardian (Gardien menaçant)",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} </p>\n<hr />\n<p>Les ennemis qui commencent leur tour dans la zone d’effet ou qui y pénètrent doivent tenter un jet de @Check[type:will|dc:27]{Volonté} DD 27.</p>\n<div data-visibility=\"gm\">\n<p>En cas d’échec, ils subissent un malus de statut de -1 à leurs jets d’attaque, à leurs jets d'attaques de sorts et à leurs jets de dégâts contre toute autre cible située dans l’aura pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier). En cas d’échec critique, tant qu’ils sont dans la zone d’effet, ils ne peuvent effectuer d’action hostile contre n’importe quelle autre cible pendant 24 heures ou jusqu’à ce qu’ils infligent des dégâts à l’archon (selon ce qui se produit en premier).</p>\n<p>Quel que soit le résultat, une créature est alors temporairement immunisée à l’aura gardien menaçant pendant 24 heures.</p>\n</div>"
+        },
+        {
             "id": "dlQJzPWPs48f9b4c",
             "name": "Sneak Attack (Attaque sournoise)",
             "items-description": "<p>Le dandasuka inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
@@ -12889,6 +13359,11 @@
             "items-description": "<p>Un gnoll ignore la première case de terrain difficile dans laquelle il se déplace à chaque action Faire un pas ou Marcher rapidement.</p>"
         },
         {
+            "id": "elZBS29nJWZadS4G",
+            "name": "Wing Deflection (Déflection de l'aile)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le dragon est ciblé par une attaque.</p>\n<p><strong>Effet</strong> Le dragon dresse son aile et gagne un bonus de circonstances de +2 à sa CA contre l’attaque ayant déclenché cette capacité. Si le dragon est en vol, il descend de 3 m après la fin de l’attaque/</p>"
+        },
+        {
             "id": "zeWfNg7lIyopCbmn",
             "name": "Fist (Poing)",
             "items-description": ""
@@ -12987,6 +13462,11 @@
             "id": "r9cb3wi4i5kmkIVZ",
             "name": "Wing (Aile)",
             "items-description": ""
+        },
+        {
+            "id": "3gYmeheE54dPEZnX",
+            "name": "Storm Breath (Souffle de tempête)",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> une fois par round</p> \n<p><strong>Conditions</strong> Un nuage d’orage engendré par le Souffle se trouve dans un rayon de 150 m et le dragon peut le voir.</p>\n<p><strong>Effet</strong> Le dragon invoque un éclair à partir du nuage d’orage généré par son Souffle. Cela engendre une ligne de foudre verticale qui s’abat au sol et inflige [[/r {6d12}[electricity]]]{6d12 dégâts d’électricité} à tous les ennemis situés sur cette ligne (jet de @Check[type:reflex|dc:40|basic:true]Réflexes basique} DD 40).</p>"
         },
         {
             "id": "fd6LoAjku28Cm4oo",
@@ -13289,6 +13769,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "F8xpT7h5a5ZviXU5",
+            "name": "Feed on Fear (Se nourrir de la peur)",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Un ennemi est victime d’un effet de terreur ou @Compendium[pf2e.conditionitems.yZRUzMqrMmfLu0V1]{Mourant} dans un rayon de 4,5 m.</p>\n<p><strong>Effet</strong> Le feu follet se nourrit de la peur de cet ennemi. Il récupère [[/r {2d4}[healing]]]{2d4 PV} et, s’il S’était éteint, il luit de nouveau.</p>\n<p>Un feu follet peut effectuer cette action seulement une fois par round.</p>"
+        },
+        {
             "id": "055jXlPNVGmKtAdN",
             "name": "Water Mastery (Maitrise de l'eau)",
             "items-description": "<p>Pendant un maximum de 120 minutes par jour, le dragon ainsi que les navires et créatures alliés dans un rayon de 15 m, peuvent se déplacer au double de leur Vitesse normale dans l’eau.</p>"
@@ -13339,6 +13824,11 @@
             "items-description": "<p>Une demi-liche a des gemmes à la place des yeux qui brillent quand elle est active. Chaque gemme contient un sort de niveau 8 qui cible une créature (généralement un des yeux a <em>@Compendium[pf2e.spells-srd.Oj1PJBMQD9vuwCv7]{Dédale}</em> et l’autre <em>@Compendium[pf2e.spells-srd.BKIet436snMNcnez]{Rayon polaire}</em>). La demi-liche peut Activer un œil. Cela utilise le nombre d’actions d’incantation requis par le sort et nécessite également les composants sur ordre et imaginer. Quand une demi-liche lance un sort avec une gemme oculaire, cette dernière cesse de briller pendant [[/br 1d4 #Recharge des yeux oculaires]]{1d4 rounds}, durée pendant laquelle le sort de cet œil ne peut plus être utilisé. Parfois, une des deux <em>@Compendium[pf2e.equipment-srd.Q4o8pEdxSY0bnJQZ]{gemmes oculaires de la demi-liche} ou même les deux, peuvent être récupérées en tant qu’objet magique une fois la créature détruite.</p>"
         },
         {
+            "id": "cPq1a6i8dlZo6SPu",
+            "name": "Breath Weapon (Arme de souffle)",
+            "items-description": "<p>Le leukodaémon exhale une nuée de \nmouches noires agressives et bouffies dans un @Template[type:cone|distance:20]{cône de 6 m}. Les créatures dans le cône subissent [[/r {4d8}[piercing]]]{4d8 dégâts perforants} (jet de @Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28).</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> pas affecté</p>\n<p><strong>Succès</strong> demi-dégâts</p>\n<p><strong>Échec</strong> la totalité des dégâts et @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1}</p>\n<p><strong>Échec critique</strong> le double des dégâts et @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2}</p>\n</div>"
+        },
+        {
             "id": "DyABhSgZNJ3ICo85",
             "name": "Spear (Lance)",
             "items-description": ""
@@ -13387,6 +13877,11 @@
             "id": "GDRN1E60FSxKpOv0",
             "name": "Mandibles (Mandibules)",
             "items-description": ""
+        },
+        {
+            "id": "9FQ3eh9wkGZD4b1O",
+            "name": "Retributive Strike (Frappe punitive)",
+            "items-description": "<p><strong>Réduction de dégâts</strong> 6</p>\n<p>Un archon cornu peut aussi porter une Frappe punitive avec son arc long composite.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
         },
         {
             "id": "CMFwSAQpmkkqeHxH",
@@ -13482,6 +13977,11 @@
             "id": "cGPPwZfpkBdll6m3",
             "name": "Constant Spells (Sorts constants)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "WYRi6VyNroGIrEk6",
+            "name": "Crystalline Dust Form (Forme de poussière cristalline)",
+            "items-description": "<p>L’axiomite abandonne sa forme humanoïde pour celle d’une nuée de poussière cristalline dans laquelle on peut apercevoir par moment d’étranges symboles et équations.</p>\n<p>Sous cette forme, d’une manière assez similaire à <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Forme gazeuse}</em>, il gagne une vitesse de vol de 12 m et peut se glisser à travers de minuscules fissures.</p>\n<p>Dans cet état, il peut lancer des sorts mais il ne peut effectuer d’attaques au corps à corps ou à distance. Quand il est sous forme cristalline, il peut reprendre sa forme humanoïde en utilisant cette action.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.C9nb9XbnQgbnXpTq]{Effet : Forme de poussière cristalline}</p>"
         },
         {
             "id": "T108hwN1OhACYQdQ",
@@ -13642,6 +14142,11 @@
             "id": "RG4odvzk9bSpL19C",
             "name": "Flame Jet (Jet de flammes)",
             "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d10.success]</p>"
+        },
+        {
+            "id": "eGGqJI9VH7B5iZnC",
+            "name": "Aquatic Ambush (Embuscade aquatique)",
+            "items-description": "<p>10,5 m</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
         },
         {
             "id": "by7p3pdmrMKbVYk8",
@@ -13874,6 +14379,11 @@
             "items-description": ""
         },
         {
+            "id": "PgvThxPk7tH5CoXV",
+            "name": "Constrict (Constriction)",
+            "items-description": "<p>[[/r {1d8+9}[bludgeoning]]]{1d8+9 contondants}</p>\n<p><em>Note : Paizo n'a pas fourni le DD pour cette capacité. Le DD suggéré est @Check[type:fortitude|dc:26|basic:true]{Vigueur} vasique DD 26}</em></p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        {
             "id": "AS5E8Dafjstrafqy",
             "name": "Constant Spells (Sorts constants)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -13917,6 +14427,11 @@
             "id": "aIqWT8KUlYwUY9x2",
             "name": "+1 Status to All Saves vs Magic (Bonus de statut de +1 jds contre magie)",
             "items-description": ""
+        },
+        {
+            "id": "mDnVfeIEWGgfP7Xq",
+            "name": "Repository of Lore (Archive de connaissance)",
+            "items-description": "<p>Même si le cassisien n’est pas très intelligent, il a une mémoire parfaite et peut se souvenir de tout ce qu’il a vu ou entendu. Cela lui permet de tenter des tests de @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Connaissances} sur n’importe quel sujet auquel il a déjà été confronté (à la discrétion du MJ). L’intellect limité du cassisien l’empêche souvent d’agir en se basant sur ce qu’il sait, il est plus une ressource qu’un agent.</p>"
         },
         {
             "id": "h6wQ76GXx0XhL0rW",
@@ -14072,6 +14587,11 @@
             "id": "0MG0h9aFc2pBo8d3",
             "name": "Deception (Duperie)",
             "items-description": ""
+        },
+        {
+            "id": "39ZIhV5v80216sO2",
+            "name": "Manifold Vision (Vision multiple)",
+            "items-description": "<p>Tant que son cœur est implanté, le grikkitog peut voir à travers les yeux qu’il crée dans toute la zone de son aura d’infestation et il gagne l’avantage d’une @Compendium[pf2e.bestiary-ability-glossary-srd.9qV49KjZujZnSp6w]{vision 360°}.</p>"
         },
         {
             "id": "1gKtaE366xqxGDdV",
