@@ -3372,6 +3372,11 @@
             "items-description": ""
         },
         {
+            "id": "wRSpUZvZ7VYPuyfs",
+            "name": "Domination (Dominate)",
+            "items-description": "<p>Le nosfératu peut lancer <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne au sort le trait visuel avec un DD de 36. Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p>\n<p>La <em>Domination</em> prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
+        },
+        {
             "id": "j67aVe855G3FeDEO",
             "name": "Empoignade/Agrippement améliorée (Improved Grab)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
@@ -7645,6 +7650,11 @@
             "id": "EbsFN4gbz3zpDwft",
             "name": "Télépathie 30 m (Telepathy 100 feet)",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "rqqE3bWShm75LgVV",
+            "name": "Domincation (Dominate)",
+            "items-description": "<p>Le nosfératu peut lancer <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne au sort le trait visuel avec un DD de 29. Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p>\n<p>La <em>Domination</em> prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
         },
         {
             "id": "zGXRWPh3UMA5q46D",

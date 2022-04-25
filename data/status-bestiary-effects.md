@@ -1,13 +1,13 @@
 # État de la traduction (bestiary-effects)
 
- * **libre**: 34
+ * **libre**: 33
  * **vide**: 10
- * **aucune**: 87
+ * **aucune**: 93
+ * **changé**: 2
  * **officielle**: 1
- * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,7 +15,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[5ZK22sNW7o26aST0.htm](bestiary-effects/5ZK22sNW7o26aST0.htm)|Effect: Dirty Bomb|
+|[64wrP9IbfHbj1mrA.htm](bestiary-effects/64wrP9IbfHbj1mrA.htm)|Effect: War Leader|
 |[6E8bOkwFzFuQ3ZAw.htm](bestiary-effects/6E8bOkwFzFuQ3ZAw.htm)|Effect: Lurker's Glow (Critical Failure)|
+|[75B7z49jfQbWcSy9.htm](bestiary-effects/75B7z49jfQbWcSy9.htm)|Effect: Spray Toxic Oil|
 |[ceOkHxhJNTcvZkCy.htm](bestiary-effects/ceOkHxhJNTcvZkCy.htm)|Effect: Blood Siphon (Critical Failure)|
 |[ckL8iL7BKBPteEVL.htm](bestiary-effects/ckL8iL7BKBPteEVL.htm)|Effect: Goblin Song|
 |[FISKjI7bal26AnyL.htm](bestiary-effects/FISKjI7bal26AnyL.htm)|Effect: Timely Advice|
@@ -41,8 +43,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[kdZEZ6iBYQPVGzYD.htm](bestiary-effects/kdZEZ6iBYQPVGzYD.htm)|Effect: Call to Action|
 |[kHRbOHKEedKaBFH5.htm](bestiary-effects/kHRbOHKEedKaBFH5.htm)|Effect: Transfer Protection|
 |[kjP0J97hhoIhbF3M.htm](bestiary-effects/kjP0J97hhoIhbF3M.htm)|Effect: Necrotic Field|
+|[L7SiTshdimUPWfnB.htm](bestiary-effects/L7SiTshdimUPWfnB.htm)|Effect: Witchflame (Failure)|
 |[LOLoQpaAp5cC0hbm.htm](bestiary-effects/LOLoQpaAp5cC0hbm.htm)|Effect: Blood Fury|
+|[McawF8weCe7O81um.htm](bestiary-effects/McawF8weCe7O81um.htm)|Effect: Witchflame (Critical Failure)|
 |[mFnSXW6HTwS7Iu1k.htm](bestiary-effects/mFnSXW6HTwS7Iu1k.htm)|Effect: Hunted Fear|
+|[NHwmrSyF0e8HUE3m.htm](bestiary-effects/NHwmrSyF0e8HUE3m.htm)|Effect: Witchflame (Success)|
 |[o0zqsH5kYopRanav.htm](bestiary-effects/o0zqsH5kYopRanav.htm)|Effect: Rope Snare|
 |[o6ZI01zZBQDASuaw.htm](bestiary-effects/o6ZI01zZBQDASuaw.htm)|Effect: Wolf Shape|
 |[OxOMYmlPtjsEkRtY.htm](bestiary-effects/OxOMYmlPtjsEkRtY.htm)|Effect: Aura of Command|
@@ -94,6 +99,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wHQZO70bSECtSUZn.htm](bestiary-effects/wHQZO70bSECtSUZn.htm)|Effect: Ancestral Journey|
 |[wJsOZsYI2ZUVcGxc.htm](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)|Effect: Fiddle|
 |[wPIGBcpCqCWgrCiq.htm](bestiary-effects/wPIGBcpCqCWgrCiq.htm)|Effect: Blood Soak|
+|[wPW6kVscJgBLPVKZ.htm](bestiary-effects/wPW6kVscJgBLPVKZ.htm)|Effect: Ghonhatine Feed|
 |[wX9L6fbqVMLP05hn.htm](bestiary-effects/wX9L6fbqVMLP05hn.htm)|Effect: Stench|
 |[XaYM6Td0yhx2POau.htm](bestiary-effects/XaYM6Td0yhx2POau.htm)|Effect: Haywire|
 |[XyhPcnlkg3mGqEwT.htm](bestiary-effects/XyhPcnlkg3mGqEwT.htm)|Effect: Rockfall Critical Failure|
@@ -107,6 +113,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker|Effet : bricolage ingénieux (Succès critique)|changé|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -148,7 +155,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|Effet : Morsure du péché|libre|
 |[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|Effet : Vision perturbante|libre|
 |[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'incroyant|libre|
-|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker (Critical Success)|Effet : bricolage ingénieux (Succès critique)|libre|
 |[bV70ZxnUAoYnfXaZ.htm](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)|Effect: Rune of Smiting (Rock)|Effet : Rune de choc (Rocher)|libre|
 |[c6SiBB3mzV8lZUQr.htm](bestiary-effects/c6SiBB3mzV8lZUQr.htm)|Effect: Protean Anatomy|Effet : Anatomie protéenne|libre|
 |[C9nb9XbnQgbnXpTq.htm](bestiary-effects/C9nb9XbnQgbnXpTq.htm)|Effect: Crystalline Dust Form|Effet : Forme de poussière cristalline|libre|

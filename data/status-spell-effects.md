@@ -3,10 +3,11 @@
  * **libre**: 342
  * **changé**: 2
  * **officielle**: 22
+ * **vide**: 1
  * **aucune**: 8
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -28,6 +29,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[01-0bfqYkNaWsdTmtrc.htm](spell-effects/01-0bfqYkNaWsdTmtrc.htm)|Spell Effect: Juvenile Companion|Effet : Compagnon juvénile|changé|
 |[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|changé|
+
+## Liste des éléments vides ne pouvant pas être traduits
+
+| Fichier   | Nom (EN)    | État |
+|-----------|-------------|:----:|
+|[01-5yCL7InrJDHpaQjz.htm](spell-effects/01-5yCL7InrJDHpaQjz.htm)|Spell Effect: Ant Haul|vide|
 
 ## Liste des traductions complétés
 

@@ -3,7 +3,7 @@
  * **libre**: 58
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -18,7 +18,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6klWznsb0f2bNg3T.htm](domains/6klWznsb0f2bNg3T.htm)|Void Domain|Vide|libre|
 |[8ITGLquhimrr9CNv.htm](domains/8ITGLquhimrr9CNv.htm)|Indulgence Domain|Petits plaisirs|libre|
 |[8pPvbTMZLIsvCwQk.htm](domains/8pPvbTMZLIsvCwQk.htm)|Darkness Domain|Ténèbres|libre|
-|[9blxcDLIRPWenK5f.htm](domains/9blxcDLIRPWenK5f.htm)|Plague Domain|Pestilence|libre|
+|[9blxcDLIRPWenK5f.htm](domains/9blxcDLIRPWenK5f.htm)|Plague Domain|Fléau|libre|
 |[9tsJg13xeJLGzzGV.htm](domains/9tsJg13xeJLGzzGV.htm)|Undeath Domain|Non-Mort|libre|
 |[a0fe0kFowMMwUFZa.htm](domains/a0fe0kFowMMwUFZa.htm)|Nightmares Domain|Cauchemars|libre|
 |[AaY3BmDItGry4oac.htm](domains/AaY3BmDItGry4oac.htm)|Decay Domain|Décomposition|libre|

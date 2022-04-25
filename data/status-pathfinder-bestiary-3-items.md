@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary-3-items)
 
- * **libre**: 1180
- * **aucune**: 1310
+ * **libre**: 1181
+ * **aucune**: 1308
  * **vide**: 222
- * **officielle**: 26
+ * **officielle**: 27
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -964,7 +964,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rmrUx8mVzDx7W96E.htm](pathfinder-bestiary-3-items/rmrUx8mVzDx7W96E.htm)|Flames of Fury|
 |[Rmxe7dutW3AoDW4m.htm](pathfinder-bestiary-3-items/Rmxe7dutW3AoDW4m.htm)|Echolocation (Precise) 40 feet|
 |[RP2SeHrbTJkiKCCL.htm](pathfinder-bestiary-3-items/RP2SeHrbTJkiKCCL.htm)|Constrict|
-|[rqqE3bWShm75LgVV.htm](pathfinder-bestiary-3-items/rqqE3bWShm75LgVV.htm)|Dominate|
 |[RTMzhRViOSVhuoXI.htm](pathfinder-bestiary-3-items/RTMzhRViOSVhuoXI.htm)|Electric Projectiles|
 |[rUKEfvwyoUMhaFzX.htm](pathfinder-bestiary-3-items/rUKEfvwyoUMhaFzX.htm)|Vicelike Jaws|
 |[RvhHvUE7nZmwkyMD.htm](pathfinder-bestiary-3-items/RvhHvUE7nZmwkyMD.htm)|Accord Essence|
@@ -1178,7 +1177,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wndNBL1gS8EX4LkQ.htm](pathfinder-bestiary-3-items/wndNBL1gS8EX4LkQ.htm)|Coiling Frenzy|
 |[wPsE3OnHZcFptWrh.htm](pathfinder-bestiary-3-items/wPsE3OnHZcFptWrh.htm)|Claimer of the Slain|
 |[wqfNw7k5yrmfOl9I.htm](pathfinder-bestiary-3-items/wqfNw7k5yrmfOl9I.htm)|Cat's Curiosity|
-|[wRSpUZvZ7VYPuyfs.htm](pathfinder-bestiary-3-items/wRSpUZvZ7VYPuyfs.htm)|Dominate|
 |[wRvyhBs5zmAJtpe8.htm](pathfinder-bestiary-3-items/wRvyhBs5zmAJtpe8.htm)|Temporal Sense|
 |[wT009BtDXdqzatix.htm](pathfinder-bestiary-3-items/wT009BtDXdqzatix.htm)|Moon Frenzy|
 |[WUrrk4eny3GFngud.htm](pathfinder-bestiary-3-items/WUrrk4eny3GFngud.htm)|Burning Cold|
@@ -2427,6 +2425,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rpBeKBUmHNZG8uQA.htm](pathfinder-bestiary-3-items/rpBeKBUmHNZG8uQA.htm)|Hoof|Sabot|libre|
 |[RpO4Le4eD3npO4n3.htm](pathfinder-bestiary-3-items/RpO4Le4eD3npO4n3.htm)|Low-Light Vision|Vision nocturne|libre|
 |[rQhc6SkjKUBdbb2C.htm](pathfinder-bestiary-3-items/rQhc6SkjKUBdbb2C.htm)|Darkvision|Vision dans le noir|libre|
+|[rqqE3bWShm75LgVV.htm](pathfinder-bestiary-3-items/rqqE3bWShm75LgVV.htm)|Dominate|Domincation|libre|
 |[rtGARtAYnK1Pseab.htm](pathfinder-bestiary-3-items/rtGARtAYnK1Pseab.htm)|Darkvision|Vision dans le noir|libre|
 |[Rubn1my2aY6utJPZ.htm](pathfinder-bestiary-3-items/Rubn1my2aY6utJPZ.htm)|Sneak Attack|Attaque sournoise|officielle|
 |[rVdhm2xzR2AUjY4g.htm](pathfinder-bestiary-3-items/rVdhm2xzR2AUjY4g.htm)|Beak|Bec|libre|
@@ -2621,6 +2620,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[wP25CSpHH1XfhQZV.htm](pathfinder-bestiary-3-items/wP25CSpHH1XfhQZV.htm)|Wing|Aile|libre|
 |[WpHT325mhd62bmHx.htm](pathfinder-bestiary-3-items/WpHT325mhd62bmHx.htm)|Low-Light Vision|Vision nocturne|libre|
 |[wq97ytCKPYfmWhuM.htm](pathfinder-bestiary-3-items/wq97ytCKPYfmWhuM.htm)|Hand Crossbow|Arbalète de poing|libre|
+|[wRSpUZvZ7VYPuyfs.htm](pathfinder-bestiary-3-items/wRSpUZvZ7VYPuyfs.htm)|Dominate|Domination|officielle|
 |[WsuMP3feuXNP1eeE.htm](pathfinder-bestiary-3-items/WsuMP3feuXNP1eeE.htm)|Sling|Fronde|libre|
 |[WtYldqbo5WHxuBHU.htm](pathfinder-bestiary-3-items/WtYldqbo5WHxuBHU.htm)|Swarm Mind|Esprit de nuée|libre|
 |[wuJYkji7dBLYrLAK.htm](pathfinder-bestiary-3-items/wuJYkji7dBLYrLAK.htm)|Constant Spells|Sorts constants|libre|

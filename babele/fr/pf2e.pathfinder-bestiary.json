@@ -3319,6 +3319,11 @@
             "items-description": ""
         },
         {
+            "id": "WQqo16zlXzVAyGHX",
+            "name": "Venin de drake de la jungle",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:24]{Vigueur} DD 24</p>\n<hr />\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} (1 round)</p>"
+        },
+        {
             "id": "uR0sxFBmOFXxYqZi",
             "name": "Griffe",
             "items-description": ""
@@ -3327,6 +3332,11 @@
             "id": "9RRqDOZEOM8rUI1P",
             "name": "Attaque en meute",
             "items-description": "<p>Un loup arctique inflige [[/r {1d6}]]{1d6 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "t8uaryivfTb4jrjH",
+            "name": "Feuille",
+            "items-description": ""
         },
         {
             "id": "R9CYDurnZPOlDiFg",
@@ -3357,6 +3367,11 @@
             "id": "GWK22q1k4VFPbsKf",
             "name": "Attaque en meute",
             "items-description": "<p>Un chien de garde inflige [[/r {1d4}]]{1d4 dégâts supplémentaires} à toute créature à portée d’au moins deux de ses alliés.</p>"
+        },
+        {
+            "id": "hH9lWhV3jA9NQJuG",
+            "name": "Déplacement caché",
+            "items-description": "<p>Si un éclaireur homme-lézard commence son tour en étant @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{non détecté} ou @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Caché} aux yeux d’une créature, celle-ci se trouve @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} face aux attaques de l’éclaireur jusqu’à la fin du tour de ce dernier.</p>"
         },
         {
             "id": "GrDnRSSifZtVibbk",
@@ -3414,6 +3429,11 @@
             "items-description": "<p>Le traqueur caligni inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
+            "id": "XCfMmPXvB7LJznlU",
+            "name": "Arc long composite de froid",
+            "items-description": ""
+        },
+        {
             "id": "DjE8LDaTqE6Y8m1b",
             "name": "Pestilence démoniaque",
             "items-description": "<p data-visibility=\"gm\"> Le leukodaémon peut communiquer télépathiquement avec la créature affligée à n’importe quelle distance sur le même plan.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:28]{Vigueur} DD 28</p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> porteur (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 1} (1 jour)</p>\n<p><strong>Stade 3</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 2} (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 2} (1 jour)</p>\n<p><strong>Stade 5</strong> @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 3} (1 semaine)</p>\n<p><strong>Stade 6</strong> mort</p>\n</div>"
@@ -3437,6 +3457,11 @@
             "id": "bW0FVpeKKVStkJVf",
             "name": "Télépathie 30 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
+        },
+        {
+            "id": "t6KHJCiZXdNJnqxB",
+            "name": "Maître d'arme",
+            "items-description": "<p>Le chevalier sépulcre a accès aux effets critiques spécialisés de toute arme qu'il manie.</p>"
         },
         {
             "id": "vZVJQzztFpSjzbNW",
@@ -3519,6 +3544,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "Fz4qoI14He66tmpf",
+            "name": "Aura du commandant",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 m}</p>\n<hr />\n<p>Les créatures commandées ou alliées dans l’aura qui ont un niveau inférieur à celui de la marilith gagnent un bonus de circonstances de +1 à leurs jets d’attaque et de dégâts, à leur CA, à leurs jets de sauvegarde et à leurs tests de compétence.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.5NSWRxAsJuvwyl0E]{Effet : Aura du commandant}</p>"
+        },
+        {
             "id": "qcCBWdNoDKQOL8YM",
             "name": "Athlétisme",
             "items-description": ""
@@ -3544,6 +3574,11 @@
             "items-description": ""
         },
         {
+            "id": "rGTmjeER3V1KY02w",
+            "name": "Gober rapidement",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le ver pourpre a @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippé} une créature.</p> \n<p><strong>Effet</strong> Le ver utilise Gober</p>"
+        },
+        {
             "id": "uGne7svJszeghy3d",
             "name": "Perception des maladies 18 m",
             "items-description": "<p>Un leukodaémon est capable de sentir si une créature à portée est atteinte d’une maladie et il sait quelle est cette maladie et à quel stade en est la victime.</p>"
@@ -3557,6 +3592,11 @@
             "id": "6wXxUMuYVHcPeCm1",
             "name": "Hachette",
             "items-description": ""
+        },
+        {
+            "id": "4gkC6A8D27Jzv7nH",
+            "name": "Grande frappe transversale",
+            "items-description": "<p>Le géant porte deux Frappes de coutille contre deux adversaires adjacents qui se trouvent à sa portée. La pénalité d’attaques multiples n’augmente qu’après la résolution des deux attaques.</p>"
         },
         {
             "id": "pD6a7tBQWhYfzUSt",
@@ -3622,6 +3662,11 @@
             "id": "OFEj9wltNrZpJ77C",
             "name": "Empoignade/Agrippement améliorée",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "BzrCf46VVV0IyaJb",
+            "name": "Attaque d'opportunité",
+            "items-description": "<p>En plus du déclencheur normal, la momie pharaon peut utiliser son Attaque d’opportunité quand une créature à portée utilise une action ayant le trait oncentration. Elle peut interrompre des actions de concentration qui déclenchent cette capacité et interrompt des actions en cas de réussite, pas uniquement en cas de coup critique.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "PAN3R11XOGsaiIbK",
@@ -3892,6 +3937,16 @@
             "id": "pPuHLDfAI4W6qEr6",
             "name": "Amnistie du messager",
             "items-description": "<p>Un déva astral avec un message à remettre est continuellement protégé par l’effet d’un <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{Sanctuaire} (DD 32). Si le déva brise le <em>@Compendium[pf2e.spells-srd.8xRzLhwGL7Dgy3EZ]{Sanctuaire}, l’effet se réactive si le déva cesse toute hostilité pendant 10 minutes.</p>"
+        },
+        {
+            "id": "4lmj5hd20I5GvQJz",
+            "name": "Bondir sur sa proie",
+            "items-description": "<p><strong>Conditions</strong> L’initiative n’a pas encore été déterminée.</p> \n<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature touche la toile de l’araignée chasseuse pendant que celle-ci s’y trouve. Effet. L’araignée chasseuse repère automatiquement la créature et Marche rapidement, Escalade ou Descend sur un fil de toile avant de faire son jet d’initiative."
+        },
+        {
+            "id": "yIloVqSs48TDwk9P",
+            "name": "Lance de froid",
+            "items-description": ""
         },
         {
             "id": "krINP0tRSuTbpzys",
@@ -4654,6 +4709,11 @@
             "items-description": "<p>Le dragon porte deux Frappes de griffes et une Frappe de corne dans n'importe quelle ordre</p>"
         },
         {
+            "id": "J8d6vqQrqGXi53bU",
+            "name": "Explosion verdoyante",
+            "items-description": "<p>Quand un léchi de feuilles meurt, une ex  plosion d’énergie primordiale jaillit de son corps et toutes les créatures végétales dans une émanation de 9 m récupèrent [[/r {1d4}[healing]]]{1d4 points de vie}. La zone est couverte de jeunes pins et devient un terrain difficile. Si le terrain n’est pas un environnement viable pour ces arbres, ils se flétrissent au bout de 24 heures.</p>"
+        },
+        {
             "id": "3SNH7v25J8TbPWvC",
             "name": "Armure de créature artificielle (Solidité 2)",
             "items-description": "<p>Comme les objets normaux, un balai animé a une Solidité. Les dégâts subis par le balai sont réduits de sa valeur de Solidité. Une fois qu’un balai animé à moins de la moitié de ses points de vie, ou s’il est endommagé par un coup critique, son armure de créature artificielle se brise et sa Classe d’armure est réduite à 14.</p>"
@@ -4702,6 +4762,11 @@
             "id": "IcOzxaLaimK6QUsg",
             "name": "Attaque d'opportunité",
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
+            "id": "DD9mP7VmHRk4Lm97",
+            "name": "Incantation fiable",
+            "items-description": "<p> Si la réaction d’une créature devrait interrompre l’action d’incantation du cerveau vampire, ce dernier a droit à un @Check[type:flat|dc:15]{test nu} DD 15. S’il le réussit, son action n’est pas interrompue. </p>"
         },
         {
             "id": "0fQVIqLvgnfSP4JM",
@@ -4764,6 +4829,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "8lgMCjFFA7C5mDWQ",
+            "name": "Athlétisme",
+            "items-description": ""
+        },
+        {
             "id": "nfw4zm2GbHBD2wum",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -4797,6 +4867,11 @@
             "id": "f4rcDncEwu2OdC1a",
             "name": "Mâchoires",
             "items-description": ""
+        },
+        {
+            "id": "NKOHZ7Ua7fqQNsAy",
+            "name": "Trépas écœurant",
+            "items-description": "<p>Quand un grothlut tombe à 0 point de vie, ses organes digestifs se rompent et libèrent de l’acide alchimique et du poison dans une @Template[type:emanation|distance:30]{émanation de 9 m}. Chaque créature dans la zone d’effet doit réussir un jet de @Check[type:fortitude|dc:19|traits:damaging-effect]{Vigueur} DD 19 ou subir [[/r {2d6}[acid]]]{2d6 dégâts d’acide} et être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (double dégâts et @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} en cas d’échec critique).</p>"
         },
         {
             "id": "OWlPaR3WuuSoTaGl",
@@ -4914,9 +4989,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "LqM7JU0cOL7itoch",
+            "name": "Changement de forme",
+            "items-description": "<p>Le léchi de feuilles se transforme en Petit arbre. Pour le reste, ce pouvoir utilise les effets de <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}</em>.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
             "id": "44gZk9CBkA5y9VOb",
             "name": "Fou rire de masse",
             "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par jour.</p>\n<p><strong>Effet</strong> Le dragon de cuivre raconte une blague irrésistible. Chaque créature dans une @Template[type:emanation|distance:100]{émanation de 30 m} doit réussir un jet de @Check[type:will|dc:39]{Volonté DD 39}<span data-visibility=\"gm\"> ou subir les effets du sort <em>@Compendium[pf2e.spells-srd.tlSE7Ly8vi1Dgddv]{Fou rire}</em> au niveau 9 pendant une minute</span>.</p>"
+        },
+        {
+            "id": "ORBRYCSr88txQyIM",
+            "name": "Hachette boomerang acérée",
+            "items-description": ""
         },
         {
             "id": "Sj3qaBkh1exbNXJY",
@@ -5019,6 +5104,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4n19omVeZZAAGXBk",
+            "name": "Cercle",
+            "items-description": "<p>Une guenaude verte ajoute <em>@Compendium[pf2e.spells-srd.J6vNvrUT3b1hx2iA]{Enchevêtrement}</em>, <em>@Compendium[pf2e.spells-srd.KSAEhNfZyXMO7Z7V]{Malédiction du paria}</em> et <em>@Compendium[pf2e.spells-srd.KsWhliKfUs3IpW3c]{Mur d’épines}</em> à ses sorts de cercle.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
+        },
+        {
             "id": "xuSwO5OCFxK9XjiS",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -5082,6 +5172,11 @@
             "id": "zucHNDwfKldM9TpE",
             "name": "Mâchoires",
             "items-description": ""
+        },
+        {
+            "id": "zEZW1atU8KQCSsNi",
+            "name": "Rosser",
+            "items-description": "<p>Le ver effectue une Frappe contre chaque créature à portée. Il peut Frapper une fois avec ses mâchoires, une fois avec son dard et n’importe quel nombre de fois avec son corps. Chaque attaque compte pour le malus d’attaques multiples du ver mais ce malus n’augmente qu’une fois toutes les attaques effectuées.</p>"
         },
         {
             "id": "dF7ibA1On3Nvjxqk",
@@ -5342,6 +5437,11 @@
             "id": "6SHvRrPDTa74t0cD",
             "name": "Rocher",
             "items-description": ""
+        },
+        {
+            "id": "4tkIBY4fl80WZyr6",
+            "name": "Projection de venin",
+            "items-description": "<p>Un drake de la jungle peut cracher une masse gluante de venin jusqu’à une distance de 15 m qui explose dans un @Template[type:burst|distance:10]{rayon de 3 m}. Les créatures prises dans la zone d’effet doivent réussir un jet de @Check[type:reflex|dc:24]{Réflexes} DD 24 ou être exposées au venin du drake.</p>\n<p data-visibility=\"gm\">Le drake de la jungle ne peut utiliser de nouveau ce pouvoir avant [[/br 1d6 #Recharge projection de venin]]{1d6 rounds}.</p>"
         },
         {
             "id": "TvxcP8kfqmDOK1GX",
@@ -5659,6 +5759,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "j7Nh5AH6RZ2HuPM1",
+            "name": "Arme de souffle",
+            "items-description": "<p>Le dragon souffle une langue de feu qui inflige [[/r {20d6}[fire]]]{20d6 dégâts de feu} en un @Template[type:cone|distance:60]{cône de 18 m} (@Check[type:reflex|dc:42|basic:true]{Réflexes basique} DD 42).</p>\n<p data-visibility=\"gm\">Il ne peut utiliser son souffle pendant [[/br 1d4 #Recharge arme de souffle]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "j8XDp3PWM6N8DyRV",
             "name": "Télépathie 30 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
@@ -5667,6 +5772,11 @@
             "id": "bHxNMVIdbA3qM962",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4TtLSpRhmqV1Dvp1",
+            "name": "Coup de queue",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du shemhazian quitte une case pendant une action de déplacement.</p>\n<p><strong>Effet</strong> Le shemhazian tente un @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Croc-en-jambe} contre la créature qui a déclenché le pouvoir. S’il réussit, la créature subit aussi des dégâts comme si le shemhazian l’avait touchée avec une Frappe de queue et si cette créature volait, elle tombe de 9 m.</p>"
         },
         {
             "id": "USCoVo5LJNs12zB4",
@@ -5969,6 +6079,11 @@
             "items-description": ""
         },
         {
+            "id": "aqwHyoUR6cj9y6s8",
+            "name": "Regard focalisé",
+            "items-description": "<p>Le shemhazian focalise son regard sur une créature non mauvaise qu’il peut voir dans un rayon de 9 m. Si cette créature n’est pas déjà @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie} par le regard paralysant du shemhazian, elle doit tenter un jet de sauvegarde contre ce pouvoir. Si cette créature est ralentie, elle doit réussir un jet de @Check[type:fortitude|dc:35]{Vigueur} DD 35 ou être @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round.</p>\n<p>Un shemhazian ne peut utiliser ce pouvoir plus d’une fois par round contre la même créature.</p>"
+        },
+        {
             "id": "fD21lHfQwFLm6D9N",
             "name": "Griffe",
             "items-description": ""
@@ -6059,6 +6174,11 @@
             "items-description": ""
         },
         {
+            "id": "S7Khn0wjpXjjyPAp",
+            "name": "Fuite brumeuse",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vampire est réduit à 0 PV.</p>\n<hr />\n<p><strong>Effet</strong> Le vampire utilise Se changer en brume. Il peut faire une action de mouvement en direction de son cercueil même s’il est à 0 PV. À 0 PV sous cette forme, les dégâts ne l’affectent plus.</p>\n<p>Il reprend automatiquement une forme tangible et se trouve inconscient s’il atteint son cercueil ou au bout de 2 h, selon ce qui se produit en premier.</p>"
+        },
+        {
             "id": "DZXUlh01CHmN4S3z",
             "name": "Mâchoires",
             "items-description": ""
@@ -6067,6 +6187,11 @@
             "id": "x0anEXm5LMDe02cY",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "NSJZXBcVLdrnmMBh",
+            "name": "Assaut focalisé",
+            "items-description": "<p>La marilith attaque une seule cible avec toutes ses armes en main, submergeant l’adversaire sous ses attaques multiples et l’empêchant d’esquiver. Le démon effectue une Frappe d’épée longue. Si l’attaque réussie, la marilith inflige les dégâts de son épée longue à la cible plus [[/r {1d8}[slashing]]]{1d8 dégâts supplémentaires} pour chaque épée longue tenue après la première (généralement [[/r {5d8}[slashing]]]{5d8 dégâts supplémentaires}). Même si l’attaque échoue, la marilith inflige les dégâts d’une épée longue à sa cible ; cependant, il rate complètement en cas d’échec critique. Cela compte pour le malus d’at  taques multiples de la marilith avec un nombre d’attaques égal au nombre d’épées longues utilisées par le démon.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.7wDH2q0UcFdu2w58]{Effet : Assaut focalisé}</p>"
         },
         {
             "id": "vipJW7r7EquegImq",
@@ -6314,6 +6439,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "Tk7abWUpvDDV6Qg0",
+            "name": "Vulnérabilité aux soins",
+            "items-description": "<p>. Les mutilations qu’inflige un shemhazian font partie intégrante de son être et il ne peut supporter de les voir soignées. La première fois à chaque round qu’une créature guérit de dégâts que le shemhazian lui a infligés au cours des derniers tours, le démon subit [[/r {3d6}[mental]]]{3d6 dégâts mentaux}.</p>"
+        },
+        {
             "id": "6Z8Si7EyPGbAS0VJ",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -6419,6 +6549,11 @@
             "items-description": "<p>Le traqueur dero inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
+            "id": "53TdkHMcaLAUgDXf",
+            "name": "Chaleur du dragon",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:10]{3 m}, [[/r {4d6}[fire]]]{4d6 dégâts de feu} (@Check[type:reflex|dc:39|basic:true]{Réflexes basique} DD 39)</p>"
+        },
+        {
             "id": "qhS5ZEJcqNFytqWd",
             "name": "Mâchoires",
             "items-description": ""
@@ -6489,6 +6624,11 @@
             "items-description": ""
         },
         {
+            "id": "zu0tOUwHfZJlaGQq",
+            "name": "Cosse de graine",
+            "items-description": ""
+        },
+        {
             "id": "wDyI0HWtmrF7nCK9",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -6527,6 +6667,11 @@
             "id": "g2qQpMZqRaylNASw",
             "name": "Odorat (imprécis) 9 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "4Ej3WZBN0ABs1mbO",
+            "name": "Inspiration",
+            "items-description": "<p>Une nymphe souveraine peut inspirer une unique créature intelligente en lui donnant un témoignage de ses faveurs, généralement une boucle de ses cheveux. Tant que cette créature porte ce don sur elle, et reste en bon terme avec la souveraine, elle gagne un bonus de statut de +1 à tous ses tests d’Artisanat et de Représentation ainsi qu’à ses jets de Volonté.</p>\n<p>Si une nymphe souveraine accorde Inspiration à un barde et qu’elle est sa muse, il gagne un avantage supplémentaire en fonction du thème de sa muse : pour une muse de connaissance, le barde gagne aussi un bonus de statut de +1 à tous ses tests de Connaissance ; pour une muse de virtuose, le bonus de statut aux tests de Représentation est de +2 pour déterminer les effets des compositions ; pour une muse touche-à-tout, le barde gagne un bonus de statut de +4 pour ses tests de compétence inexpérimentée ; et pour toutes les autres muses, le bonus du jet de Volonté est de +2 contre les fées.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.iSyyR4QVOaY6mxtg]{Effet : Inspiration de la nymphe souveraine}</p>"
         },
         {
             "id": "PNc43N7H5LeJXDQj",
@@ -6717,6 +6862,11 @@
             "id": "fQiZcSYvDH1xIFor",
             "name": "Mâchoires",
             "items-description": ""
+        },
+        {
+            "id": "y0G6Hcirsc4uakIL",
+            "name": "Reprends toi",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Le ver pourpre pourrait être affecté par un état ou un effet néfaste (tel que <em>@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste}</em>).</p>\n<p><strong>Effet</strong> Le ver pourpre annule l’état ou l’effet déclencheur. Les effets des artefacts, des divinités ou issus de sources aussi puissantes ne peuvent être évités de cette manière.</p>"
         },
         {
             "id": "auqHGoaXoCI4Z25O",
@@ -7314,6 +7464,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
+            "id": "QReEjgBjoIXn5NnC",
+            "name": "Tempête de lames",
+            "items-description": "<p>La marilith effectue jusqu’à six Frappes d’épée longue, chaque attaque sur une cible différente. Ces attaques comptent pour le malus d’attaques multiples de la marilith mais ce malus n’augmente qu’une fois toutes les attaques effectuées.</p>"
+        },
+        {
             "id": "8W4is1CtFAUBw0Zd",
             "name": "Attaque sournoise",
             "items-description": "<p>Le mage draconique kobold inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
@@ -7337,6 +7492,11 @@
             "id": "Ux1Z45Ai509H8jm7",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kvbp3xXviiIXnVhS",
+            "name": "Empoignade du prédateur",
+            "items-description": "<p>Comme Empoignade/Agrippement mais l'agrippement ne se termine pas si le drake de la jungle s’éloigne. Au lieu de cela, il porte la créature Agrippée.</p>\n<p>Un drake de la jungle ne peut pas Voler quand il empoigne une créature à moins que cette dernière puisse aussi Voler.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
         },
         {
             "id": "zSXEX1BIW9Kopq1o",
@@ -7589,6 +7749,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "5Rd1LNWiczurzj0C",
+            "name": "Arme de souffle",
+            "items-description": "<p>Le méphite de feu souffle des flammes dans un @Template[type:cone|distance:15]{cône de 4,5 m} qui inflige [[/r {2d4}[fire]]]{2d4 dégâts de feu} et [[/r {1d4}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants} à chaque créature dans la zone (@Check[type:reflex|dc:17|basic:true]{Réflexes} DD 17).</p>\n<p data-visibility=\"gm\">Le méphite de feu ne peut utiliser son Arme de souffle pendant [[/br 1d4 #Recharge Arme de souffle]]{1d4 rounds}.</p>"
+        },
+        {
             "id": "wdsdNrRHG7tMUw5P",
             "name": "Poing",
             "items-description": ""
@@ -7694,6 +7859,11 @@
             "items-description": ""
         },
         {
+            "id": "8EY2qfk7YZdvckfJ",
+            "name": "Foreur de roche",
+            "items-description": "<p> Un ver pourpre peut forer la roche solide à une Vitesse de 6 m. Il peut laisser un tunnel derrière lui s’il le souhaite, ce qui est généralement le cas.</p>"
+        },
+        {
             "id": "9yzexwwuWU0ABr5D",
             "name": "Queue",
             "items-description": ""
@@ -7721,7 +7891,7 @@
         {
             "id": "HhkalK1aMfqDSiWQ",
             "name": "Boire le sang",
-            "items-description": "<p><strong>Conditions</strong>  Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoignée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{entravée}, @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente} ou consentante est à portée du vampire.</p>\n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est empoignée. Dans les autres cas, il y parvient automatiquement. La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{drainée} 1 et le vampire récupère [[/r {10}[healing]]]{10 pv}, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de l'état Drainé de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p>\n<p>L’état drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de @Check[type:medicine|dc:20|name:Transfusion]{Médecine} DD 20 et assez de sang ou un donneur) réduit l’état Drainé de 1 au bout de 10 minutes.</p>"
+            "items-description": "<p><strong>Conditions</strong>  Une créature @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée}, @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée}, @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Entravée}, @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} ou consentante est à portée du vampire.</p>\n<p><strong>Effet</strong> Le vampire enfonce ses crocs dans cette créature et boit son sang. Pour cela, il doit réussir un test d’Athlétisme contre le DD de Vigueur de la victime si elle est Empoignée. Dans les autres cas, il y parvient automatiquement. La victime est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1} et le vampire récupère [[/r {10}[healing]]]{10 pv}, les PV excédentaires s’ajoutant sous forme de points de vie temporaires. Si le vampire Boit le sang d’une créature déjà drainée, il ne récupère pas d’autres PV, mais la valeur de l'état Drainé de la victime augmente de 1. Un vampire peut aussi boire du sang versé dans un récipient pour s’alimenter, mais cela ne lui rend pas de PV.</p>\n<p>L’état drainé de la victime se réduit de 1 par semaine. Une transfusion sanguine (qui requiert un test de @Check[type:medicine|dc:20|name:Transfusion]{Médecine} DD 20 et assez de sang ou un donneur) réduit l’état Drainé de 1 au bout de 10 minutes.</p>"
         },
         {
             "id": "0FCCLjtCWvBlUoFA",
@@ -7869,6 +8039,11 @@
             "items-description": ""
         },
         {
+            "id": "3ZSVEZBMKleuEd84",
+            "name": "Domination",
+            "items-description": "<p>Le vampire peut lancer <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne au sort le trait visuel avec un DD 26. Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p>\n<p>La <em>Domination</em> prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
+        },
+        {
             "id": "ZlxZ2pDpBDTkPZ6M",
             "name": "Fronde",
             "items-description": ""
@@ -7897,6 +8072,11 @@
             "id": "wb9jgdwbjkdgmDPc",
             "name": "Sorts à volonté",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "44mTKtGhXhfJhnBh",
+            "name": "Guérison accélérée 2 (lorsqu'il touche le feu)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
         },
         {
             "id": "0naynsYzlUHn8xiZ",
@@ -8021,7 +8201,7 @@
         {
             "id": "GXr4u9s0uuvI5J6d",
             "name": "Faiblesses des vampires",
-            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n</li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
+            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n<li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
         },
         {
             "id": "D71sSjwa6Oa7yHvw",
@@ -8116,7 +8296,7 @@
         {
             "id": "OgOkCo3ZpgcUbZr1",
             "name": "Faiblesse des vampires",
-            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n</li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
+            "items-description": "<p>Tous les vampires possèdent les faiblesses suivantes :</p>\n<ul>\n<li><strong>Compulsion</strong> Les vampires obéissent à de curieuses et inexplicables compulsions. Un vampire typique ne peut pas traverser de l’eau courante, à moins qu’il ne soit caché dans son cercueil et que quelqu’un ne le transporte. Il est également incapable d’entrer dans une habitation privée, à moins que quelqu’un disposant de l’autorité nécessaire ne l’y invite. Si vous le désirez, un vampire peut être soumis à des compulsions différentes. Par exemple, un pirate vampire pourrait être incapable de poser le pied sur la terre ferme à moins d’y être invité. Il est tout de même possible d’obliger le vampire à faire cela et à surmonter sa compulsion, tout comme il surmonterait sa révulsion.</li>\n<li><strong>Pieu</strong> Un pieu de bois plongé dans le cœur d’un vampire le met à 0 PV et l’empêche de guérir, même s’il est dans son cercueil. Il faut trois actions pour planter le pieu et le vampire doit être inconscient. Si l’on retire le pieu, le vampire se met à guérir et peut repasser au-dessus de 0 PV. S’il est dans son cercueil, la période de 1 heure de repos commence dès que le pieu est retiré. Si le vampire est décapité et sa tête ointe d’<em>@Compendium[pf2e.equipment-srd.efFe4EK7ThUrH446]{eau bénite} alors que le pieu est en place, le vampire est détruit.</li>\n<li><strong>Révulsion</strong> Un vampire ne peut pas approcher volontairement à 3 m ou moins de quelqu’un qui brandit de l’ail ou le symbole religieux d’une divinité non-mauvaise. Pour brandir une telle chose, une créature doit Interagir pendant 1 round (comme pour Lever un bouclier). Si le vampire arrive involontairement à moins de 3 m de l’objet de sa révulsion, il est @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} et court loin de l’objet de son dégoût jusqu’à ce qu’il termine une action à plus de 3 m de lui. Quand un vampire a passé 1 round exposé à l’objet de sa révulsion, il a droit à un jet de @Check[type:will|dc:25|name:Surmonter sa révulsion]{Volonté DD 25} par une action unique dotée du trait concentration. Sur un succès, il surmonte sa révulsion pendant 1d6 rounds (1 heure pour un succès critique).</li>\n<li><strong>Soleil</strong> Un vampire directement exposé au soleil est immédiatement @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1}. Cette valeur augmente de 1 à chaque fois que le vampire termine un tour au soleil. S’il perd ainsi toutes ses actions, il est détruit. À cause de leur aversion surnaturelle pour la lumière, les vampires ne projettent pas d’ombre et n’ont pas de reflet dans les miroirs.</li>\n</ul>"
         },
         {
             "id": "WGKxmcUB8pYq06Qv",
@@ -8314,6 +8494,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
         },
         {
+            "id": "esaeLxI8stHVxilE",
+            "name": "Queue sinueuse",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée du dard du drake utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le drake des jungles Frappe la cible avec son dard. S’il touche, le drake interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "y5Na5QhVKW187D0K",
             "name": "Magie mentale",
             "items-description": "<p>Une demi-liche peut remplacer tous les composants matériels et somatiques pour incanter des sorts par des composants verbaux et elle peut remplacer tous les composants Interagir pour activer des objets magiques par des composants imaginer.</p>"
@@ -8379,6 +8564,11 @@
             "items-description": ""
         },
         {
+            "id": "sBRqXEDoaHJdg0SF",
+            "name": "Hachenoire",
+            "items-description": ""
+        },
+        {
             "id": "RiC8zTuKfW44G8Mp",
             "name": "Odorat (imprécis) 9 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -8427,6 +8617,11 @@
             "id": "lQO6RbVplN7WWnna",
             "name": "Sorts constants",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "I7lbbBC8haIiOXzD",
+            "name": "Putréfaction insidieuse de la momie",
+            "items-description": "<p>Cette maladie et les dégâts qu’elle inflige ne peuvent être soignés tant que la malédiction n’a pas été neutralisée. Une créature tuée par putréfaction insidieuse de momie tombe en poussière et ne peut être ressuscitée sauf par un rituel de <em>@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]{Résurrection}</em> de niveau 7 ou une magie similaire.</p>\n<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:26]{Vigueur} DD 26</p>\n<hr />\n<p><strong>Stade 1</strong> porteur sans effet néfaste (1 minute)</p>\n<p><strong>Stade 2</strong> [[/r {8d6}[negative]]]{8d6 dégâts négatifs} et @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 2} (1 jour)</p>"
         },
         {
             "id": "p5WXqIz3tJJCdoiz",
@@ -8487,6 +8682,11 @@
             "id": "nwc3AiZwtHc7DnZV",
             "name": "Odorat (imprécis) 18 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "Tji1ev92INkjtI3U",
+            "name": "Vision dans la fumée",
+            "items-description": "<p>Le méphite de feu ignore l'état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} dû à la fûmée.</p>"
         },
         {
             "id": "4uWQE7ermpG8oEr3",
@@ -8569,6 +8769,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "WPtFVQLHQ2T2WxY7",
+            "name": "Coup assourdissant",
+            "items-description": "<p>Quand un léchi des feuilles touche avec sa Frappe de cosse de graine, la cible doit tenter un jet de @Check[type:fortitude|dc:16]{Vigueur} DD 16.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée et temporairement immunisée pendant 24 heures.</p>\n<p><strong>Succès</strong> La cible n'est pas affectée.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 round.</p>\n<p><strong>Échec Critique</strong> La cible est @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 minute.</p>\n</div>"
+        },
+        {
             "id": "cYDXg8exhcvpvPs8",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -8582,6 +8787,11 @@
             "id": "7CjSawx6weIPrIFL",
             "name": "Runes étincelantes",
             "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le géant des runes utilise un pouvoir arcanique ou lance un sort arcanique.</p>\n<p><strong>Effet</strong> Les runes sur le corps du géant étincellent en produisant de l’énergie magique. Chaque créature dans une @Template[type:emanation|distance:10]{émanation de 3 m} doit faire un jet de @Check[type:fortitude|dc:35]{Vigueur} DD 35.</p>\n<div data-visibility=\"gm\">\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round.</p>\n</div>"
+        },
+        {
+            "id": "XfQQjjOdt5sRiSb6",
+            "name": "Ma^choires de lion",
+            "items-description": ""
         },
         {
             "id": "qUGNxVPDLyqLK3is",
@@ -8712,6 +8922,16 @@
             "id": "YHERBUpSRZoR3Ox8",
             "name": "Empoignade/Agrippement",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "xD2fbKZSefTlgsmQ",
+            "name": "Vulnérabilité à l'échec",
+            "items-description": "<p>C’est l’orgueil des mariliths qui leur donne leur puissance aussi les échecs les blessent. Si la marilith utilise un sort offensif ou effectue une Frappe au cours de son tour mais qu’elle n’inflige aucun dégât, elle subit [[/r {3d6+10}[mental]]]{3d6+10 dégâts mentaux} à la fin de son tour et son aura du commandant se désactive jusqu’à la fin de son prochain tour.</p>"
+        },
+        {
+            "id": "AWS8p85NHI3IGL2n",
+            "name": "Domination",
+            "items-description": "<p>Le vampire peut lancer <em>@Compendium[pf2e.spells-srd.OsOhx3TGIZ7AhD0P]{Domination}</em> à volonté comme un sort inné divin. Pour cela, il doit regarder la victime dans les yeux, ce qui donne au sort le trait visuel avec un DD 22. Si la victime réussit son jet, elle est immunisée contre la Domination de ce vampire pendant 24 heures.</p>\n<p>La <em>Domination</em> prend fin si le vampire est complètement détruit, mais s’il est seulement réduit à 0 PV, le sort n’est pas rompu.</p>"
         },
         {
             "id": "lOGhyEufGuD2T8aX",
@@ -8899,6 +9119,11 @@
             "items-description": "<p>Les dégâts sont contondants.</p>"
         },
         {
+            "id": "uK5eIAdOWiayEgWr",
+            "name": "Rayon de lumière",
+            "items-description": ""
+        },
+        {
             "id": "Bie1u5IuxXpAhbC7",
             "name": "Mâchoires",
             "items-description": ""
@@ -8976,6 +9201,11 @@
         {
             "id": "MY6hTtpdYnUlbipf",
             "name": "Mâchoires",
+            "items-description": ""
+        },
+        {
+            "id": "mf1G3pa8hN8LNJ4n",
+            "name": "Feuille",
             "items-description": ""
         },
         {
@@ -9154,6 +9384,11 @@
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:27]{Volonté} DD 27</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
+            "id": "t3USaq2CKWLoaP9A",
+            "name": "Régénération 50 (Désactivée par le Bien)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+        },
+        {
             "id": "TVLAYoQrAgNovOAr",
             "name": "débris",
             "items-description": ""
@@ -9199,6 +9434,11 @@
             "items-description": ""
         },
         {
+            "id": "I0GaQls3ghJMJ5Ib",
+            "name": "Enfants de la nuit",
+            "items-description": "<p>La présence du vampire attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{nuées de rats}, de @Compendium[pf2e.pathfinder-bestiary.VAWmwDA08ZLQd8lW]{nuées de chauves-souris} et de @Compendium[pf2e.pathfinder-bestiary.Oilfs8Atv2LjAsUS]{loups}, mais il peut y avoir d’autres créatures.</p>\n<p>Le vampire peut leur donner des ordres par télépathie dans un rayon de 30 m, mais elles ne peuvent pas communiquer en retour.</p>"
+        },
+        {
             "id": "g6xJoBw3WBMO4VqW",
             "name": "Griffe",
             "items-description": ""
@@ -9209,6 +9449,11 @@
             "items-description": ""
         },
         {
+            "id": "4k5fQuKObwYhz1PU",
+            "name": "Mâchoires",
+            "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d6.success]</p>"
+        },
+        {
             "id": "8x287oYylzurAA7X",
             "name": "Mâchoires",
             "items-description": ""
@@ -9217,6 +9462,11 @@
             "id": "6fRxttEYXtfGW1OF",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "h4fFfvaiDiqgTpTz",
+            "name": "Reconstruction",
+            "items-description": "<p>Quand une momie pharaon est détruite, des énergies né  cromantiques reconstruisent son corps dans sa tombe en [[/br 1d10 #Reconstruction]]{1d10 jours}. Si le corps en train de se re  constituer est détruit pendant ce temps, le processus recommence. Une momie pharaon tuée ne peut être détruite pour de bon qu’avec un rituel <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Consécration}</em>.</p>"
         },
         {
             "id": "7h8dpLvJlgmuZE2b",
@@ -9329,6 +9579,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "AsXbDxRSKFmiQ6jb",
+            "name": "Morsure affaiblissante",
+            "items-description": "<p>Si la Frappe de mâchoires du shemhazian inflige des dégâts à une créature, la cible subit l’état @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 3}. La cible peut tenter un jet de @Check[type:fortitude|dc:37]{Vigueur} DD 37 pour réduire cet état à @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} (ou pour ne pas être affectée avec un succès critique).</p>"
+        },
+        {
             "id": "z4WS8tZWux7BE3D7",
             "name": "Bonus de statut de +1 jds contre magie",
             "items-description": ""
@@ -9429,6 +9684,11 @@
             "items-description": ""
         },
         {
+            "id": "uznmLfSkP5j9qOEA",
+            "name": "Arme en main",
+            "items-description": "<p>Le guerrier drow dégaine une arme en utilisant une action Interagir, puis Frappe avec cette arme.</p>"
+        },
+        {
             "id": "5ulvx0zqprJryzvq",
             "name": "Attaque d'opportunité",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -9462,6 +9722,11 @@
             "id": "K2aOOR33x8FPHyVI",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "4vfOgL2x3vJgpsBu",
+            "name": "Planer",
+            "items-description": "<p>Le léchi plane dans les airs se déplaçant horizontalement de 7,5 m et de 1,5 m vers le sol. Tant que le léchi utilise au moins 1 action à planer au cours de chaque round, il reste dans les airs à la fin de chaque tour. Pour déterminer les dégâts d’une chute, le léchi de feuilles réduit toujours la hauteur de chute de 6 m.</p>"
         },
         {
             "id": "OFtZ11CEYiceib4W",
@@ -9794,6 +10059,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "4eIvZ5FrB8u5CTbJ",
+            "name": "Déluge de tentacules",
+            "items-description": "<p>Le maître voilé se déchaîne avec ses tentacules. Effectuez une Frappe de tentacules contre chaque créature à portée. N’effectuez qu’un seul jet d’attaque et ne déterminez qu’une seule fois les dégâts pour toutes les cibles.</p>"
+        },
+        {
             "id": "bzNpoAXw0BCP1dGK",
             "name": "Renversement amélioré",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
@@ -9859,6 +10129,11 @@
             "items-description": "<p>Mâchoires seulement</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "aeZh7jl8AKKWs8Qv",
+            "name": "Rouille",
+            "items-description": "<p>L’antenne d’un oxydeur possède le pouvoir de faire rouiller et se corroder rapidement les métaux. Si un oxydeur réussit une Frappe d’antenne ou une tentative de Désarmement à l’aide d’une antenne, il inflige [[/r {2d6}]]{2d6 dégâts} (doublés en cas de coup critique) à un objet de métal que sa cible porte sur elle ou tient en main, en ignorant sa Solidité.</p>\n<p>Si l’oxydeur frappe un objet non porté, celui-ci subit automatiquement les dégâts indiqués. Si une créature fait appel à la réaction @Compendium[pf2e.feats-srd.jM72TjJ965jocBV8]{Blocage au bouclier} et utilise un bouclier de métal face à l’attaque d’antenne, le bouclier est automatiquement brisé, mais aucun autre objet n’est rouillé par cette attaque.</p>"
+        },
+        {
             "id": "wya8y6adOGTfI5jX",
             "name": "Changement de forme",
             "items-description": "<p>La guenaude de la nuit peut prendre l'apparence de toute femelle humanoïde de taille Moyenne. Cela ne change ni sa vitesse, ni ses attaques et ses bonus aux dégâts avec ses Frappes mais cela pourrait changer le type de dégâts sque ses Frappes infligent (les rendant typiquement contondants).</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
@@ -9874,6 +10149,11 @@
             "items-description": ""
         },
         {
+            "id": "iEPnPUyNUxfYs63B",
+            "name": "Attaque d'opportunité",
+            "items-description": "<p>Une marilith gagne 5 réactions supplémentaires par round qu’elle ne peut utiliser que pour effectuer des Attaques d’opportunité. Le démon ne peut en utiliser plus d’une pour la même action de déclenchement même si une créa  ture quitte plusieurs cases à portée de la marilith ; de plus, la marilith doit utiliser une arme différente pour chaque Attaque d’opportunité.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
+        },
+        {
             "id": "wi645CsJxPLHzqhq",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -9887,6 +10167,11 @@
             "id": "rkM1yAFkUMEFUnsZ",
             "name": "Mâchoires",
             "items-description": ""
+        },
+        {
+            "id": "LfhW8MrjdGdRlQSS",
+            "name": "Vision malgré la fumée",
+            "items-description": "<p>La fumée ne gêne pas la vision du dragon ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
         },
         {
             "id": "wDlRAMig5HNlqg3q",
@@ -9952,6 +10237,11 @@
             "id": "DRnLEIRSbgIT3V0F",
             "name": "Arbalète de poing",
             "items-description": ""
+        },
+        {
+            "id": "53xmmigXl7qYER3Y",
+            "name": "Imprégnation d'armes",
+            "items-description": "<p>Entre les mains d’une marilith, toute arme devient une arme de <em>@Compendium[pf2e.equipment-srd.KCQRFvUgbyclvOGi]{frappe supérieure} +2</em> constituée de fer froid et d’argent. La marilith, quand elle attaque, peut modifier ses dégâts mauvais en dégâts chaotiques.</p>"
         },
         {
             "id": "eYD6EiiIYvny4Vq2",
@@ -10234,6 +10524,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "kvPHtl3puURCTaGk",
+            "name": "Régurgitation digestive",
+            "items-description": "<p>[[/r {1d6}[splash,acid]]]{1d6 d'éclaboussure d'acide}</p>"
+        },
+        {
             "id": "6xP4wJsTXGXVjqRg",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10326,6 +10621,11 @@
         {
             "id": "S6DALcZPm4YWrvWR",
             "name": "Mâchoires",
+            "items-description": ""
+        },
+        {
+            "id": "BmNxcRZobjNuBKwb",
+            "name": "Survie",
             "items-description": ""
         },
         {
@@ -10452,6 +10752,11 @@
             "id": "Vib8DhTL418GaOhc",
             "name": "Sorts à volonté",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "zxL9Jy3Yap38BQBi",
+            "name": "Manipulation des flammes",
+            "items-description": "<p>Le dragon rouge tente de prendre le contrôle d’un feu magique ou d’un sort de feu dans un rayon de 30 m.</p>\n<p data-visibility=\"gm\">S’il réussit un test de contre (contrer niveau 10, modificateur de contre +32), l’incantateur d’origine perd le contrôle du sort ou du feu magique au profit du dragon et on considère que ce dernier maintient ce sort avec cette action (si cela est applicable). Le dragon peut choisir de mettre un terme au sort au lieu d’en prendre le contrôle.</p>"
         },
         {
             "id": "PIznHIEc3sGmoAUM",
@@ -10814,6 +11119,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4NNU4WrjaWJrngyL",
+            "name": "Engloutir",
+            "items-description": "<p>@Check[type:reflex|dc:35|traits:damaging-effect]{Réflexes} DD 35, [[/r {4d12}[bludgeoning]]]{4d12 dégâts contondants} et <em>@Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]{Ancre Dimensionnelle}</em>, S'échapper DD 32, Rupture 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
+        },
+        {
             "id": "lLwtc5h1JK4M6Nzi",
             "name": "Renversement",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
@@ -11052,6 +11362,11 @@
             "id": "FyUL1Dfsy8YJIJH4",
             "name": "Filament collant",
             "items-description": "<p>Toute créature touchée par une attaque de filament d’enlaceur se trouve dans les états @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} et @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoignée/Agrippé}. Chaque coup de filament supplémentaire augmente l’intensité de l’état affaibli de 1 (jusqu’à une intensité maximum d’affaibli 4). L’intensité de cet état affaibli est réduite de 1 toutes les 8 h. L’enlaceur peut se déplacer tout en maintenant une créature empoignée dans un filament, mais il relâche automatiquement la créature si son déplacement lui fait dépasser l’allonge du filament. L’enlaceur peut relâcher une créature empoignée par une action gratuite. Une créature peut trancher un filament si elle réussit une attaque face à un CA de 27 et qu’elle inflige au moins 18 dégâts tranchants. L’enlaceur lui-même n’est pas blessé par cette attaque, mais il ne pourra pas utiliser un filament tranché pour attaquer.</p>"
+        },
+        {
+            "id": "4WUyRzJH8pu1zq5J",
+            "name": "Canalisation de la putréfaction",
+            "items-description": "<p>La momie pharaon peut transmettre une putréfaction insidieuse de momie avec les armes de corps à corps qu’elle utilise.</p>"
         },
         {
             "id": "tvFxmbJKPxnCnTbb",
@@ -11369,6 +11684,11 @@
             "items-description": ""
         },
         {
+            "id": "9nfzrmPzAAStRjAe",
+            "name": "Arme en main",
+            "items-description": "<p>Le roublard drow dégaine une arme en utilisant une action Interagir, puis Frappe avec cette arme.</p>"
+        },
+        {
             "id": "g4bJ3hTpL9J2uQKp",
             "name": "Attaque d'opportunité",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
@@ -11457,6 +11777,11 @@
             "id": "2UpzHQ985k9cDkOT",
             "name": "Célérité",
             "items-description": "<p>Le déplacement du tourbillon vivant ne déclenche pas de réactions.</p>"
+        },
+        {
+            "id": "svh3YWWgNYDh2wu5",
+            "name": "Épée longue de pierre",
+            "items-description": ""
         },
         {
             "id": "MVhuX4yQFrWGRGUi",
@@ -11564,6 +11889,16 @@
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:40]{Volonté} DD 40</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
         },
         {
+            "id": "iuyYNQtDMprDDoZH",
+            "name": "Fuite brumeuse",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le vampire est réduit à 0 PV.</p>\n<hr />\n<p><strong>Effet</strong> Le vampire utilise Se changer en brume. Il peut faire une action de mouvement en direction de son cercueil même s’il est à 0 PV. À 0 PV sous cette forme, les dégâts ne l’affectent plus.</p>\n<p>Il reprend automatiquement une forme tangible et se trouve inconscient s’il atteint son cercueil ou au bout de 2 h, selon ce qui se produit en premier.</p>"
+        },
+        {
+            "id": "s9Lpslvp7eJbAjWr",
+            "name": "Réorientation du feu",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature dans un rayon de 30 m lance un sort de feu ou un sort de feu se manifeste à partir d’une source située dans un rayon de 30 m.</p>\n<p><strong>Effet</strong> Le dragon prend toutes les décisions pour désigner les cibles, la destination ou les autres effets du sort comme s’il l’avait incanté.</p>"
+        },
+        {
             "id": "4EXgRMqNIRLXxB1c",
             "name": "Arc court",
             "items-description": ""
@@ -11572,6 +11907,11 @@
             "id": "7EDZA6PRAkgmOYfB",
             "name": "Vision à 360°",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "czqtIybNHs8mmEeg",
+            "name": "Création de rejeton",
+            "items-description": "<p>Si une créature meurt après avoir été réduite à 0 PV par Boire le sang, le vampire peut la changer en un vampire s’il lui donne un peu de son propre sang et qu’elle reste enterrée pendant 3 nuits.</p>\n<p>Si le nouveau vampire est d’un niveau inférieur à celui de son créateur, il est sous le contrôle de ce dernier. Si un vampire contrôle trop de rejetons à la fois (selon l’avis du MJ), les plus opiniâtres peuvent se libérer en réussissant un jet de @Check[type:will|name:Échapper au contrôle]{Volonté} contre le DD de volonté du vampire.</p>"
         },
         {
             "id": "rwK2kJnSkkWTKSwP",
@@ -11662,6 +12002,11 @@
             "id": "ikNRBFaxo41oGwAQ",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "55Hvc61MUgVoahwb",
+            "name": "Avantage du terrain",
+            "items-description": "<p>Les créatures autres que les hommes-lézards situées sur un terrain difficile ou situées dans l’eau et dépourvues d’une Vitesse de nage sont @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} face à l'éclaireur homme-lézard.</p>"
         },
         {
             "id": "vGCCZICFjOj2u4Dh",
@@ -11762,6 +12107,11 @@
             "id": "n06PGBhrUKKUVnsV",
             "name": "Renversement",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
+        },
+        {
+            "id": "IoAJluZoGb9mgLGv",
+            "name": "Inexorable",
+            "items-description": "<p> Le ver pourpre se remet des états @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysé}, @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} et @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdi} à la fin de son tour.  Il est également immunisé contre les malus à sa Vitesse et l’état @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisée} et il ignore le terrain difficile et les terrains très difficiles.</p>"
         },
         {
             "id": "YcE1Kg1c0njojA8b",
@@ -12159,6 +12509,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "sTnyQQeOWiyHDhNt",
+            "name": "Venin de naga gardien",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:29]{Vigueur} DD 29</p>\n<hr />\n<p><strong>Durée maximale </strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {3d6}[poison]]]{3d6 dégâts de poison} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {3d6}[poison]]]{3d6 dégâts de poison} et @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 1} (1 round)</p>"
+        },
+        {
             "id": "jKUKY0ByHy5vvU8u",
             "name": "Arc long",
             "items-description": ""
@@ -12167,6 +12522,11 @@
             "id": "DOWxg5PQXXUG8Ddy",
             "name": "Bec",
             "items-description": ""
+        },
+        {
+            "id": "4P8IOAM51aWrHmLb",
+            "name": "Vulnérabilité aux haches",
+            "items-description": "<p>Les haches infligent 5 points de dégâts supplémentaires aux arbres éveillés.</p>"
         },
         {
             "id": "vJesB2gBXUdU1CMN",
@@ -12207,6 +12567,11 @@
             "id": "I6eF9oDAdSJChUG3",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "crXV18abZr2DcEh8",
+            "name": "Régurgitation",
+            "items-description": "<p>Le ver pourpre peut régurgiter violemment une créature ou un rocher qu’il a gobé pour effectuer une Frappe à distance. La Frappe inflige des dégâts contondants qui dépendent de la taille du projectile : Très Petite [[/r {2d6+13}[bludgeoning]]]{2d6+13}, Petite [[/r {2d6+13}[bludgeoning]]]{3d6+13}, Moyenne [[/r {2d6+13}[bludgeoning]]]{4d6+13}, Grande [[/r {2d6+13}[bludgeoning]]]{5d6+13} et Très Grande [[/r {2d6+13}[bludgeoning]]]{6d6+13}. Une créature régurgitée subit des dégâts de chute. Cette chute est de 6 m ou égale à la taille de la cible si cette dernière est plus grande.</p>\n<p>Dans l’estomac du ver, les rochers prennent autant de place que des créatures d’une taille similaire et les vers en ont gobé plusieurs. Un ver pourpre peut utiliser une action unique pour gober un nouveau rocher.</p>"
         },
         {
             "id": "V1nFWeg7OxNxkntU",
@@ -12282,6 +12647,11 @@
             "id": "7LQPJRBvruncsAz1",
             "name": "Cornes",
             "items-description": ""
+        },
+        {
+            "id": "OaKZ88EQ5UVii9xw",
+            "name": "Domination des morts-vivants",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 m}</p>\n<hr />\n<p>Les créatures com  mandées ou alliées dans l’aura qui ont un niveau inférieur à celui de la momie pha  raon gagnent un bonus de circonstances de +1 à leurs jets d’attaque et de dégâts, à leur CA, à leurs jets de sauvegarde et à leurs tests de compétence.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.4M2K16mH4gndHAKa]{Effet : Domination des morts-vivants}</p>"
         },
         {
             "id": "8B4xwRLas4rp2NnR",
@@ -12529,6 +12899,11 @@
             "items-description": ""
         },
         {
+            "id": "4N1vw9fFoiAgxSn1",
+            "name": "Frappes en vol",
+            "items-description": "<p>Le roc vole sur une distance maximale égale à sa Vitesse et porte deux Frappes de serres à n’importe quel moment durant son déplacement. Chaque Frappe doit cibler une créature différente. Chaque attaque est soumise normalement à la pénalité d’attaques multiples.</p>"
+        },
+        {
             "id": "mbkNd6gFHEqUiVeO",
             "name": "Bonus de statut de +1 jds contre magie",
             "items-description": ""
@@ -12634,6 +13009,11 @@
             "items-description": ""
         },
         {
+            "id": "YeXnVtwRynKtKDVy",
+            "name": "Assaut défensif",
+            "items-description": "<p>La marilith effectue deux Frappes, avec deux armes différentes, et utilise ses autres armes pour se protéger. Le démon gagne pendant 1 round un bonus de circonstances à sa CA égal au nombre d’armes qui ne sont pas utilisées pour les attaques. Si la marilith utilise ultérieure  ment une de ces armes pour attaquer (y compris pour une Attaque d’opportunité), le bonus à sa CA est réduit de 1 point par arme utilisée.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.pMPe01GWvfwcYwUR]{Effet : Assaut défensif}</p>"
+        },
+        {
             "id": "a7b4jERQkCw4Wcb8",
             "name": "Queue",
             "items-description": ""
@@ -12659,6 +13039,16 @@
             "items-description": ""
         },
         {
+            "id": "T56PSO8KBNKDvOCc",
+            "name": "Rayon de lumière",
+            "items-description": ""
+        },
+        {
+            "id": "rw75XVfj9XlY7JGq",
+            "name": "Frénésie draconique",
+            "items-description": "<p> Le drake effectue une Frappes de crocs et deux Frappes de dard dans l’ordre qu’il veut.</p>"
+        },
+        {
             "id": "Fn227VCdI0YQvtkg",
             "name": "Présence terrifiante",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 m} @Check[type:will|dc:26]{Volonté} DD 26</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
@@ -12667,6 +13057,16 @@
             "id": "AFLPUVObYcXb0ATY",
             "name": "Bec",
             "items-description": ""
+        },
+        {
+            "id": "4pbTTxqHWnbnAW7T",
+            "name": "Serviteurs arachnides",
+            "items-description": "<p> La morrigna invoque une @Compendium[pf2e.pathfinder-bestiary.9X7hOvCKy1bqw0g6]{tarentule géante} ou une @Compendium[pf2e.pathfinder-bestiary.KpxhSWRIhG7ns5NA]{nuée d’araignées}. Ces araignées ont le trait convoqué et restent 10 minutes ou jusqu’à ce qu’elles tombent à 0 PV.</p>\n<p>La morrigna n’a pas besoin de Maintenir le sort pour commander ces créatures convoquées et elle peut avoir n’importe quel nombre d’araignées convoquées en même temps.</p> \n<p>À n’importe quel moment, elle peut voir à travers les yeux de n’importe laquelle des araignées convoquées. </p>"
+        },
+        {
+            "id": "zl24K9E3qEAfVXrR",
+            "name": "Se changer en brume",
+            "items-description": "<p>Le vampire se change en nuage de vapeur, comme avec le sort <em>@Compendium[pf2e.spells-srd.V8wXOsoejQhe6CyG]{Forme gazeuse} ou reprend sa forme normale. Tant que le vampire est sous <em>Forme gazeuse</em>, il perd sa guérison accélérée.</p>\n<p>Il peut rester indéfiniment ainsi.</p>"
         },
         {
             "id": "1TeUoHVS0bkCD9jX",
@@ -12729,8 +13129,18 @@
             "items-description": "<p>Petite, [[/r {1d6+2}[bludgeoning]{1d6+2 dégâts contondants}, Rupture 9</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
+            "id": "EbuMoQ5idyQJDEXD",
+            "name": "Regard paralysant",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m} </p>\n<hr />\n<p>Toute créature non mauvaise qui termine son tour dans l’aura doit tenter un jet de @Check[type:fortitude|dc:35]{Vigueur} DD 35. Si elle échoue, elle est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentie 1} pendant 1 round et, en cas d’échec critique, elle est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 1 round.</p>"
+        },
+        {
             "id": "qFvtSo4GpY09J6wr",
             "name": "Dague",
+            "items-description": ""
+        },
+        {
+            "id": "VQu2kLUgSRrCTMRP",
+            "name": "Duperie",
             "items-description": ""
         },
         {
@@ -12782,6 +13192,11 @@
             "id": "0mOkmWdA59zQVh9W",
             "name": "Sorts à volonté",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "50Meu5uWTOPYtMu6",
+            "name": "Régénération 20 (Désactivée par l'acide ou le feu)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
         },
         {
             "id": "OzGatkJy0uyM9zZJ",
@@ -12872,6 +13287,11 @@
             "id": "HNM58d8JH28lGstw",
             "name": "Sabot",
             "items-description": ""
+        },
+        {
+            "id": "3XJEBmHGHfUj7TbN",
+            "name": "Plainte pitoyable",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:60]{18 m}</p>\n<hr />\n<p>Toute créature qui n’est pas un grothlut qui entre ou commence son tour dans la zone doit réussir un jet de @Check[type:will|dc:17]{Volonté} DD 17 ou être @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} en cas d’échec critique). Ensuite, la cible est temporairement immunisée pendant 1 minute.</p>\n<p>Le grothlut peut activer ou désactiver l’aura en utilisant une seule action unique qui a le trait concentration. Généralement, un grothlut ne commence pas à geindre tant qu’il n’a pas senti la présence d’une créature qui n’est pas un grothlut et, le plus souvent, il cesse dès qu’il ne perçoit plus la présence de telles créatures.</p>"
         },
         {
             "id": "dpljRBjacJBvCCw1",
@@ -13024,6 +13444,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
         },
         {
+            "id": "47dklzJrGaCDSZ2N",
+            "name": "Perception des vibrations (imprécis) 9 m (créatures touchant sa toile)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
+        },
+        {
             "id": "v9Xt73Wj9wclc3ef",
             "name": "Javelot",
             "items-description": ""
@@ -13084,6 +13509,16 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
         },
         {
+            "id": "LDExFIGLfarrbJQa",
+            "name": "Vitesse augmentée",
+            "items-description": "<p>Le drake de la jungle se déplace à deux fois sa Vitesse. Il ne peut le faire que trois fois par jour.</p>"
+        },
+        {
+            "id": "TjOmyfilNvHKI58M",
+            "name": "Enfants de la nuit",
+            "items-description": "<p>La présence du vampire attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{nuées de rats}, de @Compendium[pf2e.pathfinder-bestiary.VAWmwDA08ZLQd8lW]{nuées de chauves-souris} et de @Compendium[pf2e.pathfinder-bestiary.Oilfs8Atv2LjAsUS]{loups}, mais il peut y avoir d’autres créatures.</p>\n<p>Le vampire peut leur donner des ordres par télépathie dans un rayon de 30 m, mais elles ne peuvent pas communiquer en retour.</p>"
+        },
+        {
             "id": "5prFU0v8oG5s1kHj",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -13097,6 +13532,11 @@
             "id": "qqGsZZCFNTIdlk8l",
             "name": "Odorat (imprécis) 18 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "53LkbbyoyISSppMe",
+            "name": "Venin de ver pourpre",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:32]{Vigueur} DD 32</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {5d6}[poison]]]{5d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {6d6}[poison]]]{6d6 dégâts de poison} et Affaiblie 2 (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {8d6}[poison]]]{8d6 dégâts de poison} et Affaiblie 2 (1 round)</p>\n</div>"
         },
         {
             "id": "9InxDbn3EL8Jsg7a",
@@ -13434,6 +13874,11 @@
             "items-description": ""
         },
         {
+            "id": "9ewh7tMyC0NRIpZx",
+            "name": "Drain d'objet lié",
+            "items-description": "<div data-visibility=\"gm\">\n<p><strong>Fréquence</strong> Une fois par jour</p>\n<p><strong>Conditions</strong> Le vampire n'a pas encore agi lors de ce tour.</p>\n</div>\n<p><strong>Effet</strong> Le vampire puise dans le pouvoir enfermé dans sa chevalière. Il peut alors lancer un sort préparé déjà lancé dans la journée, sans avoir à dépenser un emplacement de sort. Il doit tout de même Lancer le sort et remplir ses autres conditions..</p>"
+        },
+        {
             "id": "T6CjPHrd4XMeWpiE",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -13562,6 +14007,11 @@
             "id": "a0noDtcOBbRDMiow",
             "name": "Odorat (imprécis) 9 m",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "3WumD6XU2ACGghbI",
+            "name": "Bonus de circonstances de +2 aux jds contre rêve et sommeil",
+            "items-description": ""
         },
         {
             "id": "WBvBXluaSwwxLaJ4",
@@ -13832,6 +14282,11 @@
             "id": "DyABhSgZNJ3ICo85",
             "name": "Lance",
             "items-description": ""
+        },
+        {
+            "id": "4ESvAYPL0OBd4s6Q",
+            "name": "Gestalt",
+            "items-description": "<p>Neuf archons lumineux peuvent utiliser ce pouvoir, dans un intervalle d’1 round du premier, pour fusionner afin de constituer un être composite pendant 7 rounds qui apparaît sous la forme d’un éclatant combattant de lumière.</p>\n<p>Le gestalt a les caractéristiques de base d’un archon légionnaire (CA, jets de sauvegarde, attaques, compétences, Vitesses et ainsi de suite) mais les sorts et les pouvoirs spéciaux d’un archon lumineux. De plus, il dispose d’une Frappe de rayon de lumière à distance (attaque [[/r 1d20+18 #Rayon lumineux]]{+18}, [[/r {3d4}[fire] + {3d4}[good] # Rayon lumineux]]{3d4 dégâts de feu et 3d4 dégâts bons) et son bonus de Lanterne d’espoir passe à +3.</p>\n<p>Quand le gestalt se disperse, les points de vie qui lui restent sont divisés équitablement entre les archons lumineux et si un gestalt a moins de 9 PV, certains archons lumineux meurent.</p>"
         },
         {
             "id": "WeXirhh6gD0DCTGB",
@@ -14134,6 +14589,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "4rs5uETeGIZjVUCC",
+            "name": "Derviche dimensionnel",
+            "items-description": "<p>Un balor peut lancer son sort inné de <em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle</em> au niveau 5 avec une action unique.</p>"
+        },
+        {
             "id": "4gDOqdD5endao3AS",
             "name": "Survie",
             "items-description": ""
@@ -14329,6 +14789,11 @@
             "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le doppelganger est transformé avec Changement de forme et une autre créature se déplace et lui est adjacente ou effectue une action hostile contre lui.</p>\n<hr />\n<p><strong>Effet</strong> Le doppelganger reprend sa forme naturelle et peut effectuer une Frappe contre la créature ayant déclenché ce pouvoir. Si la créature ignorait que le doppelganger était transformé, elle est @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} contre cette attaque.</p>"
         },
         {
+            "id": "55EdzLqRdJ3A5Win",
+            "name": "Élan draconique",
+            "items-description": "<p>Lorsque le dragon d'or obtient un coup critique avec une Frappe, il recharge son Arme de souffle.</p>"
+        },
+        {
             "id": "p1oWXCxvOv782fSp",
             "name": "Javelot",
             "items-description": ""
@@ -14489,9 +14954,19 @@
             "items-description": ""
         },
         {
+            "id": "A6gmij9OXIW0o9vj",
+            "name": "Venin de mille-pattes géant",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:17]{Vigueur DD 17}</p>\n<hr />\n<p><strong>Durée maximale</strong> 6 rounds</p> \n<p><strong>Stade 1</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {1d8}[poison]]]{1d8 dégâts de poison} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {1d12}[poison]]]{1d12 dégâts de poison}, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} et Pris au dépourvu (1 round)</p>"
+        },
+        {
             "id": "hook1XGZNlxXtjvJ",
             "name": "Crocs",
             "items-description": ""
+        },
+        {
+            "id": "kiLj66ryWPKBgZKh",
+            "name": "Déplacement facilité en forêt",
+            "items-description": "<p>Le drake de la jungle ignore les terrains difficiles et les terrains très difficiles dus à une végétation non magique.</p>"
         },
         {
             "id": "aPpWgGl2IQgPJjH1",

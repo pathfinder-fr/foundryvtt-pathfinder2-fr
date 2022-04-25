@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 109
- * **changé**: 114
+ * **libre**: 129
+ * **changé**: 94
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -39,26 +39,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[CnDEoo6WruQCXo1o.htm](deities/CnDEoo6WruQCXo1o.htm)|Lubaiko|Lubaiko|changé|
 |[gutbzYTZvRTnq4on.htm](deities/gutbzYTZvRTnq4on.htm)|Adanye|Adanye|changé|
 |[kiTcZxmKxGPCwDpg.htm](deities/kiTcZxmKxGPCwDpg.htm)|Kalekot|Kalekot|changé|
-|[lSciGZGcbU9PJxQy.htm](deities/lSciGZGcbU9PJxQy.htm)|Irez|Irèz|changé|
-|[lUFMwdv1UOyzFhIM.htm](deities/lUFMwdv1UOyzFhIM.htm)|Likha|Likha|changé|
-|[lZ74P8kUA1ti808w.htm](deities/lZ74P8kUA1ti808w.htm)|Prophecies of Kalistrade|Prohéties de Kalistrade|changé|
-|[M3eb94Nd6uXti2IK.htm](deities/M3eb94Nd6uXti2IK.htm)|Daikitsu|Daikitsu|changé|
-|[MbJ93Nw39h2cBYi5.htm](deities/MbJ93Nw39h2cBYi5.htm)|Lao Shu Po|Lao Shu Po|changé|
-|[McUqN13BGLTpYWCg.htm](deities/McUqN13BGLTpYWCg.htm)|Green Man|Homme vert|changé|
-|[mebdNVKeKuTmDDHj.htm](deities/mebdNVKeKuTmDDHj.htm)|Xhamen-Dor|Xhamen-dor|changé|
-|[mm1j6UbHqFCI8fwB.htm](deities/mm1j6UbHqFCI8fwB.htm)|Erastil|Érastil|changé|
-|[Mv6uTJLh3VGEoGLH.htm](deities/Mv6uTJLh3VGEoGLH.htm)|Nivi Rhombodazzle|Nivi Rhomboéblouissante|changé|
-|[N8a76dkGfUvxvSW0.htm](deities/N8a76dkGfUvxvSW0.htm)|Trudd|Trudd|changé|
-|[nsiDGdgbAzkTQzOt.htm](deities/nsiDGdgbAzkTQzOt.htm)|Magrim|Magrim|changé|
-|[nuqIimigyt986WLE.htm](deities/nuqIimigyt986WLE.htm)|The Lantern King|Le roi lanterne|changé|
-|[nuvfUC4TcOvFbKxx.htm](deities/nuvfUC4TcOvFbKxx.htm)|Osiris|Osiris|changé|
-|[o8ayCv3LAHWlu0vQ.htm](deities/o8ayCv3LAHWlu0vQ.htm)|Apsu|Apsu|changé|
-|[o9tK1T28LNEVzpFV.htm](deities/o9tK1T28LNEVzpFV.htm)|Ragdya|Ragdya|changé|
-|[oduHa5yyTisFsIRD.htm](deities/oduHa5yyTisFsIRD.htm)|God Calling|Appel de dieu|changé|
-|[oiEo6tDP3gICHtfZ.htm](deities/oiEo6tDP3gICHtfZ.htm)|Barbatos|Barbatos|changé|
-|[oJPwMa9xG8oMnC14.htm](deities/oJPwMa9xG8oMnC14.htm)|Apollyon|Apollyon|changé|
-|[OlVCyRgOaPJji4qt.htm](deities/OlVCyRgOaPJji4qt.htm)|Chohar|Chohar|changé|
-|[oRvuLq3o2FxXizt9.htm](deities/oRvuLq3o2FxXizt9.htm)|Ghlaunder|Ghlaunder|changé|
 |[oV5cnlPJQS8JfMIg.htm](deities/oV5cnlPJQS8JfMIg.htm)|Cosmic Caravan|Caravane cosmique|changé|
 |[oyp2E685VsQFKMXi.htm](deities/oyp2E685VsQFKMXi.htm)|Dranngvit|Dranngvit|changé|
 |[pCtJONJlhAugUXaG.htm](deities/pCtJONJlhAugUXaG.htm)|Ahriman|Ahriman|changé|
@@ -256,4 +236,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KWVdoAm3b01M8Lcp.htm](deities/KWVdoAm3b01M8Lcp.htm)|Mephistopheles|Méphistophélès (Archidiable)|libre|
 |[liXIbl7y8www2eAn.htm](deities/liXIbl7y8www2eAn.htm)|Findeladlara|Findeladlara (Dieu elfique)|libre|
 |[LLMTMgARSTlO7S9U.htm](deities/LLMTMgARSTlO7S9U.htm)|Zyphus|Zyphus|libre|
+|[lSciGZGcbU9PJxQy.htm](deities/lSciGZGcbU9PJxQy.htm)|Irez|Irèz (Seigneur Empyréen)|libre|
+|[lUFMwdv1UOyzFhIM.htm](deities/lUFMwdv1UOyzFhIM.htm)|Likha|Likha (Dieu Vudrain)|libre|
+|[lZ74P8kUA1ti808w.htm](deities/lZ74P8kUA1ti808w.htm)|Prophecies of Kalistrade|Prohéties de Kalistrade|libre|
+|[M3eb94Nd6uXti2IK.htm](deities/M3eb94Nd6uXti2IK.htm)|Daikitsu|Daikitsu (Dieu Tianais)|libre|
+|[MbJ93Nw39h2cBYi5.htm](deities/MbJ93Nw39h2cBYi5.htm)|Lao Shu Po|Lao Shu Po (Dieu Tianais)|libre|
+|[McUqN13BGLTpYWCg.htm](deities/McUqN13BGLTpYWCg.htm)|Green Man|Homme vert|libre|
+|[mebdNVKeKuTmDDHj.htm](deities/mebdNVKeKuTmDDHj.htm)|Xhamen-Dor|Xhamen-dor (Dieux extérieur et grand ancien)|libre|
+|[mm1j6UbHqFCI8fwB.htm](deities/mm1j6UbHqFCI8fwB.htm)|Erastil|Érastil (Mer Intérieure)|libre|
+|[Mv6uTJLh3VGEoGLH.htm](deities/Mv6uTJLh3VGEoGLH.htm)|Nivi Rhombodazzle|Nivi Rhomboéblouissante (Mer Intérieure)|libre|
+|[N8a76dkGfUvxvSW0.htm](deities/N8a76dkGfUvxvSW0.htm)|Trudd|Trudd (Dieu Nain)|libre|
+|[nsiDGdgbAzkTQzOt.htm](deities/nsiDGdgbAzkTQzOt.htm)|Magrim|Magrim (Dieu Nain)|libre|
+|[nuqIimigyt986WLE.htm](deities/nuqIimigyt986WLE.htm)|The Lantern King|Le roi lanterne (Aîné)|libre|
+|[nuvfUC4TcOvFbKxx.htm](deities/nuvfUC4TcOvFbKxx.htm)|Osiris|Osiris (Ancien dieu osirien)|libre|
+|[o8ayCv3LAHWlu0vQ.htm](deities/o8ayCv3LAHWlu0vQ.htm)|Apsu|Apsu|libre|
+|[o9tK1T28LNEVzpFV.htm](deities/o9tK1T28LNEVzpFV.htm)|Ragdya|Ragdya (Dieu Vudrain)|libre|
+|[oduHa5yyTisFsIRD.htm](deities/oduHa5yyTisFsIRD.htm)|God Calling|Appel des dieux (Sarkariens)|libre|
+|[oiEo6tDP3gICHtfZ.htm](deities/oiEo6tDP3gICHtfZ.htm)|Barbatos|Barbatos (Archidiable)|libre|
+|[oJPwMa9xG8oMnC14.htm](deities/oJPwMa9xG8oMnC14.htm)|Apollyon|Apollyon (Cavalier)|libre|
+|[OlVCyRgOaPJji4qt.htm](deities/OlVCyRgOaPJji4qt.htm)|Chohar|Chohar (Ancien dieu du Soleil)|libre|
+|[oRvuLq3o2FxXizt9.htm](deities/oRvuLq3o2FxXizt9.htm)|Ghlaunder|Ghlaunder (Mer Intérieure)|libre|
 |[vnmoAGURp8oWCY6R.htm](deities/vnmoAGURp8oWCY6R.htm)|Soralyon|Soralyon (Seigneur Empyréen)|libre|

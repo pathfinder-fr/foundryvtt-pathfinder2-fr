@@ -13,8 +13,8 @@
         },
         {
             "id": "Irez",
-            "name": "Irèz",
-            "description": ""
+            "name": "Irèz (Seigneur Empyréen)",
+            "description": "<p>Les scribes, les cartes à jour, les glyphes et les sorts son du domaine de la Dame des Merveilles Inscrites. Elle connaît et appréhende le symbolisme des runes et le grand pouvoir qu’elles cachent. Elle comprend en particulier la façon dont les runes peuvent compléter et renforcer la magie arcanique. C’est grâce à cette compréhension qu’Irèz est capable d’émettre d’énigmatiques prédictions à propos d’événements dans un futur lointain, qui s’avèrent majoritairement correctes. Beaucoup de ses fidèles sont des calligraphes, des joueurs, des cartomanciens ou d’autres gens qui manient régulièrement des cartes et des symboles, que cela soit dans un but arcanique, prophétique ou beaucoup plus prosaïque. Ceux qui ont vu Irèz, soit en personne soit grâce aux cartes, la décrivent comme une femme avec le corps d’un puissant serpent et de grandes ailes similaires à celles d’une chauve-souris. Elle est en permanence drapée de bandes de parchemin sur lesquelles sont inscrits des glyphes renfermant les secrets de tel sort ou de telle carte, par exemple la carte du Tyran du jeu du tourment.</p>\n<p><strong>Édits</strong> Créer et étudier les runes, pratiquer la calligraphie, prédire l’avenir</p>\n<p><strong>Anathèmes</strong> Détruire des parchemins de magie, écrire délibérément de façon illisible, tricher aux jeux de hasard</p>\n<p><strong>Préoccupations</strong> Glyphes, scribes et sorts</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.l2EFJssJKu7rG77m]{Chance}, @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes}, @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie} </p>"
         },
         {
             "id": "Achaekek",
@@ -123,8 +123,8 @@
         },
         {
             "id": "Apollyon",
-            "name": "Apollyon",
-            "description": ""
+            "name": "Apollyon (Cavalier)",
+            "description": "<p>Le Prince des Fléaux s’est emparé du pouvoir en éliminant consciencieusement tous ses rivaux potentiels après la disparition du précédent Cavalier de la Pestilence. Apollyon dirige sa vaste armée de leukodaémons pour répandre le néant comme un virus. Il méprise la violence triviale et est trop impatient pour attendre que des machinations à longterme portent leurs fruits. Il préfère frapper villes et royaumes d’épidémies de néant, les décimant en quelques jours à la vitesse de l’éclair. Ses plus grandes créations sont des maladies qui corrompent l’âme elle-même et garantissent que Pharasma enverra leurs victimes en Abaddon après leur mort.</p>\n<p>Apollyon est un géant d’allure massive et cabossée avec la tête d’un bélier en décomposition et revêtu de bandes de cuir noir. Sa cape est faite de la peau des anges qui ont tenté de secourir les âmes dont il s’était emparé – après les avoir écorchés vifs, il a gardé sur sa cape leurs visages figés dans une éternelle agonie. Le décès de ses victimes remplit Apollyon non pas de la satisfaction du travail bien fait, mais de pure jubilation malsaine. Il envoie ses porteurs de pestilences partout dans le plan matériel en sachant que même s’ils sont rapidement vaincus, les maladies qu’ils propagent tueront bien plus largement qu’eux-mêmes. Les plaintes et gémissements des souffrants sont autant de prières lui conférant la puissance nécessaire pour lancer sa prochaine maladie sur les vivants.</p>\n<p><strong>Édits</strong> Élever des animaux malades, mettre fin à toute vie mortelle par la maladie et le poison</p>\n<p><strong>Anathèmes</strong> Empêcher les épidémies, enterrer ou brûler les morts</p>\n<p><strong>Préoccupations</strong> Maladie</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.9blxcDLIRPWenK5f]{Pestilence}, @Compendium[pf2e.domains.dnljU1twPjH4KFgO]{Nuée}</p>"
         },
         {
             "id": "Anubis",
@@ -163,8 +163,8 @@
         },
         {
             "id": "Likha",
-            "name": "Likha",
-            "description": ""
+            "name": "Likha (Dieu Vudrain)",
+            "description": "<p><strong>Édits</strong> Adapter des oeuvres anciennes en langue moderne, promouvoir ou participer à des pièces de théâtre et des récitals, raconter l’histoire</p>\n<p><strong>Anathèmes</strong> Démarrer un spectacle ou un conte sans commencer par inviter les dieux à y assister, mimer une mort sur scène</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir} </p>"
         },
         {
             "id": "Diomazul",
@@ -208,13 +208,13 @@
         },
         {
             "id": "Ghlaunder",
-            "name": "Ghlaunder",
-            "description": ""
+            "name": "Ghlaunder (Mer Intérieure)",
+            "description": "<p>Ghlaunder est le dieu de la pestilence, des infections et des insectes. Il ressemble à un moustique géant, déformé et distendu par les parasites qu’il abrite. Il cherche à détruire tout ce qu’il peut et, partout où il passe, il laisse le malaise dans son sillage. Ghlaunder se délecte de la souffrance, surtout celle causée par la maladie, comme le dernier souffle d’air dans des poumons remplis de liquide ou la terreur des rêves enfiévrés. On raconte que le Roi Diaphane était autrefois emmailloté dans un cocon dont il a été libéré par la curieuse Desna à l’aide de sa lamétoile. La déesse s’est depuis lancée à sa poursuite et mène avec lui une sorte de danse macabre entre les plans, au terme de laquelle elle espère réussir à le tuer.</p>\n<p><strong>Édits</strong> Corrompre des parcelles de terre, des sources d’eau et des communautés, infecter les faibles, propager et entretenir les maladies</p>\n<p><strong>Anathèmes</strong> Aider à mettre fin à une épidémie ou à une infection, détruire quelque chose sur-lechamp alors que vous auriez pu le corrompre ou en tirer profit</p>\n<p><strong>Préoccupations</strong> Infections, insectes, parasites et stagnation </p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.9blxcDLIRPWenK5f]{Fléau}, @Compendium[pf2e.domains.dnljU1twPjH4KFgO]{Nuées}"
         },
         {
             "id": "Apsu",
             "name": "Apsu",
-            "description": ""
+            "description": "<p>Sans surprise, la plupart des adorateurs d'Apsu sont des dragons métalliques, bien que certaines créatures draconiques non alignées, comme les dragons primitifs et les wyvernes, le vénèrent également. Peu de dragons pratiquent la magie divine, préférant laisser cela à leurs alliés humanoïdes. Comme le but premier d'Apsu est la destruction de Dahak, peu de non-dragons épousent sa cause, bien que d'honorables humanoïdes s'intéressant à l'histoire draconique aient de temps en temps adopté sa foi. Ils portent généralement une broche en or en forme de pied de dragon, ou ont un autre équipement personnalisé en forme de pied de dragon. Golarion ne dispose pas d'une église humanoïde d'Apsu centralisée. La plus grande congrégation d'humanoïdes adorateurs d'Apsu sur la planète est connue sous le nom de Bande de Platine, qui maintient des centres de culte relativement petits à Oppara et Absalom. Apsu est plus largement vénéré par les humanoïdes sur la planète Triaxus, où il est la divinité protectrice de la Légion des Dragons. Les dirigeants de la Légion interdisent à leurs prêtres de révéler le lien d'Apsu avec Golarion, afin que les jeunes légionnaires ne soient pas tentés de s'y rendre prématurément pour l'aider. Au lieu de cela, ils espèrent lever une grande armée pour offrir Apsu lorsque le moment sera venu pour lui de combattre Dahak...</p>\n<p><strong>Édits</strong> Aider les autres à se débrouiller seuls, débusquer et détruire le mal, parcourir le monde</p>\n<p><strong>Anathèmes</strong> Attaquer une créature sans être certain de ses torts, négliger de poursuivre un ennemi qui a abusé de votre clémence</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.OsM8NfP408uB6yTi]{Parenté dracosire}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage}</p>"
         },
         {
             "id": "Hei Feng",
@@ -273,8 +273,8 @@
         },
         {
             "id": "Ragdya",
-            "name": "Ragdya",
-            "description": ""
+            "name": "Ragdya (Dieu Vudrain)",
+            "description": "<p><strong>Édits</strong> Apporter de l’humour dans la vie, chercher l’illumination par la découverte du monde, faire des farces inoffensives pour instruire les autres</p>\n<p><strong>Anathèmes</strong> Discriminer quelqu’un à cause de son statut social, posséder un esclave, rire de la souffrance de quelqu’un</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.c9odhpRoKId5dXmn]{Perfection}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}</p>"
         },
         {
             "id": "Arazni",
@@ -309,7 +309,7 @@
         {
             "id": "Prophecies of Kalistrade",
             "name": "Prohéties de Kalistrade",
-            "description": ""
+            "description": "<p>Les prophéties séculières de Kalistrade sont célèbres pour leur focalisation exclusive sur l’accumulation de richesses comme moyen de rechercher et de démontrer l’illumination individuelle. Les prophètes de Kalistrade, souvent appelés les kalistocrates, croient que la pureté du corps et de l’esprit mène au succès financier, et s’abstiennent donc de consommer certaines nourritures ou de toucher la plupart des personnes ou des objets, vus comme impurs. Pour éviter la contamination et le contact avec les non-croyants, ils portent de longs gants blancs et une tenue caractéristique toute blanche, signe de leur pureté, souvent marquée de leur symbole, un cercle inscrit dans un triangle lui-même contenu dans un plus grand cercle.</p>\n<p><strong>Édits</strong> Accueillir les nouveaux venus quels que soient leur genre ou leur ascendance, accumuler des richesses personnelles, encourager et aider des entreprises commerciales, rechercher l’illumination par la pureté de soi</p>\n<p><strong>Anathèmes</strong> De nourriture ou de boisson, dépenser de l’argent pour des frivolités, offrir de l’argent à ceux qui ne méritent pas de s’enrichir, pratiquer la charité envers autrui, se laisser aller à des excès en matière de plaisirs physiques</p>\n<p><strong>Préoccupations</strong> Commerce, richesse, abnégation, stabilité</p>"
         },
         {
             "id": "Kostchtchie",
@@ -403,8 +403,8 @@
         },
         {
             "id": "God Calling",
-            "name": "Appel de dieu",
-            "description": ""
+            "name": "Appel des dieux (Sarkariens)",
+            "description": "<p>L’art antique de l’appel des dieux était jadis la principale religion de Sarkaris, bien avant que la Plaie du Monde ne survienne et que les démons ne chassent la plupart des Sarkariens hors de leurs terres natales. Cet art, en même temps religion et théorie magique, permet à certains Sarkariens de convoquer des êtres uniques et extraordinaires depuis le Grand Au-Delà, lesquels protégeront leur clan et guideront leur peuple. Ces créatures sont traditionnellement appelées des dieux par ceux qui les révèrent. Génération après génération, elles reviennent guider leur peuple, du moins tant que quelqu’un ayant été soit formé par un Maître des dieux précédent, soit entraîné d’une façon ou d’une autre à communier avec un dieu particulier, est en vie pour créer un lien avec le plan matériel afin que le dieu puisse se manifester. Ces Maîtres des dieux peuvent posséder des titres ou des noms uniques, qui diffèrent de clan en clan. Toutefois, la plupart des clans sarkariens sont capables d’identifier un Maître des dieux à sa tenue spécifique ou au glyphe qui le relie à son dieu.</p>\n<p><strong>Édits</strong> Les dieux de Sarkaris ont très peu d’édits en commun, sauf les suivants, très fréquents : protéger votre clan et votre peuple, enseigner aux enfants du clan les traditions et les récits relatifs au dieu du clan, noter minutieusement l’apparence et le nom de chaque nouveau dieu quand il se manifeste pour la première fois, afin qu’il ne soit pas oublié et puisse continuer à veiller sur le peuple.</p>\n<p><strong>Anathèmes</strong> Un seul anathème est imposé par absolument tous les dieux de Sarkaris : ne jamais négocier ni conclure un marché avec des démons ; cela vient du fait que l’apparition de la Plaie du Monde a entraîné la destruction de nombreux clans et la perte de nombreux dieux, dont beaucoup ont disparu à jamais.</p>\n<p><strong>Préoccupations</strong> Chaque dieu de ce panthéon a ses propres goûts et intérêts, en général influencés par les attitudes et croyances prédominantes de son clan.</p>"
         },
         {
             "id": "Korada",
@@ -468,8 +468,8 @@
         },
         {
             "id": "Erastil",
-            "name": "Érastil",
-            "description": ""
+            "name": "Érastil (Mer Intérieure)",
+            "description": "<p>À la différence de nombreuses autres divinités du bien, Érastil n’envoie pas ses fidèles combattre le mal. Il préfère veiller sur ceux qui consacrent leur vie à la famille et à leur communauté plutôt que de les envoyer mener des croisades ou autres entreprises les éloignant de leur foyer. Il s’agit principalement d’une divinité agricole, qui s’intéresse particulièrement aux aspects de la nature qui peuvent être apprivoisés ou être utiles à ses fidèles. Ces centres d’intérêt englobent les plantes et les animaux que les agriculteurs, les chasseurs et les éleveurs côtoient dans leur quotidien. Bien qu’il soit un dieu protecteur, Érastil n’intervient directement que lorsque la vie tranquille et pastorale de ses fidèles est menacée. Il leur souhaite en effet une vie pacifique, sans risque de se faire enrôler dans une armée, dévorer par des monstres ou détruire par la magie.</p>\n<p><strong>Édits</strong> Veiller sur sa maison et sa famille, accomplir ses devoirs, maintenir la paix, protéger la communauté</p>\n<p><strong>Anathèmes</strong> Abandonner son foyer lors d’une période difficile, faire passer sa propre personne avant sa communauté, ternir sa réputation, mentir</p>\n<p><strong>Préoccupations</strong> Famille, agriculture, chasse et commerce</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}</p>"
         },
         {
             "id": "Soralyon",
@@ -633,8 +633,8 @@
         },
         {
             "id": "Trudd",
-            "name": "Trudd",
-            "description": ""
+            "name": "Trudd (Dieu Nain)",
+            "description": "<p>Trudd est une divinité presque entièrement vénérée par les nains. Il est le plus jeune fils de la principale divinité naine, Torag. Malgré son âge relativement jeune, Trudd est la divinité la plus puissante du panthéon nain et, par conséquent, il est souvent chargé de garder les salles de son père lorsque Torag est absent. Pour un nain, Trudd porte une barbe remarquablement courte, ce qui a donné lieu à de nombreuses histoires, dont une selon laquelle il l'aurait vendue pour obtenir un avantage inconnu.</p>\n<p><strong>Édits</strong> Mettre sa force au service des autres, protéger les plus faibles que soi</p>\n<p><strong>Anathèmes</strong> Se livrer à des démonstrations de force mesquines, utiliser sa force pour profiter des autres/p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}</p>"
         },
         {
             "id": "Ashava",
@@ -673,8 +673,8 @@
         },
         {
             "id": "Nivi Rhombodazzle",
-            "name": "Nivi Rhomboéblouissante",
-            "description": ""
+            "name": "Nivi Rhomboéblouissante (Mer Intérieure)",
+            "description": "<p>Déesse des gemmes, de la discrétion et des paris, Nivi Rhomboéblouissante est la définition même de la flambeuse. On raconte qu’elle a gagné sa divinité grâce au dieu nain Torag en échange d’une pierre précieuse. Elle était autrefois une gnome mortelle qui raffolait de l’adrénaline d’un pari excitant, même quand la chance se retournait contre elle. Il arriva un moment où les dettes de Nivi devinrent trop importantes pour qu’elle reste à la surface et elle prit donc la fuite en Ombreterre pour échapper à ses créanciers. La plupart de ses aventures dans ces contrées obscures se sont perdues au fil du temps. On sait seulement qu’elle en a émergé sous la forme d’une déesse acclamée comme la première des svirfneblins, ces gnomes souterrains doués de pouvoirs magiques exceptionnels et immunisés contre le redoutable Affadissement (une malédiction qui touche les gnomes qui succombent à l’ennui).</p>\n<p><strong>Édits</strong> Apprendre les règles et les stratégies des jeux de hasard pratiqués partout où vous voyagez, préférer la discrétion et la ruse à la violence pour faire face aux conséquences de vos prises de risques, prendre des risques et en savourer les conséquences (bonnes ou mauvaises)</p>\n<p><strong>Anathèmes</strong> enfreindre les règles ou les termes d’un pari, utiliser la violence pour échapper aux conséquences d’un pari</p>\n<p><strong>Préoccupations</strong> Paris, gemmes, gnomes, discrétion</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.l2EFJssJKu7rG77m]{Chance}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}</p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre}</p>"
         },
         {
             "id": "Hanspur",
@@ -788,8 +788,8 @@
         },
         {
             "id": "The Lantern King",
-            "name": "Le roi lanterne",
-            "description": ""
+            "name": "Le roi lanterne (Aîné)",
+            "description": "<p>Bien que le Roi Lanterne se présente en général sous l’apparence d’une sphère de lumière flottant en l’air et couronnée de runes délicates, cet Aîné du rire, de l’espièglerie et de la transformation a connu un nombre étourdissant d’aspects différents. Il adopte d’autres formes pour jouer ses mauvais tours, et même les autres Aînés n’échappent pas à ses mystifications. Même s’il assure que ses farces n’ont pour but que d’inciter à la légèreté et de remettre à leur juste place les snobs arrogants, le chaos qu’il sème au nom de l’humour bon enfant est, pour ses cibles, au mieux gênant et au pire parfois mortel. Le Roi Lanterne parcourt le Premier Monde plus fréquemment que les autres Aînés et il peut arriver de le croiser dans des marchés bondés comme dans des passages déserts. Il est souvent accompagné par le Marché des sorcières, une caravane nomade d’amuseurs et de marchands qui lui tient lieu de cour.</p>\n<p><strong>Édits</strong> Chercher de nouvelles blagues, jouer des tours, laisser des lumières allumées dans des endroits inhabituels</p>\n<p><strong>Anathèmes</strong> Être entièrement sincère, mal raconter ou expliquer une bonne blague</p>\n<p><strong>Préoccupations</strong> Rire, espièglerie et transformations.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.i4UU3qCjIMwejIQF]{Delirium}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "Ranginori",
@@ -818,8 +818,8 @@
         },
         {
             "id": "Barbatos",
-            "name": "Barbatos",
-            "description": ""
+            "name": "Barbatos (Archidiable)",
+            "description": "<p>Barbatos est le plus jeune des archidiables et n’est en réalité pas du tout un diable. Sa véritable nature demeure inconnue et toujours cachée, mais quand il se présenta aux portes des Enfers, porteur des âmes des mortels de tout un monde qu’il offrit au Prince des ténèbres pour en faire la première légion de barbazus, celui-ci jugea opportun de lui fieffer la première strate des Enfers, l’Averne. En tant que portier des Enfers, Barbatos supervise les espaces entre les mondes, et ses adorateurs sont ceux qui s’aventurent dans de tels espaces interstitiels sans s’embarrasser de préoccupations éthiques.</p>\n<p><strong>Édits</strong> Cacher ses intentions, conclure des accords risqués, transmettre des connaissances fragmentaires et dommageables</p>\n<p><strong>Anathèmes</strong> Fermer ou interférer avec le fonctionnement d’un portail des enfers, taire un complot visant ses maîtres</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Y2kOBQydrsSqGCyn]{Magie}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage}</p>"
         },
         {
             "id": "Qi Zhong",
@@ -858,8 +858,8 @@
         },
         {
             "id": "Osiris",
-            "name": "Osiris",
-            "description": ""
+            "name": "Osiris (Ancien dieu osirien)",
+            "description": "<p><strong>Édits</strong> Protéger les corps et les âmes des morts honorables, veiller à la santé des cultures et de la végétation, venger ceux qui ont été injustement assassinés</p>\n<p><strong>Anathèmes</strong> Démembrer une créature, faire preuve d’ingratitude face à un cadeau sincère, profaner un cadavre</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme}, @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}</p>"
         },
         {
             "id": "Barzahk",
@@ -888,8 +888,8 @@
         },
         {
             "id": "Daikitsu",
-            "name": "Daikitsu",
-            "description": ""
+            "name": "Daikitsu (Dieu Tianais)",
+            "description": "<p>Il n'est pas surprenant que la déesse Daikitsu de Tian Xia soit un objet de vénération très répandu, étant donné que le riz, l'agriculture et l'artisanat font partie de ses attributions divines. Son symbole sacré est celui d'un renard à neuf queues.</p>\n<p><strong>Édits</strong> Célébrer le passage des saisons, laisser des offrandes aux renards, perfectionner un artisanat ou un métier, veiller à la santé des cultures et de la végétation</p>\n<p><strong>Anathèmes</strong> Discriminer les travailleurs du sexe ou les membres des classes inférieures, ne pas prendre soin de ses outils, passer devant un mendiant sans lui donner l’aumône</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.ZyFTUCbA0zYrzynD]{Création}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}</p>"
         },
         {
             "id": "Dranngvit",
@@ -994,7 +994,7 @@
         {
             "id": "Green Man",
             "name": "Homme vert",
-            "description": ""
+            "description": "<p>Les Hommes verts sont des divinités de moindre importance, capables de conférer des sorts à ceux qui les vénèrent. En général, les hommes verts n'autorisent que les plantes intelligentes, comme les leshys, à être leurs clercs. Si une autre créature s'avère être un ami des plantes, après un examen personnel approfondi, un Homme vert accepte de tout cœur cet étrange adorateur charnu au sein du groupe. Bien que chaque Homme vert ait des édits et des anathèmes différents correspondant à sa personnalité, et que certains hommes verts neutres bons ou neutres mauvais puissent avoir d'autres changements, ce qui suit est une base de référence que la plupart des adorateurs des hommes verts suivent.</p>\n<p><strong>Édits</strong> Découvrir ou créer de nouvelles formes de vie végétale, favoriser la croissance et le bien-être de la flore, préserver les zones de nature sauvage.</p>\n<p><strong>Anathèmes</strong> laisser impunis les abus flagrants à l'encontre de la vie végétale, endommager les milieux naturels, nuire à la vie végétale sauf dans le but de sauver une vie végétale plus importante</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance},  @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}</p>"
         },
         {
             "id": "Jaidz",
@@ -1003,8 +1003,8 @@
         },
         {
             "id": "Lao Shu Po",
-            "name": "Lao Shu Po",
-            "description": ""
+            "name": "Lao Shu Po (Dieu Tianais)",
+            "description": "<p><strong>Édits</strong> Prêter l’oreille aux ignorés et aux opprimés, progresser discrètement vers son objectif dans les ombres, voler ce dont on a besoin</p>\n<p><strong>Anathèmes</strong> Prendre des risques trop importants pour le compte d’une autre créature, travailler honnêtement pour obtenir quelque chose que l’on peut voler</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.l2EFJssJKu7rG77m]{Chance}, @Compendium[pf2e.domains.dnljU1twPjH4KFgO]{Nuées}, @Compendium[pf2e.domains.8pPvbTMZLIsvCwQk]{Ténèbres}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "Ragathiel",
@@ -1018,8 +1018,8 @@
         },
         {
             "id": "Xhamen-Dor",
-            "name": "Xhamen-dor",
-            "description": ""
+            "name": "Xhamen-dor (Dieux extérieur et grand ancien)",
+            "description": "<p>Xhamen-Dor, le Cancer Vivant, est né dans les égouts circulant sous Carcosa, la cité étrange où réside Hastur. D’une façon ou d’une autre, ce Grand Ancien fut transporté sur Golarion par une comète qui s’écrasa au fond d’un lac, pendant les cataclysmes de la Chute. Il se manifeste physiquement sous l’aspect d’une masse remuante d’os, de poils et de champignons, vaguement serpentine.</p>\n<p>La Tache Intime, autre nom sous lequel Xhamen- Dor est connu, n’a d’autre but dans l’existence que de conquérir des mondes en contaminant les vivants avec lui-même. Ses victimes, les ensemencés, obéissent à sa volonté et cherchent à élargir son influence jusqu’à ce que le monde dans sa totalité ne soit plus qu’une extension de son être. Puis, quand le monde n’est plus peuplé que d’ensemencés, Xhamen-Dor se sert des derniers lambeaux d’énergie de la planète pour rejoindre Carcosa, qui à son tour absorbe le monde qu’il lui apport, et continue ainsi à croître peu à peu.</p>\n<p><strong>Édits</strong> Apprendre discrètement à d’autres l’existence de xhamen-dor, favoriser la prolifération fongique</p>\n<p><strong>Anathèmes</strong> Aucun</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.BlovCvjhk4Ag07w2]{Rêves}</p>"
         },
         {
             "id": "Nyarlathotep (Haunter in the Dark)",
@@ -1043,13 +1043,13 @@
         },
         {
             "id": "Chohar",
-            "name": "Chohar",
-            "description": ""
+            "name": "Chohar (Ancien dieu du Soleil)",
+            "description": "<p>Les anciens dieux du triple soleil ont été oubliés sous le règne de Walkena, le dieu enfant. Le tyran immortel punit de mort quiconque manque de foi, et il n'y a pas pire blasphème que d'adorer un dieu rival dans sa cité. Mais la combattante de la liberté Sihar et ses partisans, les Lions brillants, ont répandu la parole des anciens dieux du soleil en secret, et maintenant ils reviennent vers le peuple.</p>\n<p>Même si cela ne fait qu'un peu plus d'un siècle que Walkena a repris le trône, le culte des anciens dieux du soleil s'est étiolé avant. Leurs enseignements avaient été incrustés dans la vie quotidienne, et de nombreuses traditions Mzali peuvent être retracées directement dans les rituels initiés par les rois du soleil - des souverains censés descendre des anciens dieux du soleil. Mais lorsque le Conseil de Mwanyisa renversa les rois du soleil et entraîna le déclin de l'empire de Mzali, le peuple se complaisait dans son culte, et à leur tour, les dieux du soleil se complaisaient eux-mêmes.</p>\nAprès l'ascension de l'enfant-dieu, les prêtres de Walkena ont débarrassé la ville de toutes les autres divinités, brisant les statues et les temples, modifiant la vérité à la convenance de Walkena et détruisant le reste. Ce faisant, les noms de Tlehar, Chohar et Luhar ont été pour la plupart effacés de la mémoire publique, les vestiges ayant été adaptés aux besoins de Walkena. Ce n'est que dans les chambres cachées les plus profondes qu'un signe de leurs enseignements originaux existait encore. Maintenant qu'ils ont été redécouverts, Chohar n'a pas l'intention d'être à nouveau oublié.</p>\n<p>Si Walkena et Chohar se qualifient tous deux de dieux de la justice, le dieu du Vieux Soleil abhorre le sens cruel et impitoyable que Walkena donne à ce concept. Chohar enseigne qu'il est de son devoir de se battre pour les innocents et les impuissants, et de ne jamais exercer le pouvoir pour son propre bénéfice. Le dieu du soleil a cependant des objectifs bien plus grands que de s'occuper de ce qu'il considère comme un simple prétendant. Vaincre le tyran qui les gouverne ne suffirait pas à effacer les générations de malheurs. Le peuple doit retrouver un sentiment de force et de fierté, afin de pouvoir se battre pour lui-même. Jusque-là, Chohar les protégera du mieux qu'il pourra. Le moment venu, il conduira son peuple vers un avenir radieux.</p>\n<p>Bien que les dieux du Vieux Soleil soient considérés comme d'égale importance, Chohar attire le plus grand nombre d'adorateurs, tant historiquement qu'aujourd'hui. Pourtant, même ceux qui préfèrent les enseignements d'un dieu du soleil en particulier accordent généralement du respect et des hommages aux deux autres également.</p>\n<p><strong>Édits</strong> Terminez toutes les tâches que vous acceptez, traduisez en justice les personnes cruelles, soyez fier de votre maison et de votre héritage.</p>\n<p><strong>Anathèmes</strong> Ne pas tenir sa parole, être cruel envers un innocent, réprimander quelqu'un à cause de sa patrie.</p>\n<hr />\n<p><strong>Domaines</strong>  @Compendium[pf2e.domains.MRHDhBQvgJhDZ1zq]{Villes}, @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.fVfFKKvGocG2JM5q]{Labeur}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle}</p>"
         },
         {
             "id": "Magrim",
-            "name": "Magrim",
-            "description": ""
+            "name": "Magrim (Dieu Nain)",
+            "description": "<p>Magrim est le demi-dieu† superviseur de l'au-delà nain qui a été le premier à enseigner aux nains comment communier avec leurs dieux. Il est chargé de restaurer les âmes tourmentées pour qu'elles soient prêtes à retourner dans le plan matériel des mortels. Avec Angradd, Magrim surveille les batailles. Torag, créateur de la race des nains mortels, est son jeune frère.</p>\n<p><strong>Édits</strong> Aider autrui à accomplir des tâches inachevées, détruire des morts-vivants, sculpter des runes, se perfectionner dans un artisanat ou une profession</p>\n<p><strong>Anathèmes</strong> Blesser une âme, créer des morts-vivants, maltraiter ses outils, ne pas respecter les tombes/p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphe}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}</p>"
         },
         {
             "id": "Monad",

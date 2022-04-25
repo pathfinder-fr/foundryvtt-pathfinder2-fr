@@ -1,10 +1,10 @@
 # État de la traduction (feat-effects)
 
  * **libre**: 187
- * **aucune**: 11
+ * **aucune**: 16
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -12,7 +12,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
+|[01-263Cd5JMj8Lgc9yz.htm](feat-effects/01-263Cd5JMj8Lgc9yz.htm)|Effect: Radiant Circuitry|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wyrmblessed Blood Magic (Status Penalty - Target)|
+|[01-ErLweSmVAN57QIpp.htm](feat-effects/01-ErLweSmVAN57QIpp.htm)|Effect: Nanite Surge|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wyrmblessed Blood Magic (Status Bonus - Self)|
 |[01-kzSjzK72CQ67wfBH.htm](feat-effects/01-kzSjzK72CQ67wfBH.htm)|Effect: Protective Spirit Mask|
@@ -22,6 +24,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
+|[09-EVRcdGt4awWPgXla.htm](feat-effects/09-EVRcdGt4awWPgXla.htm)|Effect: Arcane Propulsion|
+|[17-7hQnwwsixZmXzdIT.htm](feat-effects/17-7hQnwwsixZmXzdIT.htm)|Effect: Channel the Godmind|
+|[17-Ljrx4N5XACKSk1Ks.htm](feat-effects/17-Ljrx4N5XACKSk1Ks.htm)|Effect: Core Cannon|
 
 ## Liste des traductions complétés
 

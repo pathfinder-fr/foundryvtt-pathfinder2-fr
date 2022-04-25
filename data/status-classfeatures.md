@@ -1,12 +1,20 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 230
- * **libre**: 218
+ * **officielle**: 229
+ * **libre**: 217
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|changé|
+|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest|Tempête|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -126,7 +134,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[cleric-01-aiwxBj5MjnafCMyn.htm](classfeatures/cleric-01-aiwxBj5MjnafCMyn.htm)|First Doctrine (Cloistered Cleric)|Premier dogme (Prêtre cloîtré)|officielle|
 |[cleric-01-AvNbdGSOTWNRgcxs.htm](classfeatures/cleric-01-AvNbdGSOTWNRgcxs.htm)|Divine Spellcasting (Cleric)|Incantation divine (Prêtre)|officielle|
 |[cleric-01-DutW12WMFPHBoLTH.htm](classfeatures/cleric-01-DutW12WMFPHBoLTH.htm)|Deity|Divinité|libre|
-|[cleric-01-gblTFUOgolqFS9v4.htm](classfeatures/cleric-01-gblTFUOgolqFS9v4.htm)|Divine Font|Source divine|officielle|
 |[cleric-01-Qejo7FUWQtPTpgWH.htm](classfeatures/cleric-01-Qejo7FUWQtPTpgWH.htm)|First Doctrine|Doctrine : Premier dogme|officielle|
 |[cleric-01-tyrBwBTzo5t9Zho7.htm](classfeatures/cleric-01-tyrBwBTzo5t9Zho7.htm)|Doctrine|Doctrine|officielle|
 |[cleric-01-UV1HlClbWCNcaKBZ.htm](classfeatures/cleric-01-UV1HlClbWCNcaKBZ.htm)|Anathema (Cleric)|Anathème (Prêtre)|officielle|
@@ -299,7 +306,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-qvRlih3u7vK3FYUR.htm](classfeatures/oracle-01-qvRlih3u7vK3FYUR.htm)|Ancestors|Ancêtres|libre|
 |[oracle-01-RI2EMRBBPNSoTJXu.htm](classfeatures/oracle-01-RI2EMRBBPNSoTJXu.htm)|Cosmos|Cosmos|libre|
 |[oracle-01-tZBb3Kh4nJcNoUFI.htm](classfeatures/oracle-01-tZBb3Kh4nJcNoUFI.htm)|Lore|Savoir|libre|
-|[oracle-01-W9cF7wZztLDb1WGY.htm](classfeatures/oracle-01-W9cF7wZztLDb1WGY.htm)|Tempest|Tempête|libre|
 |[oracle-02-3OKTrm5rJdxFn4dR.htm](classfeatures/oracle-02-3OKTrm5rJdxFn4dR.htm)|Cosmos Mystery (Multiclass)|Mystère du Cosmos (Multiclasse)|libre|
 |[oracle-02-fdVLlFI1SyD7QGtu.htm](classfeatures/oracle-02-fdVLlFI1SyD7QGtu.htm)|Flames Mystery (Multiclass)|Mystère des flammes (Multiclasse)|libre|
 |[oracle-02-fEwVQUXUgUqTk4sE.htm](classfeatures/oracle-02-fEwVQUXUgUqTk4sE.htm)|Tempest Mystery (Multiclass)|Mystère de la tempête (Multiclasse)|libre|

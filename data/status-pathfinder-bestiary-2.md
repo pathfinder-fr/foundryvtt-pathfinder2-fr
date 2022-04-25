@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **libre**: 371
- * **changé**: 1
+ * **libre**: 366
+ * **changé**: 6
  * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -18,7 +18,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcier|changé|
 |[Aa652cDdKTani3DY.htm](pathfinder-bestiary-2/Aa652cDdKTani3DY.htm)|Scythe Tree|Arbre faux|changé|
+|[M4mDroIJlrBYfHkM.htm](pathfinder-bestiary-2/M4mDroIJlrBYfHkM.htm)|Giant Crawling Hand|Main Rampante Géante|changé|
+|[tOVGYQueeJwLtn0v.htm](pathfinder-bestiary-2/tOVGYQueeJwLtn0v.htm)|Denizen of Leng|Habitant de Leng|changé|
+|[xdIHvCBspeSXRL6A.htm](pathfinder-bestiary-2/xdIHvCBspeSXRL6A.htm)|Ghonhatine|Ghonhatine|changé|
+|[xjV0TmPNfKR7UcKu.htm](pathfinder-bestiary-2/xjV0TmPNfKR7UcKu.htm)|Osyluth|Osyluth (Diable)|changé|
 
 ## Liste des traductions complétés
 
@@ -59,7 +64,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6Me4Q1JDupyCCnGg.htm](pathfinder-bestiary-2/6Me4Q1JDupyCCnGg.htm)|Ice Mephit|Méphite de glace (Élémentaire)|libre|
 |[6tKVMKDdvbp0VhZD.htm](pathfinder-bestiary-2/6tKVMKDdvbp0VhZD.htm)|Slime Mold|Moisissure vaseuse (Vase)|libre|
 |[6wpHJXze0RLxl780.htm](pathfinder-bestiary-2/6wpHJXze0RLxl780.htm)|Behir|Béhir|libre|
-|[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Feu de sorcier|libre|
 |[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|libre|
 |[6ZLs4H4gjVyb3yV7.htm](pathfinder-bestiary-2/6ZLs4H4gjVyb3yV7.htm)|Petitioner (Elysium)|Pétitionnaire (Élysée)|libre|
 |[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fée)|libre|
@@ -210,7 +214,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[LZp7LLcFzDBlrwod.htm](pathfinder-bestiary-2/LZp7LLcFzDBlrwod.htm)|Nixie|Nixe (Fey)|libre|
 |[M2BkGD9YwEmCvD9D.htm](pathfinder-bestiary-2/M2BkGD9YwEmCvD9D.htm)|Invidiak|Invidiak (Démon de l'Ombre)|libre|
 |[m40M5R7wcm5DSVK2.htm](pathfinder-bestiary-2/m40M5R7wcm5DSVK2.htm)|Dust Mephit|Méphite de poussière (Élémentaire)|libre|
-|[M4mDroIJlrBYfHkM.htm](pathfinder-bestiary-2/M4mDroIJlrBYfHkM.htm)|Giant Crawling Hand|Main Rampante Géante|libre|
 |[MCZgXBC0I4Oovcjd.htm](pathfinder-bestiary-2/MCZgXBC0I4Oovcjd.htm)|Giant Wolverine|Glouton Géant|libre|
 |[MDdbC8XDUPFg4FCv.htm](pathfinder-bestiary-2/MDdbC8XDUPFg4FCv.htm)|Spriggan Warlord|Seigneur de Guerre Spriggan|libre|
 |[mpBOeFrbtx1wMrNn.htm](pathfinder-bestiary-2/mpBOeFrbtx1wMrNn.htm)|Frost Worm|Ver du froid|libre|
@@ -300,7 +303,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[tIDbOvltrFsgnwgf.htm](pathfinder-bestiary-2/tIDbOvltrFsgnwgf.htm)|Sea Drake|Drake des mers|libre|
 |[tieZOKf2qX7GsL9H.htm](pathfinder-bestiary-2/tieZOKf2qX7GsL9H.htm)|Ice Golem|Golem de glace|libre|
 |[TKlnOKpYJkg1dNwb.htm](pathfinder-bestiary-2/TKlnOKpYJkg1dNwb.htm)|Totenmaske|Totenmaske|libre|
-|[tOVGYQueeJwLtn0v.htm](pathfinder-bestiary-2/tOVGYQueeJwLtn0v.htm)|Denizen of Leng|Habitant de Leng|libre|
 |[TRXxfSSk8oKHvMn5.htm](pathfinder-bestiary-2/TRXxfSSk8oKHvMn5.htm)|Adult Umbral Dragon (Spellcaster)|Dragon umbral adulte (Incantateur)|libre|
 |[tu31BdhnxNknt7kK.htm](pathfinder-bestiary-2/tu31BdhnxNknt7kK.htm)|Marut|Marut (Aéon)|libre|
 |[TzdLLC68qlgrn91m.htm](pathfinder-bestiary-2/TzdLLC68qlgrn91m.htm)|Nyogoth|Nyogoth (Qlippoth)|libre|
@@ -354,10 +356,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[xarabMfYuo7yvD1N.htm](pathfinder-bestiary-2/xarabMfYuo7yvD1N.htm)|Giant Dragonfly Nymph|Nymphe de Libellule géante|libre|
 |[Xb0uY2tg1Cd3kZd0.htm](pathfinder-bestiary-2/Xb0uY2tg1Cd3kZd0.htm)|Jyoti|Jyoti|libre|
 |[XCNRztCxn6EbJ0gr.htm](pathfinder-bestiary-2/XCNRztCxn6EbJ0gr.htm)|Norn|Norne|libre|
-|[xdIHvCBspeSXRL6A.htm](pathfinder-bestiary-2/xdIHvCBspeSXRL6A.htm)|Ghonhatine|Ghonhatine|libre|
 |[xfcFXLbadD3KdlHW.htm](pathfinder-bestiary-2/xfcFXLbadD3KdlHW.htm)|Lerritan|Lérritan|libre|
 |[xIvv8vKBa0YsTEzt.htm](pathfinder-bestiary-2/xIvv8vKBa0YsTEzt.htm)|Korred|Korrigan|libre|
-|[xjV0TmPNfKR7UcKu.htm](pathfinder-bestiary-2/xjV0TmPNfKR7UcKu.htm)|Osyluth|Osyluth (Diable)|libre|
 |[xrAx0xj0UsM4DG5T.htm](pathfinder-bestiary-2/xrAx0xj0UsM4DG5T.htm)|Oread Guard|Garde Oréade (Descendant de génie)|libre|
 |[xUtl7Nkb6iJpPUMK.htm](pathfinder-bestiary-2/xUtl7Nkb6iJpPUMK.htm)|Destrachan|Destrachan|libre|
 |[Xv74O1mFzzP06IXl.htm](pathfinder-bestiary-2/Xv74O1mFzzP06IXl.htm)|Hippogriff|Hippogriffe|libre|

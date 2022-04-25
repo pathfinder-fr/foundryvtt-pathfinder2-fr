@@ -818,7 +818,7 @@
             ]
         },
         {
-            "id": "Arcane Locomotion (Climb)",
+            "id": "Arcane Locomotion",
             "name": "Déplacement arcanique (Escalade)",
             "description": "<p>Vous avez modifié votre corps pour vous permettre d'améliorer votre capacité de déplacement. Vous obtenez soit une vitesse d'escalade de 6 m, soit une vitesse de nage de 6 m à votre choix.</p>\n<p><strong>Amélioration</strong> Votre corps vous permet d'obtenir d'autres formes de déplacement. Vous pouvez soit choisir l'option de ce don que vous n'aviez pas prise,  (Vitesse d'escalade ou de natation) ou vous pouvez augmenter votre Vitesse de base de 1,5 m et augmenter la Vitesse que vous avez choisie avec ce don pour qu'elle soit égale à votre Vitesse de base ajustée.</p>"
         },

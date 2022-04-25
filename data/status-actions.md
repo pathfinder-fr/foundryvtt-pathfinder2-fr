@@ -1,11 +1,12 @@
 # État de la traduction (actions)
 
- * **officielle**: 110
- * **libre**: 159
+ * **officielle**: 107
+ * **libre**: 156
+ * **changé**: 6
  * **aucune**: 2
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,6 +15,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[h4Tzdhqfryp5m2fO.htm](actions/h4Tzdhqfryp5m2fO.htm)|Harvest Heartsliver|
 |[iBf9uGn5LOHkWpZ6.htm](actions/iBf9uGn5LOHkWpZ6.htm)|Craft Disharmonic Instrument|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|Surrégime|changé|
+|[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|changé|
+|[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|changé|
+|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|changé|
+|[uOlyklPCUWLtCaYI.htm](actions/uOlyklPCUWLtCaYI.htm)|Chassis Deflection|Déflexion du chassis|changé|
+|[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|changé|
 
 ## Liste des traductions complétés
 
@@ -36,7 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[2u915NdUyQan6uKF.htm](actions/2u915NdUyQan6uKF.htm)|Demoralize|Démoraliser|officielle|
 |[34E7k2YRcsOU5uyl.htm](actions/34E7k2YRcsOU5uyl.htm)|Change Shape (Anadi)|Changer de forme (Anadi)|libre|
 |[3cuTA58ObXhuFX2r.htm](actions/3cuTA58ObXhuFX2r.htm)|Bend Time|Courber le temps|libre|
-|[3D9kGfwg4LUZBR9A.htm](actions/3D9kGfwg4LUZBR9A.htm)|Overdrive|Surrégime|libre|
 |[3f5DMFu8fPiqHpRg.htm](actions/3f5DMFu8fPiqHpRg.htm)|Sustain a Spell|Maintenir un sort|officielle|
 |[3UEwtMA5y8foVqYP.htm](actions/3UEwtMA5y8foVqYP.htm)|Breath Weapon (Electricity) (Line)|arme de souffle électrique (ligne)|libre|
 |[3yoajuKjwHZ9ApUY.htm](actions/3yoajuKjwHZ9ApUY.htm)|Grab an Edge|Se raccrocher in extremis|officielle|
@@ -142,7 +153,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HYNhdaPtF1QmQbR3.htm](actions/HYNhdaPtF1QmQbR3.htm)|Drop Prone|Se jeter à terre|officielle|
 |[I75R9NSfsVrit6cU.htm](actions/I75R9NSfsVrit6cU.htm)|Cram|Bachoter|libre|
 |[I9k9qe4gOT8UVK4e.htm](actions/I9k9qe4gOT8UVK4e.htm)|Mist Blending|Se fondre dans la brume|libre|
-|[IE2nThCmoyhQA0Jn.htm](actions/IE2nThCmoyhQA0Jn.htm)|Avoid Notice|Échapper aux regards|officielle|
 |[iJLzVonevhsi2uPs.htm](actions/iJLzVonevhsi2uPs.htm)|Visions of Sin|Visions du péché|libre|
 |[ijZ0DDFpMkWqaShd.htm](actions/ijZ0DDFpMkWqaShd.htm)|Palm an Object|Escamoter un objet|officielle|
 |[Iuq8CeNqv3a0oWfQ.htm](actions/Iuq8CeNqv3a0oWfQ.htm)|Life Block|Bloquer la vie|libre|
@@ -159,7 +169,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[KAVf7AmRnbCAHrkT.htm](actions/KAVf7AmRnbCAHrkT.htm)|Attack of Opportunity|Attaque d'opportunité|libre|
 |[kbUymGTjbesOKsV6.htm](actions/kbUymGTjbesOKsV6.htm)|Primal Roar|Rugissement primal|libre|
 |[KC6o1cvbr45xnMei.htm](actions/KC6o1cvbr45xnMei.htm)|Conjure Bullet|Conjurer une balle|libre|
-|[KjoCEEmPGTeFE4hh.htm](actions/KjoCEEmPGTeFE4hh.htm)|Treat Poison|Soigner un empoisonnement|officielle|
 |[kKKHwVUnroKuAnOt.htm](actions/kKKHwVUnroKuAnOt.htm)|Toxic Skin|Peau toxique|libre|
 |[kMcV8e5EZUxa6evt.htm](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|Se faufiler|officielle|
 |[KMKuJ0onVS72t9Fv.htm](actions/KMKuJ0onVS72t9Fv.htm)|Manifest Soulforged Armament|Manifester l'arsenal du forgeur d'âme|libre|
@@ -184,7 +193,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[MY6z2b4GPhAD2Eoa.htm](actions/MY6z2b4GPhAD2Eoa.htm)|Share Life|Partager la vie|libre|
 |[n5vwBnLSlIXL9ptp.htm](actions/n5vwBnLSlIXL9ptp.htm)|Manifest Eidolon|Manifester l'eidolon|libre|
 |[N6U02s9qJKQIvmQd.htm](actions/N6U02s9qJKQIvmQd.htm)|Wish for Luck|Souhait de bonne fortune|libre|
-|[naKVqd8POxcnGclz.htm](actions/naKVqd8POxcnGclz.htm)|Explode|Exploser|libre|
 |[nbfNETdpee8CVM17.htm](actions/nbfNETdpee8CVM17.htm)|Flurry of Blows|Déluge de coups|officielle|
 |[NEBuuhjZE9BL3I8v.htm](actions/NEBuuhjZE9BL3I8v.htm)|Breath Weapon (Poison) (Cone)|Arme de souffle empoisonné (cône)|libre|
 |[nSTMF6kYIt6rXhJx.htm](actions/nSTMF6kYIt6rXhJx.htm)|Seething Frenzy|Frénésie effrénée|libre|
@@ -250,7 +258,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[UHpkTuCtyaPqiCAB.htm](actions/UHpkTuCtyaPqiCAB.htm)|Step|Faire un pas|libre|
 |[Ul4I0ER6pj3U5eAk.htm](actions/Ul4I0ER6pj3U5eAk.htm)|Invigorating Fear|Peur revigorante|libre|
 |[uMFB3uw8WTWL0LZD.htm](actions/uMFB3uw8WTWL0LZD.htm)|Draconic Frenzy|Frénésie draconique|libre|
-|[uOlyklPCUWLtCaYI.htm](actions/uOlyklPCUWLtCaYI.htm)|Chassis Deflection|Déflexion du chassis|libre|
 |[Uq2qy9aGNQ5JcPI1.htm](actions/Uq2qy9aGNQ5JcPI1.htm)|Into the Fray|Dans le feu de l'action|libre|
 |[uS3qDAgOkZ7b8ERL.htm](actions/uS3qDAgOkZ7b8ERL.htm)|Drive|Diriger|libre|
 |[ust1jJSCZQUhBZIz.htm](actions/ust1jJSCZQUhBZIz.htm)|Take Cover|Mise à l'abri|officielle|
@@ -274,7 +281,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[XeZwXzR1KBlJF770.htm](actions/XeZwXzR1KBlJF770.htm)|Resist Magic|Résister à la magie|libre|
 |[Xg57qG1rOfSSobke.htm](actions/Xg57qG1rOfSSobke.htm)|Breath Weapon|Arme de souffle|libre|
 |[xJEkXFJgEfEida27.htm](actions/xJEkXFJgEfEida27.htm)|Rally|Rallier|libre|
-|[xjGwis0uaC2305pm.htm](actions/xjGwis0uaC2305pm.htm)|Raise a Shield|Lever un bouclier|officielle|
 |[XMcnh4cSI32tljXa.htm](actions/XMcnh4cSI32tljXa.htm)|Hide|Se cacher|officielle|
 |[xpsD4DsYHKXCB4ac.htm](actions/xpsD4DsYHKXCB4ac.htm)|Anchor|S'ancrer|libre|
 |[XSGlLjI80LDCimAP.htm](actions/XSGlLjI80LDCimAP.htm)|Sustain an Activation|Maintenir une activation|officielle|

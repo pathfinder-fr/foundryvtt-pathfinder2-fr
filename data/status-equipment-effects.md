@@ -1,17 +1,25 @@
 # État de la traduction (equipment-effects)
 
  * **libre**: 185
+ * **aucune**: 9
  * **changé**: 7
- * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[01-8RNPIAuV7ixaXeq5.htm](equipment-effects/01-8RNPIAuV7ixaXeq5.htm)|Effect: War Blood Mutagen (Greater)|
+|[01-aIZsC56OdotiGb9M.htm](equipment-effects/01-aIZsC56OdotiGb9M.htm)|Effect: War Blood Mutagen (Lesser)|
+|[01-ESuBosh3t1pXEcBj.htm](equipment-effects/01-ESuBosh3t1pXEcBj.htm)|Effect: Treat Poison (Critical Failure)|
+|[01-S3Sv7SYwxozbG554.htm](equipment-effects/01-S3Sv7SYwxozbG554.htm)|Effect: War Blood Mutagen (Major)|
+|[01-VlfuBfWkygsG8u5h.htm](equipment-effects/01-VlfuBfWkygsG8u5h.htm)|Effect: Blaze|
+|[01-XwCBalKJf3CiEiFa.htm](equipment-effects/01-XwCBalKJf3CiEiFa.htm)|Effect: Treat Poison (Critical Success)|
+|[01-XWenziR7J3mwKV4W.htm](equipment-effects/01-XWenziR7J3mwKV4W.htm)|Effect: Treat Poison (Success)|
+|[03-AvXNZ9I6s1H8C4wd.htm](equipment-effects/03-AvXNZ9I6s1H8C4wd.htm)|Effect: War Blood Mutagen (Moderate)|
 |[13-cy42NXgx1vjYzSxN.htm](equipment-effects/13-cy42NXgx1vjYzSxN.htm)|Effect: Suit of Armoire Frustration|
 
 ## Liste des éléments changés en VO et devant être vérifiés

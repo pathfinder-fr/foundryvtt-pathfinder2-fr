@@ -1,18 +1,26 @@
 # État de la traduction (familiar-abilities)
 
  * **officielle**: 16
- * **libre**: 41
+ * **changé**: 3
+ * **libre**: 38
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-2fiQzoEKu6YUnrU9.htm](familiar-abilities/01-2fiQzoEKu6YUnrU9.htm)|Independent|Indépendant|changé|
+|[01-asOhEdyF8CWFbR96.htm](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Spellcasting|Incantateur|changé|
+|[01-Le8UWr5BU8rV3iBf.htm](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Tough|Robuste|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[01-0Xrkk46IM43iI1Fv.htm](familiar-abilities/01-0Xrkk46IM43iI1Fv.htm)|Darkvision|Vision dans le noir|officielle|
-|[01-2fiQzoEKu6YUnrU9.htm](familiar-abilities/01-2fiQzoEKu6YUnrU9.htm)|Independent|Indépendant|libre|
 |[01-57b8u8s3fV0UCrgJ.htm](familiar-abilities/01-57b8u8s3fV0UCrgJ.htm)|Plant Form|Forme de plante|libre|
 |[01-5gwqSpkRqWzrbDDU.htm](familiar-abilities/01-5gwqSpkRqWzrbDDU.htm)|Damage Avoidance: Will|Évitement des dégâts : Volonté|libre|
 |[01-7QosmRHlyLLhU1hX.htm](familiar-abilities/01-7QosmRHlyLLhU1hX.htm)|Lab Assistant|Assistant de laboratoire|officielle|
@@ -23,7 +31,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-A0C86V3MUECpX5jd.htm](familiar-abilities/01-A0C86V3MUECpX5jd.htm)|Amphibious|Amphibie|libre|
 |[01-aEKA3YWekLhEhuV8.htm](familiar-abilities/01-aEKA3YWekLhEhuV8.htm)|Threat Display|Démonstration menaçante|libre|
 |[01-Amzezp93MZckBYRZ.htm](familiar-abilities/01-Amzezp93MZckBYRZ.htm)|Wavesense|Perception des ondes|libre|
-|[01-asOhEdyF8CWFbR96.htm](familiar-abilities/01-asOhEdyF8CWFbR96.htm)|Spellcasting|Incantateur|libre|
 |[01-BXssJhTJjKrfojwG.htm](familiar-abilities/01-BXssJhTJjKrfojwG.htm)|Fast Movement: Land|Déplacement rapide : Au sol|libre|
 |[01-C16JgmeJJG249WXz.htm](familiar-abilities/01-C16JgmeJJG249WXz.htm)|Mask Freeze|Masque figé|officielle|
 |[01-cT5octWchU4gjrhP.htm](familiar-abilities/01-cT5octWchU4gjrhP.htm)|Manual Dexterity|Dextérité manuelle|officielle|
@@ -42,7 +49,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-jevzf9JbJJibpqaI.htm](familiar-abilities/01-jevzf9JbJJibpqaI.htm)|Skilled|Compétent|libre|
 |[01-JRP2bdkdCdj2JDrq.htm](familiar-abilities/01-JRP2bdkdCdj2JDrq.htm)|Master's Form|Forme du maître|libre|
 |[01-K5OLRDsGCfPZ6mO6.htm](familiar-abilities/01-K5OLRDsGCfPZ6mO6.htm)|Damage Avoidance: Reflex|Évitement des dégâts : Réflexes|libre|
-|[01-Le8UWr5BU8rV3iBf.htm](familiar-abilities/01-Le8UWr5BU8rV3iBf.htm)|Tough|Robuste|libre|
 |[01-lpyJAl5B4j2DC7mc.htm](familiar-abilities/01-lpyJAl5B4j2DC7mc.htm)|Gills|Branchies|libre|
 |[01-LrDnat1DsGJoAiKv.htm](familiar-abilities/01-LrDnat1DsGJoAiKv.htm)|Tremorsense|Perception des vibrations|libre|
 |[01-mK3mAUWiRLZZYNdz.htm](familiar-abilities/01-mK3mAUWiRLZZYNdz.htm)|Damage Avoidance: Fortitude|Évitement des dégâts : Vigueur|libre|

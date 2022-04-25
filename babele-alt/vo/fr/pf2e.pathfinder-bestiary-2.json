@@ -9089,6 +9089,11 @@
             "items-description": ""
         },
         {
+            "id": "8GQKAYkj3NIJHurF",
+            "name": "Children of the Night",
+            "items-description": "<p>La présence d'un vrykolakas attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{nuées de rats}, de wargs, de loup-garous et autres créatures similaires.</p>\n<p>Le vrykolakas peut leur donner des ordres par télépathie dans un rayon de 30 m, mais elles ne peuvent pas communiquer en retour.</p>"
+        },
+        {
             "id": "4f8Xn8AVpubItk3h",
             "name": "+1 Status Bonus on Saves vs Magic",
             "items-description": ""
@@ -9107,6 +9112,11 @@
             "id": "V0hJjrywdDfeOIZf",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "iYT6OEbdoPMem0XE",
+            "name": "Children of the Night",
+            "items-description": "<p>La présence d'un vrykolakas attire des créatures de la nuit venues recevoir ses ordres. Il s’agit souvent de @Compendium[pf2e.pathfinder-bestiary.sPClc6y3dT3XZupv]{nuées de rats}, de wargs, de loup-garous et autres créatures similaires.</p>\n<p>Le vrykolakas peut leur donner des ordres par télépathie dans un rayon de 30 m, mais elles ne peuvent pas communiquer en retour.</p>"
         },
         {
             "id": "sUR4J0lzNGl0KfsK",

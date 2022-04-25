@@ -1,11 +1,20 @@
 # État de la traduction (action-macros)
 
+ * **aucune**: 3
  * **libre**: 35
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[1AIo5UcVbCmvpRL3.htm](action-macros/1AIo5UcVbCmvpRL3.htm)|Exploration: Avoid Notice|
+|[R03LRl2RBbsm6EcF.htm](action-macros/R03LRl2RBbsm6EcF.htm)|Treat Poison: Medicine|
+|[ZS5z1TqckWPIMGDN.htm](action-macros/ZS5z1TqckWPIMGDN.htm)|Athletics: Arcane Slam|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

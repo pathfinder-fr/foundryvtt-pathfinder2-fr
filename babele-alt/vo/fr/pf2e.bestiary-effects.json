@@ -12,8 +12,8 @@
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaqueet un bonus de statut de +2 aux jets de dégâts.</p>"
         },
         {
-            "id": "Effect: Uncanny Tinker (Critical Success)",
-            "name": "Effect: Uncanny Tinker (Critical Success)",
+            "id": "Effect: Uncanny Tinker",
+            "name": "Effect: Uncanny Tinker",
             "description": ""
         },
         {

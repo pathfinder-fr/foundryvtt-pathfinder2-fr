@@ -1,26 +1,36 @@
 # État de la traduction (equipment)
 
- * **officielle**: 957
- * **libre**: 1852
- * **changé**: 22
- * **aucune**: 1
+ * **officielle**: 953
+ * **libre**: 1847
+ * **aucune**: 9
+ * **changé**: 31
 
 
-Dernière mise à jour: 2022-04-23 16:38 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[consumable-00-GWTSMcXocmUsNLmN.htm](equipment/consumable-00-GWTSMcXocmUsNLmN.htm)|Poison Sedum|
+|[consumable-01-dymL1IbxU5zR9fqo.htm](equipment/consumable-01-dymL1IbxU5zR9fqo.htm)|Searing Suture (Lesser)|
+|[consumable-01-H3KAt7cHJ6ZLTJQE.htm](equipment/consumable-01-H3KAt7cHJ6ZLTJQE.htm)|War Blood Mutagen (Lesser)|
+|[consumable-02-q5Hr2nZr8RQ9DSZM.htm](equipment/consumable-02-q5Hr2nZr8RQ9DSZM.htm)|Blaze|
+|[consumable-03-AOAXZzH4AOsQqYYv.htm](equipment/consumable-03-AOAXZzH4AOsQqYYv.htm)|War Blood Mutagen (Moderate)|
+|[consumable-09-bImVngTkDNsdWIjr.htm](equipment/consumable-09-bImVngTkDNsdWIjr.htm)|Searing Suture (Greater)|
 |[consumable-09-mtfdonWkYLj0BuW3.htm](equipment/consumable-09-mtfdonWkYLj0BuW3.htm)|Puff Dragon|
+|[consumable-11-oaGUNWmrqtKhy1HP.htm](equipment/consumable-11-oaGUNWmrqtKhy1HP.htm)|War Blood Mutagen (Greater)|
+|[consumable-17-Qa4qjxk5aPzx7HTR.htm](equipment/consumable-17-Qa4qjxk5aPzx7HTR.htm)|War Blood Mutagen (Major)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[consumable-03-Oip645RjC5y57wFa.htm](equipment/consumable-03-Oip645RjC5y57wFa.htm)|Violet Venom|Venin violet|changé|
+|[consumable-16-WAUq4TB4Q9FDxWFz.htm](equipment/consumable-16-WAUq4TB4Q9FDxWFz.htm)|Candle of Invocation|Bougie d'invocation|changé|
 |[equipment-02-VpoBYfVUEA8wtQAb.htm](equipment/equipment-02-VpoBYfVUEA8wtQAb.htm)|Flask of Fellowship|Gourde de fraternité|changé|
+|[equipment-03-ItLZL9Bd6xwgfeB8.htm](equipment/equipment-03-ItLZL9Bd6xwgfeB8.htm)|Detective's Kit|Kit de l'investigateur|changé|
 |[equipment-04-5p4ORuCLOKePxUUR.htm](equipment/equipment-04-5p4ORuCLOKePxUUR.htm)|Five-Feather Wreath|Couronne à cinq plumes|changé|
 |[equipment-05-6cV9Kpwc7aiuhqbH.htm](equipment/equipment-05-6cV9Kpwc7aiuhqbH.htm)|Necklace of Fireballs I|Collier à boules de feu I|changé|
 |[equipment-06-qO1swPrA14AnuyBD.htm](equipment/equipment-06-qO1swPrA14AnuyBD.htm)|Codex of Unimpeded Sight|Codex de vision sans entraves|changé|
@@ -29,6 +39,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-08-NmhKGflbT5NnKduz.htm](equipment/equipment-08-NmhKGflbT5NnKduz.htm)|Wand of Crackling Lightning (3rd-Level Spell)|Baguette d'électricité crépitante (Niveau 3)|changé|
 |[equipment-09-Hd1AfC08ytBg67Ey.htm](equipment/equipment-09-Hd1AfC08ytBg67Ey.htm)|Hat of the Magi (Greater)|Couvre-chef de thaumaturge supérieur|changé|
 |[equipment-09-IufO3dNPhC1c2ZcL.htm](equipment/equipment-09-IufO3dNPhC1c2ZcL.htm)|Necklace of Fireballs III|Collier à boules de feu III|changé|
+|[equipment-10-8E7qXnNOSm51UwsG.htm](equipment/equipment-10-8E7qXnNOSm51UwsG.htm)|Miter of Communion|Mitre de communion|changé|
+|[equipment-10-9ftc8XfloerPcJnI.htm](equipment/equipment-10-9ftc8XfloerPcJnI.htm)|Wand of Hopeless Night (4th-Level Spell)|Baguette de noir désespoir (Niveau 4)|changé|
 |[equipment-10-oyjDCHscjcLhzall.htm](equipment/equipment-10-oyjDCHscjcLhzall.htm)|Wand of Crackling Lightning (4th-Level Spell)|Baguette d'électricité crépitante (Niveau 4)|changé|
 |[equipment-11-Dr9b08JhDThUenF9.htm](equipment/equipment-11-Dr9b08JhDThUenF9.htm)|Necklace of Fireballs IV|Collier à boules de feu IV|changé|
 |[equipment-12-nQIIO6LIot0ISQXH.htm](equipment/equipment-12-nQIIO6LIot0ISQXH.htm)|Codex of Unimpeded Sight (Greater)|Codex de vision sans entraves supérieur|changé|
@@ -38,8 +50,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-15-ZZcIhgiKuptXRGyK.htm](equipment/equipment-15-ZZcIhgiKuptXRGyK.htm)|Necklace of Fireballs VI|Collier à boules de feu VI|changé|
 |[equipment-17-mOY0STwY5hx4UPCN.htm](equipment/equipment-17-mOY0STwY5hx4UPCN.htm)|Necklace of Fireballs VII|Collier à boules de feu VII|changé|
 |[equipment-18-U28jkj5ZDl2drtEH.htm](equipment/equipment-18-U28jkj5ZDl2drtEH.htm)|Wand of Crackling Lightning (8th-Level Spell)|Baguette d'électricité crépitante (Niveau 8)|changé|
+|[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille inférieur|changé|
+|[weapon-03-97QyNEOAyYLdGaYc.htm](equipment/weapon-03-97QyNEOAyYLdGaYc.htm)|Bottled Lightning (Moderate)|Foudre en bouteille modérée|changé|
 |[weapon-08-zakdImp4CqahnFfc.htm](equipment/weapon-08-zakdImp4CqahnFfc.htm)|Habu's Cudgel|Gourdin d'Habu|changé|
+|[weapon-09-DXidUrzzkwWIMNMD.htm](equipment/weapon-09-DXidUrzzkwWIMNMD.htm)|Whip of Compliance|Fouet d'obéissance|changé|
+|[weapon-11-r2iTRbt1zpkAqHj2.htm](equipment/weapon-11-r2iTRbt1zpkAqHj2.htm)|Bottled Lightning (Greater)|Foudre en bouteille supérieure|changé|
 |[weapon-13-3SjF539wVL6NK9qq.htm](equipment/weapon-13-3SjF539wVL6NK9qq.htm)|Pistol of Wonder|Pistolet merveilleux|changé|
+|[weapon-17-rpbbfkexLhtadBDV.htm](equipment/weapon-17-rpbbfkexLhtadBDV.htm)|Bottled Lightning (Major)|Foudre en bouteille majeur|changé|
 |[weapon-23-2jtZPnHF1M8vKWry.htm](equipment/weapon-23-2jtZPnHF1M8vKWry.htm)|Hunter's Dawn|Aube du chasseur|changé|
 
 ## Liste des traductions complétés
@@ -1030,7 +1047,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[consumable-16-Odl2SyKw8Zg6ckKb.htm](equipment/consumable-16-Odl2SyKw8Zg6ckKb.htm)|Hail of Arrows Snare|Piège artisanal de volée de flèches|libre|
 |[consumable-16-tnCKwIsRsKj3FtG6.htm](equipment/consumable-16-tnCKwIsRsKj3FtG6.htm)|Omnidirectional Spear Snare|Piège artisanal de lances omnidirectionnelles|libre|
 |[consumable-16-VJ9mXi70JprHHA0z.htm](equipment/consumable-16-VJ9mXi70JprHHA0z.htm)|Flare Beacon (Major)|Balise éclairante majeur|libre|
-|[consumable-16-WAUq4TB4Q9FDxWFz.htm](equipment/consumable-16-WAUq4TB4Q9FDxWFz.htm)|Candle of Invocation|Bougie d'invocation|libre|
 |[consumable-16-ws3OXRgAawwYIKK6.htm](equipment/consumable-16-ws3OXRgAawwYIKK6.htm)|Repulsion Resin|Résine répulsive|libre|
 |[consumable-16-WXnGIl4d62detRlf.htm](equipment/consumable-16-WXnGIl4d62detRlf.htm)|Cold Iron Blanch (Greater)|Blanchis de Fer froid supérieur|libre|
 |[consumable-16-X6vNtRjyHIuN7vqj.htm](equipment/consumable-16-X6vNtRjyHIuN7vqj.htm)|Nightmare Vapor|Vapeur de cauchemar|officielle|
@@ -1381,7 +1397,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-03-gScuJzOR6B0D5sHV.htm](equipment/equipment-03-gScuJzOR6B0D5sHV.htm)|Secret-Keeper's Mask (Reaper of Reputation)|Masque des gardiens des secrets (Faucheur de réputation)|libre|
 |[equipment-03-hywANJCzT7hMgWna.htm](equipment/equipment-03-hywANJCzT7hMgWna.htm)|Scholarly Journal|Journal d'Érudit|libre|
 |[equipment-03-IRqbsE8MgGLTfHLz.htm](equipment/equipment-03-IRqbsE8MgGLTfHLz.htm)|Disguise Kit (Elite Cosmetics)|Kit de déguisement (Elite, stock de cosmétiques)|libre|
-|[equipment-03-ItLZL9Bd6xwgfeB8.htm](equipment/equipment-03-ItLZL9Bd6xwgfeB8.htm)|Detective's Kit|Kit de l'investigateur|libre|
 |[equipment-03-JY8X4RSfg6xIqAC9.htm](equipment/equipment-03-JY8X4RSfg6xIqAC9.htm)|Crushing|Écrasante (rune)|libre|
 |[equipment-03-k0AC0UxLKO4r2rwQ.htm](equipment/equipment-03-k0AC0UxLKO4r2rwQ.htm)|Presentable|Présentable (rune)|libre|
 |[equipment-03-ksorBjuXO0Bvdmhl.htm](equipment/equipment-03-ksorBjuXO0Bvdmhl.htm)|Fishing Tackle (Professional)|Matériel de pêche (professionnel)|officielle|
@@ -1770,9 +1785,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-10-64mxKuxc9k98FkUi.htm](equipment/equipment-10-64mxKuxc9k98FkUi.htm)|Fire-Jump Ring|Anneau Saute-feu|libre|
 |[equipment-10-6jRXUXzYKIpm2uNp.htm](equipment/equipment-10-6jRXUXzYKIpm2uNp.htm)|Clandestine Cloak (Greater)|Cape de clandestinité supérieure|officielle|
 |[equipment-10-6MswPHUwvqPLtN5H.htm](equipment/equipment-10-6MswPHUwvqPLtN5H.htm)|Specialist's Ring (Evocation)|Anneau du spécialiste (Évocation)|libre|
-|[equipment-10-8E7qXnNOSm51UwsG.htm](equipment/equipment-10-8E7qXnNOSm51UwsG.htm)|Miter of Communion|Mitre de communion|libre|
 |[equipment-10-8usnglqucr4Q0YO6.htm](equipment/equipment-10-8usnglqucr4Q0YO6.htm)|Midday Lantern (Moderate)|Lanterne de midi modérée|libre|
-|[equipment-10-9ftc8XfloerPcJnI.htm](equipment/equipment-10-9ftc8XfloerPcJnI.htm)|Wand of Hopeless Night (4th-Level Spell)|Baguette de noir désespoir (Niveau 4)|libre|
 |[equipment-10-9Y86NM6nt2WtYBOy.htm](equipment/equipment-10-9Y86NM6nt2WtYBOy.htm)|Explorer's Yurt|Yourte d'explorateur|officielle|
 |[equipment-10-aKoMqPDmVzPI7Q20.htm](equipment/equipment-10-aKoMqPDmVzPI7Q20.htm)|Winged Boots|Bottes ailées|officielle|
 |[equipment-10-BKFuMxi0dXu7yFxe.htm](equipment/equipment-10-BKFuMxi0dXu7yFxe.htm)|Ring of Truth|Anneau de vérité|officielle|
@@ -2537,7 +2550,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-01-841G24r5ITFYk5zQ.htm](equipment/weapon-01-841G24r5ITFYk5zQ.htm)|Pernicious Spore Bomb (Lesser)|Bombe de spores pernicieuses inférieure|libre|
 |[weapon-01-8JnOYyTdatqRnAV4.htm](equipment/weapon-01-8JnOYyTdatqRnAV4.htm)|Necrotic Bomb (Lesser)|Bombe nécrotique inférieure|libre|
 |[weapon-01-8ncDuZSIZAHl7PW8.htm](equipment/weapon-01-8ncDuZSIZAHl7PW8.htm)|Repeating Crossbow|Arbalète à répétition|libre|
-|[weapon-01-AFR01HVd7DcZvkpP.htm](equipment/weapon-01-AFR01HVd7DcZvkpP.htm)|Bottled Lightning (Lesser)|Foudre en bouteille inférieur|officielle|
 |[weapon-01-Bb3cvysXG8rCM5FM.htm](equipment/weapon-01-Bb3cvysXG8rCM5FM.htm)|Vexing Vapor (Lesser)|Vapeur contrariante inférieure|libre|
 |[weapon-01-BG04L9GjWerSgWX3.htm](equipment/weapon-01-BG04L9GjWerSgWX3.htm)|Water Bomb (Lesser)|Bombe à eau inférieure|libre|
 |[weapon-01-bP608Wb1l9ZY1zwb.htm](equipment/weapon-01-bP608Wb1l9ZY1zwb.htm)|Repeating Heavy Crossbow|Arbalète lourde à répétition|libre|
@@ -2588,7 +2600,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-03-4pVGwkVi6izoUuLC.htm](equipment/weapon-03-4pVGwkVi6izoUuLC.htm)|Tallow Bomb (Moderate)|Bombe de suif modérée|libre|
 |[weapon-03-5BU4hJ1oXMLtSkuA.htm](equipment/weapon-03-5BU4hJ1oXMLtSkuA.htm)|Sparkblade|Lame crépitante|libre|
 |[weapon-03-7irlzyZA50KqTwce.htm](equipment/weapon-03-7irlzyZA50KqTwce.htm)|Boastful Hunter|Chasseur vantard|libre|
-|[weapon-03-97QyNEOAyYLdGaYc.htm](equipment/weapon-03-97QyNEOAyYLdGaYc.htm)|Bottled Lightning (Moderate)|Foudre en bouteille modérée|officielle|
 |[weapon-03-AvGZqDfalwwbYFvA.htm](equipment/weapon-03-AvGZqDfalwwbYFvA.htm)|Peshpine Grenade (Moderate)|Grenade d'épines de pesh modérée|libre|
 |[weapon-03-cbgJbCMU330TVmmO.htm](equipment/weapon-03-cbgJbCMU330TVmmO.htm)|Pernicious Spore Bomb (Moderate)|Bombe de spores pernicieuses modérée|libre|
 |[weapon-03-da6nSPRUwGicvx3c.htm](equipment/weapon-03-da6nSPRUwGicvx3c.htm)|Pressure Bomb (Moderate)|Bombe à pression modérée|libre|
@@ -2678,7 +2689,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-08-sfKzk4bzplyT4zax.htm](equipment/weapon-08-sfKzk4bzplyT4zax.htm)|Sunken Pistol|Pistolet noyé|libre|
 |[weapon-08-XSwEE8wjHr6UXzpw.htm](equipment/weapon-08-XSwEE8wjHr6UXzpw.htm)|Staff of Healing (Greater)|Bâton de guérison supérieur|officielle|
 |[weapon-09-B0R1MtLnQvBwnOne.htm](equipment/weapon-09-B0R1MtLnQvBwnOne.htm)|Sonic Tuning Mace|Masse mélodique|libre|
-|[weapon-09-DXidUrzzkwWIMNMD.htm](equipment/weapon-09-DXidUrzzkwWIMNMD.htm)|Whip of Compliance|Fouet d'obéissance|libre|
 |[weapon-09-ET88qMrIBXBCWI5J.htm](equipment/weapon-09-ET88qMrIBXBCWI5J.htm)|Spider Gun (Greater)|Fusil araignée supérieur|libre|
 |[weapon-09-k5P9YZO4ARlE4By3.htm](equipment/weapon-09-k5P9YZO4ARlE4By3.htm)|Crimson Brand|Sceau du Serment écarlate|libre|
 |[weapon-09-PVdl7StKFu6QPTVl.htm](equipment/weapon-09-PVdl7StKFu6QPTVl.htm)|Screech Shooter|Lance hurlement|libre|
@@ -2723,7 +2733,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-11-LhMXIGelSrFPYild.htm](equipment/weapon-11-LhMXIGelSrFPYild.htm)|Blight Bomb (Greater)|Bombe fléau supérieure|libre|
 |[weapon-11-n5yTlTs63o53n3k6.htm](equipment/weapon-11-n5yTlTs63o53n3k6.htm)|Alchemist's Fire (Greater)|Feu grégeois supérieur|officielle|
 |[weapon-11-QhUTsTnbehv1ft9u.htm](equipment/weapon-11-QhUTsTnbehv1ft9u.htm)|Junk Bomb (Greater)|Bombe à fragmentation supérieure|libre|
-|[weapon-11-r2iTRbt1zpkAqHj2.htm](equipment/weapon-11-r2iTRbt1zpkAqHj2.htm)|Bottled Lightning (Greater)|Foudre en bouteille supérieure|officielle|
 |[weapon-11-rvxphQJrycwqejMW.htm](equipment/weapon-11-rvxphQJrycwqejMW.htm)|Rat-Catcher Trident|Trident raticide|libre|
 |[weapon-11-s3wY38FriyervrtC.htm](equipment/weapon-11-s3wY38FriyervrtC.htm)|Alignment Ampoule (Greater)|Ampoule d'alignement supérieur|libre|
 |[weapon-11-tE2IarA29mYsgrxj.htm](equipment/weapon-11-tE2IarA29mYsgrxj.htm)|Spore Sap|Matraque de spores|libre|
@@ -2819,7 +2828,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[weapon-17-RC8EmoFiMITFUopr.htm](equipment/weapon-17-RC8EmoFiMITFUopr.htm)|Necrotic Bomb (Major)|Bombe nécrotique majeure|libre|
 |[weapon-17-riHdB9PBAXZUMsWC.htm](equipment/weapon-17-riHdB9PBAXZUMsWC.htm)|Redpitch Bomb (Major)|Bombe poix-rouge majeure|libre|
 |[weapon-17-rKCiDIoozZTkyE4j.htm](equipment/weapon-17-rKCiDIoozZTkyE4j.htm)|Tentacle Cannon (Major)|Canon tentacule majeur|libre|
-|[weapon-17-rpbbfkexLhtadBDV.htm](equipment/weapon-17-rpbbfkexLhtadBDV.htm)|Bottled Lightning (Major)|Foudre en bouteille majeur|officielle|
 |[weapon-17-RXpM5Kbuf3BYfK6f.htm](equipment/weapon-17-RXpM5Kbuf3BYfK6f.htm)|Vexing Vapor (Major)|Vapeur contrariante majeure|libre|
 |[weapon-17-sJjuv1991SZ7DWWD.htm](equipment/weapon-17-sJjuv1991SZ7DWWD.htm)|Blight Bomb (Major)|Bombe fléau majeure|libre|
 |[weapon-17-sLuU3V5Hv9bYrl2a.htm](equipment/weapon-17-sLuU3V5Hv9bYrl2a.htm)|Ouroboros Flail (Greater)|Fléau ouroboros supérieur|libre|
