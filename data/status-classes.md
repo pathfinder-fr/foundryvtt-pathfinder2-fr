@@ -1,19 +1,12 @@
 # État de la traduction (classes)
 
  * **officielle**: 12
- * **libre**: 8
- * **changé**: 1
+ * **libre**: 9
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcier|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -25,6 +18,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[7s57JDCaiYYCAdFx.htm](classes/7s57JDCaiYYCAdFx.htm)|Druid|Druide|officielle|
 |[84SZGVNLXhLKG6gL.htm](classes/84SZGVNLXhLKG6gL.htm)|[Empty Class]|_Classe vierge|libre|
 |[8zn3cD6GSmoo1LW4.htm](classes/8zn3cD6GSmoo1LW4.htm)|Fighter|Guerrier|officielle|
+|[bYDXk9HUMKOuym9h.htm](classes/bYDXk9HUMKOuym9h.htm)|Witch|Sorcier|libre|
 |[EizrWvUPMS67Pahd.htm](classes/EizrWvUPMS67Pahd.htm)|Cleric|Prêtre|officielle|
 |[HQBA9Yx2s8ycvz3C.htm](classes/HQBA9Yx2s8ycvz3C.htm)|Magus|Magus|libre|
 |[LO9STvskJemPkiAI.htm](classes/LO9STvskJemPkiAI.htm)|Rogue|Roublard|officielle|

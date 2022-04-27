@@ -1,12 +1,12 @@
 # État de la traduction (pathfinder-bestiary-3-items)
 
  * **libre**: 1181
- * **aucune**: 1308
+ * **aucune**: 1307
  * **vide**: 222
- * **officielle**: 27
+ * **officielle**: 28
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -407,7 +407,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[E06rANySjyXiIjDH.htm](pathfinder-bestiary-3-items/E06rANySjyXiIjDH.htm)|Boiling Blood|
 |[e3kt6jZa3bspNiSF.htm](pathfinder-bestiary-3-items/e3kt6jZa3bspNiSF.htm)|Anchored Soul|
 |[e3ozogxqOi4jcWiU.htm](pathfinder-bestiary-3-items/e3ozogxqOi4jcWiU.htm)|Pungent Aura|
-|[E4Nclckgv1bSz78W.htm](pathfinder-bestiary-3-items/E4Nclckgv1bSz78W.htm)|Blood Scent|
 |[E6dBhZRBf4SXzGl7.htm](pathfinder-bestiary-3-items/E6dBhZRBf4SXzGl7.htm)|Resize Plant|
 |[e81mjeZGp9mKBDKv.htm](pathfinder-bestiary-3-items/e81mjeZGp9mKBDKv.htm)|Change Shape|
 |[EAC12Ob2QRDH7V3R.htm](pathfinder-bestiary-3-items/EAC12Ob2QRDH7V3R.htm)|Breath Weapon|
@@ -1867,6 +1866,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dzHyKmRIrVao4ke0.htm](pathfinder-bestiary-3-items/dzHyKmRIrVao4ke0.htm)|Darkvision|Vision dans le noir|libre|
 |[E1tUKsZc3ldzya9y.htm](pathfinder-bestiary-3-items/E1tUKsZc3ldzya9y.htm)|At-Will Spells|Sorts à volonté|libre|
 |[E3tmyHUT7v0BSgAP.htm](pathfinder-bestiary-3-items/E3tmyHUT7v0BSgAP.htm)|Greater Constrict|Constriction supérieure|libre|
+|[E4Nclckgv1bSz78W.htm](pathfinder-bestiary-3-items/E4Nclckgv1bSz78W.htm)|Blood Scent|Perception du sang|officielle|
 |[e4q0ijGMv88voluX.htm](pathfinder-bestiary-3-items/e4q0ijGMv88voluX.htm)|Grab|Empoignade/Agrippement|libre|
 |[EaFbQFfNsYFJLrSK.htm](pathfinder-bestiary-3-items/EaFbQFfNsYFJLrSK.htm)|Fangs|Crocs|libre|
 |[eaYQr6jbgAf1fd2l.htm](pathfinder-bestiary-3-items/eaYQr6jbgAf1fd2l.htm)|Jaws|Mâchoires|libre|

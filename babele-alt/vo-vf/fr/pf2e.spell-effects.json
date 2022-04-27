@@ -409,7 +409,7 @@
         {
             "id": "Spell Effect: Inspire Defense",
             "name": "Spell Effect: Inspire Defense (Effet : Inspiration défensive)",
-            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration défensive}</em></p>\n<p>Vous inspirez vos alliés à se protéger plus efficacement. Vous et tous les alliés de la zone gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde, ainsi qu'une résistance égale à la moitié du niveau du sort aux dégâts physiques</p>\n<p><em>Remarque : la résistance n'est pas automatiquement ajoutée.</em></p>"
+            "description": "<p>Accordé par <em>@Compendium[pf2e.spells-srd.bH0kPuf7UKxRvi2P]{Inspiration défensive}</em></p>\n<p>Vous gagnez un bonus de statut de +1 à la CA et aux jets de sauvegarde, ainsi qu'une résistance égale à la moitié du niveau du sort aux dégâts physiques</p>"
         },
         {
             "id": "Spell Effect: Blood Ward",
@@ -994,7 +994,7 @@
         {
             "id": "Spell Effect: Juvenile Companion",
             "name": "Spell Effect: Juvenile Companion (Effet : Compagnon juvénile)",
-            "description": "<p>Vous transformez votre compagnon en sa forme juvénile, comme un  comme un petit, un poulain, un chaton, un chiot ou un porcelet, lui donnant un aspect inoffensif. Il devient de taille Petite (s'il était plus grand) et sont allonge est réduite à 0 mètres. Toutes ses Vitesses sont divisées par deux (jusqu'à une Vitesse minimum de 1,5 mètres) et il obtient une faiblesse 5 contre les dégâts physiques. Pour tout le reste, ses pouvoirs et statistiques ne sont pas modifiées.</p>\n<p>Si votre compagnon utilise une action hostile, <em>Compagnon juvénile</em> se termine. Ce sort n'a aucun effet sur un compagnon qui ne possède pas de forme juvénile.</p>\n<hr />\n<p><strong>Intensifié (2e)</strong> La durée passe à 1 heure.</p>"
+            "description": "<p>La créature devient Petite (si elle était plus grande) et son allonge est réduite à 0 mètres. Toutes ses Vitesses sont divisées par deux (jusqu'à une Vitesse minimum de 1,5 mètres) et il obtient une faiblesse 5 contre les dégâts physiques.</p>"
         },
         {
             "id": "Spell Effect: Aerial Form (Bird)",

@@ -109,7 +109,7 @@
         {
             "id": "Independent",
             "name": "Indépendant (Independent)",
-            "description": "<p>Lors d'une rencontre, si vous ne donnez pas d'ordre à votre familier, il obtient toujours 1 action chaque round. Typiquement, vous décidez toujours comment il dépense cette action, mais le MJ peut déterminer que votre familier choisit sa propre tactique plutôt qu'accomplir l'action que vous préférez.</p>"
+            "description": "<p>Lors d'une rencontre, si vous ne donnez pas d'ordre à votre familier, il obtient toujours 1 action chaque round. Typiquement, vous décidez toujours comment il dépense cette action, mais le MJ peut déterminer que votre familier choisit sa propre tactique plutôt qu'accomplir l'action que vous préférez. Cela ne fonctionne pas avec @Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]{Valet} ou des capacités similaires qui requièrent un ordre, si vous êtes capable de monter votre familier ou situations similaires.</p>"
         },
         {
             "id": "Climber",
@@ -224,7 +224,7 @@
         {
             "id": "Spellcasting",
             "name": "Incantateur (Spellcasting)",
-            "description": "<p>Choisissez un sort dans votre répertoire ou que vous avez préparé dans la journée qui est d'au moins 5 niveaux inférieur à votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconvénient qui affecte l'incantateur, vous êtes affectés tous les deux. Vous devez être capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir cette capacité.</p>"
+            "description": "<p>Choisissez un sort dans votre répertoire ou que vous avez préparé dans la journée qui est d'au moins 5 niveaux inférieur à votre plus haut niveau d'emplacement de sort. Votre familier peut Lancer ce sort une fois par jour en utilisant votre tradition magique, votre modificateur de sort et votre DD de sort. Si le sort a un inconvénient qui affecte l'incantateur, vous êtes affectés tous les deux. Vous devez être capable de lancer des sorts de niveau 6 en utilisant des emplacements de sort pour choisir ce pouvoir.</p>"
         },
         {
             "id": "Damage Avoidance: Fortitude",

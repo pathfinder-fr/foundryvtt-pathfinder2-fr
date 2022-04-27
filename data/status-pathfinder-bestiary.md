@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 449
- * **changé**: 19
+ * **officielle**: 450
+ * **changé**: 18
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -22,7 +22,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|Rejeton de la colère|changé|
 |[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|changé|
 |[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|Rejeton de l'envie|changé|
-|[QT2gA8WMaT2cuXr7.htm](pathfinder-bestiary/QT2gA8WMaT2cuXr7.htm)|Pit Fiend|Diantrefosse (Diable)|changé|
 |[RDFvGocLW0OuHmlC.htm](pathfinder-bestiary/RDFvGocLW0OuHmlC.htm)|Wendigo|Wendigo|changé|
 |[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|Rejeton de la gourmandise|changé|
 |[tTmml7T2Knz2NrLd.htm](pathfinder-bestiary/tTmml7T2Knz2NrLd.htm)|Crag Linnorm|Linnorm des falaises|changé|
@@ -355,6 +354,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[qr46S4VDnaUK0GcM.htm](pathfinder-bestiary/qr46S4VDnaUK0GcM.htm)|Faceless Stalker|Traqueur sans visage (Alghollthu)|officielle|
 |[QRjjE4TJNfaDhhQC.htm](pathfinder-bestiary/QRjjE4TJNfaDhhQC.htm)|Giant Frilled Lizard|Lézard à collerette géant|officielle|
 |[QRRX82FIjBKd8pzs.htm](pathfinder-bestiary/QRRX82FIjBKd8pzs.htm)|Guard Dog|Chien de garde|officielle|
+|[QT2gA8WMaT2cuXr7.htm](pathfinder-bestiary/QT2gA8WMaT2cuXr7.htm)|Pit Fiend|Diantrefosse (Diable)|officielle|
 |[quXuocHuT2US7cWz.htm](pathfinder-bestiary/quXuocHuT2US7cWz.htm)|Daeodon|Daeodon|officielle|
 |[R9eoGwQ2tudxUKxS.htm](pathfinder-bestiary/R9eoGwQ2tudxUKxS.htm)|Black Kobold Dragon Mage|Mage draconique Noir Kobold|officielle|
 |[r9w1n85mp9Ip4QiS.htm](pathfinder-bestiary/r9w1n85mp9Ip4QiS.htm)|Kobold Warrior|Guerrier kobold|officielle|

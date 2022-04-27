@@ -1800,7 +1800,7 @@
             "description": "<p>Quand une armée de diables envahit une région en la plongeant dans un bain de sang et dans un feu infernal, il est probable qu’un des plus redoutables et diaboliques généraux des Enfers, les diantrefosses, ait orchestré l’incursion. Rusés, puissants et sans pitié, les diantrefosses sont souvent directement au service des archidiables. Ils règnent sur des duchés infernaux, assujettissent des mondes de mortels et s’arrogent le pouvoir de leurs rivaux en ayant recours à un despotisme sans égal et une férocité calculée. Pour réaliser leurs machinations tyranniques, les diantrefosses revendiquent des âmes de mortels qu’ils corrompent en serviteurs lémures. Grâce à des manipulations infernales, ces derniers peuvent être alors transformés en terrifiants diables qui constituent les redoutables légions des Enfers. Ils choisissent souvent les lémures les plus abjects et les plus vicieux pour leurs troupes, tirant parti de la dépravation de ces diables inférieurs lors de puissantes cérémonies magiques au cours desquelles ils créent des abominations hideuses et terrifiantes capables de terroriser et d’éventrer les ennemis des diantrefosses.</p> \n<p>Les diantrefosses sont eux-mêmes conçus dans les plus profondes entrailles cauchemardesques de Nessus, la neuvième strate des Enfers, pour servir les archidiables et les ducs infernaux. Les diantrefosses qui ne quittent pas Nessus pour commander des légions infernales dans les strates supérieures constituent la cour des Enfers, une élite formant des cabales et des sectes qui façonnent par leurs subterfuges et leurs manipulations le paysage politique de ce plan. Mais de nombreux diantrefosses se considèrent comme les incarnations vivantes du feu infernal, la fureur universelle des Enfers, et préfèrent donc résider dans les royaumes ravagés par le feu. Sur les strates d’Averne, de Dis, de Maleboge, de Nessus et de Phlegethon, les diantrefosses construisent de vastes citadelles de soufre enveloppées de flammes.</p>\n<p>Les diantrefosses sont les plus grands des diables ; ils mesurent au moins 4,80 mètres pour un poids de plus de 500 kilos et une envergure de 6 mètres avec leurs ailes déployées Membres d’élite de l’infrastructure politique et de la chaîne de commandement des Enfers, les ducs infernaux sont choisis parmi les diables les plus tyranniques, les plus oppressifs et les plus sournois. Bien que tous les ducs infernaux ne soient pas des diantrefosses, la disposition naturelle de ces derniers pour la conquête et l’oppression en font souvent les candidats idéaux pour cette position. Pour créer un duc infernal, modifiez le diantrefosse pour qu’il soit d’un niveau compris entre 21 et 25. En raison de leurs prouesses physiques, de leur nature manipulatrice et de leurs puissantes capacités d’incantateurs, les ducs infernaux sont d’excellents vilains pour des campagnes à long terme.</p>\n<hr />\n<p>Maîtres de la corruption et architectes des conquêtes, les diables cherchent aussi bien à tenter les mortels pour qu’ils se joignent à leur quête blasphématoire, qu’à répandre la tyrannie sur tous les mondes. Les tentations auxquelles ils peuvent soumettre les mortels vont de grands pouvoirs accordés en signant un contrat infernal à des faveurs perverses octroyées après un serment adressé dans un murmure à une entité diabolique, en passant par toutes sortes d’échanges plus subtils. Ceux qui succombent à ces tentations se retrouvent condamnés à une après-vie de tourments éternels dans les gouffres des Enfers dont ils ne peuvent s’échapper qu’en étant promus en devenant des diables au sein des légions infernales. Chaque diable a un rôle précis à jouer dans l’entretien de la machine bureaucratique sans scrupule que sont les Enfers, des soldats et des érudits aux inquisiteurs, avocats, juges et exécuteurs. Les diables de rang inférieur comme les lémures et les diablotins s’occupent de tâches subalternes pour des diables plus puissants et spécialisés, comme les diables des contrats et les érinyes, tandis que les plus grands d’entre eux les diantrefosses, commandent des armées infernales.</p>",
             "hpdetails": "régénération 30 (désactivée par bon)",
             "languages": "Télépathie 30 m",
-            "saves": "+1 de statut contre la magie",
+            "saves": "bonus de statut de +1 contre la magie",
             "senses": "vision lucide, vision dans le noir supérieure"
         },
         {
@@ -3429,6 +3429,11 @@
             "items-description": "<p>Le traqueur caligni inflige [[/r {1d6}[precision]]]{1d6 dégâts de précision} supplémentaires aux créatures prises eu dépourvu.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
         },
         {
+            "id": "5wsaNGdGzezNTnea",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "XCfMmPXvB7LJznlU",
             "name": "Frost Composite Longbow",
             "items-description": ""
@@ -3452,6 +3457,11 @@
             "id": "1hjabmTtR1jzUEh9",
             "name": "Hellish Revenge",
             "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une Frappe inflige un coup critique au molosse nessien.</p>\n<p><strong>Effet</strong> Le Souffle du molosse est rechargé. Il peut l’utiliser immédiatement lors de sa réaction.</p>"
+        },
+        {
+            "id": "V45K2AmQDPCGIMET",
+            "name": "Blood Scent",
+            "items-description": "<p>Un requin peut sentir du sang dans l’eau à une distance de 1,5 km.</p>"
         },
         {
             "id": "bW0FVpeKKVStkJVf",
@@ -3849,6 +3859,11 @@
             "items-description": ""
         },
         {
+            "id": "91Bz1Au1eeA0F5Kc",
+            "name": "Breach",
+            "items-description": "<p>Le mégalodon Nage sur une distance maximale égale à sa Vitesse de nage puis Bondit verticalement hors de l’eau jusqu’à une hauteur de 7,5 m et porte une Frappe contre une créature à n’importe quel moment de son saut. Grâce à son allonge, il peut ainsi attaquer une créature qui se trouve jusqu’à 10,5 m au-dessus de la surface de l’eau (ou à 12 m s'il fait une Frappe avec sa queue). Après la Frappe, le mégalodon retombe dans l’eau.</p>"
+        },
+        {
             "id": "r5JyVLxepP2bpNAq",
             "name": "Draconic Frenzy",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de queue dans n'importe quel ordre.</p>"
@@ -4154,6 +4169,11 @@
             "items-description": "<p>Les Frappes d’un nosoi affectent les créatures intangibles comme si elles bénéficiaient d’une rune de propriété @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} et infligent [[/r {1d6}[positive]]]{1d6 dégâts négatifs} aux créatures vivantes ou [[/r {1d6}[positive]]]{1d6 dégâts positifs} aux morts-vivants.</p>"
         },
         {
+            "id": "NUQlBj6YHAwX4fEr",
+            "name": "Ghost Hunter",
+            "items-description": "<p>. Les armes du crépusculaire bénéficient de la propriété d’une rune <em>@Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{spectrale} pour les attaques contre des morts-vivants intangibles. </p>"
+        },
+        {
             "id": "hcXr2FC36bTLJ9kF",
             "name": "Composite Shortbow",
             "items-description": ""
@@ -4172,6 +4192,11 @@
             "id": "tFYFPReEO8BIA94l",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "qssb4IVNo6C2zIwe",
+            "name": "Self-Resurrection",
+            "items-description": "<p>Quand un phénix \nmeurt, il se décompose en un tas de cendres brûlantes avant de revenir à la vie entièrement guéri [[/br 1d4 #Auto Résurrection]]{1d4 rounds} plus tard comme s’il avait bénéficié des effets d’un rituel de <em>@Compendium[pf2e.spells-srd.kqhPt9344UkcGVYO]{Résurrection}</em> au niveau 7. L’auto-résurrection ne se produit que s’il reste quelque chose à ressusciter ; par exemple, un phénix tué par un sort <em>@Compendium[pf2e.spells-srd.r7ihOgKv19eJQnik]{Désintégration}</em> ne peut utiliser ce pouvoir. Un phénix dont les restes se trouvent dans une zone dédiée par <em>@Compendium[pf2e.spells-srd.Dbd5W6G8U2vzWolN]{Consécration}</em> à une divinité mauvaise ne peut ressusciter tant que ses cendres demeurent dans cette zone.</p>\n<p>Un phénix ne peut utiliser ce pouvoir qu’une seule fois par an.</p>"
         },
         {
             "id": "1BwIo7mgXKcuS2Vg",
@@ -4447,6 +4472,11 @@
             "id": "MJ00yNypQKm6JLmB",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "sClpmySLDIh95u0m",
+            "name": "Wavesense 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
         },
         {
             "id": "1ArJ2KyY45DuuLtC",
@@ -4734,6 +4764,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "Lj4RQQp6b9XUoSUb",
+            "name": "Wavesense 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
+        },
+        {
             "id": "r0Jfu2EKhpHiK8Io",
             "name": "Athletics",
             "items-description": ""
@@ -4766,7 +4801,7 @@
         {
             "id": "DD9mP7VmHRk4Lm97",
             "name": "Steady Spellcasting",
-            "items-description": "<p> Si la réaction d’une créature devrait interrompre l’action d’incantation du cerveau vampire, ce dernier a droit à un @Check[type:flat|dc:15]{test nu} DD 15. S’il le réussit, son action n’est pas interrompue. </p>"
+            "items-description": "<p>Si la réaction d’une créature devrait interrompre l’action d’incantation du cerveau vampire, ce dernier a droit à un @Check[type:flat|dc:15]{test nu} DD 15. S’il le réussit, son action n’est pas interrompue. </p>"
         },
         {
             "id": "0fQVIqLvgnfSP4JM",
@@ -4782,6 +4817,11 @@
             "id": "TpHVJUZhgcIfmmBv",
             "name": "Draconic Frenzy",
             "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe de queue dans n'importe quel ordre.</p>"
+        },
+        {
+            "id": "5McIXOemuKXFd7Ep",
+            "name": "Vicious Wounds",
+            "items-description": "<p>En réussissant une Frappe de mâchoires ou de griffe, le ceustodaémon déchire cruellement la chair de sa victime tandis que des blessures similaires apparaissent sur son corps. La cible subit [[/r {1d6}]]{1d6 dégâts supplémentaires} et le ceustodaémon subit les mêmes dégâts. Si ces dégâts supplémentaires sont doublés, à cause d’un coup critique, le ceustodéamon subit également doubles dégâts.</p>"
         },
         {
             "id": "uQywdK0j1lggScR1",
@@ -4924,6 +4964,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "63a8hHsiAUlNCTdu",
+            "name": "Surprise Attacker",
+            "items-description": "<p>Au premier round de combat, les créatures qui n’ont pas encore agi sont @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} par le drake du désert.</p>"
+        },
+        {
             "id": "JQxkxEB6JK80gsvb",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -4934,9 +4979,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "I2ll4xGsFEeBgdRL",
+            "name": "Fast Swoop",
+            "items-description": "<p>Le diantrefosse Vole et effectue une Frappe d’aile n’importe quand pendant son déplacement.</p>"
+        },
+        {
             "id": "PB7yguG7pz4ib0ps",
             "name": "Shark Commune 150 feet",
             "items-description": "<p>Le diable des mers peut communiquer par télépathie avec les requins qui se trouvent à portée. Il peut seulement communiquer des concepts simples comme «viens», «garde» ou «attaque».</p>"
+        },
+        {
+            "id": "q9A4hwlPK1sYF6p1",
+            "name": "Keen Scythe",
+            "items-description": ""
         },
         {
             "id": "JfUL91jTnBSObypg",
@@ -4992,6 +5047,11 @@
             "id": "LqM7JU0cOL7itoch",
             "name": "Change Shape",
             "items-description": "<p>Le léchi de feuilles se transforme en Petit arbre. Pour le reste, ce pouvoir utilise les effets de <em>@Compendium[pf2e.spells-srd.dileJ0Yxqg76LMvu]{Morphologie d'arbre}</em>.</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
+        },
+        {
+            "id": "hDYxH5VuENin7Q0I",
+            "name": "Crystal Sense (Imprecise) 60 feet",
+            "items-description": "<p>Un molosse de tourbe peut percevoir les cristaux et les gemmes dans un rayon de 18 m comme s’il utilisait la capacité Odorat.</p>"
         },
         {
             "id": "44gZk9CBkA5y9VOb",
@@ -5077,6 +5137,11 @@
             "id": "2DfR3FEW268SuAYe",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "5Yp3kZDHE8gZhhLe",
+            "name": "Fist",
+            "items-description": "<p>Le Guthallath peut choisir soit @Compendium[pf2e.bestiary-ability-glossary-srd.i18TlebMzwONyPhI]{Empoignade améliorée} soit @Compendium[pf2e.bestiary-ability-glossary-srd.6l7e7CHQLESlI57U]{Bousculade améliorée} 6 m lorsqu'il touche avec une attaque de poing.</p>"
         },
         {
             "id": "bLrblJlMOfhn39My",
@@ -5392,6 +5457,11 @@
             "id": "0M6FpfseLeWc1yHA",
             "name": "Athletics",
             "items-description": ""
+        },
+        {
+            "id": "xCmDwMnAF2ZdjWhU",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
         },
         {
             "id": "2ujro0hgy7xKZGw3",
@@ -5959,6 +6029,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
         },
         {
+            "id": "reoPbPNpXyLy56Ny",
+            "name": "Shroud of Flame",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:20]{6 m} </p>\n<hr />\n<p>[[/r {4d6}[fire]]]{4d6 dégâts de feu} @Check[type:reflex|dc:37|basic:true]{Réflexes basique} DD 37</p>\n<p>Tant que cette aura est active, toute créature adjacente qui touche le phénix avec une attaque au corps à corps ou qui entre en contact avec lui d’une autre manière subit 2d6 dégâts de feu. Le phénix peut activer ou désactiver l’aura en utilisant une seule action unique qui a le trait concentration.</p>"
+        },
+        {
             "id": "0t42IbY5dtDOP3PD",
             "name": "Jaws",
             "items-description": ""
@@ -6069,6 +6144,11 @@
             "items-description": ""
         },
         {
+            "id": "64oqzNrwPutYdBRh",
+            "name": "Regeneration 20 (Deactivated by Cold or Evil)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+        },
+        {
             "id": "4fZp6kK5h1WOCAAq",
             "name": "Compression",
             "items-description": "<p>Une pieuvre géante peut passer à travers une fente d’au moins 60 cm de large sans Se faufiler et peut @Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]{Se faufiler} à travers un interstice d’au moins 30 cm de large.</p>"
@@ -6077,6 +6157,11 @@
             "id": "2sLJMpYvshlQx7Ck",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "WI20ZnQYqmSIaz3B",
+            "name": "Drawn to Service",
+            "items-description": "<p>Quand on invoque un ceustodaémon sur un autre plan avec des effets comme les rituels <em>@Compendium[pf2e.spells-srd.2ykmAVKrsAWcazcC]{Contrat planaire}</em> ou <em>@Compendium[pf2e.spells-srd.vgy00hnqxN9VoeoF]{Allié planaire}, le DD primaire et secondaire sont réduits de 5 points et le ceustodaémon ne demande que la moitié du coût normal pour ses services.</p>"
         },
         {
             "id": "aqwHyoUR6cj9y6s8",
@@ -6322,6 +6407,11 @@
             "id": "Zc2k22zs45gbuybT",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
+        },
+        {
+            "id": "5ogrmYbXtCuT4HPN",
+            "name": "Corrupt Water",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Effet</strong> Le dragon pollue de manière permanente 3 m cube de liquide dans un rayon de 27 m. Le liquide devient imbuvable et aucune créature respirant sous l’eau ne peut y vivre.</p>\n<p>Cela détruit les liquides magiques et les objets alchimiques s’ils sont d’un niveau inférieur à celui du dragon (une créature peut tenter un jet de @Check[type:will|dc:28]{Volonté} DD 28 pour protéger les liquides qu’elle possède). Cela n’affecte pas les liquides dans le corps d’une créature.</p>"
         },
         {
             "id": "qiTNUKllqrwozDmi",
@@ -6801,7 +6891,7 @@
         {
             "id": "CLQtaRBZzEVhkEpc",
             "name": "Staff Gems",
-            "items-description": "<p>Une demi-liche a depuis longtemps absorbé les sorts d’un bâton dans des nodules, des sortes de gemmes, incrustés dans son crâne, les plus gros nodules représentant les sorts des plus hats niveaux. Elle peut lancer n’importe lequel de ces sorts comme si elle Activait le bâton et elle regagne 1 charge toutes les 4 heures de torpeur jusqu’à un maximum de 8 charges. Une demi-liche typique dispose des sorts d’un <em>@Compendium[pf2e.equipment-srd.Ab5EjJyoRSec5YrW]{bâton de nécromancie supérieur} mais elle peut avoir à la place les sorts d’un autre bâton de niveau 8 ou inférieur.</p>"
+            "items-description": "<p>Une demi-liche a depuis longtemps absorbé les sorts d’un bâton dans des nodules, des sortes de gemmes, incrustés dans son crâne, les plus gros nodules représentant les sorts des plus hauts niveaux. Elle peut lancer n’importe lequel de ces sorts comme si elle Activait le bâton et elle regagne 1 charge toutes les 4 heures de torpeur jusqu’à un maximum de 8 charges. Une demi-liche typique dispose des sorts d’un <em>@Compendium[pf2e.equipment-srd.Ab5EjJyoRSec5YrW]{bâton de nécromancie supérieur} mais elle peut avoir à la place les sorts d’un autre bâton de niveau 8 ou inférieur.</p>"
         },
         {
             "id": "GIxGQeMwhYMa5aqt",
@@ -6827,6 +6917,11 @@
             "id": "XozXyBaOh9vAKQlv",
             "name": "Constant Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
+        },
+        {
+            "id": "YOkyQZ6amn9r15G3",
+            "name": "Maul",
+            "items-description": ""
         },
         {
             "id": "vUwGp8Kc7J2fDUxa",
@@ -7679,6 +7774,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "6inoR3FiOAzUbSZ8",
+            "name": "Savage",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Le requin a réussi une Frappe avec ses mâchoires lors de son action la plus récente lors de ce tour.</p>\n<p><strong>Effet</strong> La créature que le requin a touchée subit [[/r {1d12}[slashing]]]{1d12 dégâts tranchants}.</p>"
+        },
+        {
             "id": "UK0INZ5G8eq5ytop",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -7882,6 +7982,11 @@
             "id": "BXuDhj7X68wG6zma",
             "name": "Javelin",
             "items-description": ""
+        },
+        {
+            "id": "tKTCH6a5g78miSHu",
+            "name": "Commander's Aura",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 m}</p>\n<hr />\n<p>Les créatures commandées ou alliées dans l’aura qui ont un niveau inférieur à celui du diantrefosse gagnent un bonus de circonstances de +1 à leurs jets d’attaque et de dégâts, à leur CA, à leurs jets de sauvegarde et à leurs tests de compétence.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.5NSWRxAsJuvwyl0E]{Effet : Aura du commandant}</p>"
         },
         {
             "id": "0kjAz4Df4rLFyFN6",
@@ -8189,6 +8294,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "wAitzoQtepFmPhqR",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "WqyBNiwVl76DPQYF",
             "name": "Leg",
             "items-description": ""
@@ -8197,6 +8307,11 @@
             "id": "lYpvPmdtgwwrvYGd",
             "name": "Tail",
             "items-description": ""
+        },
+        {
+            "id": "5TLoRDxeWBDh6a6e",
+            "name": "Steady Spellcasting",
+            "items-description": "<p>Si la réaction d’une créature devrait interrompre l’action d’incantation de la liche, cette dernière a droit à un @Check[type:flat|dc:15]{test nu} DD 15. Si ell le réussit, son action n’est pas interrompue. </p>"
         },
         {
             "id": "GXr4u9s0uuvI5J6d",
@@ -8579,6 +8694,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "6THNxAaI4CZSj0oW",
+            "name": "Pit Fiend Venom",
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:43]{Vigueur} DD 43</p>\n<div data-visibility=\"gm\">\n<p><strong>Durée maximale</strong> 10 rounds</p>\n<p><strong>Stade 1</strong> [[/r {6d6}[poison]]]{6d6 dégâts de poison} et @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {7d6}[poison]]]{7d6 dégâts de poison} et @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 2} (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {8d6}[poison]]]{8d6 dégâts de poison} et @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainé 3} (1 round)</p>\n</div>"
+        },
+        {
             "id": "sGGqzFbYP70AiQpk",
             "name": "Jaws",
             "items-description": ""
@@ -8861,7 +8981,7 @@
         {
             "id": "oSoU8REx8w5hSHcD",
             "name": "Twisting Tail",
-            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une de ses actions de déplacement.</p>\n<p><strong>Effet</strong> Le dragon effectue une Frappe de queue contre cette créature avec un malus de –2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une de ses actions de déplacement.</p>\n<p><strong>Effet</strong> Le dragon effectue une Frappe de queue contre cette créature avec une pénalité de –2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
         },
         {
             "id": "tV18raweChPRFzPo",
@@ -9209,6 +9329,11 @@
             "items-description": ""
         },
         {
+            "id": "lgo6Chb44AWipQBi",
+            "name": "Constrict",
+            "items-description": "<p>[[/r {2d10+17}[bludgeoning]+{2d6}[evil]]]{2d10+17 contondants plus 2d6 mauvais}, @Check[type:fortitude|dc:43|basic:true]{Vigueur} DD 43</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        {
             "id": "rLFEG0L8t229JOcM",
             "name": "Jaws",
             "items-description": ""
@@ -9267,6 +9392,11 @@
             "id": "FLKA2EOS4qdy02od",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "BVtWjIcXEObj4Rr9",
+            "name": "Hunted Shot",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par round</p>\n<p><strong>Effet</strong> Le crépusculaire effectue deux Frappes à l’arc long contre la proie qu’il chasse. Si les deux touchent, faites la somme de leurs dégâts avant d’appliquer les résistances et les faiblesses.</p>"
         },
         {
             "id": "7pkevpR7Am9eNCD5",
@@ -9452,6 +9582,11 @@
             "id": "4k5fQuKObwYhz1PU",
             "name": "Jaws",
             "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d6.success]</p>"
+        },
+        {
+            "id": "a4bag8JDNGO7xCiD",
+            "name": "Savage",
+            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Le mégalodon a réussi une Frappe avec ses mâchoires lors de son action la plus récente lors de ce tour.</p>\n<p><strong>Effet</strong> La créature que le mégalodon a touchée subit [[/r {2d12}[slashing]]]{2d12 dégâts tranchants}.</p>"
         },
         {
             "id": "8x287oYylzurAA7X",
@@ -9859,9 +9994,19 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "fRDoPX53siUmNijE",
+            "name": "Steady Spellcasting",
+            "items-description": "<p>Si la réaction d’une créature devrait interrompre l’action d’incantation du glabrezu, ce dernier a droit à un @Check[type:flat|dc:15]{test nu} DD 15. S’il le réussit, son action n’est pas interrompue. </p>"
+        },
+        {
             "id": "SfTYucTXJbISe6Da",
             "name": "All-Around Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
+        },
+        {
+            "id": "5Uq09OsuqP9JPmlt",
+            "name": "Wavesense 30 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
         },
         {
             "id": "cOsFGJ38rHgozF9z",
@@ -9902,6 +10047,11 @@
             "id": "dIKN1uas299xNK54",
             "name": "Stinger",
             "items-description": ""
+        },
+        {
+            "id": "5yDMt3Vna9iVApvJ",
+            "name": "Blood Scent",
+            "items-description": "<p>Un mégalodon peut sentir du sang dans l’eau à une distance de 1,5 km.</p>"
         },
         {
             "id": "gx4QtoqFUMcJKh9b",
@@ -10204,6 +10354,11 @@
             "items-description": ""
         },
         {
+            "id": "5fkFF7Wnl8Mmf8Zu",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de grife et une Frappe de cornes dans n'importe quel ordre.</p>"
+        },
+        {
             "id": "uyX0PXYhDtx37aB0",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -10412,6 +10567,11 @@
             "id": "7XdX39vruCh59MIe",
             "name": "Divine Revulsion",
             "items-description": "<p>Si un bonnet rouge voit une créature brandir un symbole religieux associé à une divinité d’alignement bon (ce qui nécessite que cette créature accomplisse une action d’interaction) ou utiliser un tel symbole pour lancer un sort divin, le bonnet rouge doit faire un jet de Volonté DD 19. Il devient alors temporairement immunisé contre tous les symboles religieux pour 10 minutes.</p>\n<div data-visibility=\"gm\"><hr />\n<p><strong>Succès critique</strong> Le bonnet rouge n'est pas affecté</p>\n<p><strong>Succès</strong> Le bonnet rouge est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 2}</p>\n<p><strong>Échec</strong> Le bonnet rouge se trouve dans l’état @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{En fuite} pendant 1 round et est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 4}</p>\n</div>"
+        },
+        {
+            "id": "k8mtTYrWrnHjBMCO",
+            "name": "Breach",
+            "items-description": "<p>Le ver azur Nage sur une distance maximale égale à sa Vitesse de nage puis Bondit verticalement hors de l’eau jusqu’à une hauteur de 9 m et porte une Frappe contre une créature à l'apogée de son saut. Il peut ainsi attaquer une créature qui se trouve jusqu’à 13,5 m au-dessus de la surface de l’eau. Après la Frappe, l'orque retombe dans l’eau. Après la Frappe, le ver retombe dans l’eau. Pour cette Frappe, il peut utiliser Agrippement/Empoignade amélioré puis enchaîner avec Gober rapidement.</p>"
         },
         {
             "id": "xDUpwWQaZevQOkYQ",
@@ -11124,14 +11284,29 @@
             "items-description": "<p>@Check[type:reflex|dc:35|traits:damaging-effect]{Réflexes} DD 35, [[/r {4d12}[bludgeoning]]]{4d12 dégâts contondants} et <em>@Compendium[pf2e.spells-srd.ksLCg62cLOojw3gN]{Ancre Dimensionnelle}</em>, S'échapper DD 32, Rupture 28</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
         },
         {
+            "id": "5P26T61QIn85Jbfk",
+            "name": "Constrict",
+            "items-description": "<p>[[/r {1d8+4}[bludgeoning] + {1d6}[fire]]]{1d8+4 contondants plus 1d6 feu}, @Check[type:fortitude|dc:25|basic:true]{Vigueur basique} DD 25</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        {
             "id": "lLwtc5h1JK4M6Nzi",
             "name": "Knockdown",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
         },
         {
+            "id": "59wy5xK7MEQmYRxg",
+            "name": "Earth Glide",
+            "items-description": "<p>Le molosse de tourbe peut Creuser à travers n’importe quelle matière composée de terre et de roche, y compris la pierre. Quand il le fait, il se déplace à sa pleine Vitesse de creusement sans laisser de tunnel ou de traces de son passage.</p>"
+        },
+        {
             "id": "w4Cd5RsR9MjHTRDj",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "wVxhMkTfMFAVDviB",
+            "name": "Maul",
+            "items-description": ""
         },
         {
             "id": "wgSeXMtV7TUrqAqJ",
@@ -11729,6 +11904,11 @@
             "items-description": ""
         },
         {
+            "id": "5TVlHOsmwK2Om8pu",
+            "name": "Hunt Prey",
+            "items-description": "<p>Le crépusculaire désigne comme sa proie une créature qu’il peut voir et entendre ou qu’il Piste. Il gagne un bonus de circonstances de +2 aux tests de Perception quand il @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Cherche} sa proie et un bonus de circonstances de +2 aux tests de Survie quand il la @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Piste}. Il ignore également le malus aux attaques à distance si cette proie se trouve dans le deuxième facteur de portée de son arme. </p> \n<p>Enfin, il bénéficie d’un bonus de circonstances de +2 aux tests de Duperie, d’Intimidation, de Discrétion contre sa proie et à tous les tests pour Se souvenir d’informations à son sujet. Il bénéficie également d’un bonus de circonstances de +1 à la CA contre ses attaques. Le crépusculaire ne peut désigner qu’une seule proie à la fois.</p>"
+        },
+        {
             "id": "pIuRGB2pXEwdYSox",
             "name": "Constant Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -11849,6 +12029,11 @@
             "items-description": ""
         },
         {
+            "id": "DpI5QZQJMNjqef3w",
+            "name": "Surprise Attacker",
+            "items-description": "<p><p>Au premier round de combat, les créatures qui n’ont pas encore agi sont @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} par le tengu.</p></p>"
+        },
+        {
             "id": "Adq96cMm6jUHjnw3",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
@@ -11964,6 +12149,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "Hor4EOQfUGAkFak1",
+            "name": "Flaming Composite Longbow",
+            "items-description": ""
+        },
+        {
             "id": "LnCX5HAN8VUMv1f5",
             "name": "Hop-Dodge",
             "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Le cauthooj est la cible d’une Frappe de corps à corps et est adjacent à un autre adversaire qui est aussi à portée de la Frappe de corps à corps.</p>\n<p><strong>Effet</strong> Le cauthooj fait un saut de côté, redirigeant la Frappe contre l’adversaire adjacent. Le cauthooj Marche rapidement de la moitié de sa Vitesse au maximum et se déplacement ne déclenche pas de réactions.</p>"
@@ -12027,6 +12217,11 @@
             "id": "FVn9vebx0n5CJW76",
             "name": "Tail",
             "items-description": ""
+        },
+        {
+            "id": "cjHi3qrYqK60e3Nn",
+            "name": "Attack of Opportunity",
+            "items-description": "<div data-visibility=\"gm\">\n<p>En plus du déclencheur normal, le diantrefosse peut utiliser Attaque d’opportunité quand une créature à portée utilise une action concentration. Il peut interrompre des actions de concentration qui déclenchent cette capacité et interrompt des actions en cas de réussite pas uniquement en cas de coup critique.</p>\n<hr /></div>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
             "id": "3uMuKyVKQxpFxP0o",
@@ -12127,6 +12322,11 @@
             "id": "R3u6nnIK33qXVJNK",
             "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
+        },
+        {
+            "id": "5O3D1KLFuAtqX80b",
+            "name": "Grabbing Trunk",
+            "items-description": "<p>Une créature de taille Moyenne ou plus petite touchée par la trompe de l’éléphant est  @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agrippé}. Si l'éléphant se déplace, il peut emporter la créature agrippée avec lui.</p>"
         },
         {
             "id": "SsJk8HtdVTC3HZUK",
@@ -12322,6 +12522,11 @@
             "id": "hr7MMe0oUKYOwUNV",
             "name": "Tusk",
             "items-description": ""
+        },
+        {
+            "id": "CEngjOQBRH1DpQeo",
+            "name": "Breach",
+            "items-description": "<p>Le requin Nage sur une distance maximale égale à sa Vitesse de nage puis Bondit verticalement hors de l’eau jusqu’à une hauteur de 7,5 m et porte une Frappe contre une créature à n’importe quel moment de son saut. Il peut ainsi attaquer une créature qui se trouve jusqu’à 9 m au-dessus de la surface de l’eau. Après la Frappe, le requin retombe dans l’eau.</p>"
         },
         {
             "id": "MfBsuZaAMldux4Xb",
@@ -12714,6 +12919,11 @@
             "items-description": "<p>Grande, [[/r {2d8+7}[bludgeoning]{2d8+7 dégâts contondants}, Rupture 18</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
         },
         {
+            "id": "5U4QH2sM8ipWEAcR",
+            "name": "Fast Healing 1",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
+        },
+        {
             "id": "I98w77MsvsKISF0z",
             "name": "Frightful Presence",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:100]{30 m} @Check[type:will|dc:35]{Volonté} DD 35</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
@@ -12819,6 +13029,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         },
         {
+            "id": "5PDURAzo537r6kje",
+            "name": "Constrict",
+            "items-description": "<p>[[/r {1d6+4}[bludgeoning]]]{1d6+4 dégâts contondants}, @Check[type:fortitude|dc:20|basic:true]{Vigueur basique} DD 20</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
+        },
+        {
             "id": "4vrCCq5VVcSm3rwb",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -12837,6 +13052,11 @@
             "id": "WJYznUjqpKPO2kQz",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "qDVNiRd6lW8OACXz",
+            "name": "Talon",
+            "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d10.success]</p>"
         },
         {
             "id": "cpfFNNa5pJRIFFS4",
@@ -12934,6 +13154,11 @@
             "items-description": ""
         },
         {
+            "id": "g5dltca5pjhRzJMP",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "qe55DvvyEW3AC1KT",
             "name": "Thoughtsense (Imprecise) 60 feet",
             "items-description": "<p>Le cauthooj perçoit l’essence mentale des créatures à la portée indiquée.</p>"
@@ -12971,6 +13196,11 @@
         {
             "id": "c2UaCFr89s3CtUzy",
             "name": "Rock",
+            "items-description": ""
+        },
+        {
+            "id": "GXAVCqQeEroRFdal",
+            "name": "Crafting",
             "items-description": ""
         },
         {
@@ -13184,6 +13414,11 @@
             "items-description": ""
         },
         {
+            "id": "tzsc7ldZ2eR2z0XM",
+            "name": "Regeneration 30 (Deactivated by Good)",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
+        },
+        {
             "id": "oWIxJUR2edElUUod",
             "name": "Fist",
             "items-description": ""
@@ -13209,6 +13444,11 @@
             "items-description": ""
         },
         {
+            "id": "osaWxy5RrqJdKuni",
+            "name": "Armor of Flames",
+            "items-description": "<p>La salamandre attise ses flammes internes. Jusqu’au début de son prochain tour, elle gagne un bonus de circonstances de +2 à sa CA et quand une créature adjacente la touche ou la frappe avec une attaque physique réussie, cette créature subit [[/r {2d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{2d6 dégâts de feu persistants} à moins de réussir un jet de @Check[type:reflex|dc:25|traits:damaging-effect]{Réflexes} DD 25.</p>"
+        },
+        {
             "id": "MRMj6jc7E8e5c7UF",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -13217,6 +13457,11 @@
             "id": "j7PKag1rt4Uml8gg",
             "name": "Scent (Imprecise) 30 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "yWxsd7SGgC3z0IoN",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
         },
         {
             "id": "jAZY8WC1BtImPyEF",
@@ -13934,6 +14179,11 @@
             "items-description": ""
         },
         {
+            "id": "5CiCYm71I6kB4UPC",
+            "name": "Masterful Quickened Casting",
+            "items-description": "<p data-visibility=\"gm\"><strong>Fréquence</strong> une fois par round.\n<p><strong>Effet</strong> Si à sa prochaine action le diantrefosse lance un sort inné de niveau 8 ou inférieur, réduisez de 1 le nombre d’actions pour le lancer (minimum 1 action).</p>"
+        },
+        {
             "id": "pJ0MYG8bkvto7yHb",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
@@ -13957,6 +14207,11 @@
             "id": "clqibIDmibjUw6f7",
             "name": "Jaws",
             "items-description": ""
+        },
+        {
+            "id": "eBfnitbq2Wb56ZRG",
+            "name": "Flaming Strafe",
+            "items-description": "<p>Le phénix s’embrase de flammes surchauffées et Vole jusqu’à sa Vitesse maximale. Il inflige [[/r {6d6}[fire]]]{6d6 dégâts de feu} à toutes les créatures situées dans un @Template[type:emanation|distance:20]{rayon de 6 m} de toute case dans laquelle il se déplace (@Check[type:reflex|dc:37|basic:true]{Réflexes basique} DD 37).</p>"
         },
         {
             "id": "iVZkQBGcIBXlxkcc",
@@ -14129,6 +14384,11 @@
             "items-description": ""
         },
         {
+            "id": "hsDNG89JDWAbCW9D",
+            "name": "Beak",
+            "items-description": "<p>@Localize[PF2E.PersistentDamage.Fire2d10.success]</p>"
+        },
+        {
             "id": "atH4c29XMbIXGwpG",
             "name": "+2 Status to All Saves vs Magic",
             "items-description": ""
@@ -14147,6 +14407,11 @@
             "id": "LUPkzJMY0W8x0Vsd",
             "name": "Fist",
             "items-description": ""
+        },
+        {
+            "id": "5ozQMc30WbtUYecf",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon d'or porte deux Frappes de griffe et une Frappe de corne dans n'importe quel ordre.</p>"
         },
         {
             "id": "oqGxkGNFqdTqq3p0",
@@ -14172,6 +14437,11 @@
             "id": "bA2QzO0CkyheAgub",
             "name": "Claw",
             "items-description": ""
+        },
+        {
+            "id": "62o3Ky65LWW5uKNE",
+            "name": "Trample",
+            "items-description": "<p>Grande ou plue petite, poing, @Check[type:reflex|dc:30|basic:true]{Réflexes basique} DD 30</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
         },
         {
             "id": "7Z1lYeu3xHpx2SPZ",
@@ -14292,6 +14562,11 @@
             "id": "WeXirhh6gD0DCTGB",
             "name": "Root",
             "items-description": ""
+        },
+        {
+            "id": "63iXwIDFMddnz4kz",
+            "name": "Eagle Dive",
+            "items-description": "<p>L’aigle Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Vole} jusqu’à deux fois sa Vitesse de Vol en ligne droite, en réduisant son altitude d’au moins 3 m, puis il effectue une Frappe de serres.</p>"
         },
         {
             "id": "0BMCA9P7mLMAMs10",
@@ -14849,6 +15124,16 @@
             "items-description": "<p>[[/r {1d8+9}[bludgeoning]]]{1d8+9 contondants}</p>\n<p><em>Note : Paizo n'a pas fourni le DD pour cette capacité. Le DD suggéré est @Check[type:fortitude|dc:26|basic:true]{Vigueur} vasique DD 26}</em></p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
         },
         {
+            "id": "qf9VkXweMZaEf2DP",
+            "name": "Breath Weapon",
+            "items-description": "<p>Le ceustodaémon souffle des flammes dans un @Template[type:cone|distance:30]{cône de 9 m}. Les créatures dans le cône subissent [[/r {7d6}[fire]]]{7d6 dégâts de feu} (@Check[type:reflex|dc:24|basic:true]{Réflexes basique} DD 24).</p>\n<p>Le ceustodaémon et chaque créature qui manque son jet prend feu, subissant [[/r {2d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants}.</p>\n<p data-visibility=\"gm\">L'arme de souffle ne peut être utilisée de nouveau pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>"
+        },
+        {
+            "id": "i8xGkDyTBirx7HaW",
+            "name": "Blood Scent",
+            "items-description": "<p>Un bunyip peut sentir du sang dans l’eau à une distance de 1,5 km.</p>"
+        },
+        {
             "id": "AS5E8Dafjstrafqy",
             "name": "Constant Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -15027,6 +15312,11 @@
             "id": "XMcVGkoaO2Xaj18P",
             "name": "Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
+        },
+        {
+            "id": "JWS021oC5szbCrAS",
+            "name": "Push 15 feet",
+            "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
         },
         {
             "id": "GmPqLo8cPqMgY6V2",

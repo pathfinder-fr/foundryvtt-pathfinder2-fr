@@ -1,25 +1,19 @@
 # État de la traduction (ancestryfeatures)
 
- * **libre**: 26
- * **changé**: 1
+ * **libre**: 27
  * **officielle**: 3
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[feat-00-BgHrucbZ9TH92RDv.htm](ancestryfeatures/feat-00-BgHrucbZ9TH92RDv.htm)|Sunlight Healing|Guérison par le soleil|changé|
-
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[feat-00-AUlPRySCqE6o6LHH.htm](ancestryfeatures/feat-00-AUlPRySCqE6o6LHH.htm)|Eyes in Back|Yeux dans le dos|libre|
 |[feat-00-AzGJN1wwLFaLJIeo.htm](ancestryfeatures/feat-00-AzGJN1wwLFaLJIeo.htm)|Aquatic Adaptation|Adaptation aquatique|libre|
+|[feat-00-BgHrucbZ9TH92RDv.htm](ancestryfeatures/feat-00-BgHrucbZ9TH92RDv.htm)|Sunlight Healing|Guérison par le soleil|libre|
 |[feat-00-BHPDeqQHqi7ukCUW.htm](ancestryfeatures/feat-00-BHPDeqQHqi7ukCUW.htm)|Constructed (Poppet)|Construit (poupée)|libre|
 |[feat-00-dCp517IUFJk8JvQc.htm](ancestryfeatures/feat-00-dCp517IUFJk8JvQc.htm)|Fangs|Crocs|libre|
 |[feat-00-DRtaqOHXTRtGRIUT.htm](ancestryfeatures/feat-00-DRtaqOHXTRtGRIUT.htm)|Low-Light Vision|Vision nocturne|officielle|

@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
- * **libre**: 129
- * **changé**: 94
+ * **libre**: 147
+ * **changé**: 76
  * **aucune**: 12
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -40,25 +40,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[gutbzYTZvRTnq4on.htm](deities/gutbzYTZvRTnq4on.htm)|Adanye|Adanye|changé|
 |[kiTcZxmKxGPCwDpg.htm](deities/kiTcZxmKxGPCwDpg.htm)|Kalekot|Kalekot|changé|
 |[oV5cnlPJQS8JfMIg.htm](deities/oV5cnlPJQS8JfMIg.htm)|Cosmic Caravan|Caravane cosmique|changé|
-|[oyp2E685VsQFKMXi.htm](deities/oyp2E685VsQFKMXi.htm)|Dranngvit|Dranngvit|changé|
 |[pCtJONJlhAugUXaG.htm](deities/pCtJONJlhAugUXaG.htm)|Ahriman|Ahriman|changé|
-|[PFp4Sdp2TDDKD62l.htm](deities/PFp4Sdp2TDDKD62l.htm)|Thamir|Thamir|changé|
-|[pm8H2DbtrHM01KNV.htm](deities/pm8H2DbtrHM01KNV.htm)|Naderi|Nadéri|changé|
-|[pVQzTL5elNTxvffu.htm](deities/pVQzTL5elNTxvffu.htm)|The Green Mother|La mère verte|changé|
-|[QibpLccM5bLUMopj.htm](deities/QibpLccM5bLUMopj.htm)|Lymnieris|Lymniéris|changé|
-|[QlDnoOwf0PppymTn.htm](deities/QlDnoOwf0PppymTn.htm)|Hanspur|Hanspur|changé|
-|[qqqrbq4uCrelQvgH.htm](deities/qqqrbq4uCrelQvgH.htm)|Irori|Irori|changé|
-|[QRkcFciCOmFoxF1B.htm](deities/QRkcFciCOmFoxF1B.htm)|Asmodeus|Asmodéus|changé|
-|[QZD0u1jxwz0kj8uI.htm](deities/QZD0u1jxwz0kj8uI.htm)|Pharasma|Pharasma|changé|
-|[R0DvoLO8WbYIYhb3.htm](deities/R0DvoLO8WbYIYhb3.htm)|Atreia|Atréia|changé|
-|[r5vooG7NfvA9prJK.htm](deities/r5vooG7NfvA9prJK.htm)|Kurgess|Kurgess|changé|
-|[r6SFB1PzKsagDXff.htm](deities/r6SFB1PzKsagDXff.htm)|Lady Nanbyo|Dame Nanbyo|changé|
-|[ra7mnjAZcEuJxI37.htm](deities/ra7mnjAZcEuJxI37.htm)|Shei|Sheï|changé|
-|[RbslST0RZPXj6Eby.htm](deities/RbslST0RZPXj6Eby.htm)|Ashukharma|Ashukharma|changé|
-|[rDTXcBJ8LyqA2TkL.htm](deities/rDTXcBJ8LyqA2TkL.htm)|Szuriel|Szuriel|changé|
-|[remyY1BwhEVmBwya.htm](deities/remyY1BwhEVmBwya.htm)|Belial|Bélial|changé|
-|[rRuxBgC58PxrLzRv.htm](deities/rRuxBgC58PxrLzRv.htm)|Horus|Horus|changé|
-|[RUzMtIQal0drPwQY.htm](deities/RUzMtIQal0drPwQY.htm)|Gogunta|Gogunta|changé|
 |[RzTd9PmgnfHNlFVf.htm](deities/RzTd9PmgnfHNlFVf.htm)|Ng|Ng|changé|
 |[s1PgIQ8Oi35oS2Et.htm](deities/s1PgIQ8Oi35oS2Et.htm)|Shoanti Animism|Animisme shoanti|changé|
 |[s81N9hxffmRuy3ik.htm](deities/s81N9hxffmRuy3ik.htm)|Kerkamoth|Kerkamoth|changé|
@@ -256,4 +238,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oJPwMa9xG8oMnC14.htm](deities/oJPwMa9xG8oMnC14.htm)|Apollyon|Apollyon (Cavalier)|libre|
 |[OlVCyRgOaPJji4qt.htm](deities/OlVCyRgOaPJji4qt.htm)|Chohar|Chohar (Ancien dieu du Soleil)|libre|
 |[oRvuLq3o2FxXizt9.htm](deities/oRvuLq3o2FxXizt9.htm)|Ghlaunder|Ghlaunder (Mer Intérieure)|libre|
+|[oyp2E685VsQFKMXi.htm](deities/oyp2E685VsQFKMXi.htm)|Dranngvit|Dranngvit (Dieu Nain)|libre|
+|[PFp4Sdp2TDDKD62l.htm](deities/PFp4Sdp2TDDKD62l.htm)|Thamir|Thamir|libre|
+|[pm8H2DbtrHM01KNV.htm](deities/pm8H2DbtrHM01KNV.htm)|Naderi|Nadéri|libre|
+|[pVQzTL5elNTxvffu.htm](deities/pVQzTL5elNTxvffu.htm)|The Green Mother|La Mère verte (Aîné)|libre|
+|[QibpLccM5bLUMopj.htm](deities/QibpLccM5bLUMopj.htm)|Lymnieris|Lymniéris (Seigneur Empyréen)|libre|
+|[QlDnoOwf0PppymTn.htm](deities/QlDnoOwf0PppymTn.htm)|Hanspur|Hanspur|libre|
+|[qqqrbq4uCrelQvgH.htm](deities/qqqrbq4uCrelQvgH.htm)|Irori|Irori (Mer Intérieure)|libre|
+|[QRkcFciCOmFoxF1B.htm](deities/QRkcFciCOmFoxF1B.htm)|Asmodeus|Asmodeus (Mer Intérieure)|libre|
+|[QZD0u1jxwz0kj8uI.htm](deities/QZD0u1jxwz0kj8uI.htm)|Pharasma|Pharasma (Mer Intérieure)|libre|
+|[R0DvoLO8WbYIYhb3.htm](deities/R0DvoLO8WbYIYhb3.htm)|Atreia|Atréia (Seigneur Élémentaire)|libre|
+|[r5vooG7NfvA9prJK.htm](deities/r5vooG7NfvA9prJK.htm)|Kurgess|Kurgess (Mer Intérieure)|libre|
+|[r6SFB1PzKsagDXff.htm](deities/r6SFB1PzKsagDXff.htm)|Lady Nanbyo|Dame Nanbyo (Dieu Tianais)|libre|
+|[ra7mnjAZcEuJxI37.htm](deities/ra7mnjAZcEuJxI37.htm)|Shei|Sheï (Seigneur Empyréen)|libre|
+|[RbslST0RZPXj6Eby.htm](deities/RbslST0RZPXj6Eby.htm)|Ashukharma|Ashukharma (Dieu Vudrain)|libre|
+|[rDTXcBJ8LyqA2TkL.htm](deities/rDTXcBJ8LyqA2TkL.htm)|Szuriel|Szuriel (Cavalier)|libre|
+|[remyY1BwhEVmBwya.htm](deities/remyY1BwhEVmBwya.htm)|Belial|Bélial (Archidiable)|libre|
+|[rRuxBgC58PxrLzRv.htm](deities/rRuxBgC58PxrLzRv.htm)|Horus|Horus (Ancien dieu Osirien)|libre|
+|[RUzMtIQal0drPwQY.htm](deities/RUzMtIQal0drPwQY.htm)|Gogunta|Gogunta (Seigneur Démon)|libre|
 |[vnmoAGURp8oWCY6R.htm](deities/vnmoAGURp8oWCY6R.htm)|Soralyon|Soralyon (Seigneur Empyréen)|libre|

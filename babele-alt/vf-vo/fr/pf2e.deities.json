@@ -223,8 +223,8 @@
         },
         {
             "id": "Ashukharma",
-            "name": "Ashukharma (Ashukharma)",
-            "description": ""
+            "name": "Ashukharma (Dieu Vudrain) (Ashukharma)",
+            "description": "<p>Ashukharma est la déesse vudran des canyons et des falaises. Elle est l'amante délaissée de Dinehdal, dieu des sommets, et l'amante de Matravash, déesse de la rivière Matra. Son histoire attire les prières des amants bafoués et de ceux qui doivent faire face à des dissensions entre eux et leurs amis ou familles.</p>\n<p><strong>Édits</strong> Construire des structures défensives, créer et faire respecter des frontières physiques et émotionnelles, faire obstacle aux voyages.</p>\n<p><strong>Anathèmes</strong> Continuer d’entretenir une relation personnelle avec quelqu’un qui vous a repoussé, détruire une barrière naturelle, trahir un amant.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude}, @Compendium[pf2e.domains.rIDXRIdb9m2E3qC6]{Terre} </p>"
         },
         {
             "id": "Isis",
@@ -293,8 +293,8 @@
         },
         {
             "id": "Belial",
-            "name": "Bélial (Belial)",
-            "description": ""
+            "name": "Bélial (Archidiable) (Belial)",
+            "description": "<p>Le souverain de la quatrième strate des Enfers, Phlégéthon, est Bélial. Le Baiser Blême fut créé par Asmodeus pour être un objet d’adoration, d’apparence parfaite et de beauté sans tache aux yeux de toute créature. En conséquence, l’apparence de Bélial est virtuellement malléable à l’infini, et il en change presque constamment. Elle est souvent aussi dualiste que sa personnalité : son corps est pour moitié magnifique, pour moitié grotesque, de même qu’il se délecte autant du plaisir que de la douleur. Bélial est une créature de désirs charnels, comme ses adorateurs, qui éprouvent un besoin maladif de plaisirs de la chair, mais le cachent derrière un masque de respectabilité.</p>\n<p><strong>Édits</strong> Assouvir ses désirs les plus bas, créer des armes meurtrières.</p>\n<p><strong>Anathèmes</strong> Empêcher la réalisation d’un acte hédoniste important, trop s’attacher à un amant ou à un projet.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Ayrzul",
@@ -353,8 +353,8 @@
         },
         {
             "id": "Horus",
-            "name": "Horus (Horus)",
-            "description": ""
+            "name": "Horus (Ancien dieu Osirien) (Horus)",
+            "description": "<p>Horus est le dieu osirien du ciel, dont les yeux sont le soleil et la lune, les plumes les étoiles et les ailes le ciel. En tant qu'Horakhty (signifiant Horus des deux horizons), il est une divinité du soleil levant et du soleil couchant. Horus est considéré comme le souverain légendaire d'Osirion pendant l'âge de l'angoisse et est également un dieu des pharaons.</p>\n<p><strong>Édits</strong> Maintenir l’harmonie dans votre communauté, protéger ceux sur qui vous exercez une autorité.</p>\n<p><strong>Anathèmes</strong> Saper le pouvoir d’un dirigeant légitime, servir un usurpateur.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.Ze2hoTyOQHbaQ6jD]{Air}, @Compendium[pf2e.domains.mBvjWSvg7UYdS9TL]{Lune}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}</p>"
         },
         {
             "id": "Raumya",
@@ -423,8 +423,8 @@
         },
         {
             "id": "Lady Nanbyo",
-            "name": "Dame Nanbyo (Lady Nanbyo)",
-            "description": ""
+            "name": "Dame Nanbyo (Dieu Tianais) (Lady Nanbyo)",
+            "description": "<p><strong>Édits</strong> Aggraver des catastrophes naturelles, permettre aux catastrophes naturelles de se produire normalement, se réjouir de la destruction.</p>\n<p><strong>Anathèmes</strong> Laisser une catastrophe naturelle détruire entièrement une communauté ou tuer tous les membres d’un groupe.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.9blxcDLIRPWenK5f]{Fléau} </p>"
         },
         {
             "id": "Balumbdar",
@@ -503,8 +503,8 @@
         },
         {
             "id": "Kurgess",
-            "name": "Kurgess (Kurgess)",
-            "description": ""
+            "name": "Kurgess (Mer Intérieure) (Kurgess)",
+            "description": "<p>Dans le Taldor, Kurgess était autrefois un garçon de ferme mortel qui possédait une force surhumaine depuis son enfance. Son sacrifice désintéressé lors d’un concours lui valut d’accéder à la divinité. Surnommé l’Homme Fort, Kurgess est à la fois un champion et un modèle pour tous ceux qui cherchent à se réaliser par le sport et à donner le meilleur d’eux-mêmes en compétition, qu’ils soient victorieux ou non.</p>\n<p><strong>Édits</strong> Chercher constamment à s’améliorer, concourir à son plein potentiel, encourager les autres à tenter d’atteindre leur plein potentiel, obtenir la victoire ou accepter la défaite avec grâce.</p>\n<p><strong>Anathèmes</strong> Causer la destruction ou faire couler le sang de manière irréfléchie ou inutile, déshonorer ceux qui ont perdu ou échoué (y compris les ennemis vaincus ou tués), tricher lors de compétitions honorables.</p>\n<p><strong>Préoccupations</strong> Saine compétition, sport et développement physique</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité}, @Compendium[pf2e.domains.MktBsoHR9HsKrbbr]{Zèle} </p>"
         },
         {
             "id": "Shizuru",
@@ -583,8 +583,8 @@
         },
         {
             "id": "Asmodeus",
-            "name": "Asmodéus (Asmodeus)",
-            "description": ""
+            "name": "Asmodeus (Mer Intérieure) (Asmodeus)",
+            "description": "<p>Asmodeus est le Premier, le Prince Noir, le seigneur des ténèbres et de la loi et le dirigeant du plan des Enfers. Si l’on en croit ses écrits sacrés (corroborés par d’autres sources, comme le Livre des damnés écrit par des anges), il est l’un des êtres les plus vieux du multivers. Ces textes affirment qu’avant même que le temps existe, avant la création du monde, Asmodeus et son frère Ihys faisaient partie des premiers dieux. Durant cette époque sans nom, les deux dieux se disputèrent quant au sort des âmes de leurs créations et Asmodeus finit par tuer son frère. Convaincu que le libre arbitre qu’Ihys avait accordé aux mortels était une folie, Asmodeus énonça ses propres convictions : l’existence serait mieux servie par un ordre et une discipline absolus. Ces affirmations contredisent d’autres mythes de création populaires et sont remises en question par des théologiens et par les agents immortels d’autres dieux mais, en l’absence de preuve, il est aussi difficile de les étayer que de les réfuter.</p>\n<p><strong>Édits</strong>Négocier des contrats à son avantage, régner par la tyrannie et torturer les faibles, se montrer servile envers ses supérieurs.</p>\n<p><strong>Anathèmes</strong> Briser un contrat, libérer un esclave, insulter Asmodeus en montrant de la pitié envers un ennemi.</p>\n<p><strong>Préoccupations</strong> Contrats, orgueil, esclavagisme et tyrannie</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.unN0otycQZanf3va]{Devoir}, @Compendium[pf2e.domains.0cbxczrql4MwAHwV]{Glyphes} </p>"
         },
         {
             "id": "Yog-Sothoth",
@@ -623,8 +623,8 @@
         },
         {
             "id": "Lymnieris",
-            "name": "Lymniéris (Lymnieris)",
-            "description": ""
+            "name": "Lymniéris (Seigneur Empyréen) (Lymnieris)",
+            "description": "<p><strong>Édits</strong> Aider et protéger les travailleurs du sexe, aider les autres à réaliser leurs désirs, aider les autres lors des transitions difficiles</p>\n<p><strong>Anathèmes</strong> Forcer ou encourager des mariages non désirés, persécuter les travailleurs du sexe</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.ZAx1RUB376BjNdlF]{Quiétude} </p>"
         },
         {
             "id": "Sekhmet",
@@ -679,7 +679,7 @@
         {
             "id": "Hanspur",
             "name": "Hanspur (Hanspur)",
-            "description": ""
+            "description": "<p>Hanspur est un demi-dieu des voies navigables vénéré principalement dans les royaumes fluviaux. Hanspur est le dieu des domaines aquatiques de la rivière Sellen et se considère comme le seigneur de tous ceux qui voyagent dans son domaine. En tant que dieu du voyage, ses sanctuaires se trouvent toujours juste à l'extérieur des portes de la ville. Malgré cela, les peuples des royaumes fluviaux lui accordent au moins un service de pure forme, car il châtie ceux qui lui déplaisent en coulant leurs bateaux et en inondant leurs terres. Hanspur considère que les barrages qui bloquent complètement une rivière ne sont pas naturels.</p>\n<p><strong>Édits</strong> Apprendre à vivre de la rivière, protéger des dangers surnaturels ceux qui voyagent sur les cours d’eau, sauver autrui de la noyade</p>\n<p><strong>Anathèmes</strong> Aider des daémons ou les cavaliers, imposer des lois ou des restrictions injustifiées aux autres</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage} </p>"
         },
         {
             "id": "Mephistopheles",
@@ -698,8 +698,8 @@
         },
         {
             "id": "Shei",
-            "name": "Sheï (Shei)",
-            "description": ""
+            "name": "Sheï (Seigneur Empyréen) (Shei)",
+            "description": "<p><strong>Édits</strong> Apprendre des anciens, partager son expérience et s’en servir pour enseigner, valoriser les communautés locales.</p>\n<p><strong>Anathèmes</strong> Forcer autrui à suivre sa voie, infliger des dégâts négatifs, utiliser la magie pour faire vieillir quelqu’un ou lui voler son essence vitale.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.1aoUqGYDrdpnPWio]{Famille}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.J7K7kHoIE69558Su]{Liberté}, @Compendium[pf2e.domains.c9odhpRoKId5dXmn]{Perfection} </p>"
         },
         {
             "id": "Imot",
@@ -728,8 +728,8 @@
         },
         {
             "id": "Pharasma",
-            "name": "Pharasma (Pharasma)",
-            "description": ""
+            "name": "Pharasma (Mer Intérieure) (Pharasma)",
+            "description": "<p>Il n’existe aucune archive ni aucun autre dieu qui puisse se souvenir d’une époque antérieure à Pharasma. Son trône se trouve dans une vaste cathédrale gothique située sur la Tour infinie qui s’élève au centre des plans. De là, elle voit le passé et le futur, observe la naissance, la vie et la mort de chaque âme, car elle est l’arbitre final qui décide de la destination d’une âme après sa mort. Les serviteurs psychopompes de Pharasma protègent les nouvelles âmes le long de la Rivière des âmes et les guident jusqu’à son royaume, où elle les jugera et s’assurera de les envoyer dans le plan adapté à leur après-vie en fonction de leur alignement et des actions accomplies de leur vivant. Bien qu’elle puisse voir tous les futurs possibles et connaisse le destin de chaque individu, la destination finale d’une âme peut être influencée par son libre arbitre et Pharasma accorde une grande importance aux actions et aux choix de chaque individu. C’est pour cela qu’elle ne prononce son jugement qu’une fois que l’âme se présente devant elle. Ses prophéties sont cryptiques et leur signification est rarement claire tant que ses prédictions ne se sont pas réalisées.</p>\n<p><strong>Édits</strong> Essayer de comprendre d’anciennes prophéties, détruire les morts-vivants, faire reposer les cadavres en paix.</p>\n<p><strong>Anathèmes</strong> Créer des morts-vivants, profaner un cadavre, piller une tombe.</p>\n<p><strong>Préoccupations</strong> Naissance, mort, destin, prophéties et temps.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.B40VxP6oZ0mIR4PS]{Destin}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.p5Q5RGl1lKgs5DZZ]{Âme}, @Compendium[pf2e.domains.udASTZy5jJWFCt5w]{Temps}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille}</p>"
         },
         {
             "id": "Groetus",
@@ -784,7 +784,7 @@
         {
             "id": "Thamir",
             "name": "Thamir (Thamir)",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Cacher ses véritables intentions, résoudre ses problèmes par la violence, saisir toute opportunité profitable</p>\n<p><strong>Anathèmes</strong> Demander de l’aide à un autre adorateur de Thamir ou en appeler à sa compassion, voler les pauvres</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.wPtGuF1bh4wvKE6Q]{Confiance en soi}, @Compendium[pf2e.domains.HpZ4NQIqBRcFihyE]{Richesse}, @Compendium[pf2e.domains.uy8GUGIOmEUNqIhH]{Tromperie}</p>"
         },
         {
             "id": "The Lantern King",
@@ -814,7 +814,7 @@
         {
             "id": "Naderi",
             "name": "Nadéri (Naderi)",
-            "description": ""
+            "description": "<p><strong>Édits</strong> Aider ceux qui souffrent à échapper à leur condition dans la vie ou dans la mort, réconforter et encourager les amoureux</p>\n<p><strong>Anathèmes</strong> Ignorer ou se moquer du chagrin d’une créature, séparer des amoureux, torturer une créature</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.X7MkBRJGUIp91k6f]{Chagrin}, @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.HYe7Yv1fYUANVVI3]{Mort}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}</p>"
         },
         {
             "id": "Barbatos",
@@ -828,13 +828,13 @@
         },
         {
             "id": "Gogunta",
-            "name": "Gogunta (Gogunta)",
-            "description": ""
+            "name": "Gogunta (Seigneur Démon) (Gogunta)",
+            "description": "<p>Gogunta, le Chant des Marais, est le seigneur démon des amphibiens, des bourbiérins et des marais. Gogunta est vénérée comme une déesse par les bourbiérins, qui croient qu’elle est une mobogo exaltée, bien que les érudits la soupçonnent d’être plutôt une ancienne hezrou qui aurait gagné les faveurs de Dagon. Son royaume est un marais salant fétide situé au sein du royaume océanique de Dagon, ce qui étaye cette théorie. Elle a l’apparence d’une grenouille colossale avec de multiples têtes, des douzaines d’yeux et encore plus de langues, bien que les bourbiérins la décrivent en général comme une reine de leur ascendance, de taille titanesque.</p>\n<p><strong>Édits</strong> Aider les amphibiens, chanter dans les marais, sacrifier des créatures en les noyant.</p>\n<p><strong>Anathèmes</strong> Faire preuve de clémence envers les bourbiérins qui vénèrent d’autres dieux.</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.PrFvU65ewfst69Mp]{Eau}, @Compendium[pf2e.domains.8ITGLquhimrr9CNv]{Petits plaisirs}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.Xs6XznYHOZyQ0hJl]{Tyrannie}</p>"
         },
         {
             "id": "Atreia",
-            "name": "Atréia (Atreia)",
-            "description": ""
+            "name": "Atréia (Seigneur Élémentaire) (Atreia)",
+            "description": "<p>Responsable du feu, de la purification et de la luminosité, Atréia le Roi Chatoyant est le seigneur élémentaire bienveillant du feu. Quand le multivers était encore jeune, Atréia planait au-dessus du plan du feu sous la forme d’un ibis à trois têtes, avec des ailes ardentes et des yeux de flammes, chassant le mal de son plan. Mais il est désormais emprisonné au sein du Tison grenat, une gemme rouge enchâssée dans un voile de vapeur perpétuel. Bien qu’il soit incapable d’entendre ou d’octroyer de quelconques pouvoirs du fond de sa prison, le Roi Chatoyant est toujours vénéré par plusieurs groupes de salamandres sur le plan du feu, en raison de son règne sur le feu protecteur et vital, de même que par certains cercles étroits de mortels qui ont pour cause suprême la découverte et la purification du mal. Des statues à son effigie existent toujours sur ses anciens domaines, cachés dans des sites antiques dédiés à la guérison et à la lumière divine.</p>\n<p><strong>Édits</strong> Éliminer la corruption par le feu, ouvrir la voie à une nouvelle croissance, purifier les régions souillées.</p>\n<p><strong>Anathèmes</strong> D’ombre ou d’eau ; abandonner une créature dans l’obscurité, priver une créature qui souffre de chaleur.</p>\n<p><strong>Préoccupations</strong> Feu, purification, luminosité</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.1BU8deh48XZFclWl]{Guérison}, @Compendium[pf2e.domains.jWmGQxJvKh5y5zfB]{Protection}, @Compendium[pf2e.domains.fqr2OnTww3bAq0ae]{Soleil}</p>"
         },
         {
             "id": "Bastet",
@@ -893,13 +893,13 @@
         },
         {
             "id": "Dranngvit",
-            "name": "Dranngvit (Dranngvit)",
-            "description": ""
+            "name": "Dranngvit (Dieu Nain) (Dranngvit)",
+            "description": "<p>Dranngvit est la demi-sœur de Torag, bien que certaines légendes prétendent qu'elle était censée être l'épouse de Torag mais qu'elle a perdu face à Folgrit. Dranngvit est une divinité naine, mais elle est considérée comme un mal nécessaire plutôt que comme une divinité bien-aimée. La plupart ne lui rendent hommage que lorsqu'ils savent qu'ils ont fait du tort à quelqu'un. Les seuls nains qui la choisissent comme divinité protectrice sont généralement ceux qui sont consumés par la haine et rien d'autre. Dranngvit est peut-être la mère de Kols, mais même si elle l'est, Folgrit traite toujours Kols comme un fils.</p>\n<p><strong>Édits</strong> Aider à recouvrer des dettes légitimes, se venger de manière appropriée face aux transgressions</p>\n<p><strong>Anathèmes</strong> Éviter de régler une dette, forcer autrui à contracter une dette que l’on sait impossible à rembourser, forcer autrui à contracter une dette, permettre à un préjudice de ne pas être reconnu</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille}, @Compendium[pf2e.domains.1NHV4ujqoR2JVWpY]{Voyage} </p>"
         },
         {
             "id": "The Green Mother",
-            "name": "La mère verte (The Green Mother)",
-            "description": ""
+            "name": "La Mère verte (Aîné) (The Green Mother)",
+            "description": "<p>L’Aînée des plantes carnivores, de l’intrigue et de la séduction, la Mère Verte incarne l’excitation et le désir bruts qu’abrite partout la nature. Les plantes luxuriantes qui attirent leur proie et la tuent de leurs épines ou de leurs toxines relèvent d’elle, de même que les secrets murmurés et les actes de lubricité commis en pleine nature. Son apparence séduisante varie de celle d’une jolie fée — par exemple une nymphe — à des formes incorporant des appâts naturels, comme des fleurs aux douces fragrances ou des tresses gracieuses et verdoyantes. Et de même que son aspect est toujours changeant, l’humeur de la Mère Verte peut passer de la tentatrice suggestive à l’empoisonneuse insensible. Mais quelles que soient son apparence ou son attitude, la Mère Verte est parmi les plus roués des Aînés, et elle emploie plusieurs agents loyaux qui la tiennent bien informée de ce qui se passe dans le Premier Monde et ailleurs. Cette information alimente les intrigues qu’elle ourdit parmi les Aînés, et tous estiment qu’il est plus sage de rester dans ses petits papiers, faute de quoi leurs secrets pourraient bien être transmis à leurs ennemis dans un murmure lascif...</p>\n<p><strong>Édits</strong> Batifoler dans la végétation, exploiter ce que l’on tue, manipuler les gens, s’attaquer aux faibles</p>\n<p><strong>Anathèmes</strong> Discriminer les travailleurs du sexe ou utiliser leur métier pour leur nuire, garder un secret trop longtemps</p>\n<p><strong>Préoccupations</strong> Plantes carnivores, intrigues et séduction</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.AaY3BmDItGry4oac]{Décomposition}, @Compendium[pf2e.domains.xYx8UD0JnFyBHGhJ]{Nature}, @Compendium[pf2e.domains.O1qeC0mIufSf3wv5]{Passion}, @Compendium[pf2e.domains.8ITGLquhimrr9CNv]{Petits plaisirs}</p>"
         },
         {
             "id": "Ketephys",
@@ -1028,13 +1028,13 @@
         },
         {
             "id": "Szuriel",
-            "name": "Szuriel (Szuriel)",
-            "description": ""
+            "name": "Szuriel (Cavalier) (Szuriel)",
+            "description": "<p>Szuriel n’a jamais rien connu d’autre que la guerre. Elle menait la vie d’un paladin avant d’être excommuniée pour hérésie. Elle réagit en arrivant au pouvoir à force de massacres, se fit couronner impératrice, puis fit crucifier tous les membres de son ancienne église. Elle mena ensuite plusieurs guerres très brutales contre les royaumes voisins, jusqu’à ce que la dague d’un assassin trouve le chemin de son coeur. Envoyée en Abaddon, elle s’éleva rapidement dans les rangs des daémons, et, percevant de la faiblesse dans le Cavalier de la Guerre, le terrassa au combat pour s’emparer de son titre.</p>\n<p>Elle apparaît sous la forme d’un ange tragique à la belle chevelure dorée, aux ailes magnifiques et aux yeux d’obsidienne polie pleurant sans fin des larmes de sang. Sa résidence est la Fournaise de braises, la partie de l’Abaddon qu’elle a fait sienne et où sont forgées des armes de guerre dans les flammes d’âmes incinérées. Elle commande à l’une des plus immenses armées de tous les temps, composée d’innombrables daémons prêts à la guerre. Tous craignent de sombrer dans le néant des mains de Szuriel et de ses troupes. Le Cavalier de la Guerre est toujours heureux de louer à qui les veut, sur tous les plans, ses pouvoirs, ses guerriers et ses inventions dévastatrices. Tant que la guerre fera rage, des âmes seront plongées en nombre toujours plus grand dans son inextinguible fournaise.</p>\n<p><strong>Édits</strong> Anéantir la foi, mettre fin à toute vie mortelle par le biais de la guerre.</p>\n<p><strong>Anathèmes</strong> Choisir de se marier ou d’avoir des enfants., Faire preuve de clémence envers les créatures qui ne vénèrent pas Szuriel.</p>\n<p><strong>Préoccupations</strong> Guerre </p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.NA4v0iwIPgkde8DP]{Ambition}, @Compendium[pf2e.domains.M7koZH0zimcMgRDb]{Destruction}, @Compendium[pf2e.domains.v4SDXgCuPdZqhMeL]{Feu}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}</p>"
         },
         {
             "id": "Irori",
-            "name": "Irori (Irori)",
-            "description": ""
+            "name": "Irori (Mer Intérieure) (Irori)",
+            "description": "<p>Irori incarne le concept du perfectionnement de soi. Selon son dogme, il a d’abord été mortel et est devenu un dieu après avoir atteint un état physique et mental surpassant les limitations des mortels. Ses adeptes cherchent à imiter leur dieu en se perfectionnant à l’aide des conseils prodigués dans le Se libérer des entraves, le texte sacré d’Irori. Les pages enluminées de cet ouvrage présentent de nombreux exercices physiques, spirituels et mentaux, ainsi que des méthodes d’apprentissage et de mémorisation. Irori n’est pas seulement le dieu du perfectionnement de soi, mais aussi de l’histoire et de la connaissance, et il connaît en effet parfaitement l’univers. Il encourage ses disciples à suivre ses traces et à apprendre tout ce qu’ils peuvent sur le monde et ce qui se trouve au-delà. Même si Irori s’est perfectionné lui-même, il est un professeur patient et bienveillant. Irori et son clergé proposent ainsi à ses adeptes une multitude de pratiques et de méthodes parmi lesquelles ils peuvent choisir celle qui leur convient.</p>\n<p><strong>Édits</strong> Être humble, aider les autres à se perfectionner, affûter son corps, son âme et son esprit pour gagner en perfection, pratiquer la discipline.</p>\n<p><strong>Anathèmes</strong> Devenir dépendant à une substance, détruire un texte d’importance historique, échouer de manière répétée à exercer le contrôle de soi.</p>\n<p><strong>Préoccupations</strong> Histoire, connaissance et perfectionnement de soi</p>\n<hr />\n<p><strong>Domaines</strong> @Compendium[pf2e.domains.giUsAWI9NbpdeUzl]{Savoir}, @Compendium[pf2e.domains.YQ6IT8DgEpqvOREx]{Puissance}, @Compendium[pf2e.domains.c9odhpRoKId5dXmn]{Perfection}, @Compendium[pf2e.domains.WrmaTmOHojfhiENF]{Vérité} </p>\n<p><strong>Domaines alternatifs</strong> @Compendium[pf2e.domains.wCPGej4ZwdKCNtym]{Changement}, @Compendium[pf2e.domains.rIZ7OoG8c4Cct42M]{Veille} </p>"
         },
         {
             "id": "Tanagaar",

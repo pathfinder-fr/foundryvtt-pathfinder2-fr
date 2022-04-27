@@ -1,13 +1,12 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 342
- * **changé**: 2
- * **officielle**: 22
+ * **libre**: 343
+ * **officielle**: 23
  * **vide**: 1
  * **aucune**: 8
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -23,13 +22,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[02-slI9P4jUp3ERPCqX.htm](spell-effects/02-slI9P4jUp3ERPCqX.htm)|Spell Effect: Impeccable Flow|
 |[03-XTgxkQkhlap66e54.htm](spell-effects/03-XTgxkQkhlap66e54.htm)|Spell Effect: Iron Gut (3rd Level)|
 
-## Liste des éléments changés en VO et devant être vérifiés
-
-| Fichier   | Nom (EN)    | Nom (FR)    | État |
-|-----------|-------------|-------------|:----:|
-|[01-0bfqYkNaWsdTmtrc.htm](spell-effects/01-0bfqYkNaWsdTmtrc.htm)|Spell Effect: Juvenile Companion|Effet : Compagnon juvénile|changé|
-|[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|changé|
-
 ## Liste des éléments vides ne pouvant pas être traduits
 
 | Fichier   | Nom (EN)    | État |
@@ -42,6 +34,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|-------------|:----:|
 |[00-Gqy7K6FnbLtwGpud.htm](spell-effects/00-Gqy7K6FnbLtwGpud.htm)|Spell Effect: Bless|Effet : Bénédiction|libre|
 |[01-06zdFoxzuTpPPGyJ.htm](spell-effects/01-06zdFoxzuTpPPGyJ.htm)|Effect: Rejuvinating Flames|Effet : Flammes rajeunissantes|libre|
+|[01-0bfqYkNaWsdTmtrc.htm](spell-effects/01-0bfqYkNaWsdTmtrc.htm)|Spell Effect: Juvenile Companion|Effet : Compagnon juvénile|libre|
 |[01-0gv9D5RlrF5cKA3I.htm](spell-effects/01-0gv9D5RlrF5cKA3I.htm)|Spell Effect: Adapt Self (Darkvision)|Effet : Adaptation de soi (Vision dans le noir)|libre|
 |[01-0o984LjzIFXxeXIF.htm](spell-effects/01-0o984LjzIFXxeXIF.htm)|Spell Effect: Evolution Surge (Amphibious)|Effet : Flux d'évolution (Amphibie)|libre|
 |[01-0OC945wcZ4H4akLz.htm](spell-effects/01-0OC945wcZ4H4akLz.htm)|Spell Effect: Summoner's Visage|Effet : Visage du conjurateur|libre|
@@ -90,6 +83,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-cwetyC5o4dRyFWJZ.htm](spell-effects/01-cwetyC5o4dRyFWJZ.htm)|Spell Effect: Necromancer's Generosity|Effet : Générosité du nécromant|libre|
 |[01-deG1dtfuQph03Kkg.htm](spell-effects/01-deG1dtfuQph03Kkg.htm)|Spell Effect: Shillelagh|Effet : Gourdin magique|libre|
 |[01-dEsaufFnfYihu5Ex.htm](spell-effects/01-dEsaufFnfYihu5Ex.htm)|Spell Effect: Discern Secrets (Sense Motive)|Effet : Discerner les secrets (Deviner les intentions)|libre|
+|[01-DLwTvjjnqs2sNGuG.htm](spell-effects/01-DLwTvjjnqs2sNGuG.htm)|Spell Effect: Inspire Defense|Effet : Inspiration défensive|officielle|
 |[01-dWbg2gACxMkSnZag.htm](spell-effects/01-dWbg2gACxMkSnZag.htm)|Spell Effect: Protective Ward|Effet : Champ protecteur|officielle|
 |[01-F10ofwC0k1ELIaV4.htm](spell-effects/01-F10ofwC0k1ELIaV4.htm)|Spell Effect: Impeccable Flow (Critical Failure Effect)|Effet : Flux impeccable (Effet d'échec critique)|libre|
 |[01-fEhCbATDNlt6c1Ug.htm](spell-effects/01-fEhCbATDNlt6c1Ug.htm)|Spell Effect: Extract Poison|Effet : Extraction du poison|libre|

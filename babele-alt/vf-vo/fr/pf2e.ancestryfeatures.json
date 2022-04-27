@@ -24,7 +24,7 @@
         {
             "id": "Sunlight Healing",
             "name": "Guérison par le soleil (Sunlight Healing)",
-            "description": "<p>Un conrasu peut entrer dans un état méditatif et de guérison en y consacrant une activité de 10 minutes lorsqu'il est exposé à la lumière directe du soleil, auquel cas il récupère 1d8 points de vie. Au niveau 3, et tous les 2 niveaux par la suite, cette guérison augmente de 1d8. Une fois qu'un conrasu a récupéré des points de vie de cette façon, il est temporairement immunisé contre d'autres utilisations de Guérison par le soleil pendant 1 jour.</p>"
+            "description": "<p>Un conrasu peut entrer dans un état méditatif et de guérison en y consacrant une activité de 10 minutes lorsqu'il est exposé à la lumière directe du soleil, auquel cas il récupère 1d8 points de vie.</p>\n<p>Au niveau 3, et tous les 2 niveaux par la suite, cette guérison augmente de 1d8.[[/r ceil(@actor.level/2))d8[healing]]]{guérison par niveau}</p>\n<p>Une fois qu'un conrasu a récupéré des points de vie de cette façon, il est temporairement immunisé contre d'autres utilisations de Guérison par le soleil pendant 1 jour.</p>"
         },
         {
             "id": "Automaton Core",

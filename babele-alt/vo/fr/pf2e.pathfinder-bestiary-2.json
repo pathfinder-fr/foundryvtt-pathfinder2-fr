@@ -3409,6 +3409,11 @@
             "items-description": ""
         },
         {
+            "id": "o19lnL3xo6DpdVgZ",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "R2ziTTF38PwKFQr7",
             "name": "Frightful Presence",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:30]{Volonté} DD 30)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
@@ -4584,6 +4589,11 @@
             "items-description": ""
         },
         {
+            "id": "k3o7ZpWc6J6flWCQ",
+            "name": "Breach",
+            "items-description": "<p>L'orque Nage sur une distance maximale égale à sa Vitesse de nage puis Bondit verticalement hors de l’eau jusqu’à une hauteur de 7,5 m et porte une Frappe contre une créature à n’importe quel moment de son saut. Elle peut ainsi attaquer une créature qui se trouve jusqu’à 9 m au-dessus de la surface de l’eau. Après la Frappe, l'orque retombe dans l’eau.</p>"
+        },
+        {
             "id": "bLGN7Biu5pB1bqtL",
             "name": "Tongue",
             "items-description": ""
@@ -5157,6 +5167,11 @@
             "id": "7RZaK7BB8AYtaXJb",
             "name": "At-Will Spells",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
+        },
+        {
+            "id": "ZvqnxVWvm9QdJZVi",
+            "name": "Blood Scent",
+            "items-description": "<p>Une mandragore peut sentir les créatures avec du sang comme avec un sens imprécis à une distance de 9 m et elle peut sentir les démons, les fées et les sorciers avec du sang comme avec un sens précis à une portée de 9 m.</p>"
         },
         {
             "id": "K7yXQ4PZPINLQXnj",
@@ -7284,6 +7299,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
+            "id": "so21bQRtejWVxF5S",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
+        },
+        {
             "id": "aT4z6HhNe6Rlop3y",
             "name": "Tail",
             "items-description": ""
@@ -8169,6 +8189,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
         },
         {
+            "id": "DcQizfyqoLcJASk7",
+            "name": "Surprise Attacker",
+            "items-description": "<p><p>Au premier round de combat, les créatures qui n’ont pas encore agi sont @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prises au dépourvu} par le sylphe furtif.</p></p>"
+        },
+        {
             "id": "MUg2W7zTfRWFuMZY",
             "name": "Low-Light Vision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -8957,6 +8982,11 @@
             "id": "SDF2zWv6zGkmcQH9",
             "name": "Bite",
             "items-description": ""
+        },
+        {
+            "id": "G5NJxlLVYCrXX8Jv",
+            "name": "Twisting Tail",
+            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature à portée de la queue du dragon utilise une action de déplacement ou quitte une case pendant une action de déplacement qu’il utilise.</p>\n<p><strong>Effet</strong> Le dragon Frappe la cible avec sa queue avec une pénalité de -2. S’il touche, le dragon interrompt l’action de cette créature.</p>"
         },
         {
             "id": "CwNuoWOgc2U8qCLd",

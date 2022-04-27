@@ -1,13 +1,13 @@
 # État de la traduction (bestiary-effects)
 
- * **libre**: 33
+ * **libre**: 34
  * **vide**: 10
  * **aucune**: 93
- * **changé**: 2
  * **officielle**: 1
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-25 13:32 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -113,7 +113,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker|Effet : bricolage ingénieux (Succès critique)|changé|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -155,6 +154,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|Effet : Morsure du péché|libre|
 |[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|Effet : Vision perturbante|libre|
 |[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'incroyant|libre|
+|[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker|Effet : bricolage ingénieux (Succès critique)|libre|
 |[bV70ZxnUAoYnfXaZ.htm](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)|Effect: Rune of Smiting (Rock)|Effet : Rune de choc (Rocher)|libre|
 |[c6SiBB3mzV8lZUQr.htm](bestiary-effects/c6SiBB3mzV8lZUQr.htm)|Effect: Protean Anatomy|Effet : Anatomie protéenne|libre|
 |[C9nb9XbnQgbnXpTq.htm](bestiary-effects/C9nb9XbnQgbnXpTq.htm)|Effect: Crystalline Dust Form|Effet : Forme de poussière cristalline|libre|
