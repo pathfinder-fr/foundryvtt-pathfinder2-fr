@@ -1,7 +1,7 @@
 Parent Name: Vrock
 Name: Dance of Ruin
-Nom: 
-État: aucune
+Nom: Danse de la ruine
+État: officielle
 
 ------ Description (en) ------
 <p>The vrock dances in flight and chants to create a ruinous explosion of electricity. If more vrocks within 30 feet want to join the dance, the vrock can delay the dance to wait for more vrocks; in that case, the effect occurs after the last vrock uses Dance of Ruin or one of the vrocks chooses to complete that round of the dance. Each non-demon creature in a @Template[type:emanation|distance:20] from any of the dancing vrocks takes [[/r {2d12}[electricity]]]{2d12 electricity damage} (@Check[type:reflex|dc:28|basic:true] save). For each additional vrock that joins the dance, the damage increases by 1d12 and the save DC increases by 1 (to a maximum of four vrocks dealing 5d12 electricity damage with a DC 31 save). The vrocks can continue dancing by using Dance of Ruin each round, for up to 3 rounds in total. The emanation's size increases by 20 feet each round, and the damage increases by 1d12 per vrock each round.</p>
@@ -105,3 +105,103 @@ Nom:
 </li>
 </ul>
 ------ Description (fr) ------
+<p>Le vrock danse en vol et chante pour provoquer une explosion dévastatrice d’électricité. Si d’autres vrocks situés dans un rayon de 9 m veulent se joindre à lui, le vrock peut retarder sa danse pour les attendre ; dans ce cas, l’effet se produit une fois que le dernier vrock a utilisé Danse de la ruine ou qu’un des vrocks décide de terminer ce round de danse. Toute créature qui n’est pas un démon située dans une @Template[type:emanation|distance:20]{émanation de 6 m} de l’un des vrocks en train de danser subit [[/r {2d12}[electricity]]]{2d12 dégâts d’électricité} (jet de @Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28). Pour chaque vrock supplémentaire qui se joint à la danse, les dégâts sont augmentés de 1d12 et le DD du jet de sauvegarde de 1 point (maximum de quatre vrocks infligeant 5d12 dégâts avec un DD de 31). Les vrocks peuvent continuer de danser en utilisant Danse de la ruine à chaque round jusqu’à un maximum de 3 rounds. La taille de l’émanation augmente de 6 m par round et les dégâts de 1d12 par vrock par round.</p>
+<hr />
+<ul>
+<li><strong>1 vrock dansant</strong>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>Round</th>
+<th>Effet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>@Template[type:emanation|distance:20]{émanation de 6 m} [[/r {2d12}[electricity]]]{2d12 dégâts d'électricité} @Check[type:reflex|dc:28|basic:true]{Réflexes} DD 28</td>
+</tr>
+<tr>
+<td>2</td>
+<td>@Template[type:emanation|distance:40]{émanation de 12 m} [[/r {3d12}[electricity]]]{3d12 dégâts d'électricité} @Check[type:reflex|dc:28|basic:true]{Réflexes} DD 28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>@Template[type:emanation|distance:60]{émanation de 18 m} [[/r {4d12}[electricity]]]{4d12 dégâts d'électricité} @Check[type:reflex|dc:28|basic:true]{Réflexes} DD 28</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><strong>2 vrocks dansants</strong>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>Round</th>
+<th>Effet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>@Template[type:emanation|distance:20]{émanation de 6 m} [[/r {3d12}[electricity]]]{3d12 dégâts d'électricité} @Check[type:reflex|dc:29|basic:true]{Réflexes} DD 29</td>
+</tr>
+<tr>
+<td>2</td>
+<td>@Template[type:emanation|distance:40]{émanation de 12 m} [[/r {5d12}[electricity]]]{5d12 dégâts d'électricité} @Check[type:reflex|dc:29|basic:true]{Réflexes} DD 29</td>
+</tr>
+<tr>
+<td>3</td>
+<td>@Template[type:emanation|distance:60]{émanation de 18 m} [[/r {7d12}[electricity]]]{7d12 dégâts d'électricité} @Check[type:reflex|dc:29|basic:true]{Réflexes} DD 29</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><strong>3 vrocks dansants</strong>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>Round</th>
+<th>Effet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>@Template[type:emanation|distance:20]{émanation 6 m} [[/r {4d12}[electricity]]]{4d12 dégâts d'électricité} @Check[type:reflex|dc:30|basic:true]{Réflexes} DD 30</td>
+</tr>
+<tr>
+<td>2</td>
+<td>@Template[type:emanation|distance:40]{émanation de 12 m} [[/r {7d12}[electricity]]]{7d12 dégâts d'électricité} @Check[type:reflex|dc:30|basic:true]{Réflexes} DD 30</td>
+</tr>
+<tr>
+<td>3</td>
+<td>@Template[type:emanation|distance:60]{émanation de 18 m} [[/r {10d12}[electricity]]]{10d12 dégâts d'électricité} @Check[type:reflex|dc:30|basic:true]{Réflexes} DD 30</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><strong>4 vrocks dansants</strong>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>Round</th>
+<th>Effet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>@Template[type:emanation|distance:20]{émanation de 6 m} [[/r {5d12}[electricity]]]{5d12 dégâts d'électricité} @Check[type:reflex|dc:31|basic:true]{Réflexes} DD 31</td>
+</tr>
+<tr>
+<td>2</td>
+<td>@Template[type:emanation|distance:40]{émanation de 12 m} [[/r {9d12}[electricity]]]{9d12 dégâts d'électricité} @Check[type:reflex|dc:31|basic:true]{Réflexes} DD 31</td>
+</tr>
+<tr>
+<td>3</td>
+<td>@Template[type:emanation|distance:60]{émanation de 18 m} [[/r {13d12}[electricity]]]{13d12 dégâts d'électricité} @Check[type:reflex|dc:31|basic:true]{Réflexes} DD 31</td>
+</tr>
+</tbody>
+</table>
+</li>
+</ul>
