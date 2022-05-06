@@ -1,10 +1,13 @@
 Name: Thunder Clap
-Nom: 
+Nom: Coup de tonnerre
 PrereqEN: |Powder Punch Stance
-PrereqFR: 
-État: aucune
+PrereqFR: Posture du coup de poing à poudre
+État: libre
 
 ------ Description (en) ------
 <p>You slam your hands together to unleash a deafening blast. Creatures in a @Template[type:cone|distance:15] cone take [[/r {3d6}[sonic]]]{3d6 sonic damage}, with a @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true] against your class DC. Creatures that critically fail their save are also @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Deafened} for 1 minute. You can't use this ability again for [[/r 1d4 #Thunder Clap Cooldown]]{1d4 rounds} as your hands recover from the thunderous vibrations.</p>
 <p>At 8th level, and every 2 levels thereafter, the damage from Thunder Clap increases by [[/r 1d6]]{1d6}. (<span style="font-family: var(--font-primary); font-size: var(--font-size-14);">[[/r floor(@actor.level/2)d6[sonic]]]{leveled sonic damage})<br /></span></p>
 ------ Description (fr) ------
+<p>Vous frappez vos mains l'une contre l'autre pour déclencher une explosion assourdissante. Les créatures dans un @Template[type:cone|distance:15]{cône de 4,5 m} subissent [[/r {3d6}[sonic]]]{3d6 dégâts de son}, avec un jet de @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true]{Vigueur basique} contre votre DD de classe. Les créatures qui obtiennent un échec critique à leur jet de sauvegarde sont aussi @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 minute. Vous ne pouvez utiliser cette capacité de nouveau avant [[/r 1d4 #Recharge coup de tonnerre]]{1d4 rounds} le temps que vos mains se remettent des vibrations tonnantes.</p>
+<p>Au niveau 8, puis tous les 2 niveaux par la suite, les dégâts du Coup de tonnerre passent à [[/r 1d6]]{1d6}.</p>
+<p>[[/r floor(@actor.level/2)d6[sonic]]]{dégâts de son selon le niveau})</p>
