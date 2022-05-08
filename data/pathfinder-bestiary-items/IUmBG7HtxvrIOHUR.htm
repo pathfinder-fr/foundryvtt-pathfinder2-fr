@@ -1,7 +1,7 @@
 Parent Name: Alchemical Golem
 Name: Generate Bomb
-Nom: 
-État: aucune
+Nom: Création de bombes
+État: officielle
 
 ------ Description (en) ------
 <p>The golem fills an empty vial from one of its alchemical chambers to create a bomb and then makes a bomb Strike.</p>
@@ -46,3 +46,44 @@ Nom:
 </tbody>
 </table>
 ------ Description (fr) ------
+<p>Le golem remplit une fiole vide d’un de ses compartiments alchimiques pour créer une bombe puis effectue une Frappe de bombe.</p>
+<p>Déterminez le type de bombe en lançant 1d6 sur la liste des compartiments alchimiques.</p>
+<p>Sur un résultat de 1-4, il crée la bombe alchimique supérieure correspondante : une fiole d’acide pour le compartiment 1, une fiole givrée pour le 2, une foudre en bouteille pour le 3 et un feu grégeois pour le 4.</p> 
+<p>Sur un résultat de 5, il crée une bombe toxique qui inflige 3d10 dégâts de poison et 3 dégâts d’éclaboussure de poison sans autre effet.</p> 
+<p>Sur un résultat de 6, il génère une bombe de maladie qui expose la cible et toutes les créatures dans le rayon d’éclaboussure à l’effet de la maladie ; les créatures qui ne sont touchées que par les éclaboussures bénéficient d’un bonus de circonstances de +2 à leurs jets de Vigueur.</p>
+<table class="pf2-table">
+    <thead>
+    <tr>
+    <th>[[/br {1d6}[Effect alchimique] #Générer une Bombe]]{1d6}</th>
+    <th>Effet alchimique</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <td>1</td>
+    <td>
+    <p>Flasque d'acide : [[/r {1}[acid]]]{1 dégât}, [[/r {3d6}[persistent,acid]]]{3d6} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts d'acide persistants} et [[/r {3}[splash,acid]]]{3 dégâts d'éclaboussure d'acide}</p>
+    </td>
+    </tr>
+    <tr>
+    <td>2</td>
+    <td>Fiole de givre : [[/r {3d6}[cold]]]{3d6 dégâts de froid}, [[/r {3}[splash,cold]]]{3 dégâts de froid d'éclaboussure} et une pénalité de - 3 m à ses Vitesses jusqu'à la fin du prochain tour de la cible @Compendium[pf2e.equipment-effects.nJRoiSyd67eQ1dYj]{Effet : Fiole de givre supérieure}</td>
+    </tr>
+    <tr>
+    <td>3</td>
+    <td>Foudre en bouteille : [[/r {3d6}[electricity]]]{3d6 dégâts d'électricité}, [[/r {3}[splash,electricity]]]{3 dégâts d'éclaboussure d'électricité} et @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Pris au dépourvu} jusqu'au début du prochain tour de la cible</td>
+    </tr>
+    <tr>
+    <td>4</td>
+    <td>Feu grégeois : [[/r {3d8}[fire]]]{3d8 dégâts de feu}, [[/r {3}[persistent,fire]]]{3} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants} et [[/r {3}[splash,fire]]]{3 dégâts de feu d'éclaboussure}</td>
+    </tr>
+    <tr>
+    <td>5</td>
+    <td>Poisonous Bomb: [[/r {3d10}[poison]]]{3d10 dégâts de poison} et [[/r {3}[splash,poison]]]{3 dégâts de poison d'éclaboussure}</td>
+    </tr>
+    <tr>
+    <td>6</td>
+    <td>Maladie : @Check[type:fortitude|dc:26|name:Maladie alchimique|traits:disease]{Vigueur} DD 26 ou @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} sur un échec critique)</td>
+    </tr>
+    </tbody>
+    </table>

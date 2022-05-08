@@ -1,6 +1,6 @@
 Parent Name: Alchemical Golem
 Name: Alchemical Rupture
-Nom: 
+Nom: Rupture alchimique
 État: aucune
 
 ------ Description (en) ------
@@ -43,3 +43,40 @@ Nom:
 </tbody>
 </table>
 ------ Description (fr) ------
+<p>Quand un golem alchimique subit des dégâts physiques à cause d’un coup critique ou s’il est affecté par un sort de <em>@Compendium[pf2e.spells-srd.1xbFBQDRs0hT5xZ9]{Fracassement}</em>, un de ses compartiments en verre dans son corps se fracasse, répandant du liquide alchimique dans une @Template[type:emanation|distance:5]{émanation de 1,5 m}.</p>
+<p>Effectuez un jet sur la liste des compartiments alchimiques pour déterminer lequel se brise</p>
+<p>sur un jet de 1-5, les créatures dans la zone d’effet subissent 10d6 dégâts du type approprié (@Check[type:reflex|dc:28|basic:true]{Réflexes basique} DD 28).</p>
+<p>Sur un résultat de 6, les créatures doivent à la place effectuer un jet de sauvegarde contre l’effet de maladie.</p>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>[[/br {1d6}[Effet alchimique] #Rupture alchimique]]{1d6}</th>
+<th>Effet alchimique</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<p>[[/r {10d6}[acid]]]{10d6 dégâts d'acide} @Check[type:reflex|dc:28|basic:true|traits:acid]{Réflexes basique} DD 28</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[[/r {10d6}[cold]]]{10d6 dégâts de froid} @Check[type:reflex|dc:28|basic:true|traits:cold]{Réflexes basique} DD 28</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[[/r {10d6}[electricity]]]{10d6 dégâts d'électricité} @Check[type:reflex|dc:28|basic:true|traits:electricity]{Réflexes basique} DD 28</td>
+</tr>
+<tr>
+<td>4</td>
+<td>[[/r {10d6}[fire]]]{10d6 dégâts de feu} @Check[type:reflex|dc:28|basic:true|traits:fire]{Réflexes basique} DD 28</td>
+</tr>
+<tr>
+<td>5</td>
+<td>[[/r {10d6}[poison]]]{10d6 dégâts de poison} @Check[type:reflex|dc:28|basic:true|traits:poison]{Réflexes basique} DD 28</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Maladie : @Check[type:fortitude|dc:26|name:Maladie alchimique|traits:disease]{Vigueur} DD 26 ou @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} en cas d'échec critique)</td>

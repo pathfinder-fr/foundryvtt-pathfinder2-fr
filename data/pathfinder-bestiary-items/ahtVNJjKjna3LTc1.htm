@@ -1,7 +1,7 @@
 Parent Name: Alchemical Golem
 Name: Alchemical Injection
-Nom: 
-État: aucune
+Nom: Injection alchimique
+État: officielle
 
 ------ Description (en) ------
 <p>When an alchemical golem hits a creature with a syringe Strike, roll 1d6 on the alchemical chambers list to determine the additional effect of the attack. The syringe deals an additional [[/r {2d6}]]{2d6 damage} of the appropriate type (or exposes the target to the sickness effect, as appropriate).</p>
@@ -42,3 +42,40 @@ Nom:
 </tbody>
 </table>
 ------ Description (fr) ------
+<p> Quand un golem alchimique touche une créature avec une Frappe de seringue, lancez 1d6 sur la liste des compartiments alchimiques pour déterminer l’effet supplémentaire de l’attaque. La seringue inflige [[/r 2d6]]{2d6 dégâts supplémentaires} du type approprié (ou expose la cible à l’effet de maladie, en fonction du résultat).</p>
+<table class="pf2-table">
+<thead>
+<tr>
+<th>[[/br {1d6}[Effet alchimique] #Injection alchimique]]{1d6}</th>
+<th>Effet alchimique</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>
+<p>[[/r {2d6}[acid]]]{2d6 dégâts d'acide}</p>
+</td>
+</tr>
+<tr>
+<td>2</td>
+<td>[[/r {2d6}[cold]]]{2d6 dégâts de froid}</td>
+</tr>
+<tr>
+<td>3</td>
+<td>[[/r {2d6}[electricity]]]{2d6 dégâts d'électricité}</td>
+</tr>
+<tr>
+<td>4</td>
+<td>[[/r {2d6}[fire]]]{2d6 dégâts de feu}</td>
+</tr>
+<tr>
+<td>5</td>
+<td>[[/r {2d6}[poison]]]{2d6 dégâts de poison}</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Maladie: @Check[type:fortitude|dc:26|name:Maladie alchimique|traits:disease]{Vigueur} DD 26 ou @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 1} (@Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 2} en cas d'échec critique)</td>
+</tr>
+</tbody>
+</table>
