@@ -100,4 +100,7 @@ S'il est décidé qu'un autre champ du JSON anglais du fichier d'origine doit fa
 
 ## État
 
-À jour au 04 avril 2022
+NOTE : Le pack des actions a été scindé avec la version 3.10 du système pour mettre les actions spécifiques à une aventure donnée dans un pack à part, le pack actions contenant les seules actions communes. Il n'est pas extrait pour le moment et devra être programmé. Le pack des véhicules n'est pas traduit. Les bestiaires des aventures ne sont pas pris en charge mais peuvent l'être du fait de l'ogl et de la PCUP car ine ne contiennent que les données techniques. L'équipe de traduction du projet ne le fera pas.
+
+
+À jour au 16 mai 2022
