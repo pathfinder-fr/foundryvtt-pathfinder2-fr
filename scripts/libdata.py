@@ -569,13 +569,13 @@ def dataToFile(data, filepath):
             for key in data['listsEN']:
                 try:
                     df.write("%sEN: %s\n" %
-                             (key, "|".join(data['listsEN'][key])))
+                             (key, "|".join(data['listsEN'][key]).replace("\n"," ")))
                 except TypeError:
                     values = ""
                     for item in data['listsEN'][key]:
                         for e in item.values():
                             values += "|" + e
-                    df.write("%sEN: %s\n" % (key, values))
+                    df.write("%sEN: %s\n" % (key, values.replace("\n"," ")))
                 try:
                     df.write("%sFR: %s\n" % (key, "|".join(
                         data['listsFR'][key]) if key in data['listsFR'] else ""))
