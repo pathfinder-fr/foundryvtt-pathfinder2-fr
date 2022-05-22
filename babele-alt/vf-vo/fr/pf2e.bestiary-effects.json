@@ -17,6 +17,11 @@
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques.</p>"
         },
         {
+            "id": "Effect: Fiddle",
+            "name": "Effet : Stridulation (Effect: Fiddle)",
+            "description": "<p>La créature subit une pénalité de statut de - 3 m à ses vitesses.</p>"
+        },
+        {
             "id": "Effect: Commander's Aura",
             "name": "Effet : Aura de commandement (Effect: Commander's Aura)",
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques, aux jets de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
@@ -24,7 +29,7 @@
         {
             "id": "Effect: Volcanic Purge",
             "name": "Effet : Purge volcanique (Effect: Volcanic Purge)",
-            "description": "<p>La cible subit [[/r {4d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants} et, tant qu'elle subit ces dégâts de feu persistants, elle subit aussi une pénalité de statut de -3 mètres à ses Vitesses.</p>"
+            "description": "<p>La cible subit [[/r {4d6}[persistent,fire]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants} et, tant qu'elle subit ces dégâts de feu persistants, elle subit aussi une pénalité de statut de -3 mètres à ses Vitesses.</p>"
         },
         {
             "id": "Effect: Curse of Boiling Blood",
@@ -38,8 +43,8 @@
         },
         {
             "id": "Effect: Brand of the Impenitent",
-            "name": "Effet : Marque de l'incroyant (Effect: Brand of the Impenitent)",
-            "description": "<p>La créature subit une pénalité de statut de -1 à la CA et aux jets de sauvegarde, réduit ses résistances de 2 et lui cause une faiblesse aux dégâts du bien de 2.</p>"
+            "name": "Effet : Marque de l'impénitent (Effect: Brand of the Impenitent)",
+            "description": "<p>La créature subit une pénalité de statut de -1 à la CA et aux jets de sauvegarde, réduit ses résistances de 2 et obtient une faiblesse aux dégâts du bien de 2.</p>"
         },
         {
             "id": "Effect: Disturbing Vision",
@@ -90,6 +95,11 @@
             "id": "Effect: Undead Mastery",
             "name": "Effet : maîtrise des morts vivants (Effect: Undead Mastery)",
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques, de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
+        },
+        {
+            "id": "Effect: Feed",
+            "name": "Effet : Alimentation (Effect: Feed)",
+            "description": "<p>La créature obtient un bonus de statut à ses tests et à ses DD en fonction de l'utilisation de sa capacité Alimentation.</p>"
         },
         {
             "id": "Effect: Protean Anatomy",
@@ -150,6 +160,11 @@
             "id": "Effect: Fanatical Frenzy",
             "name": "Effet : Frénésie fanatique (Effect: Fanatical Frenzy)",
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaque et un bonus de +2 aux jets de dégâts et subit une pénalité de statut de -2 à la CA.</p>"
+        },
+        {
+            "id": "Effect: Wolf Shape",
+            "name": "Effet : Forme de loup (Effect: Wolf Shape)",
+            "description": "<p>Le barghest obtient une vitesse de 12 m et ses mâchoires obtiennent @Compendium[pf2e.bestiary-ability-glossary-srd.BCLvAx4Pz4MLa2pu]{Renversement}.</p>"
         },
         {
             "id": "Effect: Rune of Flames (Greatsword)",

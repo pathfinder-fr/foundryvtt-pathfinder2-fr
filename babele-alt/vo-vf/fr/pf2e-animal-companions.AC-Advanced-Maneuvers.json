@@ -54,7 +54,7 @@
         {
             "id": "Defensive Curl",
             "name": "Defensive Curl (Posture défensive)",
-            "description": "<p>Le pangolin se met en boule pour se défendre. Il bénéficie d'un bonus de circonstances de +2 à la CA. Toute créature qui touche le pangolin avec une attaque de mêlée à mains nues alors qu'il est dans son enroulement défensif prend [[/r {2d6}[persistent,bleed]]]{2d6} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistants}. Le pangolin ne peut se déplacer, utiliser cette attaque à mains nues ou effectuer d'autres actions qui nécessitent d'utiliser ses membreslorsqu'il est en Posture défensive, mais il peut se déployer en une seule action, mettant fin aux effets de la posture défensive.</p>"
+            "description": "<p>Le pangolin se met en boule pour se défendre. Il bénéficie d'un bonus de circonstances de +2 à la CA. Toute créature qui touche le pangolin avec une attaque de mêlée à mains nues alors qu'il est dans son enroulement défensif prend [[/r {2d6}[persistent,bleed]]]{2d6} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistants}. Le pangolin ne peut se déplacer, utiliser cette attaque à mains nues ou effectuer d'autres actions qui nécessitent d'utiliser ses membres lorsqu'il est en Posture défensive, mais il peut se déployer en une seule action, mettant fin aux effets de la posture défensive.</p>"
         },
         {
             "id": "Ultrasonic Scream",
@@ -109,7 +109,7 @@
         {
             "id": "Gallop",
             "name": "Gallop (Galop)",
-            "description": "<p>Le cheval Marche rapidement deux fois avec un bonus de circonstance de +3 m à votre Vitesse.</p>"
+            "description": "<p>Le cheval Marche rapidement deux fois avec un bonus de circonstances de +3 m à sa Vitesse.</p>"
         },
         {
             "id": "Wing Thrash",

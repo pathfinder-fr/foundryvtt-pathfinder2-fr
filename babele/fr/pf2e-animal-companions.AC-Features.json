@@ -44,7 +44,7 @@
         {
             "id": "Whirlwind Maul",
             "name": "Masse tourbillon",
-            "description": "<p>Votre eidolon s'élance dans toutes les directions. Il porte une Frappe à mains nues au corps à corps contre un maximum de quatre ennemis à portée. Il peut choisir des attaques à mains nues différentes pour chaque ennemi. Chaque attaque est prise en compte pour le calcul de votre pénalité d'attaques multiples, mais vous n'augmentez pas la pénalité jusqu'à ce que l'eidolon ait porté toutes ses attaques.</p>"
+            "description": "<p>Votre eidolon s'élance dans toutes les directions. Il porte une Frappe à mains nues au corps-à-corps contre un maximum de quatre ennemis à portée. Il peut choisir des attaques à mains nues différentes pour chaque ennemi. Chaque attaque est prise en compte pour le calcul de votre pénalité d'attaques multiples, mais vous n'augmentez pas la pénalité jusqu'à ce que l'eidolon ait porté toutes ses attaques.</p>"
         },
         {
             "id": "Tendril Strike",
@@ -112,7 +112,7 @@
             "description": "<p>Votre eidolon peut pousser un rugissement, un hurlement, un croassement ou tout autre son terrifiant pour effrayer ses ennemis. Il gagne l'activité @Compendium[pf2e-animal-companions.AC-Features.hcQsGAZQgqdCckCm]{Rugissement primordial}.</p>"
         },
         {
-            "id": "Wrathful Berseker",
+            "id": "Wrathful Berserker",
             "name": "Berserker courroucé",
             "description": "<p>For 18, Dex 14, Con 16, Int 8, Sag 10, Cha 12 ; CA +2 (Max Dex +3)</p>"
         },
@@ -164,7 +164,7 @@
         {
             "id": "Growing Vines",
             "name": "Lianes extensibles",
-            "description": "</p>Les lianes et les branches de votre eidolon s'étirent encore plus. Toutes les Frappes à mains nues au corps à corps de votre eidolon gagnent le trait allonge.</p>"
+            "description": "</p>Les lianes et les branches de votre eidolon s'étirent encore plus. Toutes les Frappes à mains nues au corps-à-corps de votre eidolon gagnent le trait allonge.</p>"
         },
         {
             "id": "Seething Frenzy",
@@ -442,7 +442,7 @@
             "description": "<p>Votre eidolon peut imprégner une attaque avec une rage sans limite. Il obtient l'activité @Compendium[pf2e-animal-companions.AC-Features.Q8yXShOx8PGjL0LV]{Frappe furieuse}.</p>"
         },
         {
-            "id": "Intellegence Boost",
+            "id": "Intelligence Boost",
             "name": "Prime d'Intelligence",
             "description": ""
         },

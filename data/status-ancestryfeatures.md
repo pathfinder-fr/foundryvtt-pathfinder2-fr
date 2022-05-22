@@ -1,12 +1,22 @@
 # État de la traduction (ancestryfeatures)
 
  * **libre**: 27
+ * **aucune**: 4
  * **officielle**: 3
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[feat-00-bHUrm79wJCcI7L3A.htm](ancestryfeatures/feat-00-bHUrm79wJCcI7L3A.htm)|Sunlight|
+|[feat-00-dkZ8RxdQFJrdxwQo.htm](ancestryfeatures/feat-00-dkZ8RxdQFJrdxwQo.htm)|Revulsion|
+|[feat-00-SAbzItAI4uwbdnQk.htm](ancestryfeatures/feat-00-SAbzItAI4uwbdnQk.htm)|Basic Undead Benefits|
+|[feat-00-YGk41WV42aTM7CQV.htm](ancestryfeatures/feat-00-YGk41WV42aTM7CQV.htm)|Advanced Undead Benefits|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

@@ -752,6 +752,16 @@
             ]
         },
         {
+            "id": "Black Powder Flash",
+            "name": "Black Powder Flash",
+            "description": "<p><strong>Conditions</strong> Vous êtes dans la posture du coup de poing à poudre.</p>\n<hr />\n<p>Vous enflammez une pincée de poudre noire dans le visage d'un ennemi. Choisissez une créature adjacente. Elle doit faire un jet de @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)]{Vigueur} contre votre DD de classe.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n'est pas affectée.</p>\n<p><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Éblouie} pendant 1 round.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round et éblouie pendant 1 minute. La créature peut se frotter les yeux en y passant une action Interagir pour mettre un terme à son état Aveuglé.</p>\n<p><strong>Échec critique</strong> La créature est Aveuglée pendant 1 round et Éblouie pendant 1 heure.</p>",
+            "prereq": [
+                {
+                    "value": "Posture du coup de poing à poudre"
+                }
+            ]
+        },
+        {
             "id": "Master Bard Spellcasting",
             "name": "Master Bard Spellcasting",
             "description": "<p>Vous gagnez les avantages d’Incantation maître.</p>",
@@ -2446,7 +2456,7 @@
         {
             "id": "Eye of the Arclords",
             "name": "Eye of the Arclords",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Vous êtes membre des Seigneurs de l'Arc du Nex.</p>\n<hr />\n<p>Un troisième œil incandescent s’ouvre sur votre front. Il peut rester ouvert jusqu’à une minute. Vous pouvez le fermer avant cela avec une action unique dotée du trait concentration. Il peut rester ouvert 2 minutes si vous êtes maître en Arcanes et 5 minutes si vous êtes légendaire. Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez <em>@Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir}</em> ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<p>@Compendium[pf2e.feat-effects.5IGz4iheaiUWm5KR]{Effet : Œil des Seigneurs de l'Arc}</p>\n<p> Une fois que votre troisième œil se ferme, vous êtes @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} pendant aussi longtemps que vous l’avez gardé ouvert.</p>",
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Accès</strong> Vous êtes membre des Seigneurs de l'Arc du Nex.</p>\n<hr />\n<p>Un troisième œil incandescent s’ouvre sur votre front. Il peut rester ouvert jusqu’à une minute. Vous pouvez le fermer avant cela avec une action unique dotée du trait concentration. Il peut rester ouvert 2 minutes si vous êtes maître en Arcanes et 5 minutes si vous êtes légendaire. Tant que l’œil est ouvert, vous bénéficiez des avantages suivants :</p>\n<ul>\n<li>Vous gagnez les effets du sort arcanique inné Détection de la magie issu de votre Sens arcanique au début de chacun de vos tours, sans avoir besoin de le lancer ;</li>\n<li>Vous gagnez <em>@Compendium[pf2e.spells-srd.pZTqGY1MLRjgKasV]{Vision dans le noir}</em> ;</li>\n<li>Vous gagnez un bonus de statut de +2 aux tests de Perception pour Chercher une créature non détectée ou Cachée et au DD de vos tests de Perception contre @Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]{Se cacher} et @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Être furtif}.</li>\n</ul>\n<p>@Compendium[pf2e.feat-effects.5IGz4iheaiUWm5KR]{Effet : Œil des Seigneurs de l'Arc}</p>\n<p>Une fois que votre troisième œil se ferme, vous êtes @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Ébloui} pendant aussi longtemps que vous l’avez gardé ouvert.</p>",
             "prereq": [
                 {
                     "value": "expert en Arcanes"
@@ -4429,7 +4439,7 @@
         {
             "id": "Demolitionist",
             "name": "Demolitionist",
-            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p> Vous savez comment détruire des objets avec une explosion bien placée. Chaque fois que vous Frappez avec une bombe contre un piège ou un objet sans surveillance, vous ignorez les 5 premiers points de Solidité de l'objet.</p>"
+            "description": "<p><strong>Accès</strong> Vous êtes de Fort Dongun ou d'Alkenastre.</p>\n<hr />\n<p>Vous savez comment détruire des objets avec une explosion bien placée. Chaque fois que vous Frappez avec une bombe contre un piège ou un objet sans surveillance, vous ignorez les 5 premiers points de Solidité de l'objet.</p>"
         },
         {
             "id": "Terrifying Resistance",
@@ -5200,7 +5210,7 @@
         {
             "id": "Silence Heresy",
             "name": "Silence Heresy",
-            "description": "<p>Vous canalisez un pouvoir qui étouffe les paroles dangereuses. Effectuez une Frappe au corps-à-corps. Si l’attaque touche, la cible est incapable de parler autrement qu’en chuchotant pendant 1 round. Cela empêche la cible d’utiliser la plupart des effets audibles impliquant sa voix et elle doit réussir un test nu DD 5 pour Lancer un sort avec un composant verbal ou le sort est interrompu.</p>\n<p> Si votre Frappe est un coup critique, la cible ne peut plus du tout parler pendant 1 round et ne peut que murmurer pendant la minute qui suit. Une fois qu’une créature a été affectée par ce pouvoir, elle y est temporairement immunisée pendant 1 minute.</p>",
+            "description": "<p>Vous canalisez un pouvoir qui étouffe les paroles dangereuses. Effectuez une Frappe au corps-à-corps. Si l’attaque touche, la cible est incapable de parler autrement qu’en chuchotant pendant 1 round. Cela empêche la cible d’utiliser la plupart des effets audibles impliquant sa voix et elle doit réussir un test nu DD 5 pour Lancer un sort avec un composant verbal ou le sort est interrompu.</p>\n<p>Si votre Frappe est un coup critique, la cible ne peut plus du tout parler pendant 1 round et ne peut que murmurer pendant la minute qui suit. Une fois qu’une créature a été affectée par ce pouvoir, elle y est temporairement immunisée pendant 1 minute.</p>",
             "prereq": [
                 {
                     "value": "Ordre du Chevalet"
@@ -6405,7 +6415,7 @@
         {
             "id": "Yamaraj's Grandeur",
             "name": "Yamaraj's Grandeur",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous vous êtes vu confié une parcelle du pouvoir des yamaraj, les magistrats des morts qui ont accepté que les crépusculaires puissent exister.</p>\n<p> Vous exhalez une explosion de vent glacial et d'insectes affamés. C'est @Template[type:cone|distance:30]{un cône de 9 mètres} qui inflige [[/r {14d6}[slashing]]]{14d6 dégâts tranchants} et [[/r {4d6}[persistent,slashing]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{4d6 dégâts tranchants persistants} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). En cas d'échec critique, les cibles deviennent aussi @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malades} 2.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>Vous vous êtes vu confié une parcelle du pouvoir des yamaraj, les magistrats des morts qui ont accepté que les crépusculaires puissent exister.</p>\n<p>Vous exhalez une explosion de vent glacial et d'insectes affamés. C'est @Template[type:cone|distance:30]{un cône de 9 mètres} qui inflige [[/r {14d6}[slashing]]]{14d6 dégâts tranchants} et [[/r {4d6}[persistent,slashing]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{4d6 dégâts tranchants persistants} (jet de Réflexes basique en utilisant le plus élevé entre votre DD de classe et votre DD de sort). En cas d'échec critique, les cibles deviennent aussi @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malades} 2.</p>"
         },
         {
             "id": "Prevailing Position",
@@ -6530,7 +6540,7 @@
         {
             "id": "Scalding Spit",
             "name": "Scalding Spit",
-            "description": "<p>Vos fluides corporels brûlent avec une volatilité surprenante, comme si vous étiez fait d'huile plutôt que de sang.</p>\n<p>Tant que vous subissez des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants}, vous obtenez une attaque à mains nues à distance de crachat bouillant d'une portée de 9 mètres qui inflige 1d6 dégâts de feu.</p>",
+            "description": "<p>Vos fluides corporels brûlent avec une volatilité surprenante, comme si vous étiez fait d'huile plutôt que de sang.</p>\n<p>Tant que vous subissez des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants}, vous obtenez une attaque à mains nues à distance de crachat bouillant d'une portée de 9 mètres qui inflige 1d6 dégâts de feu.</p>",
             "prereq": [
                 {
                     "value": "Gobelin torche"
@@ -6772,7 +6782,7 @@
         {
             "id": "Crone's Cruelty",
             "name": "Crone's Cruelty",
-            "description": "<p> l'âme remplie de rancœur et de haine, vous déchirez les esprits de ceux qui vous déplaisent.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{Déformer l'esprit}</em> une fois par jour comme un sort inné occulte.</p>"
+            "description": "<p>L'âme remplie de rancœur et de haine, vous déchirez les esprits de ceux qui vous déplaisent.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.8kJbiBEjMWG4VUjs]{Déformer l'esprit}</em> une fois par jour comme un sort inné occulte.</p>"
         },
         {
             "id": "Signifer Armor Expertise",
@@ -6902,6 +6912,16 @@
             "prereq": [
                 {
                     "value": "Camouflage"
+                }
+            ]
+        },
+        {
+            "id": "Thunder Clap",
+            "name": "Thunder Clap",
+            "description": "<p>Vous frappez vos mains l'une contre l'autre pour déclencher une explosion assourdissante. Les créatures dans un @Template[type:cone|distance:15]{cône de 4,5 m} subissent [[/r {3d6}[sonic]]]{3d6 dégâts de son}, avec un jet de @Check[type:fortitude|dc:resolve(@actor.attributes.classDC.value)|basic:true]{Vigueur basique} contre votre DD de classe. Les créatures qui obtiennent un échec critique à leur jet de sauvegarde sont aussi @Compendium[pf2e.conditionitems.9PR9y0bi4JPKnHPR]{Sourde} pendant 1 minute. Vous ne pouvez utiliser cette capacité de nouveau avant [[/r 1d4 #Recharge coup de tonnerre]]{1d4 rounds} le temps que vos mains se remettent des vibrations tonnantes.</p>\n<p>Au niveau 8, puis tous les 2 niveaux par la suite, les dégâts du Coup de tonnerre passent à [[/r 1d6]]{1d6}.</p>\n<p>[[/r floor(@actor.level/2)d6[sonic]]]{dégâts de son selon le niveau})</p>",
+            "prereq": [
+                {
+                    "value": "Posture du coup de poing à poudre"
                 }
             ]
         },
@@ -8262,7 +8282,7 @@
         {
             "id": "Shake it Off",
             "name": "Shake it Off",
-            "description": "<p> ous vous concentrez sur votre rage afin de surmonter vos peurs et les effets des maladies. Vous réduisez la valeur de l’état Effrayé de 1 et faites un jet de Vigueur pour tenter de vous remettre de l’état malade, comme si vous aviez utilisé une action pour vomir ; vous réduisez la valeur de votre état malade de 1 sur un échec (mais pas sur un échec critique), de 2 sur un succès et de 3 sur un succès critique.</p>"
+            "description": "<p>Vous vous concentrez sur votre rage afin de surmonter vos peurs et les effets des maladies. Vous réduisez la valeur de l’état Effrayé de 1 et faites un jet de Vigueur pour tenter de vous remettre de l’état malade, comme si vous aviez utilisé une action pour vomir ; vous réduisez la valeur de votre état malade de 1 sur un échec (mais pas sur un échec critique), de 2 sur un succès et de 3 sur un succès critique.</p>"
         },
         {
             "id": "Shadow Illusion",
@@ -8312,7 +8332,7 @@
         {
             "id": "Terrifying Howl",
             "name": "Terrifying Howl",
-            "description": "<p> Vous poussez un hurlement terrifiant. Faites des tests d’Intimidation pour Démoraliser tous chaque ennemi qui se trouve dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 minute.</p>",
+            "description": "<p>Vous poussez un hurlement terrifiant. Faites des tests d’Intimidation pour Démoraliser tous chaque ennemi qui se trouve dans un rayon de 9 m. Quel que soit le résultat de vos tests, chacune de ces créatures est alors temporairement immunisée au Hurlement terrifiant pendant 1 minute.</p>",
             "prereq": [
                 {
                     "value": "Regard intimidant"
@@ -9921,7 +9941,7 @@
         {
             "id": "Sustaining Steel",
             "name": "Sustaining Steel",
-            "description": "<p><strong>Déclencheur</strong> Vous Lancez un sort en utilisant un emplacement de sort.</p>\n<p><strong>Conditions</strong> Vous êtes dans la posture Cascade arcanique.</p>\n<hr />\n<p>Vous tirez de la magie de votre arme, en utilisant sa substance pour transformer la magie en une énergie réparatrice. Vous regagner des Points de vie égaux au double du niveau de sort et lancez un jet pour mettre un terme à tout @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégât négatif persistant} qui vous est appliqué.</p>\n<p>Si le sort était de l'école de nécromancie, tout dégât persistant négatif se termine automatiquement et vous pouvez changer le type de dégâts de Cascade arcanique en positif si vous le souhaitez. (Les dégâts d'énergie positive ne cause des dégâts qu'aux morts-vivants ou aux autres créatures avec @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{Soins négatifs}.)</p>",
+            "description": "<p><strong>Déclencheur</strong> Vous Lancez un sort en utilisant un emplacement de sort.</p>\n<p><strong>Conditions</strong> Vous êtes dans la posture Cascade arcanique.</p>\n<hr />\n<p>Vous tirez de la magie de votre arme, en utilisant sa substance pour transformer la magie en une énergie réparatrice. Vous regagner des Points de vie égaux au double du niveau de sort et lancez un jet pour mettre un terme à tout @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégât négatif persistant} qui vous est appliqué.</p>\n<p>Si le sort était de l'école de nécromancie, tout dégât persistant négatif se termine automatiquement et vous pouvez changer le type de dégâts de Cascade arcanique en positif si vous le souhaitez. (Les dégâts d'énergie positive ne cause des dégâts qu'aux morts-vivants ou aux autres créatures avec @Compendium[pf2e.bestiary-ability-glossary-srd.TTCw5NusiSSkJU1x]{Soins négatifs}.)</p>",
             "prereq": [
                 {
                     "value": "Cascade arcanique"
@@ -10451,7 +10471,7 @@
         {
             "id": "Persistent Boost",
             "name": "Persistent Boost",
-            "description": "<p>Votre innovation met le feu aux ennemis, les recouvre d'acide, laisse des piques barbelées derrière elle ou inflige à vos ennemis des dégâts persistants qui restent longtemps après que vous ayez délivré votre attaque renforcée. Lorsque vous ou votre innovation créature artificielle infligez des dégâts à un ennemi avec un Renfort offensif, cet ennemi subit également [[/r {1d8}[persistent]]]{1d8} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts persistants} du même type de dégâts que ceux du Renfort offensif.</p>",
+            "description": "<p>Votre innovation met le feu aux ennemis, les recouvre d'acide, laisse des piques barbelées derrière elle ou inflige à vos ennemis des dégâts persistants qui restent longtemps après que vous ayez délivré votre attaque renforcée. Lorsque vous ou votre innovation créature artificielle infligez des dégâts à un ennemi avec un Renfort offensif, cet ennemi subit également [[/r {1d8}[persistent]]]{1d8} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts persistants} du même type de dégâts que ceux du Renfort offensif.</p>",
             "prereq": [
                 {
                     "value": "Renfort offensif"
@@ -11575,7 +11595,7 @@
         {
             "id": "Dousing Spell",
             "name": "Dousing Spell",
-            "description": "<p>Vous améliorez votre sort avec l'eau élémentaire, trempant la cible.</p>\n<p>Si la prochaine action que vous utilisez consiste à Lancer un sort ciblant une cible unique, vous trempez la cible du sort avec de l'eau. Si la cible souffre de @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts d'acide ou de feu persistants}, le DD pour mettre un terme à ces conditions est réduit à 10 et la creature peut tenter un test nu pour mettre un terme à ces dégâts persistants immédiatement.</p>\n<p>Le sort obtient le trait eau (provoquant des dégâts supplémentaires aux créatures avec une faiblesse à l'eau).</p>",
+            "description": "<p>Vous améliorez votre sort avec l'eau élémentaire, trempant la cible.</p>\n<p>Si la prochaine action que vous utilisez consiste à Lancer un sort ciblant une cible unique, vous trempez la cible du sort avec de l'eau. Si la cible souffre de @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts d'acide ou de feu persistants}, le DD pour mettre un terme à ces conditions est réduit à 10 et la creature peut tenter un test nu pour mettre un terme à ces dégâts persistants immédiatement.</p>\n<p>Le sort obtient le trait eau (provoquant des dégâts supplémentaires aux créatures avec une faiblesse à l'eau).</p>",
             "prereq": [
                 {
                     "value": "Dévouement d'élémentaliste"
@@ -11761,6 +11781,16 @@
                 },
                 {
                     "value": "membre de second rang des Agitateurs vantards"
+                }
+            ]
+        },
+        {
+            "id": "Inured to Alchemy",
+            "name": "Inured to Alchemy",
+            "description": "<p><strong>Accès</strong> Vous êtes originaire d'Alkenastre ou les Étendues de Mana.</p>\n<hr />\n<p>Vous avez développé un contrôle sur la manière dont votre corps métabolise les poisons et les drogues alchimiques. Chacun de votre jets de sauvegarde réussi contre un poison alchimique, une drogue ou une addiction réduit le stade par 2, ou de 1 pour un poison, une drogue ou une addiction alchimique virulents. Chaque succès critique réduit le stade de 3 ou de 2 pour un poison, une drogue ou une addiction alchimique virulents.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Vigueur"
                 }
             ]
         },
@@ -12461,7 +12491,7 @@
         {
             "id": "Ghost Strike",
             "name": "Ghost Strike",
-            "description": "<p>Une fois par jour, vous pouvez imprégner une arme que vous transportez avec des énergies magiques qui vous permettent de frapper de véritables coups sur les morts-vivants intangibles.</p>\n<p>L'arme obtient les effets de la rune de propriété spectrale pendant 10 minutes.</p>\n<p> Au niveau 10, vous pouvez appliquer cet effet à deux armes au lieu d'une.</p>",
+            "description": "<p>Une fois par jour, vous pouvez imprégner une arme que vous transportez avec des énergies magiques qui vous permettent de frapper de véritables coups sur les morts-vivants intangibles.</p>\n<p>L'arme obtient les effets de la rune de propriété spectrale pendant 10 minutes.</p>\n<p>Au niveau 10, vous pouvez appliquer cet effet à deux armes au lieu d'une.</p>",
             "prereq": [
                 {
                     "value": "Dévouement de chasseur de fantômes"
@@ -12668,7 +12698,7 @@
         {
             "id": "Briar Battler",
             "name": "Briar Battler",
-            "description": "<p>Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous-bois denses à votre avantage.</p>\n<p> Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si la topographie du terrain ne devrait pas normalement être suffisante pour que vous puissiez vous Mettre à l'abri.</p>"
+            "description": "<p>Vous avez appris à utiliser les racines, les fissures, les sols accidentés et les sous-bois denses à votre avantage.</p>\n<p>Lorsque vous êtes sur un terrain difficile du fait d'une caractéristique environnementale, vous pouvez vous Mettre à l'abri, même si la topographie du terrain ne devrait pas normalement être suffisante pour que vous puissiez vous Mettre à l'abri.</p>"
         },
         {
             "id": "Confabulator",
@@ -12737,6 +12767,16 @@
             "prereq": [
                 {
                     "value": "maitre en Religion, divinité bonne ou mauvaise"
+                }
+            ]
+        },
+        {
+            "id": "Pain Tolerance",
+            "name": "Pain Tolerance",
+            "description": "<p><strong>Accès</strong> Vous êtes originaire d'Alkenastre ou des Étendues de Mana.</p>\n<hr />\n<p>Vous obtenez une résistance aux dégâts mentaux égaux à la moitié de votre niveau et un bonus de circonstance de +1 aux jets de sauvegarde contre les effets qui devraient vous rendre Maladroit, Drainé ou Affaibli.</p>",
+            "prereq": [
+                {
+                    "value": "expert en Vigueur"
                 }
             ]
         },
@@ -13080,7 +13120,7 @@
         {
             "id": "Thrash",
             "name": "Thrash",
-            "description": "<p><strong>Conditions</strong> Vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{empoigné} un ennemi</p>\n<hr />\n<p>Vous frappez l’ennemi que vous avez empoigné. Il subit une quantité de dégâts contondants égale à votre modificateur de Force plus vos dégâts de Spécialisation martiale plus vos dégâts de Rage. L’ennemi doit faire un jet de Vigueur basique contre votre DD de classe.</p>"
+            "description": "<p><strong>Conditions</strong> Vous avez @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Empoigné} un ennemi</p>\n<hr />\n<p>Vous frappez l’ennemi que vous avez Empoigné. Il subit une quantité de dégâts contondants égale à votre modificateur de Force plus vos dégâts de Spécialisation martiale plus vos dégâts de Rage. L’ennemi doit faire un jet de Vigueur basique contre votre DD de classe.</p>"
         },
         {
             "id": "Wilderness Spotter (Aquatic)",
@@ -15040,7 +15080,7 @@
         {
             "id": "Trickster Tengu",
             "name": "Trickster Tengu",
-            "description": "<p>Vous pouvez vous transformer vous même ou transformer les corps d'autres personnes, pour exprimer votre déplaisir.</p>\n<p> Une fois par jour, vous pouvez Lancer soit <em>@Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne}</em> soit <em>@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste}</em> comme un sort inné primordial de niveau 7. Vous devez prendre la forme d'un oiseau lorsque vous utilisez Forme aérienne de la sorte.</p>"
+            "description": "<p>Vous pouvez vous transformer vous même ou transformer les corps d'autres personnes, pour exprimer votre déplaisir.</p>\n<p>Une fois par jour, vous pouvez Lancer soit <em>@Compendium[pf2e.spells-srd.NzXpEzcZAjuDTZjK]{Forme aérienne}</em> soit <em>@Compendium[pf2e.spells-srd.dN8QBNuTiaBHCKUe]{Métamorphose funeste}</em> comme un sort inné primordial de niveau 7. Vous devez prendre la forme d'un oiseau lorsque vous utilisez Forme aérienne de la sorte.</p>"
         },
         {
             "id": "Scamper",
@@ -16982,6 +17022,19 @@
             ]
         },
         {
+            "id": "Prepare Papers",
+            "name": "Prepare Papers",
+            "description": "<p>Vous avez l'habitude de créer des faux qui établissent vos références de hors-la-loi ou augmentent votre autorité légale. Vous pouvez @Compendium[pf2e.actionspf2e.ftG89SjTSa9DYDOD]{Contrefaire} comme une activité d'exploration. Cela vous prend environ 1 heure par page du document que vous contrefaites. Ce temps est réduit à 10 minutes par page si vous êtes légendaire en Société.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'agent d'Alkenastre"
+                },
+                {
+                    "value": "maître en Société"
+                }
+            ]
+        },
+        {
             "id": "Choking Smoke",
             "name": "Choking Smoke",
             "description": "<p>Lorsque vous lancez Boule de feu intensifiée au moins au niveau 6, vous pouvez modifier les effets habituels du sort comme suit : réduisez les dégâts du sort de 6d6. Votre Boule de feu laisse derrière elle un nuage persistant de fumée toxique dans sa zone. Bien qu'il s'agisse de fumée au lieu de brume, ce nuage possède les effets de Nuage nauséabond.</p>",
@@ -17464,7 +17517,7 @@
         {
             "id": "Witch's Charge",
             "name": "Witch's Charge",
-            "description": "<p>Vous forgez un lien magique avec une autre créature, vous permettant d'être alerté de la condition de la créature et de créer un conduit pour l'incantation de vos sorts.</p>\n<p>Durant vos préparatifs quotidiens, vous pouvez désigner une créature volontaire comme votre fardeau. Vous êtes toujours alerté de la direction dans laquelle elle se trouve par rapport à vous, de sa distance et de toute condition qui l'affecte. De plus, vous pouvez lancer des sorts avec une portée de contact sur votre fardeau à une portée de 9 mètres. Ces effets persistent jusqu'à vos prochains préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition des sorts que vous lancez (arcanique, divin, occulte ou primordial.)</p>\n<p>@Compendium[pf2e.feat-effects.ugeStF0Rj8phBPWL]{Effet : Fardeau du sorcier}</p>"
+            "description": "<p>Vous forgez un lien magique avec une autre créature, vous permettant d'être alerté de la condition de la créature et de créer un conduit pour l'incantation de vos sorts.</p>\n<p>Durant vos préparatifs quotidiens, vous pouvez désigner une créature consentante comme votre fardeau. Vous êtes toujours alerté de la direction dans laquelle elle se trouve par rapport à vous, de sa distance et de toute condition qui l'affecte. De plus, vous pouvez lancer des sorts avec une portée de contact sur votre fardeau à une portée de 9 mètres. Ces effets persistent jusqu'à vos prochains préparatifs quotidiens.</p>\n<hr />\n<p><strong>Spécial</strong> Ce don possède le trait correspondant à la tradition des sorts que vous lancez (arcanique, divin, occulte ou primordial.)</p>\n<p>@Compendium[pf2e.feat-effects.ugeStF0Rj8phBPWL]{Effet : Fardeau du sorcier}</p>"
         },
         {
             "id": "Arcane Shroud",
@@ -19124,8 +19177,8 @@
             ]
         },
         {
-            "id": "Janatimo's Secret Lesson",
-            "name": "Janatimo's Secret Lesson",
+            "id": "Janatimo's Lessons",
+            "name": "Janatimo's Lessons",
             "description": "<p>Grâce aux techniques secrètes de Janatimo, vous pouvez mêler votre connaissance et vos mots pour en faire des outils puissants pour aider vos alliés dans des situations qui menacent leur vie.</p>\n<p>Lorsque vous utilisez @Compendium[pf2e.feats-srd.UCen3Tq6BJlNI7rx]{Mémoire Uzunjati} pour raconter une histoire et @Compendium[pf2e.actionspf2e.1OagaWtBpVXExToo]{Vous souvenir} à propos d'une créature durant une rencontre de combat, si vous obtenez un succès à vos deux tests, votre histoire apporte une signification plus profonde. Cela accorde à vos alliés un bonus de circonstances de +1 à leur prochain jet d'attaque et au jet de sauvegarde contre la créature durant cette rencontre, ainsi qu'à leur CA contre le prochain jet d'attaque de la créature  durant cette rencontre. Si vous obtenez une réussite critique au deux tests, les bonus s'appliquent aussi à tous les jets d'attaque, aux jets de sauvegarde et à la CA contre cette créature pendant 2 rounds.</p>",
             "prereq": [
                 {
@@ -19726,7 +19779,7 @@
         {
             "id": "Morrigna's Spider Affinity",
             "name": "Morrigna's Spider Affinity",
-            "description": "<p>Comme les Morrignas, vous ressentez une affinité avec les araignées.</p>\n<p> Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.yhz9fF69uwRhnHix]{Messager animal (araignées seulement)}</em>, <em>@Compendium[pf2e.spells-srd.BBvV7qoXGdw09q1C]{Communication avec les animaux (araignées seulement)}</em> et <em>@Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]{Escalade d'araignée}</em> une fois par jour chacun comme des sorts divins innés de niveau 2.</p>"
+            "description": "<p>Comme les Morrignas, vous ressentez une affinité avec les araignées.</p>\n<p>Vous pouvez lancer <em>@Compendium[pf2e.spells-srd.yhz9fF69uwRhnHix]{Messager animal (araignées seulement)}</em>, <em>@Compendium[pf2e.spells-srd.BBvV7qoXGdw09q1C]{Communication avec les animaux (araignées seulement)}</em> et <em>@Compendium[pf2e.spells-srd.5KobTMrZeZxuXMgl]{Escalade d'araignée}</em> une fois par jour chacun comme des sorts divins innés de niveau 2.</p>"
         },
         {
             "id": "Disciple's Breath",
@@ -20626,7 +20679,7 @@
         {
             "id": "Basic Red Mantis Magic",
             "name": "Basic Red Mantis Magic",
-            "description": "<p>Vous avez appris, lors votre entraînement chez les Mantes rouges, à maîtriser une magie divine limitée. Vous gagnez l’activité Lancer un sort. Vous êtes un incantateur préparé capable de préparer deux tours de magie et un sort de niveau 1 par jour. Vous préparez ces sorts à partir d’un grimoire d’assassin des Mantes rouges semblable à celui d’un magicien et contenant trois tours de magie et deux sorts de niveau 1. À partir du moment où vous obtenez ce don et tous les autres dons suivants, tous les sorts de votre grimoire d’assassin des Mantes rouges doivent être des sorts de transmutation ou d’illusion tirés de la liste des sorts arcaniques ou de la liste suivante : </p>\n<ul>\n<li><em>@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Brume de dissimulation}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{Coup au but}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l’invisibilité}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.FhOaQDTSnsY7tiam]{Modification de mémoire}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralysie}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}</em>.</li>\n</ul>\n<p>Quelle que soit leur tradition magique habituelle, vos sorts d’assassin des Mantes rouges sont considérés comme des sorts divins et ce sera également le cas de n’importe quel sort focalisé des Mantes rouges que vous gagnerez.\n<p>Vous pouvez préparer deux tours de magie et un sort de niveau 1 chaque jour parmi ceux notés dans votre grimoire d’assassin des Mantes rouges.</p>\n<p> Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle pour lancer un sort est le Charisme.</p>",
+            "description": "<p>Vous avez appris, lors votre entraînement chez les Mantes rouges, à maîtriser une magie divine limitée. Vous gagnez l’activité Lancer un sort. Vous êtes un incantateur préparé capable de préparer deux tours de magie et un sort de niveau 1 par jour. Vous préparez ces sorts à partir d’un grimoire d’assassin des Mantes rouges semblable à celui d’un magicien et contenant trois tours de magie et deux sorts de niveau 1. À partir du moment où vous obtenez ce don et tous les autres dons suivants, tous les sorts de votre grimoire d’assassin des Mantes rouges doivent être des sorts de transmutation ou d’illusion tirés de la liste des sorts arcaniques ou de la liste suivante : </p>\n<ul>\n<li><em>@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Brume de dissimulation}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.HXhWYJviWalN5tQ2]{Clairaudience}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.zvKWclOZ7A53DObE]{Clairvoyance}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.Gb7SeieEvd0pL2Eh]{Coup au but}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.jwK43yKsHTkJQvQ9]{Détection de l’invisibilité}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.FhOaQDTSnsY7tiam]{Modification de mémoire}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.DCQHaLrYXMI37dvW]{Paralysie}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.VlNcjmYyu95vOUe8]{Porte dimensionnelle}</em>,</li>\n<li><em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Ténèbres}</em>.</li>\n</ul>\n<p>Quelle que soit leur tradition magique habituelle, vos sorts d’assassin des Mantes rouges sont considérés comme des sorts divins et ce sera également le cas de n’importe quel sort focalisé des Mantes rouges que vous gagnerez.\n<p>Vous pouvez préparer deux tours de magie et un sort de niveau 1 chaque jour parmi ceux notés dans votre grimoire d’assassin des Mantes rouges.</p>\n<p>Vous êtes qualifié dans les jets d’attaque de sorts et les DD de sorts pour les sorts divins. Votre caractéristique essentielle pour lancer un sort est le Charisme.</p>",
             "prereq": [
                 {
                     "value": "Qualifié en Religion"
@@ -21085,8 +21138,8 @@
             ]
         },
         {
-            "id": "Living Weapon (Tail)",
-            "name": "Living Weapon (Tail)",
+            "id": "Living Weapon",
+            "name": "Living Weapon",
             "description": "<p>Vous avez appris à utiliser la queue de votre forme comme d'une arme. Lorsque vous choisissez ce don, vous obtenez une attaque à mains nues de queue qui inflige [[/r {1d6}[bludgeoning]]]{1d6 dégâts contondants}.</p>\n<p>Cette attaque à mains nues est dans le groupe pugilat et possède le trait Prise d'élan. Cette capacité est modifiable ; vous pouvez choisir ce don à n'importe quel niveau et vous pouvez le réapprendre ou changer le type d'attaque que vous obtenez.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez prendre ce don plusieurs fois. Chaque fois que vous le faites, choisissez une autre forme d'attaque à mains nues.</p>"
         },
         {
@@ -21333,7 +21386,7 @@
         {
             "id": "Geomancer Dedication",
             "name": "Geomancer Dedication",
-            "description": "<p>Vous ressentez un lien profond avec le monde, où que vous soyez, un phénomène connu sous le nom \"Harmonisation avec le terrain\". Lorsque vous dépensez un emplacement de sort pour lancer un sort dont le trait correspond au type de terrain dans lequel vous vous trouvez (comme indiqué ci-dessous), vous bénéficiez de l'effet d'harmonisation avec le terrain pour ce type de terrain. Le MJ peut déterminer qu'un effet d'harmonisation s'applique tant qu'il est suffisamment répandu autour de vous. Par exemple, vous pouvez être en terrain aquatique sur la rive d'une rivière ou sur un bateau. De même, un endroit peut être compté comme plusieurs types de terrain, comme une montagne dans le Grand Nord qui est à la fois arctique et montagneuse. Dans ce cas, vous ne choisissez qu'un seul effet d'harmonisation avec le terrain, même si le sort possède des caractéristiques qui s'appliquent à chaque type de terrain.</p>\n<p>Certaines harmonisations de terrain affectent vos ennemis à votre place. Si c'est le cas, lorsque vous lancez le sort, vous appliquez l'effet indiqué à tous les ennemis qui sont soit adjacents à vous, soit dans la zone du sort, soit ciblés par le sort. Ces ennemis bénéficient du jet de sauvegarde indiqué contre le DD de votre sort pour tenter d'éviter l'effet.</p>\n<ul>\n<li><strong>Aquatique</strong> (Eau) Vous suivez les courants de l'eau. Si vous êtes dans l'eau, vous gagnez une vitesse de nage égale à votre vitesse terrestre. Si vous êtes à la surface, des vagues d'eau temporaires suivent vos déplacements, vous permettant d'utiliser votre vitesse de nage - si vous en avez une - comme votre vitesse terrestre.</li>\n<li><strong>Arctique</strong> (Froid) Le givre arctique recouvre le corps de vos ennemis. Les ennemis doivent tenter un jet de Vigueur. Ils subissent une pénalité de statut de -1,5 mètres à leur vitesse pendant 2 rounds (-3 mètres en cas d'échec critique).</li>\n<li><strong>Désert</strong> (Feu) La chaleur torride du désert déshydrate vos ennemis. Les ennemis doivent tenter un jet de Vigueur. En cas d'échec, ils sont @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigués} jusqu'à ce qu'ils boivent de l'eau ou un autre liquide potable.</li>\n<li><strong>Forêt</strong> (Plante) Les branches et les lianes se tendent pour se mettre en travers du chemin de vos ennemis. Les ennemis doivent tenter un jet de Réflexes. En cas d'échec, ils deviennent @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 pendant 1 round (@Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 en cas d'échec critique).</li>\n<li><strong>Montagne</strong> (Terre) L'endurance robuste de la montagne vous protège de tout danger. Vous gagnez une résistance aux dégâts physiques (sauf adamantium) égale au niveau du sort pendant 1 round.</li>\n<li><strong>Plaines</strong> (Plante) Les champs qui poussent et la vitalité palpitante des plaines vous donnent de la vigueur. Vous gagnez des points de vie temporaires égaux au niveau du sort pendant 1 round.</li>\n<li><strong>Ciel</strong> (Air) Une rafale de vent vous transporte dans les airs. Vous pouvez vous envoler vers le haut jusqu'à 3 mètres de hauteur. Si vous êtes en l'air à la fin du tour et que vous n'avez pas de vitesse de vol, vous tombez.</li>\n<li><strong>Marais</strong> (Plante) Votre magie aspire les gaz nocifs des marais pour enfumer vos ennemis. Les ennemis affectés subissent des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de poison persistant} égaux à la moitié du niveau du sort (minimum 1 dégât) avec une jet basique de Vigueur.</li>\n<li><strong>Souterrains</strong> (Terre) L'obscurité sans fin des profondeurs des cavernes ouvre ses secrets à vos sens. Pendant 1 round, vous gagnez la vision dans le noir ainsi que Perception des vibrations (imprécis) jusqu'à 4,5 mètres.</li>\n</ul>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype de géomancien.</p>",
+            "description": "<p>Vous ressentez un lien profond avec le monde, où que vous soyez, un phénomène connu sous le nom \"Harmonisation avec le terrain\". Lorsque vous dépensez un emplacement de sort pour lancer un sort dont le trait correspond au type de terrain dans lequel vous vous trouvez (comme indiqué ci-dessous), vous bénéficiez de l'effet d'harmonisation avec le terrain pour ce type de terrain. Le MJ peut déterminer qu'un effet d'harmonisation s'applique tant qu'il est suffisamment répandu autour de vous. Par exemple, vous pouvez être en terrain aquatique sur la rive d'une rivière ou sur un bateau. De même, un endroit peut être compté comme plusieurs types de terrain, comme une montagne dans le Grand Nord qui est à la fois arctique et montagneuse. Dans ce cas, vous ne choisissez qu'un seul effet d'harmonisation avec le terrain, même si le sort possède des caractéristiques qui s'appliquent à chaque type de terrain.</p>\n<p>Certaines harmonisations de terrain affectent vos ennemis à votre place. Si c'est le cas, lorsque vous lancez le sort, vous appliquez l'effet indiqué à tous les ennemis qui sont soit adjacents à vous, soit dans la zone du sort, soit ciblés par le sort. Ces ennemis bénéficient du jet de sauvegarde indiqué contre le DD de votre sort pour tenter d'éviter l'effet.</p>\n<ul>\n<li><strong>Aquatique</strong> (Eau) Vous suivez les courants de l'eau. Si vous êtes dans l'eau, vous gagnez une vitesse de nage égale à votre vitesse terrestre. Si vous êtes à la surface, des vagues d'eau temporaires suivent vos déplacements, vous permettant d'utiliser votre vitesse de nage - si vous en avez une - comme votre vitesse terrestre.</li>\n<li><strong>Arctique</strong> (Froid) Le givre arctique recouvre le corps de vos ennemis. Les ennemis doivent tenter un jet de Vigueur. Ils subissent une pénalité de statut de -1,5 mètres à leur vitesse pendant 2 rounds (-3 mètres en cas d'échec critique).</li>\n<li><strong>Désert</strong> (Feu) La chaleur torride du désert déshydrate vos ennemis. Les ennemis doivent tenter un jet de Vigueur. En cas d'échec, ils sont @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigués} jusqu'à ce qu'ils boivent de l'eau ou un autre liquide potable.</li>\n<li><strong>Forêt</strong> (Plante) Les branches et les lianes se tendent pour se mettre en travers du chemin de vos ennemis. Les ennemis doivent tenter un jet de Réflexes. En cas d'échec, ils deviennent @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 1 pendant 1 round (@Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit} 2 en cas d'échec critique).</li>\n<li><strong>Montagne</strong> (Terre) L'endurance robuste de la montagne vous protège de tout danger. Vous gagnez une résistance aux dégâts physiques (sauf adamantium) égale au niveau du sort pendant 1 round.</li>\n<li><strong>Plaines</strong> (Plante) Les champs qui poussent et la vitalité palpitante des plaines vous donnent de la vigueur. Vous gagnez des points de vie temporaires égaux au niveau du sort pendant 1 round.</li>\n<li><strong>Ciel</strong> (Air) Une rafale de vent vous transporte dans les airs. Vous pouvez vous envoler vers le haut jusqu'à 3 mètres de hauteur. Si vous êtes en l'air à la fin du tour et que vous n'avez pas de vitesse de vol, vous tombez.</li>\n<li><strong>Marais</strong> (Plante) Votre magie aspire les gaz nocifs des marais pour enfumer vos ennemis. Les ennemis affectés subissent des @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de poison persistant} égaux à la moitié du niveau du sort (minimum 1 dégât) avec une jet basique de Vigueur.</li>\n<li><strong>Souterrains</strong> (Terre) L'obscurité sans fin des profondeurs des cavernes ouvre ses secrets à vos sens. Pendant 1 round, vous gagnez la vision dans le noir ainsi que Perception des vibrations (imprécis) jusqu'à 4,5 mètres.</li>\n</ul>\n<p><strong>Spécial</strong> Vous ne pouvez pas choisir un autre don de dévouement tant que vous n'avez pas acquis deux autres dons de l'archétype de géomancien.</p>",
             "prereq": [
                 {
                     "value": "Qualifié en Nature"
@@ -22081,6 +22134,16 @@
             ]
         },
         {
+            "id": "Alkenstar Agent Dedication",
+            "name": "Alkenstar Agent Dedication",
+            "description": "<p><strong>Accès</strong> Vous avez été initié par la grande duchesse d'Alkenastre ou un de ses agents.</p>\n<hr />\n<p>Vous vous présentez comme un hors-la-loi brutal et turbulent mais votre véritable objectif est de rapporter à la grande-duchesse les menaces qui pèsent sur l'Alkenastre. Vous devenez un expert en Duperie et vous êtes qualifié à votre choix en Connaissance de la pègre ou en Connaissance juridique ; si vous étiez déjà qualifié, vous devenez un expert à la place. Vous obtenez le don de compétence @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Détecteur de mensonge}.</p>\n<p><strong>Spécial</strong> Vous ne pouvez choisir un autre don de dévouement avant d'avoir obtenu deux autres dons de l'archétype Agent d'Alkenastre.</p>",
+            "prereq": [
+                {
+                    "value": "qualifié en Duperie et en au moins une arme à feu"
+                }
+            ]
+        },
+        {
             "id": "Alghollthu Bound",
             "name": "Alghollthu Bound",
             "description": "<p>Bien que vous puissiez même ne pas en être conscient, les alghollthus que vos ancêtres ont autrefois servi, maintiennent une emprise dans les couches les plus profondes de votre esprit.</p>\n<p>Vous recevez un bonus de circonstances de +2 aux jets de Volonté contre les effets mentaux qui devraient vous contrôler et, si vous obtenez un succès contre un tel effet, vous obtenez un succès critique à la place.</p>\n<p>Quoi qu'il en soit, vous n'obtenez aucun de ces avantages contre les effets provenant des alghollthus et vous subissez à la place une pénalité de circonstances de –2 contre les effets mentaux des alghollthus.</p>"
@@ -22245,6 +22308,19 @@
             "id": "Antagonize",
             "name": "Antagonize",
             "description": "<p>Vos moqueries et menaces vous valent la colère de vos ennemis.</p>\n<p>Lorsque vous réussissez à @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} une créature, sa condition @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} ne peut décroître à moins de 1 à la fin de son tour tant qu'elle n'a pas soit utilisé une action hostile contre vous soit ne puisse plus vous observer ou vous sentir pendant au moins 1 round.</p>"
+        },
+        {
+            "id": "Flash Your Badge",
+            "name": "Flash Your Badge",
+            "description": "<p>Vous faites une démonstration effrayante de votre autorité. Lancez les tests d'Intimidation pour @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser} chaque créature dans un @Template[type:cone|distance:30]{cône de 9 m}. Lorsque vous le faites, Démoraliser obtient le trait visuel et les créatures sont affectées s'ils peuvent vous voir. Si une cible n'a pas violé la loi au cours de la semaine écoulée (comme déterminé par votre MJ), le résultat de votre test contre cette créature est d'un cran de succès plus mauvais que le résultat que vous avez obtenu.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'agent d'Alkenastre"
+                },
+                {
+                    "value": "Mâitre en intimidation"
+                }
+            ]
         },
         {
             "id": "Precise Debilitations",
@@ -22673,7 +22749,7 @@
         {
             "id": "Bespell Weapon",
             "name": "Bespell Weapon",
-            "description": "<p><strong>Fréquence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre action la plus récente a consisté à Lancer un sort autre qu’un tour de magie.</p>\n<hr />\n<p>Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.</p>\n<ul>\n<li><strong>Abjuration</strong> @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{Dégâts de force},</li>\n<li><strong>Invocation ou Transmutation</strong> @Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]{Dégâts du même type que ceux de l'arme},</li>\n<li><strong>Divination, Enchantment ou Illusion</strong> @Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]{Dégâts mentaux},</li>\n<li><strong>Évocation</strong> d'un type infligé par le sort ou @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{Dégâts de force} si le sort n'inflige pas de dégâts,</li>\n<li><strong>Nécromancie</strong> @Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]{Dégâts négatifs}</li>\n</ul>"
+            "description": "<p><strong>Fréquence</strong> une fois par tour</p>\n<p><strong>Conditions</strong> Votre action la plus récente a consisté à Lancer un sort autre qu’un tour de magie.</p>\n<hr />\n<p>Vous siphonnez l’énergie résiduelle du dernier sort que vous avez lancé pour l’injecter dans une arme que vous maniez. Jusqu’à la fin de votre tour, cette arme inflige 1d6 dégâts supplémentaires d’un type dépendant de l’école du sort juste lancé.</p>\n<ul>\n<li><strong>Abjuration</strong> @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{dégâts de force},</li>\n<li><strong>Invocation ou Transmutation</strong> @Compendium[pf2e.feat-effects.E8MiV00QEhH5n18L]{dégâts du même type que ceux de l'arme},</li>\n<li><strong>Divination, Enchantment ou Illusion</strong> @Compendium[pf2e.feat-effects.ZSgB3imGveukWUxs]{dégâts mentaux},</li>\n<li><strong>Évocation</strong> d'un type infligé par le sort ou @Compendium[pf2e.feat-effects.GbbwJhwSNLw06XpO]{dégâts de force} si le sort n'inflige pas de dégâts,</li>\n<li><strong>Nécromancie</strong> @Compendium[pf2e.feat-effects.G1IRkppxJCYdfqXo]{dégâts négatifs}</li>\n</ul>"
         },
         {
             "id": "Tongue of Sun and Moon",
@@ -22790,6 +22866,16 @@
             "prereq": [
                 {
                     "value": "Dévouement du Chercheur du Paradis de Jalmeray"
+                }
+            ]
+        },
+        {
+            "id": "Powder Punch Stance",
+            "name": "Powder Punch Stance",
+            "description": "<p><strong>Accès</strong> Vous êtes originaire d'Alkenastre ou des Étendues de Mana.</p>\n<hr />\n<p>Vous imprégnez vos bandelettes de poudre noire. Lors de votre première Frappe au corps-à-corps chaque round avec une attaque à mains nues, un @Compendium[pf2e.equipment-srd.dgXjUcaoQDAY6ZpO]{Coup-de-poing} ou @Compendium[pf2e.equipment-srd.8eGV6fXbmt2v74uB]{Coup-de-poing à poudre noire}, vous infligez 1 dégât de feu supplémentaires. Si vous obtenez un succès critique lorsq d'une tentative pour @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Pousser} alors que vous vous trouvez dans cette posture, la cible est repoussée d'1,5 m supplémentaires.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'artiste martial"
                 }
             ]
         },
@@ -23317,7 +23403,7 @@
         {
             "id": "Fiendsbane Oath (Liberator)",
             "name": "Fiendsbane Oath (Liberator)",
-            "description": "<p>Vous avez fait le serment de bannir les fiélons corrupteurs vers les plans obscurs d’où ils proviennent. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez bannir ou tuer les fiélons que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un fiélon d’alignement bon, vous n’avez pas à le bannir ou à le tuer. »</p>\n<p> Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effet : Pas libérateur (Fiélon)}</p>\n<p>Vous ne considérez pas les fiélons comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
+            "description": "<p>Vous avez fait le serment de bannir les fiélons corrupteurs vers les plans obscurs d’où ils proviennent. Ajoutez le principe suivant à votre code, à la suite des autres : « Vous devez bannir ou tuer les fiélons que vous rencontrez si vous avez des chances raisonnables d’y parvenir. Dans le cas très peu probable où vous rencontrez un fiélon d’alignement bon, vous n’avez pas à le bannir ou à le tuer. »</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>\n<p>@Compendium[pf2e.feat-effects.9dCt0asv0kt7DR4q]{Effet : Pas libérateur (Fiélon)}</p>\n<p>Vous ne considérez pas les fiélons comme des autorités légitimes, même au sein des nations sur lesquelles ils règnent.</p>",
             "prereq": [
                 {
                     "value": "principes du bien"
@@ -24705,7 +24791,7 @@
         {
             "id": "Fire Lung",
             "name": "Fire Lung",
-            "description": "<p>Une vie entière à proximité des flammes a habitué vos poumons et vos yeux à la fumée. Vous pouvez respirer normalement dans les zones pleine de cendres ou de fumée sans risque de suffocation et vous ignorez la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachée} lorsqu'elle résulte de la fumée.</p>\n<p>Vous n'avez besoin que de réussir un test nu DD 10 pour mettre un terme aux @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de feu persistants}, au lieu d'un DD 15 (et de 5 lorsque vous recevez une aide particulièrement efficace au lieu de 10).</p>",
+            "description": "<p>Une vie entière à proximité des flammes a habitué vos poumons et vos yeux à la fumée. Vous pouvez respirer normalement dans les zones pleine de cendres ou de fumée sans risque de suffocation et vous ignorez la condition @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Cachée} lorsqu'elle résulte de la fumée.</p>\n<p>Vous n'avez besoin que de réussir un test nu DD 10 pour mettre un terme aux @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de feu persistants}, au lieu d'un DD 15 (et de 5 lorsque vous recevez une aide particulièrement efficace au lieu de 10).</p>",
             "prereq": [
                 {
                     "value": "ordre de la flamme"
@@ -27229,7 +27315,7 @@
         {
             "id": "Battle Medicine",
             "name": "Battle Medicine",
-            "description": "<p><strong>Conditions</strong> Vous portez ou transportez des outils de guérisseur.</p>\n<hr />\n<p>Vous pouvez vous rafistoler ou rafistoler un allié adjacent, même en combat. Faites un test de Médecine avec le même DD que @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures} et restaurez un montant de points de vie correspondant. Ceci ne retire pas l’état @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé}. Comme avec Soigner les blessures, vous pouvez tenter des tests contre des DD plus hauts si vous avez le rang de maîtrise minimum. La cible est ensuite temporairement immunisée à votre Médecine militaire pendant 1 jour.</p>\n<strong>Note</strong> Paizo a clarifié l'usage des outils portés :</p> \n<blockquote>Les outils portés ne devraient prendre seulement qu'une main pour pouvoir être utilisés car vous n'avez besoin que de tirer les choses dont vous avez besoin du kit et non le kit entier. Ce don a été marqué pour un futur errata.</blockquote></p>",
+            "description": "<p><strong>Conditions</strong> Vous portez ou transportez des outils de guérisseur.</p>\n<hr />\n<p>Vous pouvez vous rafistoler ou rafistoler un allié adjacent, même en combat. Faites un test de Médecine avec le même DD que @Compendium[pf2e.actionspf2e.1kGNdIIhuglAjIp9]{Soigner les blessures} et restaurez un montant de points de vie correspondant. Ceci ne retire pas l’état @Compendium[pf2e.conditionitems.Yl48xTdMh3aeQYL2]{Blessé}. Comme avec Soigner les blessures, vous pouvez tenter des tests contre des DD plus hauts si vous avez le rang de maîtrise minimum. La cible est ensuite temporairement immunisée à votre Médecine militaire pendant 1 jour.</p>\n<p><strong>Note</strong> Paizo a clarifié l'usage des outils portés :</p> \n<blockquote>Les outils portés ne devraient prendre seulement qu'une main pour pouvoir être utilisés car vous n'avez besoin que de tirer les choses dont vous avez besoin du kit et non le kit entier. Ce don a été marqué pour un futur errata.</blockquote></p>",
             "prereq": [
                 {
                     "value": "Qualifié en Médecine"
@@ -28936,6 +29022,16 @@
             "id": "Earned Glory",
             "name": "Earned Glory",
             "description": "<p>Les elfes sont souvent sceptiques à propos des demi-elfes et vous êtes expérimenté lorsqu'il s'agit de raconter des histoires à propos de ce que vous avez accompli pour obtenir leur respect. Vous êtes qualifié en Représentation. Si vous étiez automatiquement devenu qualifié en Représentation (du fait de votre historique ou de votre classe, par exemple), vous êtes qualifié à la place dans une autre compétence de votre choix.</p>\n<p>Vous obtenez le don @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Représentation impressionnante}. Lorsque vous faites un test de Représentation pour @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Faire bonne impression} sur un elfe, lorsque vous obtenez un échec critique vous considérez qu'il s'agit à la place d'un échec.</p>"
+        },
+        {
+            "id": "Loose Cannon",
+            "name": "Loose Cannon",
+            "description": "<p>Vos tirs imprévisibles prennent souvent les ennemis au dépourvu ou touchent des zones non protégées. Effectuez une Frappe à distance avec une arme à feu contre une créature que vous n'avez pas encore attaquée à ce tour. Vous gagnez un bonus de circonstances aux dégâts de cette frappe égal au nombre de dés de dégâts de l'arme. Le coup bénéficie de l'effet d'échec suivant.</p>\n<hr />\n<p><strong>Échec</strong> L'arme à feu a des ratés mais elle ne provoque pas les autres effets d'un échec critique indiqué ci-dessous.</p>\n<p><strong>Échec critique</strong> L'arme à feu à des ratés et explose également. Elle est brisée et elle inflige ses dégâts d'arme normaux à toutes les créatures dans une @Template[type:burst|distance:20]{explosion de 6 m} centrée sur l'arme à feu, avec un jet de @Check[type:reflex|dc:resolve(@actor.attributes.classDC.value)|basic:true]{Réflexes} contre votre DD de classe. Ces dégâts incluent tous ceux des runes fondamentales et de propriété de l'arme.</p>",
+            "prereq": [
+                {
+                    "value": "Dévouement d'agent d'Alkenastre"
+                }
+            ]
         },
         {
             "id": "Esoteric Oath (Liberator)",

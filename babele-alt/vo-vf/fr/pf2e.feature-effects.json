@@ -12,8 +12,8 @@
             "description": "<p>Votre ancêtre combattant devient prédominant. Test nu DD 4</p>\n<p>Actions préférées : Frappes.</p>\n<hr />\n<p><em>Note : Vous avez besoin d'appliquer le test nu lorsque vous utilisez une autre action que celle privilégiée par votre ancêtre manuellement. Les effets restants sont appliqués automatiquement.</em></p>"
         },
         {
-            "id": "Effect: Flames Oracle",
-            "name": "Effect: Flames Oracle (Effet : Malédiction des flammes)",
+            "id": "Effect: Flames Curse",
+            "name": "Effect: Flames Curse (Effet : Malédiction des flammes)",
             "description": ""
         },
         {
@@ -289,7 +289,7 @@
         {
             "id": "Effect: Moderate Life Curse",
             "name": "Effect: Moderate Life Curse (Effet : Malédiction modérée de la vie)",
-            "description": "<p>L’énergie vitale continue à s’écouler de vous et ce phénomène ne peut pas être inversé.</p>\n <p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. En plus des effets de votre malédiction mineure, vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscients, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n <p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<hr />\n<p><em>Note : il vous faut appliquer les effets de cette malédiction manuellement.</em></p>"
+            "description": "<p>L’énergie vitale continue à s’écouler de vous et ce phénomène ne peut pas être inversé.</p>\n<p>Les effets qui restaurent des points de vie subissent un malus de statut égal à la moitié de votre niveau (avec un minimum de 1) sur le nombre de points de vie que vous récupérez. En plus des effets de votre malédiction mineure, vous ne pouvez pas être soigné par des effets magiques provenant d’autres créatures. Cependant, si vous êtes inconscients, les effets magiques peuvent vous ramener à 1 pv (mais pas davantage). Vous êtes affecté normalement par les élixirs de vie, les potions et les autres objets.</p>\n<p>Quand vous lancez <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Guérison}</em> et que toutes vos cibles sont des créatures vivantes, vous lancez des d12 au lieu de d8 pour déterminer la quantité de Points de vie soignés.</p>\n<p>Chaque fois que vous terminez de lancer un sort qui n’est pas un tour de magie, vous restaurez un nombre de points de vie égal au niveau du sort. Vous choisissez la cible qui peut être la cible du sort ou la créature la plus proche de vous. Cela ne vous permet pas de vous soigner vous-même. Ce soin possède les traits soins, nécromancie et positif ainsi que le trait de la tradition du sort.</p>\n<hr />\n<p><em>Note : il vous faut appliquer les effets de cette malédiction manuellement.</em></p>"
         },
         {
             "id": "Effect: Moderate Spellcasting Ancestor Curse",

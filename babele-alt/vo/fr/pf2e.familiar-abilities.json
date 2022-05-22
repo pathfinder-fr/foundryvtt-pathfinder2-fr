@@ -114,7 +114,7 @@
         {
             "id": "Climber",
             "name": "Climber",
-            "description": "<p> Votre familier gagne une Vitesse d’escalade de 7,5 m.</p>"
+            "description": "<p>Votre familier gagne une Vitesse d’escalade de 7,5 m.</p>"
         },
         {
             "id": "Fast Movement: Land",

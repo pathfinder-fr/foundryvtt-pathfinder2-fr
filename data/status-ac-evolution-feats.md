@@ -1,11 +1,18 @@
 # État de la traduction (ac-evolution-feats)
 
  * **libre**: 32
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[VUaI1q3MqoJqo5o5.htm](ac-evolution-feats/VUaI1q3MqoJqo5o5.htm)|Towering Size|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

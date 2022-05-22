@@ -304,12 +304,12 @@
         {
             "id": "Stance: Dueling Dance",
             "name": "Posture : Danse en duel (Stance: Dueling Dance)",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.9VGmE7X4aK2W8YWj]{Danse en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]{Danse en duel (Guerrier))}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li> Bonus de circonstances de +2 à a CA</li>\n</ul>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.9VGmE7X4aK2W8YWj]{Danse en duel (Bretteur)} ou @Compendium[pf2e.feats-srd.FYz5eQeTox9IDkSd]{Danse en duel (Guerrier))}</p>\n<p>Code : Effets appliqués automatiquement</p>\n<ul>\n<li>Bonus de circonstances de +2 à a CA</li>\n</ul>"
         },
         {
             "id": "Effect: Blade Ally Disrupting Rune (Greater)",
-            "name": "Effet : Allié lame Pertubatrice supérieur (Effect: Blade Ally Disrupting Rune (Greater))",
-            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts-vivants. En cas de coup critique, le mort-vivant doit faire un jet de @Check[type:fortitude|dc:34|name:Greater Disrupting]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<p><strong>Succès critique.</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est Affaibli 2 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est Affaibli 3 jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
+            "name": "Effet : Allié lame Pertubatrice supérieure (Effect: Blade Ally Disrupting Rune (Greater))",
+            "description": "<p>Une arme perturbatrice pulse d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts-vivants. En cas de coup critique, le mort-vivant doit faire un jet de @Check[type:fortitude|dc:34|name:perturbatrice supérieure]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<hr />\n<p><strong>Succès critique</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 3} jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
         },
         {
             "id": "Stance: Jellyfish Stance",
@@ -639,7 +639,7 @@
         {
             "id": "Effect: Liberating Step (vs. Fiend)",
             "name": "Effet : Pas libérateur (Fiélon) (Effect: Liberating Step (vs. Fiend))",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.uv235v6hXCITAFej]{Serment du fléau des fiélons (Libérateur)}</p>\n<p> Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.uv235v6hXCITAFej]{Serment du fléau des fiélons (Libérateur)}</p>\n<p>Si vous utilisez @Compendium[pf2e.actionspf2e.IX1VlVCL5sFTptEE]{Pas libérateur} lorsqu’il est déclenché par un fiélon, votre allié bénéficie d’un bonus de circonstances de +4 aux tests conféré par votre Pas libérateur et votre allié peut ensuite Faire un pas deux fois.</p>"
         },
         {
             "id": "Effect: Bon Mot",

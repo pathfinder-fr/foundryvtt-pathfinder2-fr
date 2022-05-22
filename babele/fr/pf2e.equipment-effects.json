@@ -484,7 +484,7 @@
         {
             "id": "Effect: Succubus Kiss (Stage 2)",
             "name": "Effet : Baiser de la succube (Stade 2)",
-            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
+            "description": "<p>La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
         },
         {
             "id": "Effect: Cape of the Open Sky",
@@ -584,7 +584,7 @@
         {
             "id": "Effect: Succubus Kiss (Stage 1)",
             "name": "Effet : Baiser de la succube (Stade 1)",
-            "description": "<p> La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
+            "description": "<p>La créature gagne un Bonus d'objet de +2 aux test d'Initiative.</p>"
         },
         {
             "id": "Effect: Rowan Rifle (Electricity)",

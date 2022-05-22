@@ -1,12 +1,35 @@
 # État de la traduction (ac-advanced-maneuvers)
 
  * **officielle**: 1
- * **libre**: 29
+ * **aucune**: 9
+ * **libre**: 27
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[6LvtdtVVwtbzqUXG.htm](ac-advanced-maneuvers/6LvtdtVVwtbzqUXG.htm)|Screaming Skull|
+|[cVrW2GGLVpydj8h5.htm](ac-advanced-maneuvers/cVrW2GGLVpydj8h5.htm)|Blood Feast|
+|[H1ElYt6KovGYGzLD.htm](ac-advanced-maneuvers/H1ElYt6KovGYGzLD.htm)|Lumbering Knockdown|
+|[JMHoCFb886K6dT1n.htm](ac-advanced-maneuvers/JMHoCFb886K6dT1n.htm)|Rhinoceros Charge|
+|[LaBfTYUsvoI3nscv.htm](ac-advanced-maneuvers/LaBfTYUsvoI3nscv.htm)|Take a Taste|
+|[NMaMTiDB40L5O41S.htm](ac-advanced-maneuvers/NMaMTiDB40L5O41S.htm)|Telekinetic Assault|
+|[oYEXImMSzg0eDqzR.htm](ac-advanced-maneuvers/oYEXImMSzg0eDqzR.htm)|Grabbing Trunk|
+|[Uv49tQCwUUjaMCj5.htm](ac-advanced-maneuvers/Uv49tQCwUUjaMCj5.htm)|Bouncing Slam|
+|[yXw82Zd5nkcCUfRQ.htm](ac-advanced-maneuvers/yXw82Zd5nkcCUfRQ.htm)|Overwhelm|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[tsOaXTRWQvsKTyaL.htm](ac-advanced-maneuvers/tsOaXTRWQvsKTyaL.htm)|Gallop|Galop|changé|
+|[Upr7u0KhPAIMOqXv.htm](ac-advanced-maneuvers/Upr7u0KhPAIMOqXv.htm)|Snatch and Zap|Arracher et électrocuter|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -32,10 +55,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pMPtswKNokDNyYR2.htm](ac-advanced-maneuvers/pMPtswKNokDNyYR2.htm)|Defensive Curl|Posture défensive|libre|
 |[q0Vh2V6KlzdMi1Pv.htm](ac-advanced-maneuvers/q0Vh2V6KlzdMi1Pv.htm)|Tongue Pull|Traction de la langue|libre|
 |[TCEQtO5DawzVAIyT.htm](ac-advanced-maneuvers/TCEQtO5DawzVAIyT.htm)|Tearing Clutch|Serrage déchirant|libre|
-|[tsOaXTRWQvsKTyaL.htm](ac-advanced-maneuvers/tsOaXTRWQvsKTyaL.htm)|Gallop|Galop|libre|
 |[ttJ1CanrAuehoSV8.htm](ac-advanced-maneuvers/ttJ1CanrAuehoSV8.htm)|Death Roll|Roulade mortelle|libre|
 |[U0J8J5ukmqnOskE8.htm](ac-advanced-maneuvers/U0J8J5ukmqnOskE8.htm)|Cat Pounce|Bond du félin|libre|
-|[Upr7u0KhPAIMOqXv.htm](ac-advanced-maneuvers/Upr7u0KhPAIMOqXv.htm)|Snatch and Zap|Arracher et électrocuter|libre|
 |[uR3j6TAJFeOVUHpY.htm](ac-advanced-maneuvers/uR3j6TAJFeOVUHpY.htm)|Lurching Rush|Embardée ruante|libre|
 |[WdTzlCO2i4loeYkQ.htm](ac-advanced-maneuvers/WdTzlCO2i4loeYkQ.htm)|Ultrasonic Scream|Cri ultrasonique|libre|
 |[X4VjMfVVAjZjwcrT.htm](ac-advanced-maneuvers/X4VjMfVVAjZjwcrT.htm)|Flyby Attack|Attaque en vol|libre|

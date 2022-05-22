@@ -1,12 +1,13 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 343
+ * **libre**: 337
  * **officielle**: 23
  * **vide**: 1
- * **aucune**: 8
+ * **aucune**: 12
+ * **changé**: 6
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,13 +15,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[01-con2Hzt47JjpuUej.htm](spell-effects/01-con2Hzt47JjpuUej.htm)|Spell Effect: Resist Energy|
+|[01-fpGDAz2v5PG0zUSl.htm](spell-effects/01-fpGDAz2v5PG0zUSl.htm)|Spell Effect: True Strike|
 |[01-IWD5RehCxZVfgrX9.htm](spell-effects/01-IWD5RehCxZVfgrX9.htm)|Spell Effect: Elephant Form|
+|[01-LHREWCGPkWsc4GGJ.htm](spell-effects/01-LHREWCGPkWsc4GGJ.htm)|Spell Effect: Faerie Dust (Failure)|
+|[01-MqZ6FScbfGtXB8tt.htm](spell-effects/01-MqZ6FScbfGtXB8tt.htm)|Spell Effect: Magic Fang|
 |[01-nU4SxAk6XreHUi5h.htm](spell-effects/01-nU4SxAk6XreHUi5h.htm)|Spell Effect: Infectious Enthusiasm|
+|[01-pcK88HqL6LjBNH2h.htm](spell-effects/01-pcK88HqL6LjBNH2h.htm)|Spell Effect: Faerie Dust (Critical Failure)|
 |[01-rTVZ0zwiKeslRw6p.htm](spell-effects/01-rTVZ0zwiKeslRw6p.htm)|Spell Effect: Wild Morph|
 |[02-hXtK08bTnDBSzGTJ.htm](spell-effects/02-hXtK08bTnDBSzGTJ.htm)|Spell Effect: Iron Gut|
 |[02-jj0P4eGVpmdwZjlA.htm](spell-effects/02-jj0P4eGVpmdwZjlA.htm)|Spell Effect: Instant Armor|
 |[02-slI9P4jUp3ERPCqX.htm](spell-effects/02-slI9P4jUp3ERPCqX.htm)|Spell Effect: Impeccable Flow|
 |[03-XTgxkQkhlap66e54.htm](spell-effects/03-XTgxkQkhlap66e54.htm)|Spell Effect: Iron Gut (3rd Level)|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|changé|
+|[03-782NyomkDHyfsUn6.htm](spell-effects/03-782NyomkDHyfsUn6.htm)|Spell Effect: Insect Form (Spider)|Effet : Forme d'insecte (Araignée)|changé|
+|[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|Effet : Forme d'insecte (Scorpion)|changé|
+|[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|Effet : Forme d'insecte (Mille-pattes)|changé|
+|[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|Effet : Forme de dinosaure (Tricératops)|changé|
+|[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|Effet : Forme monstrueuse (Ver pourpre)|changé|
 
 ## Liste des éléments vides ne pouvant pas être traduits
 
@@ -102,7 +118,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-I4PsUAaYSUJ8pwKC.htm](spell-effects/01-I4PsUAaYSUJ8pwKC.htm)|Spell Effect: Ray of Frost|Effet : Rayon de givre|libre|
 |[01-i9YITDcrq1nKjV5l.htm](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Spell Effect: Infectious Melody|Effet : Mélodie infectieuse|libre|
 |[01-J60rN48XzBGHmR6m.htm](spell-effects/01-J60rN48XzBGHmR6m.htm)|Spell Effect: Element Embodied (Air)|Effet : Incarnation élémentaire (Air)|libre|
-|[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|libre|
 |[01-JhihziXQuoteftdd.htm](spell-effects/01-JhihziXQuoteftdd.htm)|Spell Effect: Lay on Hands (Vs. Undead)|Effet : Imposition des mains (contre les morts-vivants)|libre|
 |[01-jKrLpG74nLHYGyWB.htm](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Spell Effect: Nudge Fate|Effet : Coup de pouce au destin|libre|
 |[01-jp88SCE3VCRAyE6x.htm](spell-effects/01-jp88SCE3VCRAyE6x.htm)|Spell Effect: Element Embodied (Earth)|Effet : Incarnation élémentaire (Terre)|libre|
@@ -227,13 +242,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[03-3zdBGENpmaze1bpq.htm](spell-effects/03-3zdBGENpmaze1bpq.htm)|Spell Effect: Ooze Form (Gelatinous Cube)|Effet : Forme de vase (Cube gélatineux)|libre|
 |[03-6BjslHgY01cNbKp5.htm](spell-effects/03-6BjslHgY01cNbKp5.htm)|Spell Effect: Armor of Bones|Effet : Armure d'os|libre|
 |[03-6IvTWcispcDaw88N.htm](spell-effects/03-6IvTWcispcDaw88N.htm)|Spell Effect: Insect Form (Ant)|Effet : Forme d'insecte (Fourmi)|libre|
-|[03-782NyomkDHyfsUn6.htm](spell-effects/03-782NyomkDHyfsUn6.htm)|Spell Effect: Insect Form (Spider)|Effet : Forme d'insecte (Araignée)|libre|
 |[03-7tfF8ifVvOKNud8t.htm](spell-effects/03-7tfF8ifVvOKNud8t.htm)|Spell Effect: Ooze Form (Gray Ooze)|Effet : Form de vase (Vase grise)|libre|
 |[03-amTa9jSml9ioKduN.htm](spell-effects/03-amTa9jSml9ioKduN.htm)|Spell Effect: Insect Form (Beetle)|Effet : Forme d'insecte (Coléoptère)|libre|
-|[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|Effet : Forme d'insecte (Scorpion)|libre|
 |[03-czteoX2cggQzfkK9.htm](spell-effects/03-czteoX2cggQzfkK9.htm)|Spell Effect: Evolution Surge (Climb)|Effet : Flux d'évolution (Escalade)|libre|
 |[03-D0Qj5tC1hGUjzQc4.htm](spell-effects/03-D0Qj5tC1hGUjzQc4.htm)|Spell Effect: Elemental Motion (Water)|Effet : Mobilité élémentaire (Eau)|libre|
-|[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|Effet : Forme d'insecte (Mille-pattes)|libre|
 |[03-EKdqKCuyWSkpXpyJ.htm](spell-effects/03-EKdqKCuyWSkpXpyJ.htm)|Spell Effect: Ooze Form (Black Pudding)|Effet : Forme de vase (Pudding noir)|libre|
 |[03-gX8O0ArQXbEVDUbW.htm](spell-effects/03-gX8O0ArQXbEVDUbW.htm)|Spell Effect: Embrace the Pit|Effet : Étreinte de la fosse|libre|
 |[03-iqtjMVl6rGQhX2k8.htm](spell-effects/03-iqtjMVl6rGQhX2k8.htm)|Spell Effect: Elemental Motion (Air)|Effet : Mobilité élémentaire(Air)|libre|
@@ -273,7 +285,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[04-GlggmEqkGVj1noOD.htm](spell-effects/04-GlggmEqkGVj1noOD.htm)|Spell Effect: Bottle the Storm|Effet : Tempête en bouteille|libre|
 |[04-heAj9paC8ZRh7QEj.htm](spell-effects/04-heAj9paC8ZRh7QEj.htm)|Spell Effect: Fey Form (Redcap)|Effet : Forme de fée (Bonnet rouge)|libre|
 |[04-iJ7TVW5tDnZG9DG8.htm](spell-effects/04-iJ7TVW5tDnZG9DG8.htm)|Spell Effect: Competitive Edge|Effet : Avantage du compétiteur|libre|
-|[04-iOKhr2El8R6cz6YI.htm](spell-effects/04-iOKhr2El8R6cz6YI.htm)|Spell Effect: Dinosaur Form (Triceratops)|Effet : Forme de dinosaure (Tricératops)|libre|
 |[04-j6po934p4jcUVC6l.htm](spell-effects/04-j6po934p4jcUVC6l.htm)|Spell Effect: Shifting Form (Speed)|Effet : Forme changeante (Vitesse)|libre|
 |[04-jvwKRHtOiPAm4uAP.htm](spell-effects/04-jvwKRHtOiPAm4uAP.htm)|Spell Effect: Aerial Form (Bat)|Effet : Forme aérienne (Chauve-souris)|libre|
 |[04-KcBqo33ekJHxZLHo.htm](spell-effects/04-KcBqo33ekJHxZLHo.htm)|Spell Effect: Fey Form (Naiad)|Effet : Forme de fée (Naïade)|libre|
@@ -382,7 +393,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[08-DBaMtFHRPEg1JeLs.htm](spell-effects/08-DBaMtFHRPEg1JeLs.htm)|Spell Effect: Mind Blank|Effet : Esprit impénétrable|libre|
 |[08-Eik8Fj8nGo2GLcbn.htm](spell-effects/08-Eik8Fj8nGo2GLcbn.htm)|Spell Effect: Monstrosity Form (Sea Serpent)|Effet : Forme monstrueuse (Serpent de mer)|libre|
 |[08-kMoOWWBqDYmPcYyS.htm](spell-effects/08-kMoOWWBqDYmPcYyS.htm)|Spell Effect: Bathe in Blood|Effet : Baignade de sang|libre|
-|[08-rEsgDhunQ5Yx8KZx.htm](spell-effects/08-rEsgDhunQ5Yx8KZx.htm)|Spell Effect: Monstrosity Form (Purple Worm)|Effet : Forme monstrueuse (Ver pourpre)|libre|
 |[09-1p5LEpMSRFG1099t.htm](spell-effects/09-1p5LEpMSRFG1099t.htm)|Spell Effect: Ki Form (Lawful)|Effet : Forme ki (Loi)|libre|
 |[09-bbOdbGiRXGEQ2aY0.htm](spell-effects/09-bbOdbGiRXGEQ2aY0.htm)|Spell Effect: Ki Form (Positive)|Effet : Forme ki (Positif)|libre|
 |[09-F0XnusshRzgMdFT1.htm](spell-effects/09-F0XnusshRzgMdFT1.htm)|Spell Effect: Ki Form (Force)|Effet : Forme ki (Force)|libre|

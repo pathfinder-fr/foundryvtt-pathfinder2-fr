@@ -1,12 +1,31 @@
 # État de la traduction (heritages)
 
- * **libre**: 178
+ * **libre**: 175
  * **officielle**: 25
+ * **changé**: 3
+ * **aucune**: 4
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[mZqaKQkvadBbNubM.htm](heritages/mZqaKQkvadBbNubM.htm)|Compact Skeleton|
+|[P8Rl3dUsq8AzXLHC.htm](heritages/P8Rl3dUsq8AzXLHC.htm)|Sturdy Skeleton|
+|[RZHr0olieS6YdYE9.htm](heritages/RZHr0olieS6YdYE9.htm)|Fodder Skeleton|
+|[wB8xiQB4RDbzOOvR.htm](heritages/wB8xiQB4RDbzOOvR.htm)|Monstrous Skeleton|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[CCwTBSNTw0caN1jd.htm](heritages/CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|changé|
+|[k4AU5tjtngDOIqrB.htm](heritages/k4AU5tjtngDOIqrB.htm)|Deep Fetchling|Fetchelin des profondeurs (froid)|changé|
+|[PwxbD5VSJ0Yroqvp.htm](heritages/PwxbD5VSJ0Yroqvp.htm)|Liminal Fetchling|Fetchelin liminaire|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -54,7 +73,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bLhIBwqdjTiVJ5qm.htm](heritages/bLhIBwqdjTiVJ5qm.htm)|Clawed Catfolk|Homme-félin griffu|libre|
 |[bmA9JK06rnOKpNLr.htm](heritages/bmA9JK06rnOKpNLr.htm)|Poisonhide Grippli|Grippli à peau empoisonnée|libre|
 |[CBKJ1BS7sCGBEiTw.htm](heritages/CBKJ1BS7sCGBEiTw.htm)|Dragonscaled Kobold (Brass)|Kobold à écaille de dragon (Airain)|libre|
-|[CCwTBSNTw0caN1jd.htm](heritages/CCwTBSNTw0caN1jd.htm)|Mutated Fleshwarp|Distordu mutant|libre|
 |[cCy8vsZENlwiAyZ6.htm](heritages/cCy8vsZENlwiAyZ6.htm)|Twilight Halfling|Halfelin du crépuscule|officielle|
 |[cnbwtbDmlD0KoLqY.htm](heritages/cnbwtbDmlD0KoLqY.htm)|Insightful Goloma|Goloma perspicace|libre|
 |[Cv7BOjuziOQ0PO9r.htm](heritages/Cv7BOjuziOQ0PO9r.htm)|Windup Poppet|Poupée remontée|libre|
@@ -110,7 +128,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Je15UGsLWYaaGJSW.htm](heritages/Je15UGsLWYaaGJSW.htm)|Ghost Poppet|Poupée fantôme|libre|
 |[jEtVesbqYcWGbBYk.htm](heritages/jEtVesbqYcWGbBYk.htm)|Seer Elf|Elfe visionnaire|libre|
 |[K124fCpU03SJvmeP.htm](heritages/K124fCpU03SJvmeP.htm)|Warmarch Hobgoblin|Hobgobelin Marchebataille|libre|
-|[k4AU5tjtngDOIqrB.htm](heritages/k4AU5tjtngDOIqrB.htm)|Deep Fetchling (Cold)|Fetchelin des profondeurs (froid)|libre|
 |[KaokXdiE3ewXprdL.htm](heritages/KaokXdiE3ewXprdL.htm)|Pine Leshy|Léchi pin|libre|
 |[KbG2BZ3Sbr3xU1sW.htm](heritages/KbG2BZ3Sbr3xU1sW.htm)|Pixie|Pixie|libre|
 |[KcozzlkFAqShDEzo.htm](heritages/KcozzlkFAqShDEzo.htm)|Stronggut Shisk|Shisk aux instestins solides|libre|
@@ -152,7 +169,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OoUqJJB77VfWbWRM.htm](heritages/OoUqJJB77VfWbWRM.htm)|Cliffscale Lizardfolk|Homme-lézard écaille de falaise|libre|
 |[P8BP1un5BTrwXoBy.htm](heritages/P8BP1un5BTrwXoBy.htm)|Dragonscaled Kobold (Black)|Kobold à écailles de dragon (Noir)|libre|
 |[ptpK6H1rM4Bu3ry4.htm](heritages/ptpK6H1rM4Bu3ry4.htm)|Mountainkeeper Tengu|Tengu gardemontagne|libre|
-|[PwxbD5VSJ0Yroqvp.htm](heritages/PwxbD5VSJ0Yroqvp.htm)|Liminal Fetchling|Fetchelin liminaire|libre|
 |[pZ1u2ScWrBXSaAqQ.htm](heritages/pZ1u2ScWrBXSaAqQ.htm)|Winter Orc|Orc de l'hiver|libre|
 |[q2omqJ9t0skGTYki.htm](heritages/q2omqJ9t0skGTYki.htm)|Rite of Reinforcement|Rite de renforcement|libre|
 |[qbWaybAX1LK7kUyY.htm](heritages/qbWaybAX1LK7kUyY.htm)|Thalassic Azarketi|Azarketi thalassique|libre|

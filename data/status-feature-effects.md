@@ -1,11 +1,25 @@
 # État de la traduction (feature-effects)
 
- * **libre**: 66
+ * **libre**: 65
+ * **changé**: 1
+ * **aucune**: 1
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[01-s3Te8waFP3KEb2dN.htm](feature-effects/01-s3Te8waFP3KEb2dN.htm)|Effect: Shield Ally|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[01-hqeR9faxHj0NDFFP.htm](feature-effects/01-hqeR9faxHj0NDFFP.htm)|Effect: Flames Curse|Effet : Malédiction des flammes|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -34,7 +48,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-GaTJBSkIaDEG36Ot.htm](feature-effects/01-GaTJBSkIaDEG36Ot.htm)|Effect: Moderate Cosmos Curse|Effet : Malédiction modérée du cosmos|libre|
 |[01-GRX2p4ddGnoqihYC.htm](feature-effects/01-GRX2p4ddGnoqihYC.htm)|Effect: Major Flames Curse|Effet : Malédiction majeure des flammes|libre|
 |[01-gVzPZm12KujYWxMb.htm](feature-effects/01-gVzPZm12KujYWxMb.htm)|Effect: Major Spellcasting Ancestor Curse|Effet : Malédiction majeure de l'ancêtre incantateur|libre|
-|[01-hqeR9faxHj0NDFFP.htm](feature-effects/01-hqeR9faxHj0NDFFP.htm)|Effect: Flames Oracle|Effet : Malédiction des flammes|libre|
 |[01-I0g5oaSwaqZ8fFAV.htm](feature-effects/01-I0g5oaSwaqZ8fFAV.htm)|Effect: Tempest Curse|Effet : Malédiction de la tempête|libre|
 |[01-IrMgMRXf258bdIDo.htm](feature-effects/01-IrMgMRXf258bdIDo.htm)|Effect: Minor Martial Ancestor Curse|Effet : Malédiction mineure de l'ancêtre combattant|libre|
 |[01-IvXLHQySVNj4qMOi.htm](feature-effects/01-IvXLHQySVNj4qMOi.htm)|Effect: Minor Tempest Curse|Effet : Malédiction mineure de la tempête|libre|

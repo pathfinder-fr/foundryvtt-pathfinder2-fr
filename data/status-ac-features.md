@@ -1,11 +1,33 @@
 # État de la traduction (ac-features)
 
- * **libre**: 101
+ * **libre**: 99
+ * **aucune**: 8
+ * **changé**: 2
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[3mUx8vXEQkiIuBcR.htm](ac-features/3mUx8vXEQkiIuBcR.htm)|Negative Healing|
+|[3Ns5BmFpAcoGQIY5.htm](ac-features/3Ns5BmFpAcoGQIY5.htm)|Drain Life|
+|[BjE6osOFlAishRbh.htm](ac-features/BjE6osOFlAishRbh.htm)|Anchored Incorporeality|
+|[CdQUkt9tPINNqSok.htm](ac-features/CdQUkt9tPINNqSok.htm)|Negative Essence|
+|[CSBy1IgHTSkVAFMM.htm](ac-features/CSBy1IgHTSkVAFMM.htm)|Mindless Companion|
+|[drVBJuBlzQDb9sS0.htm](ac-features/drVBJuBlzQDb9sS0.htm)|Undead Brute|
+|[oxpHUtYre2CTaE4t.htm](ac-features/oxpHUtYre2CTaE4t.htm)|Drain Life|
+|[xE3lRxl1t4ulQyLa.htm](ac-features/xE3lRxl1t4ulQyLa.htm)|Undead Stalker|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[oqRBCMQDSicPRkVA.htm](ac-features/oqRBCMQDSicPRkVA.htm)|Wrathful Berserker|Berserker courroucé|changé|
+|[RvCQCutoKANEqw5C.htm](ac-features/RvCQCutoKANEqw5C.htm)|Intelligence Boost|Prime d'Intelligence|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -76,7 +98,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OJePkZgnguu5Z8cA.htm](ac-features/OJePkZgnguu5Z8cA.htm)|Construct Companion|Compagnon créature artificielle|libre|
 |[oOBWRXPtYIXWp5Sm.htm](ac-features/oOBWRXPtYIXWp5Sm.htm)|Devotion Aura|Aura de dévouement|libre|
 |[oQ4aTLTv0qU7sRGG.htm](ac-features/oQ4aTLTv0qU7sRGG.htm)|Angelic Avenger|Vengeur angélique|libre|
-|[oqRBCMQDSicPRkVA.htm](ac-features/oqRBCMQDSicPRkVA.htm)|Wrathful Berseker|Berserker courroucé|libre|
 |[oSjJ726kv8wvk1Rb.htm](ac-features/oSjJ726kv8wvk1Rb.htm)|Draconic Frenzy|Frénésie draconique|libre|
 |[P7qw5V2ylPwCWMPB.htm](ac-features/P7qw5V2ylPwCWMPB.htm)|Wyrm's Breath|Souffle du Ver|libre|
 |[pn0rELSmLV6G5FUu.htm](ac-features/pn0rELSmLV6G5FUu.htm)|Fey Mischief|Méfait féérique|libre|
@@ -88,7 +109,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rFuzSio2a1VOd2Ch.htm](ac-features/rFuzSio2a1VOd2Ch.htm)|Spirit Taker|Délivreur d'esprit|libre|
 |[RQd8FPcVP3hrVXCr.htm](ac-features/RQd8FPcVP3hrVXCr.htm)|Constitution Boost|Prime de Constitution|libre|
 |[RsDBv9TwwNMnofud.htm](ac-features/RsDBv9TwwNMnofud.htm)|Eidolon Symbiosis|Symbiose de l'eidolon|libre|
-|[RvCQCutoKANEqw5C.htm](ac-features/RvCQCutoKANEqw5C.htm)|Intellegence Boost|Prime d'Intelligence|libre|
 |[srfAyOXpUYxEz0gx.htm](ac-features/srfAyOXpUYxEz0gx.htm)|Visions of Sin|Visions du péché|libre|
 |[sSfOct37bkinwW5E.htm](ac-features/sSfOct37bkinwW5E.htm)|Growing Vines|Lianes extensibles|libre|
 |[tBhCZN3SwlxQirL1.htm](ac-features/tBhCZN3SwlxQirL1.htm)|Construct Heart|Cœur de créature artificielle|libre|

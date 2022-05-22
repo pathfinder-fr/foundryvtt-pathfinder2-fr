@@ -1,25 +1,30 @@
 # État de la traduction (bestiary-effects)
 
  * **libre**: 34
+ * **aucune**: 105
  * **vide**: 10
- * **aucune**: 93
- * **officielle**: 1
+ * **officielle**: 4
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[2ccLQxmTlTPySnOR.htm](bestiary-effects/2ccLQxmTlTPySnOR.htm)|Effect: Technology Control|
+|[2DlOfFoYLGSlfugH.htm](bestiary-effects/2DlOfFoYLGSlfugH.htm)|Effect: Manipulate Luck (Good)|
+|[4GAJHkurmZ1ttKDv.htm](bestiary-effects/4GAJHkurmZ1ttKDv.htm)|Effect: Blood Magic|
 |[5ZK22sNW7o26aST0.htm](bestiary-effects/5ZK22sNW7o26aST0.htm)|Effect: Dirty Bomb|
 |[64wrP9IbfHbj1mrA.htm](bestiary-effects/64wrP9IbfHbj1mrA.htm)|Effect: War Leader|
 |[6E8bOkwFzFuQ3ZAw.htm](bestiary-effects/6E8bOkwFzFuQ3ZAw.htm)|Effect: Lurker's Glow (Critical Failure)|
 |[75B7z49jfQbWcSy9.htm](bestiary-effects/75B7z49jfQbWcSy9.htm)|Effect: Spray Toxic Oil|
+|[7PYhxmQxCD5kzMlw.htm](bestiary-effects/7PYhxmQxCD5kzMlw.htm)|Effect: Harrowing Misfortune|
 |[ceOkHxhJNTcvZkCy.htm](bestiary-effects/ceOkHxhJNTcvZkCy.htm)|Effect: Blood Siphon (Critical Failure)|
 |[ckL8iL7BKBPteEVL.htm](bestiary-effects/ckL8iL7BKBPteEVL.htm)|Effect: Goblin Song|
+|[E10qJgInN8Fx3yhW.htm](bestiary-effects/E10qJgInN8Fx3yhW.htm)|Effect: Distracting Frolic|
 |[FISKjI7bal26AnyL.htm](bestiary-effects/FISKjI7bal26AnyL.htm)|Effect: Timely Advice|
 |[FjcvJWPFwkyy5vEk.htm](bestiary-effects/FjcvJWPFwkyy5vEk.htm)|Effect: Artificer's Command|
 |[fPhbDSTPuT01f0Kn.htm](bestiary-effects/fPhbDSTPuT01f0Kn.htm)|Effect: Ensnare|
@@ -31,9 +36,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HGP0c0tOK2WnC4p5.htm](bestiary-effects/HGP0c0tOK2WnC4p5.htm)|Effect: Breach the Abyss - Fire|
 |[hQsqr2sRPp9rNm4U.htm](bestiary-effects/hQsqr2sRPp9rNm4U.htm)|Effect: Putrid Blast|
 |[i3942RucZD9OHbAE.htm](bestiary-effects/i3942RucZD9OHbAE.htm)|Effect: Void Shroud|
-|[i4S6h5c1KK4FLq6w.htm](bestiary-effects/i4S6h5c1KK4FLq6w.htm)|Effect: Feed|
 |[IfUod2VxNmZMGGPq.htm](bestiary-effects/IfUod2VxNmZMGGPq.htm)|Effect: Bodyguard's Defense|
 |[iSyyR4QVOaY6mxtg.htm](bestiary-effects/iSyyR4QVOaY6mxtg.htm)|Effect: Nymph Queen's Inspiration|
+|[itVZwwvaXYN2zOR8.htm](bestiary-effects/itVZwwvaXYN2zOR8.htm)|Effect: Parry Dance|
 |[J6EwMsXtXg30eaiB.htm](bestiary-effects/J6EwMsXtXg30eaiB.htm)|Effect: Stoke the Fervent - High Tormentor|
 |[JlaO7fgm53Om1DxB.htm](bestiary-effects/JlaO7fgm53Om1DxB.htm)|Effect: Swell|
 |[jQmfZcPD6xVYx5nb.htm](bestiary-effects/jQmfZcPD6xVYx5nb.htm)|Effect: Entangling Slime|
@@ -49,16 +54,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[mFnSXW6HTwS7Iu1k.htm](bestiary-effects/mFnSXW6HTwS7Iu1k.htm)|Effect: Hunted Fear|
 |[NHwmrSyF0e8HUE3m.htm](bestiary-effects/NHwmrSyF0e8HUE3m.htm)|Effect: Witchflame (Success)|
 |[o0zqsH5kYopRanav.htm](bestiary-effects/o0zqsH5kYopRanav.htm)|Effect: Rope Snare|
-|[o6ZI01zZBQDASuaw.htm](bestiary-effects/o6ZI01zZBQDASuaw.htm)|Effect: Wolf Shape|
 |[OxOMYmlPtjsEkRtY.htm](bestiary-effects/OxOMYmlPtjsEkRtY.htm)|Effect: Aura of Command|
 |[pfG1S7yShwkHT9e0.htm](bestiary-effects/pfG1S7yShwkHT9e0.htm)|Effect: Calming Bioluminescence|
 |[PJxUFFeAvQJ4l52f.htm](bestiary-effects/PJxUFFeAvQJ4l52f.htm)|Effect: Choose Weakness|
 |[pMPe01GWvfwcYwUR.htm](bestiary-effects/pMPe01GWvfwcYwUR.htm)|Effect: Defensive Assault|
 |[pvA97TXnq7wCbXp6.htm](bestiary-effects/pvA97TXnq7wCbXp6.htm)|Effect: Call to Halt (Success)|
 |[QDs8t1U1IepzYlyi.htm](bestiary-effects/QDs8t1U1IepzYlyi.htm)|Effect: Sylvan Wine|
+|[qFDiWpzk8cuwQGyH.htm](bestiary-effects/qFDiWpzk8cuwQGyH.htm)|Effect: Hypnotic Stare|
 |[Qomp2EujVCbzJb4X.htm](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|
+|[QoneHsjZKtGHWlam.htm](bestiary-effects/QoneHsjZKtGHWlam.htm)|Effect: Aura of Misfortune|
 |[QpG9AaYpXJzDEjZA.htm](bestiary-effects/QpG9AaYpXJzDEjZA.htm)|Effect: Devour Soul|
 |[QqC9xymSXSVunDgl.htm](bestiary-effects/QqC9xymSXSVunDgl.htm)|Effect: Tail Lash (Attack Roll)|
+|[QSy3KaLI1AYTR7rP.htm](bestiary-effects/QSy3KaLI1AYTR7rP.htm)|Effect: Wrath of Fate|
 |[R8clbf7gtIlU3fIj.htm](bestiary-effects/R8clbf7gtIlU3fIj.htm)|Effect: Crush of Hundreds|
 |[RAKgTTFKc2YEbvrc.htm](bestiary-effects/RAKgTTFKc2YEbvrc.htm)|Effect: Hallucinogenic Pollen (Critical Failure)|
 |[rbgXQqXbpaQCcNNx.htm](bestiary-effects/rbgXQqXbpaQCcNNx.htm)|Effect: Read the Stars (Critical Success)|
@@ -76,13 +83,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[TjRZbd52qWPjTbNT.htm](bestiary-effects/TjRZbd52qWPjTbNT.htm)|Effect: No Quarter!|
 |[tJx9B2e3AET6PbJD.htm](bestiary-effects/tJx9B2e3AET6PbJD.htm)|Effect: Pain Frenzy|
 |[Tkf33YglEZcZ6gOT.htm](bestiary-effects/Tkf33YglEZcZ6gOT.htm)|Effect: Curse of the Baneful Venom|
+|[TSdrv1FmLHJnk9AD.htm](bestiary-effects/TSdrv1FmLHJnk9AD.htm)|Effect: Shadow Rapier|
 |[tSF9z5VTeevxoww3.htm](bestiary-effects/tSF9z5VTeevxoww3.htm)|Effect: Harmonizing Aura (Enemies)|
 |[tvybMInVm415jA3p.htm](bestiary-effects/tvybMInVm415jA3p.htm)|Effect: Bloodline Magic|
 |[U05L8bPBcRHTtTB3.htm](bestiary-effects/U05L8bPBcRHTtTB3.htm)|Effect: Crushing Spirits|
 |[u1Z7i2RyL6Sd9OVU.htm](bestiary-effects/u1Z7i2RyL6Sd9OVU.htm)|Effect: Take Them Down!|
 |[uB3CVn3momZO9h0L.htm](bestiary-effects/uB3CVn3momZO9h0L.htm)|Effect: Xulgath Stench|
 |[USMuxi8ACBJRUrdS.htm](bestiary-effects/USMuxi8ACBJRUrdS.htm)|Effect: Crocodile Form|
+|[UuEUZU1fSUb23yOk.htm](bestiary-effects/UuEUZU1fSUb23yOk.htm)|Effect: Totems of the Past|
 |[UxeoSRmPbD5hjiEi.htm](bestiary-effects/UxeoSRmPbD5hjiEi.htm)|Effect: Inspiring Presence|
+|[UxNq9uo1GpDYTi5Z.htm](bestiary-effects/UxNq9uo1GpDYTi5Z.htm)|Effect: Waterlogged|
 |[uZJOdounIHaFDC1t.htm](bestiary-effects/uZJOdounIHaFDC1t.htm)|Effect: Hydra Heads|
 |[v1oNhc9xa8nWxmFQ.htm](bestiary-effects/v1oNhc9xa8nWxmFQ.htm)|Effect: Breach the Abyss - Acid|
 |[v54mj5jknAynlCM9.htm](bestiary-effects/v54mj5jknAynlCM9.htm)|Effect: Call to Blood|
@@ -97,7 +107,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vz9Cb8FEzNwfH3mE.htm](bestiary-effects/Vz9Cb8FEzNwfH3mE.htm)|Effect: Breach the Abyss - Negative|
 |[WfiaKdXNSxC3POcs.htm](bestiary-effects/WfiaKdXNSxC3POcs.htm)|Effect: Bosun's Command - Attack Bonus|
 |[wHQZO70bSECtSUZn.htm](bestiary-effects/wHQZO70bSECtSUZn.htm)|Effect: Ancestral Journey|
-|[wJsOZsYI2ZUVcGxc.htm](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)|Effect: Fiddle|
 |[wPIGBcpCqCWgrCiq.htm](bestiary-effects/wPIGBcpCqCWgrCiq.htm)|Effect: Blood Soak|
 |[wPW6kVscJgBLPVKZ.htm](bestiary-effects/wPW6kVscJgBLPVKZ.htm)|Effect: Ghonhatine Feed|
 |[wX9L6fbqVMLP05hn.htm](bestiary-effects/wX9L6fbqVMLP05hn.htm)|Effect: Stench|
@@ -106,8 +115,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Y5vsF5Kb8oNIccWo.htm](bestiary-effects/Y5vsF5Kb8oNIccWo.htm)|Effect: Rune of Smiting (Longspear)|
 |[yG27Ixwdpxqbrhzf.htm](bestiary-effects/yG27Ixwdpxqbrhzf.htm)|Effect: Bosun's Command - Speed Bonus|
 |[YIXeQFdrt0vPvmsW.htm](bestiary-effects/YIXeQFdrt0vPvmsW.htm)|Effect: Snake Form|
+|[yQd2Yoht8libCMCv.htm](bestiary-effects/yQd2Yoht8libCMCv.htm)|Effect: Fortune's Favor|
 |[Yqq4AkZ9lrm4CcID.htm](bestiary-effects/Yqq4AkZ9lrm4CcID.htm)|Effect: Battle Cry|
 |[yrenENpzVgBKsnNi.htm](bestiary-effects/yrenENpzVgBKsnNi.htm)|Effect: Alchemical Strike|
+|[yxgHWK2rTZKKAzDN.htm](bestiary-effects/yxgHWK2rTZKKAzDN.htm)|Effect: Unluck Aura|
+|[zzdOof9hHUf9s13H.htm](bestiary-effects/zzdOof9hHUf9s13H.htm)|Effect: Manipulate Luck (Bad)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -153,7 +165,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[86uYNsVXzYWxqLTV.htm](bestiary-effects/86uYNsVXzYWxqLTV.htm)|Effect: Splintered Ground|Effet : Champ d'esquilles|libre|
 |[9Qyu0HN5j6DO8Izc.htm](bestiary-effects/9Qyu0HN5j6DO8Izc.htm)|Effect: Sinful Bite|Effet : Morsure du péché|libre|
 |[AThOnEYzPO9ssYTB.htm](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|Effet : Vision perturbante|libre|
-|[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'incroyant|libre|
+|[BmAw66zEkifSvOtg.htm](bestiary-effects/BmAw66zEkifSvOtg.htm)|Effect: Brand of the Impenitent|Effet : Marque de l'impénitent|officielle|
 |[BTSstQAn4Xlm1PWV.htm](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker|Effet : bricolage ingénieux (Succès critique)|libre|
 |[bV70ZxnUAoYnfXaZ.htm](bestiary-effects/bV70ZxnUAoYnfXaZ.htm)|Effect: Rune of Smiting (Rock)|Effet : Rune de choc (Rocher)|libre|
 |[c6SiBB3mzV8lZUQr.htm](bestiary-effects/c6SiBB3mzV8lZUQr.htm)|Effect: Protean Anatomy|Effet : Anatomie protéenne|libre|
@@ -166,5 +178,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[EM0VP31B8CyjFD15.htm](bestiary-effects/EM0VP31B8CyjFD15.htm)|Effect: Inspired Feast|Effet : Festin inspiré|libre|
 |[eZL4B1P4H8hr1CAn.htm](bestiary-effects/eZL4B1P4H8hr1CAn.htm)|Effect: Glowing Spores|Effets : Spores brillantes|libre|
 |[hc7kR6quUE9ryRyj.htm](bestiary-effects/hc7kR6quUE9ryRyj.htm)|Effect: Splintered Ground (Critical Failure)|Effet : Champ d'esquilles (Échec critique)|officielle|
+|[i4S6h5c1KK4FLq6w.htm](bestiary-effects/i4S6h5c1KK4FLq6w.htm)|Effect: Feed|Effet : Alimentation|officielle|
+|[o6ZI01zZBQDASuaw.htm](bestiary-effects/o6ZI01zZBQDASuaw.htm)|Effect: Wolf Shape|Effet : Forme de loup|officielle|
 |[ScZ8tlV5zS0Jwnqn.htm](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)|Effect: Blood Frenzy|Effet : Frénésie de sang|libre|
+|[wJsOZsYI2ZUVcGxc.htm](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)|Effect: Fiddle|Effet : Stridulation|libre|
 |[zBQM4rzLfkLzpET6.htm](bestiary-effects/zBQM4rzLfkLzpET6.htm)|Effect: Rune of Flames (Greatsword)|Effet : Rune de flammes (épée à deux mains)|libre|

@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **changé**: 335
- * **libre**: 5
+ * **changé**: 333
+ * **libre**: 7
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -124,7 +124,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fj3CXqR0Y6kgvcBE.htm](pathfinder-bestiary-3/Fj3CXqR0Y6kgvcBE.htm)|Kodama|Kodama (kami)|changé|
 |[FjiovYhLSHDX0ODl.htm](pathfinder-bestiary-3/FjiovYhLSHDX0ODl.htm)|Tattoo Guardian|Garde-tatoué|changé|
 |[FjZ737XIvSOSaYcA.htm](pathfinder-bestiary-3/FjZ737XIvSOSaYcA.htm)|Tyrannosaurus Skeleton|Squelette Tyrannosaure|changé|
-|[fLyIWlTCW3cUPjvd.htm](pathfinder-bestiary-3/fLyIWlTCW3cUPjvd.htm)|Animated Furnace|Fourneau animé|changé|
 |[FOG8qK1bWVxp7vmE.htm](pathfinder-bestiary-3/FOG8qK1bWVxp7vmE.htm)|Empress Bore Worm|Ver-foreur impératrice|changé|
 |[fuCPoL2OVcQf5uT9.htm](pathfinder-bestiary-3/fuCPoL2OVcQf5uT9.htm)|Ovinnik|Ovinnik (esprit de la maison)|changé|
 |[fViWNHKjjL7fYbjW.htm](pathfinder-bestiary-3/fViWNHKjjL7fYbjW.htm)|Common Eurypterid|Euryptéride commun|changé|
@@ -254,7 +253,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[rOBXOcxMcnFR2P9y.htm](pathfinder-bestiary-3/rOBXOcxMcnFR2P9y.htm)|Skull Peeler|Écorcheur de crânes|changé|
 |[rOFpnEic0eJdaxiM.htm](pathfinder-bestiary-3/rOFpnEic0eJdaxiM.htm)|Kangaroo|Kangourou|changé|
 |[rqNNvJO0XEVHWwbW.htm](pathfinder-bestiary-3/rqNNvJO0XEVHWwbW.htm)|Wizard Sponge (Underwater)|Éponge de mage (Aquatique)|changé|
-|[rr48cUJxGpII7jWz.htm](pathfinder-bestiary-3/rr48cUJxGpII7jWz.htm)|Feathered Bear|Ours emplumé (guide spirituel)|changé|
 |[rrkjmcNlODuIpbz6.htm](pathfinder-bestiary-3/rrkjmcNlODuIpbz6.htm)|Ouroboros|Ouroboros|changé|
 |[RTTs4lvkcPz8u6IY.htm](pathfinder-bestiary-3/RTTs4lvkcPz8u6IY.htm)|Azarketi Explorer|Explorateur azarketi|changé|
 |[rVtBZrHnWM3lvSs7.htm](pathfinder-bestiary-3/rVtBZrHnWM3lvSs7.htm)|Brimorak|Brimorak (démon)|changé|
@@ -352,7 +350,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[EGyCQDseM9FaCl78.htm](pathfinder-bestiary-3/EGyCQDseM9FaCl78.htm)|Chouchin-obake|Chouchin-obaké (tsukumogami)|libre|
+|[fLyIWlTCW3cUPjvd.htm](pathfinder-bestiary-3/fLyIWlTCW3cUPjvd.htm)|Animated Furnace|Fourneau animé|libre|
 |[hh7OuFB5BQIrfeRT.htm](pathfinder-bestiary-3/hh7OuFB5BQIrfeRT.htm)|Kasa-obake|Kasa-obaké (tsukumogami)|libre|
 |[n9xSjQA1YSlYc9p3.htm](pathfinder-bestiary-3/n9xSjQA1YSlYc9p3.htm)|Millindemalion|Millindemalion (Fée)|libre|
 |[o740a5FFLG834FkV.htm](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Desert Giant|Géant du désert|libre|
 |[pFUv7BzSjYTOo5mO.htm](pathfinder-bestiary-3/pFUv7BzSjYTOo5mO.htm)|Monkey|Singe (primate)|libre|
+|[rr48cUJxGpII7jWz.htm](pathfinder-bestiary-3/rr48cUJxGpII7jWz.htm)|Feathered Bear|Ours emplumé (guide spirituel)|libre|

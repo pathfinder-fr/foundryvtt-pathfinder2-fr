@@ -1,12 +1,21 @@
 # État de la traduction (classfeatures)
 
- * **officielle**: 230
- * **libre**: 218
+ * **officielle**: 229
+ * **libre**: 216
+ * **changé**: 3
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|changé|
+|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|changé|
+|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|Sorts liés|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -114,7 +123,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[champion-01-Q1VfQZp49hkhY0HY.htm](classfeatures/champion-01-Q1VfQZp49hkhY0HY.htm)|Devotion Spells|Sorts de dévotion|officielle|
 |[champion-01-sXVX4ARUuo8Egrz5.htm](classfeatures/champion-01-sXVX4ARUuo8Egrz5.htm)|Champion's Reaction|Réaction de champion|officielle|
 |[champion-01-UyuwFp0jQqYL2AdF.htm](classfeatures/champion-01-UyuwFp0jQqYL2AdF.htm)|Redeemer|Rédempteur|officielle|
-|[champion-03-ERwuazupczhUSZ73.htm](classfeatures/champion-03-ERwuazupczhUSZ73.htm)|Divine Ally|Allié divin|officielle|
 |[champion-09-3XK573A7GH1rrLgO.htm](classfeatures/champion-09-3XK573A7GH1rrLgO.htm)|Divine Smite|Châtiment divin|officielle|
 |[champion-09-VgmfNKtQLgBaNi5r.htm](classfeatures/champion-09-VgmfNKtQLgBaNi5r.htm)|Champion Expertise|Expertise du champion|officielle|
 |[champion-11-uptzvOLrZ3fctrl2.htm](classfeatures/champion-11-uptzvOLrZ3fctrl2.htm)|Exalt|Éxaltation|officielle|
@@ -290,7 +298,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oracle-01-7AVspOB6ITNzGFZi.htm](classfeatures/oracle-01-7AVspOB6ITNzGFZi.htm)|Divine Spellcasting (Oracle)|Incantation divine (Oracle)|libre|
 |[oracle-01-cFe6vFb3gSDyNeS9.htm](classfeatures/oracle-01-cFe6vFb3gSDyNeS9.htm)|Spell Repertoire (Oracle)|Répertoire de sorts (Oracle)|libre|
 |[oracle-01-gjOGOR30Czpnx3tM.htm](classfeatures/oracle-01-gjOGOR30Czpnx3tM.htm)|Battle|Combat|libre|
-|[oracle-01-GTSvbFb36InvuH0w.htm](classfeatures/oracle-01-GTSvbFb36InvuH0w.htm)|Flames|Flammes|libre|
 |[oracle-01-IaxmCkdsPlA52spu.htm](classfeatures/oracle-01-IaxmCkdsPlA52spu.htm)|Bones|Ossements|libre|
 |[oracle-01-ibX2EhKkyUtbOHLj.htm](classfeatures/oracle-01-ibX2EhKkyUtbOHLj.htm)|Oracular Curse|Malédiction oraculaire|libre|
 |[oracle-01-NXUOtO9NytHQurlg.htm](classfeatures/oracle-01-NXUOtO9NytHQurlg.htm)|Revelation Spells|Sorts de révélation|libre|
@@ -371,7 +378,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[summoner-01-IPcdQAwJk0aZe5mg.htm](classfeatures/summoner-01-IPcdQAwJk0aZe5mg.htm)|Evolution Feat|Don d'évolution|libre|
 |[summoner-01-Ju2Tp5s5iBB76tQO.htm](classfeatures/summoner-01-Ju2Tp5s5iBB76tQO.htm)|Spell Repertoire (Summoner)|Répertoire de sorts (Conjurateur)|libre|
 |[summoner-01-qOEpe596B0UjhcG0.htm](classfeatures/summoner-01-qOEpe596B0UjhcG0.htm)|Eidolon|Eidolon|libre|
-|[summoner-01-wguqw300DB5XdD8W.htm](classfeatures/summoner-01-wguqw300DB5XdD8W.htm)|Link Spells|Sorts liés|libre|
 |[summoner-03-P34Jx6i4GJGoqTtG.htm](classfeatures/summoner-03-P34Jx6i4GJGoqTtG.htm)|Unlimited Signature Spells|Sorts emblématiques illimités|libre|
 |[summoner-03-QiMlJ33kNEoyh1M0.htm](classfeatures/summoner-03-QiMlJ33kNEoyh1M0.htm)|Shared Vigilance|Vigilance partagée|libre|
 |[summoner-05-GI5IAl4dkly4At8e.htm](classfeatures/summoner-05-GI5IAl4dkly4At8e.htm)|Ability Boosts|Primes de caractéristiques (conjurateur)|libre|

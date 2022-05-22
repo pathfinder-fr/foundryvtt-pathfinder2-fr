@@ -114,7 +114,7 @@
         {
             "id": "Suli",
             "name": "Suli (Suli)",
-            "description": "<p>Vous descendez d'un jann ou incarnez autrement une dichotomie des forces élémentaires planaires opposés. Vous obtenez le trait suli en plus des traits de votre ascendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance avait déjà la vision nocturne. Vous pouvez choisir parmi les dons des sulis et les dons de votre ascendance lorssque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons ancestraux des descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don ancestral et vous obtenez un don ancestral supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons ancestraux des descendants de génie, ceux de votre héritage suli et ceux de votre ascendance.</p>"
+            "description": "<p>Vous descendez d'un jann ou incarnez autrement une dichotomie des forces élémentaires planaires opposés. Vous obtenez le trait suli en plus des traits de votre ascendance. Vous obtenez aussi @Compendium[pf2e.ancestryfeatures.DRtaqOHXTRtGRIUT]{Vision nocturne} ou vous obtenez @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Vision dans le noir} si votre ascendance avait déjà la vision nocturne. Vous pouvez choisir parmi les dons des sulis et les dons de votre ascendance lorsque vous obtenez un don d'ascendance.</p>\n<hr />\n<h3>Dons ancestraux des descendants de génies</h3>\n<p>Au niveau 1, vous obtenez un don ancestral et vous obtenez un don ancestral supplémentaire tous les 4 niveaux par la suite (aux niveaux 5, 9, 13 et 17). En tant que descendant de génie, vous pouvez choisir parmi les dons ancestraux des descendants de génie, ceux de votre héritage suli et ceux de votre ascendance.</p>"
         },
         {
             "id": "Wavediver Tengu",
@@ -812,8 +812,8 @@
             "description": "<p>Vous êtes né avec des grandes oreilles expressives qui se meuvent en fonction de votre humeur et se redressent au moindre son inattendu. Vous obtenez un bonus de circonstances de +2 pour localiser les créatures Non détectées que vous pourriez entendre dans les 9 m en utilisant une action Chercher.</p>\n<p>Tant que vous êtes conscient de la présence d'une créature via le son, une fois par round, vos oreilles peuvent vous aider à @Compendium[pf2e.actionspf2e.sn2hIy1iIJX9Vpgj]{Signaler} la créature à tous les alliés par une action libre.</p>"
         },
         {
-            "id": "Deep Fetchling (Cold)",
-            "name": "Fetchelin des profondeurs (froid) (Deep Fetchling (Cold))",
+            "id": "Deep Fetchling",
+            "name": "Fetchelin des profondeurs (froid) (Deep Fetchling)",
             "description": "<p>Vos prédécesseurs se sont enfoncés au plus profond du Plan de l'Ombre, dans les régions les plus dangereuses. Vous pouvez projeter une ombre plus dense, avoir un pouls plus lent ou vous trouver à l'aise en embrassant l'obscurité. Vous obtenez une résistance aux dégâts de froid égale à la moitié de votre niveau (minimum 1).</p>"
         },
         {

@@ -62,6 +62,11 @@
             "description": ""
         },
         {
+            "id": "Treat Poison: Medicine",
+            "name": "Treat Poison: Medicine",
+            "description": ""
+        },
+        {
             "id": "Request: Diplomacy",
             "name": "Request: Diplomacy",
             "description": ""
@@ -107,6 +112,11 @@
             "description": ""
         },
         {
+            "id": "Athletics: Arcane Slam",
+            "name": "Athletics: Arcane Slam",
+            "description": ""
+        },
+        {
             "id": "Swim: Athletics",
             "name": "Swim: Athletics",
             "description": ""
@@ -119,6 +129,11 @@
         {
             "id": "Seek: Perception",
             "name": "Seek: Perception",
+            "description": ""
+        },
+        {
+            "id": "Exploration: Avoid Notice",
+            "name": "Exploration: Avoid Notice",
             "description": ""
         },
         {

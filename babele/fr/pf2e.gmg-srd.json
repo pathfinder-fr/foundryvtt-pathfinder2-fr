@@ -44,7 +44,7 @@
         {
             "id": "Raided",
             "name": "Pillage",
-            "description": "<p> Une horde de pillards a attaqué votre communauté, tuant et blessant plusieurs de vos proches. Il peut s’agir d’une bande de voleurs de grand chemin ou d’une armée d’envahisseurs. Vous avez conservé une relique de cette époque : ajoutez une armure ou un bouclier valant 15 po ou moins à vos options d’historique.</p>\n<p>Si vous choisissez cette option à la place d’un don de compétence, vous devenez qualifié en Médecine.</p>"
+            "description": "<p>Une horde de pillards a attaqué votre communauté, tuant et blessant plusieurs de vos proches. Il peut s’agir d’une bande de voleurs de grand chemin ou d’une armée d’envahisseurs. Vous avez conservé une relique de cette époque : ajoutez une armure ou un bouclier valant 15 po ou moins à vos options d’historique.</p>\n<p>Si vous choisissez cette option à la place d’un don de compétence, vous devenez qualifié en Médecine.</p>"
         },
         {
             "id": "The Fiend",
@@ -54,7 +54,7 @@
         {
             "id": "The Mentor",
             "name": "Le mentor",
-            "description": "<p> Un mentor vous a appris tout ce qu’il faut savoir sur la vie. Il s’agit peut-être de la personne qui a contribué à faire de vous un héros, ou simplement d’un proche qui vous a aidé à façonner votre vision du monde.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.<p>"
+            "description": "<p>Un mentor vous a appris tout ce qu’il faut savoir sur la vie. Il s’agit peut-être de la personne qui a contribué à faire de vous un héros, ou simplement d’un proche qui vous a aidé à façonner votre vision du monde.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.<p>"
         },
         {
             "id": "Social Maneuvering",
@@ -84,7 +84,7 @@
         {
             "id": "Coastal Community",
             "name": "Communauté côtière",
-            "description": "<p> Vous avez grandi sur la rive d’un grand fleuve, dans une région très humide, au bord d’un océan ou sur une île.</p>\n<p>Ajoutez Connaissance de la pêche, Connaissance de la navigation maritime, et une Connaissance d’un type de créature marine particulière (comme Connaissance des requins) à vos options d’historique.</p>"
+            "description": "<p>Vous avez grandi sur la rive d’un grand fleuve, dans une région très humide, au bord d’un océan ou sur une île.</p>\n<p>Ajoutez Connaissance de la pêche, Connaissance de la navigation maritime, et une Connaissance d’un type de créature marine particulière (comme Connaissance des requins) à vos options d’historique.</p>"
         },
         {
             "id": "Spy",
@@ -94,7 +94,7 @@
         {
             "id": "Seeking Accolades",
             "name": "Chercheur d'attention",
-            "description": "<p> Vous n’avez jamais su attirer l’attention des foules aussi facilement que ce personnage et vous avez donc dû travailler dur pour développer votre sens du spectacle.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Représentation impressionnante} à vos options d’historique.</p>"
+            "description": "<p>Vous n’avez jamais su attirer l’attention des foules aussi facilement que ce personnage et vous avez donc dû travailler dur pour développer votre sens du spectacle.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Représentation impressionnante} à vos options d’historique.</p>"
         },
         {
             "id": "Kindly Witch",
@@ -109,12 +109,12 @@
         {
             "id": "Fell In with a Bad Crowd",
             "name": "Mauvaises fréquentations",
-            "description": "<p> Dans votre jeunesse, vous avez côtoyé des criminels : un gang, une guilde de voleurs ou une organisation comparable.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Contrebandier expérimenté} à vos options d’historique.</p>"
+            "description": "<p>Dans votre jeunesse, vous avez côtoyé des criminels : un gang, une guilde de voleurs ou une organisation comparable.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Contrebandier expérimenté} à vos options d’historique.</p>"
         },
         {
             "id": "Rogue",
             "name": "Traître",
-            "description": "<p> Un allié PNJ ressent soudain une profonde haine contre vous et devient à jamais votre ennemi. Le PNJ peut garder cette haine secrète jusqu’au moment opportun.</p>"
+            "description": "<p>Un allié PNJ ressent soudain une profonde haine contre vous et devient à jamais votre ennemi. Le PNJ peut garder cette haine secrète jusqu’au moment opportun.</p>"
         },
         {
             "id": "Itinerant",
@@ -239,7 +239,7 @@
         {
             "id": "Metropolis",
             "name": "Métropole",
-            "description": "<p> Vous avez grandi dans l’une des plus grandes villes du monde, comme Absalom ou Couronne d’Ouest.</p>\n<p>Ajoutez Connaissance architecturale, Connaissance des gladiateurs, Connaissance des guildes, Connaissance juridique et Connaissance théâtrale à vos options d’historique.</p>"
+            "description": "<p>Vous avez grandi dans l’une des plus grandes villes du monde, comme Absalom ou Couronne d’Ouest.</p>\n<p>Ajoutez Connaissance architecturale, Connaissance des gladiateurs, Connaissance des guildes, Connaissance juridique et Connaissance théâtrale à vos options d’historique.</p>"
         },
         {
             "id": "Star",
@@ -254,7 +254,7 @@
         {
             "id": "Trained by a Mentor",
             "name": "Formé par un Mentor",
-            "description": "<p> Vous avez été remarqué par un mentor ou un mécène, qui a proposé de prendre votre éducation en main ou de vous parrainer.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} à vos options d’historique.</p>"
+            "description": "<p>Vous avez été remarqué par un mentor ou un mécène, qui a proposé de prendre votre éducation en main ou de vous parrainer.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Professionnel expérimenté} à vos options d’historique.</p>"
         },
         {
             "id": "The Academic",
@@ -309,7 +309,7 @@
         {
             "id": "Relationship Ender",
             "name": "Briseur de relations",
-            "description": "<p> Vous avez un jour découragé quelqu’un qui cherchait l’affection de ce personnage. Vous restez convaincu que vous lui avez rendu service, car ils n’étaient pas du tout assortis.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Contrainte rapide} à vos options d’historique."
+            "description": "<p>Vous avez un jour découragé quelqu’un qui cherchait l’affection de ce personnage. Vous restez convaincu que vous lui avez rendu service, car ils n’étaient pas du tout assortis.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Contrainte rapide} à vos options d’historique."
         },
         {
             "id": "Accusation of Theft",
@@ -344,7 +344,7 @@
         {
             "id": "The Crafter",
             "name": "L'artisan",
-            "description": "<p> L’une des personnes qui vous a marqué cherchait la perfection par l’art. Grâce à cette personne, vous avez développé une discipline mentale, une grande concentration, et la capacité de créer des choses à la fois utiles et belles.</p>\n<p>Ajoutez une prime de caractéristique à l’Intelligence à vos options d’historique.</p>"
+            "description": "<p>L’une des personnes qui vous a marqué cherchait la perfection par l’art. Grâce à cette personne, vous avez développé une discipline mentale, une grande concentration, et la capacité de créer des choses à la fois utiles et belles.</p>\n<p>Ajoutez une prime de caractéristique à l’Intelligence à vos options d’historique.</p>"
         },
         {
             "id": "Lost in the Wilderness",
@@ -359,7 +359,7 @@
         {
             "id": "Met a Fantastic Creature",
             "name": "Rencontre avec une créature fantastique",
-            "description": "<p> Votre enfance a été marquée par une rencontre avec une créature magique, comme un dragon, une licorne, un génie, une pixie, ou une autre créature de ce type.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{Reconnaître des sorts} à vos options d’historique.</p>"
+            "description": "<p>Votre enfance a été marquée par une rencontre avec une créature magique, comme un dragon, une licorne, un génie, une pixie, ou une autre créature de ce type.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{Reconnaître des sorts} à vos options d’historique.</p>"
         },
         {
             "id": "Sun",
@@ -399,7 +399,7 @@
         {
             "id": "The Relative",
             "name": "Le parent",
-            "description": "<p> Vous étiez particulièrement proche d’un membre de votre famille dans votre enfance. À vos yeux, cette personne incarnait votre famille. Elle vous a aidé à passer à l’âge adulte et vous a appris tout ce qu’elle savait sur le monde. Vous vous efforcez de tenir une promesse ou d’être fidèle à un vœu ou à un serment que vous lui avez fait.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.</p>"
+            "description": "<p>Vous étiez particulièrement proche d’un membre de votre famille dans votre enfance. À vos yeux, cette personne incarnait votre famille. Elle vous a aidé à passer à l’âge adulte et vous a appris tout ce qu’elle savait sur le monde. Vous vous efforcez de tenir une promesse ou d’être fidèle à un vœu ou à un serment que vous lui avez fait.</p>\n<p>Ajoutez une prime de caractéristique à la Constitution à vos options d’historique.</p>"
         },
         {
             "id": "Frontier",
@@ -454,7 +454,7 @@
         {
             "id": "Kidnapped",
             "name": "Enlevé",
-            "description": "<p>Lors de votre enfance, vous avez été enlevé par un groupe de pirates, d’esclavagistes, de cultistes, etc. auquel vous avez dû échapper.</p>\n<p> Ajoutez le don de compétence @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Se faufiler rapidement} à vos options d’historique.</p>"
+            "description": "<p>Lors de votre enfance, vous avez été enlevé par un groupe de pirates, d’esclavagistes, de cultistes, etc. auquel vous avez dû échapper.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Se faufiler rapidement} à vos options d’historique.</p>"
         },
         {
             "id": "Front Lines",
@@ -474,7 +474,7 @@
         {
             "id": "Another Ancestry's Settlement",
             "name": "Une communauté d'une autre ascendance",
-            "description": "<p> Déterminez aléatoirement une autre ascendance courante : vous avez grandi au milieu de membres de celle-ci. Relancez un dé dans ce tableau (avec un modificateur adapté à cette nouvelle ascendance le cas échéant) afin de déterminer le type de communauté dans laquelle vous avez grandi (par exemple si votre gnome a grandi avec des nains et obtient 3 à son jet de dé, il a alors grandi sous terre).</p>\n<p>Ajoutez le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} et la compétence de Connaissance associée à votre ascendance d’adoption (comme Connaissance des nains) à vos options d’historique. Si vous sélectionnez ce don au lieu d’un don de compétence, vous n’êtes pas qualifié dans une compétence d’historique.</p>"
+            "description": "<p>Déterminez aléatoirement une autre ascendance courante : vous avez grandi au milieu de membres de celle-ci. Relancez un dé dans ce tableau (avec un modificateur adapté à cette nouvelle ascendance le cas échéant) afin de déterminer le type de communauté dans laquelle vous avez grandi (par exemple si votre gnome a grandi avec des nains et obtient 3 à son jet de dé, il a alors grandi sous terre).</p>\n<p>Ajoutez le don @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendance adoptive} et la compétence de Connaissance associée à votre ascendance d’adoption (comme Connaissance des nains) à vos options d’historique. Si vous sélectionnez ce don au lieu d’un don de compétence, vous n’êtes pas qualifié dans une compétence d’historique.</p>"
         },
         {
             "id": "Academic Community",
@@ -484,12 +484,12 @@
         {
             "id": "Simple Village",
             "name": "Simple village",
-            "description": "<p> Vous avez été élevé dans une calme petite bourgade, comme un bucolique hameau gnome , une ville humaine soudée ou un fort gobelin bien établi.</p> \n<p>Ajoutez Connaissance en herboristerie, Connaissance du métier de sage-femme, Connaissance de la meunerie, Connaissance de la tannerie et une Connaissance d’un type de nourriture, de boisson ou d’un autre produit pour lequel votre village est réputé (comme Connaissance des alcools ou Connaissance de la charronnerie) à vos options d’historique.</p>"
+            "description": "<p>Vous avez été élevé dans une calme petite bourgade, comme un bucolique hameau gnome , une ville humaine soudée ou un fort gobelin bien établi.</p> \n<p>Ajoutez Connaissance en herboristerie, Connaissance du métier de sage-femme, Connaissance de la meunerie, Connaissance de la tannerie et une Connaissance d’un type de nourriture, de boisson ou d’un autre produit pour lequel votre village est réputé (comme Connaissance des alcools ou Connaissance de la charronnerie) à vos options d’historique.</p>"
         },
         {
             "id": "Patron of the Arts",
             "name": "Bienfaiteur des arts",
-            "description": "<p> Ce personnage vous a encouragé à exceller dans votre domaine de prédilection, allant jusqu’à vous donner de quoi vivre lors des périodes difficiles.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Artiste virtuose} à vos options d’historique.</p>"
+            "description": "<p>Ce personnage vous a encouragé à exceller dans votre domaine de prédilection, allant jusqu’à vous donner de quoi vivre lors des périodes difficiles.</p>\n<p>Ajoutez le don de compétence @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Artiste virtuose} à vos options d’historique.</p>"
         }
     ],
     "mapping": {

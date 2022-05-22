@@ -1,10 +1,10 @@
 # État de la traduction (hazards)
 
- * **libre**: 16
- * **officielle**: 37
+ * **libre**: 15
+ * **officielle**: 38
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -12,7 +12,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[0dg9YrjsDi6Ap3jF.htm](hazards/0dg9YrjsDi6Ap3jF.htm)|Web Lurker Deadfall|Toile-assommoir|libre|
-|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Collembole|libre|
+|[1egK7HFAFdHxMS9N.htm](hazards/1egK7HFAFdHxMS9N.htm)|Sportlebore|Imitapéro|officielle|
 |[2GAOUxDfoA48uCWP.htm](hazards/2GAOUxDfoA48uCWP.htm)|Fireball Rune|Rune de boule de feu|officielle|
 |[491qhVbjsHnOuMZW.htm](hazards/491qhVbjsHnOuMZW.htm)|Electric Latch Rune|Rune de loquet électrique|officielle|
 |[4jAJh3cTLIgkqtou.htm](hazards/4jAJh3cTLIgkqtou.htm)|Malevolent Mannequins|Mannequins malveillants|libre|

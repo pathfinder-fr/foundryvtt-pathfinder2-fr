@@ -2,11 +2,26 @@
 
  * **libre**: 265
  * **officielle**: 49
+ * **aucune**: 9
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[18Jzk3gAsXspFOYC.htm](backgrounds/18Jzk3gAsXspFOYC.htm)|Haunted Citizen|
+|[7QkQQsHjv2iNFIsF.htm](backgrounds/7QkQQsHjv2iNFIsF.htm)|Grave Robber|
+|[a9YjyQRNEOyespFf.htm](backgrounds/a9YjyQRNEOyespFf.htm)|Pyre Tender|
+|[eGPlKAoYBTUqjyrr.htm](backgrounds/eGPlKAoYBTUqjyrr.htm)|Tomb Born|
+|[RPU1aNfVz3ZbymvV.htm](backgrounds/RPU1aNfVz3ZbymvV.htm)|Scion of Slayers|
+|[RxhdWJUoRTBEeHYZ.htm](backgrounds/RxhdWJUoRTBEeHYZ.htm)|Night Watch|
+|[Uk4W7mKQbLtDDHwo.htm](backgrounds/Uk4W7mKQbLtDDHwo.htm)|Curandero|
+|[Yai061jIDzojHzsn.htm](backgrounds/Yai061jIDzojHzsn.htm)|Necromancer's Apprentice|
+|[ykYaQwIX7sxvbhwc.htm](backgrounds/ykYaQwIX7sxvbhwc.htm)|Willing Host|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

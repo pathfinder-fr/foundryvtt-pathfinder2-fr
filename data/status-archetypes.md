@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 33
+ * **aucune**: 39
  * **changé**: 75
  * **libre**: 3
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,21 +13,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[06M2zVTKN9nO5i5O.htm](archetypes/06M2zVTKN9nO5i5O.htm)|Vehicle Mechanic|
+|[0Toea66fdjYcDrAB.htm](archetypes/0Toea66fdjYcDrAB.htm)|Soul Warden|
 |[2utUBjuTmPt7cHiw.htm](archetypes/2utUBjuTmPt7cHiw.htm)|Ghost Eater|
+|[4VtuYybUnDLD6DuW.htm](archetypes/4VtuYybUnDLD6DuW.htm)|Hallowed Necromancer|
 |[7G7cRmS3HO2iUElx.htm](archetypes/7G7cRmS3HO2iUElx.htm)|Artillerist|
 |[ARb0Q9D2gmqalPnM.htm](archetypes/ARb0Q9D2gmqalPnM.htm)|Beast Gunner|
 |[BoQoRKcqWXy0goJ3.htm](archetypes/BoQoRKcqWXy0goJ3.htm)|Geomancer|
 |[BySNnolPXqkgNhRq.htm](archetypes/BySNnolPXqkgNhRq.htm)|Wrestler|
 |[CCOKsVXfJi33GDfg.htm](archetypes/CCOKsVXfJi33GDfg.htm)|Pistol Phenom|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
+|[DhDl0hqDaspgHs9U.htm](archetypes/DhDl0hqDaspgHs9U.htm)|Undead Slayer|
 |[e3HqzJK04PHYdHCi.htm](archetypes/e3HqzJK04PHYdHCi.htm)|Cathartic Mage|
 |[eCN91lsp0udrao1A.htm](archetypes/eCN91lsp0udrao1A.htm)|Trapsmith|
 |[EDB5PZNIun4LgLPT.htm](archetypes/EDB5PZNIun4LgLPT.htm)|Folklorist|
 |[EPFVMqEeaYi462xM.htm](archetypes/EPFVMqEeaYi462xM.htm)|Captivator|
 |[ERbPl97EVLfaD3PD.htm](archetypes/ERbPl97EVLfaD3PD.htm)|Soulforger|
+|[F2rGgAD4xzrEBLKH.htm](archetypes/F2rGgAD4xzrEBLKH.htm)|Reanimator|
 |[g8szoqn9W6Yeoq9U.htm](archetypes/g8szoqn9W6Yeoq9U.htm)|Unexpected Sharpshooter|
+|[hSRlaKyaypX99jI0.htm](archetypes/hSRlaKyaypX99jI0.htm)|Exorcist|
 |[IssZ6cIjxaE5XtTs.htm](archetypes/IssZ6cIjxaE5XtTs.htm)|Demolitionist|
 |[j5fPf7JyXvprcA8L.htm](archetypes/j5fPf7JyXvprcA8L.htm)|Game Hunter|
+|[lFMO8BTQ5H3UMFxp.htm](archetypes/lFMO8BTQ5H3UMFxp.htm)|Undead Master|
 |[lIKfXq1DKpTXv23q.htm](archetypes/lIKfXq1DKpTXv23q.htm)|Shadowcaster|
 |[lmC2uyFxrRMP7xpL.htm](archetypes/lmC2uyFxrRMP7xpL.htm)|Pactbound Initiate|
 |[NO9LkGX3wwUdrk8d.htm](archetypes/NO9LkGX3wwUdrk8d.htm)|Nantambu Chime-Ringer Dedication|

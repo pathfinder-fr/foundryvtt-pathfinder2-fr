@@ -1,18 +1,16 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 450
- * **changé**: 18
+ * **officielle**: 451
+ * **changé**: 17
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[6eabIbxzYepfZAHX.htm](pathfinder-bestiary/6eabIbxzYepfZAHX.htm)|Ice Linnorm|Linnorm des glaces|changé|
-|[8meqlz36gPHTTvNz.htm](pathfinder-bestiary/8meqlz36gPHTTvNz.htm)|Voidworm|Ver du néant (Protéen)|changé|
 |[BAD7npndaooB3Pz1.htm](pathfinder-bestiary/BAD7npndaooB3Pz1.htm)|Redcap|Bonnet rouge|changé|
 |[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|Rejeton de l'orgueil|changé|
 |[gDMPUL0UiOHrUUd3.htm](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Aasimar Redeemer|Rédempteur Aasimar (Héritier des plans)|changé|
@@ -25,10 +23,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RDFvGocLW0OuHmlC.htm](pathfinder-bestiary/RDFvGocLW0OuHmlC.htm)|Wendigo|Wendigo|changé|
 |[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|Rejeton de la gourmandise|changé|
 |[tTmml7T2Knz2NrLd.htm](pathfinder-bestiary/tTmml7T2Knz2NrLd.htm)|Crag Linnorm|Linnorm des falaises|changé|
+|[VcUdFYNaxauNr5Hn.htm](pathfinder-bestiary/VcUdFYNaxauNr5Hn.htm)|Hyaenodon|Hyaenodon|changé|
 |[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|Rejeton de l'avidité|changé|
-|[x6wfK4UCJ6wYok9t.htm](pathfinder-bestiary/x6wfK4UCJ6wYok9t.htm)|Tor Linnorm|Linnorm des roches|changé|
 |[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|Rejeton de la luxure|changé|
 |[zBPGUUP788b0g1Ng.htm](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Keketar|Ké’ktar (Protéen)|changé|
+|[Zv6eaumsdz4HdxRV.htm](pathfinder-bestiary/Zv6eaumsdz4HdxRV.htm)|Hyena|Hyène|changé|
 
 ## Liste des traductions complétés
 
@@ -78,16 +77,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[5U13zQ77DIcqpH9U.htm](pathfinder-bestiary/5U13zQ77DIcqpH9U.htm)|Werebear|Ours-garou|officielle|
 |[5XtCOknYJuEl4SfD.htm](pathfinder-bestiary/5XtCOknYJuEl4SfD.htm)|Young Green Dragon (Spellcaster)|Jeune dragon vert (Incantateur)|officielle|
 |[6CQEelygt968CB7m.htm](pathfinder-bestiary/6CQEelygt968CB7m.htm)|Ankylosaurus|Ankylosaure (Dinosaure)|officielle|
+|[6eabIbxzYepfZAHX.htm](pathfinder-bestiary/6eabIbxzYepfZAHX.htm)|Ice Linnorm|Linnorm des glaces|officielle|
 |[6UczvqBDlGNXcIlW.htm](pathfinder-bestiary/6UczvqBDlGNXcIlW.htm)|Tidal Master|Maître des marées (Élémentaire, eau)|officielle|
-|[6XlGTt3RveX49YbC.htm](pathfinder-bestiary/6XlGTt3RveX49YbC.htm)|Shambler|Grand Tertre|officielle|
+|[6XlGTt3RveX49YbC.htm](pathfinder-bestiary/6XlGTt3RveX49YbC.htm)|Shambler|Grand tertre|officielle|
 |[70JDH25JLTC4t5Ko.htm](pathfinder-bestiary/70JDH25JLTC4t5Ko.htm)|Tengu Sneak|Chipeur Tengu|officielle|
 |[7EpLGBoddL8Vzlha.htm](pathfinder-bestiary/7EpLGBoddL8Vzlha.htm)|Soulbound Doll (Chaotic Evil)|Poupée d'âme (Chaotique mauvais)|officielle|
-|[7JvA7kTqCUwcJoNe.htm](pathfinder-bestiary/7JvA7kTqCUwcJoNe.htm)|Bugbear Tormentor|Tourmenteur Gobelours|officielle|
+|[7JvA7kTqCUwcJoNe.htm](pathfinder-bestiary/7JvA7kTqCUwcJoNe.htm)|Bugbear Tormentor|Tourmenteur gobelours|officielle|
 |[7ptWlh4t6oHvYOcj.htm](pathfinder-bestiary/7ptWlh4t6oHvYOcj.htm)|Soulbound Doll (Neutral Evil)|Poupées d'âme (Neutre mauvais)|officielle|
 |[7ZgQuis8r8YQyUnI.htm](pathfinder-bestiary/7ZgQuis8r8YQyUnI.htm)|Yeti|Yéti|officielle|
 |[80TiZrVvIBW7E6L2.htm](pathfinder-bestiary/80TiZrVvIBW7E6L2.htm)|Fire Giant|Géant du feu|officielle|
 |[8BloAdRqlLpt5bNg.htm](pathfinder-bestiary/8BloAdRqlLpt5bNg.htm)|Treerazer|Fléau des arbres|officielle|
 |[8JvzSTwQWtOsxRfL.htm](pathfinder-bestiary/8JvzSTwQWtOsxRfL.htm)|Quetzalcoatlus|Quetzalcoatl (Ptérosaure)|officielle|
+|[8meqlz36gPHTTvNz.htm](pathfinder-bestiary/8meqlz36gPHTTvNz.htm)|Voidworm|Ver du néant (Protéen)|officielle|
 |[8r8Ar08ojdJuPeiH.htm](pathfinder-bestiary/8r8Ar08ojdJuPeiH.htm)|Eagle|Aigle|officielle|
 |[8U8K0YEghIErml35.htm](pathfinder-bestiary/8U8K0YEghIErml35.htm)|Crimson Worm|Ver écarlate|officielle|
 |[8uXLbKKzxN5O0ZhM.htm](pathfinder-bestiary/8uXLbKKzxN5O0ZhM.htm)|Elananx|Élananxe|officielle|
@@ -255,7 +256,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[jnmUcTs4hn1c5bz9.htm](pathfinder-bestiary/jnmUcTs4hn1c5bz9.htm)|Pugwampi|Pugwampi (Gremlin)|officielle|
 |[JnOgG1xfWleFGNt9.htm](pathfinder-bestiary/JnOgG1xfWleFGNt9.htm)|Adult Brass Dragon|Dragon d'airain adulte (Métallique)|officielle|
 |[jP8CO6z7bNIhOuqQ.htm](pathfinder-bestiary/jP8CO6z7bNIhOuqQ.htm)|Ofalth|Ofalth|officielle|
-|[jVZRROs0GzDjVrgi.htm](pathfinder-bestiary/jVZRROs0GzDjVrgi.htm)|Goblin Warrior|Guerrier Gobelin|officielle|
+|[jVZRROs0GzDjVrgi.htm](pathfinder-bestiary/jVZRROs0GzDjVrgi.htm)|Goblin Warrior|Guerrier gobelin|officielle|
 |[Jy2va0NTTbaUH1zP.htm](pathfinder-bestiary/Jy2va0NTTbaUH1zP.htm)|War Horse|Cheval de bataille|officielle|
 |[k3Lt3bWBadXvlIbG.htm](pathfinder-bestiary/k3Lt3bWBadXvlIbG.htm)|Poltergeist|Poltergeist|officielle|
 |[k9fM0vufbdsDPQul.htm](pathfinder-bestiary/k9fM0vufbdsDPQul.htm)|Fire Mephit|Méphite du feu (Élémentaire)|officielle|
@@ -336,7 +337,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pkNWilK2pHZ5TDsd.htm](pathfinder-bestiary/pkNWilK2pHZ5TDsd.htm)|Lesser Death|Mort inférieure|officielle|
 |[Pl3J94dvVY159G64.htm](pathfinder-bestiary/Pl3J94dvVY159G64.htm)|Soulbound Doll (True Neutral)|Poupée d'âme (Neutre strict)|officielle|
 |[pTkz08ak9YlKRsOY.htm](pathfinder-bestiary/pTkz08ak9YlKRsOY.htm)|Hive Mother|Mère de la ruche (Ankhrav)|officielle|
-|[PXru127aJljwKhSy.htm](pathfinder-bestiary/PXru127aJljwKhSy.htm)|Sea Devil Scout|Éclaireur Diable des mers|officielle|
+|[PXru127aJljwKhSy.htm](pathfinder-bestiary/PXru127aJljwKhSy.htm)|Sea Devil Scout|Éclaireur diable des mers|officielle|
 |[pyFvLyQsyYjOz0xI.htm](pathfinder-bestiary/pyFvLyQsyYjOz0xI.htm)|Frost Drake|Drake du froid|officielle|
 |[pYNMxg5z2nRFmkMM.htm](pathfinder-bestiary/pYNMxg5z2nRFmkMM.htm)|Ancient Black Dragon (Spellcaster)|Dragon noir vénérable (Incantateur)|officielle|
 |[pzG7Od1aHj0DkTzS.htm](pathfinder-bestiary/pzG7Od1aHj0DkTzS.htm)|Young Copper Dragon (Spellcaster)|Jeune dragon de cuivre (Incantateur)|officielle|
@@ -398,7 +399,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ToSwRvspZ0IB7SHQ.htm](pathfinder-bestiary/ToSwRvspZ0IB7SHQ.htm)|Ghost Mage|Mage fantôme|officielle|
 |[Tpuqwt6Af29EMtqX.htm](pathfinder-bestiary/Tpuqwt6Af29EMtqX.htm)|Alchemical Golem|Golem alchimique|officielle|
 |[tr75FAbdOkrfQviy.htm](pathfinder-bestiary/tr75FAbdOkrfQviy.htm)|Electric Eel|Anguille électrique|officielle|
-|[tuIqEvsct8EO33xs.htm](pathfinder-bestiary/tuIqEvsct8EO33xs.htm)|Alghollthu Master|Maître Alghollthu|officielle|
+|[tuIqEvsct8EO33xs.htm](pathfinder-bestiary/tuIqEvsct8EO33xs.htm)|Alghollthu Master|Maître alghollthu|officielle|
 |[tXHUr947sanB5tdN.htm](pathfinder-bestiary/tXHUr947sanB5tdN.htm)|Wererat|Rat-garou|officielle|
 |[TZcDdN5o7s4alZNE.htm](pathfinder-bestiary/TZcDdN5o7s4alZNE.htm)|Gelatinous Cube|Cube gélatineux (Vase)|officielle|
 |[U1L3MFKHe0sNvLoU.htm](pathfinder-bestiary/U1L3MFKHe0sNvLoU.htm)|Dezullon|Dézullone|officielle|
@@ -418,7 +419,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VAWmwDA08ZLQd8lW.htm](pathfinder-bestiary/VAWmwDA08ZLQd8lW.htm)|Vampire Bat Swarm|Nuée de chauves-souris vampires|officielle|
 |[VBXjZ1jYxdKf64B7.htm](pathfinder-bestiary/VBXjZ1jYxdKf64B7.htm)|Drow Rogue|Roublard Drow|officielle|
 |[VC7rtYR4hLxwg7WZ.htm](pathfinder-bestiary/VC7rtYR4hLxwg7WZ.htm)|Ghast|Blême|officielle|
-|[VcUdFYNaxauNr5Hn.htm](pathfinder-bestiary/VcUdFYNaxauNr5Hn.htm)|Hyaenodon|Hyaenodon|officielle|
 |[vEFENJJixCdmBNl5.htm](pathfinder-bestiary/vEFENJJixCdmBNl5.htm)|Jungle Drake|Drake de la jungle|officielle|
 |[VEnjCj4geJBzTgBJ.htm](pathfinder-bestiary/VEnjCj4geJBzTgBJ.htm)|Ancient Gold Dragon (Spellcaster)|Dragon d'or vénérable (Incantateur)|officielle|
 |[vJwnApm0HkadGR7w.htm](pathfinder-bestiary/vJwnApm0HkadGR7w.htm)|Crocodile|Crocodile|officielle|
@@ -446,6 +446,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[x23aXeWTo026pMui.htm](pathfinder-bestiary/x23aXeWTo026pMui.htm)|Earth Mephit|Méphite de la terre|officielle|
 |[x26dyZZZRvZpzK2X.htm](pathfinder-bestiary/x26dyZZZRvZpzK2X.htm)|Quelaunt|Quelaunt|officielle|
 |[x4mlZseBP5bWcy4H.htm](pathfinder-bestiary/x4mlZseBP5bWcy4H.htm)|Barghest|Barghest|officielle|
+|[x6wfK4UCJ6wYok9t.htm](pathfinder-bestiary/x6wfK4UCJ6wYok9t.htm)|Tor Linnorm|Linnorm des roches|officielle|
 |[x81PGKEsOtPquFVa.htm](pathfinder-bestiary/x81PGKEsOtPquFVa.htm)|Chimera (Blue Dragon)|Chimère (Dragon bleu)|officielle|
 |[XbClt5wkqECrQToJ.htm](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|Grenadier Homme-rat|officielle|
 |[XLqbEDjmGpIc4XoY.htm](pathfinder-bestiary/XLqbEDjmGpIc4XoY.htm)|Orc Warchief|Chef de guerre orc|officielle|
@@ -480,7 +481,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ZsduIlmluQe4ZxFy.htm](pathfinder-bestiary/ZsduIlmluQe4ZxFy.htm)|Dero Strangler|Étrangleur Dero|officielle|
 |[ZSQ4M8qeAv4dkLq1.htm](pathfinder-bestiary/ZSQ4M8qeAv4dkLq1.htm)|Skum|Skum (Alghollthu)|officielle|
 |[zUvgAbgeQH5t6DWs.htm](pathfinder-bestiary/zUvgAbgeQH5t6DWs.htm)|Choral|Chœur (Ange)|officielle|
-|[Zv6eaumsdz4HdxRV.htm](pathfinder-bestiary/Zv6eaumsdz4HdxRV.htm)|Hyena|Hyène|officielle|
 |[ZXbr1ke1vF0ZFKY3.htm](pathfinder-bestiary/ZXbr1ke1vF0ZFKY3.htm)|Roper|Enlaceur|officielle|
 |[zXi6UhZ0mXWpKk4A.htm](pathfinder-bestiary/zXi6UhZ0mXWpKk4A.htm)|Adult Green Dragon|Dragon vert adulte (Chromatique)|officielle|
 |[ZzMJ7Y4qxapAVvlF.htm](pathfinder-bestiary/ZzMJ7Y4qxapAVvlF.htm)|Cassisian|Cassisien (Ange)|officielle|

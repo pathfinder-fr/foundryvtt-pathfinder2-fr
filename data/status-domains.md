@@ -3,7 +3,7 @@
  * **libre**: 58
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions complétés
@@ -26,7 +26,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[BlovCvjhk4Ag07w2.htm](domains/BlovCvjhk4Ag07w2.htm)|Dreams Domain|Rêves|libre|
 |[c9odhpRoKId5dXmn.htm](domains/c9odhpRoKId5dXmn.htm)|Perfection Domain|Perfection|libre|
 |[dnljU1twPjH4KFgO.htm](domains/dnljU1twPjH4KFgO.htm)|Swarm Domain|Nuées|libre|
-|[FJ9D4qpeRhJvjHai.htm](domains/FJ9D4qpeRhJvjHai.htm)|Star Domain|Étoile|libre|
+|[FJ9D4qpeRhJvjHai.htm](domains/FJ9D4qpeRhJvjHai.htm)|Star Domain|Étoiles|libre|
 |[fqr2OnTww3bAq0ae.htm](domains/fqr2OnTww3bAq0ae.htm)|Sun Domain|Soleil|libre|
 |[fVfFKKvGocG2JM5q.htm](domains/fVfFKKvGocG2JM5q.htm)|Toil Domain|Labeur|libre|
 |[giUsAWI9NbpdeUzl.htm](domains/giUsAWI9NbpdeUzl.htm)|Knowledge Domain|Savoir|libre|

@@ -1,11 +1,26 @@
 # État de la traduction (ac-support-benefits)
 
  * **libre**: 30
+ * **aucune**: 9
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[3jZOVJsYwBQ7GPDi.htm](ac-support-benefits/3jZOVJsYwBQ7GPDi.htm)|Vampiric Animal Support Benefit|
+|[4kkcfQdHAb4YTVNw.htm](ac-support-benefits/4kkcfQdHAb4YTVNw.htm)|Ghost Support Benefit|
+|[bHaJZSm7SakAsk00.htm](ac-support-benefits/bHaJZSm7SakAsk00.htm)|Skeletal Servant Support Benefit|
+|[CKMQC3zu1XoGjeNd.htm](ac-support-benefits/CKMQC3zu1XoGjeNd.htm)|Skeletal Mount Support Benefit|
+|[kecawjDhBFz5QA4f.htm](ac-support-benefits/kecawjDhBFz5QA4f.htm)|Rhinoceros Support Benefit|
+|[r7QN2lUVWXlcynMW.htm](ac-support-benefits/r7QN2lUVWXlcynMW.htm)|Elephant Support Benefit|
+|[TDMhLC16cQOYBbmA.htm](ac-support-benefits/TDMhLC16cQOYBbmA.htm)|Triceratops Support Benefit|
+|[XrxIRaD1A5tpKm1t.htm](ac-support-benefits/XrxIRaD1A5tpKm1t.htm)|Tyrannosaurus Support Benefit|
+|[yAYlM3aIRYnqx6j8.htm](ac-support-benefits/yAYlM3aIRYnqx6j8.htm)|Zombie Support Benefit|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |

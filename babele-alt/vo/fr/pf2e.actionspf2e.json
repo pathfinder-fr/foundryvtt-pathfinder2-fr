@@ -159,7 +159,7 @@
         {
             "id": "Breath Weapon (Cold) (Cone)",
             "name": "Breath Weapon (Cold) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[cold]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[cold]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Repair",
@@ -177,9 +177,9 @@
             "description": "<p>Vous Marchez rapidement d’une distance égale à votre Vitesse. Pendant ce déplacement, vous pouvez tenter de traverser l’espace occupé par un ennemi. Effectuez un test d’<span data-pf2-action=\"tumbleThrough\" data-pf2-glyph=\"A\">Acrobaties</span> contre le DD de Réflexes de l’ennemi dès que vous tentez d’entrer dans l’espace qu’il occupe. Vous pouvez faire un Déplacement acrobatique en effectuant les actions @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}, @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Escalader}, @Compendium[pf2e.actionspf2e.c8TGiZ48ygoSPofx]{Nager} ou une autre action au lieu de Marcher rapidement en fonction de votre environnement .</p>\n<hr />\n<p><strong>Succès</strong> Vous traversez l’espace occupé par l’ennemi, en considérant les cases dans son espace comme un terrain difficile (chaque déplacement de 1,50 m compte comme un déplacement de 3 m). Si vous n’avez pas assez de Vitesse pour traverser complètement l’espace qu’il occupe, vous appliquez l’effet de l’échec.</p>\n<p><strong>Échec</strong> Votre déplacement prend fin et vous déclenchez des réactions comme si vous étiez sorti de la case dans laquelle vous avez commencé.</p>"
         },
         {
-            "id": "Breath Weapon",
-            "name": "Breath Weapon",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige 1d6 dégâts à toutes les créatures, avec un jet de Réflexes basique contre votre DD de sorts. La zone et le type de dégâts de l'Arme de souffle sont choisis lorsque l'eidolon obtient cette capacité.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (ceil(@actor.level/2))d6]]{Dégâts selon le niveau}</p>"
+            "id": "Breath Weapon (Riding Drake)",
+            "name": "Breath Weapon (Riding Drake)",
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige 1d6 dégâts à toutes les créatures, avec un jet de Réflexes basique contre votre DD de sorts. La zone et le type de dégâts de l'Arme de souffle sont choisis lorsque l'eidolon obtient cette capacité.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r (ceil(@actor.level/2))d6]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Goblin Jubilee",
@@ -194,7 +194,7 @@
         {
             "id": "Breath Weapon (Poison) (Line)",
             "name": "Breath Weapon (Poison) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[poison]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[poison]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Seething Frenzy",
@@ -217,8 +217,8 @@
             "description": "<p><strong>Déclencheur</strong> Vous avez raté votre jet de sauvegarde, d'attaque ou de compétence</p>\n<hr />\n<p><strong>Effet</strong> Vous déformez la prophétie en votre faveur, détournement qui aura des conséquences par la suite. Vous relancez le jet raté. Vous devez gardez les résultats du second jet de dés.</p>\n<p>Durant les 24 heures qui suivent, le Maître de jeu peut vous forcer à relancer un jet de sauvegarde, d'attaque ou de compétence réussi alors que le destin rééquilibre la balance. Vous ne pouvez plus utiliser Pion de la prophétie jusqu'à ce que le Maître de jeu utilise cette option ou que les 24 heures se soient écoulées, selon ce qui se déroule en premier.</p>"
         },
         {
-            "id": "Energy Emanation",
-            "name": "Energy Emanation",
+            "id": "Energy Emanation (Acid)",
+            "name": "Energy Emanation (Acid)",
             "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<hr />\n<p>De l'énergie jaillit de votre corps. Vous infligez [[/r {1d6}]]{1d6 dégâts} du type que vous avez choisi à toutes les créatures adjacentes (Jet de Réflexes basique contre le plus élevé entre votre DD de classe ou votre DD de sorts).</p>\n<p>Au niveau 3, puis tous les deux niveaux suivants, ces dégâts sont augmentés de [[/r {1d6}]]{1d6}.</p>"
         },
         {
@@ -289,7 +289,7 @@
         {
             "id": "Breath Weapon (Acid) (Cone)",
             "name": "Breath Weapon (Acid) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[acid]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[acid]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Dutiful Retaliation",
@@ -329,7 +329,7 @@
         {
             "id": "Breath Weapon (Piercing) (Cone)",
             "name": "Breath Weapon (Piercing) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m}, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[/r {(floor(@actor.level/2))d6}[piercing]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m}, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[/r {(floor(@actor.level/2))d6}[piercing]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Strike",
@@ -404,7 +404,7 @@
         {
             "id": "Breath Weapon (Electricity) (Line)",
             "name": "Breath Weapon (Electricity) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[electricity]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[electricity]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Retraining",
@@ -754,7 +754,7 @@
         {
             "id": "Breath Weapon (Electricity) (Cone)",
             "name": "Breath Weapon (Electricity) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[electricity]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[electricity]]]{1d6 dégâts électriques} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[electricity]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Drop Prone",
@@ -844,7 +844,7 @@
         {
             "id": "Breath Weapon (Acid) (Line)",
             "name": "Breath Weapon (Acid) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[acid]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[acid]]]{1d6 dégâts d'acide} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[acid]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Clear a Path",
@@ -854,7 +854,7 @@
         {
             "id": "Breath Weapon (Poison) (Cone)",
             "name": "Breath Weapon (Poison) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[poison]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[poison]]]{1d6 dégâts de poison} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[poison]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Glimpse of Redemption",
@@ -879,7 +879,7 @@
         {
             "id": "Breath Weapon (Piercing) (Line)",
             "name": "Breath Weapon (Piercing) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[piercing]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[piercing]]]{1d6 dégâts perforants} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[piercing]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Conceal an Object",
@@ -929,7 +929,7 @@
         {
             "id": "Breath Weapon (Fire) (Cone)",
             "name": "Breath Weapon (Fire) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[fire]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[fire]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Balance",
@@ -954,7 +954,7 @@
         {
             "id": "Breath Weapon (Negative) (Cone)",
             "name": "Breath Weapon (Negative) (Cone)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[negative]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures dans un @Template[type:cone|distance:30]{cône de 9 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[negative]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Earn Income",
@@ -1094,7 +1094,7 @@
         {
             "id": "Breath Weapon (Fire) (Line)",
             "name": "Breath Weapon (Fire) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[fire]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[fire]]]{1d6 dégâts de feu} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[fire]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Upstage",
@@ -1164,7 +1164,7 @@
         {
             "id": "Act Together",
             "name": "Act Together",
-            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p>Vous et votre eidolon agissez comme si vous ne faisiez qu'un. Soit vous, soit votre eidolon accomplissez une action ou une activité en utilisant le même nombre d'actions que Agir ensemble et l'autre accomplit une seule action.</p>\n<p>Par exemple, si vous passez 2 actions pour Agir ensemble, vous pourriez lancer <em>@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Mains brûlantes}</em> (2 actions) et votre eidolon pourriez Frappe (1 action) ou votre eidolon pourrait utiliser son Arme de souffle (2 actions) et vous pourriez Marcher rapidement (1 action).</p>\n<p>Cela vous laisse la possibilité d'utiliser des activités séparées comme @Compendium[pf2e.actionspf2e.IE2nThCmoyhQA0Jn]{Échapper aux regards} lorsque vous voyagez.</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par round</p>\n<hr />\n<p>Vous et votre eidolon agissez comme si vous ne faisiez qu'un. Soit vous, soit votre eidolon accomplissez une action ou une activité en utilisant le même nombre d'actions que Agir ensemble et l'autre accomplit une seule action.</p>\n<p>Par exemple, si vous passez 2 actions pour Agir ensemble, vous pourriez lancer <em>@Compendium[pf2e.spells-srd.y6rAdMK6EFlV6U0t]{Mains brûlantes}</em> (2 actions) et votre eidolon pourrait Frapper (1 action) ou votre eidolon pourrait utiliser son Arme de souffle (2 actions) et vous pourriez Marcher rapidement (1 action).</p>\n<p>Cela vous laisse la possibilité d'utiliser des activités séparées comme @Compendium[pf2e.actionspf2e.IE2nThCmoyhQA0Jn]{Échapper aux regards} lorsque vous voyagez.</p>"
         },
         {
             "id": "Take Control",
@@ -1184,7 +1184,7 @@
         {
             "id": "Breath Weapon (Negative) (Line)",
             "name": "Breath Weapon (Negative) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[negative]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[negative]]]{1d6 dégâts négatifs} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m} avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[negative]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Lie",
@@ -1239,7 +1239,7 @@
         {
             "id": "Barbed Quills",
             "name": "Barbed Quills",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une Frappe à mains nues ou une frappe avec une arme au corps-à-corps sans allonge.</p>\n<hr />\n<p>Vos piquants se brisent dans la peau de votre agresseur. Vous infligez [[/r {1d8}[piercing]]]{1d8 dégâts perforants} à la créature déclencheuse (jet de Réflexes basique contre le plus élevé entre votre DD de classe et votre DD de sort). Sur un échec critique, la créature subit aussi [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant} lorsque vos piquants se fichent dans sa peau. Au niveau 3, puis à chaque niveau impair par la suite, ces dégâts augmentent d'1d8 et les dégâts perforants persistants augmentent de 1.</p>\n<p>[[/r ceil(@actor.level/2)d8 #piercing]]{selon le niveau}</p>\n<p>[[/r 1d4+ceil(@actor.level/2)-1 #persistent bleed]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Dégâts de saignement persistant}</p>\n<hr />\n<p><em>Note : le bonus de +1 lié à Hirsute n'est pas automatiquement ajouté</em></p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous êtes touché par une Frappe à mains nues ou une frappe avec une arme au corps-à-corps sans allonge.</p>\n<hr />\n<p>Vos piquants se brisent dans la peau de votre agresseur. Vous infligez [[/r {1d8}[piercing]]]{1d8 dégâts perforants} à la créature déclencheuse (jet de Réflexes basique contre le plus élevé entre votre DD de classe et votre DD de sort). Sur un échec critique, la créature subit aussi [[/r {1d4}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant} lorsque vos piquants se fichent dans sa peau. Au niveau 3, puis à chaque niveau impair par la suite, ces dégâts augmentent d'1d8 et les dégâts perforants persistants augmentent de 1.</p>\n<p>[[/r ceil(@actor.level/2)d8 #piercing]]{selon le niveau}</p>\n<p>[[/r 1d4+ceil(@actor.level/2)-1 #persistent bleed]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{dégâts de saignement persistant}</p>\n<hr />\n<p><em>Note : le bonus de +1 lié à Hirsute n'est pas automatiquement ajouté</em></p>"
         },
         {
             "id": "Mount",
@@ -1294,7 +1294,7 @@
         {
             "id": "Breath Weapon (Cold) (Line)",
             "name": "Breath Weapon (Cold) (Line)",
-            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m}, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[cold]]]{Dégâts selon le niveau}</p>"
+            "description": "<p>Votre eidolon lâche une explosion d'énergie destructrice. Votre eidolon inflige [[/r {1d6}[cold]]]{1d6 dégâts de froid} à toutes les créatures sur une @Template[type:line|distance:60]{ligne de 18 m}, avec un jet de Réflexes basique contre votre DD de sorts.</p>\n<p>Votre eidolon ne peut plus alors utiliser son arme de souffle durant les [[/r 1d4 #rounds]]{1d4 rounds} suivants.</p>\n<p>Au niveau 3 puis tous les deux niveaux par la suite, les dégâts augmentent de 1d6.</p>\n<p>[[/r {(floor(@actor.level/2))d6}[cold]]]{dégâts selon le niveau}</p>"
         },
         {
             "id": "Grapple",

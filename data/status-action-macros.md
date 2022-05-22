@@ -1,24 +1,25 @@
 # État de la traduction (action-macros)
 
+ * **libre**: 38
  * **aucune**: 3
- * **libre**: 35
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
-|[1AIo5UcVbCmvpRL3.htm](action-macros/1AIo5UcVbCmvpRL3.htm)|Exploration: Avoid Notice|
-|[R03LRl2RBbsm6EcF.htm](action-macros/R03LRl2RBbsm6EcF.htm)|Treat Poison: Medicine|
-|[ZS5z1TqckWPIMGDN.htm](action-macros/ZS5z1TqckWPIMGDN.htm)|Athletics: Arcane Slam|
+|[Al5LYMMdeDcpC9Br.htm](action-macros/Al5LYMMdeDcpC9Br.htm)|Track: Survival|
+|[LN67MgbGE8IHb2X0.htm](action-macros/LN67MgbGE8IHb2X0.htm)|Sense Direction: Survival|
+|[xcrdOOiN0l6O1sIn.htm](action-macros/xcrdOOiN0l6O1sIn.htm)|Command an Animal: Nature|
 
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
+|[1AIo5UcVbCmvpRL3.htm](action-macros/1AIo5UcVbCmvpRL3.htm)|Exploration: Avoid Notice|Exploration : Passer inaperçu|libre|
 |[1JpYPlIkjyseE9JU.htm](action-macros/1JpYPlIkjyseE9JU.htm)|Create a Diversion - Trick: Deception|Créer une diversion - Astuce: Duperie|libre|
 |[1Sj2Pz3VI2SFWqZw.htm](action-macros/1Sj2Pz3VI2SFWqZw.htm)|Make an Impression: Diplomacy|Faire bonne impression : Diplomatie|libre|
 |[2qhYHkcSsTJoSwrJ.htm](action-macros/2qhYHkcSsTJoSwrJ.htm)|Tumble Through: Acrobatics|Déplacement acrobatique : Acrobaties|libre|
@@ -42,6 +43,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[oxowCzHbxSGOWRke.htm](action-macros/oxowCzHbxSGOWRke.htm)|Steel Your Resolve|Puiser dans votre résolution|libre|
 |[PmHt7Gb5fCrlWWTr.htm](action-macros/PmHt7Gb5fCrlWWTr.htm)|Sense Motive: Perception|Deviner les intentions : Perception|libre|
 |[QPsV0qi2zXm7syt6.htm](action-macros/QPsV0qi2zXm7syt6.htm)|Long Jump: Athletics|Saut en longueur : Athlétisme|libre|
+|[R03LRl2RBbsm6EcF.htm](action-macros/R03LRl2RBbsm6EcF.htm)|Treat Poison: Medicine|Soigner un empoisonnement : Médecine|libre|
 |[rCgGPEyXbzLFcio6.htm](action-macros/rCgGPEyXbzLFcio6.htm)|Gather Information: Diplomacy|Recueillir des informations : Diplomatie|libre|
 |[RjfPFjqPrNve6eeh.htm](action-macros/RjfPFjqPrNve6eeh.htm)|Feint: Deception|Feinter : Duperie|libre|
 |[tbveXG4gaIoKnsWX.htm](action-macros/tbveXG4gaIoKnsWX.htm)|Request: Diplomacy|Solliciter : Diplomatie|libre|
@@ -53,4 +55,5 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VTg4t8kYTvXcHROq.htm](action-macros/VTg4t8kYTvXcHROq.htm)|Lie: Deception|Mentir : Duperie|libre|
 |[yMTKMnaYSGtDz4wk.htm](action-macros/yMTKMnaYSGtDz4wk.htm)|Force Open: Athletics|Ouvrir de force : Athlétisme|libre|
 |[yNry1xMZqdWHncbV.htm](action-macros/yNry1xMZqdWHncbV.htm)|Shove: Athletics|Pousser : Athlétisme|libre|
+|[ZS5z1TqckWPIMGDN.htm](action-macros/ZS5z1TqckWPIMGDN.htm)|Athletics: Arcane Slam|Athlétisme : Plaquege arcanique|libre|
 |[zUJ0UhuoFt5a7tiN.htm](action-macros/zUJ0UhuoFt5a7tiN.htm)|Create a Diversion - Gesture: Deception|Créer une diversion - Geste : Duperie|libre|

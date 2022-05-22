@@ -1,68 +1,107 @@
 # État de la traduction (spells)
 
- * **libre**: 587
- * **officielle**: 534
- * **changé**: 51
+ * **libre**: 571
+ * **officielle**: 521
+ * **changé**: 80
+ * **aucune**: 4
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des traductions à faire
+
+| Fichier   | Nom (EN)    |
+|-----------|-------------|
+|[divination-03-DLFupJuCfzyLCQcO.htm](spells/divination-03-DLFupJuCfzyLCQcO.htm)|Eyes of the Dead|
+|[necromancy-01-4bFxUA59xeq6Snhw.htm](spells/necromancy-01-4bFxUA59xeq6Snhw.htm)|Hallowed Ground|
+|[necromancy-03-Cd6Crl4wpQaMSYrF.htm](spells/necromancy-03-Cd6Crl4wpQaMSYrF.htm)|Subjugate Undead|
+|[necromancy-06-Z82DvtSXafPmh4KV.htm](spells/necromancy-06-Z82DvtSXafPmh4KV.htm)|Shambling Horror|
+
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[abjuration-02-02J0rDTk37KN2sjt.htm](spells/abjuration-02-02J0rDTk37KN2sjt.htm)|Quench|Éteindre|changé|
 |[abjuration-02-Fr58LDSrbndgld9n.htm](spells/abjuration-02-Fr58LDSrbndgld9n.htm)|Resist Energy|Résistance à l'énergie|changé|
+|[abjuration-06-kLxJx7BECVgHh2vb.htm](spells/abjuration-06-kLxJx7BECVgHh2vb.htm)|Temporal Ward|Protection temporelle|changé|
 |[conjuration-01-hs7h8f4Z1ZNdUt3s.htm](spells/conjuration-01-hs7h8f4Z1ZNdUt3s.htm)|Summon Fey|Convocation de fée|changé|
 |[conjuration-01-jSRAyd57kd4WZ4yE.htm](spells/conjuration-01-jSRAyd57kd4WZ4yE.htm)|Summon Plant or Fungus|Convocation de plante ou de champignon|changé|
 |[conjuration-01-lKcsmeOrgHtK4xQa.htm](spells/conjuration-01-lKcsmeOrgHtK4xQa.htm)|Summon Construct|Convocation de créature artificielle|changé|
+|[conjuration-02-3VxVbZqIRvpKkg3O.htm](spells/conjuration-02-3VxVbZqIRvpKkg3O.htm)|Fungal Infestation|Infestation fongique|changé|
 |[conjuration-02-lpT6LotUaQPfinjj.htm](spells/conjuration-02-lpT6LotUaQPfinjj.htm)|Summon Elemental|Convocation d'élémentaire|changé|
 |[conjuration-02-uiv8FKuxE8HOWTxW.htm](spells/conjuration-02-uiv8FKuxE8HOWTxW.htm)|Instant Armor|Armure instantanée|changé|
 |[conjuration-03-oUDNCArkQTdhllxD.htm](spells/conjuration-03-oUDNCArkQTdhllxD.htm)|Aqueous Orb|Orbe aqueux|changé|
 |[conjuration-03-tFKJCPvOQZxKq6ON.htm](spells/conjuration-03-tFKJCPvOQZxKq6ON.htm)|Mad Monkeys|Singes fous|changé|
+|[conjuration-04-h7RtKSKGViNtD5o4.htm](spells/conjuration-04-h7RtKSKGViNtD5o4.htm)|Coral Eruption|Éruption de corail|changé|
 |[conjuration-05-29ytKctjg7qSW2ff.htm](spells/conjuration-05-29ytKctjg7qSW2ff.htm)|Summon Fiend|Convocation de fiélon|changé|
 |[conjuration-05-e9UJoVYUd5kJWUpi.htm](spells/conjuration-05-e9UJoVYUd5kJWUpi.htm)|Summon Giant|Convocation de géant|changé|
 |[conjuration-05-i1TvBID5QLyXrUCa.htm](spells/conjuration-05-i1TvBID5QLyXrUCa.htm)|Summon Entity|Convocation d'entité|changé|
 |[conjuration-05-kghwmH3tQjMIhdH1.htm](spells/conjuration-05-kghwmH3tQjMIhdH1.htm)|Summon Dragon|Convocation de dragon|changé|
 |[conjuration-05-lTDixrrNKaCvLKwX.htm](spells/conjuration-05-lTDixrrNKaCvLKwX.htm)|Summon Celestial|Convocation de céleste|changé|
 |[conjuration-05-yRf59eFtZ50cGlem.htm](spells/conjuration-05-yRf59eFtZ50cGlem.htm)|Heroes' Feast|Festin des héros|changé|
+|[conjuration-06-JbAcSLu62TU1OgNF.htm](spells/conjuration-06-JbAcSLu62TU1OgNF.htm)|Tangling Creepers|Entraves végétales|changé|
 |[conjuration-08-ZwwIUavMbEwcZz35.htm](spells/conjuration-08-ZwwIUavMbEwcZz35.htm)|Create Demiplane|Création de demi-plan|changé|
+|[divination-01-Gb7SeieEvd0pL2Eh.htm](spells/divination-01-Gb7SeieEvd0pL2Eh.htm)|True Strike|Coup au but|changé|
 |[divination-02-8VzbumNyMEdSzZSz.htm](spells/divination-02-8VzbumNyMEdSzZSz.htm)|Impeccable Flow|Flux impeccable|changé|
 |[divination-03-5WM3WjshXgrkVCg6.htm](spells/divination-03-5WM3WjshXgrkVCg6.htm)|Beastmaster Trance|Transe du Maître des bêtes|changé|
 |[divination-03-dL3A7H4LlRH26Imo.htm](spells/divination-03-dL3A7H4LlRH26Imo.htm)|Arcane Weaving|Tissage arcanique|changé|
 |[divination-03-oLylenH2jlP5UbRT.htm](spells/divination-03-oLylenH2jlP5UbRT.htm)|Painted Scout|Éclaireur peint|changé|
 |[divination-06-l4LFwY7iuzX6sDXr.htm](spells/divination-06-l4LFwY7iuzX6sDXr.htm)|Commune with Nature|Communion avec la nature|changé|
 |[enchantment-01-7ZinJNzxq0XF0oMx.htm](spells/enchantment-01-7ZinJNzxq0XF0oMx.htm)|Bane|Imprécation|changé|
+|[enchantment-01-IkS3lDGUpIOMug7v.htm](spells/enchantment-01-IkS3lDGUpIOMug7v.htm)|Faerie Dust|Poussière féerique|changé|
 |[enchantment-01-VACvA5VRbddjt5s9.htm](spells/enchantment-01-VACvA5VRbddjt5s9.htm)|Infectious Enthusiasm|Enthousiasme communicatif|changé|
 |[enchantment-01-XSujb7EsSwKl19Uu.htm](spells/enchantment-01-XSujb7EsSwKl19Uu.htm)|Bless|Bénédiction|changé|
+|[enchantment-06-NhGXgmI3AjkkwnPk.htm](spells/enchantment-06-NhGXgmI3AjkkwnPk.htm)|Blinding Fury|Furie aveuglante|changé|
+|[evocation-01-9mPEoOPN0AMuixIv.htm](spells/evocation-01-9mPEoOPN0AMuixIv.htm)|Force Fang|Croc de force|changé|
 |[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
+|[evocation-02-f8hRqLJaxBVhF1u0.htm](spells/evocation-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|changé|
 |[evocation-02-WqPhJNzLa8vSjrH6.htm](spells/evocation-02-WqPhJNzLa8vSjrH6.htm)|Animated Assault|Assaut animé|changé|
 |[evocation-02-x0rWq0wS06dns4G2.htm](spells/evocation-02-x0rWq0wS06dns4G2.htm)|Final Sacrifice|Sacrifice final|changé|
 |[evocation-02-ZxHC7V7HtjUsB8zH.htm](spells/evocation-02-ZxHC7V7HtjUsB8zH.htm)|Scorching Ray|Rayon ardent|changé|
+|[evocation-03-DyiD239dNS7RIxZE.htm](spells/evocation-03-DyiD239dNS7RIxZE.htm)|Searing Light|Lumière brûlante|changé|
+|[evocation-03-HWrNMQENi9WSGbnF.htm](spells/evocation-03-HWrNMQENi9WSGbnF.htm)|Wall of Radiance|Mur rayonnant|changé|
+|[evocation-03-kvZCQz4NoMAfjvif.htm](spells/evocation-03-kvZCQz4NoMAfjvif.htm)|Gasping Marsh|Bouffée de marais|changé|
 |[evocation-03-L37RTc7K79OUpZ7X.htm](spells/evocation-03-L37RTc7K79OUpZ7X.htm)|Interstellar Void|Vide intersidéral|changé|
 |[evocation-04-kHyjQbibRGPNCixx.htm](spells/evocation-04-kHyjQbibRGPNCixx.htm)|Ice Storm|Tempête de glace|changé|
+|[evocation-05-E3X2RbzWHCdz7gsk.htm](spells/evocation-05-E3X2RbzWHCdz7gsk.htm)|Flame Strike|Colonne de feu|changé|
 |[evocation-05-JyT346VmGtRLsDnV.htm](spells/evocation-05-JyT346VmGtRLsDnV.htm)|Lightning Storm|Tempête d'éclairs|changé|
+|[evocation-05-Qlp8G3knwLGhAxQ0.htm](spells/evocation-05-Qlp8G3knwLGhAxQ0.htm)|Elemental Blast|Explosion élémentaire|changé|
+|[evocation-06-kuoYff1csM5eAcAP.htm](spells/evocation-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|changé|
 |[evocation-10-wLIvH0AT1u7oa64N.htm](spells/evocation-10-wLIvH0AT1u7oa64N.htm)|Cataclysm|Cataclysme|changé|
+|[illusion-01-W02bHXylIpoXbO4e.htm](spells/illusion-01-W02bHXylIpoXbO4e.htm)|Bullhorn|Porte-voix|changé|
 |[illusion-04-h5UqEdeqK8iTcU0J.htm](spells/illusion-04-h5UqEdeqK8iTcU0J.htm)|Simulacrum|Simulacrum|changé|
+|[illusion-07-VTb0yI6P1bLkzuRr.htm](spells/illusion-07-VTb0yI6P1bLkzuRr.htm)|Shadow Raid|Raid de l'ombre|changé|
 |[illusion-09-nA0XlPsnMNrQMpio.htm](spells/illusion-09-nA0XlPsnMNrQMpio.htm)|Fantastic Facade|Façade fantastique|changé|
 |[necromancy-01-gSUQlTDYoLDGAsCP.htm](spells/necromancy-01-gSUQlTDYoLDGAsCP.htm)|Hymn of Healing|Hymne de guérison|changé|
 |[necromancy-01-KIV2LqzS5KtqOItV.htm](spells/necromancy-01-KIV2LqzS5KtqOItV.htm)|Heal Companion|Guérison de compagnon|changé|
 |[necromancy-01-rfZpqmj0AIIdkVIs.htm](spells/necromancy-01-rfZpqmj0AIIdkVIs.htm)|Heal|Guérison|changé|
 |[necromancy-01-vQuwLqtFFYt0K15N.htm](spells/necromancy-01-vQuwLqtFFYt0K15N.htm)|Goodberry|Baie nourricière|changé|
 |[necromancy-01-wdA52JJnsuQWeyqz.htm](spells/necromancy-01-wdA52JJnsuQWeyqz.htm)|Harm|Mise à mal|changé|
+|[necromancy-02-TaaMEYdZXQXF0Sks.htm](spells/necromancy-02-TaaMEYdZXQXF0Sks.htm)|Blood Vendetta|Vendetta du sang|changé|
 |[necromancy-03-0chL1b4OFIZxpN3v.htm](spells/necromancy-03-0chL1b4OFIZxpN3v.htm)|Steal Shadow|Vol d'ombre|changé|
+|[necromancy-04-VXUrO8TwRqBpNzdU.htm](spells/necromancy-04-VXUrO8TwRqBpNzdU.htm)|Bloodspray Curse|Malédiction du sang répandu|changé|
 |[necromancy-05-59NR1hA2jPSgg2sW.htm](spells/necromancy-05-59NR1hA2jPSgg2sW.htm)|Blister|Pustule|changé|
+|[necromancy-05-ES6FkwXXqYr4ujQH.htm](spells/necromancy-05-ES6FkwXXqYr4ujQH.htm)|Blood Feast|Festin de sang|changé|
 |[necromancy-05-qVXraYXlTjissCaG.htm](spells/necromancy-05-qVXraYXlTjissCaG.htm)|Mother's Blessing|Bénédiction de la Mère|changé|
+|[necromancy-09-drmvQJETA3WZzXyw.htm](spells/necromancy-09-drmvQJETA3WZzXyw.htm)|Voracious Gestalt|Gestalt vorace|changé|
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|changé|
+|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|changé|
 |[transmutation-01-X9dkmh23lFwMjrYd.htm](spells/transmutation-01-X9dkmh23lFwMjrYd.htm)|Ant Haul|Charge de fourmi|changé|
 |[transmutation-02-IhwREVWG0OzzrbWA.htm](spells/transmutation-02-IhwREVWG0OzzrbWA.htm)|Iron Gut|Boyaux de fer|changé|
 |[transmutation-03-0gdZrT9lwO17EIxc.htm](spells/transmutation-03-0gdZrT9lwO17EIxc.htm)|Ooze Form|Forme de vase|changé|
 |[transmutation-03-B3eLlbaPxOYHcs1o.htm](spells/transmutation-03-B3eLlbaPxOYHcs1o.htm)|Curse Of Lost Time|Malédiction du temps perdu|changé|
+|[transmutation-03-KktHf7zIAWOr499h.htm](spells/transmutation-03-KktHf7zIAWOr499h.htm)|Ranger's Bramble|Roncier du rôdeur|changé|
+|[transmutation-03-XI6Lzd2B5pernkPd.htm](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Insect Form|Forme d'insecte|changé|
 |[transmutation-04-0fYE64odlKqISzft.htm](spells/transmutation-04-0fYE64odlKqISzft.htm)|Rusting Grasp|Poigne oxydante|changé|
+|[transmutation-04-KhM8MhoUgoUjBMIz.htm](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Dinosaur Form|Forme de dinosaure|changé|
+|[transmutation-04-NzXpEzcZAjuDTZjK.htm](spells/transmutation-04-NzXpEzcZAjuDTZjK.htm)|Aerial Form|Forme aérienne|changé|
+|[transmutation-05-YtesyvfAIwXOqISq.htm](spells/transmutation-05-YtesyvfAIwXOqISq.htm)|Moon Frenzy|Frénésie lunaire|changé|
+|[transmutation-06-FKtPRWcs4zhwn9N1.htm](spells/transmutation-06-FKtPRWcs4zhwn9N1.htm)|Form of the Sandpoint Devil|Forme de diable de Pointesable|changé|
 |[transmutation-06-NCUXsaj2yFxOVhrK.htm](spells/transmutation-06-NCUXsaj2yFxOVhrK.htm)|Create Skinstitch|Création de maille-peaux|changé|
 |[transmutation-06-xEjGEBvTfDJECSki.htm](spells/transmutation-06-xEjGEBvTfDJECSki.htm)|Ancestral Form|Forme ancestrale|changé|
 |[transmutation-06-zhqnMOVPzVvWSUbC.htm](spells/transmutation-06-zhqnMOVPzVvWSUbC.htm)|Tempest Form|Forme tempêtueuse|changé|
+|[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|changé|
 
 ## Liste des traductions complétés
 
@@ -164,7 +203,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[abjuration-06-8Umt1AzYfFbC4fui.htm](spells/abjuration-06-8Umt1AzYfFbC4fui.htm)|Spellwrack|Ravages magiques|officielle|
 |[abjuration-06-9W2Qv0wXLg6tQg3y.htm](spells/abjuration-06-9W2Qv0wXLg6tQg3y.htm)|Scintillating Safeguard|Précaution scintillante|libre|
 |[abjuration-06-Er9XNUlL0wB0PM36.htm](spells/abjuration-06-Er9XNUlL0wB0PM36.htm)|Ward Domain|Protection de domaine|libre|
-|[abjuration-06-kLxJx7BECVgHh2vb.htm](spells/abjuration-06-kLxJx7BECVgHh2vb.htm)|Temporal Ward|Protection temporelle|libre|
 |[abjuration-06-pZc8ZwtsyWnxUUW0.htm](spells/abjuration-06-pZc8ZwtsyWnxUUW0.htm)|Primal Call|Appel primordial|officielle|
 |[abjuration-06-USM530HlzZ1RMd99.htm](spells/abjuration-06-USM530HlzZ1RMd99.htm)|Champion's Sacrifice|Sacrifice du champion|officielle|
 |[abjuration-06-yrZA4k2VAqEP8xx7.htm](spells/abjuration-06-yrZA4k2VAqEP8xx7.htm)|Repulsion|Répulsion|officielle|
@@ -220,7 +258,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-01-yvs1zN5Pai5U4CJX.htm](spells/conjuration-01-yvs1zN5Pai5U4CJX.htm)|Summon Instrument|Convocation d'instrument|libre|
 |[conjuration-01-zTN6zuruDUKOea6h.htm](spells/conjuration-01-zTN6zuruDUKOea6h.htm)|Rising Surf|Vague porteuse|libre|
 |[conjuration-02-23cv1p49NFd0Onng.htm](spells/conjuration-02-23cv1p49NFd0Onng.htm)|Ash Cloud|Nuage de cendres|libre|
-|[conjuration-02-3VxVbZqIRvpKkg3O.htm](spells/conjuration-02-3VxVbZqIRvpKkg3O.htm)|Fungal Infestation|Infestation fongique|libre|
 |[conjuration-02-9s5tqqXNzcoKamWx.htm](spells/conjuration-02-9s5tqqXNzcoKamWx.htm)|Web|Toile d'araignée|officielle|
 |[conjuration-02-9XHmC2JgTUIQ1CCm.htm](spells/conjuration-02-9XHmC2JgTUIQ1CCm.htm)|Obscuring Mist|Brume de dissimulation|officielle|
 |[conjuration-02-Mt6ZzkVX8Q4xigFq.htm](spells/conjuration-02-Mt6ZzkVX8Q4xigFq.htm)|Create Food|Création de nourriture|officielle|
@@ -245,7 +282,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-04-D31YX7zvRBvenTAz.htm](spells/conjuration-04-D31YX7zvRBvenTAz.htm)|Petal Storm|Tempête de pétales|libre|
 |[conjuration-04-f9duI5d8xNYqxI8d.htm](spells/conjuration-04-f9duI5d8xNYqxI8d.htm)|Magic Mailbox|Boite aux lettres magiques|libre|
 |[conjuration-04-GzdgM0m7wXKuFSho.htm](spells/conjuration-04-GzdgM0m7wXKuFSho.htm)|Rope Trick|Corde enchantée|officielle|
-|[conjuration-04-h7RtKSKGViNtD5o4.htm](spells/conjuration-04-h7RtKSKGViNtD5o4.htm)|Coral Eruption|Éruption de corail|libre|
 |[conjuration-04-iMmexY6ZosLS4I5R.htm](spells/conjuration-04-iMmexY6ZosLS4I5R.htm)|Door to Beyond|Porte vers l'au-delà|libre|
 |[conjuration-04-K1wmI4qPmRhFczmy.htm](spells/conjuration-04-K1wmI4qPmRhFczmy.htm)|Dust Storm|Tempête de poussière|libre|
 |[conjuration-04-kCgkreCT6g0dipMd.htm](spells/conjuration-04-kCgkreCT6g0dipMd.htm)|Murderous Vine|Liane meurtrière|libre|
@@ -278,7 +314,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[conjuration-06-Cpj05laa7ogqGwS3.htm](spells/conjuration-06-Cpj05laa7ogqGwS3.htm)|Elemental Confluence|Confluence élémentaire|libre|
 |[conjuration-06-fRUxp4G9kG816XAt.htm](spells/conjuration-06-fRUxp4G9kG816XAt.htm)|Lure Dream|Attirer le rêve|libre|
 |[conjuration-06-In2A7GCyxxaqZdPI.htm](spells/conjuration-06-In2A7GCyxxaqZdPI.htm)|Moonlight Bridge|Pont de Lumière lunaire|libre|
-|[conjuration-06-JbAcSLu62TU1OgNF.htm](spells/conjuration-06-JbAcSLu62TU1OgNF.htm)|Tangling Creepers|Entraves végétales|officielle|
 |[conjuration-06-kwlKUxEuT8T15YW6.htm](spells/conjuration-06-kwlKUxEuT8T15YW6.htm)|Primal Summons|Convocations primordiales|officielle|
 |[conjuration-06-OOMQ8Z6EIrGt5NJ6.htm](spells/conjuration-06-OOMQ8Z6EIrGt5NJ6.htm)|Unexpected Transposition|Transposition inattendue|libre|
 |[conjuration-07-5bTt2CvYHPvaR7QQ.htm](spells/conjuration-07-5bTt2CvYHPvaR7QQ.htm)|Plane Shift|Changement de plan|officielle|
@@ -318,7 +353,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[divination-01-EUMjrJJwSgsqNidi.htm](spells/divination-01-EUMjrJJwSgsqNidi.htm)|Anticipate Peril|Anticipation du danger|libre|
 |[divination-01-Fr2CGvWcgSyLcUi7.htm](spells/divination-01-Fr2CGvWcgSyLcUi7.htm)|Bit of Luck|Un peu de chance|officielle|
 |[divination-01-G0T1xv1FoZ23Jxvt.htm](spells/divination-01-G0T1xv1FoZ23Jxvt.htm)|Nudge Fate|Coup de pouce au destin|libre|
-|[divination-01-Gb7SeieEvd0pL2Eh.htm](spells/divination-01-Gb7SeieEvd0pL2Eh.htm)|True Strike|Coup au but|officielle|
 |[divination-01-gpzpAAAJ1Lza2JVl.htm](spells/divination-01-gpzpAAAJ1Lza2JVl.htm)|Detect Magic|Détection de la magie|officielle|
 |[divination-01-HOj2YsTpkoMpYJH9.htm](spells/divination-01-HOj2YsTpkoMpYJH9.htm)|Practice Makes Perfect|En forgeant on devient forgeron|libre|
 |[divination-01-izcxFQFwf3woCnFs.htm](spells/divination-01-izcxFQFwf3woCnFs.htm)|Guidance|Assistance divine|officielle|
@@ -448,7 +482,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-GdN5YQE47gd79k7X.htm](spells/enchantment-01-GdN5YQE47gd79k7X.htm)|Wilding Word|Paroles sauvages|libre|
 |[enchantment-01-GeUbPvwdZ4B4l0up.htm](spells/enchantment-01-GeUbPvwdZ4B4l0up.htm)|Stoke the Heart|Enflammer les cœurs|libre|
 |[enchantment-01-IAjvwqgiDr3qGYxY.htm](spells/enchantment-01-IAjvwqgiDr3qGYxY.htm)|Inspire Courage|Inspiration vaillante|officielle|
-|[enchantment-01-IkS3lDGUpIOMug7v.htm](spells/enchantment-01-IkS3lDGUpIOMug7v.htm)|Faerie Dust|Poussière féerique|officielle|
 |[enchantment-01-irTdhxTixU9u9YUm.htm](spells/enchantment-01-irTdhxTixU9u9YUm.htm)|Lingering Composition|Composition prolongée|libre|
 |[enchantment-01-jsWthW1Qy6tg3SwD.htm](spells/enchantment-01-jsWthW1Qy6tg3SwD.htm)|Draw Ire|Attirer la colère|libre|
 |[enchantment-01-k2QrUk7jWMAWozMh.htm](spells/enchantment-01-k2QrUk7jWMAWozMh.htm)|Brain Drain|Drain du cerveau|libre|
@@ -543,7 +576,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-06-5BbU1V6wGSGbrmRD.htm](spells/enchantment-06-5BbU1V6wGSGbrmRD.htm)|Feeblemind|Débilité|officielle|
 |[enchantment-06-GYD0XZ4t3tQq6shc.htm](spells/enchantment-06-GYD0XZ4t3tQq6shc.htm)|Zealous Conviction|Conviction zélée|officielle|
 |[enchantment-06-M6HsK7W6JMkJXeog.htm](spells/enchantment-06-M6HsK7W6JMkJXeog.htm)|Ideal Mimicry|Imitation idéale|libre|
-|[enchantment-06-NhGXgmI3AjkkwnPk.htm](spells/enchantment-06-NhGXgmI3AjkkwnPk.htm)|Blinding Fury|Furie aveuglante|libre|
 |[enchantment-06-OsOhx3TGIZ7AhD0P.htm](spells/enchantment-06-OsOhx3TGIZ7AhD0P.htm)|Dominate|Domination|officielle|
 |[enchantment-07-0JigNJDRwevZOyjI.htm](spells/enchantment-07-0JigNJDRwevZOyjI.htm)|Soothing Ballad|Ballade apaisante|officielle|
 |[enchantment-07-8kJbiBEjMWG4VUjs.htm](spells/enchantment-07-8kJbiBEjMWG4VUjs.htm)|Warp Mind|Déformer l'esprit|officielle|
@@ -574,7 +606,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-01-7CUgqHunmHfW2lC5.htm](spells/evocation-01-7CUgqHunmHfW2lC5.htm)|Parch|Dessèchement|libre|
 |[evocation-01-8TQiFzGf4feoHeH0.htm](spells/evocation-01-8TQiFzGf4feoHeH0.htm)|Chilling Spray|Aspersion de froid|libre|
 |[evocation-01-8Uzc9WKqRr755S5d.htm](spells/evocation-01-8Uzc9WKqRr755S5d.htm)|Horizon Thunder Sphere|Sphère de tonnerre lointain|libre|
-|[evocation-01-9mPEoOPN0AMuixIv.htm](spells/evocation-01-9mPEoOPN0AMuixIv.htm)|Force Fang|Croc de force|libre|
 |[evocation-01-AspA30tzKCHFWRf0.htm](spells/evocation-01-AspA30tzKCHFWRf0.htm)|Incendiary Aura|Aura incendiaire|libre|
 |[evocation-01-b5BQbwmuBhgPXTyi.htm](spells/evocation-01-b5BQbwmuBhgPXTyi.htm)|Haunting Hymn|Hymne obsédant|libre|
 |[evocation-01-BItahht2hEHvR9Bt.htm](spells/evocation-01-BItahht2hEHvR9Bt.htm)|Buzzing Bites|Piqûres bourdonnantes|libre|
@@ -642,7 +673,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-02-cB17yFc9456Pyfec.htm](spells/evocation-02-cB17yFc9456Pyfec.htm)|Vomit Swarm|Vomir une nuée|libre|
 |[evocation-02-cf7Jkm39uEjUFtHt.htm](spells/evocation-02-cf7Jkm39uEjUFtHt.htm)|Sea Surge|Onde océanique|libre|
 |[evocation-02-Dbd5W6G8U2vzWolN.htm](spells/evocation-02-Dbd5W6G8U2vzWolN.htm)|Consecrate|Consécration|officielle|
-|[evocation-02-f8hRqLJaxBVhF1u0.htm](spells/evocation-02-f8hRqLJaxBVhF1u0.htm)|Acid Arrow|Flèche acide|officielle|
 |[evocation-02-Fq9yCbqI2RDt6Orw.htm](spells/evocation-02-Fq9yCbqI2RDt6Orw.htm)|Spiritual Weapon|Arme spirituelle|officielle|
 |[evocation-02-HRb2doyaLtaoCfi3.htm](spells/evocation-02-HRb2doyaLtaoCfi3.htm)|Faerie Fire|Lueurs féériques|officielle|
 |[evocation-02-kMffb6SvhCBMMI4k.htm](spells/evocation-02-kMffb6SvhCBMMI4k.htm)|Elemental Zone|Zone élémentaire|libre|
@@ -664,13 +694,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-B8aCUMCHCIMUCEVK.htm](spells/evocation-03-B8aCUMCHCIMUCEVK.htm)|Elemental Motion|Mobilité élémentaire|officielle|
 |[evocation-03-bmDgIbLa5NfkP97J.htm](spells/evocation-03-bmDgIbLa5NfkP97J.htm)|Dragon Breath (Silver or White)|Souffle de dragon (Argent ou Blanc)|libre|
 |[evocation-03-DeF63UTmr7rchF60.htm](spells/evocation-03-DeF63UTmr7rchF60.htm)|Wall of Shadow|Mur d'ombre|libre|
-|[evocation-03-DyiD239dNS7RIxZE.htm](spells/evocation-03-DyiD239dNS7RIxZE.htm)|Searing Light|Lumière brûlante|officielle|
 |[evocation-03-E80SrXuBdZViPGiH.htm](spells/evocation-03-E80SrXuBdZViPGiH.htm)|Pulverizing Cascade|Cascade pulvérisante|libre|
 |[evocation-03-ECApRjIIxD0JogOa.htm](spells/evocation-03-ECApRjIIxD0JogOa.htm)|Stone Lance|Lance de pierre|libre|
 |[evocation-03-eIPIZp2FUbFcLNdj.htm](spells/evocation-03-eIPIZp2FUbFcLNdj.htm)|Pillar of Water|Pilier d'eau|libre|
 |[evocation-03-fI20AVwOzJMHXRdo.htm](spells/evocation-03-fI20AVwOzJMHXRdo.htm)|Levitate|Lévitation|officielle|
 |[evocation-03-fnDBgdEeuzHRupDu.htm](spells/evocation-03-fnDBgdEeuzHRupDu.htm)|Dragon Breath (Umbral)|Souffle de dragon (ombral)|libre|
-|[evocation-03-HWrNMQENi9WSGbnF.htm](spells/evocation-03-HWrNMQENi9WSGbnF.htm)|Wall of Radiance|Mur rayonnant|libre|
 |[evocation-03-it4ZsAi6XgvGcodc.htm](spells/evocation-03-it4ZsAi6XgvGcodc.htm)|Wall of Wind|Mur de vent|officielle|
 |[evocation-03-JcobNl4iE9HmMYtE.htm](spells/evocation-03-JcobNl4iE9HmMYtE.htm)|Dragon Breath|Souffle de dragon|officielle|
 |[evocation-03-jupppBeFqhe6LMIb.htm](spells/evocation-03-jupppBeFqhe6LMIb.htm)|Dragon Breath (Green)|Souffle de dragon (Vert)|libre|
@@ -679,7 +707,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-03-kfsv7zSHb3pr7s9v.htm](spells/evocation-03-kfsv7zSHb3pr7s9v.htm)|Dragon Breath (Gold, Magma or Red)|Souffle de dragon (Magma, Or ou Rouge)|officielle|
 |[evocation-03-kRsmUlSWhi6PJvZ7.htm](spells/evocation-03-kRsmUlSWhi6PJvZ7.htm)|Angelic Wings|Ailes d'ange|officielle|
 |[evocation-03-kuZnUNrhXHRYQ2eM.htm](spells/evocation-03-kuZnUNrhXHRYQ2eM.htm)|Eidolon's Wrath|Courroux de l'eidolon|libre|
-|[evocation-03-kvZCQz4NoMAfjvif.htm](spells/evocation-03-kvZCQz4NoMAfjvif.htm)|Gasping Marsh|Bouffée de marais|libre|
 |[evocation-03-LFSwMtQVP05EzlZe.htm](spells/evocation-03-LFSwMtQVP05EzlZe.htm)|Thunderburst|Explosion tonitruante|libre|
 |[evocation-03-LrFUj76CHDBV0vHW.htm](spells/evocation-03-LrFUj76CHDBV0vHW.htm)|Sun's Fury|Furie du soleil|libre|
 |[evocation-03-mtlyAyf30JnIvxVn.htm](spells/evocation-03-mtlyAyf30JnIvxVn.htm)|Moonlight Ray|Rayon de lumière de lune|libre|
@@ -731,13 +758,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-05-9BGEf9Sv5rgNBCk0.htm](spells/evocation-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|Danse de ténèbre|libre|
 |[evocation-05-9LHr9SuDLTicdbXs.htm](spells/evocation-05-9LHr9SuDLTicdbXs.htm)|Hellfire Plume|Volute de feu infernal|officielle|
 |[evocation-05-crF4g9jRN1y84MSD.htm](spells/evocation-05-crF4g9jRN1y84MSD.htm)|Abyssal Wrath|Colère abyssale|officielle|
-|[evocation-05-E3X2RbzWHCdz7gsk.htm](spells/evocation-05-E3X2RbzWHCdz7gsk.htm)|Flame Strike|Colonne de feu|officielle|
 |[evocation-05-HMTloW1hvRFJ5Z2D.htm](spells/evocation-05-HMTloW1hvRFJ5Z2D.htm)|Consuming Darkness|Obscurité dévorante|libre|
 |[evocation-05-i88Vi47PDDoP6gQv.htm](spells/evocation-05-i88Vi47PDDoP6gQv.htm)|Geyser|Geyser|libre|
 |[evocation-05-Ifc2b6bNVdjKV7Si.htm](spells/evocation-05-Ifc2b6bNVdjKV7Si.htm)|Stormburst|Explosion tempêtueuse|libre|
 |[evocation-05-IqJ9URobmJ9L9UBG.htm](spells/evocation-05-IqJ9URobmJ9L9UBG.htm)|Shadow Blast|Explosion d'ombre|officielle|
 |[evocation-05-OYOCWWefZPEfp8Nl.htm](spells/evocation-05-OYOCWWefZPEfp8Nl.htm)|Blazing Fissure|Fissure brûlante|libre|
-|[evocation-05-Qlp8G3knwLGhAxQ0.htm](spells/evocation-05-Qlp8G3knwLGhAxQ0.htm)|Elemental Blast|Explosion élémentaire|officielle|
 |[evocation-05-R5FHRv7VqyRnxg2t.htm](spells/evocation-05-R5FHRv7VqyRnxg2t.htm)|Wall of Ice|Mur de glace|officielle|
 |[evocation-05-rMGkk23qWvxTmgA8.htm](spells/evocation-05-rMGkk23qWvxTmgA8.htm)|Forceful Hand|Main de force|libre|
 |[evocation-05-TLqMFgCewxuricJw.htm](spells/evocation-05-TLqMFgCewxuricJw.htm)|Repelling Pulse|Pulsation répulsive|libre|
@@ -750,7 +775,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[evocation-06-7Iela4GgVeO3LfAo.htm](spells/evocation-06-7Iela4GgVeO3LfAo.htm)|Wall of Force|Mur de force|officielle|
 |[evocation-06-bynT1UKaDqr8dLNM.htm](spells/evocation-06-bynT1UKaDqr8dLNM.htm)|Flaming Fusillade|Fusillade enflammée|libre|
 |[evocation-06-Gn5deIoobHpd3SiR.htm](spells/evocation-06-Gn5deIoobHpd3SiR.htm)|Flame Vortex|Vortex de flammes|libre|
-|[evocation-06-kuoYff1csM5eAcAP.htm](spells/evocation-06-kuoYff1csM5eAcAP.htm)|Fire Seeds|Germe de feu|officielle|
 |[evocation-06-P1iqzEIidRagUs7W.htm](spells/evocation-06-P1iqzEIidRagUs7W.htm)|Zero Gravity|Gravité zéro|libre|
 |[evocation-06-peCF6VArm8urfwxZ.htm](spells/evocation-06-peCF6VArm8urfwxZ.htm)|Blade Barrier|Barrière de lames|officielle|
 |[evocation-06-r7ihOgKv19eJQnik.htm](spells/evocation-06-r7ihOgKv19eJQnik.htm)|Disintegrate|Désintégration|officielle|
@@ -797,7 +821,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-01-R8bqnYiThB6MYTxD.htm](spells/illusion-01-R8bqnYiThB6MYTxD.htm)|Phantom Pain|Douleur fantôme|officielle|
 |[illusion-01-UKsIOWmMx4hSpafl.htm](spells/illusion-01-UKsIOWmMx4hSpafl.htm)|Color Spray|Couleurs dansantes|officielle|
 |[illusion-01-vLzFcIaSXs7YTIqJ.htm](spells/illusion-01-vLzFcIaSXs7YTIqJ.htm)|Message|Message|officielle|
-|[illusion-01-W02bHXylIpoXbO4e.htm](spells/illusion-01-W02bHXylIpoXbO4e.htm)|Bullhorn|Porte-voix|libre|
 |[illusion-01-X56VdA98VedAfGTU.htm](spells/illusion-01-X56VdA98VedAfGTU.htm)|Thicket of Knives|Multitude de couteaux|libre|
 |[illusion-01-xTpp8dHZsNMDm75B.htm](spells/illusion-01-xTpp8dHZsNMDm75B.htm)|Splash of Art|Avalanche d'art|officielle|
 |[illusion-01-yH13KXUK2x093NUv.htm](spells/illusion-01-yH13KXUK2x093NUv.htm)|Face in the Crowd|Fondu dans la foule|officielle|
@@ -865,7 +888,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[illusion-07-0873MWM0qKDDv81O.htm](spells/illusion-07-0873MWM0qKDDv81O.htm)|Project Image|Projection d'image|officielle|
 |[illusion-07-jBGAYmR0BkkbpJvG.htm](spells/illusion-07-jBGAYmR0BkkbpJvG.htm)|Visions of Danger|Dangereuses visions|officielle|
 |[illusion-07-O6VQC1Bs4aSYDa6R.htm](spells/illusion-07-O6VQC1Bs4aSYDa6R.htm)|Mask of Terror|Masque terrifiant|officielle|
-|[illusion-07-VTb0yI6P1bLkzuRr.htm](spells/illusion-07-VTb0yI6P1bLkzuRr.htm)|Shadow Raid|Raid de l'ombre|libre|
 |[illusion-08-rwCh2qTYPA44KEoK.htm](spells/illusion-08-rwCh2qTYPA44KEoK.htm)|Dream Council|Conseil onirique|officielle|
 |[illusion-08-TvZiwZRianfTSbEg.htm](spells/illusion-08-TvZiwZRianfTSbEg.htm)|Hypnopompic Terrors|Terreurs hypnopompiques|libre|
 |[illusion-08-uEyfLoFQsRKBRIcB.htm](spells/illusion-08-uEyfLoFQsRKBRIcB.htm)|Scintillating Pattern|Motif scintillant|officielle|
@@ -931,7 +953,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-02-S708JF3E0kuhuRzG.htm](spells/necromancy-02-S708JF3E0kuhuRzG.htm)|Bone Spray|Aspersion d'os|libre|
 |[necromancy-02-siU9xRlqWXeKT0mH.htm](spells/necromancy-02-siU9xRlqWXeKT0mH.htm)|Feast of Ashes|Festin de cendres|libre|
 |[necromancy-02-SnaLVgxZ9ryUFmUr.htm](spells/necromancy-02-SnaLVgxZ9ryUFmUr.htm)|Restoration|Restauration|officielle|
-|[necromancy-02-TaaMEYdZXQXF0Sks.htm](spells/necromancy-02-TaaMEYdZXQXF0Sks.htm)|Blood Vendetta|Vendetta du sang|libre|
 |[necromancy-02-X3dYByf3YmkcdwG0.htm](spells/necromancy-02-X3dYByf3YmkcdwG0.htm)|Slough Skin|Mues de peau|libre|
 |[necromancy-02-XFtO4BBI22Uox2QP.htm](spells/necromancy-02-XFtO4BBI22Uox2QP.htm)|Sudden Blight|Dégradation soudaine|libre|
 |[necromancy-02-xlRv8vCTHh1NeMpw.htm](spells/necromancy-02-xlRv8vCTHh1NeMpw.htm)|Mimic Undead|Imiter un mort-vivant|libre|
@@ -983,7 +1004,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-04-qzsQmpiQodHBBWYI.htm](spells/necromancy-04-qzsQmpiQodHBBWYI.htm)|Malignant Sustenance|Alimentation maléfique|officielle|
 |[necromancy-04-RbORUmnwlB8b3mNf.htm](spells/necromancy-04-RbORUmnwlB8b3mNf.htm)|Internal Insurrection|Insurrection interne|libre|
 |[necromancy-04-S1Msrwi990FE7uMO.htm](spells/necromancy-04-S1Msrwi990FE7uMO.htm)|Call The Blood|Appel du sang|libre|
-|[necromancy-04-VXUrO8TwRqBpNzdU.htm](spells/necromancy-04-VXUrO8TwRqBpNzdU.htm)|Bloodspray Curse|Malédiction du sang répandu|libre|
 |[necromancy-04-ZeHeNQ5BNq6m5F1j.htm](spells/necromancy-04-ZeHeNQ5BNq6m5F1j.htm)|Take its Course|Suivre son cours|officielle|
 |[necromancy-04-ZhJ8d9Uk4lwIx86b.htm](spells/necromancy-04-ZhJ8d9Uk4lwIx86b.htm)|Plant Growth|Croissance végétale|officielle|
 |[necromancy-04-zvvHOQV78WKUB33l.htm](spells/necromancy-04-zvvHOQV78WKUB33l.htm)|Life Siphon|Siphon de vie|officielle|
@@ -992,7 +1012,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-05-9WlTR9JlEcjRmGiD.htm](spells/necromancy-05-9WlTR9JlEcjRmGiD.htm)|Celestial Brand|Marque céleste|officielle|
 |[necromancy-05-CzjQtkRuRlzRvwzg.htm](spells/necromancy-05-CzjQtkRuRlzRvwzg.htm)|Healing Well|Puits de guérison|libre|
 |[necromancy-05-DgCS456mXKw97vNy.htm](spells/necromancy-05-DgCS456mXKw97vNy.htm)|Ode to Ouroboros|Ode à Ouroboros|libre|
-|[necromancy-05-ES6FkwXXqYr4ujQH.htm](spells/necromancy-05-ES6FkwXXqYr4ujQH.htm)|Blood Feast|Festin de sang|libre|
 |[necromancy-05-gsYEuWv04XTDxe91.htm](spells/necromancy-05-gsYEuWv04XTDxe91.htm)|Call Spirit|Appel d'un esprit|officielle|
 |[necromancy-05-hghGRzOSzEl4UXdS.htm](spells/necromancy-05-hghGRzOSzEl4UXdS.htm)|Invoke Spirits|Invoquer les esprits|libre|
 |[necromancy-05-Hnc7eGi7vyZenAIm.htm](spells/necromancy-05-Hnc7eGi7vyZenAIm.htm)|Breath of Life|Souffle de vie|officielle|
@@ -1038,7 +1057,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-08-Ovvflf5aFbmBxqq8.htm](spells/necromancy-08-Ovvflf5aFbmBxqq8.htm)|Quivering Palm|Paume vibratoire|officielle|
 |[necromancy-08-PgLvO8UNHSj5f61m.htm](spells/necromancy-08-PgLvO8UNHSj5f61m.htm)|Devour Life|Dévorer la vie|libre|
 |[necromancy-09-10VcmSYNBrvBphu1.htm](spells/necromancy-09-10VcmSYNBrvBphu1.htm)|Massacre|Massacre|officielle|
-|[necromancy-09-drmvQJETA3WZzXyw.htm](spells/necromancy-09-drmvQJETA3WZzXyw.htm)|Voracious Gestalt|Gestalt vorace|libre|
 |[necromancy-09-FEsuyf203wTNE2et.htm](spells/necromancy-09-FEsuyf203wTNE2et.htm)|Wail of the Banshee|Plainte d'outre-tombe|officielle|
 |[necromancy-09-GYmXvS9NJ7QwfWGg.htm](spells/necromancy-09-GYmXvS9NJ7QwfWGg.htm)|Bind Soul|Âme prisonnière|officielle|
 |[necromancy-09-LEMfFL551YB120RN.htm](spells/necromancy-09-LEMfFL551YB120RN.htm)|Blunt the Final Blade|Émousser la Lame finale|libre|
@@ -1073,7 +1091,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-lXxP1ziyf4ozkpmv.htm](spells/transmutation-01-lXxP1ziyf4ozkpmv.htm)|Split the Tongue|Langue bifide|libre|
 |[transmutation-01-m5QS8q5M6K0euKcT.htm](spells/transmutation-01-m5QS8q5M6K0euKcT.htm)|Healing Plaster|Emplâtre|libre|
 |[transmutation-01-mFHQ2u4LWiejqKQG.htm](spells/transmutation-01-mFHQ2u4LWiejqKQG.htm)|Overstuff|Gaver|officielle|
-|[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|libre|
 |[transmutation-01-nnSipUPNd3sm5vYL.htm](spells/transmutation-01-nnSipUPNd3sm5vYL.htm)|Vibrant Thorns|Épines florissantes|officielle|
 |[transmutation-01-ps0nmhclT6aIXgd8.htm](spells/transmutation-01-ps0nmhclT6aIXgd8.htm)|Ki Rush|Ruée Ki|officielle|
 |[transmutation-01-Q7QQ91vQtyi1Ux36.htm](spells/transmutation-01-Q7QQ91vQtyi1Ux36.htm)|Jump|Saut|officielle|
@@ -1109,7 +1126,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-03-gPvtmKMRpg9I9D7H.htm](spells/transmutation-03-gPvtmKMRpg9I9D7H.htm)|Earthbind|Cloué à terre|officielle|
 |[transmutation-03-HcIAQZjNXHemoXSU.htm](spells/transmutation-03-HcIAQZjNXHemoXSU.htm)|Shifting Sand|Sable mouvant|libre|
 |[transmutation-03-ilGsyGLGjjIPHbyP.htm](spells/transmutation-03-ilGsyGLGjjIPHbyP.htm)|Embrace the Pit|Étreinte de la fosse|officielle|
-|[transmutation-03-KktHf7zIAWOr499h.htm](spells/transmutation-03-KktHf7zIAWOr499h.htm)|Ranger's Bramble|Roncier du rôdeur|libre|
 |[transmutation-03-kWh8sJH7yawidMyW.htm](spells/transmutation-03-kWh8sJH7yawidMyW.htm)|Shrink Item|Rétrécir un objet|officielle|
 |[transmutation-03-Llx0xKvtu8S4z6TI.htm](spells/transmutation-03-Llx0xKvtu8S4z6TI.htm)|Day's Weight|Poids du jour|libre|
 |[transmutation-03-MNiT0dHol5fEcKlz.htm](spells/transmutation-03-MNiT0dHol5fEcKlz.htm)|Threefold Aspect|Triple aspect|libre|
@@ -1119,7 +1135,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-03-TUbXnR4RAuYzRx1u.htm](spells/transmutation-03-TUbXnR4RAuYzRx1u.htm)|Pyrotechnics|Pyrotechnie|libre|
 |[transmutation-03-vh1RpbWfqdNC4L3P.htm](spells/transmutation-03-vh1RpbWfqdNC4L3P.htm)|Meld into Stone|Fusion dans la pierre|officielle|
 |[transmutation-03-WsUwpfmhKrKwoIe3.htm](spells/transmutation-03-WsUwpfmhKrKwoIe3.htm)|Slow|Lenteur|officielle|
-|[transmutation-03-XI6Lzd2B5pernkPd.htm](spells/transmutation-03-XI6Lzd2B5pernkPd.htm)|Insect Form|Forme d'insecte|officielle|
 |[transmutation-04-1NLMPmyCB2MBoCuR.htm](spells/transmutation-04-1NLMPmyCB2MBoCuR.htm)|Tortoise and the Hare|La tortue et le lièvre|libre|
 |[transmutation-04-8rj45fKzCFcB0fxs.htm](spells/transmutation-04-8rj45fKzCFcB0fxs.htm)|Enlarge Companion|Compagnon agrandi|libre|
 |[transmutation-04-A2JfEKe6BZcTG1S8.htm](spells/transmutation-04-A2JfEKe6BZcTG1S8.htm)|Fly|Vol|officielle|
@@ -1133,10 +1148,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-04-e36Z2t6tLdW3RUzZ.htm](spells/transmutation-04-e36Z2t6tLdW3RUzZ.htm)|Elemental Gift|Don élémentaire|libre|
 |[transmutation-04-eb4FXf62NYArTqek.htm](spells/transmutation-04-eb4FXf62NYArTqek.htm)|Artistic Flourish|Fioritures artistiques|officielle|
 |[transmutation-04-gSFg9zKwgcNZLMEs.htm](spells/transmutation-04-gSFg9zKwgcNZLMEs.htm)|Stormwind Flight|Vol de l'ouragan|officielle|
-|[transmutation-04-KhM8MhoUgoUjBMIz.htm](spells/transmutation-04-KhM8MhoUgoUjBMIz.htm)|Dinosaur Form|Forme de dinosaure|officielle|
 |[transmutation-04-L8pzCOi7Jzx5ALs9.htm](spells/transmutation-04-L8pzCOi7Jzx5ALs9.htm)|Disperse into Air|Disparition dans les airs|officielle|
 |[transmutation-04-McnPlLFvKtQVXNcG.htm](spells/transmutation-04-McnPlLFvKtQVXNcG.htm)|Shape Stone|Façonnage de la pierre|officielle|
-|[transmutation-04-NzXpEzcZAjuDTZjK.htm](spells/transmutation-04-NzXpEzcZAjuDTZjK.htm)|Aerial Form|Forme aérienne|officielle|
 |[transmutation-04-oiUhJbJ3YCKF62Fu.htm](spells/transmutation-04-oiUhJbJ3YCKF62Fu.htm)|Darkened Eyes|Assombrir le regard|officielle|
 |[transmutation-04-oND3oFBjxrhyVvyG.htm](spells/transmutation-04-oND3oFBjxrhyVvyG.htm)|Community Repair|Réparation communautaire|libre|
 |[transmutation-04-Pd2M1XY8EXrSfWgJ.htm](spells/transmutation-04-Pd2M1XY8EXrSfWgJ.htm)|Swarm Form|Forme de nuée|libre|
@@ -1158,7 +1171,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-05-kRxlkPPe6Gr7Du59.htm](spells/transmutation-05-kRxlkPPe6Gr7Du59.htm)|Wind Jump|Saut du vent|officielle|
 |[transmutation-05-LzfrBDxxPTiuN7uL.htm](spells/transmutation-05-LzfrBDxxPTiuN7uL.htm)|Transmute Rock And Mud|Transmutation de la roche et de la boue|libre|
 |[transmutation-05-y5pzaNfb17CM1slC.htm](spells/transmutation-05-y5pzaNfb17CM1slC.htm)|Blackfinger's Blades|Lames de Doigtnoir|libre|
-|[transmutation-05-YtesyvfAIwXOqISq.htm](spells/transmutation-05-YtesyvfAIwXOqISq.htm)|Moon Frenzy|Frénésie lunaire|officielle|
 |[transmutation-05-zCcfPS4y5SrZzU2x.htm](spells/transmutation-05-zCcfPS4y5SrZzU2x.htm)|Plant Form|Forme de plante|officielle|
 |[transmutation-06-29AyhknPKiDBcy8s.htm](spells/transmutation-06-29AyhknPKiDBcy8s.htm)|Statuette|Statuette|libre|
 |[transmutation-06-5c692cCcTDXjSEzk.htm](spells/transmutation-06-5c692cCcTDXjSEzk.htm)|Dragon Form|Forme de dragon|officielle|
@@ -1166,7 +1178,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-06-dKbv80rlAWVpz83C.htm](spells/transmutation-06-dKbv80rlAWVpz83C.htm)|Demon Form|Forme de démon|libre|
 |[transmutation-06-dN8QBNuTiaBHCKUe.htm](spells/transmutation-06-dN8QBNuTiaBHCKUe.htm)|Baleful Polymorph|Métamorphose funeste|libre|
 |[transmutation-06-dR53f0p15EW7D0xC.htm](spells/transmutation-06-dR53f0p15EW7D0xC.htm)|Devil Form|Forme de diable|libre|
-|[transmutation-06-FKtPRWcs4zhwn9N1.htm](spells/transmutation-06-FKtPRWcs4zhwn9N1.htm)|Form of the Sandpoint Devil|Forme de diable de Pointesable|libre|
 |[transmutation-06-MMCQsh12TPaDdPbV.htm](spells/transmutation-06-MMCQsh12TPaDdPbV.htm)|Righteous Might|Force du colosse|officielle|
 |[transmutation-06-Pr1ruNTbzGn3H9w5.htm](spells/transmutation-06-Pr1ruNTbzGn3H9w5.htm)|Stone to Flesh|Pierre en chair|officielle|
 |[transmutation-06-YtBZq49N4Um1cwm7.htm](spells/transmutation-06-YtBZq49N4Um1cwm7.htm)|Nature's Reprisal|Réprésailles de la nature|libre|
@@ -1177,7 +1188,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-07-hiVL8qsnTJtpouw0.htm](spells/transmutation-07-hiVL8qsnTJtpouw0.htm)|Divine Vessel|Réceptacle divin|officielle|
 |[transmutation-07-IHUs4qn27RrdFQ5Y.htm](spells/transmutation-07-IHUs4qn27RrdFQ5Y.htm)|Cosmic Form|Forme cosmique|libre|
 |[transmutation-07-XS7Wyh5YC0NWeWyB.htm](spells/transmutation-07-XS7Wyh5YC0NWeWyB.htm)|Fiery Body|Corps enflammé|officielle|
-|[transmutation-08-8AMvNVOUEtxBCDvJ.htm](spells/transmutation-08-8AMvNVOUEtxBCDvJ.htm)|Monstrosity Form|Forme monstrueuse|officielle|
 |[transmutation-08-U0hL0LLaprcnAyzC.htm](spells/transmutation-08-U0hL0LLaprcnAyzC.htm)|Wind Walk|Voyage venteux|officielle|
 |[transmutation-08-wTYxxYJWN348oV15.htm](spells/transmutation-08-wTYxxYJWN348oV15.htm)|Medusa's Wrath|Courroux de la méduse|libre|
 |[transmutation-09-pswdik31kuHEvdno.htm](spells/transmutation-09-pswdik31kuHEvdno.htm)|Shapechange|Changement de forme|officielle|

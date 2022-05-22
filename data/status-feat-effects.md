@@ -1,10 +1,11 @@
 # État de la traduction (feat-effects)
 
- * **libre**: 187
- * **aucune**: 16
+ * **libre**: 181
+ * **changé**: 6
+ * **aucune**: 30
 
 
-Dernière mise à jour: 2022-04-27 10:36 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,20 +14,45 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
 |[01-263Cd5JMj8Lgc9yz.htm](feat-effects/01-263Cd5JMj8Lgc9yz.htm)|Effect: Radiant Circuitry|
+|[01-2gVP04ZWYbQdX3uS.htm](feat-effects/01-2gVP04ZWYbQdX3uS.htm)|Effect: Spiral Sworn|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wyrmblessed Blood Magic (Status Penalty - Target)|
+|[01-BHnunYPROBG5lxv4.htm](feat-effects/01-BHnunYPROBG5lxv4.htm)|Effect: Heroes' Call|
+|[01-e6mv68aarIbQ3tXL.htm](feat-effects/01-e6mv68aarIbQ3tXL.htm)|Effect: Undying Conviction|
+|[01-EQCnu8DGHDDNXch0.htm](feat-effects/01-EQCnu8DGHDDNXch0.htm)|Effect: Reanimator Dedication|
 |[01-ErLweSmVAN57QIpp.htm](feat-effects/01-ErLweSmVAN57QIpp.htm)|Effect: Nanite Surge|
 |[01-fh8TgCfiifVk0eqU.htm](feat-effects/01-fh8TgCfiifVk0eqU.htm)|Effect: Magical Mentor Boon (PFS)|
 |[01-fILVhS5NuCtGXfri.htm](feat-effects/01-fILVhS5NuCtGXfri.htm)|Effect: Wyrmblessed Blood Magic (Status Bonus - Self)|
+|[01-K0Sv9AHgq245hSLC.htm](feat-effects/01-K0Sv9AHgq245hSLC.htm)|Effect: Inspired Stratagem|
 |[01-kzSjzK72CQ67wfBH.htm](feat-effects/01-kzSjzK72CQ67wfBH.htm)|Effect: Protective Spirit Mask|
 |[01-lbe8XDSZB8gwyg90.htm](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|
 |[01-oKJr59FYdDORxLcR.htm](feat-effects/01-oKJr59FYdDORxLcR.htm)|Effect: Worldly Mentor Boon (PFS)|
 |[01-OKOqC1wswrh9jXqP.htm](feat-effects/01-OKOqC1wswrh9jXqP.htm)|Effect: Protective Mentor Boon (Liked) (PFS)|
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
+|[01-r4kb2zDepFeczMsl.htm](feat-effects/01-r4kb2zDepFeczMsl.htm)|Effect: Bone Swarm|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
+|[01-tlft5vzk66iWCVRq.htm](feat-effects/01-tlft5vzk66iWCVRq.htm)|Effect: Safeguard Soul|
 |[01-ZMFgz4GYSsFeaKKK.htm](feat-effects/01-ZMFgz4GYSsFeaKKK.htm)|Effect: Rugged Mentor Boon (PFS)|
+|[05-8E5SCmFndGAvgkTw.htm](feat-effects/05-8E5SCmFndGAvgkTw.htm)|Effect: Energize Wings|
+|[05-ITvyvbB234bxceRK.htm](feat-effects/05-ITvyvbB234bxceRK.htm)|Effect: Mutate Weapon|
+|[09-3GPh6O3PJxORytAC.htm](feat-effects/09-3GPh6O3PJxORytAC.htm)|Effect: Shadow Sight|
+|[09-DWrsDJte9sez0Ppi.htm](feat-effects/09-DWrsDJte9sez0Ppi.htm)|Effect: Rampaging Form|
 |[09-EVRcdGt4awWPgXla.htm](feat-effects/09-EVRcdGt4awWPgXla.htm)|Effect: Arcane Propulsion|
+|[09-WRe8qbemruWxkN8d.htm](feat-effects/09-WRe8qbemruWxkN8d.htm)|Effect: Rampaging Form (Frozen Winds Kitsune)|
+|[09-xPg5wzzKNxJy18rU.htm](feat-effects/09-xPg5wzzKNxJy18rU.htm)|Effect: Brightness Seeker|
+|[13-JwDCoBIwyhOFnDGZ.htm](feat-effects/13-JwDCoBIwyhOFnDGZ.htm)|Effect: Augment Senses|
 |[17-7hQnwwsixZmXzdIT.htm](feat-effects/17-7hQnwwsixZmXzdIT.htm)|Effect: Channel the Godmind|
 |[17-Ljrx4N5XACKSk1Ks.htm](feat-effects/17-Ljrx4N5XACKSk1Ks.htm)|Effect: Core Cannon|
+
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[00-pf9yvKNg6jZLrE30.htm](feat-effects/00-pf9yvKNg6jZLrE30.htm)|Stance: Tiger Stance|Posture : Posture du tigre|changé|
+|[01-1nCwQErK6hpkNvfw.htm](feat-effects/01-1nCwQErK6hpkNvfw.htm)|Effect: Dueling Parry|Effet : Parade en duel|changé|
+|[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|Effet : Œil des Seigneurs de l'Arc|changé|
+|[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|Posture : Danse en duel|changé|
+|[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|Effet : Allié lame rune Sainte|changé|
+|[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|Effet : Allié lame rune Impie|changé|
 
 ## Liste des traductions complétés
 
@@ -42,7 +68,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-Im5JBInybWFbHEYS.htm](feat-effects/00-Im5JBInybWFbHEYS.htm)|Stance: Rain of Embers Stance|Posture : Posture de la pluie de charbons ardents|libre|
 |[00-JefXqvhzUeBArkAP.htm](feat-effects/00-JefXqvhzUeBArkAP.htm)|Stance: Whirling Blade Stance|Posture : Posture de la lame tournoyante|libre|
 |[00-nwkYZs6YwXYAJ4ps.htm](feat-effects/00-nwkYZs6YwXYAJ4ps.htm)|Stance: Crane Stance|Posture : Posture de la grue|libre|
-|[00-pf9yvKNg6jZLrE30.htm](feat-effects/00-pf9yvKNg6jZLrE30.htm)|Stance: Tiger Stance|Posture : Posture du tigre|libre|
 |[00-PMHwCrnh9W4sMu5b.htm](feat-effects/00-PMHwCrnh9W4sMu5b.htm)|Stance: Tangled Forest Stance|Posture : Posture de la forêt enchevêtrée|libre|
 |[00-qUowHpn79Dpt1hVn.htm](feat-effects/00-qUowHpn79Dpt1hVn.htm)|Stance: Dragon Stance|Posture : Posture du dragon|libre|
 |[00-RozqjLocahvQWERr.htm](feat-effects/00-RozqjLocahvQWERr.htm)|Stance: Gorilla Stance|Posture : Posture du gorille|libre|
@@ -51,13 +76,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[00-uFYvW3kFP9iyNfVX.htm](feat-effects/00-uFYvW3kFP9iyNfVX.htm)|Stance: Clinging Shadows Stance|Posture : Posture des ombres tenaces|libre|
 |[00-UZKIKLuwpQu47feK.htm](feat-effects/00-UZKIKLuwpQu47feK.htm)|Stance: Gorilla Stance (Gorilla Pound)|Posture : Posture du gorille (Martèlement du gorille)|libre|
 |[00-vjvcccAwdkOLA1Fc.htm](feat-effects/00-vjvcccAwdkOLA1Fc.htm)|Stance: Peafowl Stance|Posture : Posture du paon|libre|
-|[01-1nCwQErK6hpkNvfw.htm](feat-effects/01-1nCwQErK6hpkNvfw.htm)|Effect: Dueling Parry|Effet : Parade en duel|libre|
 |[01-1XlJ9xLzL19GHoOL.htm](feat-effects/01-1XlJ9xLzL19GHoOL.htm)|Effect: Overdrive (Critical Success)|Effet : Surrégime (Succès critique)|libre|
 |[01-2RwhJ9fbJtcQjW6s.htm](feat-effects/01-2RwhJ9fbJtcQjW6s.htm)|Effect: Arctic Endemic Herb|Effet : Herbes endémiques Arctique|libre|
 |[01-4alr9e8w9H0RCLwI.htm](feat-effects/01-4alr9e8w9H0RCLwI.htm)|Effect: Tiller's Drive|Effet : Conduite du Laboureur|libre|
 |[01-4Zj71naHbY6O9ggP.htm](feat-effects/01-4Zj71naHbY6O9ggP.htm)|Effect: Bristle|Effet : Hirsute|libre|
 |[01-5bEnBqVOgdp4gROP.htm](feat-effects/01-5bEnBqVOgdp4gROP.htm)|Effect: Catfolk Dance|Effet : Danse homme-félin|libre|
-|[01-5IGz4iheaiUWm5KR.htm](feat-effects/01-5IGz4iheaiUWm5KR.htm)|Effect: Eye of the Arclords|Effet : Œil des Seigneurs de l'Arc|libre|
 |[01-5v0ndPPMfZwhiVZF.htm](feat-effects/01-5v0ndPPMfZwhiVZF.htm)|Effect: Predictable!|Effet : Présivisible ! (Succès)|libre|
 |[01-5veOBmMYQxywTudd.htm](feat-effects/01-5veOBmMYQxywTudd.htm)|Goblin Song (Success)|Chant Gobelin (Succès)|libre|
 |[01-6EDoy3OSFZ4L3Vs7.htm](feat-effects/01-6EDoy3OSFZ4L3Vs7.htm)|Stance: Paragon's Guard|Posture : Protection du Parangon|libre|
@@ -91,7 +114,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-GoSls6SKCFmSoDxT.htm](feat-effects/01-GoSls6SKCFmSoDxT.htm)|Effect: Bon Mot|Effet : Bon Mot (Succès)|libre|
 |[01-h45sUZFs5jhuQdCE.htm](feat-effects/01-h45sUZFs5jhuQdCE.htm)|Stance: Vitality-Manipulation Stance|Posture : Posture de manipulation de la vitalité|libre|
 |[01-HjCXHDZT6GkCyiuG.htm](feat-effects/01-HjCXHDZT6GkCyiuG.htm)|Effect: Plains Endemic Herbs|Effet : Herbes endémiques Plaine|libre|
-|[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|Effet : Allié lame Pertubatrice supérieur|libre|
+|[01-HjfIXg5btodThCTW.htm](feat-effects/01-HjfIXg5btodThCTW.htm)|Effect: Blade Ally Disrupting Rune (Greater)|Effet : Allié lame Pertubatrice supérieure|libre|
 |[01-I4Ozf6mTnd3X0Oax.htm](feat-effects/01-I4Ozf6mTnd3X0Oax.htm)|Effect: Predictable! (Critical Success)|Effet : Présivisible ! (Succès critique)|libre|
 |[01-IfsglZ7fdegwem0E.htm](feat-effects/01-IfsglZ7fdegwem0E.htm)|Effect: Hydraulic Deflection|Effet : Manœuvres hydrauliques|libre|
 |[01-ivGiUp0EC5nWT9Hb.htm](feat-effects/01-ivGiUp0EC5nWT9Hb.htm)|Effect: Read Shibboleths|Effet : Lire les signes distinctifs|libre|
@@ -103,10 +126,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-KBEJVRrie2JTHWIK.htm](feat-effects/01-KBEJVRrie2JTHWIK.htm)|Effect: Dread Marshal Stance|Posture : Posture du terrible Capitaine|libre|
 |[01-KceTcamIZ4ZrQJLD.htm](feat-effects/01-KceTcamIZ4ZrQJLD.htm)|Effect: Educate Allies (Self)|Effet : Alliés instruits (Vous-même)|libre|
 |[01-KgR1myc4OLzVxfxn.htm](feat-effects/01-KgR1myc4OLzVxfxn.htm)|Effect: Predictable! (Critical Failure)|Effet : Présivisible ! (Échec critique)|libre|
-|[01-KiuBRoMFxL2Npt51.htm](feat-effects/01-KiuBRoMFxL2Npt51.htm)|Stance: Dueling Dance|Posture : Danse en duel|libre|
 |[01-kzEPq4aczYb6OD2h.htm](feat-effects/01-kzEPq4aczYb6OD2h.htm)|Effect: Inspiring Marshal Stance|Effet : Posture du Capitaine inspirant|libre|
 |[01-l3S9i2UWGhSO58YX.htm](feat-effects/01-l3S9i2UWGhSO58YX.htm)|Effect: Cat Nap|Effet : Sieste féline|libre|
-|[01-l98IthkklgLDJXIo.htm](feat-effects/01-l98IthkklgLDJXIo.htm)|Effect: Blade Ally Holy Rune|Effet : Allié lame rune Sainte|libre|
 |[01-L9g3EMCT3imX650b.htm](feat-effects/01-L9g3EMCT3imX650b.htm)|Effect: Heaven's Thunder|Effet : Tonnerre du Paradis|libre|
 |[01-ltIvO9ZQlmqGD89Y.htm](feat-effects/01-ltIvO9ZQlmqGD89Y.htm)|Effect: Hunter's Edge, Outwit|Effet : Spécialité du chasseur, Ruse|libre|
 |[01-mkIamZGtQaSsUWLk.htm](feat-effects/01-mkIamZGtQaSsUWLk.htm)|Effect: Control Tower|Effet : Tour de contrôle|libre|
@@ -126,7 +147,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-QTG73gxKSNkiEWdY.htm](feat-effects/01-QTG73gxKSNkiEWdY.htm)|Effect: Mountain Endemic Herbs|Effet : Herbes endémiques Montagnes|libre|
 |[01-RcxDIOa68SUGyMun.htm](feat-effects/01-RcxDIOa68SUGyMun.htm)|Effect: Titan's Stature|Effet : Stature de titan|libre|
 |[01-Rgio0hasm2epEMfh.htm](feat-effects/01-Rgio0hasm2epEMfh.htm)|Effect: Blade Ally Ghost Touch Rune|Effet : Allié lame rune Spectrale|libre|
-|[01-rGSc2PtvU3mgm18S.htm](feat-effects/01-rGSc2PtvU3mgm18S.htm)|Effect: Blade Ally Unholy Rune|Effet : Allié lame rune Impie|libre|
 |[01-rp1YauUSULuqW8rs.htm](feat-effects/01-rp1YauUSULuqW8rs.htm)|Stance: Stoked Flame Stance|Posture : Posture de la flamme ravivée|libre|
 |[01-SXYcrnGzWCuj8zq7.htm](feat-effects/01-SXYcrnGzWCuj8zq7.htm)|Effect: Poison Weapon|Effet : Arme empoisonnée|libre|
 |[01-ugeStF0Rj8phBPWL.htm](feat-effects/01-ugeStF0Rj8phBPWL.htm)|Effect: Witch's Charge|Effet : Fardeau du sorcier|libre|

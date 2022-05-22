@@ -62,6 +62,11 @@
             "description": ""
         },
         {
+            "id": "Treat Poison: Medicine",
+            "name": "Soigner un empoisonnement : Médecine",
+            "description": ""
+        },
+        {
             "id": "Request: Diplomacy",
             "name": "Solliciter : Diplomatie",
             "description": ""
@@ -107,6 +112,11 @@
             "description": ""
         },
         {
+            "id": "Athletics: Arcane Slam",
+            "name": "Athlétisme : Plaquege arcanique",
+            "description": ""
+        },
+        {
             "id": "Swim: Athletics",
             "name": "Nager : Athlétisme",
             "description": ""
@@ -119,6 +129,11 @@
         {
             "id": "Seek: Perception",
             "name": "Chercher : Perception",
+            "description": ""
+        },
+        {
+            "id": "Exploration: Avoid Notice",
+            "name": "Exploration : Passer inaperçu",
             "description": ""
         },
         {
