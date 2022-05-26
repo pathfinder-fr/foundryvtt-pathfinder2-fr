@@ -1,7 +1,7 @@
 Parent Name: Pixie
 Name: Sprinkle Pixie Dust
-Nom: 
-État: aucune
+Nom: Saupoudrer de la poussière de pixie
+État: officielle
 
 ------ Description (en) ------
 <p>The pixie sprinkles pixie dust onto one of its arrows. If the pixie hits a creature with that arrow before the pixie's next turn, the arrow inflicts one of the following special effects instead of dealing damage. Each effect depends on the target's Will save. On a critical hit, the target treats its save result as one degree worse.</p>
@@ -12,3 +12,10 @@ Nom:
 <li><strong>Subdual</strong> @Check[type:will|dc:21|basic:true|traits:enchantment,mental,nonlethal] (enchantment, mental, nonlethal) The target takes [[/r {4d6}[mental]]]{4d6 mental damage}, depending on its basic Will save.</li>
 </ul>
 ------ Description (fr) ------
+<p>La cible subit les effets d’un charme, sauf qu’elle ne bénéficie d’aucun bonus à son jet de sauvegarde si la seule action hostile à son encontre était le tir à l’arc du pixie. De plus, le pixie peut choisir de déplacer l’adoration de la cible sur une créature différente de lui.</p>
+<ul>
+<li><strong>Charme</strong> @Check[type:will|dc:21|traits:emotion,enchantment,incapacitation,mental]{Volonté} DD 21 (émotion, enchantement, mental, mise hors de combat) La cible subit les effets d'un sort de <em>@Compendium[pf2e.spells-srd.vLA0q0WOK2YPuJs6]{Charme}</em>, sauf qu'elle n'obtient pas de bonus à son jet de sauvegarde si le seul acte hostile a été le tir à l'arc du pixie et le pixie peut choisir de rediriger l'adoration de la cible vers une autre créature au lieu de lui-même.</li>
+<li><strong>Perte de mémoire</strong> @Check[type:will|dc:21|traits:divination,mental]{Volonté} DD 21 (divination, mental) En cas d'éche au jet de Volonté, la cible perd les 5 dernières minutes de sa mémoire.</li>
+<li><strong>Sommeil</strong> @Check[type:will|dc:21|traits:enchantment,incapacitation,mental,sleep]{Volonté} DD 21 (enchantement, mental, mise hors de combat, sommeil) LA cible souffre des effets d'un sort de <em>@Compendium[pf2e.spells-srd.o4lRVTwSxnOOn5vl]{Sommeil}</em> au niveau 3.</li>
+<li><strong>Soumission</strong> @Check[type:will|dc:21|basic:true|traits:enchantment,mental,nonlethal]{Volonté basique} DD 21 (enchantement, mental, non-létal) La cible subit [[/r {4d6}[mental]]]{4d6 dégâts mentaux}, en fonction de son jet de Volonté basique.</li>
+</ul>
