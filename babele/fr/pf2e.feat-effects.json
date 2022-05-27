@@ -59,7 +59,7 @@
         {
             "id": "Effect: Blade Ally Unholy Rune",
             "name": "Effet : Allié lame rune Impie",
-            "description": "<p>Une rune impie injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige [[/r {1d6}[evil]]]{1d6 dégâts mauvais }supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre ;</p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong>  Vous obtenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon</p>\n<p><strong>Effet</strong> La cible subit un montant de [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d8 dégâts de saignement persistants} par dé de dégâts d’arme de l’arme gravée.</p>"
+            "description": "<p>Une rune impie injecte de l’énergie fiélone dans l’arme gravée. Une arme avec cette rune inflige [[/r {1d6}[evil]]]{1d6 dégâts mauvais }supplémentaires quand elle touche une cible d’alignement bon. Si vous êtes d’alignement bon, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> sur ordre ;</p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong>  Vous obtenez un succès critique sur un jet d’attaque avec cette arme contre une créature d’alignement bon</p>\n<p><strong>Effet</strong> La cible subit un montant de [[/r {1d8}[persistent,bleed]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{1d8 dégâts de saignement persistants} par dé de dégâts d’arme de l’arme gravée.</p>"
         },
         {
             "id": "Effect: Lost in the Crowd (10 Creatures)",
@@ -124,7 +124,7 @@
         {
             "id": "Effect: Blade Ally Disrupting Rune",
             "name": "Effet : Allié lame rune Pertubatrice",
-            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts-vivants. En cas de coup critique, le mort-vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour.</p>"
+            "description": "<p>Une arme perturbatrice bouillonne d’énergie positive en infligeant [[/r {1d6}[positive]]]{1d6 dégâts positifs} supplémentaires aux morts-vivants. En cas de coup critique, le mort-vivant est également @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} jusqu’à la fin de votre prochain tour.</p>"
         },
         {
             "id": "Stance: Ironblood Stance",
@@ -309,7 +309,7 @@
         {
             "id": "Effect: Blade Ally Disrupting Rune (Greater)",
             "name": "Effet : Allié lame Pertubatrice supérieure",
-            "description": "<p>Une arme perturbatrice pulse d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts-vivants. En cas de coup critique, le mort-vivant doit faire un jet de @Check[type:fortitude|dc:34|name:perturbatrice supérieure]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<hr />\n<p><strong>Succès critique</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 1 jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 3} jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
+            "description": "<p>Une arme perturbatrice pulse d’énergie positive en infligeant [[/r {2d6}[positive]]]{2d6 dégâts positifs supplémentaires} aux morts-vivants. En cas de coup critique, le mort-vivant doit faire un jet de @Check[type:fortitude|dc:34|name:perturbatrice supérieure]{Vigueur DD 34} avec les effets suivants. Il s’agit d’un effet de mise hors de combat.</p>\n<hr />\n<p><strong>Succès critique</strong>  Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Succès</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} jusqu’à la fin de votre prochain tour. </p>\n<p><strong>Échec</strong> Il est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 3} jusqu’à la fin de votre prochain tour.</p>\n<p><strong>Échec critique</strong> Il est détruit.</p>"
         },
         {
             "id": "Stance: Jellyfish Stance",
@@ -389,7 +389,7 @@
         {
             "id": "Stance: Vitality-Manipulation Stance",
             "name": "Posture : Posture de manipulation de la vitalité",
-            "description": "<p>Vous avez appris à attaquer les méridiens et les points de pression comme votre rival Shino Hakusa. Vous gagnez une Frappe à mains nues à distance d'explosion de vitalité qui inflige [[/r {1d4}[negative]]]{1d4 dégâts négatifs}, a une portée de 9 mètres et possède les traits à mains nues et polyvalent positif.</p>\n<p>En outre, lorsque vous utilisez Poing étourdissant, au lieu d'effectuer un jet de sauvegarde contre l'effet d'étourdissement, vous pouvez faire le choix d'mposer à la cible d'effectuer un jet de Vigueur contre votre DD de classe avec les résultats suivants. Vous devez choisir de le faire avant que la cible ne lance son jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Les muscles de la cible deviennent temporairement plus faibles. Pendant 1 round, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2, et chaque fois qu'elle tente d'entreprendre une action avec le trait manipulation, l'action est interrompue à moins qu'elle ne réussisse un test nu avec un DD égal à 5 + sa valeur Affaiblie.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> Comme en cas de succès, mais la durée est de 1 minute, le DD du test nu est de 11 et la cible subit une pénalité de statut de -3 mètres à toutes les Vitesses pendant la durée.</p>"
+            "description": "<p>Vous avez appris à attaquer les méridiens et les points de pression comme votre rival Shino Hakusa. Vous gagnez une Frappe à mains nues à distance d'explosion de vitalité qui inflige [[/r {1d4}[negative]]]{1d4 dégâts négatifs}, a une portée de 9 mètres et possède les traits à mains nues et polyvalent positif.</p>\n<p>En outre, lorsque vous utilisez Poing étourdissant, au lieu d'effectuer un jet de sauvegarde contre l'effet d'étourdissement, vous pouvez faire le choix d'mposer à la cible d'effectuer un jet de Vigueur contre votre DD de classe avec les résultats suivants. Vous devez choisir de le faire avant que la cible ne lance son jet de sauvegarde.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> Les muscles de la cible deviennent temporairement plus faibles. Pendant 1 round, la cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2}, et chaque fois qu'elle tente d'entreprendre une action avec le trait manipulation, l'action est interrompue à moins qu'elle ne réussisse un test nu avec un DD égal à 5 + sa valeur Affaiblie.</p>\n<p><strong>Échec</strong> Comme en cas de succès, mais la durée est de 1 minute.</p>\n<p><strong>Échec critique</strong> Comme en cas de succès, mais la durée est de 1 minute, le DD du test nu est de 11 et la cible subit une pénalité de statut de -3 mètres à toutes les Vitesses pendant la durée.</p>"
         },
         {
             "id": "Effect: Blizzard Evasion",
@@ -399,7 +399,7 @@
         {
             "id": "Effect: Blade Ally Fearsome Rune",
             "name": "Effet : Allié lame rune Effrayante",
-            "description": "<p>Lorsque vous obtenez un coup critique, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 1.</p>"
+            "description": "<p>Lorsque vous obtenez un coup critique, la cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 1}.</p>"
         },
         {
             "id": "Effect: Eye of the Arclords",
@@ -504,7 +504,7 @@
         {
             "id": "Effect: Dread Marshal Stance",
             "name": "Posture : Posture du terrible Capitaine",
-            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.R7c4PyTNkZb0yvoT]{Posture du terrible Capitaine}</p>\n<p>Your marshal's aura grants you and allies a status bonus to damage rolls equal to the number of weapon damage dice of the unarmed attack or weapon you are wielding that has the most weapon damage dice. When you or an ally in the aura critically hits an enemy with a Strike, that enemy is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\nVotre @Compendium[pf2e.feat-effects.KBEJVRrie2JTHWIK]{Aura de Capitaine} vous accorde ainsi qu'à vos alliés un bonus de statut aux jets de dégâts égal au nombre de dés de dégâts de l'attaque à mains nues ou de l'arme que vous maniez qui possède le plus de dés de dégâts d'arme. Lorsque vous ou un allié dans l'aura portez une Frappe critique contre un ennemi, celui-ci est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé} 1.</p>"
+            "description": "<p>Accordé par @Compendium[pf2e.feats-srd.R7c4PyTNkZb0yvoT]{Posture du terrible Capitaine}</p>\n<p>Your marshal's aura grants you and allies a status bonus to damage rolls equal to the number of weapon damage dice of the unarmed attack or weapon you are wielding that has the most weapon damage dice. When you or an ally in the aura critically hits an enemy with a Strike, that enemy is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\nVotre @Compendium[pf2e.feat-effects.KBEJVRrie2JTHWIK]{Aura de Capitaine} vous accorde ainsi qu'à vos alliés un bonus de statut aux jets de dégâts égal au nombre de dés de dégâts de l'attaque à mains nues ou de l'arme que vous maniez qui possède le plus de dés de dégâts d'arme. Lorsque vous ou un allié dans l'aura portez une Frappe critique contre un ennemi, celui-ci est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayé 1}.</p>"
         },
         {
             "id": "Effect: Flamboyant Cruelty",
@@ -684,7 +684,7 @@
         {
             "id": "Effect: Blade Ally Holy Rune",
             "name": "Effet : Allié lame rune Sainte",
-            "description": "<p>Les armes Saintes manipulent la redoutable énergie des célestes. Une arme avec cette rune inflige [[/r {1d6}[good]]]{1d6 dégâts bons} supplémentaires aux cibles d’alignement mauvais. Si vous êtes d’alignement mauvais, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Sur ordre </p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès critique sur votre jet d’attaque avec cette arme contre une créature d’alignement mauvais</p>\n<p><strong>Effet</strong> Vous récupérez un montant de PV égal au double du niveau de la créature d’alignement mauvais. Il s’agit d’un effet bon, de guérison et positif.</p>"
+            "description": "<p>Les armes Saintes manipulent la redoutable énergie des célestes. Une arme avec cette rune inflige [[/r {1d6}[good]]]{1d6 dégâts bons} supplémentaires aux cibles d’alignement mauvais. Si vous êtes d’alignement mauvais, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} tant que vous portez ou maniez cette arme.</p>\n<p><strong>Activation</strong> <span class=\"pf2-icon\">R</span> Sur ordre </p> \n<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous obtenez un succès critique sur votre jet d’attaque avec cette arme contre une créature d’alignement mauvais</p>\n<p><strong>Effet</strong> Vous récupérez un montant de PV égal au double du niveau de la créature d’alignement mauvais. Il s’agit d’un effet bon, de guérison et positif.</p>"
         },
         {
             "id": "Effect: Current Spell (Water)",
@@ -874,7 +874,7 @@
         {
             "id": "Effect: Blade Ally Axiomatic Rune",
             "name": "Effet : Allié lame rune Axiomatique",
-            "description": "<p>Complexe et symétrique, une rune axiomatique imprègne une arme d’énergie loyale. Une arme avec cette rune inflige 1d6 dégâts loyaux supplémentaires aux cibles d’alignement chaotique. Si vous êtes d’alignement chaotique, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un coup critique sur un jet d’attaque avec cette arme contre une créature d’alignement chaotique, au lieu de faire un jet de dégâts, considérez que chaque dé de dégâts de l’arme donne un résultat moyen arrondi au supérieur (3 pour un d4, 4 pour un d6, 5 pour un d8, 7 pour un d12).</p>"
+            "description": "<p>Complexe et symétrique, une rune axiomatique imprègne une arme d’énergie loyale. Une arme avec cette rune inflige 1d6 dégâts loyaux supplémentaires aux cibles d’alignement chaotique. Si vous êtes d’alignement chaotique, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un coup critique sur un jet d’attaque avec cette arme contre une créature d’alignement chaotique, au lieu de faire un jet de dégâts, considérez que chaque dé de dégâts de l’arme donne un résultat moyen arrondi au supérieur (3 pour un d4, 4 pour un d6, 5 pour un d8, 7 pour un d12).</p>"
         },
         {
             "id": "Effect: Crimson Shroud",
@@ -889,7 +889,7 @@
         {
             "id": "Effect: Blade Ally Anarchic Rune",
             "name": "Effet : Allié lame rune Anarchique",
-            "description": "<p>Une rune anarchique, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur 1 ou 2, vous infligez le double des dégâts minimums ; sur 3 ou 4, doublez les dégâts normalement ; sur 5 ou 6, vous infligez le double des dégâts maximums.</p>"
+            "description": "<p>Une rune anarchique, asymétrique et aux bords déchiquetés, canalise de l’énergie chaotique. Une arme avec cette rune inflige 1d6 dégâts chaotiques supplémentaires aux cibles d’alignement loyal. Si vous êtes d’alignement loyal, vous êtes @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} tant que vous portez ou maniez cette arme.</p>\n<p>Quand vous obtenez un succès critique en Frappant une créature d’alignement loyal avec cette arme, lancez 1d6. Sur 1 ou 2, vous infligez le double des dégâts minimums ; sur 3 ou 4, doublez les dégâts normalement ; sur 5 ou 6, vous infligez le double des dégâts maximums.</p>"
         },
         {
             "id": "Effect: Blade Ally Ghost Touch Rune",

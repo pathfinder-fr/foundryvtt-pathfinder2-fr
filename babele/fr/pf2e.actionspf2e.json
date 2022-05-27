@@ -549,7 +549,7 @@
         {
             "id": "Blizzard Evasion",
             "name": "Évasion du blizzard",
-            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous subissez 40 dégâts physiques ou plus, d'une unique attaque</p>\n<p><strong>Effet</strong> Vous vous transformez en un blizzard tourbillonnant pendant 3 rounds. Pendant ce temps, vous gagnez une résistance de 10 aux dégâts physiques et une faiblesse de 10 aux dégâts de force. Vous gagnez une vitesse de vol de 12 mètres, mais la seule action que vous pouvez entreprendre est de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}. La première fois par round où vous entrez dans l'espace d'une autre créature alors que vous êtes transformé ou la première fois qu'une créature entre dans votre case, cette créature subit [[/r {4d8}[cold]]]{4d8 dégâts de froid} et doit réussir un jet de Vigueur contre le plus élevé entre votre DD de classe ou votre DD de sort sous peine d'être @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} 1. Au début de votre tour, vous pouvez mettre fin à cet effet par une action libre.</p>\n<p>@Compendium[pf2e.feat-effects.JF2xCqL6t4UJZtUi]{Effet : Évasion du blizzard}</p>"
+            "description": "<p><strong>Fréquence</strong> une fois par jour</p>\n<p><strong>Déclencheur</strong> Vous subissez 40 dégâts physiques ou plus, d'une unique attaque</p>\n<p><strong>Effet</strong> Vous vous transformez en un blizzard tourbillonnant pendant 3 rounds. Pendant ce temps, vous gagnez une résistance de 10 aux dégâts physiques et une faiblesse de 10 aux dégâts de force. Vous gagnez une vitesse de vol de 12 mètres, mais la seule action que vous pouvez entreprendre est de @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Voler}. La première fois par round où vous entrez dans l'espace d'une autre créature alors que vous êtes transformé ou la première fois qu'une créature entre dans votre case, cette créature subit [[/r {4d8}[cold]]]{4d8 dégâts de froid} et doit réussir un jet de Vigueur contre le plus élevé entre votre DD de classe ou votre DD de sort sous peine d'être @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie 1}. Au début de votre tour, vous pouvez mettre fin à cet effet par une action libre.</p>\n<p>@Compendium[pf2e.feat-effects.JF2xCqL6t4UJZtUi]{Effet : Évasion du blizzard}</p>"
         },
         {
             "id": "Dream Research",
@@ -629,7 +629,7 @@
         {
             "id": "Threatening Approach",
             "name": "Approche menaçante",
-            "description": "<p>Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser}. Si vous réussissez, la créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2 au lieu d’Effrayée 1.</p>"
+            "description": "<p>Vous Marchez rapidement jusqu'à être adjacent à une créature et tentez de la @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Démoraliser}. Si vous réussissez, la créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} au lieu d’Effrayée 1.</p>"
         },
         {
             "id": "Beast's Charge",
@@ -709,7 +709,7 @@
         {
             "id": "Debilitating Strike",
             "name": "Frappe incapacitante",
-            "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p>\n<hr />\n<p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p>\n<ul>\n<li><strong>Handicap</strong> La cible reçoit un malus de statut de -3 m à ses Vitesses.</li>\n<li><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 1.</li>\n</ul>\n<p>@Compendium[pf2e.feature-effects.yBTASi3FvnReAwHy]{Effet : Frappe débilitante}</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature prise au dépourvu et lui infligez des dégâts.</p>\n<hr />\n<p>La créature reçoit l’un des handicaps suivants, qui dure jusqu’à la fin de votre prochain tour.</p>\n<ul>\n<li><strong>Handicap</strong> La cible reçoit un malus de statut de -3 m à ses Vitesses.</li>\n<li><strong>Handicap</strong> La cible devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1}.</li>\n</ul>\n<p>@Compendium[pf2e.feature-effects.yBTASi3FvnReAwHy]{Effet : Frappe débilitante}</p>"
         },
         {
             "id": "Recall Ammunition",
@@ -829,7 +829,7 @@
         {
             "id": "Jinx",
             "name": "Maudire",
-            "description": "<p><strong>Fréquence </strong>une fois par jour</p>\n<hr />\n<p>Vous pouvez maudire une autre créature pour la rendre maladroite. Cette malédiction possède une portée de 9 m et vous devez être capable de voir votre cible. La cible obtient un jet de sauvegarde pour résister à cette malédiction, en utilisant le plus élevé entre votre DD de classe ou votre DD de sort.</p>\n<hr />\n<p><strong>Succès</strong> la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 heures.</p>\n<p><strong>Échec</strong> la cible est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite} 1 pendant 1 minute.</p>\n<p><strong>Échec critique</strong> La cible est Maladroite 2 pendant 1 minute.</p>"
+            "description": "<p><strong>Fréquence </strong>une fois par jour</p>\n<hr />\n<p>Vous pouvez maudire une autre créature pour la rendre maladroite. Cette malédiction possède une portée de 9 m et vous devez être capable de voir votre cible. La cible obtient un jet de sauvegarde pour résister à cette malédiction, en utilisant le plus élevé entre votre DD de classe ou votre DD de sort.</p>\n<hr />\n<p><strong>Succès</strong> la cible n'est pas affectée est est immunisée de manière temporaire pendant 24 heures.</p>\n<p><strong>Échec</strong> la cible est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite 1} pendant 1 minute.</p>\n<p><strong>Échec critique</strong> La cible est @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite 2} pendant 1 minute.</p>"
         },
         {
             "id": "Clue In",
@@ -859,7 +859,7 @@
         {
             "id": "Glimpse of Redemption",
             "name": "Lueur de rédemption",
-            "description": "<p><strong>Déclencheur</strong> Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.</p>\n<hr />\n<p>L’ennemi vacille sous le poids de son pêché alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :</p>\n<ul>\n<li>Les dégâts déclencheurs ne blessent par votre allié.</li>\n<li>L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli} 2 jusqu’à la fin de son prochain tour.</li>\n</ul>"
+            "description": "<p><strong>Déclencheur</strong> Un ennemi inflige des dégâts à votre allié et les deux sont à 4,50 m ou moins de vous.</p>\n<hr />\n<p>L’ennemi vacille sous le poids de son pêché alors que des visions de rédemption défilent dans sa tête. Il doit choisir l’une des options suivantes :</p>\n<ul>\n<li>Les dégâts déclencheurs ne blessent par votre allié.</li>\n<li>L’allié gagne une résistance à tous les dégâts contre les dégâts déclencheurs égale à 2 + votre niveau. Après application de l’effet infligeant des dégâts, l’ennemi devient @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} jusqu’à la fin de son prochain tour.</li>\n</ul>"
         },
         {
             "id": "Sense Motive",
@@ -944,7 +944,7 @@
         {
             "id": "Master Strike",
             "name": "Frappe de maître",
-            "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} et lui infligez des dégâts.</p>\n<hr />\n<p>La cible fait un jet de Vigueur contre votre DD de classe. Elle devient temporairement immunisée à votre Frappe de maître pour 1 journée.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie} 2 jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 4 rounds.</p>\n<p><strong>Échec critique</strong> La cible est Paralysée pendant 4 rounds, se trouve dans l'état @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} pendant 2 heures ou est tuée (à vous de décider).</p>"
+            "description": "<p><strong>Déclencheur</strong> Vous réussissez une Frappe contre une créature @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Prise au dépourvu} et lui infligez des dégâts.</p>\n<hr />\n<p>La cible fait un jet de Vigueur contre votre DD de classe. Elle devient temporairement immunisée à votre Frappe de maître pour 1 journée.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible n'est pas affectée.</p>\n<p><strong>Succès</strong> La cible est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} jusqu'à la fin de votre prochain tour.</p>\n<p><strong>Échec</strong> La cible est @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralysée} pendant 4 rounds.</p>\n<p><strong>Échec critique</strong> La cible est Paralysée pendant 4 rounds, se trouve dans l'état @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconscient} pendant 2 heures ou est tuée (à vous de décider).</p>"
         },
         {
             "id": "Retributive Strike",
@@ -1284,7 +1284,7 @@
         {
             "id": "Demoralize",
             "name": "Démoraliser",
-            "description": "<p>Vous pouvez ébranler la détermination d’un ennemi en poussant un cri soudain, en formulant un sarcasme au moment opportun ou en lâchant une insulte mordante. Désignez une créature située à 9 m ou moins de vous et dont vous percevez la présence. Effectuez un test d’<span data-pf2-action=\"demoralize\" data-pf2-glyph=\"A\">Intimidation</span> contre le DD de Volonté de cette cible. Si elle ne comprend pas la langue que vous parlez, si vous ne parlez pas ou si elle ne peut pas vous entendre, vous subissez un malus de circonstances de −4 au test. Quel que soit le résultat, la cible est temporairement immunisée contre vos tentatives pour la Démoraliser pendant dix minutes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} 2.</p>\n<p><strong>Succès</strong> La cible devient Effrayée 1.</p>"
+            "description": "<p>Vous pouvez ébranler la détermination d’un ennemi en poussant un cri soudain, en formulant un sarcasme au moment opportun ou en lâchant une insulte mordante. Désignez une créature située à 9 m ou moins de vous et dont vous percevez la présence. Effectuez un test d’<span data-pf2-action=\"demoralize\" data-pf2-glyph=\"A\">Intimidation</span> contre le DD de Volonté de cette cible. Si elle ne comprend pas la langue que vous parlez, si vous ne parlez pas ou si elle ne peut pas vous entendre, vous subissez un malus de circonstances de −4 au test. Quel que soit le résultat, la cible est temporairement immunisée contre vos tentatives pour la Démoraliser pendant dix minutes.</p>\n<hr />\n<p><strong>Succès critique</strong> La cible devient @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2}.</p>\n<p><strong>Succès</strong> La cible devient@Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 1}.</p>"
         },
         {
             "id": "Affix a Fulu",
@@ -1334,7 +1334,7 @@
         {
             "id": "Fight with Fear",
             "name": "Combattre avec la peur",
-            "description": "<p><strong>Déclencheur</strong> Une créature que vous pouvez voir utilise un effet mental contre vous</p>\n<p><strong>Effet</strong> La créature déclencheuse doit tenter un jet de Volonté qui a les effets suivants.</p>\n<hr />\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} et vous obtenez un bonus de statut de +2 à votre jet de sauvegarde ou de tout autre défense contre l'effet mental déclencheur.</p>\n<p><strong>Échec critique</strong> La créature est Effrayée 2 et vous n'êtes pas affectée par l'effet mental déclencheur.</p>"
+            "description": "<p><strong>Déclencheur</strong> Une créature que vous pouvez voir utilise un effet mental contre vous</p>\n<p><strong>Effet</strong> La créature déclencheuse doit tenter un jet de Volonté qui a les effets suivants.</p>\n<hr />\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} et vous obtenez un bonus de statut de +2 à votre jet de sauvegarde ou de tout autre défense contre l'effet mental déclencheur.</p>\n<p><strong>Échec critique</strong> La créature est@Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} et vous n'êtes pas affectée par l'effet mental déclencheur.</p>"
         },
         {
             "id": "Recall Knowledge (Crafting)",

@@ -117,7 +117,8 @@
         {
             "id": "Water Wisp",
             "name": "Volute de l'Eau",
-            "description": "<p>Les volutes sont de minuscules êtres élémentaires apparus lors de la création des plans élémentaires. Les premières volutes parcouraient la sphère intérieure en symphonies changeantes qui échangeaient des membres à chaque rencontre. Ces symphonies de volutes libres créaient de la musique à partir de leurs résonances combinées, mais lorsque les seigneurs élémentaires maléfiques ont réalisé la valeur de la résonance des volutes, ils ont capturé des symphonies entières pour les utiliser comme serviteurs.</p>\n<p>Les volutes s'accordent entre elles et avec ceux qui les entourent. Cette syntonisation fait d'elles des alliées naturellement solidaires. Les volutes libres errent toujours dans la sphère intérieure et le plan matériel mais elles sont généralement timides et se cachent des étrangers. Cependant, elles offrent volontiers leurs services à ceux qui leur témoignent de la gentillesse. Elles sont particulièrement attirées par les lanceurs de sorts qui pratiquent la magie élémentaire ; ces volutes observent généralement de loin mais s'approchent parfois de ceux qui semblent sûrs pour devenir des familiers ou des compagnons.</p>\n<p>Les volutes libres qui se retrouvent deviennent proches presque immédiatement. Elles sont particulièrement enthousiastes lorsqu'elles trouvent des volutes d'autres éléments que le leur, sans manifester l'animosité que certains élémentaires manifestent envers d'autres types. Au contraire, elles se joignent dans une danse fébrile, émettant des résonances qui font faiblement écho aux symphonies des temps anciens.</p>\n<p>Les volutes de l'Eau sont des sphères nageuses de mousse et d'eau, qui bourdonnent perpétuellement avec un mélange de sons doux. Elles sont doux, nourricières et promptes à aider quiconque est dans le besoin.</p>"
+            "description": "<p>Les volutes sont de minuscules êtres élémentaires apparus lors de la création des plans élémentaires. Les premières volutes parcouraient la sphère intérieure en symphonies changeantes qui échangeaient des membres à chaque rencontre. Ces symphonies de volutes libres créaient de la musique à partir de leurs résonances combinées, mais lorsque les seigneurs élémentaires maléfiques ont réalisé la valeur de la résonance des volutes, ils ont capturé des symphonies entières pour les utiliser comme serviteurs.</p>\n<p>Les volutes s'accordent entre elles et avec ceux qui les entourent. Cette syntonisation fait d'elles des alliées naturellement solidaires. Les volutes libres errent toujours dans la sphère intérieure et le plan matériel mais elles sont généralement timides et se cachent des étrangers. Cependant, elles offrent volontiers leurs services à ceux qui leur témoignent de la gentillesse. Elles sont particulièrement attirées par les lanceurs de sorts qui pratiquent la magie élémentaire ; ces volutes observent généralement de loin mais s'approchent parfois de ceux qui semblent sûrs pour devenir des familiers ou des compagnons.</p>\n<p>Les volutes libres qui se retrouvent deviennent proches presque immédiatement. Elles sont particulièrement enthousiastes lorsqu'elles trouvent des volutes d'autres éléments que le leur, sans manifester l'animosité que certains élémentaires manifestent envers d'autres types. Au contraire, elles se joignent dans une danse fébrile, émettant des résonances qui font faiblement écho aux symphonies des temps anciens.</p>\n<p>Les volutes de l'Eau sont des sphères nageuses de mousse et d'eau, qui bourdonnent perpétuellement avec un mélange de sons doux. Elles sont doux, nourricières et promptes à aider quiconque est dans le besoin.</p>",
+            "senses": "vision dans le noir, vision dans la brume"
         },
         {
             "id": "Mi-Go",
@@ -2853,6 +2854,11 @@
             "items-description": ""
         },
         {
+            "id": "k1FCB3wNkyv3rnly",
+            "name": "Vortex",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:60]{18 m}</p>\n<hr />\n<p>L'eau dans la zone qui est dans la même étendue d'eau que le dragon est un terrain difficile pour les créatures qui nagent et qui n'ont pas le trait eau.</p>"
+        },
+        {
             "id": "X9vCwZ0X1VwQW8K8",
             "name": "Télépathie",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
@@ -2891,6 +2897,11 @@
             "id": "kpB9dRBV5LWoW0uG",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "jJhnamZnamA8Kqcr",
+            "name": "Inspiration",
+            "items-description": "<p>Une souveraine hespéride peut inspirer une unique créature intelligente en lui donnant un témoignage de ses faveurs, généralement une boucle de ses cheveux. Tant que cette créature porte ce don sur elle, et reste en bon terme avec la souveraine, elle gagne un bonus de statut de +1 à tous ses tests d’Artisanat et de Représentation ainsi qu’à ses jets de Volonté.</p>\n<p>Si une souveraine hespéride accorde Inspiration à un barde et qu’elle est sa muse, il gagne un avantage supplémentaire en fonction du thème de sa muse : pour une muse de connaissance, le barde gagne aussi un bonus de statut de +1 à tous ses tests de Connaissance ; pour une muse de virtuose, le bonus de statut aux tests de Représentation est de +2 pour déterminer les effets des compositions ; pour une muse touche-à-tout, le barde gagne un bonus de statut de +4 pour ses tests de compétence inexpérimentée ; et pour toutes les autres muses, le bonus du jet de Volonté est de +2 contre les fées.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.iSyyR4QVOaY6mxtg]{Effet : Inspiration de la souveraine hespéride}</p>"
         },
         {
             "id": "iK81tvrAddbR20xS",
@@ -3026,6 +3037,11 @@
             "id": "8JO7dr59w8qgOjKx",
             "name": "Fronde",
             "items-description": ""
+        },
+        {
+            "id": "tIfOPFhPgTuh1BTH",
+            "name": "Focaliser la beauté",
+            "items-description": "<p>La souveraine hespéride focalise sa beauté sur une cible dans son aura. La créature doit tenter une jet de Volonté.</p>\n<p>En cas d'échec, elle est affectée comme si elle l'était pas l'aura de beauté de la nymphe de la souveraine hespéride ; si elle était déjà affectée par l'aura, la cible est submergé par des visions de félicité et de beauté. La créature quitte le domaine de la reine des hespéridés aussi rapidement et efficacement qu'elle le peut pendant 1 heure, après quoi elle oublie avoir atteint le domaine de la reine des hespéridés, comment elle l'a fait et tout ce qui s'est passé pendant qu'elle était dans le domaine.</p>\n<p>Une souveraine hespéride peut Focaliser sa beauté sur une unique créature lors de chaque tour.</p>"
         },
         {
             "id": "v9Q0Mz13HzloiDTp",
@@ -4286,6 +4302,11 @@
             "id": "3eyaSs1hwilHo39q",
             "name": "Présence terrifiante",
             "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:90]{27 mètres} (@Check[type:will|dc:30]{Volonté} DD 30)</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
+        },
+        {
+            "id": "OVSlgyyPCXu7c3xF",
+            "name": "Liée à la région",
+            "items-description": "<p>Une souveraine lampade est intimement liée à une région souterraine telle qu’un réseau de caverne. Tant que la souveraine est en bonne santé, l’environnement est exceptionnellement vigoureux ce qui permet à la souverainelampade de tenter automatiquement de contrer des sorts et des rituels tels que <em>@Compendium[pf2e.spells-srd.7yWXx3qC4eFNHhxD]{Flétrissement végétal}</em> qui nuiraient à l’environnement. avec un modificateur de contre égal égal à [[/r 1d20+30]] et un niveau de contre de 8.</p>\n<p>Quand la souveraine lampade est malade physiquement ou psychologiquement, cependant, la région qu’elle protège finit elle aussi par devenir malade et pervertie. Dans ce cas, guérir la souveraine permet de soigner rapidement toute la région.</p>"
         },
         {
             "id": "F9OvUrIH2XqsqnGm",
@@ -5658,6 +5679,11 @@
             "items-description": "<p>Griffe</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
         },
         {
+            "id": "43AUXc5WoGyh1pKT",
+            "name": "Tremper",
+            "items-description": "<p>La volute de l'eau éteint tous les feux dans une unique case de 1,5 m.</p>\n<p>Elle éteint tous les feux non magiques automatiquement et tente de contrer les feux magiques (modificateur de contre [[/r 1d20+6 #Tremper]]{+6}).</p>"
+        },
+        {
             "id": "cdmwwMzpk0Bsc4Jg",
             "name": "Mâchoires",
             "items-description": ""
@@ -6406,6 +6432,11 @@
             "id": "vhL7f1KV4YaXn5FV",
             "name": "Vision dans le noir",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "kBDJMZfYLZGg2GJL",
+            "name": "Liée à la région",
+            "items-description": "<p>Une souveraine héspéride est intimement liée à une région isolée telle qu’une île ou une chaine d'île. Tant que la souveraine est en bonne santé, l’environnement est exceptionnellement vigoureux ce qui permet à la souverainelampade de tenter automatiquement de contrer des sorts et des rituels tels que <em>@Compendium[pf2e.spells-srd.7yWXx3qC4eFNHhxD]{Flétrissement végétal}</em> qui nuiraient à l’environnement. avec un modificateur de contre égal égal à [[/r 1d20+37]] et un niveau de contre de 10.</p>\n<p>Quand la souveraine hespéride est malade physiquement ou psychologiquement, cependant, la région qu’elle protège finit elle aussi par devenir malade et pervertie. Dans ce cas, guérir la souveraine permet de soigner rapidement toute la région.</p>"
         },
         {
             "id": "pnaFRppT92BaCHjj",
@@ -7558,6 +7589,11 @@
             "items-description": ""
         },
         {
+            "id": "SJuP1UUYQyfDvJtr",
+            "name": "Inspiration",
+            "items-description": "<p>Une souveraine lampade peut inspirer une unique créature intelligente en lui donnant un témoignage de ses faveurs, généralement une boucle de ses cheveux. Tant que cette créature porte ce don sur elle, et reste en bon terme avec la souveraine, elle gagne un bonus de statut de +1 à tous ses tests d’Artisanat et de Représentation ainsi qu’à ses jets de Volonté.</p>\n<p>Si une souveraine lampade accorde Inspiration à un barde et qu’elle est sa muse, il gagne un avantage supplémentaire en fonction du thème de sa muse : pour une muse de connaissance, le barde gagne aussi un bonus de statut de +1 à tous ses tests de Connaissance ; pour une muse de virtuose, le bonus de statut aux tests de Représentation est de +2 pour déterminer les effets des compositions ; pour une muse touche-à-tout, le barde gagne un bonus de statut de +4 pour ses tests de compétence inexpérimentée ; et pour toutes les autres muses, le bonus du jet de Volonté est de +2 contre les fées.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.iSyyR4QVOaY6mxtg]{Effet : Inspiration de la souveraine lampade}</p>"
+        },
+        {
             "id": "wzhDzF6I1V67YTEq",
             "name": "Vision nocturne",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
@@ -7586,6 +7622,11 @@
             "id": "46M4PewZUpmrWn09",
             "name": "Épée longue",
             "items-description": ""
+        },
+        {
+            "id": "9Cf5HlYqqu2sA7jZ",
+            "name": "Vortex",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:40]{12 m}</p>\n<hr />\n<p>L'eau dans la zone qui est dans la même étendue d'eau que le dragon est un terrain difficile pour les créatures qui nagent et qui n'ont pas le trait eau.</p>"
         },
         {
             "id": "7qBjkooMOFnRW7Uy",
@@ -7736,6 +7777,11 @@
             "id": "wJ1vHRd41BTDplWu",
             "name": "Pique",
             "items-description": ""
+        },
+        {
+            "id": "RwZLO9txSGxmMHb3",
+            "name": "Focaliser la beauté",
+            "items-description": "<p>La souveraine lampade focalise sa beauté sur une cible dans son aura. La créature doit tenter une jet de Volonté.</p>\n<p>En cas d'échec, elle est affectée comme si elle l'était pas l'aura de beauté de la nymphe de la souveraine lampade ; si elle était déjà affectée par l'aura, les émotions contradictoires suscitées par la beauté de la reine lampade s'intensifient et la cible ne bénéficie plus d'un test nu pour mettre fin à la confusion lorsqu'elle subit des dégâts.</p>\n<p>La souveraine lampade peut utiliser une action unique qui a le trait concentration pour focaliser les émotions d'une créature confuse vers une émotion particulière provoquant la perte de son prochain tour, pleurnichant incontrôlablement, se pâmant devant la souveraine lampade ou accomplissant aucune autre action que de vivre ses émotions.</p>\n<p>Quel que soit le résultat du jet, la cible est temporairement immunisée à Focaliser la beauté jusqu'au début du prochain tour de la souveraine lampade.</p>"
         },
         {
             "id": "nmzcowdCvUQCrcqI",

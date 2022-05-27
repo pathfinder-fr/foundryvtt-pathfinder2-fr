@@ -12,6 +12,11 @@
             "description": "<p>La créature obtient un bonus de statut de +1 aux jets d'attaqueet un bonus de statut de +2 aux jets de dégâts.</p>"
         },
         {
+            "id": "Effect: Take Them Down!",
+            "name": "Effect: Take Them Down!",
+            "description": "<p>La créature obtient un bonus de statut de +1 à ses jets d’attaque et de dégâts.</p>"
+        },
+        {
             "id": "Effect: Uncanny Tinker",
             "name": "Effect: Uncanny Tinker",
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques.</p>"
@@ -47,6 +52,11 @@
             "description": "<p>La créature subit une pénalité de statut de -1 à la CA et aux jets de sauvegarde, réduit ses résistances de 2 et obtient une faiblesse aux dégâts du bien de 2.</p>"
         },
         {
+            "id": "Effect: Lantern of Hope (Gestalt)",
+            "name": "Effect: Lantern of Hope (Gestalt)",
+            "description": "<p>La créature obtient un bonus de statut de +3 à ses jets de dégâts et aux jets de sauvegarde contre <em>@Compendium[pf2e.spells-srd.GaRQlC9Yw1BGKHfN]{Désespoir foudroyant}</em>.</p>"
+        },
+        {
             "id": "Effect: Disturbing Vision",
             "name": "Effect: Disturbing Vision",
             "description": "<p>Les visions durent [[/br 1d4 #rounds]]{1d4 rounds} et tant qu'elles sont là, toutes les créatures mauvaises dans la zone obtiennent un bonus de statut de +1 à tous les jets.</p>"
@@ -55,6 +65,21 @@
             "id": "Effect: Rune of Smiting (Rock)",
             "name": "Effect: Rune of Smiting (Rock)",
             "description": "<p>Lorsque le rocher touche, le géant peut Pousser la cible de 3 mètres ou de 6 mètres en cas de coup critique.</p>"
+        },
+        {
+            "id": "Effect: Sylvan Wine",
+            "name": "Effect: Sylvan Wine",
+            "description": "<p>La créature obtient un bonus d'objet de +1 aux jets de Volonté et un bonus d'objet de +3 aux jets de Volonté contre les effets de peur.</p>"
+        },
+        {
+            "id": "Effect: Devour Soul",
+            "name": "Effect: Devour Soul",
+            "description": "<p>La créature obtient 10 pv temporaires et un bonus de statut de +2 aux jets d'attaque et de dégâts.</p>"
+        },
+        {
+            "id": "Effect: Soul Siphon",
+            "name": "Effect: Soul Siphon",
+            "description": "<p>la créature gagne 5 points de vie temporaires et un bonus de statut de +1 à ses jets d’attaque et de dégâts.</p>"
         },
         {
             "id": "Effect: Invigorating Passion",
@@ -100,6 +125,11 @@
             "id": "Effect: Feed",
             "name": "Effect: Feed",
             "description": "<p>La créature obtient un bonus de statut à ses tests et à ses DD en fonction de l'utilisation de sa capacité Alimentation.</p>"
+        },
+        {
+            "id": "Effect: Hydra Heads",
+            "name": "Effect: Hydra Heads",
+            "description": "<p>Le nombre de têtes que l'hydre possède actuellement.</p>"
         },
         {
             "id": "Effect: Protean Anatomy",
@@ -150,6 +180,11 @@
             "id": "Effect: Brutal Rally",
             "name": "Effect: Brutal Rally",
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaque.</p>"
+        },
+        {
+            "id": "Effect: Devour Soul (Victim Level 15 or Higher)",
+            "name": "Effect: Devour Soul (Victim Level 15 or Higher)",
+            "description": "<p>La créature obtient 10 pv temporaires et un bonus de statut de +2 aux jets d'attaque et de dégâts.</p>"
         },
         {
             "id": "Effect: Graveknight's Curse",

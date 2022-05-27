@@ -1,22 +1,42 @@
 # État de la traduction (spells)
 
  * **libre**: 571
- * **officielle**: 521
- * **changé**: 80
- * **aucune**: 4
+ * **officielle**: 519
+ * **changé**: 82
+ * **aucune**: 24
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
 
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
+|[abjuration-02-qFO9HgplrShoaAPY.htm](spells/abjuration-02-qFO9HgplrShoaAPY.htm)|Lock Item|
+|[abjuration-02-Tw9e2rPaNdxcM1Rp.htm](spells/abjuration-02-Tw9e2rPaNdxcM1Rp.htm)|Erase Trail|
+|[conjuration-03-SxRVCc1Q2MtVuPMo.htm](spells/conjuration-03-SxRVCc1Q2MtVuPMo.htm)|Sign of Conviction|
+|[divination-02-obVA6duK5fGbfFUY.htm](spells/divination-02-obVA6duK5fGbfFUY.htm)|Empathic Link|
 |[divination-03-DLFupJuCfzyLCQcO.htm](spells/divination-03-DLFupJuCfzyLCQcO.htm)|Eyes of the Dead|
+|[divination-04-a5uwCgOe7ayHPtHe.htm](spells/divination-04-a5uwCgOe7ayHPtHe.htm)|Enhance Senses|
+|[divination-04-kREpsv78anJpIiq2.htm](spells/divination-04-kREpsv78anJpIiq2.htm)|Detect Creator|
+|[enchantment-01-BQMEaeJiEFC1nepg.htm](spells/enchantment-01-BQMEaeJiEFC1nepg.htm)|Forced Mercy|
+|[enchantment-01-EeEgzWYcAY7ZQkS6.htm](spells/enchantment-01-EeEgzWYcAY7ZQkS6.htm)|Synchronize Steps|
+|[evocation-01-9Ga1AOQdHKYXUY4O.htm](spells/evocation-01-9Ga1AOQdHKYXUY4O.htm)|Purifying Icicle|
+|[evocation-01-xGFAGlonNySXrunq.htm](spells/evocation-01-xGFAGlonNySXrunq.htm)|Buffeting Winds|
+|[evocation-02-8Hw3P6eurX1MYm7L.htm](spells/evocation-02-8Hw3P6eurX1MYm7L.htm)|Dancing Shield|
+|[evocation-03-ZJOQBqkNErZu1QAa.htm](spells/evocation-03-ZJOQBqkNErZu1QAa.htm)|Wall of Virtue|
+|[evocation-04-5LGDygjRxURUOKGR.htm](spells/evocation-04-5LGDygjRxURUOKGR.htm)|Radiant Beam|
+|[evocation-05-9bOqFkewRz7Z3HZ5.htm](spells/evocation-05-9bOqFkewRz7Z3HZ5.htm)|Scouring Pulse|
+|[evocation-06-mtxMpGWpwwWSbySj.htm](spells/evocation-06-mtxMpGWpwwWSbySj.htm)|For Love, For Lightning|
 |[necromancy-01-4bFxUA59xeq6Snhw.htm](spells/necromancy-01-4bFxUA59xeq6Snhw.htm)|Hallowed Ground|
 |[necromancy-03-Cd6Crl4wpQaMSYrF.htm](spells/necromancy-03-Cd6Crl4wpQaMSYrF.htm)|Subjugate Undead|
+|[necromancy-03-M9TiCE1vlG1j2faM.htm](spells/necromancy-03-M9TiCE1vlG1j2faM.htm)|Martyr's Intervention|
+|[necromancy-03-vvbS69EHZuUTq0dr.htm](spells/necromancy-03-vvbS69EHZuUTq0dr.htm)|Life Pact|
 |[necromancy-06-Z82DvtSXafPmh4KV.htm](spells/necromancy-06-Z82DvtSXafPmh4KV.htm)|Shambling Horror|
+|[transmutation-03-8OWA91bgm5r6QPaH.htm](spells/transmutation-03-8OWA91bgm5r6QPaH.htm)|Dividing Trench|
+|[transmutation-03-DgNOpb8H9MTAu9KL.htm](spells/transmutation-03-DgNOpb8H9MTAu9KL.htm)|Consecrate Flesh|
+|[transmutation-05-92JNBuY5pfFmywOd.htm](spells/transmutation-05-92JNBuY5pfFmywOd.htm)|Desperate Repair|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 
@@ -52,6 +72,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-01-IkS3lDGUpIOMug7v.htm](spells/enchantment-01-IkS3lDGUpIOMug7v.htm)|Faerie Dust|Poussière féerique|changé|
 |[enchantment-01-VACvA5VRbddjt5s9.htm](spells/enchantment-01-VACvA5VRbddjt5s9.htm)|Infectious Enthusiasm|Enthousiasme communicatif|changé|
 |[enchantment-01-XSujb7EsSwKl19Uu.htm](spells/enchantment-01-XSujb7EsSwKl19Uu.htm)|Bless|Bénédiction|changé|
+|[enchantment-05-GP3wewkQXEPrLxYj.htm](spells/enchantment-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|changé|
 |[enchantment-06-NhGXgmI3AjkkwnPk.htm](spells/enchantment-06-NhGXgmI3AjkkwnPk.htm)|Blinding Fury|Furie aveuglante|changé|
 |[evocation-01-9mPEoOPN0AMuixIv.htm](spells/evocation-01-9mPEoOPN0AMuixIv.htm)|Force Fang|Croc de force|changé|
 |[evocation-01-gISYsBFby1TiXfBt.htm](spells/evocation-01-gISYsBFby1TiXfBt.htm)|Acid Splash|Aspersion d’acide|changé|
@@ -86,6 +107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-05-qVXraYXlTjissCaG.htm](spells/necromancy-05-qVXraYXlTjissCaG.htm)|Mother's Blessing|Bénédiction de la Mère|changé|
 |[necromancy-09-drmvQJETA3WZzXyw.htm](spells/necromancy-09-drmvQJETA3WZzXyw.htm)|Voracious Gestalt|Gestalt vorace|changé|
 |[transmutation-01-0xR9vrt6uDFl0Umo.htm](spells/transmutation-01-0xR9vrt6uDFl0Umo.htm)|Wild Morph|Métamorphose sauvage|changé|
+|[transmutation-01-EE7Q5BHIrfWNCPtT.htm](spells/transmutation-01-EE7Q5BHIrfWNCPtT.htm)|Magic Fang|Morsure magique|changé|
 |[transmutation-01-MPxbKoR54gkYkqLO.htm](spells/transmutation-01-MPxbKoR54gkYkqLO.htm)|Gouging Claw|Griffe creusante|changé|
 |[transmutation-01-X9dkmh23lFwMjrYd.htm](spells/transmutation-01-X9dkmh23lFwMjrYd.htm)|Ant Haul|Charge de fourmi|changé|
 |[transmutation-02-IhwREVWG0OzzrbWA.htm](spells/transmutation-02-IhwREVWG0OzzrbWA.htm)|Iron Gut|Boyaux de fer|changé|
@@ -569,7 +591,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[enchantment-05-BilnTGuXrof9Dt9D.htm](spells/enchantment-05-BilnTGuXrof9Dt9D.htm)|Synaptic Pulse|Pulsation synaptique|officielle|
 |[enchantment-05-ftZ750SD2iIJKIy3.htm](spells/enchantment-05-ftZ750SD2iIJKIy3.htm)|Glimmer of Charm|Lueur de charme|libre|
 |[enchantment-05-GaRQlC9Yw1BGKHfN.htm](spells/enchantment-05-GaRQlC9Yw1BGKHfN.htm)|Crushing Despair|Désespoir foudroyant|officielle|
-|[enchantment-05-GP3wewkQXEPrLxYj.htm](spells/enchantment-05-GP3wewkQXEPrLxYj.htm)|Subconscious Suggestion|Suggestion subconsciente|officielle|
 |[enchantment-05-mm3hZ6jgaJaKK16n.htm](spells/enchantment-05-mm3hZ6jgaJaKK16n.htm)|Litany of Self-Interest|Litanie d'égoïsme|libre|
 |[enchantment-05-x2LALaHXO7644GQA.htm](spells/enchantment-05-x2LALaHXO7644GQA.htm)|You're Mine|Tu es à moi|officielle|
 |[enchantment-05-y0Vy7iNL3ET8K00C.htm](spells/enchantment-05-y0Vy7iNL3ET8K00C.htm)|Dreaming Potential|Potentiel onirique|officielle|
@@ -1075,7 +1096,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[transmutation-01-buhP7vfetUxQJlIJ.htm](spells/transmutation-01-buhP7vfetUxQJlIJ.htm)|Restyle|Relooking|libre|
 |[transmutation-01-cOjlzWerBwbPWVkX.htm](spells/transmutation-01-cOjlzWerBwbPWVkX.htm)|Agile Feet|Pieds Agiles|officielle|
 |[transmutation-01-dINQzhqGmIsqGMUY.htm](spells/transmutation-01-dINQzhqGmIsqGMUY.htm)|Mending|Réparation|officielle|
-|[transmutation-01-EE7Q5BHIrfWNCPtT.htm](spells/transmutation-01-EE7Q5BHIrfWNCPtT.htm)|Magic Fang|Morsure magique|officielle|
 |[transmutation-01-F23T5tHPo3WsFiHW.htm](spells/transmutation-01-F23T5tHPo3WsFiHW.htm)|Quick Sort|Tri rapide|libre|
 |[transmutation-01-gfPjmG6Fe6D3MFjl.htm](spells/transmutation-01-gfPjmG6Fe6D3MFjl.htm)|Pest Form|Forme de nuisible|officielle|
 |[transmutation-01-GUnw9YXaW3YyaCAU.htm](spells/transmutation-01-GUnw9YXaW3YyaCAU.htm)|Adapt Self|Auto-adaptation|officielle|

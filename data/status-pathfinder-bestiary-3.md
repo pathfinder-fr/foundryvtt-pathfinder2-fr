@@ -1,10 +1,10 @@
 # État de la traduction (pathfinder-bestiary-3)
 
- * **changé**: 333
- * **libre**: 7
+ * **changé**: 332
+ * **libre**: 8
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -334,7 +334,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Yq9TcUof5D117yns.htm](pathfinder-bestiary-3/Yq9TcUof5D117yns.htm)|Camel|Chameau|changé|
 |[YsgpbtWVT3q0OLWv.htm](pathfinder-bestiary-3/YsgpbtWVT3q0OLWv.htm)|Empress Lava Worm|Ver de lave impératrice|changé|
 |[ytYKPtPotjvsWoSl.htm](pathfinder-bestiary-3/ytYKPtPotjvsWoSl.htm)|Ancient Sovereign Dragon|Dragon souverain vénérable|changé|
-|[YX0CqhKKtRzoLkuP.htm](pathfinder-bestiary-3/YX0CqhKKtRzoLkuP.htm)|Water Wisp|Volute de l'Eau|changé|
 |[Z5RBfl8x39uFpDUn.htm](pathfinder-bestiary-3/Z5RBfl8x39uFpDUn.htm)|Myceloid|Mycéloïde|changé|
 |[ZDGYrJ68aTzZ2EtT.htm](pathfinder-bestiary-3/ZDGYrJ68aTzZ2EtT.htm)|Phantom Knight|Spectre de chevalier|changé|
 |[zdJgaVe6VRSfEE1n.htm](pathfinder-bestiary-3/zdJgaVe6VRSfEE1n.htm)|Caligni Caller|Implorant caligni|changé|
@@ -356,3 +355,4 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[o740a5FFLG834FkV.htm](pathfinder-bestiary-3/o740a5FFLG834FkV.htm)|Desert Giant|Géant du désert|libre|
 |[pFUv7BzSjYTOo5mO.htm](pathfinder-bestiary-3/pFUv7BzSjYTOo5mO.htm)|Monkey|Singe (primate)|libre|
 |[rr48cUJxGpII7jWz.htm](pathfinder-bestiary-3/rr48cUJxGpII7jWz.htm)|Feathered Bear|Ours emplumé (guide spirituel)|libre|
+|[YX0CqhKKtRzoLkuP.htm](pathfinder-bestiary-3/YX0CqhKKtRzoLkuP.htm)|Water Wisp|Volute de l'Eau|libre|

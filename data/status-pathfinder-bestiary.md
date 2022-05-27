@@ -1,31 +1,27 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 451
- * **changé**: 17
+ * **officielle**: 455
+ * **changé**: 12
+ * **libre**: 1
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[BAD7npndaooB3Pz1.htm](pathfinder-bestiary/BAD7npndaooB3Pz1.htm)|Redcap|Bonnet rouge|changé|
 |[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|Rejeton de l'orgueil|changé|
-|[gDMPUL0UiOHrUUd3.htm](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Aasimar Redeemer|Rédempteur Aasimar (Héritier des plans)|changé|
-|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine (Hamadryades, Nymphe)|changé|
 |[iSwUKe7cEytclS7r.htm](pathfinder-bestiary/iSwUKe7cEytclS7r.htm)|Dryad|Dryade (Nymphe)|changé|
 |[pL4sS2HZtGAryKnN.htm](pathfinder-bestiary/pL4sS2HZtGAryKnN.htm)|Naunet|Naunet (Protéen)|changé|
 |[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|Rejeton de la colère|changé|
 |[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|changé|
 |[QGTSPki2eoLuavif.htm](pathfinder-bestiary/QGTSPki2eoLuavif.htm)|Envyspawn|Rejeton de l'envie|changé|
-|[RDFvGocLW0OuHmlC.htm](pathfinder-bestiary/RDFvGocLW0OuHmlC.htm)|Wendigo|Wendigo|changé|
 |[triuze3NMe4kWpdS.htm](pathfinder-bestiary/triuze3NMe4kWpdS.htm)|Gluttonyspawn|Rejeton de la gourmandise|changé|
 |[tTmml7T2Knz2NrLd.htm](pathfinder-bestiary/tTmml7T2Knz2NrLd.htm)|Crag Linnorm|Linnorm des falaises|changé|
 |[VcUdFYNaxauNr5Hn.htm](pathfinder-bestiary/VcUdFYNaxauNr5Hn.htm)|Hyaenodon|Hyaenodon|changé|
 |[w20FfmKH7ukghczT.htm](pathfinder-bestiary/w20FfmKH7ukghczT.htm)|Greedspawn|Rejeton de l'avidité|changé|
-|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|Rejeton de la luxure|changé|
 |[zBPGUUP788b0g1Ng.htm](pathfinder-bestiary/zBPGUUP788b0g1Ng.htm)|Keketar|Ké’ktar (Protéen)|changé|
 |[Zv6eaumsdz4HdxRV.htm](pathfinder-bestiary/Zv6eaumsdz4HdxRV.htm)|Hyena|Hyène|changé|
 
@@ -125,6 +121,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[b8NQkby4QV4uOqFT.htm](pathfinder-bestiary/b8NQkby4QV4uOqFT.htm)|Cave Bear|Ours des cavernes|officielle|
 |[B8QjalVNcWjuqgG7.htm](pathfinder-bestiary/B8QjalVNcWjuqgG7.htm)|Phistophilus|Phistophilus (Diable)|officielle|
 |[B9KJUdZre51J3E3e.htm](pathfinder-bestiary/B9KJUdZre51J3E3e.htm)|Ancient Copper Dragon|Dragon de cuivre vénérable (Métallique)|officielle|
+|[BAD7npndaooB3Pz1.htm](pathfinder-bestiary/BAD7npndaooB3Pz1.htm)|Redcap|Bonnet rouge|officielle|
 |[bAjHCeyNcPRqOmLv.htm](pathfinder-bestiary/bAjHCeyNcPRqOmLv.htm)|Changeling Exile|Exilée Changeline|officielle|
 |[BeptBpCJ4Ny4biOH.htm](pathfinder-bestiary/BeptBpCJ4Ny4biOH.htm)|Leaf Leshy|Léchi de feuilles|officielle|
 |[bIw7czN0E3rENrVd.htm](pathfinder-bestiary/bIw7czN0E3rENrVd.htm)|Giant Stag Beetle|Lucane géant (Coléoptère)|officielle|
@@ -200,6 +197,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[FwH05kDUlC8CwWTU.htm](pathfinder-bestiary/FwH05kDUlC8CwWTU.htm)|Troll King|Roi Troll|officielle|
 |[fxYMucI5b2IUoBpw.htm](pathfinder-bestiary/fxYMucI5b2IUoBpw.htm)|Shuln|Shuln|officielle|
 |[Fzn4jHusVeyytgfx.htm](pathfinder-bestiary/Fzn4jHusVeyytgfx.htm)|Adult Copper Dragon|Dragon de cuivre adulte (Métallique)|officielle|
+|[gDMPUL0UiOHrUUd3.htm](pathfinder-bestiary/gDMPUL0UiOHrUUd3.htm)|Aasimar Redeemer|Rédempteur Aasimar (Héritier des plans)|officielle|
 |[gdXok08bITkhowDJ.htm](pathfinder-bestiary/gdXok08bITkhowDJ.htm)|Ogre Warrior|Guerrier Ogre|officielle|
 |[gfRXFd24U633OC9r.htm](pathfinder-bestiary/gfRXFd24U633OC9r.htm)|Jinkin|Jinkin (Gremlin)|officielle|
 |[gioxLqV8N4p9iIAh.htm](pathfinder-bestiary/gioxLqV8N4p9iIAh.htm)|Phoenix|Phénix|officielle|
@@ -221,7 +219,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[HpY0addhUqtHMgUN.htm](pathfinder-bestiary/HpY0addhUqtHMgUN.htm)|Elephant|Éléphant|officielle|
 |[hXpqjD3eBRxlemNs.htm](pathfinder-bestiary/hXpqjD3eBRxlemNs.htm)|Gnoll Cultist|Cultiste Gnoll|officielle|
 |[HyOf4CfAIhC3qWtz.htm](pathfinder-bestiary/HyOf4CfAIhC3qWtz.htm)|Gimmerling|Gimmerling|officielle|
-|[i1HEQ6f15fMEcHQf.htm](pathfinder-bestiary/i1HEQ6f15fMEcHQf.htm)|Duergar Sharpshooter|Tireur d’élite Duergar|officielle|
+|[i1HEQ6f15fMEcHQf.htm](pathfinder-bestiary/i1HEQ6f15fMEcHQf.htm)|Duergar Sharpshooter|Tireur d’élite duergar|officielle|
 |[i3N3udPyTGVPLpoq.htm](pathfinder-bestiary/i3N3udPyTGVPLpoq.htm)|Adult Blue Dragon|Dragon bleu adulte (Chromatique)|officielle|
 |[I4CpyMUsWfFYdpL5.htm](pathfinder-bestiary/I4CpyMUsWfFYdpL5.htm)|Imp|Diablotin (Diable)|officielle|
 |[I4o2Gqpr2ioiUXA9.htm](pathfinder-bestiary/I4o2Gqpr2ioiUXA9.htm)|Xulgath Leader|Chef Xulgath|officielle|
@@ -233,6 +231,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IMasNR02C74jy3cT.htm](pathfinder-bestiary/IMasNR02C74jy3cT.htm)|Adult Bronze Dragon|Dragon de bronze adulte (Métallique)|officielle|
 |[ImueS9YFhV6sxqBP.htm](pathfinder-bestiary/ImueS9YFhV6sxqBP.htm)|Marilith|Marilith (Démon)|officielle|
 |[In2nNwo3JL1RXQhj.htm](pathfinder-bestiary/In2nNwo3JL1RXQhj.htm)|Riding Horse|Cheval de selle|officielle|
+|[io7johJlZinrSCiH.htm](pathfinder-bestiary/io7johJlZinrSCiH.htm)|Dryad Queen|Dryade souveraine (Hamadryades, Nymphe)|officielle|
 |[IpzDMSmJ42alvf9F.htm](pathfinder-bestiary/IpzDMSmJ42alvf9F.htm)|Scorpion Swarm|Nuée de scorpions|officielle|
 |[IQsTNM8aXcCUmFu0.htm](pathfinder-bestiary/IQsTNM8aXcCUmFu0.htm)|Lamia|Lamie|officielle|
 |[irrXrWxJ0LYSUCQB.htm](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Adult Black Dragon|Dragon noir adulte (Chromatique)|officielle|
@@ -361,6 +360,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[r9w1n85mp9Ip4QiS.htm](pathfinder-bestiary/r9w1n85mp9Ip4QiS.htm)|Kobold Warrior|Guerrier kobold|officielle|
 |[r9WAwtCLxoJMjd8J.htm](pathfinder-bestiary/r9WAwtCLxoJMjd8J.htm)|Poracha|Poracha|officielle|
 |[RAjbVzWcfrPBbgkK.htm](pathfinder-bestiary/RAjbVzWcfrPBbgkK.htm)|Soulbound Doll (Lawful Good)|Poupée d'âme (Loyal bon)|officielle|
+|[RDFvGocLW0OuHmlC.htm](pathfinder-bestiary/RDFvGocLW0OuHmlC.htm)|Wendigo|Wendigo|officielle|
 |[RiKjpztTt7tZbOeo.htm](pathfinder-bestiary/RiKjpztTt7tZbOeo.htm)|Hydra|Hydre|officielle|
 |[RizAUQHtPy0YRUyt.htm](pathfinder-bestiary/RizAUQHtPy0YRUyt.htm)|Soulbound Doll (Lawful Evil)|Poupée d'âme (Loyal mauvais)|officielle|
 |[rJgUpdXBCMBrsJFf.htm](pathfinder-bestiary/rJgUpdXBCMBrsJFf.htm)|Soulbound Doll (Lawful Neutral)|Poupée d'âme (Loyal neutre)|officielle|
@@ -371,7 +371,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[RTzFvmdSCf5yhguy.htm](pathfinder-bestiary/RTzFvmdSCf5yhguy.htm)|Xulgath Warrior|Guerrier Xulgath|officielle|
 |[RXEnAk6cbSnk3w7O.htm](pathfinder-bestiary/RXEnAk6cbSnk3w7O.htm)|Naiad|Naïade (Nymphe)|officielle|
 |[S35DifoycBwkxaGq.htm](pathfinder-bestiary/S35DifoycBwkxaGq.htm)|Demilich|Demi-liche|officielle|
-|[S5z0mtoEhbz7BvE9.htm](pathfinder-bestiary/S5z0mtoEhbz7BvE9.htm)|Velociraptor|Velociraptor (Dinosaure)|officielle|
+|[S5z0mtoEhbz7BvE9.htm](pathfinder-bestiary/S5z0mtoEhbz7BvE9.htm)|Velociraptor|Vélociraptor (Dinosaure)|officielle|
 |[S8iX8sPaYFFYDoUq.htm](pathfinder-bestiary/S8iX8sPaYFFYDoUq.htm)|Bunyip|Bunyip|officielle|
 |[saEPHCN5lDiylb5H.htm](pathfinder-bestiary/saEPHCN5lDiylb5H.htm)|Black Pudding|Pouding noir (Vase)|officielle|
 |[saKs2Qaor8QktboH.htm](pathfinder-bestiary/saKs2Qaor8QktboH.htm)|Catfolk Pouncer|Félide musard|officielle|
@@ -448,6 +448,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[x4mlZseBP5bWcy4H.htm](pathfinder-bestiary/x4mlZseBP5bWcy4H.htm)|Barghest|Barghest|officielle|
 |[x6wfK4UCJ6wYok9t.htm](pathfinder-bestiary/x6wfK4UCJ6wYok9t.htm)|Tor Linnorm|Linnorm des roches|officielle|
 |[x81PGKEsOtPquFVa.htm](pathfinder-bestiary/x81PGKEsOtPquFVa.htm)|Chimera (Blue Dragon)|Chimère (Dragon bleu)|officielle|
+|[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|Rejeton de la luxure|libre|
 |[XbClt5wkqECrQToJ.htm](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|Grenadier Homme-rat|officielle|
 |[XLqbEDjmGpIc4XoY.htm](pathfinder-bestiary/XLqbEDjmGpIc4XoY.htm)|Orc Warchief|Chef de guerre orc|officielle|
 |[XoXf5ExS95Vv6lNf.htm](pathfinder-bestiary/XoXf5ExS95Vv6lNf.htm)|Elemental Avalanche|Avalanche élémentaire (Élémentaire, terre)|officielle|

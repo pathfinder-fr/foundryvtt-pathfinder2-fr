@@ -1,11 +1,11 @@
 # État de la traduction (deities)
 
  * **libre**: 232
- * **aucune**: 4
+ * **aucune**: 11
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -14,8 +14,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |-----------|-------------|
 |[30uY6NkhYmPI3Oii.htm](deities/30uY6NkhYmPI3Oii.htm)|Bergelmir|
 |[9vcKBv8h5vugb8lL.htm](deities/9vcKBv8h5vugb8lL.htm)|Fandarra|
+|[AJ7Wgpj5Ext9wbtj.htm](deities/AJ7Wgpj5Ext9wbtj.htm)|Keepers of the Hearth|
+|[akcmQbvNWfhEfEhf.htm](deities/akcmQbvNWfhEfEhf.htm)|Arqueros|
 |[b7H379HnCOv9UZtd.htm](deities/b7H379HnCOv9UZtd.htm)|Orcus|
 |[EfHlurXdqkdRXaqv.htm](deities/EfHlurXdqkdRXaqv.htm)|Set|
+|[gpS3hv7LP2IRwEHT.htm](deities/gpS3hv7LP2IRwEHT.htm)|Sorrow's Sword|
+|[idAu7puhPp3kFTnl.htm](deities/idAu7puhPp3kFTnl.htm)|Lorthact's Cult|
+|[p4TbCVOwHB4ccmT4.htm](deities/p4TbCVOwHB4ccmT4.htm)|The Endless Road|
+|[QArqJ387HeYgGZxG.htm](deities/QArqJ387HeYgGZxG.htm)|Gravelady's Guard|
+|[u2tnG7fKkZ2KHMcT.htm](deities/u2tnG7fKkZ2KHMcT.htm)|Suyuddha|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 

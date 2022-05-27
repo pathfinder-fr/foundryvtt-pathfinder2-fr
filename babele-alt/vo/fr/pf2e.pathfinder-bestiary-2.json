@@ -719,9 +719,9 @@
         {
             "id": "Urdefhan Warrior",
             "name": "Urdefhan Warrior",
-            "description": "<p>Dès leur naissance, les urdefhans sont préparés à la guerre. Les guerriers urdefhan sont parmi les urdefhans les moins puissants que l'on puisse rencontrer en dehors de leurs sinistres cités souterraines.</p>",
-            "hpdetails": "(soins négatifs)",
-            "senses": "vision dans le noir supérieure"
+            "description": "<p>ès leur naissance, les urdefhans sont préparés pour la guerre. Leurs guerriers comptent parmi les moins puissants des membres de cette espèce rencontrés en dehors de leurs étranges cités souterraines.</p>\n<hr />\n<p>Les urdefhans sont de violents bellicistes, occultistes et empoisonneurs vivant dans l’Ombreterre. Ils furent créés durant les siècles passés par les mystérieux Cavaliers de l’Apocalypse originels, pour leur servir en tant qu’agents de la fin des temps sur le plan matériel. Les urdefhans honorent encore leurs créateurs en vénérant les misérables êtres régnant sur le plan d’Abaddon, et à l’instar de leurs seigneurs daémoniaques, ils n’ont qu’une seule et unique raison d’être : tuer. Bien qu’ils soient humanoïdes et vivent en grands groupes, toute similitude avec les ascendances de la surface s’arrête là. Ils ont un visage terrifiant, leur peau est transparente et laisse entrevoir leur musculature et leurs entrailles luisantes, ainsi que l’éclat de leurs os. Pire encore, leurs yeux sont rouges et maléfiques. Tout ceci, sans parler de leur gueule béante remplie de crocs aiguisés, contribue à créer la fausse impression que ce sont des espèces de morts-vivants vampiriques et non des êtres vivants faits de chair et de sang. Quand un urdefhan meurt, sa peau se caille rapidement et finit par exploser en une vague de corruption affreuse qui s’étend sur la chair de toute créature présente dans la zone. L’urdefhan moyen considère son trépas comme une déconvenue car une fois décédé, il sera incapable de continuer à tuer. Son souci premier est la mort et la façon la plus sanglante et douloureuse de l’infliger au plus grand nombre. En plus de cette philosophie de la violence, il s’intéresse partiellement à d’autres sujets, tels que les différents types de guerres ou certains aspects de leur religion maudite. Lorsqu’il n’est pas activement plongé dans cette frénésie, la seule chose capable de tempérer la cruauté grisante d’un urdefhan est l’instinct de survie qui lui permet de perdurer assez longtemps pour répandre la «bénédiction» de ses protecteurs daémoniques. Entre chaque guerre, il passe son temps à inventer de nouvelles armes, développer de nouvelles maladies et rechercher de terribles magies inédites afin de se préparer au prochain et inévitable conflit.</p>",
+            "hpdetails": "(Soins négatifs)",
+            "senses": "Vision dans le noir supérieure"
         },
         {
             "id": "Scarecrow",
@@ -1383,7 +1383,7 @@
         {
             "id": "Ooze Mephit",
             "name": "Ooze Mephit",
-            "description": "<p>Gluants et beaux parleurs, les méphites de vase sont des flagorneurs invétérés, flattant tous ceux à qui ils peuvent espérer soutirer une faveur, bien que leur manque d’intelligence et de subtilité implique que seuls les êtres les plus vaniteux ou les plus crédules se laissent engluer par leurs paroles mielleuses. N’ayant aucune véritable structure osseuse, ces méphites de couleur ocre sont constitués principalement de boue et de vase. Ils dégagent une odeur.</p>\n<hr />\n<p>Les méphites, parfois appelés les canailles élémentaires, sont de petites bestioles bipèdes avec des ailes de chauve-souris qui servent des élémentaires plus puissants sur leurs plans ou des incantateurs débutants qui les invoquent sur le plan matériel. Tous les méphites ont un soupçon de pouvoirs magiques ainsi qu’un souffle.</p>",
+            "description": "<p>Gluants et beaux parleurs, les méphites de vase sont des flagorneurs invétérés, flattant tous ceux à qui ils peuvent espérer soutirer une faveur, bien que leur manque d’intelligence et de subtilité implique que seuls les êtres les plus vaniteux ou les plus crédules se laissent engluer par leurs paroles mielleuses. N’ayant aucune véritable structure osseuse, ces méphites de couleur ocre sont constitués principalement de boue et de vase. Ils dégagent une odeur immonde et leur contact laisse des taches quasiment impossibles à nettoyer.</p>\n<hr />\n<p>Les méphites, parfois appelés les canailles élémentaires, sont de petites bestioles bipèdes avec des ailes de chauve-souris qui servent des élémentaires plus puissants sur leurs plans ou des incantateurs débutants qui les invoquent sur le plan matériel. Tous les méphites ont un soupçon de pouvoirs magiques ainsi qu’un souffle.</p>",
             "hpdetails": "(Guérison accélérée 2 (au contact de boue ou de limon))",
             "senses": "Vision dans le noir"
         },
@@ -1502,10 +1502,10 @@
         {
             "id": "Onidoshi",
             "name": "Onidoshi",
-            "description": "<p>Les onidoshi, ou ogres-mages, sont des Onis ayant la forme matérielle d'un ogre. Les prouesses surnaturelles d'un onidoshi et son intelligence surpuissante suffisent à impressionner et intimider des familles entières d'ogres ordinaires. Pour cette raison, un onidoshi se retrouve souvent à la tête de troupes de guerre composées d'ogres ou orchestrant leurs campagnes violentes depuis les coulisses. Il est rare que les onidoshi mènent une existence solitaire, mais ceux qui le font préfèrent marauder la campagne ou exploiter les villages et s'approprier le butin pour eux-mêmes.</p>",
-            "hpdetails": "régénération 7 (désactivée par acide ou feu)",
-            "saves": "+1 de statut contre le magie",
-            "senses": "vision dans le noir"
+            "description": "<p>Les onidoshi, ou ogres-mages, sont des Onis ayant la forme matérielle d'un ogre. Les prouesses surnaturelles d'un onidoshi et son intelligence surpuissante suffisent à impressionner et intimider des familles entières d'ogres ordinaires. Pour cette raison, un onidoshi se retrouve souvent à la tête de troupes de guerre composées d'ogres ou orchestrant leurs campagnes violentes depuis les coulisses. Il est rare que les onidoshi mènent une existence solitaire, mais ceux qui le font préfèrent marauder la campagne ou exploiter les villages et s'approprier le butin pour eux-mêmes.</p>\n<hr />\n<p>Toutes les créations divines ne sont pas faites pour vivre comme des mortels. Certains esprits sont créés comme gardiens et protecteurs des éléments de la nature qui ne peuvent pas se protéger eux-mêmes. Lorsque ces esprits acceptent leur place divine dans le méta-cosmos et leurs tâches, ils deviennent des kami. Mais certains esprits sont capricieux, obstinés ou simplement corrompus. En refusant de répondre aux ordres des dieux, ils perdent leur enveloppe physique et ne sont plus capables d’interagir avec le monde, qu’ils peuvent continuer à observer malgré la torture que cela leur inflige. D’autres reçoivent cette punition simplement pour avoir manqué à leur devoir, et leur désespoir ainsi que leur condition les corrompent autant que ceux qui possédaient déjà une once de ténèbres. Lorsque ces esprits observent les vies mortelles et sont submergés par les désirs de la chair et les plaisirs dont peuvent se délecter les humanoïdes, ils se créent des corps de substitution et deviennent des monstres appelés oni. Les oni se manifestent toujours sous une forme qui parodie une ascendance humanoïde spécifique et étroitement liée avec ses obsessions et ses désirs. Les personnalités et tailles outrancières des géants sont sûrement les raisons pour lesquelles ces humanoïdes sont les incarnations préférées des oni, que l’on appelle alors yai oni. Cependant, les oni imitent presque tous les types d’humanoïdes. La plupart des oni sont capables de prendre la forme de leur type d’humanoïde et d’utiliser ce pouvoir surnaturel pour infiltrer les sociétés de cette espèce et prendre le contrôle de l’intérieur. Une fois bien établi, l’oni révèle généralement sa forme véritable et se complaît dans la domination de ceux qu’il considère comme des êtres inférieurs tout juste bons à répondre à ses caprices. Les oni sont vaniteux par nature. Ils choisissent généralement des apparences avenantes et remarquables pour leurs déguisements humanoïdes, des formes aux antipodes de la laideur de leur véritable nature. La forme originale d’un oni révèle ses désirs les plus intimes et présente toujours des traits tels que des dents disproportionnées qui tendent vers des défenses, des griffes aiguisées, des couleurs de peau anormalement vives ou un troisième œil sur le front. Les oni ont des désirs aussi variés que n’importe quel être mais, de par leur nature, ces désirs sont presque toujours orientés vers des expériences de la chair hédonistes ou destructrices et concernent principalement la nourriture, le plaisir ou la violence.</p>",
+            "hpdetails": "Régénération 7 (désactivée par acide ou feu)",
+            "saves": "Bonus de statut de +1 à tous les jets de sauvegarde contre la magie",
+            "senses": "Vision dans le noir"
         },
         {
             "id": "Spirit Naga",
@@ -2445,7 +2445,7 @@
         {
             "id": "Sea Snake",
             "name": "Sea Snake",
-            "description": "<p>Ces serpents agiles vivent dans les eaux peu profondes des mers tropicales. Leur corps bleu-vert de 1,2 m de long se fond facilement dans les eaux où ils rôdent à l’affût d’une proie. On raconte que de gigantesques serpents de mer résideraient dans les profondeurs sous-marines et suivraient les navires en attendant que des marins tombent à l’eau ou grimpent le long de la coque pour les capturer directement sur le pont.</p>",
+            "description": "<p>Ces serpents agiles vivent dans les eaux peu profondes des mers tropicales. Leur corps bleu-vert de 1,2 mètres de long se fond facilement dans les eaux où ils rôdent à l’affût d’une proie. On raconte que de gigantesques serpents de mer résideraient dans les profondeurs sous-marines et suivraient les navires en attendant que des marins tombent à l’eau ou grimpent le long de la coque pour les capturer directement sur le pont.</p>",
             "senses": "Odorat (imprécis) 9 m, Vision nocturne"
         },
         {
@@ -2959,7 +2959,7 @@
         },
         {
             "id": "QItaAvzvKUUHn205",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -3115,7 +3115,7 @@
         {
             "id": "QoOV8oVWiooAilxA",
             "name": "Sea Snake Venom",
-            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:16]{Vigueur} DD 16</p>\n<p><strong>Durée maximale</strong> 4 rounds</p>\n<p><strong>Stade 1</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} t @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 round)</p>"
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:16]{Vigueur} DD 16</p>\n<p><strong>Durée maximale</strong> 4 rounds</p>\n<p><strong>Stade 1</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {1d6}[poison]]]{1d6 dégâts de poison} et @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 round)</p>"
         },
         {
             "id": "YsR1W3Gw985Xzr24",
@@ -3129,7 +3129,7 @@
         },
         {
             "id": "hychIP30Jt5HOYED",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -3373,6 +3373,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
         },
         {
+            "id": "tONGWAraS1nSA49Y",
+            "name": "Wicked Bite",
+            "items-description": "<p><strong>Conditions</strong> L’urdefhan a infligé une Frappe de mâchoires à une créature du- rant sa dernière action</p>\n<hr />\n<ul>\n<p><strong>Effet</strong> Il maintient le contact et la chair de la victime devient translucide autour de la blessure. Il choisit l’une des deux options suivantes, chacune d’entre elle requérant un jet de  @Check[type:fortitude|dc:20]{Vigueur} DD 20. Si la Frappe de mâchoires a été un succès critique, la créature subit les deux effets et le résultat du jet de sauvegarde est le même pour les deux</p>\n<ul>\n<li><strong>Absorber le sang</strong> L’urdefhan boit une partie du sang de la créature. En cas d’échec, cette dernière est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 1} et l’urdefhan regagne 5 PV (en cas d’échec critique, elle est @Compendium[pf2e.conditionitems.4D2KBtexWXa6oUMR]{Drainée 2} et le monstre regagne 10 PV).</li>\n<li><strong>Absorber la vitalité</strong> L’urdefhan absorbe une partie de l’essence de vie de la créature. En cas d’échec, cette dernière devient@Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 1} durant 1 heure (ou @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 2} durant 1 heure en cas d’échec critique)</li>\n</ul>"
+        },
+        {
             "id": "SuO1iTdYnYyeXOGq",
             "name": "Fast Healing 5",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
@@ -3409,7 +3414,7 @@
         },
         {
             "id": "qHEzK4MngkQB6vhD",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -3560,7 +3565,7 @@
         {
             "id": "Hn5PgfCFMwbKdN20",
             "name": "Self-Loathing",
-            "items-description": "<p>Si un revenant voit son propre reflet ou un objet qui comptait beaucoup pour lui de son vivant, il doit faire un jet de @Check[type:will|dc:25]{Volonté} DD 25.</p>\n<hr />\n<p><strong>Succès critique</strong> Le revenant n’est pas affecté par ce reflet ou cet objet et ne peut plus l’être.</p>\n<p><strong>Succès</strong> Le revenant est distrait par le dégoût qu’il éprouve à l’égard de lui-même et il est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti} 1 pendant 1 round.</p>\n<p><strong>Échec</strong> Le revenant est @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fasciné} par la source de son dégoût et fait tout ce qu’il peut pour la détruire jusqu’à la fin de son prochain tour.</p>\n<p><strong>Échec critique</strong> Le revenant est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} tant qu’il est en présence de la source de son dégoût, jusqu’à ce qu’il se fasse attaquer ou jusqu’à ce qu’il voie son meurtrier.</p"
+            "items-description": "<p>Si un revenant voit son propre reflet ou un objet qui comptait beaucoup pour lui de son vivant, il doit faire un jet de @Check[type:will|dc:25]{Volonté} DD 25.</p>\n<hr />\n<p><strong>Succès critique</strong> Le revenant n’est pas affecté par ce reflet ou cet objet et ne peut plus l’être.</p>\n<p><strong>Succès</strong> Le revenant est distrait par le dégoût qu’il éprouve à l’égard de lui-même et il est @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} pendant 1 round.</p>\n<p><strong>Échec</strong> Le revenant est @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fasciné} par la source de son dégoût et fait tout ce qu’il peut pour la détruire jusqu’à la fin de son prochain tour.</p>\n<p><strong>Échec critique</strong> Le revenant est @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilisé} tant qu’il est en présence de la source de son dégoût, jusqu’à ce qu’il se fasse attaquer ou jusqu’à ce qu’il voie son meurtrier.</p"
         },
         {
             "id": "HhUiMTB8Qa8ySlVM",
@@ -3639,7 +3644,7 @@
         },
         {
             "id": "IvU2EF3nyrIZUdjp",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -3890,11 +3895,11 @@
         {
             "id": "tjQCRx8UN4LQPnwJ",
             "name": "Witchflame Kindling",
-            "items-description": "<p data-visibility=\"gm\"><strong>Conditions</strong> Une créature qui se trouve dans un rayon de 9 m de la sorcière de feu est couverte de flammes ensorcelées.</p>\n<p><strong>Effet</strong> Les yeux et la bouche de la sorcière de feu produisent une lumière vive et les flammes ensorcelées qui enveloppent la créature brûlent temporairement avec bien plus d’intensité, lui infligeant [[/r {5d6}[fire]+{5d6}[negative]]]{5d6 dégâts de feu et 5d6 dégâts négatifs} (@Check[type:fortitude|dc:28|basic:true]{Vigueur basique} DD 28). </p>\n<p data-visibility=\"gm\">La sorcière doit attendre [[/br 1d4 #Recharge Flammes ensorcelées incandescentes]]{1d4 rounds} avant de pouvoir utiliser de nouveau les flammes ensorcelées incandescentes..</p>"
+            "items-description": "<p><strong>Conditions</strong> Une créature qui se trouve dans un rayon de 9 m de la sorcière de feu est couverte de flammes ensorcelées.</p>\n<p><strong>Effet</strong> Les yeux et la bouche de la sorcière de feu produisent une lumière vive et les flammes ensorcelées qui enveloppent la créature brûlent temporairement avec bien plus d’intensité, lui infligeant [[/r {5d6}[fire]+{5d6}[negative]]]{5d6 dégâts de feu et 5d6 dégâts négatifs} (@Check[type:fortitude|dc:28|basic:true]{Vigueur basique} DD 28). </p>\n<p>La sorcière doit attendre [[/br 1d4 #Recharge Flammes ensorcelées incandescentes]]{1d4 rounds} avant de pouvoir utiliser de nouveau les flammes ensorcelées incandescentes.</p>"
         },
         {
             "id": "DfefDz8ZxlBybpoa",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4004,7 +4009,7 @@
         },
         {
             "id": "TPKGkvgCAQz8TKeC",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4110,7 +4115,7 @@
         {
             "id": "WzWOnae18jvHd2C0",
             "name": "Sadistic Strike",
-            "items-description": "<p>Un osyluth inflige [[/r {2d6}]]{2d6 dégâts supplémentaires} quand il Frappe une créature @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} ou@Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{à terre}.</p>"
+            "items-description": "<p>Un osyluth inflige [[/r {2d6}]]{2d6 dégâts supplémentaires} quand il Frappe une créature @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie}, @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée} ou @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{à terre}.</p>"
         },
         {
             "id": "D7nU92x03rn3cnoU",
@@ -4234,7 +4239,7 @@
         },
         {
             "id": "FuTchIYowgou1HIa",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4469,7 +4474,7 @@
         },
         {
             "id": "GPRRfLJKZALqfKud",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4594,7 +4599,7 @@
         },
         {
             "id": "tlcUEtC6qZlc69zv",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4649,7 +4654,7 @@
         },
         {
             "id": "oPWhso0y4ezQpGaJ",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4665,7 +4670,7 @@
         {
             "id": "981IVfc2IS4Qnd3U",
             "name": "Aura of Sobs",
-            "items-description": "<p>Aura de 3 mètres</p>\n<p>Un chuchoteur du grenier se drape dans un choeur de voix volées. Chaque créature vivante qui entre ou commence son tour dans l’aura doit réussir un jet de Volonté DD 19 sous peine d’être bouleversée par les sanglots amers et troublants ; elle devient @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée 1} aussi longtemps qu’elle demeure dans l’aura. Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 heure.</p> \n<p>Le chuchoteur du grenier peut activer ou désactiver l’aura en utilisant une seule action unique gratuite qui a le trait concentration.</p>"
+            "items-description": "<p>Aura de 3 mètres</p>\n<p>Un chuchoteur du grenier se drape dans un choeur de voix volées. Chaque créature vivante qui entre ou commence son tour dans l’aura doit réussir un jet de Volonté DD 19 sous peine d’être bouleversée par les sanglots amers et troublants ; elle devient @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 1} aussi longtemps qu’elle demeure dans l’aura. Une créature qui réussit son jet de sauvegarde est temporairement immunisée pendant 1 heure.</p> \n<p>Le chuchoteur du grenier peut activer ou désactiver l’aura en utilisant une seule action unique gratuite qui a le trait concentration.</p>"
         },
         {
             "id": "xgEzGbuJSMIIkD79",
@@ -4689,7 +4694,7 @@
         },
         {
             "id": "MeT5lDeI05fBDoW3",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -4735,7 +4740,7 @@
         {
             "id": "MJktJ33e2ejK5I1o",
             "name": "Debilitating Bite",
-            "items-description": "<p>Une créature qui subit des dégâts à cause de la morsure de l’habitant doit réussir un jet de @Check[type:fortitude|dc:27]{Vigueur} DD 27, sinon elle devient @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite 1}. À chaque fois que la cible rate un nouveau jet de sauvegarde contre ce pouvoir, l’intensité de l’état augmente de 1 (jusqu’à un maximum de maladroit 4). L’intensité de cet état est réduite de 1 toutes les 24 heures.</p>"
+            "items-description": "<p>Une créature qui subit des dégâts à cause de la morsure de l’habitant doit réussir un jet de @Check[type:fortitude|dc:27]{Vigueur} DD 27, sinon elle devient @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroite 1}. À chaque fois que la cible rate un nouveau jet de sauvegarde contre ce pouvoir, l’intensité de l’état augmente de 1 (jusqu’à un maximum de @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 4}). L’intensité de cet état est réduite de 1 toutes les 24 heures.</p>"
         },
         {
             "id": "POIZ15lxh5FqbzaK",
@@ -5059,7 +5064,7 @@
         },
         {
             "id": "fBpvD0xb43MGDESG",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5129,7 +5134,7 @@
         },
         {
             "id": "uW30KxL4NUlDPAi5",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5204,7 +5209,7 @@
         },
         {
             "id": "sGGppAnKyKB4kipq",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5359,7 +5364,7 @@
         },
         {
             "id": "lhaBLbyRbWQceU9t",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5369,7 +5374,7 @@
         },
         {
             "id": "OlCiQCdanvjrjD3s",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5434,7 +5439,7 @@
         },
         {
             "id": "guUOsE03Ck5JEoBu",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5449,7 +5454,7 @@
         },
         {
             "id": "jZkG8pIe4dAne06Q",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -5669,7 +5674,7 @@
         },
         {
             "id": "laXpsxFAPFs8EXkA",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6019,7 +6024,7 @@
         },
         {
             "id": "GHcUVfhfs6mcm7mS",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6106,6 +6111,11 @@
             "id": "V01q458qlTH6dA7i",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
+        },
+        {
+            "id": "cOypeEDeaznFsSdO",
+            "name": "Ravenous Attack",
+            "items-description": "<p>L’urdefhan inflige une Frappe d’épée rokha et une Frappe de mâchoires à une même créature. Sa pénalité d’attaques multiples augmente seulement après avoir effectué les deux attaques.</p>"
         },
         {
             "id": "AfwRVW7rPHMx2CVt",
@@ -6224,7 +6234,7 @@
         },
         {
             "id": "Q6Z6sPX8M68AUOXI",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6236,6 +6246,11 @@
             "id": "hX2hdrvbUdBKffJD",
             "name": "Stealth",
             "items-description": ""
+        },
+        {
+            "id": "jISdvlh9f3wIBxZ8",
+            "name": "Freezing Blood",
+            "items-description": "<p><strong>Déclencheur</strong> Le ver du froid subit des dégâts perforants ou tranchants.</p>\n<hr />\n<p><strong>Effet</strong> Le sang glacial du ver de froid gicle sur une créature aléatoire dans les 3 m du ver du froid. Cette créature subit [[/r {7d6}[cold]]]{7d6 dégâts de froid}(@Check[type:reflex|dc:29|basic:true]{Réflexes basique} DD 29).</p>"
         },
         {
             "id": "CSSsFGyexhD5YUX3",
@@ -6319,7 +6334,7 @@
         },
         {
             "id": "K80GtqxqKN7Og68w",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6364,7 +6379,7 @@
         },
         {
             "id": "Qx0Uh3ktQIh1dVKT",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6394,7 +6409,7 @@
         },
         {
             "id": "tAdSWqK8N7bxwjab",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6500,7 +6515,7 @@
         {
             "id": "0DDWtKSDSWdXnkgj",
             "name": "Bloodfire Fever",
-            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:18]{Vigueur DD 18}</p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> Porteur sain (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 jour)</p>\n<p><strong>Stade 3</strong> Affaibli 1 et @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} and @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2} (1 jour)</p>\n<p><strong>Stade 5</strong> Affaibli 2, Maladroit 2, and @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (1 jour)</p>\n</div>"
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:18]{Vigueur DD 18}</p>\n<div data-visibility=\"gm\">\n<p><strong>Stade 1</strong> Porteur sain (1 jour)</p>\n<p><strong>Stade 2</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1} (1 jour)</p>\n<p><strong>Stade 3</strong> Affaibli 1 et @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1} (1 jour)</p>\n<p><strong>Stade 4</strong> @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2} and @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2} (1 jour)</p>\n<p><strong>Stade 5</strong> Affaibli 2, @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2}, and @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigué} (1 jour)</p>\n</div>"
         },
         {
             "id": "XCr9jxxE59Egb2R1",
@@ -6649,7 +6664,7 @@
         },
         {
             "id": "jKCuP9xlPQoqlnGq",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6739,7 +6754,7 @@
         },
         {
             "id": "vLuAkberNsYeDSD0",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -6939,7 +6954,7 @@
         },
         {
             "id": "GL5oMe9C6pcXxqcU",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7023,6 +7038,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "NSLdgH5UqohAav11",
+            "name": "Tiger Empathy",
+            "items-description": "<p>Le tigre-garou peut communiquer avec les félins.</p>"
+        },
+        {
             "id": "HQTX3r7nEv9YINQh",
             "name": "Ferocity",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
@@ -7085,11 +7105,11 @@
         {
             "id": "p1rxtsKx33vjytn0",
             "name": "Thulgant Venom",
-            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:40]{Vigueur} DD 40</p>\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {3d6}[poison]]]{3d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1}, or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {6d6}[poison]]]{6d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2}, or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié 2} (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {9d6}[poison]]]{9d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 3}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 3}, and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefié 3} (1 round)</p>"
+            "items-description": "<p><strong>Jet de sauvegarde</strong> @Check[type:fortitude|dc:40]{Vigueur} DD 40</p>\n<p><strong>Durée maximale</strong> 6 rounds</p>\n<p><strong>Stade 1</strong> [[/r {3d6}[poison]]]{3d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 1}, or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 1} (1 round)</p>\n<p><strong>Stade 2</strong> [[/r {6d6}[poison]]]{6d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 2}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 2}, or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 2} (1 round)</p>\n<p><strong>Stade 3</strong> [[/r {9d6}[poison]]]{9d6 dégâts de poison} et la victime gagne au hasard : @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Maladroit 3}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaibli 3}, and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfié 3} (1 round)</p>"
         },
         {
             "id": "KTc5frqwQnvcjRY9",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7104,7 +7124,7 @@
         },
         {
             "id": "eqGZhn9lsZI6JDYE",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7179,7 +7199,7 @@
         },
         {
             "id": "4d37i0818MYTgBAF",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7199,7 +7219,7 @@
         },
         {
             "id": "Z4dJO56WCJUBTpyf",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7543,6 +7563,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
         },
         {
+            "id": "pUwo9wumwrjtvid1",
+            "name": "Infernal Wound",
+            "items-description": "<p>La Frappe de queue du cornugon inflige @Localize[PF2E.PersistentDamage.Bleed4d6.success]{4d6 dégâts de saignement persistants} qui résistent aux soins.</p>\n<p>Le test nu pour arrêter le saignement a un @Check[type:flat|dc:20]{DD} initial de 20. Le @Check[type:flat|dc:15]{DD} est réduit à 15 si la créature affectée ou un allié réussit à l’aider à récupérer. Le DD pour @Compendium[pf2e.actionspf2e.MHLuKy4nQO2Z4Am1]{Prodiguer les premiers soins} à une créature avec une blessure infernale est augmenté de 10 points.</p>\n<p>Un incantateur ou un objet utilisant une magie de soins sur une créature affectée par une blessure infernale, doit réussir un test de contre DD 34 ou la magie ne parvient pas à guérir la créature.</p>"
+        },
+        {
             "id": "hg3lMJ6qrkw8WpZ3",
             "name": "Light Blindness",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
@@ -7634,12 +7659,12 @@
         },
         {
             "id": "gSm7LVM6KgueNn8S",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
             "id": "oC5vZAEFIISSmofG",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7879,7 +7904,7 @@
         },
         {
             "id": "aHkhx52xZZTtPI25",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -7944,7 +7969,7 @@
         },
         {
             "id": "EAsAGjtMDBLWo0ZO",
-            "name": "+1 Status Bonus on Saves vs Mental",
+            "name": "+2 Status to All Saves vs Mental",
             "items-description": ""
         },
         {
@@ -8074,7 +8099,7 @@
         },
         {
             "id": "RLJbJxbajEsFLapw",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8174,7 +8199,7 @@
         },
         {
             "id": "qoqJdxMXA4DPeMal",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8234,7 +8259,7 @@
         },
         {
             "id": "8BGsf6kEIrCtKGgo",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8404,7 +8429,7 @@
         },
         {
             "id": "3EzYscL7vFw5pVbn",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8504,7 +8529,7 @@
         },
         {
             "id": "KJKzoE0ci2sMwyFX",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8579,7 +8604,7 @@
         },
         {
             "id": "RHRtFPGTQDqJ0cER",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8649,7 +8674,7 @@
         },
         {
             "id": "fuxGM2FMqoHqXPJ4",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8729,7 +8754,7 @@
         },
         {
             "id": "ZD69ngyFRQ3FHnUr",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -8754,7 +8779,7 @@
         },
         {
             "id": "KQ5qTss6bA4fQLVK",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9014,7 +9039,7 @@
         },
         {
             "id": "HViM44dkUyHEWK31",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9109,7 +9134,7 @@
         },
         {
             "id": "8GCV9NHdglsydwmB",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9184,7 +9209,7 @@
         },
         {
             "id": "TxgMLxy2ap1ZIMWz",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9324,7 +9349,7 @@
         },
         {
             "id": "I1XiJaJSXxln1l7V",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9429,7 +9454,7 @@
         },
         {
             "id": "wSYxanQKAbTVaazk",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9559,7 +9584,7 @@
         },
         {
             "id": "W9vOqV3RGCnKCbHu",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9804,7 +9829,7 @@
         },
         {
             "id": "0IfzoP16zRxLRIJ3",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -9839,7 +9864,7 @@
         },
         {
             "id": "TBsuxObKIaeVagO5",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10034,7 +10059,7 @@
         },
         {
             "id": "FBO25NSysfQagiQl",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10075,7 +10100,7 @@
         {
             "id": "0hkOF2WHkLhHAEjQ",
             "name": "Descend on a Web",
-            "items-description": "<p>L’araignée de Leng descend verticalement jusqu’à 36 m en étant suspendue à un fil de toile. Elle peut rester accrochée au fil ou s’en détacher. La distance descendue avec cette action ne compte pas dans le calcul des dégâts de chute.</p>\n<p>La toile peut être coupée par une Frappe infligeant des dégâts tranchants (CA 30, Solidité 15, PV 25), ce qui fait tomber l’araignée de Leng.</p>"
+            "items-description": "<p>L’araignée de Leng descend verticalement jusqu’à 36 m en étant suspendue à un fil de toile. Elle peut rester accrochée au fil ou s’en détacher. La distance descendue avec cette action ne compte pas dans le calcul des dégâts de chute.</p>\n<p>La toile peut être coupée par une Frappe infligeant des dégâts tranchants (CA 30, Solidité 15, 25 PV), ce qui fait tomber l’araignée de Leng.</p>"
         },
         {
             "id": "bMypsTuAesTEDTll",
@@ -10094,7 +10119,7 @@
         },
         {
             "id": "CpTRDv42ZCA5jHZL",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10114,7 +10139,7 @@
         },
         {
             "id": "pLNcYnrUhpwxDo9b",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10169,7 +10194,7 @@
         },
         {
             "id": "LPLiXKoxMuJu4ifi",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10259,7 +10284,7 @@
         },
         {
             "id": "SaVJfclmAsjFCBke",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10284,7 +10309,7 @@
         },
         {
             "id": "ESiP5kSLjg2exhAh",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10395,7 +10420,7 @@
         {
             "id": "rB0kJuC158tvKsmj",
             "name": "Garbled Thoughts",
-            "items-description": "<p>Une créature touchée par la Frappe de morsure de l’akizendri doit faire un jet de @Check[type:will|dc:20]{Volonté} DD 20.</p>\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefiée 1} pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais la créature est aussi @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round.</p>"
+            "items-description": "<p>Une créature touchée par la Frappe de morsure de l’akizendri doit faire un jet de @Check[type:will|dc:20]{Volonté} DD 20.</p>\n<p><strong>Succès</strong> La créature n'est pas affectée.</p>\n<p><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupéfiée 1} pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>\n<p><strong>Échec critique</strong> Comme l'échec, mais la créature est aussi @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} pendant 1 round.</p>"
         },
         {
             "id": "K45PxGQvJlwB2Y0j",
@@ -10429,7 +10454,7 @@
         },
         {
             "id": "4f8Xn8AVpubItk3h",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10544,7 +10569,7 @@
         },
         {
             "id": "WJHihy42QBNSUonW",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10559,7 +10584,7 @@
         },
         {
             "id": "ghbtjQahExs1AvpE",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10659,7 +10684,7 @@
         },
         {
             "id": "EXLaDRArP4bsh7XH",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -10944,7 +10969,7 @@
         },
         {
             "id": "x4vlJSFL6WnsbK82",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11089,7 +11114,7 @@
         },
         {
             "id": "3c01H24sjgfJHyvI",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11215,11 +11240,11 @@
         {
             "id": "GCu6OFgRjem6F0sI",
             "name": "Witchflame",
-            "items-description": "<p>Toute créature qui reçoit des dégâts négatifs infligés par la Frappe d’une sorcière de feu doit faire un jet de @Check[type:will|dc:26]{Volonté} DD 26.</p>\n<div data-visibility=\"gm\">\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée et est temporairement immunisée contre les flammes ensorcelées pendant 1 heure.</p>\n<p><strong>Succès</strong> La créature semble engloutie dans des flammes vertes. Ces flammes n’infligent aucun dégât mais, tant qu’elles brûlent, pendant 1 round, la créature ne peut pas être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} (les créatures @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} sont quant à elles Masquées au lieu d’être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Indétectables}) et gagne faiblesse contre le feu 5.</p>\n<p><strong>Échec</strong> Comme un succès, mais l’effet est permanent jusqu’à ce qu’il soit dissipé.</p>\n<p><strong>Échec critique</strong> Comme un échec, mais la créature gagne faiblesse contre le feu 10.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.NHwmrSyF0e8HUE3m]{Effet : Flammes ensorcelées (Succès)}</p>\n<p>@Compendium[pf2e.bestiary-effects.L7SiTshdimUPWfnB]{Effet : Flammes ensorcelées (Échec)}</p>\n<p>@Compendium[pf2e.bestiary-effects.McawF8weCe7O81um]{Effet : Flammes ensorcelées (Échec critique)}</p>\n</div>"
+            "items-description": "<p>Toute créature qui reçoit des dégâts négatifs infligés par la Frappe d’une sorcière de feu doit faire un jet de @Check[type:will|dc:26]{Volonté} DD 26.</p>\n<hr />\n<p><strong>Succès critique</strong> La créature n’est pas affectée et est temporairement immunisée contre les flammes ensorcelées pendant 1 heure.</p>\n<p><strong>Succès</strong> La créature semble engloutie dans des flammes vertes. Ces flammes n’infligent aucun dégât mais, tant qu’elles brûlent, pendant 1 round, la créature ne peut pas être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masquée} (les créatures @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisibles} sont quant à elles Masquées au lieu d’être @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Indétectables}) et gagne faiblesse contre le feu 5.</p>\n<p><strong>Échec</strong> Comme un succès, mais l’effet est permanent jusqu’à ce qu’il soit dissipé.</p>\n<p><strong>Échec critique</strong> Comme un échec, mais la créature gagne faiblesse contre le feu 10.</p>\n<hr />\n<p>@Compendium[pf2e.bestiary-effects.NHwmrSyF0e8HUE3m]{Effet : Flammes ensorcelées (Succès)}</p>\n<p>@Compendium[pf2e.bestiary-effects.L7SiTshdimUPWfnB]{Effet : Flammes ensorcelées (Échec)}</p>\n<p>@Compendium[pf2e.bestiary-effects.McawF8weCe7O81um]{Effet : Flammes ensorcelées (Échec critique)}</p>"
         },
         {
             "id": "JWaVcBKV9F51VWja",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11294,7 +11319,7 @@
         },
         {
             "id": "wEzrLhyzfEwcfMlc",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11320,7 +11345,7 @@
         {
             "id": "gKqI8aZDucHlpC9C",
             "name": "Cowering Fear",
-            "items-description": "<p>Aura 27 mètres, DD 42</p>\n<p>Les créatures se recroquevillent de terreur face à la présence terrifiante du dévoreur draconique. Tant qu’une créature est au moins Effrayée 2 à cause de la Présence terrifiante du dévoreur, elle est aussi immobilisée par la peur.</p>"
+            "items-description": "<p>Aura 27 mètres, DD 42</p>\n<p>Les créatures se recroquevillent de terreur face à la présence terrifiante du dévoreur draconique. Tant qu’une créature est au moins@Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Effrayée 2} à cause de la Présence terrifiante du dévoreur, elle est aussi immobilisée par la peur.</p>"
         },
         {
             "id": "ALbbJNuSFbicqOfo",
@@ -11415,7 +11440,7 @@
         {
             "id": "t9ReCb126y5KXuru",
             "name": "Opportune Witchflame",
-            "items-description": "<p data-visibility=\"gm\"><strong>Déclencheur</strong> Une créature porte une Frappe de corps-à-corps contre la sorcière de feu ou la touche.</p>\n<p><strong>Effet</strong> La sorcière de feu utilise sa Frappe de caresse de flammes ensorcelées contre la créature déclencheuse.</p>"
+            "items-description": "<strong>Déclencheur</strong> Une créature porte une Frappe de corps-à-corps contre la sorcière de feu ou la touche.</p>\n<hr />\n<p><strong>Effet</strong> La sorcière de feu utilise sa Frappe de caresse de flammes ensorcelées contre la créature déclencheuse.</p>"
         },
         {
             "id": "qcCotjUp5yYyWkjT",
@@ -11429,7 +11454,7 @@
         },
         {
             "id": "A18yDTtE84tJ1jhJ",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11454,7 +11479,7 @@
         },
         {
             "id": "N1nMBoBunIANgCSx",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11479,7 +11504,7 @@
         },
         {
             "id": "gKujbrE9tdbREcZi",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11539,7 +11564,7 @@
         },
         {
             "id": "QNvBVG4wk0atHVo9",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {
@@ -11649,7 +11674,7 @@
         },
         {
             "id": "YwEDGRZpJYEj2PKw",
-            "name": "+1 Status Bonus on Saves vs Magic",
+            "name": "+1 Status to All Saves vs Magic",
             "items-description": ""
         },
         {

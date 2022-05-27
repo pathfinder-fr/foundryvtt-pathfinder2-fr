@@ -2,10 +2,10 @@
 
  * **libre**: 265
  * **officielle**: 49
- * **aucune**: 9
+ * **aucune**: 17
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -13,9 +13,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    |
 |-----------|-------------|
 |[18Jzk3gAsXspFOYC.htm](backgrounds/18Jzk3gAsXspFOYC.htm)|Haunted Citizen|
+|[1Fpf40RBd0EgwP7R.htm](backgrounds/1Fpf40RBd0EgwP7R.htm)|Sentinel Reflectance|
+|[7OAX5QMd15svZJzX.htm](backgrounds/7OAX5QMd15svZJzX.htm)|Relentless Dedication|
 |[7QkQQsHjv2iNFIsF.htm](backgrounds/7QkQQsHjv2iNFIsF.htm)|Grave Robber|
+|[8hsMIh3lVGfZwjG5.htm](backgrounds/8hsMIh3lVGfZwjG5.htm)|Pillar|
+|[90vPOBrSXY27k0bL.htm](backgrounds/90vPOBrSXY27k0bL.htm)|Tyrant Witness|
 |[a9YjyQRNEOyespFf.htm](backgrounds/a9YjyQRNEOyespFf.htm)|Pyre Tender|
+|[CjNA8ippwoAvpxeI.htm](backgrounds/CjNA8ippwoAvpxeI.htm)|Ozem Experience|
 |[eGPlKAoYBTUqjyrr.htm](backgrounds/eGPlKAoYBTUqjyrr.htm)|Tomb Born|
+|[HMIfr9N4rco1dzBO.htm](backgrounds/HMIfr9N4rco1dzBO.htm)|Reclaimed|
+|[jjkY6r7NNWhxDqja.htm](backgrounds/jjkY6r7NNWhxDqja.htm)|Once Bitten|
+|[pChM2ApTVEQ8SohP.htm](backgrounds/pChM2ApTVEQ8SohP.htm)|Reclaimer Investigator|
 |[RPU1aNfVz3ZbymvV.htm](backgrounds/RPU1aNfVz3ZbymvV.htm)|Scion of Slayers|
 |[RxhdWJUoRTBEeHYZ.htm](backgrounds/RxhdWJUoRTBEeHYZ.htm)|Night Watch|
 |[Uk4W7mKQbLtDDHwo.htm](backgrounds/Uk4W7mKQbLtDDHwo.htm)|Curandero|
@@ -71,7 +79,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6PGFGpkNQv6uuhO3.htm](backgrounds/6PGFGpkNQv6uuhO3.htm)|Eidolon Contact (Nature)|Contact d'Eidolon (Nature)|libre|
 |[6UmhTxOQeqFnppxx.htm](backgrounds/6UmhTxOQeqFnppxx.htm)|Guard|Garde|officielle|
 |[6vsoyCZKqxG0lVe8.htm](backgrounds/6vsoyCZKqxG0lVe8.htm)|Inlander|Habitant de l'intérieur des terres|libre|
-|[76j9ds5URXv1dqnm.htm](backgrounds/76j9ds5URXv1dqnm.htm)|Plant Whisperer|Botanniste|libre|
+|[76j9ds5URXv1dqnm.htm](backgrounds/76j9ds5URXv1dqnm.htm)|Plant Whisperer|Botaniste|libre|
 |[76RK9WizWYdyhMy5.htm](backgrounds/76RK9WizWYdyhMy5.htm)|Mammoth Speaker|Dresseur de mammouth|libre|
 |[7AfixHrjbXgDPPkp.htm](backgrounds/7AfixHrjbXgDPPkp.htm)|Translator|Traducteur|libre|
 |[7fCZTzmv5I2dI4sr.htm](backgrounds/7fCZTzmv5I2dI4sr.htm)|Discarded Duplicate|Doublure rejetée|libre|

@@ -1,12 +1,19 @@
 # État de la traduction (conditionitems)
 
  * **libre**: 9
- * **officielle**: 33
+ * **officielle**: 32
+ * **changé**: 1
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
+## Liste des éléments changés en VO et devant être vérifiés
+
+| Fichier   | Nom (EN)    | Nom (FR)    | État |
+|-----------|-------------|-------------|:----:|
+|[yblD8fOR1J8rDwEQ.htm](conditionitems/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|changé|
+
 ## Liste des traductions complétés
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
@@ -49,7 +56,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[VRSef5y1LmL2Hkjf.htm](conditionitems/VRSef5y1LmL2Hkjf.htm)|Undetected|Non détecté|officielle|
 |[XgEqL1kFApUbl5Z2.htm](conditionitems/XgEqL1kFApUbl5Z2.htm)|Blinded|Aveuglé|officielle|
 |[xYTAsEpcJE1Ccni3.htm](conditionitems/xYTAsEpcJE1Ccni3.htm)|Slowed|Ralenti|libre|
-|[yblD8fOR1J8rDwEQ.htm](conditionitems/yblD8fOR1J8rDwEQ.htm)|Confused|Confus|officielle|
 |[Yl48xTdMh3aeQYL2.htm](conditionitems/Yl48xTdMh3aeQYL2.htm)|Wounded|Blessé|libre|
 |[yZRUzMqrMmfLu0V1.htm](conditionitems/yZRUzMqrMmfLu0V1.htm)|Dying|Mourant|officielle|
 |[zJxUflt9np0q4yML.htm](conditionitems/zJxUflt9np0q4yML.htm)|Invisible|Invisible|officielle|

@@ -1,13 +1,13 @@
 # État de la traduction (spell-effects)
 
- * **libre**: 337
+ * **libre**: 338
  * **officielle**: 23
  * **vide**: 1
  * **aucune**: 12
- * **changé**: 6
+ * **changé**: 5
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -31,7 +31,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
-|[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|changé|
 |[03-782NyomkDHyfsUn6.htm](spell-effects/03-782NyomkDHyfsUn6.htm)|Spell Effect: Insect Form (Spider)|Effet : Forme d'insecte (Araignée)|changé|
 |[03-bOjuEX3qj7XAOoDF.htm](spell-effects/03-bOjuEX3qj7XAOoDF.htm)|Spell Effect: Insect Form (Scorpion)|Effet : Forme d'insecte (Scorpion)|changé|
 |[03-DENMzySYANjUBs4O.htm](spell-effects/03-DENMzySYANjUBs4O.htm)|Spell Effect: Insect Form (Centipede)|Effet : Forme d'insecte (Mille-pattes)|changé|
@@ -118,6 +117,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-I4PsUAaYSUJ8pwKC.htm](spell-effects/01-I4PsUAaYSUJ8pwKC.htm)|Spell Effect: Ray of Frost|Effet : Rayon de givre|libre|
 |[01-i9YITDcrq1nKjV5l.htm](spell-effects/01-i9YITDcrq1nKjV5l.htm)|Spell Effect: Infectious Melody|Effet : Mélodie infectieuse|libre|
 |[01-J60rN48XzBGHmR6m.htm](spell-effects/01-J60rN48XzBGHmR6m.htm)|Spell Effect: Element Embodied (Air)|Effet : Incarnation élémentaire (Air)|libre|
+|[01-Jemq5UknGdMO7b73.htm](spell-effects/01-Jemq5UknGdMO7b73.htm)|Spell Effect: Shield|Effet : Bouclier|libre|
 |[01-JhihziXQuoteftdd.htm](spell-effects/01-JhihziXQuoteftdd.htm)|Spell Effect: Lay on Hands (Vs. Undead)|Effet : Imposition des mains (contre les morts-vivants)|libre|
 |[01-jKrLpG74nLHYGyWB.htm](spell-effects/01-jKrLpG74nLHYGyWB.htm)|Spell Effect: Nudge Fate|Effet : Coup de pouce au destin|libre|
 |[01-jp88SCE3VCRAyE6x.htm](spell-effects/01-jp88SCE3VCRAyE6x.htm)|Spell Effect: Element Embodied (Earth)|Effet : Incarnation élémentaire (Terre)|libre|

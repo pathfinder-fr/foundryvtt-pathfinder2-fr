@@ -2,10 +2,10 @@
 
  * **libre**: 181
  * **changé**: 6
- * **aucune**: 30
+ * **aucune**: 39
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -15,8 +15,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-0r2V1nK5pV31IUPY.htm](feat-effects/01-0r2V1nK5pV31IUPY.htm)|Effect: Protective Mentor Boon (Revered) (PFS)|
 |[01-263Cd5JMj8Lgc9yz.htm](feat-effects/01-263Cd5JMj8Lgc9yz.htm)|Effect: Radiant Circuitry|
 |[01-2gVP04ZWYbQdX3uS.htm](feat-effects/01-2gVP04ZWYbQdX3uS.htm)|Effect: Spiral Sworn|
+|[01-3WzaQKb10AYLdTsQ.htm](feat-effects/01-3WzaQKb10AYLdTsQ.htm)|Effect: Corpse-Killer's Defiance|
+|[01-7MQLLkQACZt8cspt.htm](feat-effects/01-7MQLLkQACZt8cspt.htm)|Effect: Purifying Breeze|
+|[01-a7qiSYdlaIRPe57i.htm](feat-effects/01-a7qiSYdlaIRPe57i.htm)|Effect: Watchful Gaze|
 |[01-aqnx6IDcB7ARLxS5.htm](feat-effects/01-aqnx6IDcB7ARLxS5.htm)|Effect: Wyrmblessed Blood Magic (Status Penalty - Target)|
 |[01-BHnunYPROBG5lxv4.htm](feat-effects/01-BHnunYPROBG5lxv4.htm)|Effect: Heroes' Call|
+|[01-cA6ps8RKE0gysEWr.htm](feat-effects/01-cA6ps8RKE0gysEWr.htm)|Effect: Prayer-Touched Weapon|
+|[01-ctiTtuRWFjAnWdYQ.htm](feat-effects/01-ctiTtuRWFjAnWdYQ.htm)|Effect: Corpse-Killer's Defiance (Lower Level)|
 |[01-e6mv68aarIbQ3tXL.htm](feat-effects/01-e6mv68aarIbQ3tXL.htm)|Effect: Undying Conviction|
 |[01-EQCnu8DGHDDNXch0.htm](feat-effects/01-EQCnu8DGHDDNXch0.htm)|Effect: Reanimator Dedication|
 |[01-ErLweSmVAN57QIpp.htm](feat-effects/01-ErLweSmVAN57QIpp.htm)|Effect: Nanite Surge|
@@ -25,9 +30,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[01-K0Sv9AHgq245hSLC.htm](feat-effects/01-K0Sv9AHgq245hSLC.htm)|Effect: Inspired Stratagem|
 |[01-kzSjzK72CQ67wfBH.htm](feat-effects/01-kzSjzK72CQ67wfBH.htm)|Effect: Protective Spirit Mask|
 |[01-lbe8XDSZB8gwyg90.htm](feat-effects/01-lbe8XDSZB8gwyg90.htm)|Effect: Protective Mentor Boon (Admired) (PFS)|
+|[01-OeZ0E1oUKyGPxPy0.htm](feat-effects/01-OeZ0E1oUKyGPxPy0.htm)|Effect: Push Back the Dead!|
 |[01-oKJr59FYdDORxLcR.htm](feat-effects/01-oKJr59FYdDORxLcR.htm)|Effect: Worldly Mentor Boon (PFS)|
 |[01-OKOqC1wswrh9jXqP.htm](feat-effects/01-OKOqC1wswrh9jXqP.htm)|Effect: Protective Mentor Boon (Liked) (PFS)|
 |[01-q2kY0TzXloJ8HLNO.htm](feat-effects/01-q2kY0TzXloJ8HLNO.htm)|Effect: Combat Mentor Boon (PFS)|
+|[01-qM4bQfcwZ0EOS2M9.htm](feat-effects/01-qM4bQfcwZ0EOS2M9.htm)|Effect: Inspiring Resilience|
 |[01-r4kb2zDepFeczMsl.htm](feat-effects/01-r4kb2zDepFeczMsl.htm)|Effect: Bone Swarm|
 |[01-SKjVvQcRQmnDoouw.htm](feat-effects/01-SKjVvQcRQmnDoouw.htm)|Effect: Skillful Mentor Boon (PFS)|
 |[01-tlft5vzk66iWCVRq.htm](feat-effects/01-tlft5vzk66iWCVRq.htm)|Effect: Safeguard Soul|
@@ -35,6 +42,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[05-8E5SCmFndGAvgkTw.htm](feat-effects/05-8E5SCmFndGAvgkTw.htm)|Effect: Energize Wings|
 |[05-ITvyvbB234bxceRK.htm](feat-effects/05-ITvyvbB234bxceRK.htm)|Effect: Mutate Weapon|
 |[09-3GPh6O3PJxORytAC.htm](feat-effects/09-3GPh6O3PJxORytAC.htm)|Effect: Shadow Sight|
+|[09-4xtHFRGI05SNe9rA.htm](feat-effects/09-4xtHFRGI05SNe9rA.htm)|Effect: Hungry Goblin|
 |[09-DWrsDJte9sez0Ppi.htm](feat-effects/09-DWrsDJte9sez0Ppi.htm)|Effect: Rampaging Form|
 |[09-EVRcdGt4awWPgXla.htm](feat-effects/09-EVRcdGt4awWPgXla.htm)|Effect: Arcane Propulsion|
 |[09-WRe8qbemruWxkN8d.htm](feat-effects/09-WRe8qbemruWxkN8d.htm)|Effect: Rampaging Form (Frozen Winds Kitsune)|
@@ -42,6 +50,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[13-JwDCoBIwyhOFnDGZ.htm](feat-effects/13-JwDCoBIwyhOFnDGZ.htm)|Effect: Augment Senses|
 |[17-7hQnwwsixZmXzdIT.htm](feat-effects/17-7hQnwwsixZmXzdIT.htm)|Effect: Channel the Godmind|
 |[17-Ljrx4N5XACKSk1Ks.htm](feat-effects/17-Ljrx4N5XACKSk1Ks.htm)|Effect: Core Cannon|
+|[17-rvyeOU7TQTLnKj03.htm](feat-effects/17-rvyeOU7TQTLnKj03.htm)|Effect: Reckless Abandon (Goblin)|
 
 ## Liste des éléments changés en VO et devant être vérifiés
 

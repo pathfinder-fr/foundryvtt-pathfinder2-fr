@@ -1,11 +1,11 @@
 # État de la traduction (archetypes)
 
- * **aucune**: 39
+ * **aucune**: 42
  * **changé**: 75
  * **libre**: 3
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -20,6 +20,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[ARb0Q9D2gmqalPnM.htm](archetypes/ARb0Q9D2gmqalPnM.htm)|Beast Gunner|
 |[BoQoRKcqWXy0goJ3.htm](archetypes/BoQoRKcqWXy0goJ3.htm)|Geomancer|
 |[BySNnolPXqkgNhRq.htm](archetypes/BySNnolPXqkgNhRq.htm)|Wrestler|
+|[c1x2yJ2QJd78yPw5.htm](archetypes/c1x2yJ2QJd78yPw5.htm)|Lich|
 |[CCOKsVXfJi33GDfg.htm](archetypes/CCOKsVXfJi33GDfg.htm)|Pistol Phenom|
 |[CmCmbpn10LJcjH78.htm](archetypes/CmCmbpn10LJcjH78.htm)|Sixth Pillar|
 |[DhDl0hqDaspgHs9U.htm](archetypes/DhDl0hqDaspgHs9U.htm)|Undead Slayer|
@@ -31,6 +32,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[F2rGgAD4xzrEBLKH.htm](archetypes/F2rGgAD4xzrEBLKH.htm)|Reanimator|
 |[g8szoqn9W6Yeoq9U.htm](archetypes/g8szoqn9W6Yeoq9U.htm)|Unexpected Sharpshooter|
 |[hSRlaKyaypX99jI0.htm](archetypes/hSRlaKyaypX99jI0.htm)|Exorcist|
+|[IAGf5xKnSiF0zIVQ.htm](archetypes/IAGf5xKnSiF0zIVQ.htm)|Ghoul|
 |[IssZ6cIjxaE5XtTs.htm](archetypes/IssZ6cIjxaE5XtTs.htm)|Demolitionist|
 |[j5fPf7JyXvprcA8L.htm](archetypes/j5fPf7JyXvprcA8L.htm)|Game Hunter|
 |[lFMO8BTQ5H3UMFxp.htm](archetypes/lFMO8BTQ5H3UMFxp.htm)|Undead Master|
@@ -46,6 +48,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rz9crOU1hOdMlhTd.htm](archetypes/Rz9crOU1hOdMlhTd.htm)|Spellshot|
 |[S82AsQp9Iyjff12F.htm](archetypes/S82AsQp9Iyjff12F.htm)|Golden League Xun|
 |[sOKDxFZb1NSUX2Pu.htm](archetypes/sOKDxFZb1NSUX2Pu.htm)|Sterling Dynamo|
+|[tg4aDY9HhLmhabfC.htm](archetypes/tg4aDY9HhLmhabfC.htm)|Ghost|
 |[uD2IBwz4Z9VvI4op.htm](archetypes/uD2IBwz4Z9VvI4op.htm)|Wellspring Mage|
 |[WKFRUlfhPIbFBm7Z.htm](archetypes/WKFRUlfhPIbFBm7Z.htm)|Spell Trickster|
 |[WQiwS58CFhPwMUKo.htm](archetypes/WQiwS58CFhPwMUKo.htm)|Sniping Duo|

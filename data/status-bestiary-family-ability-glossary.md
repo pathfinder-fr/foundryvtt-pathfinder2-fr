@@ -1,12 +1,12 @@
 # État de la traduction (bestiary-family-ability-glossary)
 
- * **aucune**: 47
+ * **aucune**: 55
  * **officielle**: 52
  * **libre**: 40
  * **changé**: 59
 
 
-Dernière mise à jour: 2022-05-22 11:41 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -23,16 +23,20 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[4pBHIGtTK9yQmZ7h.htm](bestiary-family-ability-glossary/4pBHIGtTK9yQmZ7h.htm)|(Beheaded) Lifesense 60 feet|
 |[7TYLgIMDGgUfbgGY.htm](bestiary-family-ability-glossary/7TYLgIMDGgUfbgGY.htm)|(Lich) Mask Death|
 |[7W6v0oULg9TCz9ym.htm](bestiary-family-ability-glossary/7W6v0oULg9TCz9ym.htm)|(Zombie) Spitting Zombie|
+|[8IQqWkLqzvWA1JRJ.htm](bestiary-family-ability-glossary/8IQqWkLqzvWA1JRJ.htm)|(Vampire, Strigoi Progenitor) Create Spawn|
 |[97Eo5oA1WeMJA7nR.htm](bestiary-family-ability-glossary/97Eo5oA1WeMJA7nR.htm)|(Skeleton) Grave Eruption|
 |[AkkmaixGqzw75h7W.htm](bestiary-family-ability-glossary/AkkmaixGqzw75h7W.htm)|(Graveknight) Eager for Battle|
 |[apVBHJT95t9Fhxpb.htm](bestiary-family-ability-glossary/apVBHJT95t9Fhxpb.htm)|(Zombie) Infested Zombie|
 |[AvoSAlqB8mZfjwr9.htm](bestiary-family-ability-glossary/AvoSAlqB8mZfjwr9.htm)|(Skeleton) Aquatic Bones|
+|[AzvCvgx9SUAB2blo.htm](bestiary-family-ability-glossary/AzvCvgx9SUAB2blo.htm)|(Vampire, Strigoi) Domain of Dusk|
 |[BBqjQN5Gbe4PWP56.htm](bestiary-family-ability-glossary/BBqjQN5Gbe4PWP56.htm)|(Vampire, Jiang-Shi, Basic) One More Breath|
 |[buyzzomLTrIdVvTU.htm](bestiary-family-ability-glossary/buyzzomLTrIdVvTU.htm)|(Skeleton) Frozen|
 |[DIYZNvVP28U2UnDb.htm](bestiary-family-ability-glossary/DIYZNvVP28U2UnDb.htm)|(Siabrae) Earth Glide|
 |[EpDyZ0mG9beLkBna.htm](bestiary-family-ability-glossary/EpDyZ0mG9beLkBna.htm)|(Vampire, Vetalarana, Basic) Drain Thoughts|
+|[eQLGYrJhu787pEwc.htm](bestiary-family-ability-glossary/eQLGYrJhu787pEwc.htm)|(Vampire, Strigoi) Shadow Form|
 |[Es8g7kZrLAuNdiD1.htm](bestiary-family-ability-glossary/Es8g7kZrLAuNdiD1.htm)|(Siabrae) Miasma|
 |[EyFVoDiReJsBx1rf.htm](bestiary-family-ability-glossary/EyFVoDiReJsBx1rf.htm)|(Lich) Animate Cage|
+|[fh7ar6QrFT8YWgQ9.htm](bestiary-family-ability-glossary/fh7ar6QrFT8YWgQ9.htm)|(Vampire, Strigoi Progenitor) Drink Essence|
 |[gbKpCw21tEmehq6e.htm](bestiary-family-ability-glossary/gbKpCw21tEmehq6e.htm)|(Siabrae) Rejuvenation|
 |[GgmLWLBLGaFvunTS.htm](bestiary-family-ability-glossary/GgmLWLBLGaFvunTS.htm)|(Vampire, Vetalarana, Basic) Thoughtsense 100 feet|
 |[hfT7YDwx0UX4expm.htm](bestiary-family-ability-glossary/hfT7YDwx0UX4expm.htm)|(Lich) Steal Soul|
@@ -45,8 +49,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[OSnNiMdqgARyEVuv.htm](bestiary-family-ability-glossary/OSnNiMdqgARyEVuv.htm)|(Vampire, Jiang-Shi, Basic) Breathsense 60 feet|
 |[px2XMvw2s5RLV0X1.htm](bestiary-family-ability-glossary/px2XMvw2s5RLV0X1.htm)|(Lich) Aura of Rot|
 |[Qf94y985g0o6lEoN.htm](bestiary-family-ability-glossary/Qf94y985g0o6lEoN.htm)|(Zombie) Tearing Grapple|
+|[qjgrMhwz78T31kLU.htm](bestiary-family-ability-glossary/qjgrMhwz78T31kLU.htm)|(Vampire, Strigoi) Strigoi Weaknesses|
 |[QMlQ5AvcunCvjlfM.htm](bestiary-family-ability-glossary/QMlQ5AvcunCvjlfM.htm)|(Vampire, Jiang-Shi, Basic) Drain Qi|
 |[R1vYhCJ2KvT8uAy1.htm](bestiary-family-ability-glossary/R1vYhCJ2KvT8uAy1.htm)|(Vampire, Jiang-Shi, Basic) Jiang-Shi Vulnerabilities|
+|[R5VgwNbwc3QbqVXC.htm](bestiary-family-ability-glossary/R5VgwNbwc3QbqVXC.htm)|(Vampire, Strigoi Progenitor) Shadow Escape|
+|[rBc9fJlMXhzvn05L.htm](bestiary-family-ability-glossary/rBc9fJlMXhzvn05L.htm)|(Vampire, Strigoi) Drink Essence|
 |[rdQzd5ClgGPP4Qmt.htm](bestiary-family-ability-glossary/rdQzd5ClgGPP4Qmt.htm)|(Skeleton) Nimble|
 |[rwEFqSLw4yIscGrO.htm](bestiary-family-ability-glossary/rwEFqSLw4yIscGrO.htm)|(Vampire, Vetalarana, Basic) Vetalarana Vulnerabilities|
 |[sWDlb5vJRK092MMt.htm](bestiary-family-ability-glossary/sWDlb5vJRK092MMt.htm)|(Vampire, Vetalarana, Manipulator) Control Comatose|
@@ -59,6 +66,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[yfNDFjz7VBvvLwee.htm](bestiary-family-ability-glossary/yfNDFjz7VBvvLwee.htm)|(Vampire, Vetalarana, Manipulator) Paralyzing Claws|
 |[yLdiZ2AnjZ8KuT7v.htm](bestiary-family-ability-glossary/yLdiZ2AnjZ8KuT7v.htm)|(Skeleton) Bone Storm|
 |[YVw626nVHlWwm4ej.htm](bestiary-family-ability-glossary/YVw626nVHlWwm4ej.htm)|(Skeleton) Crumbling Bones|
+|[zehifmU1fTeGs2ev.htm](bestiary-family-ability-glossary/zehifmU1fTeGs2ev.htm)|(Vampire, Strigoi) Levitation|
 |[ZRHUnhaHK2w1el8f.htm](bestiary-family-ability-glossary/ZRHUnhaHK2w1el8f.htm)|(Skeleton) Lacquered|
 
 ## Liste des éléments changés en VO et devant être vérifiés
