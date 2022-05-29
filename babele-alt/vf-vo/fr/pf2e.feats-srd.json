@@ -5946,7 +5946,7 @@
         {
             "id": "Greater Animal Senses (Precise Tremorsense)",
             "name": "Sens animaux supérieurs (perception des vibrations précise) (Greater Animal Senses (Precise Tremorsense))",
-            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez perception des vibrations précise 9 mètres. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez perception des vibrations 9 m. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
             "prereq": [
                 {
                     "value": "Sens animaux supérieurs (perception des vibrations)"
@@ -9716,7 +9716,7 @@
         {
             "id": "Greater Animal Senses (Tremorsense)",
             "name": "Sens animaux supérieur (Perception des vibrations) (Greater Animal Senses (Tremorsense))",
-            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez Perception des vibrations imprécise 9 mètres. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>"
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez Perception des vibrations (imprécis) 9 mètres. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>"
         },
         {
             "id": "Bardic Lore",
@@ -12193,7 +12193,7 @@
         {
             "id": "Clinging Shadows Initiate",
             "name": "Initié des ombres tenaces (Clinging Shadows Initiate)",
-            "description": "<p>Vous apprenez une posture mystique qui transforme votre ki en fûmée collante qui enveloppe vos membres, collant à tout ce que vous touchez.</p>\n<p>Vous obtenez le sort ki <em>@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]{Posture des ombres tenaces}</em>. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Adopter cette posture utilise un sort ki, les attaques d'ombre qu'il accorde n'en consomment pas de sorte que vous pouvez les utiliser aussi souvent que vous le souhaitez tant que vous restez dans cette posture.</p>",
+            "description": "<p>Vous apprenez une posture mystique qui transforme votre ki en fumée collante qui enveloppe vos membres, collant à tout ce que vous touchez.</p>\n<p>Vous obtenez le sort ki <em>@Compendium[pf2e.spells-srd.uJXs4M6IeixfPBLc]{Posture des ombres tenaces}</em>. Augmentez le nombre de points de focalisation de votre réserve de focalisation de 1. Adopter cette posture utilise un sort ki, les attaques d'ombre qu'il accorde n'en consomment pas de sorte que vous pouvez les utiliser aussi souvent que vous le souhaitez tant que vous restez dans cette posture.</p>",
             "prereq": [
                 {
                     "value": "Sorts ki"
@@ -19456,7 +19456,7 @@
         {
             "id": "Greater Animal Senses (Precise Echolocation)",
             "name": "Sens animaux supérieurs (écho-localisation précise) (Greater Animal Senses (Precise Echolocation))",
-            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez écho-localisation précise 9 mètres. Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
+            "description": "<p>Vos sens progressent pour correspondre à ceux de votre aspect animal. Vous obtenez écho-localisation (précis) 9 mètres.</p>\n<p>Si votre animal intérieur ne possède pas un type de sens spécifique, vous ne pouvez obtenir de sens avec ce don.</p>\n<hr />\n<p><strong>Spécial</strong> Vous pouvez choisir ce don plusieurs fois, soit en choisissant un sens différent soit pour améliorer un sens imprécis accordé par ce don pour en faire un sens précis.</p>",
             "prereq": [
                 {
                     "value": "Sens animaux supérieurs (écho-localisation)"

@@ -2,7 +2,7 @@
 
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 
@@ -303,7 +303,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Saut de Njini](actions/wt6jdjjje16Nx34f.htm)|Jumping Jenny|`@Compendium[pf2e.actionspf2e.wt6jdjjje16Nx34f]`|
 |[Sauter en hauteur](actions/2HJ4yuEFY1Cast4h.htm)|High Jump|`@Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]`|
 |[Sauter en longueur](actions/JUvAvruz7yRQXfz2.htm)|Long Jump|`@Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]`|
-|[Se Fondre dans la fûmée](actions/pTHMZLqWDJ3lkan9.htm)|Smoke Blending|`@Compendium[pf2e.actionspf2e.pTHMZLqWDJ3lkan9]`|
+|[Se Fondre dans la fumée](actions/pTHMZLqWDJ3lkan9.htm)|Smoke Blending|`@Compendium[pf2e.actionspf2e.pTHMZLqWDJ3lkan9]`|
 |[Se cacher](actions/XMcnh4cSI32tljXa.htm)|Hide|`@Compendium[pf2e.actionspf2e.XMcnh4cSI32tljXa]`|
 |[Se déguiser](actions/AJstokjdG6iDjVjE.htm)|Impersonate|`@Compendium[pf2e.actionspf2e.AJstokjdG6iDjVjE]`|
 |[Se faufiler](actions/kMcV8e5EZUxa6evt.htm)|Squeeze|`@Compendium[pf2e.actionspf2e.kMcV8e5EZUxa6evt]`|
@@ -876,7 +876,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Grand requin blanc](pathfinder-bestiary/WNiNj0Brn2LCYmwd.htm)|Great White Shark|`@Compendium[pf2e.pathfinder-bestiary.WNiNj0Brn2LCYmwd]`|
 |[Grand tertre](pathfinder-bestiary/6XlGTt3RveX49YbC.htm)|Shambler|`@Compendium[pf2e.pathfinder-bestiary.6XlGTt3RveX49YbC]`|
 |[Grands Cyclopes](pathfinder-bestiary/Zn0p5YjELMjEwkqx.htm)|Great Cyclops|`@Compendium[pf2e.pathfinder-bestiary.Zn0p5YjELMjEwkqx]`|
-|[Grenadier Homme-rat](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|`@Compendium[pf2e.pathfinder-bestiary.XbClt5wkqECrQToJ]`|
+|[Grenadier homme-rat](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|`@Compendium[pf2e.pathfinder-bestiary.XbClt5wkqECrQToJ]`|
 |[Griffon](pathfinder-bestiary/Oc5NXZmMkSDCRNlQ.htm)|Griffon|`@Compendium[pf2e.pathfinder-bestiary.Oc5NXZmMkSDCRNlQ]`|
 |[Grig (Esprit follet)](pathfinder-bestiary/j1mm6bb3hZ56jSrK.htm)|Grig|`@Compendium[pf2e.pathfinder-bestiary.j1mm6bb3hZ56jSrK]`|
 |[Grikkitog](pathfinder-bestiary/UPm2rwIevsX9Odbm.htm)|Grikkitog|`@Compendium[pf2e.pathfinder-bestiary.UPm2rwIevsX9Odbm]`|
@@ -1148,9 +1148,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Zaramuun](pathfinder-bestiary/31kXa1P0LUl38jYG.htm)|Zaramuun|`@Compendium[pf2e.pathfinder-bestiary.31kXa1P0LUl38jYG]`|
 |[Zombie pestiféré](pathfinder-bestiary/KxN9aGFGPxl6oLGF.htm)|Plague Zombie|`@Compendium[pf2e.pathfinder-bestiary.KxN9aGFGPxl6oLGF]`|
 |[Âme-en-peine](pathfinder-bestiary/HbROgIcU9Z9m6XuD.htm)|Wraith|`@Compendium[pf2e.pathfinder-bestiary.HbROgIcU9Z9m6XuD]`|
-|[Éclaireur Bourbiérin](pathfinder-bestiary/wifELOkkRO2634bc.htm)|Boggard Scout|`@Compendium[pf2e.pathfinder-bestiary.wifELOkkRO2634bc]`|
 |[Éclaireur Gnome des profondeurs](pathfinder-bestiary/9FZMzpAu4XhCI0IB.htm)|Deep Gnome Scout|`@Compendium[pf2e.pathfinder-bestiary.9FZMzpAu4XhCI0IB]`|
 |[Éclaireur Kobold](pathfinder-bestiary/rPaHIh0ICnTLnRO6.htm)|Kobold Scout|`@Compendium[pf2e.pathfinder-bestiary.rPaHIh0ICnTLnRO6]`|
+|[Éclaireur bourbiérin](pathfinder-bestiary/wifELOkkRO2634bc.htm)|Boggard Scout|`@Compendium[pf2e.pathfinder-bestiary.wifELOkkRO2634bc]`|
 |[Éclaireur diable des mers](pathfinder-bestiary/PXru127aJljwKhSy.htm)|Sea Devil Scout|`@Compendium[pf2e.pathfinder-bestiary.PXru127aJljwKhSy]`|
 |[Éclaireur homme-lézard](pathfinder-bestiary/1CzZINpYRcNBKDnO.htm)|Lizardfolk Scout|`@Compendium[pf2e.pathfinder-bestiary.1CzZINpYRcNBKDnO]`|
 |[Éfrit (Génie)](pathfinder-bestiary/c0zqasudrwZU3fdw.htm)|Efreeti|`@Compendium[pf2e.pathfinder-bestiary.c0zqasudrwZU3fdw]`|
@@ -1165,334 +1165,147 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Nom (FR)   | Nom (EN)    | Lien compendium |
 |------------|-------------|-----------------|
 |[](pathfinder-bestiary-items/sqZIq7wiLeITXB6q.htm)|Azure Worm Venom|`@Compendium[pf2e.pathfinder-bestiary.sqZIq7wiLeITXB6q]`|
-|[](pathfinder-bestiary-items/Ohby2hZPzWDoCkLo.htm)|Aura of Misfortune|`@Compendium[pf2e.pathfinder-bestiary.Ohby2hZPzWDoCkLo]`|
-|[](pathfinder-bestiary-items/j9R2dejFnXClVzKR.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.j9R2dejFnXClVzKR]`|
-|[](pathfinder-bestiary-items/Vst7qvKg3u5uhWKG.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.Vst7qvKg3u5uhWKG]`|
-|[](pathfinder-bestiary-items/JQ3FZtUvvt6RRRXF.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.JQ3FZtUvvt6RRRXF]`|
-|[](pathfinder-bestiary-items/ZCRCrZQCOFtODRBG.htm)|+2 Status to All Saves vs. Auditory and Visual|`@Compendium[pf2e.pathfinder-bestiary.ZCRCrZQCOFtODRBG]`|
-|[](pathfinder-bestiary-items/lqMgsu5wZAOsEwK2.htm)|Giant Viper Venom|`@Compendium[pf2e.pathfinder-bestiary.lqMgsu5wZAOsEwK2]`|
 |[](pathfinder-bestiary-items/RLggEzBamBn1M5sX.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.RLggEzBamBn1M5sX]`|
-|[](pathfinder-bestiary-items/L8QPL1ttGhwzsJOz.htm)|Weak Acid|`@Compendium[pf2e.pathfinder-bestiary.L8QPL1ttGhwzsJOz]`|
-|[](pathfinder-bestiary-items/KfFb9f7ZnoNzfyNt.htm)|Extra Reaction|`@Compendium[pf2e.pathfinder-bestiary.KfFb9f7ZnoNzfyNt]`|
-|[](pathfinder-bestiary-items/KWrM4BkUQ8ldHG0I.htm)|Eagle Dive|`@Compendium[pf2e.pathfinder-bestiary.KWrM4BkUQ8ldHG0I]`|
-|[](pathfinder-bestiary-items/K2pwGyKWkDm1x4Xh.htm)|Assume Form|`@Compendium[pf2e.pathfinder-bestiary.K2pwGyKWkDm1x4Xh]`|
-|[](pathfinder-bestiary-items/lFKVQJSD5lmRIdIT.htm)|Illusory Retreat|`@Compendium[pf2e.pathfinder-bestiary.lFKVQJSD5lmRIdIT]`|
-|[](pathfinder-bestiary-items/KyvMw6gZ8XlbMZI6.htm)|Quick Bomber|`@Compendium[pf2e.pathfinder-bestiary.KyvMw6gZ8XlbMZI6]`|
-|[](pathfinder-bestiary-items/Is4V63biDtNBVpi2.htm)|Improved Push 5 feet|`@Compendium[pf2e.pathfinder-bestiary.Is4V63biDtNBVpi2]`|
-|[](pathfinder-bestiary-items/rL7A4RH2uX8GGbWM.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary.rL7A4RH2uX8GGbWM]`|
 |[](pathfinder-bestiary-items/uEjliLhQWBsVYCsE.htm)|Maul|`@Compendium[pf2e.pathfinder-bestiary.uEjliLhQWBsVYCsE]`|
 |[](pathfinder-bestiary-items/z1Wnid4gCPgKMoV8.htm)|Water Healing|`@Compendium[pf2e.pathfinder-bestiary.z1Wnid4gCPgKMoV8]`|
 |[](pathfinder-bestiary-items/qCmKPruRObzVL1Dr.htm)|Screeching Advance|`@Compendium[pf2e.pathfinder-bestiary.qCmKPruRObzVL1Dr]`|
-|[](pathfinder-bestiary-items/MjvAem9y7U9Z9AnV.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.MjvAem9y7U9Z9AnV]`|
-|[](pathfinder-bestiary-items/Wf7eTH5SNYNO98tC.htm)|Evasion|`@Compendium[pf2e.pathfinder-bestiary.Wf7eTH5SNYNO98tC]`|
-|[](pathfinder-bestiary-items/ix1KQX8Ji2g1e9ID.htm)|Skewer|`@Compendium[pf2e.pathfinder-bestiary.ix1KQX8Ji2g1e9ID]`|
-|[](pathfinder-bestiary-items/oXq7JKUPh72N7tPy.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.oXq7JKUPh72N7tPy]`|
-|[](pathfinder-bestiary-items/MVKA8eKi1YTMeHKK.htm)|Powerful Charge|`@Compendium[pf2e.pathfinder-bestiary.MVKA8eKi1YTMeHKK]`|
-|[](pathfinder-bestiary-items/NpgXzERVlP06NMCx.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.NpgXzERVlP06NMCx]`|
-|[](pathfinder-bestiary-items/CAOop96qtFJsPw1k.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.CAOop96qtFJsPw1k]`|
 |[](pathfinder-bestiary-items/WhTbPOtlxlYvCpJ6.htm)|Homunculus Poison|`@Compendium[pf2e.pathfinder-bestiary.WhTbPOtlxlYvCpJ6]`|
-|[](pathfinder-bestiary-items/v0n7ntTptPAp7TPz.htm)|Brazier|`@Compendium[pf2e.pathfinder-bestiary.v0n7ntTptPAp7TPz]`|
 |[](pathfinder-bestiary-items/tDvcon2bK9xEGh90.htm)|Deadly Throw|`@Compendium[pf2e.pathfinder-bestiary.tDvcon2bK9xEGh90]`|
-|[](pathfinder-bestiary-items/oKuYToU9Nv9ALIIv.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.oKuYToU9Nv9ALIIv]`|
-|[](pathfinder-bestiary-items/vBXkfU5VjP7BNbGf.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.vBXkfU5VjP7BNbGf]`|
 |[](pathfinder-bestiary-items/Y198r9S2vz19SRbK.htm)|Drag|`@Compendium[pf2e.pathfinder-bestiary.Y198r9S2vz19SRbK]`|
-|[](pathfinder-bestiary-items/zadQdUq4eeiDSHSq.htm)|Shadow Spawn|`@Compendium[pf2e.pathfinder-bestiary.zadQdUq4eeiDSHSq]`|
-|[](pathfinder-bestiary-items/tBNqq8ckTUXGr6OA.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.tBNqq8ckTUXGr6OA]`|
 |[](pathfinder-bestiary-items/t4Gnn9gqqcKWerhM.htm)|Thorny Mass|`@Compendium[pf2e.pathfinder-bestiary.t4Gnn9gqqcKWerhM]`|
 |[](pathfinder-bestiary-items/otqsXx9gjh7rnOpU.htm)|Goblin Scuttle|`@Compendium[pf2e.pathfinder-bestiary.otqsXx9gjh7rnOpU]`|
-|[](pathfinder-bestiary-items/hvTnI184eIoLfwPq.htm)|Berserk Slam|`@Compendium[pf2e.pathfinder-bestiary.hvTnI184eIoLfwPq]`|
 |[](pathfinder-bestiary-items/RHsGeVOoFFoGYyZ1.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.RHsGeVOoFFoGYyZ1]`|
-|[](pathfinder-bestiary-items/TQcjKBbkOHwvxvhN.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.TQcjKBbkOHwvxvhN]`|
 |[](pathfinder-bestiary-items/a9nhBEqNFJ9N1rH5.htm)|Barbed Leg|`@Compendium[pf2e.pathfinder-bestiary.a9nhBEqNFJ9N1rH5]`|
 |[](pathfinder-bestiary-items/P7S7nuGr7qWkygVT.htm)|Stomp|`@Compendium[pf2e.pathfinder-bestiary.P7S7nuGr7qWkygVT]`|
-|[](pathfinder-bestiary-items/mGL7tbh4lfdWIVfJ.htm)|Hidden Movement|`@Compendium[pf2e.pathfinder-bestiary.mGL7tbh4lfdWIVfJ]`|
-|[](pathfinder-bestiary-items/fxVaypsTZKjHprzh.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.fxVaypsTZKjHprzh]`|
 |[](pathfinder-bestiary-items/ydBVkEJ8CwcPFkPB.htm)|Blood Feast|`@Compendium[pf2e.pathfinder-bestiary.ydBVkEJ8CwcPFkPB]`|
-|[](pathfinder-bestiary-items/MEAPfylvHHHbTqOf.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary.MEAPfylvHHHbTqOf]`|
-|[](pathfinder-bestiary-items/TBlcp9L0tEkA3jyF.htm)|Double Slice|`@Compendium[pf2e.pathfinder-bestiary.TBlcp9L0tEkA3jyF]`|
-|[](pathfinder-bestiary-items/iaTfEZ50lrTlV5Ku.htm)|Personality Fragments|`@Compendium[pf2e.pathfinder-bestiary.iaTfEZ50lrTlV5Ku]`|
-|[](pathfinder-bestiary-items/ktAqGeswWwl10ORn.htm)|Quick Stow|`@Compendium[pf2e.pathfinder-bestiary.ktAqGeswWwl10ORn]`|
-|[](pathfinder-bestiary-items/4pcckxSu3lSKQKx9.htm)|+2 Circumstance to All Saves vs Disease|`@Compendium[pf2e.pathfinder-bestiary.4pcckxSu3lSKQKx9]`|
-|[](pathfinder-bestiary-items/NCdnViWXztATwZA5.htm)|Fog Vision|`@Compendium[pf2e.pathfinder-bestiary.NCdnViWXztATwZA5]`|
-|[](pathfinder-bestiary-items/oDkPJwQC7jVjhBRN.htm)|Regeneration 20 (Deactivated by Acid or Fire)|`@Compendium[pf2e.pathfinder-bestiary.oDkPJwQC7jVjhBRN]`|
 |[](pathfinder-bestiary-items/xH8E3TYe6R3G6KEv.htm)|Locate Inevitable|`@Compendium[pf2e.pathfinder-bestiary.xH8E3TYe6R3G6KEv]`|
-|[](pathfinder-bestiary-items/yxQPTCjmsUlWSm7n.htm)|Revert Form|`@Compendium[pf2e.pathfinder-bestiary.yxQPTCjmsUlWSm7n]`|
-|[](pathfinder-bestiary-items/Umi21NTMrg5JA3IQ.htm)|Wight Spawn|`@Compendium[pf2e.pathfinder-bestiary.Umi21NTMrg5JA3IQ]`|
 |[](pathfinder-bestiary-items/TnaXi3v3iBDjotwd.htm)|Viper Venom|`@Compendium[pf2e.pathfinder-bestiary.TnaXi3v3iBDjotwd]`|
 |[](pathfinder-bestiary-items/z8Vh23jCIh7iroYs.htm)|Swarming Stings|`@Compendium[pf2e.pathfinder-bestiary.z8Vh23jCIh7iroYs]`|
 |[](pathfinder-bestiary-items/TtcFIJZjrZ4Vaaml.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary.TtcFIJZjrZ4Vaaml]`|
 |[](pathfinder-bestiary-items/Y1v59ZBvVAomH20U.htm)|Broad Swipe|`@Compendium[pf2e.pathfinder-bestiary.Y1v59ZBvVAomH20U]`|
-|[](pathfinder-bestiary-items/ZeFESJTxEPFbLeiy.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.ZeFESJTxEPFbLeiy]`|
-|[](pathfinder-bestiary-items/kppTcx5TylWkpfF1.htm)|Light Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.kppTcx5TylWkpfF1]`|
-|[](pathfinder-bestiary-items/WnbC97emFRGYOPR9.htm)|Sphere Of Oblivion|`@Compendium[pf2e.pathfinder-bestiary.WnbC97emFRGYOPR9]`|
-|[](pathfinder-bestiary-items/Vy2pPgrGJ3SguoOn.htm)|Shadow Hand|`@Compendium[pf2e.pathfinder-bestiary.Vy2pPgrGJ3SguoOn]`|
 |[](pathfinder-bestiary-items/R8f6nx9jMnFB03qP.htm)|Savage|`@Compendium[pf2e.pathfinder-bestiary.R8f6nx9jMnFB03qP]`|
-|[](pathfinder-bestiary-items/i5jZOGRVSvmKW82C.htm)|Golden Luck|`@Compendium[pf2e.pathfinder-bestiary.i5jZOGRVSvmKW82C]`|
 |[](pathfinder-bestiary-items/QphofWAqcVVsApgN.htm)|Calming Bioluminescence|`@Compendium[pf2e.pathfinder-bestiary.QphofWAqcVVsApgN]`|
 |[](pathfinder-bestiary-items/Rwgsw9DmxxBRN4NY.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.Rwgsw9DmxxBRN4NY]`|
 |[](pathfinder-bestiary-items/wwQOKHAUPw4ltzVK.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.wwQOKHAUPw4ltzVK]`|
 |[](pathfinder-bestiary-items/yTXiHzmRavI1BmKJ.htm)|Rend|`@Compendium[pf2e.pathfinder-bestiary.yTXiHzmRavI1BmKJ]`|
 |[](pathfinder-bestiary-items/TRcRCZ4v7cyZtfSF.htm)|Sandstorm Wrath|`@Compendium[pf2e.pathfinder-bestiary.TRcRCZ4v7cyZtfSF]`|
 |[](pathfinder-bestiary-items/ZNWKdUJvc61evvBc.htm)|Wide Swing|`@Compendium[pf2e.pathfinder-bestiary.ZNWKdUJvc61evvBc]`|
-|[](pathfinder-bestiary-items/J6pZtpCOYKA1AxsU.htm)|Blood of the Night|`@Compendium[pf2e.pathfinder-bestiary.J6pZtpCOYKA1AxsU]`|
 |[](pathfinder-bestiary-items/kwfQBdNFEco6T8zy.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.kwfQBdNFEco6T8zy]`|
 |[](pathfinder-bestiary-items/TyonmqwWHejYuBAN.htm)|Dervish Strike|`@Compendium[pf2e.pathfinder-bestiary.TyonmqwWHejYuBAN]`|
-|[](pathfinder-bestiary-items/mE1G6otJjruqyHkD.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.mE1G6otJjruqyHkD]`|
-|[](pathfinder-bestiary-items/mNomS6NBwvlheidl.htm)|Cube Face|`@Compendium[pf2e.pathfinder-bestiary.mNomS6NBwvlheidl]`|
 |[](pathfinder-bestiary-items/zEz9gGlpNBUnyF2Y.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.zEz9gGlpNBUnyF2Y]`|
 |[](pathfinder-bestiary-items/DMO6UkPLSSsCSybX.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.DMO6UkPLSSsCSybX]`|
-|[](pathfinder-bestiary-items/JRWZ0pJnxuJyvINn.htm)|+2 Status to All Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary.JRWZ0pJnxuJyvINn]`|
 |[](pathfinder-bestiary-items/xXuKG36gOYgi1D2d.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.xXuKG36gOYgi1D2d]`|
 |[](pathfinder-bestiary-items/UufKTkmVCcXkrBVb.htm)|Wing Thrash|`@Compendium[pf2e.pathfinder-bestiary.UufKTkmVCcXkrBVb]`|
 |[](pathfinder-bestiary-items/v77PLs3ZMXpMZOWj.htm)|Go for the Eyes|`@Compendium[pf2e.pathfinder-bestiary.v77PLs3ZMXpMZOWj]`|
-|[](pathfinder-bestiary-items/VCXj9VT8SpqcHdZS.htm)|Lifesense 120 feet|`@Compendium[pf2e.pathfinder-bestiary.VCXj9VT8SpqcHdZS]`|
 |[](pathfinder-bestiary-items/vKdhNyXTKHDMUfAc.htm)|Flames of Fury|`@Compendium[pf2e.pathfinder-bestiary.vKdhNyXTKHDMUfAc]`|
-|[](pathfinder-bestiary-items/HWoliZSTLItugTKi.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.HWoliZSTLItugTKi]`|
 |[](pathfinder-bestiary-items/YIHoSZN2nTp139Dg.htm)|Slink|`@Compendium[pf2e.pathfinder-bestiary.YIHoSZN2nTp139Dg]`|
 |[](pathfinder-bestiary-items/sslSR9PEr8cWdVop.htm)|Steal Shadow|`@Compendium[pf2e.pathfinder-bestiary.sslSR9PEr8cWdVop]`|
-|[](pathfinder-bestiary-items/w14YL6ltyHxsjfDO.htm)|Reality Twist|`@Compendium[pf2e.pathfinder-bestiary.w14YL6ltyHxsjfDO]`|
 |[](pathfinder-bestiary-items/ocNVtm84bTjxf93b.htm)|Spit|`@Compendium[pf2e.pathfinder-bestiary.ocNVtm84bTjxf93b]`|
-|[](pathfinder-bestiary-items/XfysylreSHBRTKzu.htm)|Performance|`@Compendium[pf2e.pathfinder-bestiary.XfysylreSHBRTKzu]`|
 |[](pathfinder-bestiary-items/zIgoZ6UuenqL0UvX.htm)|Dragon Heat|`@Compendium[pf2e.pathfinder-bestiary.zIgoZ6UuenqL0UvX]`|
-|[](pathfinder-bestiary-items/LUZas9EK4qLmUsox.htm)|Slowing Frost|`@Compendium[pf2e.pathfinder-bestiary.LUZas9EK4qLmUsox]`|
-|[](pathfinder-bestiary-items/Mj7eIolH2KmKRos4.htm)|Wyvern Venom|`@Compendium[pf2e.pathfinder-bestiary.Mj7eIolH2KmKRos4]`|
 |[](pathfinder-bestiary-items/WLKYWXEiwmc9uCr5.htm)|Master Link|`@Compendium[pf2e.pathfinder-bestiary.WLKYWXEiwmc9uCr5]`|
-|[](pathfinder-bestiary-items/kGQg9F0ZgW7fp4DB.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary.kGQg9F0ZgW7fp4DB]`|
 |[](pathfinder-bestiary-items/sqpUsCajoWHMhg1o.htm)|Rush|`@Compendium[pf2e.pathfinder-bestiary.sqpUsCajoWHMhg1o]`|
-|[](pathfinder-bestiary-items/NoNrnnXaKdOmoBx6.htm)|Hunted Fear|`@Compendium[pf2e.pathfinder-bestiary.NoNrnnXaKdOmoBx6]`|
-|[](pathfinder-bestiary-items/nXQUyl9JGuo2YBLG.htm)|Transparent|`@Compendium[pf2e.pathfinder-bestiary.nXQUyl9JGuo2YBLG]`|
-|[](pathfinder-bestiary-items/x47iDfIE9albveGl.htm)|Shadow Hand|`@Compendium[pf2e.pathfinder-bestiary.x47iDfIE9albveGl]`|
 |[](pathfinder-bestiary-items/ri68Bk0TcV1k9lqS.htm)|Altered Weather|`@Compendium[pf2e.pathfinder-bestiary.ri68Bk0TcV1k9lqS]`|
 |[](pathfinder-bestiary-items/oyHWuTde1I33SKT6.htm)|Lamia's Caress|`@Compendium[pf2e.pathfinder-bestiary.oyHWuTde1I33SKT6]`|
 |[](pathfinder-bestiary-items/tNVPutTbdl3sPaGf.htm)|Death Flare|`@Compendium[pf2e.pathfinder-bestiary.tNVPutTbdl3sPaGf]`|
-|[](pathfinder-bestiary-items/ii0tl0zE2tEgfPD4.htm)|Wolf Empathy|`@Compendium[pf2e.pathfinder-bestiary.ii0tl0zE2tEgfPD4]`|
 |[](pathfinder-bestiary-items/x8uwJOVGskq8pjOH.htm)|Circling Attack|`@Compendium[pf2e.pathfinder-bestiary.x8uwJOVGskq8pjOH]`|
-|[](pathfinder-bestiary-items/wTyVptTaqC4Su8lm.htm)|Energy Touch|`@Compendium[pf2e.pathfinder-bestiary.wTyVptTaqC4Su8lm]`|
-|[](pathfinder-bestiary-items/ya7kmwsMyQI69FrG.htm)|Far Lobber|`@Compendium[pf2e.pathfinder-bestiary.ya7kmwsMyQI69FrG]`|
-|[](pathfinder-bestiary-items/WkB3ob6zOZXGPfnf.htm)|Fog Vision|`@Compendium[pf2e.pathfinder-bestiary.WkB3ob6zOZXGPfnf]`|
 |[](pathfinder-bestiary-items/VBMoJbMPEmzIPu5X.htm)|Chill Breath|`@Compendium[pf2e.pathfinder-bestiary.VBMoJbMPEmzIPu5X]`|
 |[](pathfinder-bestiary-items/zqXzm6YAzfHGm8sq.htm)|Goblin Song|`@Compendium[pf2e.pathfinder-bestiary.zqXzm6YAzfHGm8sq]`|
-|[](pathfinder-bestiary-items/JBksJycZVWAJ0ESS.htm)|Invoke Rune|`@Compendium[pf2e.pathfinder-bestiary.JBksJycZVWAJ0ESS]`|
 |[](pathfinder-bestiary-items/pKPJ4u9g0HQyU7b6.htm)|Furious Fusillade|`@Compendium[pf2e.pathfinder-bestiary.pKPJ4u9g0HQyU7b6]`|
 |[](pathfinder-bestiary-items/YwidZ8QmOJ85iLcw.htm)|Blood Drain|`@Compendium[pf2e.pathfinder-bestiary.YwidZ8QmOJ85iLcw]`|
-|[](pathfinder-bestiary-items/YqWqB6EYv3yk0LPh.htm)|Frightful Moan|`@Compendium[pf2e.pathfinder-bestiary.YqWqB6EYv3yk0LPh]`|
-|[](pathfinder-bestiary-items/iUzYuqnjkPvxjVq6.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.iUzYuqnjkPvxjVq6]`|
-|[](pathfinder-bestiary-items/mdqK7RuSjtezVyS8.htm)|Filth Wave|`@Compendium[pf2e.pathfinder-bestiary.mdqK7RuSjtezVyS8]`|
 |[](pathfinder-bestiary-items/xX27SX9rrvhMXhIZ.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.xX27SX9rrvhMXhIZ]`|
 |[](pathfinder-bestiary-items/LBCwTLpo7BDaFfpf.htm)|+4 Status to All Saves vs Fear|`@Compendium[pf2e.pathfinder-bestiary.LBCwTLpo7BDaFfpf]`|
-|[](pathfinder-bestiary-items/Wa8dbVwSNL2tEHKt.htm)|Encircling Command|`@Compendium[pf2e.pathfinder-bestiary.Wa8dbVwSNL2tEHKt]`|
 |[](pathfinder-bestiary-items/yeHohyJSYfiTwghO.htm)|Battle Cry|`@Compendium[pf2e.pathfinder-bestiary.yeHohyJSYfiTwghO]`|
 |[](pathfinder-bestiary-items/GNpyzaHN2uioOy3x.htm)|Pick|`@Compendium[pf2e.pathfinder-bestiary.GNpyzaHN2uioOy3x]`|
 |[](pathfinder-bestiary-items/cOLbXO3zU7Pc0b9h.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.cOLbXO3zU7Pc0b9h]`|
-|[](pathfinder-bestiary-items/ONIHyZ3rL5vCjJod.htm)|Intimidating Display|`@Compendium[pf2e.pathfinder-bestiary.ONIHyZ3rL5vCjJod]`|
 |[](pathfinder-bestiary-items/cuoRWPoyJkfPoJ58.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.cuoRWPoyJkfPoJ58]`|
 |[](pathfinder-bestiary-items/skdB8eSpcqrot5k6.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.skdB8eSpcqrot5k6]`|
 |[](pathfinder-bestiary-items/VcfZ8SToykQ7MnHU.htm)|Goblin Scuttle|`@Compendium[pf2e.pathfinder-bestiary.VcfZ8SToykQ7MnHU]`|
-|[](pathfinder-bestiary-items/m6WhfbsOdnetGUAE.htm)|Camouflage|`@Compendium[pf2e.pathfinder-bestiary.m6WhfbsOdnetGUAE]`|
-|[](pathfinder-bestiary-items/nS51JCooM2dV2JTC.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary.nS51JCooM2dV2JTC]`|
 |[](pathfinder-bestiary-items/pCYQE7ydvnjQGmPi.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.pCYQE7ydvnjQGmPi]`|
 |[](pathfinder-bestiary-items/PIjZTZsbQlriq5X3.htm)|Giant Centipede Venom|`@Compendium[pf2e.pathfinder-bestiary.PIjZTZsbQlriq5X3]`|
 |[](pathfinder-bestiary-items/PZQRsmRUDWR50Kiq.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.PZQRsmRUDWR50Kiq]`|
-|[](pathfinder-bestiary-items/LJKNy957UOv4LqE5.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.LJKNy957UOv4LqE5]`|
-|[](pathfinder-bestiary-items/mbDpJL0NCrFdM2bb.htm)|Explosion|`@Compendium[pf2e.pathfinder-bestiary.mbDpJL0NCrFdM2bb]`|
 |[](pathfinder-bestiary-items/pbydRoHQnSpw50iV.htm)|Belly Grease|`@Compendium[pf2e.pathfinder-bestiary.pbydRoHQnSpw50iV]`|
-|[](pathfinder-bestiary-items/ZtVK4wU2SnZ0H3zl.htm)|Flaming Coal|`@Compendium[pf2e.pathfinder-bestiary.ZtVK4wU2SnZ0H3zl]`|
 |[](pathfinder-bestiary-items/OwDiH7gzfhf1i4hu.htm)|Wasp Venom|`@Compendium[pf2e.pathfinder-bestiary.OwDiH7gzfhf1i4hu]`|
-|[](pathfinder-bestiary-items/mB9tYATe35GSN6Tm.htm)|Starlight Blast|`@Compendium[pf2e.pathfinder-bestiary.mB9tYATe35GSN6Tm]`|
 |[](pathfinder-bestiary-items/ryo9HmpaThFAUxD6.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.ryo9HmpaThFAUxD6]`|
 |[](pathfinder-bestiary-items/y6bETzshaXTYx4Wq.htm)|Shell Rake|`@Compendium[pf2e.pathfinder-bestiary.y6bETzshaXTYx4Wq]`|
-|[](pathfinder-bestiary-items/L107mBB0Pcsz3T2q.htm)|Lurking Death|`@Compendium[pf2e.pathfinder-bestiary.L107mBB0Pcsz3T2q]`|
-|[](pathfinder-bestiary-items/kMmbg9uYz80oPVxp.htm)|Crossbow Precision|`@Compendium[pf2e.pathfinder-bestiary.kMmbg9uYz80oPVxp]`|
 |[](pathfinder-bestiary-items/rJiIUBXia2sB40kR.htm)|Woodland Stride|`@Compendium[pf2e.pathfinder-bestiary.rJiIUBXia2sB40kR]`|
-|[](pathfinder-bestiary-items/PHrmAQv1FUnGiNrw.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.PHrmAQv1FUnGiNrw]`|
-|[](pathfinder-bestiary-items/O5Hb34r44xT4xQZB.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.O5Hb34r44xT4xQZB]`|
-|[](pathfinder-bestiary-items/kC6oFte0xKiH0PxI.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.kC6oFte0xKiH0PxI]`|
 |[](pathfinder-bestiary-items/WLCM7iPJWfoRusL5.htm)|Death Roll|`@Compendium[pf2e.pathfinder-bestiary.WLCM7iPJWfoRusL5]`|
-|[](pathfinder-bestiary-items/Jvmi4nru2sCMB5Hn.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.Jvmi4nru2sCMB5Hn]`|
-|[](pathfinder-bestiary-items/Kpl3lLjfHM0hWhT5.htm)|Final Spite|`@Compendium[pf2e.pathfinder-bestiary.Kpl3lLjfHM0hWhT5]`|
-|[](pathfinder-bestiary-items/uzwUjI3gD8tO8Chh.htm)|Vulnerable to Flesh to Stone|`@Compendium[pf2e.pathfinder-bestiary.uzwUjI3gD8tO8Chh]`|
 |[](pathfinder-bestiary-items/bdbMvBqIkhaOvg4j.htm)|Slime Squirt|`@Compendium[pf2e.pathfinder-bestiary.bdbMvBqIkhaOvg4j]`|
-|[](pathfinder-bestiary-items/Ns2pok7e6UtuKUd6.htm)|Object Lesson|`@Compendium[pf2e.pathfinder-bestiary.Ns2pok7e6UtuKUd6]`|
-|[](pathfinder-bestiary-items/kAUwyvDAhkgyFkme.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.kAUwyvDAhkgyFkme]`|
-|[](pathfinder-bestiary-items/wqhHoIIgE3jfAgCx.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.wqhHoIIgE3jfAgCx]`|
-|[](pathfinder-bestiary-items/L8ZBoNle0ekONgCk.htm)|Sphere of Creation|`@Compendium[pf2e.pathfinder-bestiary.L8ZBoNle0ekONgCk]`|
-|[](pathfinder-bestiary-items/YS1lNceoORGTpa2L.htm)|Infused Items|`@Compendium[pf2e.pathfinder-bestiary.YS1lNceoORGTpa2L]`|
-|[](pathfinder-bestiary-items/YXiHAcR16OtpzApO.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.YXiHAcR16OtpzApO]`|
 |[](pathfinder-bestiary-items/icuRBAbmsZKQdilF.htm)|Dread Gaze|`@Compendium[pf2e.pathfinder-bestiary.icuRBAbmsZKQdilF]`|
 |[](pathfinder-bestiary-items/sIfVG6GaZyAaZ3xW.htm)|Pharyngeal Jaws|`@Compendium[pf2e.pathfinder-bestiary.sIfVG6GaZyAaZ3xW]`|
 |[](pathfinder-bestiary-items/qd9QFtwsgr9c7yLU.htm)|Water Healing|`@Compendium[pf2e.pathfinder-bestiary.qd9QFtwsgr9c7yLU]`|
-|[](pathfinder-bestiary-items/itJzZD6rxkMhtQQZ.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.itJzZD6rxkMhtQQZ]`|
-|[](pathfinder-bestiary-items/pwxCJBVZsNZOzHqr.htm)|Swarming|`@Compendium[pf2e.pathfinder-bestiary.pwxCJBVZsNZOzHqr]`|
 |[](pathfinder-bestiary-items/QqqqheeizksJ9NkJ.htm)|Aura of Peace|`@Compendium[pf2e.pathfinder-bestiary.QqqqheeizksJ9NkJ]`|
 |[](pathfinder-bestiary-items/vTXaShzYmcNbRjzk.htm)|Bloodcurdling Screech|`@Compendium[pf2e.pathfinder-bestiary.vTXaShzYmcNbRjzk]`|
-|[](pathfinder-bestiary-items/OG9zHmjCiir50sUt.htm)|Fast Healing 2 (In Open Air)|`@Compendium[pf2e.pathfinder-bestiary.OG9zHmjCiir50sUt]`|
-|[](pathfinder-bestiary-items/u5ZGQOwAVraOXVuo.htm)|Compression|`@Compendium[pf2e.pathfinder-bestiary.u5ZGQOwAVraOXVuo]`|
 |[](pathfinder-bestiary-items/s1vorlaJQl2JXBN2.htm)|Baton|`@Compendium[pf2e.pathfinder-bestiary.s1vorlaJQl2JXBN2]`|
 |[](pathfinder-bestiary-items/XGMdT1ANHdPUE8UO.htm)|Flaming Stroke|`@Compendium[pf2e.pathfinder-bestiary.XGMdT1ANHdPUE8UO]`|
-|[](pathfinder-bestiary-items/xYlf7HmaIqlHhW8O.htm)|Alchemist's Fire|`@Compendium[pf2e.pathfinder-bestiary.xYlf7HmaIqlHhW8O]`|
 |[](pathfinder-bestiary-items/epscB9eQsqVToqtK.htm)|Rock Or Metal Debris|`@Compendium[pf2e.pathfinder-bestiary.epscB9eQsqVToqtK]`|
 |[](pathfinder-bestiary-items/epm1yalbnFyUfJMs.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.epm1yalbnFyUfJMs]`|
-|[](pathfinder-bestiary-items/JChdzk7WZ7KUXqF7.htm)|Calcification|`@Compendium[pf2e.pathfinder-bestiary.JChdzk7WZ7KUXqF7]`|
 |[](pathfinder-bestiary-items/LhJUXHtFD2J1svlu.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.LhJUXHtFD2J1svlu]`|
-|[](pathfinder-bestiary-items/VxA7WerDGElBkdYj.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary.VxA7WerDGElBkdYj]`|
-|[](pathfinder-bestiary-items/VwrlDdZczBGO5Ps4.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.VwrlDdZczBGO5Ps4]`|
-|[](pathfinder-bestiary-items/M3QwWIU2rzRHWndo.htm)|Mimic Object|`@Compendium[pf2e.pathfinder-bestiary.M3QwWIU2rzRHWndo]`|
-|[](pathfinder-bestiary-items/LTwSnVSVWZeWrLAC.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary.LTwSnVSVWZeWrLAC]`|
-|[](pathfinder-bestiary-items/Hss992fc1sCOcDVo.htm)|Electric Reflexes|`@Compendium[pf2e.pathfinder-bestiary.Hss992fc1sCOcDVo]`|
-|[](pathfinder-bestiary-items/XJ5wfV6LNdfMn7EH.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.XJ5wfV6LNdfMn7EH]`|
 |[](pathfinder-bestiary-items/qugqAWTLubz9fcj2.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.qugqAWTLubz9fcj2]`|
-|[](pathfinder-bestiary-items/VdbR3tZZovSqgWq8.htm)|Axe Swipe|`@Compendium[pf2e.pathfinder-bestiary.VdbR3tZZovSqgWq8]`|
 |[](pathfinder-bestiary-items/vfDqURmKtNWQI7IJ.htm)|Lifesense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.vfDqURmKtNWQI7IJ]`|
-|[](pathfinder-bestiary-items/Mf7Y2TxYr2e5o2Ht.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.Mf7Y2TxYr2e5o2Ht]`|
-|[](pathfinder-bestiary-items/WX7zOVpbKUqeICJ0.htm)|Desert Wind|`@Compendium[pf2e.pathfinder-bestiary.WX7zOVpbKUqeICJ0]`|
 |[](pathfinder-bestiary-items/383lohD54D45DNRU.htm)|Lance|`@Compendium[pf2e.pathfinder-bestiary.383lohD54D45DNRU]`|
 |[](pathfinder-bestiary-items/tQ1m9uzdwC96pkCY.htm)|Hydraulic Asphyxiation|`@Compendium[pf2e.pathfinder-bestiary.tQ1m9uzdwC96pkCY]`|
-|[](pathfinder-bestiary-items/Y44FxT7CY4R6SkdW.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.Y44FxT7CY4R6SkdW]`|
 |[](pathfinder-bestiary-items/vjCJtuDBXH0SYNN7.htm)|Blood Frenzy|`@Compendium[pf2e.pathfinder-bestiary.vjCJtuDBXH0SYNN7]`|
-|[](pathfinder-bestiary-items/ihI9TF3YdNJFYytf.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.ihI9TF3YdNJFYytf]`|
 |[](pathfinder-bestiary-items/YdD2kpKW2TNfcupL.htm)|Goblin Scuttle|`@Compendium[pf2e.pathfinder-bestiary.YdD2kpKW2TNfcupL]`|
-|[](pathfinder-bestiary-items/M1Uh0E4VLZObTo3I.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.M1Uh0E4VLZObTo3I]`|
-|[](pathfinder-bestiary-items/NKPJH9dvADsJ0zhQ.htm)|Great Despair|`@Compendium[pf2e.pathfinder-bestiary.NKPJH9dvADsJ0zhQ]`|
 |[](pathfinder-bestiary-items/Qc7duDVeN4puhd9w.htm)|Electrical Burst|`@Compendium[pf2e.pathfinder-bestiary.Qc7duDVeN4puhd9w]`|
-|[](pathfinder-bestiary-items/Kjifw1jgDvfmrEGU.htm)|Steal Shadow|`@Compendium[pf2e.pathfinder-bestiary.Kjifw1jgDvfmrEGU]`|
 |[](pathfinder-bestiary-items/wd9cXI5wKeM8sebH.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.wd9cXI5wKeM8sebH]`|
-|[](pathfinder-bestiary-items/NQF0fD75864Ytav1.htm)|Captivating Song|`@Compendium[pf2e.pathfinder-bestiary.NQF0fD75864Ytav1]`|
-|[](pathfinder-bestiary-items/m0piXEdTBGvW1oIY.htm)|Push 10 feet|`@Compendium[pf2e.pathfinder-bestiary.m0piXEdTBGvW1oIY]`|
 |[](pathfinder-bestiary-items/uLf1dk5gMycZYjBy.htm)|+2 to All Saves vs Grapple or Shove|`@Compendium[pf2e.pathfinder-bestiary.uLf1dk5gMycZYjBy]`|
-|[](pathfinder-bestiary-items/PHSSOZNHO0AKJt1q.htm)|Blood Nourishment|`@Compendium[pf2e.pathfinder-bestiary.PHSSOZNHO0AKJt1q]`|
 |[](pathfinder-bestiary-items/UkuRoGDf37QBLm8k.htm)|Ice Stride|`@Compendium[pf2e.pathfinder-bestiary.UkuRoGDf37QBLm8k]`|
 |[](pathfinder-bestiary-items/yQ0WKMlep02TPvLi.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.yQ0WKMlep02TPvLi]`|
 |[](pathfinder-bestiary-items/YpgcfJpD1jMhcu1X.htm)|Devil Shaping|`@Compendium[pf2e.pathfinder-bestiary.YpgcfJpD1jMhcu1X]`|
-|[](pathfinder-bestiary-items/jvmfyWcZp1aZiZqS.htm)|Claw Frenzy|`@Compendium[pf2e.pathfinder-bestiary.jvmfyWcZp1aZiZqS]`|
 |[](pathfinder-bestiary-items/xGPdcgIZR0tAI9IY.htm)|Hair Barrage|`@Compendium[pf2e.pathfinder-bestiary.xGPdcgIZR0tAI9IY]`|
 |[](pathfinder-bestiary-items/TfSlL9Vupc8WC8jy.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.TfSlL9Vupc8WC8jy]`|
 |[](pathfinder-bestiary-items/RoHDkOS2aYfoab02.htm)|Reflect Spell|`@Compendium[pf2e.pathfinder-bestiary.RoHDkOS2aYfoab02]`|
-|[](pathfinder-bestiary-items/i9LmbR4DKZeW0lRN.htm)|Shard Storm|`@Compendium[pf2e.pathfinder-bestiary.i9LmbR4DKZeW0lRN]`|
-|[](pathfinder-bestiary-items/TXy3zvlvlJECNrWn.htm)|Shell Block|`@Compendium[pf2e.pathfinder-bestiary.TXy3zvlvlJECNrWn]`|
 |[](pathfinder-bestiary-items/uRZywk7870Tfgxnp.htm)|Axe Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.uRZywk7870Tfgxnp]`|
 |[](pathfinder-bestiary-items/XQKbqAKqILs3dbvQ.htm)|Water Dependent|`@Compendium[pf2e.pathfinder-bestiary.XQKbqAKqILs3dbvQ]`|
 |[](pathfinder-bestiary-items/Wsl0Qe07OtlNGmr0.htm)|Subservience|`@Compendium[pf2e.pathfinder-bestiary.Wsl0Qe07OtlNGmr0]`|
-|[](pathfinder-bestiary-items/WQED2R71AMrx1suT.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary.WQED2R71AMrx1suT]`|
-|[](pathfinder-bestiary-items/NfSCCIAzcvdGsuLs.htm)|Keepsake|`@Compendium[pf2e.pathfinder-bestiary.NfSCCIAzcvdGsuLs]`|
 |[](pathfinder-bestiary-items/zeopy130t1G5DRUp.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.zeopy130t1G5DRUp]`|
 |[](pathfinder-bestiary-items/ZDJkjnIor7qxsiSU.htm)|Strangle|`@Compendium[pf2e.pathfinder-bestiary.ZDJkjnIor7qxsiSU]`|
 |[](pathfinder-bestiary-items/zgR8Rwk8qwhkLVy6.htm)|Death Throes|`@Compendium[pf2e.pathfinder-bestiary.zgR8Rwk8qwhkLVy6]`|
-|[](pathfinder-bestiary-items/jJ0nUZ8hgrpWlXtS.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary.jJ0nUZ8hgrpWlXtS]`|
 |[](pathfinder-bestiary-items/ZWzIyAxYv8ApHu3K.htm)|Shield Push|`@Compendium[pf2e.pathfinder-bestiary.ZWzIyAxYv8ApHu3K]`|
 |[](pathfinder-bestiary-items/qDypnfBHeFgNsDjH.htm)|Wrappings Lash|`@Compendium[pf2e.pathfinder-bestiary.qDypnfBHeFgNsDjH]`|
-|[](pathfinder-bestiary-items/OHs6oHOrlsXUSGkS.htm)|Golden Luck|`@Compendium[pf2e.pathfinder-bestiary.OHs6oHOrlsXUSGkS]`|
 |[](pathfinder-bestiary-items/qIe9DjokLrx7mSvK.htm)|Boulder|`@Compendium[pf2e.pathfinder-bestiary.qIe9DjokLrx7mSvK]`|
 |[](pathfinder-bestiary-items/KQARbveR4b7ZZ6yz.htm)|Stunning Shock|`@Compendium[pf2e.pathfinder-bestiary.KQARbveR4b7ZZ6yz]`|
-|[](pathfinder-bestiary-items/NDdkhcyKoaZMjFh6.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.NDdkhcyKoaZMjFh6]`|
 |[](pathfinder-bestiary-items/TGIpZcekBlTtMIW2.htm)|Massive Rush|`@Compendium[pf2e.pathfinder-bestiary.TGIpZcekBlTtMIW2]`|
-|[](pathfinder-bestiary-items/lBuNOTGbx6zBFceT.htm)|Desert Wind|`@Compendium[pf2e.pathfinder-bestiary.lBuNOTGbx6zBFceT]`|
-|[](pathfinder-bestiary-items/Nl15bkRTLq869IPi.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary.Nl15bkRTLq869IPi]`|
 |[](pathfinder-bestiary-items/DmNGJHLmXcMGdmUS.htm)|Orc Knuckle Dagger|`@Compendium[pf2e.pathfinder-bestiary.DmNGJHLmXcMGdmUS]`|
-|[](pathfinder-bestiary-items/kFeAtCbycBHyIGcR.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.kFeAtCbycBHyIGcR]`|
-|[](pathfinder-bestiary-items/8Eq3jy4LyDtP6mLP.htm)|Starlight Ray|`@Compendium[pf2e.pathfinder-bestiary.8Eq3jy4LyDtP6mLP]`|
 |[](pathfinder-bestiary-items/GRUZiIR1Uu91DaoY.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.GRUZiIR1Uu91DaoY]`|
-|[](pathfinder-bestiary-items/Re5HgCWQJTyzGewL.htm)|Web Trap|`@Compendium[pf2e.pathfinder-bestiary.Re5HgCWQJTyzGewL]`|
 |[](pathfinder-bestiary-items/sNxY0Neqlt313iVL.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.sNxY0Neqlt313iVL]`|
-|[](pathfinder-bestiary-items/kq8avsOyetNPoxAy.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.kq8avsOyetNPoxAy]`|
 |[](pathfinder-bestiary-items/XiR8kBhdXvv7AE8L.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.XiR8kBhdXvv7AE8L]`|
 |[](pathfinder-bestiary-items/qY4Gqits5ZaytjDY.htm)|Pain Frenzy|`@Compendium[pf2e.pathfinder-bestiary.qY4Gqits5ZaytjDY]`|
-|[](pathfinder-bestiary-items/YAjAjrcDtGXjLBD7.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.YAjAjrcDtGXjLBD7]`|
 |[](pathfinder-bestiary-items/PAbtJjm0RNsZSr1R.htm)|Dark Naga Venom|`@Compendium[pf2e.pathfinder-bestiary.PAbtJjm0RNsZSr1R]`|
-|[](pathfinder-bestiary-items/pydkk6U2LVFlha3A.htm)|Dragon Chill|`@Compendium[pf2e.pathfinder-bestiary.pydkk6U2LVFlha3A]`|
 |[](pathfinder-bestiary-items/pEpgPRttHusG3elF.htm)|Three-Headed Strike|`@Compendium[pf2e.pathfinder-bestiary.pEpgPRttHusG3elF]`|
-|[](pathfinder-bestiary-items/VB81WcGgMngyyh3E.htm)|Slink in Shadows|`@Compendium[pf2e.pathfinder-bestiary.VB81WcGgMngyyh3E]`|
-|[](pathfinder-bestiary-items/M7mGcRgzVr9C3wsW.htm)|Telekinetic Assault|`@Compendium[pf2e.pathfinder-bestiary.M7mGcRgzVr9C3wsW]`|
 |[](pathfinder-bestiary-items/sS1tOJIttfEYCFaT.htm)|Disperse|`@Compendium[pf2e.pathfinder-bestiary.sS1tOJIttfEYCFaT]`|
 |[](pathfinder-bestiary-items/PVrWJHEarOi9LFbD.htm)|Rope Snare|`@Compendium[pf2e.pathfinder-bestiary.PVrWJHEarOi9LFbD]`|
-|[](pathfinder-bestiary-items/Kj1uqisygxPxuaC9.htm)|Spider Speak|`@Compendium[pf2e.pathfinder-bestiary.Kj1uqisygxPxuaC9]`|
-|[](pathfinder-bestiary-items/uCvZSYozUXxyyf1b.htm)|Death's Grace|`@Compendium[pf2e.pathfinder-bestiary.uCvZSYozUXxyyf1b]`|
 |[](pathfinder-bestiary-items/UKfFDeN7IDKW1okj.htm)|Dancer's Curse|`@Compendium[pf2e.pathfinder-bestiary.UKfFDeN7IDKW1okj]`|
-|[](pathfinder-bestiary-items/tOCS9mkYR5K1LuOZ.htm)|Petrifying Gaze|`@Compendium[pf2e.pathfinder-bestiary.tOCS9mkYR5K1LuOZ]`|
-|[](pathfinder-bestiary-items/RWLfly211783dq5i.htm)|Tactician of Cocytus|`@Compendium[pf2e.pathfinder-bestiary.RWLfly211783dq5i]`|
 |[](pathfinder-bestiary-items/erc12GafQUSAqN7h.htm)|Pummel|`@Compendium[pf2e.pathfinder-bestiary.erc12GafQUSAqN7h]`|
-|[](pathfinder-bestiary-items/KhgTIBtP3uB7Ls0w.htm)|Fireball Breath|`@Compendium[pf2e.pathfinder-bestiary.KhgTIBtP3uB7Ls0w]`|
-|[](pathfinder-bestiary-items/jcHkvPONg4SesmVb.htm)|Electricity Aura|`@Compendium[pf2e.pathfinder-bestiary.jcHkvPONg4SesmVb]`|
-|[](pathfinder-bestiary-items/ONo2JspAa1GnoAlR.htm)|Pierce Armor|`@Compendium[pf2e.pathfinder-bestiary.ONo2JspAa1GnoAlR]`|
 |[](pathfinder-bestiary-items/zoTuvqovtFZqbEp6.htm)|Adaptive Strike|`@Compendium[pf2e.pathfinder-bestiary.zoTuvqovtFZqbEp6]`|
-|[](pathfinder-bestiary-items/ydbvsWl1BoVazVZj.htm)|Sea Hag's Bargain|`@Compendium[pf2e.pathfinder-bestiary.ydbvsWl1BoVazVZj]`|
-|[](pathfinder-bestiary-items/nGzfYxHKFp5jqc76.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.nGzfYxHKFp5jqc76]`|
 |[](pathfinder-bestiary-items/RyRiVUoP2scafR6g.htm)|Hateful Tide|`@Compendium[pf2e.pathfinder-bestiary.RyRiVUoP2scafR6g]`|
-|[](pathfinder-bestiary-items/jmPDVPebOQ3XVOwA.htm)|Boar Charge|`@Compendium[pf2e.pathfinder-bestiary.jmPDVPebOQ3XVOwA]`|
 |[](pathfinder-bestiary-items/PQMwXaG8Zqcd02Oe.htm)|Triple Opportunity|`@Compendium[pf2e.pathfinder-bestiary.PQMwXaG8Zqcd02Oe]`|
-|[](pathfinder-bestiary-items/j6bfMiK3Ghz6Y86o.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary.j6bfMiK3Ghz6Y86o]`|
-|[](pathfinder-bestiary-items/NhKBmdf3sh4wyA1u.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.NhKBmdf3sh4wyA1u]`|
 |[](pathfinder-bestiary-items/PycbJPVh46UXYc9R.htm)|Matriarch's Caress|`@Compendium[pf2e.pathfinder-bestiary.PycbJPVh46UXYc9R]`|
 |[](pathfinder-bestiary-items/JOcNBwBFEc7623Hf.htm)|Lightning Lash|`@Compendium[pf2e.pathfinder-bestiary.JOcNBwBFEc7623Hf]`|
-|[](pathfinder-bestiary-items/LcpFmBryvzaDNDcL.htm)|Perfect Aim|`@Compendium[pf2e.pathfinder-bestiary.LcpFmBryvzaDNDcL]`|
-|[](pathfinder-bestiary-items/nVzYnoOpZcD3KXg9.htm)|Flame of Justice|`@Compendium[pf2e.pathfinder-bestiary.nVzYnoOpZcD3KXg9]`|
 |[](pathfinder-bestiary-items/wc8RLw0tODbTW1uY.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.wc8RLw0tODbTW1uY]`|
 |[](pathfinder-bestiary-items/pzO0JwhFqVcRKzAN.htm)|Giant Tarantula Venom|`@Compendium[pf2e.pathfinder-bestiary.pzO0JwhFqVcRKzAN]`|
 |[](pathfinder-bestiary-items/SNb64KWDBMrTorTI.htm)|Jaws|`@Compendium[pf2e.pathfinder-bestiary.SNb64KWDBMrTorTI]`|
-|[](pathfinder-bestiary-items/m6CbK52GoU471gez.htm)|Drain Soul Cage|`@Compendium[pf2e.pathfinder-bestiary.m6CbK52GoU471gez]`|
-|[](pathfinder-bestiary-items/P7JMDrm2HB1QPV3N.htm)|Web Lurker Venom|`@Compendium[pf2e.pathfinder-bestiary.P7JMDrm2HB1QPV3N]`|
-|[](pathfinder-bestiary-items/UnFKmdjf3kYOmNvW.htm)|Natural Cunning|`@Compendium[pf2e.pathfinder-bestiary.UnFKmdjf3kYOmNvW]`|
 |[](pathfinder-bestiary-items/DfnmY7gUQzG365ax.htm)|Web Wrappings|`@Compendium[pf2e.pathfinder-bestiary.DfnmY7gUQzG365ax]`|
 |[](pathfinder-bestiary-items/pl4CFdDU1X88olbS.htm)|Captive Rake|`@Compendium[pf2e.pathfinder-bestiary.pl4CFdDU1X88olbS]`|
-|[](pathfinder-bestiary-items/IXjaAxkgZsz5958E.htm)|Free Expression|`@Compendium[pf2e.pathfinder-bestiary.IXjaAxkgZsz5958E]`|
-|[](pathfinder-bestiary-items/wPoobMAF8dEMbXzS.htm)|Tendril|`@Compendium[pf2e.pathfinder-bestiary.wPoobMAF8dEMbXzS]`|
-|[](pathfinder-bestiary-items/Xmaw18x2qDwDq7tB.htm)|Curse of the Werewolf|`@Compendium[pf2e.pathfinder-bestiary.Xmaw18x2qDwDq7tB]`|
 |[](pathfinder-bestiary-items/or9Nt7DdSkg7avHE.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.or9Nt7DdSkg7avHE]`|
-|[](pathfinder-bestiary-items/MVS8VVm9BG19yQpr.htm)|Cheek Pouches|`@Compendium[pf2e.pathfinder-bestiary.MVS8VVm9BG19yQpr]`|
-|[](pathfinder-bestiary-items/M203mlcBNFvAqyIJ.htm)|Burn Alive|`@Compendium[pf2e.pathfinder-bestiary.M203mlcBNFvAqyIJ]`|
 |[](pathfinder-bestiary-items/urDSEWopXr5z3krl.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.urDSEWopXr5z3krl]`|
-|[](pathfinder-bestiary-items/Mn9ThITOCOXSNkEv.htm)|Regeneration 20 (Deactivated by Chaotic)|`@Compendium[pf2e.pathfinder-bestiary.Mn9ThITOCOXSNkEv]`|
-|[](pathfinder-bestiary-items/N1Dd2m8QhFKXof65.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.N1Dd2m8QhFKXof65]`|
-|[](pathfinder-bestiary-items/KFObwL3fuLfRhdtm.htm)|Death Flame|`@Compendium[pf2e.pathfinder-bestiary.KFObwL3fuLfRhdtm]`|
-|[](pathfinder-bestiary-items/hwUA4Pu9qRQurhWj.htm)|Status Sight|`@Compendium[pf2e.pathfinder-bestiary.hwUA4Pu9qRQurhWj]`|
 |[](pathfinder-bestiary-items/Tf3oOPGPRrko1wvW.htm)|Entangling Slime|`@Compendium[pf2e.pathfinder-bestiary.Tf3oOPGPRrko1wvW]`|
-|[](pathfinder-bestiary-items/MWKHdXGNx9JkkNqR.htm)|Envisioning|`@Compendium[pf2e.pathfinder-bestiary.MWKHdXGNx9JkkNqR]`|
-|[](pathfinder-bestiary-items/WU4cXLzhnoCczalO.htm)|Irritating Dander|`@Compendium[pf2e.pathfinder-bestiary.WU4cXLzhnoCczalO]`|
-|[](pathfinder-bestiary-items/snOrUVs5f8v8gtuP.htm)|Graveknight's Curse|`@Compendium[pf2e.pathfinder-bestiary.snOrUVs5f8v8gtuP]`|
 |[](pathfinder-bestiary-items/ymEZhbkIeDn7RKGI.htm)|Trap Soul|`@Compendium[pf2e.pathfinder-bestiary.ymEZhbkIeDn7RKGI]`|
-|[](pathfinder-bestiary-items/momzHh7zAZRC7Hob.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary.momzHh7zAZRC7Hob]`|
-|[](pathfinder-bestiary-items/OWImE1DpRm2byzUX.htm)|Juke|`@Compendium[pf2e.pathfinder-bestiary.OWImE1DpRm2byzUX]`|
-|[](pathfinder-bestiary-items/HuxqXHbNPMVfb98R.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.HuxqXHbNPMVfb98R]`|
 |[](pathfinder-bestiary-items/UmeNuzExQLQPFzTE.htm)|Guarded Thoughts|`@Compendium[pf2e.pathfinder-bestiary.UmeNuzExQLQPFzTE]`|
-|[](pathfinder-bestiary-items/LuxUX599os0xTuFk.htm)|Mind Crush|`@Compendium[pf2e.pathfinder-bestiary.LuxUX599os0xTuFk]`|
 |[](pathfinder-bestiary-items/ZpVuzT55hKotfiRz.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary.ZpVuzT55hKotfiRz]`|
 |[](pathfinder-bestiary-items/QRArjmTp1QFxOrMG.htm)|Poison Tooth|`@Compendium[pf2e.pathfinder-bestiary.QRArjmTp1QFxOrMG]`|
-|[](pathfinder-bestiary-items/YTDggskczm13sYCy.htm)|Scent (Imprecise) 80 feet|`@Compendium[pf2e.pathfinder-bestiary.YTDggskczm13sYCy]`|
-|[](pathfinder-bestiary-items/MFz1cM1MqbifkyHH.htm)|Vulnerable to Smoke|`@Compendium[pf2e.pathfinder-bestiary.MFz1cM1MqbifkyHH]`|
-|[](pathfinder-bestiary-items/oEnTmvBRzYBAWuou.htm)|Scratch|`@Compendium[pf2e.pathfinder-bestiary.oEnTmvBRzYBAWuou]`|
 |[](pathfinder-bestiary-items/VMzhTqEkTw0QRQvq.htm)|Uncanny Climber|`@Compendium[pf2e.pathfinder-bestiary.VMzhTqEkTw0QRQvq]`|
 |[](pathfinder-bestiary-items/N5MfzopIegJDrl6g.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.N5MfzopIegJDrl6g]`|
 |[](pathfinder-bestiary-items/xEHY10Oxi5BJJCmQ.htm)|Wide Swing|`@Compendium[pf2e.pathfinder-bestiary.xEHY10Oxi5BJJCmQ]`|
-|[](pathfinder-bestiary-items/9OZuMP6qLeoyehVx.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.9OZuMP6qLeoyehVx]`|
 |[](pathfinder-bestiary-items/nW50DwpfdKVVmbOK.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.nW50DwpfdKVVmbOK]`|
 |[](pathfinder-bestiary-items/qjRGAO0ktmv3fxHQ.htm)|Drain Bonded Item|`@Compendium[pf2e.pathfinder-bestiary.qjRGAO0ktmv3fxHQ]`|
-|[](pathfinder-bestiary-items/JjOstNeMHauECGcr.htm)|Luminescent Aura|`@Compendium[pf2e.pathfinder-bestiary.JjOstNeMHauECGcr]`|
-|[](pathfinder-bestiary-items/Y36eYYeuCCJ8eXM0.htm)|Electricity Aura|`@Compendium[pf2e.pathfinder-bestiary.Y36eYYeuCCJ8eXM0]`|
 |[](pathfinder-bestiary-items/YaAoatEoLAq9KaoR.htm)|Confounding Slam|`@Compendium[pf2e.pathfinder-bestiary.YaAoatEoLAq9KaoR]`|
-|[](pathfinder-bestiary-items/p1roWrlYRw0ZNWUR.htm)|Alchemical Formulas|`@Compendium[pf2e.pathfinder-bestiary.p1roWrlYRw0ZNWUR]`|
-|[](pathfinder-bestiary-items/Qzt1bWHKvD7X2ua8.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.Qzt1bWHKvD7X2ua8]`|
 |[](pathfinder-bestiary-items/QEvRlTqwOEac04ov.htm)|Attach|`@Compendium[pf2e.pathfinder-bestiary.QEvRlTqwOEac04ov]`|
 |[](pathfinder-bestiary-items/WuUxcHe2LEnb3BVQ.htm)|Giant Scorpion Venom|`@Compendium[pf2e.pathfinder-bestiary.WuUxcHe2LEnb3BVQ]`|
 |[](pathfinder-bestiary-items/RhGXKyPEo0bWS5D1.htm)|Zombie Rot|`@Compendium[pf2e.pathfinder-bestiary.RhGXKyPEo0bWS5D1]`|
-|[](pathfinder-bestiary-items/y2ok0WY6i66HeQwf.htm)|Quick Bomber|`@Compendium[pf2e.pathfinder-bestiary.y2ok0WY6i66HeQwf]`|
-|[](pathfinder-bestiary-items/huAbJHogJo4HKgXV.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.huAbJHogJo4HKgXV]`|
 |[](pathfinder-bestiary-items/tzGgSX4dpcTwYYag.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.tzGgSX4dpcTwYYag]`|
-|[](pathfinder-bestiary-items/OUrfzECO9Dy3ncIO.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary.OUrfzECO9Dy3ncIO]`|
-|[](pathfinder-bestiary-items/oeg1zG9t1NO1R9l3.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.oeg1zG9t1NO1R9l3]`|
-|[](pathfinder-bestiary-items/xH6NrBw4bYEHU7e3.htm)|Sacrilegious Aura|`@Compendium[pf2e.pathfinder-bestiary.xH6NrBw4bYEHU7e3]`|
-|[](pathfinder-bestiary-items/wGDHR7b7nFvTcaRz.htm)|Sphere of Oblivion|`@Compendium[pf2e.pathfinder-bestiary.wGDHR7b7nFvTcaRz]`|
-|[](pathfinder-bestiary-items/IuK4DrLEyP6BmKi2.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.IuK4DrLEyP6BmKi2]`|
 |[](pathfinder-bestiary-items/R5LM2Ijl78zvdKkF.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.R5LM2Ijl78zvdKkF]`|
-|[](pathfinder-bestiary-items/kq0boAEZsA01NsEH.htm)|Powerful Dive|`@Compendium[pf2e.pathfinder-bestiary.kq0boAEZsA01NsEH]`|
-|[](pathfinder-bestiary-items/v2Ifd6tb1IDRFqFO.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary.v2Ifd6tb1IDRFqFO]`|
-|[](pathfinder-bestiary-items/MEjtnkYdPhtWGyzF.htm)|Coiled Opportunity|`@Compendium[pf2e.pathfinder-bestiary.MEjtnkYdPhtWGyzF]`|
-|[](pathfinder-bestiary-items/jpBSdZzftYrVeiU0.htm)|Dragon Chill|`@Compendium[pf2e.pathfinder-bestiary.jpBSdZzftYrVeiU0]`|
-|[](pathfinder-bestiary-items/oAdazPfRl3wntiS1.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.oAdazPfRl3wntiS1]`|
-|[](pathfinder-bestiary-items/VwV11pPNEpjFqEBc.htm)|Alchemist's Fire|`@Compendium[pf2e.pathfinder-bestiary.VwV11pPNEpjFqEBc]`|
 |[](pathfinder-bestiary-items/vudcfpUT9un2pDOP.htm)|Gnaw|`@Compendium[pf2e.pathfinder-bestiary.vudcfpUT9un2pDOP]`|
-|[](pathfinder-bestiary-items/nu6HxTKMW550KwDx.htm)|Tree Meld|`@Compendium[pf2e.pathfinder-bestiary.nu6HxTKMW550KwDx]`|
-|[](pathfinder-bestiary-items/RQyE6xYaEg8W7C38.htm)|Invigorating Passion|`@Compendium[pf2e.pathfinder-bestiary.RQyE6xYaEg8W7C38]`|
-|[](pathfinder-bestiary-items/UJUSN0sChxOuRWw8.htm)|Infuse Weapon|`@Compendium[pf2e.pathfinder-bestiary.UJUSN0sChxOuRWw8]`|
-|[](pathfinder-bestiary-items/S6FJYbxVlzTTwn0T.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.S6FJYbxVlzTTwn0T]`|
 |[](pathfinder-bestiary-items/xheziaVMnj1iAjP5.htm)|Caustic Mucus|`@Compendium[pf2e.pathfinder-bestiary.xheziaVMnj1iAjP5]`|
 |[](pathfinder-bestiary-items/UedMQrrYjW7RxjuG.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.UedMQrrYjW7RxjuG]`|
 |[](pathfinder-bestiary-items/GQ7IJIi6ResKuBS9.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.GQ7IJIi6ResKuBS9]`|
@@ -1501,14 +1314,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-items/Pgjjt3dWPTpOGD8c.htm)|Ambush|`@Compendium[pf2e.pathfinder-bestiary.Pgjjt3dWPTpOGD8c]`|
 |[](pathfinder-bestiary-items/TEn7gmE6LHEqbMLJ.htm)|Daeodon Charge|`@Compendium[pf2e.pathfinder-bestiary.TEn7gmE6LHEqbMLJ]`|
 |[](pathfinder-bestiary-items/hE4DVzxWFecGtuNZ.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.hE4DVzxWFecGtuNZ]`|
-|[](pathfinder-bestiary-items/qbw4q1VE5jAxSzTj.htm)|Light Flash|`@Compendium[pf2e.pathfinder-bestiary.qbw4q1VE5jAxSzTj]`|
 |[](pathfinder-bestiary-items/sgKONsx24qNmQXvo.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.sgKONsx24qNmQXvo]`|
 |[](pathfinder-bestiary-items/VONgaGyF9aRjoaok.htm)|Blizzard|`@Compendium[pf2e.pathfinder-bestiary.VONgaGyF9aRjoaok]`|
-|[](pathfinder-bestiary-items/JEBTVmt5rc6G8tOb.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary.JEBTVmt5rc6G8tOb]`|
 |[](pathfinder-bestiary-items/zHIioB6mgFk3W6Uz.htm)|Blood Frenzy|`@Compendium[pf2e.pathfinder-bestiary.zHIioB6mgFk3W6Uz]`|
 |[](pathfinder-bestiary-items/vhcrEIRKkfTwrwDs.htm)|Fetid Fumes|`@Compendium[pf2e.pathfinder-bestiary.vhcrEIRKkfTwrwDs]`|
 |[+2 aux jets de Volonté contre l'émotion](pathfinder-bestiary-items/UQ7yTknJYCFghTF4.htm)|+2 to Will Saves vs Emotion|`@Compendium[pf2e.pathfinder-bestiary.UQ7yTknJYCFghTF4]`|
 |[- 2 à tous les jds (si la cardioline est perdue)](pathfinder-bestiary-items/hvdEekJwNvI4RMw1.htm)|-2 to All Saves (If Heartstone is Lost)|`@Compendium[pf2e.pathfinder-bestiary.hvdEekJwNvI4RMw1]`|
+|[Abajoues](pathfinder-bestiary-items/MVS8VVm9BG19yQpr.htm)|Cheek Pouches|`@Compendium[pf2e.pathfinder-bestiary.MVS8VVm9BG19yQpr]`|
 |[Abattez-les !](pathfinder-bestiary-items/Fuv2PWZEnIbyJ99B.htm)|Take Them Down!|`@Compendium[pf2e.pathfinder-bestiary.Fuv2PWZEnIbyJ99B]`|
 |[Ablution d'immondices](pathfinder-bestiary-items/CDkktCbVeomEuX4D.htm)|Filth Wallow|`@Compendium[pf2e.pathfinder-bestiary.CDkktCbVeomEuX4D]`|
 |[Aboyer des ordres](pathfinder-bestiary-items/gZHu2APmbYnWCFLm.htm)|Bark Orders|`@Compendium[pf2e.pathfinder-bestiary.gZHu2APmbYnWCFLm]`|
@@ -1522,6 +1334,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Absorption des émotions](pathfinder-bestiary-items/AjYmWzjrt54sexgk.htm)|Feed on Emotion|`@Compendium[pf2e.pathfinder-bestiary.AjYmWzjrt54sexgk]`|
 |[Accès de brutalité](pathfinder-bestiary-items/3uMuKyVKQxpFxP0o.htm)|Flash of Brutality|`@Compendium[pf2e.pathfinder-bestiary.3uMuKyVKQxpFxP0o]`|
 |[Accélération](pathfinder-bestiary-items/g2OkSiICf1gw8aes.htm)|Quicken|`@Compendium[pf2e.pathfinder-bestiary.g2OkSiICf1gw8aes]`|
+|[Acide faible](pathfinder-bestiary-items/L8QPL1ttGhwzsJOz.htm)|Weak Acid|`@Compendium[pf2e.pathfinder-bestiary.L8QPL1ttGhwzsJOz]`|
 |[Acide ocre](pathfinder-bestiary-items/D89X40fEKxTsupQC.htm)|Ochre Acid|`@Compendium[pf2e.pathfinder-bestiary.D89X40fEKxTsupQC]`|
 |[Acrobaties](pathfinder-bestiary-items/JCTMNa7QfednvGsM.htm)|Acrobatics|`@Compendium[pf2e.pathfinder-bestiary.JCTMNa7QfednvGsM]`|
 |[Acrobaties](pathfinder-bestiary-items/tDk92ryyiwtL1nav.htm)|Acrobatics|`@Compendium[pf2e.pathfinder-bestiary.tDk92ryyiwtL1nav]`|
@@ -1530,6 +1343,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Affinité avec la lave](pathfinder-bestiary-items/mgb2nO0WkJsnZogZ.htm)|Lava Affinity|`@Compendium[pf2e.pathfinder-bestiary.mgb2nO0WkJsnZogZ]`|
 |[Agresseur surprise](pathfinder-bestiary-items/63a8hHsiAUlNCTdu.htm)|Surprise Attacker|`@Compendium[pf2e.pathfinder-bestiary.63a8hHsiAUlNCTdu]`|
 |[Agresseur surprise](pathfinder-bestiary-items/DpI5QZQJMNjqef3w.htm)|Surprise Attacker|`@Compendium[pf2e.pathfinder-bestiary.DpI5QZQJMNjqef3w]`|
+|[Agrippement](pathfinder-bestiary-items/o1Dh44Cl7px3KGea.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.o1Dh44Cl7px3KGea]`|
+|[Agrippement](pathfinder-bestiary-items/YcE1Kg1c0njojA8b.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.YcE1Kg1c0njojA8b]`|
+|[Agrippement](pathfinder-bestiary-items/6ORqPbdQEDKtPs55.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.6ORqPbdQEDKtPs55]`|
+|[Agrippement](pathfinder-bestiary-items/tcjS7ZEu6Fppiy3z.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.tcjS7ZEu6Fppiy3z]`|
+|[Agrippement avec la langue](pathfinder-bestiary-items/MEAPfylvHHHbTqOf.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary.MEAPfylvHHHbTqOf]`|
+|[Agrippement avec la langue](pathfinder-bestiary-items/kGQg9F0ZgW7fp4DB.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary.kGQg9F0ZgW7fp4DB]`|
 |[Agrippement avec la langue](pathfinder-bestiary-items/A33mGw1DCgRJRDSe.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary.A33mGw1DCgRJRDSe]`|
 |[Agrippement bondissant](pathfinder-bestiary-items/vXxTQUxFEXV4Ldxm.htm)|Leaping Grab|`@Compendium[pf2e.pathfinder-bestiary.vXxTQUxFEXV4Ldxm]`|
 |[Aile](pathfinder-bestiary-items/SWBrXQjy0PikJ1wd.htm)|Wing|`@Compendium[pf2e.pathfinder-bestiary.SWBrXQjy0PikJ1wd]`|
@@ -1553,6 +1372,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Alchimie rapide](pathfinder-bestiary-items/7brI3OuzocwPLZcW.htm)|Quick Alchemy|`@Compendium[pf2e.pathfinder-bestiary.7brI3OuzocwPLZcW]`|
 |[Algue de serpent de mer](pathfinder-bestiary-items/jmDi2EBAEE9yAyK3.htm)|Sea Serpent Algae|`@Compendium[pf2e.pathfinder-bestiary.jmDi2EBAEE9yAyK3]`|
 |[Alimentation](pathfinder-bestiary-items/e800cwjTJcAqZ2x0.htm)|Feed|`@Compendium[pf2e.pathfinder-bestiary.e800cwjTJcAqZ2x0]`|
+|[Alimentation du sang](pathfinder-bestiary-items/PHSSOZNHO0AKJt1q.htm)|Blood Nourishment|`@Compendium[pf2e.pathfinder-bestiary.PHSSOZNHO0AKJt1q]`|
 |[Amnistie du messager](pathfinder-bestiary-items/pPuHLDfAI4W6qEr6.htm)|Messenger's Amnesty|`@Compendium[pf2e.pathfinder-bestiary.pPuHLDfAI4W6qEr6]`|
 |[Anatomie partitionnée](pathfinder-bestiary-items/GVNTgGaXcebR64nT.htm)|Partitioned Anatomy|`@Compendium[pf2e.pathfinder-bestiary.GVNTgGaXcebR64nT]`|
 |[Anatomie protéenne 10](pathfinder-bestiary-items/UVREJWrU0MjhSxLs.htm)|Protean Anatomy|`@Compendium[pf2e.pathfinder-bestiary.UVREJWrU0MjhSxLs]`|
@@ -1564,6 +1384,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Antimagie du golem](pathfinder-bestiary-items/pOtIHukgdOyL8rMp.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary.pOtIHukgdOyL8rMp]`|
 |[Antimagie du golem](pathfinder-bestiary-items/fqwCiWMkfhbYojJI.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary.fqwCiWMkfhbYojJI]`|
 |[Antimagie du golem](pathfinder-bestiary-items/eYD6EiiIYvny4Vq2.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary.eYD6EiiIYvny4Vq2]`|
+|[Antimagie du golem](pathfinder-bestiary-items/WQED2R71AMrx1suT.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary.WQED2R71AMrx1suT]`|
 |[Apparition effroyable](pathfinder-bestiary-items/hsU755t5zFbchRub.htm)|Grizzly Arrival|`@Compendium[pf2e.pathfinder-bestiary.hsU755t5zFbchRub]`|
 |[Appétit frénétique](pathfinder-bestiary-items/rZ6DDkGMLvCQH70m.htm)|Hungry Flurry|`@Compendium[pf2e.pathfinder-bestiary.rZ6DDkGMLvCQH70m]`|
 |[Appétit frénétique](pathfinder-bestiary-items/oB9Lh7ZFScaG3Z04.htm)|Hungry Flurry|`@Compendium[pf2e.pathfinder-bestiary.oB9Lh7ZFScaG3Z04]`|
@@ -1606,6 +1427,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aria assourdissante](pathfinder-bestiary-items/09tr8RqXPJwNExtR.htm)|Deafening Aria|`@Compendium[pf2e.pathfinder-bestiary.09tr8RqXPJwNExtR]`|
 |[Arme animée](pathfinder-bestiary-items/QKtfubIn7OYITmUL.htm)|Animated Weapon|`@Compendium[pf2e.pathfinder-bestiary.QKtfubIn7OYITmUL]`|
 |[Arme animées](pathfinder-bestiary-items/qaGJzO6SddpAXZKg.htm)|Animated Weapons|`@Compendium[pf2e.pathfinder-bestiary.qaGJzO6SddpAXZKg]`|
+|[Arme de souffle](pathfinder-bestiary-items/j9R2dejFnXClVzKR.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.j9R2dejFnXClVzKR]`|
 |[Arme de souffle](pathfinder-bestiary-items/deEbLCLRy4mZDvLo.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.deEbLCLRy4mZDvLo]`|
 |[Arme de souffle](pathfinder-bestiary-items/7qULZEHZX6JmtrVP.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.7qULZEHZX6JmtrVP]`|
 |[Arme de souffle](pathfinder-bestiary-items/56yBsaqp9GmItJzk.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary.56yBsaqp9GmItJzk]`|
@@ -1662,6 +1484,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Armure de créature artificielle (solidité 6)](pathfinder-bestiary-items/dkfqFFDoPeLbQKNp.htm)|Construct Armor (Hardness 6)|`@Compendium[pf2e.pathfinder-bestiary.dkfqFFDoPeLbQKNp]`|
 |[Armure de créature artificielle (solidité 9)](pathfinder-bestiary-items/GhnXpFtWM1vyvu8V.htm)|Construct Armor (Hardness 9)|`@Compendium[pf2e.pathfinder-bestiary.GhnXpFtWM1vyvu8V]`|
 |[Armure de flammes](pathfinder-bestiary-items/osaWxy5RrqJdKuni.htm)|Armor of Flames|`@Compendium[pf2e.pathfinder-bestiary.osaWxy5RrqJdKuni]`|
+|[Artificier rapide](pathfinder-bestiary-items/KyvMw6gZ8XlbMZI6.htm)|Quick Bomber|`@Compendium[pf2e.pathfinder-bestiary.KyvMw6gZ8XlbMZI6]`|
+|[Artificier rapide](pathfinder-bestiary-items/y2ok0WY6i66HeQwf.htm)|Quick Bomber|`@Compendium[pf2e.pathfinder-bestiary.y2ok0WY6i66HeQwf]`|
+|[Artisanat](pathfinder-bestiary-items/vBXkfU5VjP7BNbGf.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.vBXkfU5VjP7BNbGf]`|
 |[Artisanat](pathfinder-bestiary-items/yh5j8rAspmjIzsel.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.yh5j8rAspmjIzsel]`|
 |[Artisanat](pathfinder-bestiary-items/LQ0EYIyjnsQ2WbOh.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.LQ0EYIyjnsQ2WbOh]`|
 |[Artisanat](pathfinder-bestiary-items/GXAVCqQeEroRFdal.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary.GXAVCqQeEroRFdal]`|
@@ -1677,7 +1502,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Assaut focalisé](pathfinder-bestiary-items/CBZgnwJ9S03gtLHf.htm)|Focused Assault|`@Compendium[pf2e.pathfinder-bestiary.CBZgnwJ9S03gtLHf]`|
 |[Assaut focalisé](pathfinder-bestiary-items/QTipkgJAwLBZFcwu.htm)|Focused Assault|`@Compendium[pf2e.pathfinder-bestiary.QTipkgJAwLBZFcwu]`|
 |[Assaut hâtif](pathfinder-bestiary-items/fRkzUI9I50wuPJvX.htm)|Skittering Assault|`@Compendium[pf2e.pathfinder-bestiary.fRkzUI9I50wuPJvX]`|
+|[Assaut télékinésique](pathfinder-bestiary-items/M7mGcRgzVr9C3wsW.htm)|Telekinetic Assault|`@Compendium[pf2e.pathfinder-bestiary.M7mGcRgzVr9C3wsW]`|
 |[Athlétisme](pathfinder-bestiary-items/qcCBWdNoDKQOL8YM.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.qcCBWdNoDKQOL8YM]`|
+|[Athlétisme](pathfinder-bestiary-items/CAOop96qtFJsPw1k.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.CAOop96qtFJsPw1k]`|
 |[Athlétisme](pathfinder-bestiary-items/22HJYuw6ET85gOrj.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.22HJYuw6ET85gOrj]`|
 |[Athlétisme](pathfinder-bestiary-items/gZq9ezLP84ZJ7duZ.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.gZq9ezLP84ZJ7duZ]`|
 |[Athlétisme](pathfinder-bestiary-items/r0Jfu2EKhpHiK8Io.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.r0Jfu2EKhpHiK8Io]`|
@@ -1686,6 +1513,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Athlétisme](pathfinder-bestiary-items/osRz4echVjI4mKL6.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.osRz4echVjI4mKL6]`|
 |[Athlétisme](pathfinder-bestiary-items/40tsiDz5txNIXOqI.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.40tsiDz5txNIXOqI]`|
 |[Athlétisme](pathfinder-bestiary-items/ubBKia3cehXEewHz.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.ubBKia3cehXEewHz]`|
+|[Athlétisme](pathfinder-bestiary-items/HWoliZSTLItugTKi.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.HWoliZSTLItugTKi]`|
 |[Athlétisme](pathfinder-bestiary-items/hbOaUWBaLQy0R2Bn.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.hbOaUWBaLQy0R2Bn]`|
 |[Athlétisme](pathfinder-bestiary-items/j0CQH72Y8ZIJSLQK.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.j0CQH72Y8ZIJSLQK]`|
 |[Athlétisme](pathfinder-bestiary-items/WYP5ilxerdImWTrf.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary.WYP5ilxerdImWTrf]`|
@@ -1738,6 +1566,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Attaque d'opportunité](pathfinder-bestiary-items/748MxBiZMmMCjxzu.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.748MxBiZMmMCjxzu]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/UUnzaMbka2DY7uDu.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.UUnzaMbka2DY7uDu]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/DuOMgloNkM9gTAZj.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.DuOMgloNkM9gTAZj]`|
+|[Attaque d'opportunité](pathfinder-bestiary-items/kFeAtCbycBHyIGcR.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.kFeAtCbycBHyIGcR]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/wgMagyELbs4gcxl2.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.wgMagyELbs4gcxl2]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/9MKpsapkMcaRXfuH.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.9MKpsapkMcaRXfuH]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/7JJXsi69PzGUt6UR.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.7JJXsi69PzGUt6UR]`|
@@ -1751,6 +1580,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Attaque d'opportunité](pathfinder-bestiary-items/sr3LyPHlpXyJIW1Z.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.sr3LyPHlpXyJIW1Z]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/eDKxGQf3yPUpgqh0.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.eDKxGQf3yPUpgqh0]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/c3nJwvrVvJlQrgWU.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.c3nJwvrVvJlQrgWU]`|
+|[Attaque d'opportunité](pathfinder-bestiary-items/oAdazPfRl3wntiS1.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.oAdazPfRl3wntiS1]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/T108hwN1OhACYQdQ.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.T108hwN1OhACYQdQ]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/zIyme0AGuphXNgSa.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.zIyme0AGuphXNgSa]`|
 |[Attaque d'opportunité](pathfinder-bestiary-items/RKyutDZZD9yAhzjX.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary.RKyutDZZD9yAhzjX]`|
@@ -1773,6 +1603,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Attaque féroce](pathfinder-bestiary-items/a4bag8JDNGO7xCiD.htm)|Savage|`@Compendium[pf2e.pathfinder-bestiary.a4bag8JDNGO7xCiD]`|
 |[Attaque sournoise](pathfinder-bestiary-items/LpOv4VRyaN38UswN.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.LpOv4VRyaN38UswN]`|
 |[Attaque sournoise](pathfinder-bestiary-items/maDrDEZzxU5On8gn.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.maDrDEZzxU5On8gn]`|
+|[Attaque sournoise](pathfinder-bestiary-items/MjvAem9y7U9Z9AnV.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.MjvAem9y7U9Z9AnV]`|
 |[Attaque sournoise](pathfinder-bestiary-items/YMj2YteKtdg79DoF.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.YMj2YteKtdg79DoF]`|
 |[Attaque sournoise](pathfinder-bestiary-items/eI1CqQ6uSb4iGiLS.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.eI1CqQ6uSb4iGiLS]`|
 |[Attaque sournoise](pathfinder-bestiary-items/NS7yHszQCqQS0Bfj.htm)|Sneak Attack|`@Compendium[pf2e.pathfinder-bestiary.NS7yHszQCqQS0Bfj]`|
@@ -1804,7 +1635,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aura aveuglante](pathfinder-bestiary-items/RLXxZqgZH5Ym4SGI.htm)|Blinding Aura|`@Compendium[pf2e.pathfinder-bestiary.RLXxZqgZH5Ym4SGI]`|
 |[Aura d'harmonisation](pathfinder-bestiary-items/8cJQY3xEuodUaxz6.htm)|Harmonizing Aura|`@Compendium[pf2e.pathfinder-bestiary.8cJQY3xEuodUaxz6]`|
 |[Aura d'infestation](pathfinder-bestiary-items/QMCJ4eMLrKIZq31c.htm)|Infestation Aura|`@Compendium[pf2e.pathfinder-bestiary.QMCJ4eMLrKIZq31c]`|
+|[Aura d'infortune](pathfinder-bestiary-items/Ohby2hZPzWDoCkLo.htm)|Aura of Misfortune|`@Compendium[pf2e.pathfinder-bestiary.Ohby2hZPzWDoCkLo]`|
 |[Aura d'infortune](pathfinder-bestiary-items/6aClhFTvO5NOf1iA.htm)|Aura of Misfortune|`@Compendium[pf2e.pathfinder-bestiary.6aClhFTvO5NOf1iA]`|
+|[Aura d'électricité](pathfinder-bestiary-items/jcHkvPONg4SesmVb.htm)|Electricity Aura|`@Compendium[pf2e.pathfinder-bestiary.jcHkvPONg4SesmVb]`|
+|[Aura d'électricité](pathfinder-bestiary-items/Y36eYYeuCCJ8eXM0.htm)|Electricity Aura|`@Compendium[pf2e.pathfinder-bestiary.Y36eYYeuCCJ8eXM0]`|
 |[Aura d'érosion](pathfinder-bestiary-items/VVvneLCIn09BPxX7.htm)|Erosion Aura|`@Compendium[pf2e.pathfinder-bestiary.VVvneLCIn09BPxX7]`|
 |[Aura de corruption](pathfinder-bestiary-items/spBsMqVOA8rbhE2e.htm)|Aura of Corruption|`@Compendium[pf2e.pathfinder-bestiary.spBsMqVOA8rbhE2e]`|
 |[Aura de flammes](pathfinder-bestiary-items/iE5eD6UZECDALlPI.htm)|Aura of Flame|`@Compendium[pf2e.pathfinder-bestiary.iE5eD6UZECDALlPI]`|
@@ -1817,6 +1651,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aura du confesseur](pathfinder-bestiary-items/E36GUJSTq2NvkRmA.htm)|Confessor's Aura|`@Compendium[pf2e.pathfinder-bestiary.E36GUJSTq2NvkRmA]`|
 |[Aura du voyageur](pathfinder-bestiary-items/3BMDL7DFtWP5HozZ.htm)|Traveler's Aura|`@Compendium[pf2e.pathfinder-bestiary.3BMDL7DFtWP5HozZ]`|
 |[Aura infectieuse](pathfinder-bestiary-items/GoEK3KTZm6r0vhaU.htm)|Infectious Aura|`@Compendium[pf2e.pathfinder-bestiary.GoEK3KTZm6r0vhaU]`|
+|[Aura luminescente](pathfinder-bestiary-items/JjOstNeMHauECGcr.htm)|Luminescent Aura|`@Compendium[pf2e.pathfinder-bestiary.JjOstNeMHauECGcr]`|
+|[Aura sacrilège](pathfinder-bestiary-items/xH6NrBw4bYEHU7e3.htm)|Sacrilegious Aura|`@Compendium[pf2e.pathfinder-bestiary.xH6NrBw4bYEHU7e3]`|
 |[Aura semée d'embûches](pathfinder-bestiary-items/BleHEEpt3dwEMeDo.htm)|Treacherous Aura|`@Compendium[pf2e.pathfinder-bestiary.BleHEEpt3dwEMeDo]`|
 |[Auto-dénigrement](pathfinder-bestiary-items/3TfIMe12rJpDf9LZ.htm)|Self-Loathing|`@Compendium[pf2e.pathfinder-bestiary.3TfIMe12rJpDf9LZ]`|
 |[Auto-réparation](pathfinder-bestiary-items/QIPvgEw3eXLxKT8d.htm)|Self-Repair|`@Compendium[pf2e.pathfinder-bestiary.QIPvgEw3eXLxKT8d]`|
@@ -1842,6 +1678,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Barbe](pathfinder-bestiary-items/kwMV2uj1jCdvIm7J.htm)|Beard|`@Compendium[pf2e.pathfinder-bestiary.kwMV2uj1jCdvIm7J]`|
 |[Barbe ondulante](pathfinder-bestiary-items/6zbiPHhWaAV5pJd6.htm)|Wriggling Beard|`@Compendium[pf2e.pathfinder-bestiary.6zbiPHhWaAV5pJd6]`|
 |[Beauté de la nymphe](pathfinder-bestiary-items/VYoQRYuLrzW7O6ir.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.VYoQRYuLrzW7O6ir]`|
+|[Beauté de la nymphe](pathfinder-bestiary-items/Y44FxT7CY4R6SkdW.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.Y44FxT7CY4R6SkdW]`|
+|[Beauté de la nymphe](pathfinder-bestiary-items/N1Dd2m8QhFKXof65.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.N1Dd2m8QhFKXof65]`|
+|[Beauté de la nymphe](pathfinder-bestiary-items/9OZuMP6qLeoyehVx.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary.9OZuMP6qLeoyehVx]`|
 |[Bec](pathfinder-bestiary-items/oN5KE37Rg66tMPMp.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary.oN5KE37Rg66tMPMp]`|
 |[Bec](pathfinder-bestiary-items/XLiAwm5JWDoSNIPF.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary.XLiAwm5JWDoSNIPF]`|
 |[Bec](pathfinder-bestiary-items/XJKtPma1TpZuVUUA.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary.XJKtPma1TpZuVUUA]`|
@@ -1874,6 +1713,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Blocage au bouclier](pathfinder-bestiary-items/cZc6wNhJDpipF2uK.htm)|Shield Block|`@Compendium[pf2e.pathfinder-bestiary.cZc6wNhJDpipF2uK]`|
 |[Blocage au bouclier](pathfinder-bestiary-items/xolLzAgsgpzS6Nvn.htm)|Shield Block|`@Compendium[pf2e.pathfinder-bestiary.xolLzAgsgpzS6Nvn]`|
 |[Blocage au bouclier](pathfinder-bestiary-items/DzWzbp1qMJwPTy0T.htm)|Shield Block|`@Compendium[pf2e.pathfinder-bestiary.DzWzbp1qMJwPTy0T]`|
+|[Blocage avec la carapace](pathfinder-bestiary-items/TXy3zvlvlJECNrWn.htm)|Shell Block|`@Compendium[pf2e.pathfinder-bestiary.TXy3zvlvlJECNrWn]`|
 |[Boire le sang](pathfinder-bestiary-items/HhkalK1aMfqDSiWQ.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary.HhkalK1aMfqDSiWQ]`|
 |[Boire le sang](pathfinder-bestiary-items/hn5GBufYeA5C1oOg.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary.hn5GBufYeA5C1oOg]`|
 |[Boire le sang](pathfinder-bestiary-items/KESgZ7EFPclSlLY8.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary.KESgZ7EFPclSlLY8]`|
@@ -1894,9 +1734,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de circonstances de +2 aux jds contre rêve et sommeil](pathfinder-bestiary-items/3WumD6XU2ACGghbI.htm)|+2 Circumstance to All Saves vs Dream and Sleep|`@Compendium[pf2e.pathfinder-bestiary.3WumD6XU2ACGghbI]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/hRXUEhTtGJCD8X7J.htm)|+1 Status Bonus on Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.hRXUEhTtGJCD8X7J]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/gSQGpCpvE3YRtvLr.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.gSQGpCpvE3YRtvLr]`|
+|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/CSxqThhPm4iTCCOP.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.CSxqThhPm4iTCCOP]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/0mf0RfMRzuYHP7t3.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.0mf0RfMRzuYHP7t3]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/ComzTzx9Gu4QDQxN.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.ComzTzx9Gu4QDQxN]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/h7FJgyxQFttUHPeA.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.h7FJgyxQFttUHPeA]`|
+|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-items/LmRU9VN6HvnRCcJO.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.LmRU9VN6HvnRCcJO]`|
 |[Bonus de statut de +1 aux jds contre les effets de mort](pathfinder-bestiary-items/rh2quedjlo5wYnpP.htm)|+1 Status to All Saves vs Death Effects|`@Compendium[pf2e.pathfinder-bestiary.rh2quedjlo5wYnpP]`|
 |[Bonus de statut de +1 aux jds contre les effets positifs](pathfinder-bestiary-items/PoFwl1bniXcbhkld.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary.PoFwl1bniXcbhkld]`|
 |[Bonus de statut de +1 aux jds contre les effets positifs](pathfinder-bestiary-items/vhMuwHfxhvT3a6e2.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary.vhMuwHfxhvT3a6e2]`|
@@ -1904,11 +1746,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 aux jds contre les effets positifs](pathfinder-bestiary-items/gakDYFEsPKyFUdIg.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary.gakDYFEsPKyFUdIg]`|
 |[Bonus de statut de +1 aux jds contre les effets positifs](pathfinder-bestiary-items/AMOJU0wX8r6flwf4.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary.AMOJU0wX8r6flwf4]`|
 |[Bonus de statut de +1 aux jds contre les effets positifs](pathfinder-bestiary-items/rYzzaXPAJ15uHtmD.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary.rYzzaXPAJ15uHtmD]`|
+|[Bonus de statut de +1 aux jds contre magie](pathfinder-bestiary-items/an6fdel1IBQ8fJmP.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.an6fdel1IBQ8fJmP]`|
 |[Bonus de statut de +1 aux jds contre magie](pathfinder-bestiary-items/7CAtWwnu0VOFzaK9.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.7CAtWwnu0VOFzaK9]`|
 |[Bonus de statut de +1 aux jds contre magie](pathfinder-bestiary-items/C7DnHa0hbdRjZtG9.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.C7DnHa0hbdRjZtG9]`|
+|[Bonus de statut de +1 aux jet de sauvegarde contre la magie](pathfinder-bestiary-items/Zpn8XChRDGw65K4B.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.Zpn8XChRDGw65K4B]`|
+|[Bonus de statut de +1 jds contre la magie](pathfinder-bestiary-items/rxoyBugXyIn6mRoC.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.rxoyBugXyIn6mRoC]`|
+|[Bonus de statut de +1 jds contre la magie](pathfinder-bestiary-items/lT2fWWJ081ynQOOQ.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.lT2fWWJ081ynQOOQ]`|
+|[Bonus de statut de +1 jds contre la magie](pathfinder-bestiary-items/qwvZRNMyaVviFlN8.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.qwvZRNMyaVviFlN8]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/cgTMxtmKD5ESJlyX.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.cgTMxtmKD5ESJlyX]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/vZVJQzztFpSjzbNW.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.vZVJQzztFpSjzbNW]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/an6fdel1IBQ8fJmP.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.an6fdel1IBQ8fJmP]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/QkmDtTbsggbI0MQy.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.QkmDtTbsggbI0MQy]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/5lNem5v3czqg4yta.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.5lNem5v3czqg4yta]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/bnuflGRdVoZz0Rf9.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.bnuflGRdVoZz0Rf9]`|
@@ -1923,14 +1769,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/7lto9FCIXzooWeAW.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.7lto9FCIXzooWeAW]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/xHsqXGMqu6bMLRTB.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.xHsqXGMqu6bMLRTB]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/36TWBrEib7ZN4zrU.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.36TWBrEib7ZN4zrU]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/rxoyBugXyIn6mRoC.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.rxoyBugXyIn6mRoC]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/m5n5I6Z3Upfe9pSe.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.m5n5I6Z3Upfe9pSe]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/zCkhc1TIl4lLnx0Y.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.zCkhc1TIl4lLnx0Y]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/cwbkGiwxXBEcaKO5.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.cwbkGiwxXBEcaKO5]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/AMKIm1QMEUOXLP3p.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.AMKIm1QMEUOXLP3p]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/6f6zqdb6XsTeZuRW.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.6f6zqdb6XsTeZuRW]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/0F1cIENDKxVfgMvZ.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.0F1cIENDKxVfgMvZ]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/lT2fWWJ081ynQOOQ.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.lT2fWWJ081ynQOOQ]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/BsoxzxmGvzcKefKT.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.BsoxzxmGvzcKefKT]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/PrsRCxi6j7SHJeMu.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.PrsRCxi6j7SHJeMu]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/uDEIHmI6TZbQLzHX.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.uDEIHmI6TZbQLzHX]`|
@@ -1939,7 +1783,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/EMzbdikMCvVBaXbA.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.EMzbdikMCvVBaXbA]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/GNtcN0AsjAwwwARU.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.GNtcN0AsjAwwwARU]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/qSJwECMRJYL4xDUN.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.qSJwECMRJYL4xDUN]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/CSxqThhPm4iTCCOP.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.CSxqThhPm4iTCCOP]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/2u5CXi7tZODYDpbJ.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.2u5CXi7tZODYDpbJ]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/Eng6Mv69WWeKb4Wq.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.Eng6Mv69WWeKb4Wq]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/z4WS8tZWux7BE3D7.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.z4WS8tZWux7BE3D7]`|
@@ -1950,9 +1793,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/kayBhD4IXys5Ppt8.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.kayBhD4IXys5Ppt8]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/eFUBcFVqZ2zpFt8W.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.eFUBcFVqZ2zpFt8W]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/Wu9GLINqkqLPEjJ7.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.Wu9GLINqkqLPEjJ7]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/Zpn8XChRDGw65K4B.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.Zpn8XChRDGw65K4B]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/OTuZbxVdoEtjN7ap.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.OTuZbxVdoEtjN7ap]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/qwvZRNMyaVviFlN8.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.qwvZRNMyaVviFlN8]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/V0DnCsH65jBlStiD.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.V0DnCsH65jBlStiD]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/O5nC82tyENuQH3SJ.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.O5nC82tyENuQH3SJ]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/uC55H6tJNTniSzuC.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.uC55H6tJNTniSzuC]`|
@@ -1972,7 +1813,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/dWgrFKYnx0FM8zl3.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.dWgrFKYnx0FM8zl3]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/7ECMLvSVWJWwwgKi.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.7ECMLvSVWJWwwgKi]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/2TBzK79NxowRc0As.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.2TBzK79NxowRc0As]`|
-|[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/LmRU9VN6HvnRCcJO.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.LmRU9VN6HvnRCcJO]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/FUgfYGhsCxf8KU54.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.FUgfYGhsCxf8KU54]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/TAr3uDoat4fR02qp.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.TAr3uDoat4fR02qp]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-items/aIqWT8KUlYwUY9x2.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.aIqWT8KUlYwUY9x2]`|
@@ -2001,7 +1841,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bousculade 12 m](pathfinder-bestiary-items/uPAAssuXj8CktZTI.htm)|Push 40 feet|`@Compendium[pf2e.pathfinder-bestiary.uPAAssuXj8CktZTI]`|
 |[Bousculade 3 m](pathfinder-bestiary-items/fK43gOGpvZ5SUgT8.htm)|Push 10 feet|`@Compendium[pf2e.pathfinder-bestiary.fK43gOGpvZ5SUgT8]`|
 |[Bousculade 3 m](pathfinder-bestiary-items/pV2kE2wYrZjLyBiR.htm)|Push 10 feet|`@Compendium[pf2e.pathfinder-bestiary.pV2kE2wYrZjLyBiR]`|
+|[Bousculade 3 m](pathfinder-bestiary-items/m0piXEdTBGvW1oIY.htm)|Push 10 feet|`@Compendium[pf2e.pathfinder-bestiary.m0piXEdTBGvW1oIY]`|
 |[Bousculade 4,5 m](pathfinder-bestiary-items/JWS021oC5szbCrAS.htm)|Push 15 feet|`@Compendium[pf2e.pathfinder-bestiary.JWS021oC5szbCrAS]`|
+|[Bousculade améliorée 1,5 m](pathfinder-bestiary-items/Is4V63biDtNBVpi2.htm)|Improved Push 5 feet|`@Compendium[pf2e.pathfinder-bestiary.Is4V63biDtNBVpi2]`|
 |[Bousculade améliorée 3 m](pathfinder-bestiary-items/yrKXLmbaekza05cd.htm)|Improved Push 10 feet|`@Compendium[pf2e.pathfinder-bestiary.yrKXLmbaekza05cd]`|
 |[Bousculade améliorée 6 m](pathfinder-bestiary-items/Uzinvon7QqcS48NH.htm)|Improved Push 20 feet|`@Compendium[pf2e.pathfinder-bestiary.Uzinvon7QqcS48NH]`|
 |[Bousculade améliorée 6 m (12 m sur un coup critique)](pathfinder-bestiary-items/pyVnqo4FLO0RWxrX.htm)|Improved Push 20 feet (40 feet on a Critical Hit)|`@Compendium[pf2e.pathfinder-bestiary.pyVnqo4FLO0RWxrX]`|
@@ -2013,12 +1855,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Branche](pathfinder-bestiary-items/LAE8pFe5hAYvWcTH.htm)|Branch|`@Compendium[pf2e.pathfinder-bestiary.LAE8pFe5hAYvWcTH]`|
 |[Bras](pathfinder-bestiary-items/IXWkQwpWIcMopGvV.htm)|Arm|`@Compendium[pf2e.pathfinder-bestiary.IXWkQwpWIcMopGvV]`|
 |[Bras](pathfinder-bestiary-items/FX1GZJoTSgtAlICB.htm)|Arm|`@Compendium[pf2e.pathfinder-bestiary.FX1GZJoTSgtAlICB]`|
+|[Braséro](pathfinder-bestiary-items/v0n7ntTptPAp7TPz.htm)|Brazier|`@Compendium[pf2e.pathfinder-bestiary.v0n7ntTptPAp7TPz]`|
 |[Bricoler](pathfinder-bestiary-items/fHam88iT0r3U5tcl.htm)|Tinker|`@Compendium[pf2e.pathfinder-bestiary.fHam88iT0r3U5tcl]`|
 |[Bride de toile](pathfinder-bestiary-items/Eu72dpTXiYJQD7Hm.htm)|Web Tether|`@Compendium[pf2e.pathfinder-bestiary.Eu72dpTXiYJQD7Hm]`|
 |[Broyage d'os](pathfinder-bestiary-items/Afsdsjz6Zk8smEoN.htm)|Bonecrunching Bite|`@Compendium[pf2e.pathfinder-bestiary.Afsdsjz6Zk8smEoN]`|
+|[Broyage mental](pathfinder-bestiary-items/LuxUX599os0xTuFk.htm)|Mind Crush|`@Compendium[pf2e.pathfinder-bestiary.LuxUX599os0xTuFk]`|
 |[Brèche](pathfinder-bestiary-items/91Bz1Au1eeA0F5Kc.htm)|Breach|`@Compendium[pf2e.pathfinder-bestiary.91Bz1Au1eeA0F5Kc]`|
 |[Brèche](pathfinder-bestiary-items/k8mtTYrWrnHjBMCO.htm)|Breach|`@Compendium[pf2e.pathfinder-bestiary.k8mtTYrWrnHjBMCO]`|
 |[Brèche](pathfinder-bestiary-items/CEngjOQBRH1DpQeo.htm)|Breach|`@Compendium[pf2e.pathfinder-bestiary.CEngjOQBRH1DpQeo]`|
+|[Brûler vivant](pathfinder-bestiary-items/M203mlcBNFvAqyIJ.htm)|Burn Alive|`@Compendium[pf2e.pathfinder-bestiary.M203mlcBNFvAqyIJ]`|
 |[Brûlure aux yeux](pathfinder-bestiary-items/XZcafYrLS6wcyUVG.htm)|Burn Eyes|`@Compendium[pf2e.pathfinder-bestiary.XZcafYrLS6wcyUVG]`|
 |[Buveur de vie](pathfinder-bestiary-items/R7wSakgDTKzgP8Eo.htm)|Lifedrinker|`@Compendium[pf2e.pathfinder-bestiary.R7wSakgDTKzgP8Eo]`|
 |[Bâton](pathfinder-bestiary-items/bg3DA0xcxyfSwJZm.htm)|Staff|`@Compendium[pf2e.pathfinder-bestiary.bg3DA0xcxyfSwJZm]`|
@@ -2031,7 +1876,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cabrioles perturbantes](pathfinder-bestiary-items/2eV3trm8nKeqQ2Z4.htm)|Distracting Frolic|`@Compendium[pf2e.pathfinder-bestiary.2eV3trm8nKeqQ2Z4]`|
 |[Cacodaémence](pathfinder-bestiary-items/1N7APEdVVZHtrMup.htm)|Cacodaemonia|`@Compendium[pf2e.pathfinder-bestiary.1N7APEdVVZHtrMup]`|
 |[Cadavre](pathfinder-bestiary-items/qGnxEwt7F2yY8OvT.htm)|Corpse|`@Compendium[pf2e.pathfinder-bestiary.qGnxEwt7F2yY8OvT]`|
+|[Calcification](pathfinder-bestiary-items/JChdzk7WZ7KUXqF7.htm)|Calcification|`@Compendium[pf2e.pathfinder-bestiary.JChdzk7WZ7KUXqF7]`|
+|[Camouflage](pathfinder-bestiary-items/m6WhfbsOdnetGUAE.htm)|Camouflage|`@Compendium[pf2e.pathfinder-bestiary.m6WhfbsOdnetGUAE]`|
 |[Canalisation de la putréfaction](pathfinder-bestiary-items/4WUyRzJH8pu1zq5J.htm)|Channel Rot|`@Compendium[pf2e.pathfinder-bestiary.4WUyRzJH8pu1zq5J]`|
+|[Canaliser le phylactère](pathfinder-bestiary-items/m6CbK52GoU471gez.htm)|Drain Soul Cage|`@Compendium[pf2e.pathfinder-bestiary.m6CbK52GoU471gez]`|
 |[Capture rapide](pathfinder-bestiary-items/gXUEOhZBMg1NCOMw.htm)|Quick Capture|`@Compendium[pf2e.pathfinder-bestiary.gXUEOhZBMg1NCOMw]`|
 |[Capture rapide](pathfinder-bestiary-items/A7AIAW82kyBDKhWn.htm)|Quick Capture|`@Compendium[pf2e.pathfinder-bestiary.A7AIAW82kyBDKhWn]`|
 |[Carreau bola](pathfinder-bestiary-items/gooqrR0z9rN4mnlN.htm)|Bola Bolt|`@Compendium[pf2e.pathfinder-bestiary.gooqrR0z9rN4mnlN]`|
@@ -2050,14 +1898,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Chaleur intense](pathfinder-bestiary-items/cIAptRydc370Xjbd.htm)|Intense Heat|`@Compendium[pf2e.pathfinder-bestiary.cIAptRydc370Xjbd]`|
 |[Chaleur intense](pathfinder-bestiary-items/RDAI0FQdtpHFrFa5.htm)|Intense Heat|`@Compendium[pf2e.pathfinder-bestiary.RDAI0FQdtpHFrFa5]`|
 |[Champ d'esquilles](pathfinder-bestiary-items/1QVkgQh59Pmq5fP3.htm)|Splintered Ground|`@Compendium[pf2e.pathfinder-bestiary.1QVkgQh59Pmq5fP3]`|
+|[Chance dorée](pathfinder-bestiary-items/i5jZOGRVSvmKW82C.htm)|Golden Luck|`@Compendium[pf2e.pathfinder-bestiary.i5jZOGRVSvmKW82C]`|
+|[Chance dorée](pathfinder-bestiary-items/OHs6oHOrlsXUSGkS.htm)|Golden Luck|`@Compendium[pf2e.pathfinder-bestiary.OHs6oHOrlsXUSGkS]`|
 |[Chance du félin](pathfinder-bestiary-items/0ZKaotgANUyAmZDc.htm)|Cat's Luck|`@Compendium[pf2e.pathfinder-bestiary.0ZKaotgANUyAmZDc]`|
+|[Changement de forme](pathfinder-bestiary-items/oXq7JKUPh72N7tPy.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.oXq7JKUPh72N7tPy]`|
 |[Changement de forme](pathfinder-bestiary-items/m9xKqsUED5sH6vqA.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.m9xKqsUED5sH6vqA]`|
+|[Changement de forme](pathfinder-bestiary-items/fxVaypsTZKjHprzh.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.fxVaypsTZKjHprzh]`|
 |[Changement de forme](pathfinder-bestiary-items/LqM7JU0cOL7itoch.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.LqM7JU0cOL7itoch]`|
 |[Changement de forme](pathfinder-bestiary-items/bYG1y6PsSmulLnqZ.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.bYG1y6PsSmulLnqZ]`|
 |[Changement de forme](pathfinder-bestiary-items/HzOfOnqjDdkk5Alq.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.HzOfOnqjDdkk5Alq]`|
 |[Changement de forme](pathfinder-bestiary-items/o7HPbnFCe1XPngQQ.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.o7HPbnFCe1XPngQQ]`|
 |[Changement de forme](pathfinder-bestiary-items/0uxUMo5bNxKA5eIg.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.0uxUMo5bNxKA5eIg]`|
 |[Changement de forme](pathfinder-bestiary-items/zHL2E4bkH3vVvqSD.htm)|Change Size|`@Compendium[pf2e.pathfinder-bestiary.zHL2E4bkH3vVvqSD]`|
+|[Changement de forme](pathfinder-bestiary-items/LJKNy957UOv4LqE5.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.LJKNy957UOv4LqE5]`|
 |[Changement de forme](pathfinder-bestiary-items/pkCKdy44WRzMrMB3.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.pkCKdy44WRzMrMB3]`|
 |[Changement de forme](pathfinder-bestiary-items/1AemwaFBoSAJ1UHj.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.1AemwaFBoSAJ1UHj]`|
 |[Changement de forme](pathfinder-bestiary-items/sCLiSoe59ubmpiPk.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.sCLiSoe59ubmpiPk]`|
@@ -2074,18 +1927,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Changement de forme](pathfinder-bestiary-items/ki3C4xNREH5G9Knv.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.ki3C4xNREH5G9Knv]`|
 |[Changement de forme](pathfinder-bestiary-items/AniyCnlqZmw3IO9L.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.AniyCnlqZmw3IO9L]`|
 |[Changement de forme](pathfinder-bestiary-items/ERGEti8Jc1RonWRj.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.ERGEti8Jc1RonWRj]`|
+|[Changement de forme](pathfinder-bestiary-items/Qzt1bWHKvD7X2ua8.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.Qzt1bWHKvD7X2ua8]`|
 |[Changement de forme](pathfinder-bestiary-items/E11uRLNnDwbjSmiw.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary.E11uRLNnDwbjSmiw]`|
 |[Changement de taille](pathfinder-bestiary-items/VyoEzllElTOu9fmG.htm)|Change Size|`@Compendium[pf2e.pathfinder-bestiary.VyoEzllElTOu9fmG]`|
+|[Chant envoûtant](pathfinder-bestiary-items/NQF0fD75864Ytav1.htm)|Captivating Song|`@Compendium[pf2e.pathfinder-bestiary.NQF0fD75864Ytav1]`|
 |[Charabia](pathfinder-bestiary-items/OLoz41FJFungrpr5.htm)|Gibbering|`@Compendium[pf2e.pathfinder-bestiary.OLoz41FJFungrpr5]`|
+|[Charbon incandescent](pathfinder-bestiary-items/ZtVK4wU2SnZ0H3zl.htm)|Flaming Coal|`@Compendium[pf2e.pathfinder-bestiary.ZtVK4wU2SnZ0H3zl]`|
 |[Charge bondissante](pathfinder-bestiary-items/FoGyFrPjwdSydW4U.htm)|Leaping Charge|`@Compendium[pf2e.pathfinder-bestiary.FoGyFrPjwdSydW4U]`|
 |[Charge bondissante](pathfinder-bestiary-items/woCB9gbBdvxg3WX0.htm)|Leaping Charge|`@Compendium[pf2e.pathfinder-bestiary.woCB9gbBdvxg3WX0]`|
+|[Charge du sanglier](pathfinder-bestiary-items/jmPDVPebOQ3XVOwA.htm)|Boar Charge|`@Compendium[pf2e.pathfinder-bestiary.jmPDVPebOQ3XVOwA]`|
 |[Charge imparable](pathfinder-bestiary-items/8xYRzzHeY6uZztPe.htm)|Unstoppable Charge|`@Compendium[pf2e.pathfinder-bestiary.8xYRzzHeY6uZztPe]`|
 |[Charge lourde](pathfinder-bestiary-items/OW9KKx3Offpslmah.htm)|Lumbering Charge|`@Compendium[pf2e.pathfinder-bestiary.OW9KKx3Offpslmah]`|
+|[Charge puissante](pathfinder-bestiary-items/MVKA8eKi1YTMeHKK.htm)|Powerful Charge|`@Compendium[pf2e.pathfinder-bestiary.MVKA8eKi1YTMeHKK]`|
 |[Charge puissante](pathfinder-bestiary-items/kjpNSY1WlZHMXIS6.htm)|Powerful Charge|`@Compendium[pf2e.pathfinder-bestiary.kjpNSY1WlZHMXIS6]`|
 |[Charge puissante](pathfinder-bestiary-items/65E6IqqYN0IW2HsH.htm)|Powerful Charge|`@Compendium[pf2e.pathfinder-bestiary.65E6IqqYN0IW2HsH]`|
 |[Charge soudaine](pathfinder-bestiary-items/B2QWyyEvVmWZPUkk.htm)|Lurching Charge|`@Compendium[pf2e.pathfinder-bestiary.B2QWyyEvVmWZPUkk]`|
 |[Charge soudaine](pathfinder-bestiary-items/LbGQE0qrzbORDYH9.htm)|Sudden Charge|`@Compendium[pf2e.pathfinder-bestiary.LbGQE0qrzbORDYH9]`|
 |[Charge terrifiante](pathfinder-bestiary-items/emPcqeSFXdyr6CgV.htm)|Terrifying Charge|`@Compendium[pf2e.pathfinder-bestiary.emPcqeSFXdyr6CgV]`|
+|[Chasse terrifiante](pathfinder-bestiary-items/NoNrnnXaKdOmoBx6.htm)|Hunted Fear|`@Compendium[pf2e.pathfinder-bestiary.NoNrnnXaKdOmoBx6]`|
 |[Chasser une proie](pathfinder-bestiary-items/yvHOZTfOKMN7JNu7.htm)|Hunt Prey|`@Compendium[pf2e.pathfinder-bestiary.yvHOZTfOKMN7JNu7]`|
 |[Chasser une proie](pathfinder-bestiary-items/5TVlHOsmwK2Om8pu.htm)|Hunt Prey|`@Compendium[pf2e.pathfinder-bestiary.5TVlHOsmwK2Om8pu]`|
 |[Chasseur de fantômes](pathfinder-bestiary-items/NUQlBj6YHAwX4fEr.htm)|Ghost Hunter|`@Compendium[pf2e.pathfinder-bestiary.NUQlBj6YHAwX4fEr]`|
@@ -2115,6 +1974,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Communication avec les requins 45 m](pathfinder-bestiary-items/u59sSnB7GuFn9ofv.htm)|Shark Commune 150 feet|`@Compendium[pf2e.pathfinder-bestiary.u59sSnB7GuFn9ofv]`|
 |[Compartiments alchimiques](pathfinder-bestiary-items/TpEz65tv1dwJ91cy.htm)|Alchemical Chambers|`@Compendium[pf2e.pathfinder-bestiary.TpEz65tv1dwJ91cy]`|
 |[Compression](pathfinder-bestiary-items/4fZp6kK5h1WOCAAq.htm)|Compression|`@Compendium[pf2e.pathfinder-bestiary.4fZp6kK5h1WOCAAq]`|
+|[Compression](pathfinder-bestiary-items/u5ZGQOwAVraOXVuo.htm)|Compression|`@Compendium[pf2e.pathfinder-bestiary.u5ZGQOwAVraOXVuo]`|
+|[Conceptualisation](pathfinder-bestiary-items/MWKHdXGNx9JkkNqR.htm)|Envisioning|`@Compendium[pf2e.pathfinder-bestiary.MWKHdXGNx9JkkNqR]`|
 |[Connaissance bardique](pathfinder-bestiary-items/B9QrAlNM1MoP8sDk.htm)|Bardic Lore|`@Compendium[pf2e.pathfinder-bestiary.B9QrAlNM1MoP8sDk]`|
 |[Connaissances abyssales](pathfinder-bestiary-items/E6yHKgr49GpD3BXa.htm)|Abyssal Knowledge|`@Compendium[pf2e.pathfinder-bestiary.E6yHKgr49GpD3BXa]`|
 |[Connaissances squelettiques](pathfinder-bestiary-items/jj8vv07lGAp4FELU.htm)|Skeletal Lore|`@Compendium[pf2e.pathfinder-bestiary.jj8vv07lGAp4FELU]`|
@@ -2127,6 +1988,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Constriction](pathfinder-bestiary-items/aZ0lzdc6SrYbvfX6.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.aZ0lzdc6SrYbvfX6]`|
 |[Constriction](pathfinder-bestiary-items/IL3VPaw5B0JI2Rce.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.IL3VPaw5B0JI2Rce]`|
 |[Constriction](pathfinder-bestiary-items/HknPH5MLDixmpO4o.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.HknPH5MLDixmpO4o]`|
+|[Constriction](pathfinder-bestiary-items/NDdkhcyKoaZMjFh6.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.NDdkhcyKoaZMjFh6]`|
 |[Constriction](pathfinder-bestiary-items/DtiXNG3ROuAaBhN3.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.DtiXNG3ROuAaBhN3]`|
 |[Constriction](pathfinder-bestiary-items/5P26T61QIn85Jbfk.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.5P26T61QIn85Jbfk]`|
 |[Constriction](pathfinder-bestiary-items/eIQH5yy2l8qe0bvR.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary.eIQH5yy2l8qe0bvR]`|
@@ -2148,6 +2010,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Contact spirituel](pathfinder-bestiary-items/dxLrvmfMtHkddYo4.htm)|Spirit Touch|`@Compendium[pf2e.pathfinder-bestiary.dxLrvmfMtHkddYo4]`|
 |[Contact terrifiant](pathfinder-bestiary-items/ePRrl3MsWtcXXzD7.htm)|Terrifying Touch|`@Compendium[pf2e.pathfinder-bestiary.ePRrl3MsWtcXXzD7]`|
 |[Contingence](pathfinder-bestiary-items/xHg8hrfrTg35erxf.htm)|Contingency|`@Compendium[pf2e.pathfinder-bestiary.xHg8hrfrTg35erxf]`|
+|[Contrat de la guenaude marine](pathfinder-bestiary-items/ydbvsWl1BoVazVZj.htm)|Sea Hag's Bargain|`@Compendium[pf2e.pathfinder-bestiary.ydbvsWl1BoVazVZj]`|
 |[Contre-courant spatial](pathfinder-bestiary-items/0rf640gBxRc7gfuM.htm)|Spatial Riptide|`@Compendium[pf2e.pathfinder-bestiary.0rf640gBxRc7gfuM]`|
 |[Contre-mesures](pathfinder-bestiary-items/0RsLlXY365ytSohG.htm)|Countermeasures|`@Compendium[pf2e.pathfinder-bestiary.0RsLlXY365ytSohG]`|
 |[Contresort](pathfinder-bestiary-items/gSG1OZxFHX2zLrNP.htm)|Counterspell|`@Compendium[pf2e.pathfinder-bestiary.gSG1OZxFHX2zLrNP]`|
@@ -2188,7 +2051,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Coup au sol](pathfinder-bestiary-items/0RWfxFkqPwKKKdiY.htm)|Ground Slam|`@Compendium[pf2e.pathfinder-bestiary.0RWfxFkqPwKKKdiY]`|
 |[Coup au sol](pathfinder-bestiary-items/SFJ6XAQzgQGC5zVV.htm)|Ground Slam|`@Compendium[pf2e.pathfinder-bestiary.SFJ6XAQzgQGC5zVV]`|
 |[Coup au sol](pathfinder-bestiary-items/AIcffB6vSk2oEmqt.htm)|Ground Slam|`@Compendium[pf2e.pathfinder-bestiary.AIcffB6vSk2oEmqt]`|
+|[Coup d'œil pétrifiant](pathfinder-bestiary-items/Nl15bkRTLq869IPi.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary.Nl15bkRTLq869IPi]`|
 |[Coup de bouclier](pathfinder-bestiary-items/dD0COaIGpOldIcFD.htm)|Shield Bash|`@Compendium[pf2e.pathfinder-bestiary.dD0COaIGpOldIcFD]`|
+|[Coup de hache](pathfinder-bestiary-items/VdbR3tZZovSqgWq8.htm)|Axe Swipe|`@Compendium[pf2e.pathfinder-bestiary.VdbR3tZZovSqgWq8]`|
 |[Coup de queue](pathfinder-bestiary-items/4TtLSpRhmqV1Dvp1.htm)|Tail Whip|`@Compendium[pf2e.pathfinder-bestiary.4TtLSpRhmqV1Dvp1]`|
 |[Coup de queue](pathfinder-bestiary-items/kB3jH0EObomim8bP.htm)|Tail Lash|`@Compendium[pf2e.pathfinder-bestiary.kB3jH0EObomim8bP]`|
 |[Coup de queue fouetté](pathfinder-bestiary-items/jbjsVEFvVsslwVHa.htm)|Tail Lash|`@Compendium[pf2e.pathfinder-bestiary.jbjsVEFvVsslwVHa]`|
@@ -2196,6 +2061,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Coup de queue fouetté](pathfinder-bestiary-items/D4C1yHkCqpQckxgr.htm)|Tail Lash|`@Compendium[pf2e.pathfinder-bestiary.D4C1yHkCqpQckxgr]`|
 |[Coup de queue fouetté](pathfinder-bestiary-items/qqY5IlOQecESUHZP.htm)|Tail Lash|`@Compendium[pf2e.pathfinder-bestiary.qqY5IlOQecESUHZP]`|
 |[Coup de tête](pathfinder-bestiary-items/n1ci9JWzjxR4IICp.htm)|Headbutt|`@Compendium[pf2e.pathfinder-bestiary.n1ci9JWzjxR4IICp]`|
+|[Coup du Berserk](pathfinder-bestiary-items/hvTnI184eIoLfwPq.htm)|Berserk Slam|`@Compendium[pf2e.pathfinder-bestiary.hvTnI184eIoLfwPq]`|
 |[Coup du berserk](pathfinder-bestiary-items/zNcTKoBJlpFDMTec.htm)|Berserk Slam|`@Compendium[pf2e.pathfinder-bestiary.zNcTKoBJlpFDMTec]`|
 |[Coup tranchant mortel](pathfinder-bestiary-items/Q9TQFtMzhVqywWrB.htm)|Deadly Cleave|`@Compendium[pf2e.pathfinder-bestiary.Q9TQFtMzhVqywWrB]`|
 |[Coup violent](pathfinder-bestiary-items/206EmbcftIC6vntv.htm)|Big Swing|`@Compendium[pf2e.pathfinder-bestiary.206EmbcftIC6vntv]`|
@@ -2258,6 +2124,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Création de rejeton](pathfinder-bestiary-items/jnZDE6piOq3rzmdg.htm)|Create Spawn|`@Compendium[pf2e.pathfinder-bestiary.jnZDE6piOq3rzmdg]`|
 |[Cyclone](pathfinder-bestiary-items/aD6MGcEF5IHZE5vn.htm)|Whirlwind|`@Compendium[pf2e.pathfinder-bestiary.aD6MGcEF5IHZE5vn]`|
 |[Célérité](pathfinder-bestiary-items/2UpzHQ985k9cDkOT.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary.2UpzHQ985k9cDkOT]`|
+|[Célérité](pathfinder-bestiary-items/j6bfMiK3Ghz6Y86o.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary.j6bfMiK3Ghz6Y86o]`|
 |[Célérité](pathfinder-bestiary-items/vJoGCQ4Ay2Cdm85A.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary.vJoGCQ4Ay2Cdm85A]`|
 |[Célérité](pathfinder-bestiary-items/euRdPTOZHeLTJZHA.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary.euRdPTOZHeLTJZHA]`|
 |[Dague](pathfinder-bestiary-items/oPKgkFop9yTr0x9k.htm)|Dagger|`@Compendium[pf2e.pathfinder-bestiary.oPKgkFop9yTr0x9k]`|
@@ -2297,10 +2164,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Discrétion](pathfinder-bestiary-items/b8MFwyWeJ5rqO3Vk.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.b8MFwyWeJ5rqO3Vk]`|
 |[Discrétion](pathfinder-bestiary-items/WWQwqsaUXwuRwu4b.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.WWQwqsaUXwuRwu4b]`|
 |[Discrétion](pathfinder-bestiary-items/isDFExlTeVfhuE1S.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.isDFExlTeVfhuE1S]`|
+|[Discrétion](pathfinder-bestiary-items/iUzYuqnjkPvxjVq6.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.iUzYuqnjkPvxjVq6]`|
 |[Discrétion](pathfinder-bestiary-items/8Ga9mRyTf82SeeOx.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.8Ga9mRyTf82SeeOx]`|
 |[Discrétion](pathfinder-bestiary-items/qDRdTqUJoBOjEZCq.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.qDRdTqUJoBOjEZCq]`|
+|[Discrétion](pathfinder-bestiary-items/kC6oFte0xKiH0PxI.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.kC6oFte0xKiH0PxI]`|
 |[Discrétion](pathfinder-bestiary-items/OEhg2gie7GWSfArM.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.OEhg2gie7GWSfArM]`|
 |[Discrétion](pathfinder-bestiary-items/xAxV9yRmp780wKql.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.xAxV9yRmp780wKql]`|
+|[Discrétion](pathfinder-bestiary-items/kq8avsOyetNPoxAy.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.kq8avsOyetNPoxAy]`|
 |[Discrétion](pathfinder-bestiary-items/tUc2FVPtgBETUoR1.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.tUc2FVPtgBETUoR1]`|
 |[Discrétion](pathfinder-bestiary-items/UdfdvJASTQ867hij.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.UdfdvJASTQ867hij]`|
 |[Discrétion](pathfinder-bestiary-items/vln9tGlYOAxkVD0U.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary.vln9tGlYOAxkVD0U]`|
@@ -2318,6 +2188,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Double feinte](pathfinder-bestiary-items/bpECAdKNxGcT7pXU.htm)|Twin Feint|`@Compendium[pf2e.pathfinder-bestiary.bpECAdKNxGcT7pXU]`|
 |[Double morsure](pathfinder-bestiary-items/TbFZxJr8aSgbgTZ6.htm)|Double Bite|`@Compendium[pf2e.pathfinder-bestiary.TbFZxJr8aSgbgTZ6]`|
 |[Double opportunité](pathfinder-bestiary-items/LZ3htI7JRHvcwAhU.htm)|Double Opportunity|`@Compendium[pf2e.pathfinder-bestiary.LZ3htI7JRHvcwAhU]`|
+|[Double taille](pathfinder-bestiary-items/TBlcp9L0tEkA3jyF.htm)|Double Slice|`@Compendium[pf2e.pathfinder-bestiary.TBlcp9L0tEkA3jyF]`|
+|[Drain  de vie](pathfinder-bestiary-items/v2Ifd6tb1IDRFqFO.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary.v2Ifd6tb1IDRFqFO]`|
 |[Drain d'essence](pathfinder-bestiary-items/YoEkR6sBza4UBMYy.htm)|Essence Drain|`@Compendium[pf2e.pathfinder-bestiary.YoEkR6sBza4UBMYy]`|
 |[Drain d'objet lié](pathfinder-bestiary-items/9ewh7tMyC0NRIpZx.htm)|Drain Bonded Item|`@Compendium[pf2e.pathfinder-bestiary.9ewh7tMyC0NRIpZx]`|
 |[Drain de vie](pathfinder-bestiary-items/zD3l2lGfHmnHF8iq.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary.zD3l2lGfHmnHF8iq]`|
@@ -2333,7 +2205,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Défense télékinésique](pathfinder-bestiary-items/KZ4sC23Z3r4PS4V6.htm)|Telekinetic Defense|`@Compendium[pf2e.pathfinder-bestiary.KZ4sC23Z3r4PS4V6]`|
 |[Défenses](pathfinder-bestiary-items/gJlDdyxfSGMpZN7a.htm)|Tusks|`@Compendium[pf2e.pathfinder-bestiary.gJlDdyxfSGMpZN7a]`|
 |[Déferlement](pathfinder-bestiary-items/AiKIcXFJx9lEEfnt.htm)|Surge|`@Compendium[pf2e.pathfinder-bestiary.AiKIcXFJx9lEEfnt]`|
+|[Déflagration](pathfinder-bestiary-items/mbDpJL0NCrFdM2bb.htm)|Explosion|`@Compendium[pf2e.pathfinder-bestiary.mbDpJL0NCrFdM2bb]`|
 |[Déflagration](pathfinder-bestiary-items/hQNxvkHklgW9fvpf.htm)|Explosion|`@Compendium[pf2e.pathfinder-bestiary.hQNxvkHklgW9fvpf]`|
+|[Déflagration de lumière stellaire](pathfinder-bestiary-items/mB9tYATe35GSN6Tm.htm)|Starlight Blast|`@Compendium[pf2e.pathfinder-bestiary.mB9tYATe35GSN6Tm]`|
 |[Déflagration dévastatrice](pathfinder-bestiary-items/1UmNfowZ4HWxS9rx.htm)|Devastating Blast|`@Compendium[pf2e.pathfinder-bestiary.1UmNfowZ4HWxS9rx]`|
 |[Déflection de l'aile](pathfinder-bestiary-items/KddvbFPsHJAfqGAc.htm)|Wing Deflection|`@Compendium[pf2e.pathfinder-bestiary.KddvbFPsHJAfqGAc]`|
 |[Déflection de l'aile](pathfinder-bestiary-items/AUlLGXQgQx21Rynz.htm)|Wing Deflection|`@Compendium[pf2e.pathfinder-bestiary.AUlLGXQgQx21Rynz]`|
@@ -2350,12 +2224,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Déluge de filaments](pathfinder-bestiary-items/2JiFczs0m1iIKqPZ.htm)|Flurry of Strands|`@Compendium[pf2e.pathfinder-bestiary.2JiFczs0m1iIKqPZ]`|
 |[Déluge de tentacules](pathfinder-bestiary-items/4eIvZ5FrB8u5CTbJ.htm)|Tentacle Flurry|`@Compendium[pf2e.pathfinder-bestiary.4eIvZ5FrB8u5CTbJ]`|
 |[Démarche de filou](pathfinder-bestiary-items/VdlfnhKj8BudHVMB.htm)|Trickster's Step|`@Compendium[pf2e.pathfinder-bestiary.VdlfnhKj8BudHVMB]`|
+|[Démonstration d'intimidation](pathfinder-bestiary-items/ONIHyZ3rL5vCjJod.htm)|Intimidating Display|`@Compendium[pf2e.pathfinder-bestiary.ONIHyZ3rL5vCjJod]`|
 |[Démonstration effrayante](pathfinder-bestiary-items/7PQkG1Vfc7aynb2X.htm)|Frightening Display|`@Compendium[pf2e.pathfinder-bestiary.7PQkG1Vfc7aynb2X]`|
+|[Démonstration pratique](pathfinder-bestiary-items/Ns2pok7e6UtuKUd6.htm)|Object Lesson|`@Compendium[pf2e.pathfinder-bestiary.Ns2pok7e6UtuKUd6]`|
 |[Dépendance à la radiance](pathfinder-bestiary-items/DYRACVN0h19oKZpk.htm)|Radiance Dependence|`@Compendium[pf2e.pathfinder-bestiary.DYRACVN0h19oKZpk]`|
 |[Déplacement](pathfinder-bestiary-items/GJh2y3nd5dKEWe8I.htm)|Displacement|`@Compendium[pf2e.pathfinder-bestiary.GJh2y3nd5dKEWe8I]`|
 |[Déplacement caché](pathfinder-bestiary-items/hH9lWhV3jA9NQJuG.htm)|Hidden Movement|`@Compendium[pf2e.pathfinder-bestiary.hH9lWhV3jA9NQJuG]`|
+|[Déplacement caché](pathfinder-bestiary-items/mGL7tbh4lfdWIVfJ.htm)|Hidden Movement|`@Compendium[pf2e.pathfinder-bestiary.mGL7tbh4lfdWIVfJ]`|
 |[Déplacement caché](pathfinder-bestiary-items/c4LXwYKMdM5R7B7K.htm)|Hidden Movement|`@Compendium[pf2e.pathfinder-bestiary.c4LXwYKMdM5R7B7K]`|
 |[Déplacement facilité dans les marais](pathfinder-bestiary-items/xBIoPO0Yl00JwtXW.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary.xBIoPO0Yl00JwtXW]`|
+|[Déplacement facilité dans les marais](pathfinder-bestiary-items/VxA7WerDGElBkdYj.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary.VxA7WerDGElBkdYj]`|
+|[Déplacement facilité dans les marais](pathfinder-bestiary-items/momzHh7zAZRC7Hob.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary.momzHh7zAZRC7Hob]`|
 |[Déplacement facilité en forêt](pathfinder-bestiary-items/J53J6OFXMFOq27dA.htm)|Woodland Stride|`@Compendium[pf2e.pathfinder-bestiary.J53J6OFXMFOq27dA]`|
 |[Déplacement facilité en forêt](pathfinder-bestiary-items/L0FrL7jDYSHuRsdS.htm)|Woodland Stride|`@Compendium[pf2e.pathfinder-bestiary.L0FrL7jDYSHuRsdS]`|
 |[Déplacement facilité en forêt](pathfinder-bestiary-items/kiLj66ryWPKBgZKh.htm)|Woodland Stride|`@Compendium[pf2e.pathfinder-bestiary.kiLj66ryWPKBgZKh]`|
@@ -2368,13 +2247,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Désarçonner](pathfinder-bestiary-items/xswRs14UWcUn7b5S.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.xswRs14UWcUn7b5S]`|
 |[Désarçonner](pathfinder-bestiary-items/hdyD6t2duHPLOLyi.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.hdyD6t2duHPLOLyi]`|
 |[Désarçonner](pathfinder-bestiary-items/ERaLBCCkqUJWJVvG.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.ERaLBCCkqUJWJVvG]`|
+|[Désarçonner](pathfinder-bestiary-items/Mf7Y2TxYr2e5o2Ht.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.Mf7Y2TxYr2e5o2Ht]`|
+|[Désarçonner](pathfinder-bestiary-items/M1Uh0E4VLZObTo3I.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.M1Uh0E4VLZObTo3I]`|
 |[Désarçonner](pathfinder-bestiary-items/bqcTHqymDNnpRDg9.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.bqcTHqymDNnpRDg9]`|
+|[Désarçonner](pathfinder-bestiary-items/HuxqXHbNPMVfb98R.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.HuxqXHbNPMVfb98R]`|
 |[Désarçonner](pathfinder-bestiary-items/ogjALspcg7GVz79c.htm)|Buck|`@Compendium[pf2e.pathfinder-bestiary.ogjALspcg7GVz79c]`|
 |[Désespoir](pathfinder-bestiary-items/1ich4lSlipgnuhyC.htm)|Despair|`@Compendium[pf2e.pathfinder-bestiary.1ich4lSlipgnuhyC]`|
 |[Désirs pervertis](pathfinder-bestiary-items/nA5lgWKn3AryAuFs.htm)|Twisted Desires|`@Compendium[pf2e.pathfinder-bestiary.nA5lgWKn3AryAuFs]`|
 |[Dévorer la chair](pathfinder-bestiary-items/7RTjFlVzsxhjtwX4.htm)|Consume Flesh|`@Compendium[pf2e.pathfinder-bestiary.7RTjFlVzsxhjtwX4]`|
 |[Dévorer la chair](pathfinder-bestiary-items/mkwN7Fgq3DRnThOV.htm)|Consume Flesh|`@Compendium[pf2e.pathfinder-bestiary.mkwN7Fgq3DRnThOV]`|
 |[Effrayer](pathfinder-bestiary-items/v8X1W0LmbkWRpOS6.htm)|Frighten|`@Compendium[pf2e.pathfinder-bestiary.v8X1W0LmbkWRpOS6]`|
+|[Embrocher](pathfinder-bestiary-items/ix1KQX8Ji2g1e9ID.htm)|Skewer|`@Compendium[pf2e.pathfinder-bestiary.ix1KQX8Ji2g1e9ID]`|
 |[Embrocher](pathfinder-bestiary-items/ZXotvZV2fYBkhfUy.htm)|Skewer|`@Compendium[pf2e.pathfinder-bestiary.ZXotvZV2fYBkhfUy]`|
 |[Embuche](pathfinder-bestiary-items/e8BUlHLevzRJnHEc.htm)|Bushwhack|`@Compendium[pf2e.pathfinder-bestiary.e8BUlHLevzRJnHEc]`|
 |[Embuscade aquatique](pathfinder-bestiary-items/abEaFObv46UrcGMU.htm)|Aquatic Ambush|`@Compendium[pf2e.pathfinder-bestiary.abEaFObv46UrcGMU]`|
@@ -2384,7 +2267,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Empathie avec la nature](pathfinder-bestiary-items/03GLgyeAGjU6XdPt.htm)|Nature Empathy|`@Compendium[pf2e.pathfinder-bestiary.03GLgyeAGjU6XdPt]`|
 |[Empathie avec la nature](pathfinder-bestiary-items/afRIl1Q7FwNUtxuI.htm)|Nature Empathy|`@Compendium[pf2e.pathfinder-bestiary.afRIl1Q7FwNUtxuI]`|
 |[Empathie avec la vermine](pathfinder-bestiary-items/tvFxmbJKPxnCnTbb.htm)|Vermin Empathy|`@Compendium[pf2e.pathfinder-bestiary.tvFxmbJKPxnCnTbb]`|
+|[Empathie avec les loups](pathfinder-bestiary-items/ii0tl0zE2tEgfPD4.htm)|Wolf Empathy|`@Compendium[pf2e.pathfinder-bestiary.ii0tl0zE2tEgfPD4]`|
 |[Empathie avec les rats](pathfinder-bestiary-items/TTpnkaK9B6Lsytya.htm)|Rat Empathy|`@Compendium[pf2e.pathfinder-bestiary.TTpnkaK9B6Lsytya]`|
+|[Empathie sauvage](pathfinder-bestiary-items/rL7A4RH2uX8GGbWM.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary.rL7A4RH2uX8GGbWM]`|
+|[Empathie sauvage](pathfinder-bestiary-items/nS51JCooM2dV2JTC.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary.nS51JCooM2dV2JTC]`|
 |[Empathie sauvage](pathfinder-bestiary-items/QL3594a7048GPCem.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary.QL3594a7048GPCem]`|
 |[Empathies avec les ours](pathfinder-bestiary-items/fjsDRLGq7Hpbxrfn.htm)|Bear Empathy|`@Compendium[pf2e.pathfinder-bestiary.fjsDRLGq7Hpbxrfn]`|
 |[Empoignade du prédateur](pathfinder-bestiary-items/kvbp3xXviiIXnVhS.htm)|Predatory Grab|`@Compendium[pf2e.pathfinder-bestiary.kvbp3xXviiIXnVhS]`|
@@ -2419,7 +2305,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Empoignade/Agrippement](pathfinder-bestiary-items/gx4QtoqFUMcJKh9b.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.gx4QtoqFUMcJKh9b]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/zb5Fwjfb2emTLKdL.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.zb5Fwjfb2emTLKdL]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/5NPT2o7xLwm4QVG0.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.5NPT2o7xLwm4QVG0]`|
-|[Empoignade/Agrippement](pathfinder-bestiary-items/o1Dh44Cl7px3KGea.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.o1Dh44Cl7px3KGea]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/rQ1dAhk5hHaVicBP.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.rQ1dAhk5hHaVicBP]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/SjtL4vaiiGNkeXDm.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.SjtL4vaiiGNkeXDm]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/kxRli3zYiks3nckW.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.kxRli3zYiks3nckW]`|
@@ -2427,10 +2312,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Empoignade/Agrippement](pathfinder-bestiary-items/2d3ZGRIXERcjqnmJ.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.2d3ZGRIXERcjqnmJ]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/LfYdkPPdY3ZvMyEk.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.LfYdkPPdY3ZvMyEk]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/JUgPxjF2b7DYZwEu.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.JUgPxjF2b7DYZwEu]`|
-|[Empoignade/Agrippement](pathfinder-bestiary-items/YcE1Kg1c0njojA8b.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.YcE1Kg1c0njojA8b]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/wfKBAQHE6bHpnSve.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.wfKBAQHE6bHpnSve]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/NC141aBluvAWkdH5.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.NC141aBluvAWkdH5]`|
-|[Empoignade/Agrippement](pathfinder-bestiary-items/6ORqPbdQEDKtPs55.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.6ORqPbdQEDKtPs55]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/WJYznUjqpKPO2kQz.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.WJYznUjqpKPO2kQz]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/8oiunFF5LcYpynHM.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.8oiunFF5LcYpynHM]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/OzGatkJy0uyM9zZJ.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.OzGatkJy0uyM9zZJ]`|
@@ -2446,7 +2329,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Empoignade/Agrippement](pathfinder-bestiary-items/CMFwSAQpmkkqeHxH.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.CMFwSAQpmkkqeHxH]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/1VdxeWdeAuS34ymv.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.1VdxeWdeAuS34ymv]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/iw0W5WgXZN9Y21ul.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.iw0W5WgXZN9Y21ul]`|
-|[Empoignade/Agrippement](pathfinder-bestiary-items/tcjS7ZEu6Fppiy3z.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.tcjS7ZEu6Fppiy3z]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/yB58WUUckQC7pMxy.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.yB58WUUckQC7pMxy]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/XMcVGkoaO2Xaj18P.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.XMcVGkoaO2Xaj18P]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-items/GmPqLo8cPqMgY6V2.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary.GmPqLo8cPqMgY6V2]`|
@@ -2477,6 +2359,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Enfants de la nuit](pathfinder-bestiary-items/I0GaQls3ghJMJ5Ib.htm)|Children of the Night|`@Compendium[pf2e.pathfinder-bestiary.I0GaQls3ghJMJ5Ib]`|
 |[Enfants de la nuit](pathfinder-bestiary-items/TjOmyfilNvHKI58M.htm)|Children of the Night|`@Compendium[pf2e.pathfinder-bestiary.TjOmyfilNvHKI58M]`|
 |[Engloutir](pathfinder-bestiary-items/N5NccQ5JtdXMWjA9.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.N5NccQ5JtdXMWjA9]`|
+|[Engloutir](pathfinder-bestiary-items/PHrmAQv1FUnGiNrw.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.PHrmAQv1FUnGiNrw]`|
 |[Engloutir](pathfinder-bestiary-items/GSyhdPMQNpUa9LQJ.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.GSyhdPMQNpUa9LQJ]`|
 |[Engloutir](pathfinder-bestiary-items/4NNU4WrjaWJrngyL.htm)|Engulf|`@Compendium[pf2e.pathfinder-bestiary.4NNU4WrjaWJrngyL]`|
 |[Engloutissement d'âme](pathfinder-bestiary-items/1qFhgFYCKIDaF8mk.htm)|Devour Soul|`@Compendium[pf2e.pathfinder-bestiary.1qFhgFYCKIDaF8mk]`|
@@ -2489,10 +2372,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Enrouler les anneaux](pathfinder-bestiary-items/l6OEi0DzuPlz6OeT.htm)|Wrap in Coils|`@Compendium[pf2e.pathfinder-bestiary.l6OEi0DzuPlz6OeT]`|
 |[Envelopper](pathfinder-bestiary-items/P0Q4Hgs9e8hwRX5G.htm)|Envelop|`@Compendium[pf2e.pathfinder-bestiary.P0Q4Hgs9e8hwRX5G]`|
 |[Ergot](pathfinder-bestiary-items/0QQqIESJlQrO4KUL.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.0QQqIESJlQrO4KUL]`|
-|[Ergot](pathfinder-bestiary-items/BmhB6hl9Ivt5pnw6.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.BmhB6hl9Ivt5pnw6]`|
 |[Ergot](pathfinder-bestiary-items/sqceAJWlpdKGnHvx.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.sqceAJWlpdKGnHvx]`|
 |[Ergot](pathfinder-bestiary-items/LLDqAQlq7w0YWyO0.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.LLDqAQlq7w0YWyO0]`|
-|[Ergot](pathfinder-bestiary-items/pB0p0rg2zJNouFjM.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.pB0p0rg2zJNouFjM]`|
 |[Escalade de la glace](pathfinder-bestiary-items/ZktMGhL2mkH1daBn.htm)|Ice Climb|`@Compendium[pf2e.pathfinder-bestiary.ZktMGhL2mkH1daBn]`|
 |[Escalade de la glace](pathfinder-bestiary-items/1wtLTJx2lkvun6gV.htm)|Ice Climb|`@Compendium[pf2e.pathfinder-bestiary.1wtLTJx2lkvun6gV]`|
 |[Escalade de la glace](pathfinder-bestiary-items/1yMkzmd8oyagICBZ.htm)|Ice Climb|`@Compendium[pf2e.pathfinder-bestiary.1yMkzmd8oyagICBZ]`|
@@ -2517,6 +2398,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Explosion verdoyante](pathfinder-bestiary-items/Eizm8JTXmxGFPtFL.htm)|Verdant Burst|`@Compendium[pf2e.pathfinder-bestiary.Eizm8JTXmxGFPtFL]`|
 |[Explosion verdoyante](pathfinder-bestiary-items/Y2DikEsO4R95MHFo.htm)|Verdant Burst|`@Compendium[pf2e.pathfinder-bestiary.Y2DikEsO4R95MHFo]`|
 |[Extension des pointes dorsales](pathfinder-bestiary-items/d3l2xwpTV1XkZBAO.htm)|Spine Rake|`@Compendium[pf2e.pathfinder-bestiary.d3l2xwpTV1XkZBAO]`|
+|[Face du cube](pathfinder-bestiary-items/mNomS6NBwvlheidl.htm)|Cube Face|`@Compendium[pf2e.pathfinder-bestiary.mNomS6NBwvlheidl]`|
 |[Faiblesse des vampires](pathfinder-bestiary-items/OgOkCo3ZpgcUbZr1.htm)|Vampire Weaknesses|`@Compendium[pf2e.pathfinder-bestiary.OgOkCo3ZpgcUbZr1]`|
 |[Faiblesse des vampires](pathfinder-bestiary-items/mK3REH0Jcz0NP7Bh.htm)|Vampire Weaknesses|`@Compendium[pf2e.pathfinder-bestiary.mK3REH0Jcz0NP7Bh]`|
 |[Faiblesses des vampires](pathfinder-bestiary-items/GXr4u9s0uuvI5J6d.htm)|Vampire Weaknesses|`@Compendium[pf2e.pathfinder-bestiary.GXr4u9s0uuvI5J6d]`|
@@ -2530,6 +2412,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Façonner la glace](pathfinder-bestiary-items/h9dbqoHHEOOBy05q.htm)|Shape Ice|`@Compendium[pf2e.pathfinder-bestiary.h9dbqoHHEOOBy05q]`|
 |[Façonner la glace](pathfinder-bestiary-items/fm9psBEIByOlaBKs.htm)|Shape Ice|`@Compendium[pf2e.pathfinder-bestiary.fm9psBEIByOlaBKs]`|
 |[Festin du glouton](pathfinder-bestiary-items/SzfxfFohnnwRyEeK.htm)|Glutton's Feast|`@Compendium[pf2e.pathfinder-bestiary.SzfxfFohnnwRyEeK]`|
+|[Feu grégeois](pathfinder-bestiary-items/xYlf7HmaIqlHhW8O.htm)|Alchemist's Fire|`@Compendium[pf2e.pathfinder-bestiary.xYlf7HmaIqlHhW8O]`|
+|[Feu grégeois](pathfinder-bestiary-items/VwV11pPNEpjFqEBc.htm)|Alchemist's Fire|`@Compendium[pf2e.pathfinder-bestiary.VwV11pPNEpjFqEBc]`|
 |[Feu lumineux](pathfinder-bestiary-items/h7p7zhkW6OBX6N85.htm)|Luminous Fire|`@Compendium[pf2e.pathfinder-bestiary.h7p7zhkW6OBX6N85]`|
 |[Feuille](pathfinder-bestiary-items/t8uaryivfTb4jrjH.htm)|Leaf|`@Compendium[pf2e.pathfinder-bestiary.t8uaryivfTb4jrjH]`|
 |[Feuille](pathfinder-bestiary-items/mf1G3pa8hN8LNJ4n.htm)|Leaf|`@Compendium[pf2e.pathfinder-bestiary.mf1G3pa8hN8LNJ4n]`|
@@ -2550,11 +2434,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Flamme de justice](pathfinder-bestiary-items/RZijNBizRW62zYQN.htm)|Flame Of Justice|`@Compendium[pf2e.pathfinder-bestiary.RZijNBizRW62zYQN]`|
 |[Flamme de justice](pathfinder-bestiary-items/aivVKzlEOwieqgj1.htm)|Flame of Justice|`@Compendium[pf2e.pathfinder-bestiary.aivVKzlEOwieqgj1]`|
 |[Flamme de justice](pathfinder-bestiary-items/465xP8CbWAyUkrIj.htm)|Flame of Justice|`@Compendium[pf2e.pathfinder-bestiary.465xP8CbWAyUkrIj]`|
+|[Flamme de justice](pathfinder-bestiary-items/nVzYnoOpZcD3KXg9.htm)|Flame of Justice|`@Compendium[pf2e.pathfinder-bestiary.nVzYnoOpZcD3KXg9]`|
 |[Flamme de justice](pathfinder-bestiary-items/vJesB2gBXUdU1CMN.htm)|Flame Of Justice|`@Compendium[pf2e.pathfinder-bestiary.vJesB2gBXUdU1CMN]`|
+|[Flamme mortelle](pathfinder-bestiary-items/KFObwL3fuLfRhdtm.htm)|Death Flame|`@Compendium[pf2e.pathfinder-bestiary.KFObwL3fuLfRhdtm]`|
 |[Flammes bleues](pathfinder-bestiary-items/Q7WZ4aNo40BCE8gQ.htm)|Blue Flames|`@Compendium[pf2e.pathfinder-bestiary.Q7WZ4aNo40BCE8gQ]`|
 |[Flammèche](pathfinder-bestiary-items/gZywv8nUOzTjloep.htm)|Fire Mote|`@Compendium[pf2e.pathfinder-bestiary.gZywv8nUOzTjloep]`|
 |[Flammèche](pathfinder-bestiary-items/FFjYHtFi991MRIlJ.htm)|Fire Mote|`@Compendium[pf2e.pathfinder-bestiary.FFjYHtFi991MRIlJ]`|
 |[Flammèche](pathfinder-bestiary-items/AkOZsS5Ar1Py89Zo.htm)|Tendril|`@Compendium[pf2e.pathfinder-bestiary.AkOZsS5Ar1Py89Zo]`|
+|[Flash de lumière](pathfinder-bestiary-items/qbw4q1VE5jAxSzTj.htm)|Light Flash|`@Compendium[pf2e.pathfinder-bestiary.qbw4q1VE5jAxSzTj]`|
 |[Flash mortel](pathfinder-bestiary-items/hIxE6LMA92SPk1eC.htm)|Death Flash|`@Compendium[pf2e.pathfinder-bestiary.hIxE6LMA92SPk1eC]`|
 |[Flasque d'acide](pathfinder-bestiary-items/axeTxBouSunEePNo.htm)|Acid Flask|`@Compendium[pf2e.pathfinder-bestiary.axeTxBouSunEePNo]`|
 |[Flasque d'acide](pathfinder-bestiary-items/8rkdeFfEsiiAheMI.htm)|Acid Flask|`@Compendium[pf2e.pathfinder-bestiary.8rkdeFfEsiiAheMI]`|
@@ -2577,9 +2464,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Forme de poussière cristalline](pathfinder-bestiary-items/WYRi6VyNroGIrEk6.htm)|Crystalline Dust Form|`@Compendium[pf2e.pathfinder-bestiary.WYRi6VyNroGIrEk6]`|
 |[Forme de tornade](pathfinder-bestiary-items/nHfBhYOOHdy8Wx7p.htm)|Whirlwind Form|`@Compendium[pf2e.pathfinder-bestiary.nHfBhYOOHdy8Wx7p]`|
 |[Forme lumineuse](pathfinder-bestiary-items/Cti6KJQlr8VT1UaM.htm)|Light Form|`@Compendium[pf2e.pathfinder-bestiary.Cti6KJQlr8VT1UaM]`|
+|[Formules alchimiques](pathfinder-bestiary-items/p1roWrlYRw0ZNWUR.htm)|Alchemical Formulas|`@Compendium[pf2e.pathfinder-bestiary.p1roWrlYRw0ZNWUR]`|
 |[Fou rire de masse](pathfinder-bestiary-items/44gZk9CBkA5y9VOb.htm)|Mass Laughter|`@Compendium[pf2e.pathfinder-bestiary.44gZk9CBkA5y9VOb]`|
 |[Foudre](pathfinder-bestiary-items/2rAKighB6Ywhk5s3.htm)|Shock|`@Compendium[pf2e.pathfinder-bestiary.2rAKighB6Ywhk5s3]`|
 |[Fouet de feu en fer froid et en argent,](pathfinder-bestiary-items/K33vakNPDetkh1iP.htm)|Cold Iron Silver Flame Whip|`@Compendium[pf2e.pathfinder-bestiary.K33vakNPDetkh1iP]`|
+|[Fragments de personnalité](pathfinder-bestiary-items/iaTfEZ50lrTlV5Ku.htm)|Personality Fragments|`@Compendium[pf2e.pathfinder-bestiary.iaTfEZ50lrTlV5Ku]`|
 |[Frappe affaiblissante](pathfinder-bestiary-items/1BwIo7mgXKcuS2Vg.htm)|Weakening Strike|`@Compendium[pf2e.pathfinder-bestiary.1BwIo7mgXKcuS2Vg]`|
 |[Frappe de vague de distorsion](pathfinder-bestiary-items/BudK3JDDVjbWqw8G.htm)|Warpwave Strike|`@Compendium[pf2e.pathfinder-bestiary.BudK3JDDVjbWqw8G]`|
 |[Frappe destructrice](pathfinder-bestiary-items/grrGcmbt2tnL36tN.htm)|Destructive Strike|`@Compendium[pf2e.pathfinder-bestiary.grrGcmbt2tnL36tN]`|
@@ -2603,11 +2492,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Frappes en vol](pathfinder-bestiary-items/GCyLSeOtTMt3wLur.htm)|Flying Strafe|`@Compendium[pf2e.pathfinder-bestiary.GCyLSeOtTMt3wLur]`|
 |[Frappes en vol](pathfinder-bestiary-items/4N1vw9fFoiAgxSn1.htm)|Flying Strafe|`@Compendium[pf2e.pathfinder-bestiary.4N1vw9fFoiAgxSn1]`|
 |[Frappes rapides](pathfinder-bestiary-items/XIYonpEs96Js86vZ.htm)|Rapid Strikes|`@Compendium[pf2e.pathfinder-bestiary.XIYonpEs96Js86vZ]`|
+|[Froid du dragon](pathfinder-bestiary-items/pydkk6U2LVFlha3A.htm)|Dragon Chill|`@Compendium[pf2e.pathfinder-bestiary.pydkk6U2LVFlha3A]`|
+|[Froid du dragon](pathfinder-bestiary-items/jpBSdZzftYrVeiU0.htm)|Dragon Chill|`@Compendium[pf2e.pathfinder-bestiary.jpBSdZzftYrVeiU0]`|
 |[Fronde](pathfinder-bestiary-items/GIxGQeMwhYMa5aqt.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary.GIxGQeMwhYMa5aqt]`|
 |[Fronde](pathfinder-bestiary-items/ZlxZ2pDpBDTkPZ6M.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary.ZlxZ2pDpBDTkPZ6M]`|
 |[Fronde](pathfinder-bestiary-items/HQrZGDENHs9wuZxK.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary.HQrZGDENHs9wuZxK]`|
 |[Fronde](pathfinder-bestiary-items/2vwlAmF93myITMjw.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary.2vwlAmF93myITMjw]`|
+|[Frénésie de griffes](pathfinder-bestiary-items/jvmfyWcZp1aZiZqS.htm)|Claw Frenzy|`@Compendium[pf2e.pathfinder-bestiary.jvmfyWcZp1aZiZqS]`|
+|[Frénésie draconique](pathfinder-bestiary-items/Vst7qvKg3u5uhWKG.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.Vst7qvKg3u5uhWKG]`|
 |[Frénésie draconique](pathfinder-bestiary-items/r5JyVLxepP2bpNAq.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.r5JyVLxepP2bpNAq]`|
+|[Frénésie draconique](pathfinder-bestiary-items/NpgXzERVlP06NMCx.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.NpgXzERVlP06NMCx]`|
 |[Frénésie draconique](pathfinder-bestiary-items/2Tk2P2vXOBYquTtd.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.2Tk2P2vXOBYquTtd]`|
 |[Frénésie draconique](pathfinder-bestiary-items/5rSjCpmIctYFNqcn.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.5rSjCpmIctYFNqcn]`|
 |[Frénésie draconique](pathfinder-bestiary-items/EydNDPNpUXcKp0PD.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.EydNDPNpUXcKp0PD]`|
@@ -2618,18 +2512,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Frénésie draconique](pathfinder-bestiary-items/DlqsOMt7KvKvez2f.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.DlqsOMt7KvKvez2f]`|
 |[Frénésie draconique](pathfinder-bestiary-items/lLkkEbmwGunnyE2e.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.lLkkEbmwGunnyE2e]`|
 |[Frénésie draconique](pathfinder-bestiary-items/0FCCLjtCWvBlUoFA.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.0FCCLjtCWvBlUoFA]`|
+|[Frénésie draconique](pathfinder-bestiary-items/kAUwyvDAhkgyFkme.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.kAUwyvDAhkgyFkme]`|
 |[Frénésie draconique](pathfinder-bestiary-items/vM8KFrCj03Tm1Odl.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.vM8KFrCj03Tm1Odl]`|
 |[Frénésie draconique](pathfinder-bestiary-items/TYcAOZDcSQlHGVZx.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.TYcAOZDcSQlHGVZx]`|
+|[Frénésie draconique](pathfinder-bestiary-items/itJzZD6rxkMhtQQZ.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.itJzZD6rxkMhtQQZ]`|
 |[Frénésie draconique](pathfinder-bestiary-items/ZuFNPk5MmcRIzGRR.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.ZuFNPk5MmcRIzGRR]`|
+|[Frénésie draconique](pathfinder-bestiary-items/XJ5wfV6LNdfMn7EH.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.XJ5wfV6LNdfMn7EH]`|
 |[Frénésie draconique](pathfinder-bestiary-items/FLxvnmMACdVSSD13.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.FLxvnmMACdVSSD13]`|
 |[Frénésie draconique](pathfinder-bestiary-items/hxUuVqQu31iQwmv1.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.hxUuVqQu31iQwmv1]`|
 |[Frénésie draconique](pathfinder-bestiary-items/5fkFF7Wnl8Mmf8Zu.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.5fkFF7Wnl8Mmf8Zu]`|
+|[Frénésie draconique](pathfinder-bestiary-items/YAjAjrcDtGXjLBD7.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.YAjAjrcDtGXjLBD7]`|
 |[Frénésie draconique](pathfinder-bestiary-items/LPgRXjxPg5sOcWEv.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.LPgRXjxPg5sOcWEv]`|
 |[Frénésie draconique](pathfinder-bestiary-items/gGPWUqUPfUG7gzbI.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.gGPWUqUPfUG7gzbI]`|
 |[Frénésie draconique](pathfinder-bestiary-items/XGl21E5BQZXRMicO.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.XGl21E5BQZXRMicO]`|
 |[Frénésie draconique](pathfinder-bestiary-items/rw75XVfj9XlY7JGq.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.rw75XVfj9XlY7JGq]`|
 |[Frénésie draconique](pathfinder-bestiary-items/jv3hOJvw3g4A5KWY.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.jv3hOJvw3g4A5KWY]`|
+|[Frénésie draconique](pathfinder-bestiary-items/oeg1zG9t1NO1R9l3.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.oeg1zG9t1NO1R9l3]`|
 |[Frénésie draconique](pathfinder-bestiary-items/5ozQMc30WbtUYecf.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.5ozQMc30WbtUYecf]`|
+|[Frénésie draconique](pathfinder-bestiary-items/IuK4DrLEyP6BmKi2.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.IuK4DrLEyP6BmKi2]`|
 |[Frénésie draconique](pathfinder-bestiary-items/PMu8PzzMLndJzxnZ.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.PMu8PzzMLndJzxnZ]`|
 |[Frénésie draconique](pathfinder-bestiary-items/GsSxwd5EPNBqxdWC.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.GsSxwd5EPNBqxdWC]`|
 |[Frénésie draconique](pathfinder-bestiary-items/MlLvVLQolivhuZFD.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary.MlLvVLQolivhuZFD]`|
@@ -2647,6 +2547,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Fumée](pathfinder-bestiary-items/FOakiHyYV4zfX0lj.htm)|Smoke|`@Compendium[pf2e.pathfinder-bestiary.FOakiHyYV4zfX0lj]`|
 |[Furie de griffes](pathfinder-bestiary-items/b1w5wps2XBnNPOls.htm)|Furious Claws|`@Compendium[pf2e.pathfinder-bestiary.b1w5wps2XBnNPOls]`|
 |[Fusion avec les arbres](pathfinder-bestiary-items/7IWkM6MOEOAu4DTP.htm)|Tree Meld|`@Compendium[pf2e.pathfinder-bestiary.7IWkM6MOEOAu4DTP]`|
+|[Fusion avec les arbres](pathfinder-bestiary-items/nu6HxTKMW550KwDx.htm)|Tree Meld|`@Compendium[pf2e.pathfinder-bestiary.nu6HxTKMW550KwDx]`|
 |[Fusion avec les objets](pathfinder-bestiary-items/GzpsUYZPjfrvA0Yh.htm)|Object Meld|`@Compendium[pf2e.pathfinder-bestiary.GzpsUYZPjfrvA0Yh]`|
 |[Férocité](pathfinder-bestiary-items/TQ0FOP3X7LrgaS6J.htm)|Ferocity|`@Compendium[pf2e.pathfinder-bestiary.TQ0FOP3X7LrgaS6J]`|
 |[Férocité](pathfinder-bestiary-items/Onifi8y9OVLqK3Ea.htm)|Ferocity|`@Compendium[pf2e.pathfinder-bestiary.Onifi8y9OVLqK3Ea]`|
@@ -2673,6 +2574,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gemmes du bâton](pathfinder-bestiary-items/CLQtaRBZzEVhkEpc.htm)|Staff Gems|`@Compendium[pf2e.pathfinder-bestiary.CLQtaRBZzEVhkEpc]`|
 |[Gemmes oculaires de la demi-liche](pathfinder-bestiary-items/saqRnmZhtXKwqFed.htm)|Demilich Eye Gems|`@Compendium[pf2e.pathfinder-bestiary.saqRnmZhtXKwqFed]`|
 |[Gestalt](pathfinder-bestiary-items/4ESvAYPL0OBd4s6Q.htm)|Gestalt|`@Compendium[pf2e.pathfinder-bestiary.4ESvAYPL0OBd4s6Q]`|
+|[Givre ralentissant](pathfinder-bestiary-items/LUZas9EK4qLmUsox.htm)|Slowing Frost|`@Compendium[pf2e.pathfinder-bestiary.LUZas9EK4qLmUsox]`|
 |[Glisse à travers la terre](pathfinder-bestiary-items/59wy5xK7MEQmYRxg.htm)|Earth Glide|`@Compendium[pf2e.pathfinder-bestiary.59wy5xK7MEQmYRxg]`|
 |[Glisse à travers le sable](pathfinder-bestiary-items/abrvwmCxto1mr7Xu.htm)|Sand Glide|`@Compendium[pf2e.pathfinder-bestiary.abrvwmCxto1mr7Xu]`|
 |[Glissement de terrain](pathfinder-bestiary-items/ztr88bB5WvLP8Ykt.htm)|Earth Glide|`@Compendium[pf2e.pathfinder-bestiary.ztr88bB5WvLP8Ykt]`|
@@ -2708,7 +2610,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Gourdin](pathfinder-bestiary-items/KYq91Bu5HDnQoSkG.htm)|Club|`@Compendium[pf2e.pathfinder-bestiary.KYq91Bu5HDnQoSkG]`|
 |[Gourdin](pathfinder-bestiary-items/wBs1NoPWhm38PmMP.htm)|Club|`@Compendium[pf2e.pathfinder-bestiary.wBs1NoPWhm38PmMP]`|
 |[Gourdin](pathfinder-bestiary-items/Xv9vTEwIVBxtTfxZ.htm)|Club|`@Compendium[pf2e.pathfinder-bestiary.Xv9vTEwIVBxtTfxZ]`|
+|[Grace de la mort](pathfinder-bestiary-items/uCvZSYozUXxyyf1b.htm)|Death's Grace|`@Compendium[pf2e.pathfinder-bestiary.uCvZSYozUXxyyf1b]`|
 |[Graine](pathfinder-bestiary-items/eg7TTGELwmYoMNM7.htm)|Seed|`@Compendium[pf2e.pathfinder-bestiary.eg7TTGELwmYoMNM7]`|
+|[Grand désespoir](pathfinder-bestiary-items/NKPJH9dvADsJ0zhQ.htm)|Great Despair|`@Compendium[pf2e.pathfinder-bestiary.NKPJH9dvADsJ0zhQ]`|
 |[Grande frappe transversale](pathfinder-bestiary-items/4gkC6A8D27Jzv7nH.htm)|Broad Swipe|`@Compendium[pf2e.pathfinder-bestiary.4gkC6A8D27Jzv7nH]`|
 |[Grande hache](pathfinder-bestiary-items/JWlYLXxlI4IRYbeF.htm)|Greataxe|`@Compendium[pf2e.pathfinder-bestiary.JWlYLXxlI4IRYbeF]`|
 |[Grande hache](pathfinder-bestiary-items/eqCGFR9UmHOuUpMI.htm)|Greataxe|`@Compendium[pf2e.pathfinder-bestiary.eqCGFR9UmHOuUpMI]`|
@@ -2852,6 +2756,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Guérison accélérée 2 (lorsqu'il est sous terre)](pathfinder-bestiary-items/6CWD9zTeiLEB09vN.htm)|Fast Healing 2 (While Underground)|`@Compendium[pf2e.pathfinder-bestiary.6CWD9zTeiLEB09vN]`|
 |[Guérison accélérée 2 (lorsqu'il touche le feu)](pathfinder-bestiary-items/44mTKtGhXhfJhnBh.htm)|Fast Healing 2 (While Touching Fire)|`@Compendium[pf2e.pathfinder-bestiary.44mTKtGhXhfJhnBh]`|
 |[Guérison accélérée 2 (sous l'eau)](pathfinder-bestiary-items/HM9U7vUmg5uUan4k.htm)|Fast Healing 2 (While Underwater)|`@Compendium[pf2e.pathfinder-bestiary.HM9U7vUmg5uUan4k]`|
+|[Guérison accélérée 2 (à l'air libre)](pathfinder-bestiary-items/OG9zHmjCiir50sUt.htm)|Fast Healing 2 (In Open Air)|`@Compendium[pf2e.pathfinder-bestiary.OG9zHmjCiir50sUt]`|
 |[Guérison accélérée 20](pathfinder-bestiary-items/Dy5EMIJUvL46ibmR.htm)|Fast Healing 20|`@Compendium[pf2e.pathfinder-bestiary.Dy5EMIJUvL46ibmR]`|
 |[Guérison accélérée 5](pathfinder-bestiary-items/gxj7cGSco9mq9DF4.htm)|Fast Healing 5|`@Compendium[pf2e.pathfinder-bestiary.gxj7cGSco9mq9DF4]`|
 |[Guérison accélérée 5](pathfinder-bestiary-items/7bniftpjEDrMSUN2.htm)|Fast Healing 5|`@Compendium[pf2e.pathfinder-bestiary.7bniftpjEDrMSUN2]`|
@@ -2859,6 +2764,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Guérison diabolique](pathfinder-bestiary-items/ATs94SggOJoPD71u.htm)|Diabolic Healing|`@Compendium[pf2e.pathfinder-bestiary.ATs94SggOJoPD71u]`|
 |[Guérison négative](pathfinder-bestiary-items/TKC7njhX3a3mq4eY.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.TKC7njhX3a3mq4eY]`|
 |[Guérison négative](pathfinder-bestiary-items/8R3jmOcyIfgNNdKr.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.8R3jmOcyIfgNNdKr]`|
+|[Guérison négative](pathfinder-bestiary-items/ZeFESJTxEPFbLeiy.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.ZeFESJTxEPFbLeiy]`|
 |[Guérison négative](pathfinder-bestiary-items/MQbK2a6aQPbnYNCw.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.MQbK2a6aQPbnYNCw]`|
 |[Guérison négative](pathfinder-bestiary-items/BOFFwI5nKDfABluP.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.BOFFwI5nKDfABluP]`|
 |[Guérison négative](pathfinder-bestiary-items/RdYqZ3Dt6i0ca94C.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary.RdYqZ3Dt6i0ca94C]`|
@@ -2907,6 +2813,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Hémorragie](pathfinder-bestiary-items/6bt34Jgx0jymQKsU.htm)|Bloodletting|`@Compendium[pf2e.pathfinder-bestiary.6bt34Jgx0jymQKsU]`|
 |[Hémorragie](pathfinder-bestiary-items/P0MPVynVKmKMh3FI.htm)|Bloodletting|`@Compendium[pf2e.pathfinder-bestiary.P0MPVynVKmKMh3FI]`|
 |[Imbibition de sang](pathfinder-bestiary-items/ivsgBmmJjZW5Wr5S.htm)|Blood Soak|`@Compendium[pf2e.pathfinder-bestiary.ivsgBmmJjZW5Wr5S]`|
+|[Imitation d'objet](pathfinder-bestiary-items/M3QwWIU2rzRHWndo.htm)|Mimic Object|`@Compendium[pf2e.pathfinder-bestiary.M3QwWIU2rzRHWndo]`|
 |[Imitation du son](pathfinder-bestiary-items/hZbArhODPV9EmZ0m.htm)|Sound Imitation|`@Compendium[pf2e.pathfinder-bestiary.hZbArhODPV9EmZ0m]`|
 |[Imitation du son](pathfinder-bestiary-items/4kBeGDMZLn75niF4.htm)|Sound Imitation|`@Compendium[pf2e.pathfinder-bestiary.4kBeGDMZLn75niF4]`|
 |[Imitation du son](pathfinder-bestiary-items/7J6yDmYeMAWvM46S.htm)|Sound Imitation|`@Compendium[pf2e.pathfinder-bestiary.7J6yDmYeMAWvM46S]`|
@@ -2919,6 +2826,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Imprégnation d'armes](pathfinder-bestiary-items/iSVjVMy4wUULtEXe.htm)|Infuse Weapons|`@Compendium[pf2e.pathfinder-bestiary.iSVjVMy4wUULtEXe]`|
 |[Imprégnation d'armes](pathfinder-bestiary-items/53xmmigXl7qYER3Y.htm)|Infuse Weapons|`@Compendium[pf2e.pathfinder-bestiary.53xmmigXl7qYER3Y]`|
 |[Imprégnation d'armes](pathfinder-bestiary-items/0qVGuAvlfZ7EplZ5.htm)|Infuse Weapon|`@Compendium[pf2e.pathfinder-bestiary.0qVGuAvlfZ7EplZ5]`|
+|[Imprégnation d'armes](pathfinder-bestiary-items/UJUSN0sChxOuRWw8.htm)|Infuse Weapon|`@Compendium[pf2e.pathfinder-bestiary.UJUSN0sChxOuRWw8]`|
 |[Impuissance solaire](pathfinder-bestiary-items/rQT7KUvA4yzEm4PO.htm)|Sunlight Powerlessness|`@Compendium[pf2e.pathfinder-bestiary.rQT7KUvA4yzEm4PO]`|
 |[Impuissance solaire](pathfinder-bestiary-items/6tSYdMbuSY1NSMOt.htm)|Sunlight Powerlessness|`@Compendium[pf2e.pathfinder-bestiary.6tSYdMbuSY1NSMOt]`|
 |[Incantation accélérée magistrale](pathfinder-bestiary-items/5CiCYm71I6kB4UPC.htm)|Masterful Quickened Casting|`@Compendium[pf2e.pathfinder-bestiary.5CiCYm71I6kB4UPC]`|
@@ -2930,6 +2838,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Inexorable](pathfinder-bestiary-items/tphsLfLbrYV16pth.htm)|Inexorable|`@Compendium[pf2e.pathfinder-bestiary.tphsLfLbrYV16pth]`|
 |[Inexorable](pathfinder-bestiary-items/IoAJluZoGb9mgLGv.htm)|Inexorable|`@Compendium[pf2e.pathfinder-bestiary.IoAJluZoGb9mgLGv]`|
 |[Infester les environs](pathfinder-bestiary-items/7O6Ud0aHDjF3hlFD.htm)|Infest Environs|`@Compendium[pf2e.pathfinder-bestiary.7O6Ud0aHDjF3hlFD]`|
+|[Inflexion de la réalité](pathfinder-bestiary-items/w14YL6ltyHxsjfDO.htm)|Reality Twist|`@Compendium[pf2e.pathfinder-bestiary.w14YL6ltyHxsjfDO]`|
 |[Inhalation énorme](pathfinder-bestiary-items/S9z7EwyzhGnCFZDI.htm)|Enormous Inhalation|`@Compendium[pf2e.pathfinder-bestiary.S9z7EwyzhGnCFZDI]`|
 |[Injection alchimique](pathfinder-bestiary-items/ahtVNJjKjna3LTc1.htm)|Alchemical Injection|`@Compendium[pf2e.pathfinder-bestiary.ahtVNJjKjna3LTc1]`|
 |[Inspiration](pathfinder-bestiary-items/lQKrggSbzpvqq4YB.htm)|Inspiration|`@Compendium[pf2e.pathfinder-bestiary.lQKrggSbzpvqq4YB]`|
@@ -2954,6 +2863,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Invisibilité naturelle](pathfinder-bestiary-items/6TdllGeax8h6457M.htm)|Naturally Invisible|`@Compendium[pf2e.pathfinder-bestiary.6TdllGeax8h6457M]`|
 |[Invisible](pathfinder-bestiary-items/UYnNMvrWFg5VBhO2.htm)|Invisible|`@Compendium[pf2e.pathfinder-bestiary.UYnNMvrWFg5VBhO2]`|
 |[Invocation du destrier](pathfinder-bestiary-items/VRVvTkZmbfIqx7uw.htm)|Summon Steed|`@Compendium[pf2e.pathfinder-bestiary.VRVvTkZmbfIqx7uw]`|
+|[Invoquer une rune](pathfinder-bestiary-items/JBksJycZVWAJ0ESS.htm)|Invoke Rune|`@Compendium[pf2e.pathfinder-bestiary.JBksJycZVWAJ0ESS]`|
 |[Jambe](pathfinder-bestiary-items/28PBBJfMs67GTIf3.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary.28PBBJfMs67GTIf3]`|
 |[Javeline d'os](pathfinder-bestiary-items/ztyTHwNIKhCgnOc2.htm)|Bone Javelin|`@Compendium[pf2e.pathfinder-bestiary.ztyTHwNIKhCgnOc2]`|
 |[Javelot](pathfinder-bestiary-items/TS7iVUZNmP0Szdfh.htm)|Javelin|`@Compendium[pf2e.pathfinder-bestiary.TS7iVUZNmP0Szdfh]`|
@@ -2979,6 +2889,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lame foudroyante](pathfinder-bestiary-items/OvsLPiSD2whyqgU0.htm)|Lightning Blade|`@Compendium[pf2e.pathfinder-bestiary.OvsLPiSD2whyqgU0]`|
 |[Lame inexorable](pathfinder-bestiary-items/DmZnAZGJF17LOU4y.htm)|Free Blade|`@Compendium[pf2e.pathfinder-bestiary.DmZnAZGJF17LOU4y]`|
 |[Lame sainte](pathfinder-bestiary-items/7XN2uoXvAP0XCvYn.htm)|Holy Blade|`@Compendium[pf2e.pathfinder-bestiary.7XN2uoXvAP0XCvYn]`|
+|[Lamentation d'épouvante](pathfinder-bestiary-items/YqWqB6EYv3yk0LPh.htm)|Frightful Moan|`@Compendium[pf2e.pathfinder-bestiary.YqWqB6EYv3yk0LPh]`|
 |[Lamentattion d'épouvante](pathfinder-bestiary-items/uYQrEbjjw3XIQ1cO.htm)|Frightful Moan|`@Compendium[pf2e.pathfinder-bestiary.uYQrEbjjw3XIQ1cO]`|
 |[Lance](pathfinder-bestiary-items/yDIuApGqKF4695Oq.htm)|Spear|`@Compendium[pf2e.pathfinder-bestiary.yDIuApGqKF4695Oq]`|
 |[Lance](pathfinder-bestiary-items/a4Zz1r0Kbk6SA66t.htm)|Spear|`@Compendium[pf2e.pathfinder-bestiary.a4Zz1r0Kbk6SA66t]`|
@@ -2989,7 +2900,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lance](pathfinder-bestiary-items/Ej293LsxUUFjWNK8.htm)|Spear|`@Compendium[pf2e.pathfinder-bestiary.Ej293LsxUUFjWNK8]`|
 |[Lance](pathfinder-bestiary-items/UYwBYJoDNWHyjeIa.htm)|Spear|`@Compendium[pf2e.pathfinder-bestiary.UYwBYJoDNWHyjeIa]`|
 |[Lance](pathfinder-bestiary-items/DyABhSgZNJ3ICo85.htm)|Spear|`@Compendium[pf2e.pathfinder-bestiary.DyABhSgZNJ3ICo85]`|
-|[Lance de froid](pathfinder-bestiary-items/yIloVqSs48TDwk9P.htm)|Frost Longspear|`@Compendium[pf2e.pathfinder-bestiary.yIloVqSs48TDwk9P]`|
 |[Lance mentale](pathfinder-bestiary-items/EwP4uiI1GXQ7aYst.htm)|Thoughtlance|`@Compendium[pf2e.pathfinder-bestiary.EwP4uiI1GXQ7aYst]`|
 |[Lance sainte de frappe](pathfinder-bestiary-items/Nu3jevz0ikfeGuLs.htm)|Holy Striking Spear|`@Compendium[pf2e.pathfinder-bestiary.Nu3jevz0ikfeGuLs]`|
 |[Lancer de cadavres](pathfinder-bestiary-items/iTAZj4rMOPRWWJDP.htm)|Corpse Throwing|`@Compendium[pf2e.pathfinder-bestiary.iTAZj4rMOPRWWJDP]`|
@@ -3001,16 +2911,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lancer de rocher](pathfinder-bestiary-items/QcXlYliyTvqiEDHM.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary.QcXlYliyTvqiEDHM]`|
 |[Lancer de rocher](pathfinder-bestiary-items/X9BvGRPY6jnbRCrG.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary.X9BvGRPY6jnbRCrG]`|
 |[Lancer de rocher](pathfinder-bestiary-items/S5RuYzvwzPUK3wzT.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary.S5RuYzvwzPUK3wzT]`|
+|[Lanceur à grande distance](pathfinder-bestiary-items/ya7kmwsMyQI69FrG.htm)|Far Lobber|`@Compendium[pf2e.pathfinder-bestiary.ya7kmwsMyQI69FrG]`|
 |[Langage universel](pathfinder-bestiary-items/u71Wtb03wVLdrSUO.htm)|Truespeech|`@Compendium[pf2e.pathfinder-bestiary.u71Wtb03wVLdrSUO]`|
 |[Langue](pathfinder-bestiary-items/4gP2dSNnL1rudfAt.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary.4gP2dSNnL1rudfAt]`|
 |[Langue](pathfinder-bestiary-items/mw30E878JJp7tVVh.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary.mw30E878JJp7tVVh]`|
 |[Langue](pathfinder-bestiary-items/jL2ksRd3mnetwWV2.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary.jL2ksRd3mnetwWV2]`|
+|[Langue des araignées](pathfinder-bestiary-items/Kj1uqisygxPxuaC9.htm)|Spider Speak|`@Compendium[pf2e.pathfinder-bestiary.Kj1uqisygxPxuaC9]`|
 |[Lanterne d'espoir](pathfinder-bestiary-items/Gs9kfR3NhiKWAumE.htm)|Lantern of Hope|`@Compendium[pf2e.pathfinder-bestiary.Gs9kfR3NhiKWAumE]`|
 |[Larve de guêpe](pathfinder-bestiary-items/Crv6pRa77FWxBY6M.htm)|Wasp Larva|`@Compendium[pf2e.pathfinder-bestiary.Crv6pRa77FWxBY6M]`|
 |[Lent](pathfinder-bestiary-items/a2pZeef5wn9y5xAA.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary.a2pZeef5wn9y5xAA]`|
 |[Lent](pathfinder-bestiary-items/eulyI60JHNUYs39w.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary.eulyI60JHNUYs39w]`|
 |[Lent](pathfinder-bestiary-items/TBlBPLZKvFBHjjgU.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary.TBlBPLZKvFBHjjgU]`|
 |[Liane](pathfinder-bestiary-items/EUf1gqfe5un9Aprz.htm)|Vine|`@Compendium[pf2e.pathfinder-bestiary.EUf1gqfe5un9Aprz]`|
+|[Libre expression](pathfinder-bestiary-items/IXjaAxkgZsz5958E.htm)|Free Expression|`@Compendium[pf2e.pathfinder-bestiary.IXjaAxkgZsz5958E]`|
 |[Liens de fer](pathfinder-bestiary-items/bKPOLbNfdVcrEpjV.htm)|Bonds of Iron|`@Compendium[pf2e.pathfinder-bestiary.bKPOLbNfdVcrEpjV]`|
 |[Lié à l'eau](pathfinder-bestiary-items/krINP0tRSuTbpzys.htm)|Water-Bound|`@Compendium[pf2e.pathfinder-bestiary.krINP0tRSuTbpzys]`|
 |[Lié à l'eau](pathfinder-bestiary-items/xhqKU8Bdnig3dLJs.htm)|Water-Bound|`@Compendium[pf2e.pathfinder-bestiary.xhqKU8Bdnig3dLJs]`|
@@ -3035,6 +2948,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Maillet](pathfinder-bestiary-items/wVxhMkTfMFAVDviB.htm)|Maul|`@Compendium[pf2e.pathfinder-bestiary.wVxhMkTfMFAVDviB]`|
 |[Main](pathfinder-bestiary-items/M05pu8jIHs0qEKzP.htm)|Hand|`@Compendium[pf2e.pathfinder-bestiary.M05pu8jIHs0qEKzP]`|
 |[Main](pathfinder-bestiary-items/860MOhDdvHc8KanP.htm)|Hand|`@Compendium[pf2e.pathfinder-bestiary.860MOhDdvHc8KanP]`|
+|[Main d'ombre](pathfinder-bestiary-items/Vy2pPgrGJ3SguoOn.htm)|Shadow Hand|`@Compendium[pf2e.pathfinder-bestiary.Vy2pPgrGJ3SguoOn]`|
+|[Main d'ombre](pathfinder-bestiary-items/x47iDfIE9albveGl.htm)|Shadow Hand|`@Compendium[pf2e.pathfinder-bestiary.x47iDfIE9albveGl]`|
 |[Main spectrale](pathfinder-bestiary-items/lYeYZZa66BG9v3KY.htm)|Spectral Hand|`@Compendium[pf2e.pathfinder-bestiary.lYeYZZa66BG9v3KY]`|
 |[Main spectrale](pathfinder-bestiary-items/nWtiD4ASp2FFsobD.htm)|Ghostly Hand|`@Compendium[pf2e.pathfinder-bestiary.nWtiD4ASp2FFsobD]`|
 |[Main spectrale](pathfinder-bestiary-items/1TeUoHVS0bkCD9jX.htm)|Ghostly Hand|`@Compendium[pf2e.pathfinder-bestiary.1TeUoHVS0bkCD9jX]`|
@@ -3047,8 +2962,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Maltraitance](pathfinder-bestiary-items/8RIFanFu6JDiIRH1.htm)|Thrash|`@Compendium[pf2e.pathfinder-bestiary.8RIFanFu6JDiIRH1]`|
 |[Malveillance vindicative](pathfinder-bestiary-items/NKs8hoGb4IyfFWCw.htm)|Vengeful Spite|`@Compendium[pf2e.pathfinder-bestiary.NKs8hoGb4IyfFWCw]`|
 |[Malédiction de l'ours-garou](pathfinder-bestiary-items/8fKFzS7zqR9XbC5k.htm)|Curse of the Werebear|`@Compendium[pf2e.pathfinder-bestiary.8fKFzS7zqR9XbC5k]`|
+|[Malédiction du chevalier sépulcre](pathfinder-bestiary-items/snOrUVs5f8v8gtuP.htm)|Graveknight's Curse|`@Compendium[pf2e.pathfinder-bestiary.snOrUVs5f8v8gtuP]`|
 |[Malédiction du feu](pathfinder-bestiary-items/xa72ZqFCCn9Ps5lD.htm)|Curse of Fire|`@Compendium[pf2e.pathfinder-bestiary.xa72ZqFCCn9Ps5lD]`|
 |[Malédiction du givre](pathfinder-bestiary-items/88O2MErrb1dOjHJh.htm)|Curse of Frost|`@Compendium[pf2e.pathfinder-bestiary.88O2MErrb1dOjHJh]`|
+|[Malédiction du loup-garou](pathfinder-bestiary-items/Xmaw18x2qDwDq7tB.htm)|Curse of the Werewolf|`@Compendium[pf2e.pathfinder-bestiary.Xmaw18x2qDwDq7tB]`|
 |[Malédiction du rat-garou](pathfinder-bestiary-items/pK7TW7mAgEFfJu0Q.htm)|Curse of the Wererat|`@Compendium[pf2e.pathfinder-bestiary.pK7TW7mAgEFfJu0Q]`|
 |[Malédiction du sang bouillonnant](pathfinder-bestiary-items/zLUOcpj85OOnwvRh.htm)|Curse of Boiling Blood|`@Compendium[pf2e.pathfinder-bestiary.zLUOcpj85OOnwvRh]`|
 |[Malédiction mortelle](pathfinder-bestiary-items/YoKSGUjwXmt7kxnq.htm)|Curse of Death|`@Compendium[pf2e.pathfinder-bestiary.YoKSGUjwXmt7kxnq]`|
@@ -3088,6 +3005,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Miasme](pathfinder-bestiary-items/6yZ26OupmzzPO1vZ.htm)|Miasma|`@Compendium[pf2e.pathfinder-bestiary.6yZ26OupmzzPO1vZ]`|
 |[Mirage](pathfinder-bestiary-items/5kWr1s58IkPKdMcL.htm)|Mirage|`@Compendium[pf2e.pathfinder-bestiary.5kWr1s58IkPKdMcL]`|
 |[Mode réparation](pathfinder-bestiary-items/wW41T2Rqe1HsYWiK.htm)|Repair Mode|`@Compendium[pf2e.pathfinder-bestiary.wW41T2Rqe1HsYWiK]`|
+|[Modification de forme](pathfinder-bestiary-items/K2pwGyKWkDm1x4Xh.htm)|Assume Form|`@Compendium[pf2e.pathfinder-bestiary.K2pwGyKWkDm1x4Xh]`|
 |[Moissonner](pathfinder-bestiary-items/pG17snAKOgqgqba1.htm)|Reap|`@Compendium[pf2e.pathfinder-bestiary.pG17snAKOgqgqba1]`|
 |[Monticule](pathfinder-bestiary-items/cr8chy1goN1ZSrnT.htm)|Mound|`@Compendium[pf2e.pathfinder-bestiary.cr8chy1goN1ZSrnT]`|
 |[Monture fantôme](pathfinder-bestiary-items/cYzNZC3Tju4useHD.htm)|Phantom Mount|`@Compendium[pf2e.pathfinder-bestiary.cYzNZC3Tju4useHD]`|
@@ -3103,6 +3021,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Morsure éclair](pathfinder-bestiary-items/BbFyjI0o6Aed5DYL.htm)|Strafing Chomp|`@Compendium[pf2e.pathfinder-bestiary.BbFyjI0o6Aed5DYL]`|
 |[Mort définitive](pathfinder-bestiary-items/Zp7ozjV5uBLnBo41.htm)|Final Death|`@Compendium[pf2e.pathfinder-bestiary.Zp7ozjV5uBLnBo41]`|
 |[Mort qui rôde](pathfinder-bestiary-items/ei3nQVCq6MHIPrMy.htm)|Lurking Death|`@Compendium[pf2e.pathfinder-bestiary.ei3nQVCq6MHIPrMy]`|
+|[Mort qui rôde](pathfinder-bestiary-items/L107mBB0Pcsz3T2q.htm)|Lurking Death|`@Compendium[pf2e.pathfinder-bestiary.L107mBB0Pcsz3T2q]`|
 |[Mucosité](pathfinder-bestiary-items/fP1MPx5mw7OZ0cma.htm)|Slime|`@Compendium[pf2e.pathfinder-bestiary.fP1MPx5mw7OZ0cma]`|
 |[Mucosité](pathfinder-bestiary-items/cckOUw1gK3GNCnML.htm)|Slime|`@Compendium[pf2e.pathfinder-bestiary.cckOUw1gK3GNCnML]`|
 |[Mutations](pathfinder-bestiary-items/zGEOz9aVguJujbSi.htm)|Mutations|`@Compendium[pf2e.pathfinder-bestiary.zGEOz9aVguJujbSi]`|
@@ -3261,12 +3180,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nuage de spores](pathfinder-bestiary-items/rCo3WVukDgsbPhLD.htm)|Spore Cloud|`@Compendium[pf2e.pathfinder-bestiary.rCo3WVukDgsbPhLD]`|
 |[Nuage de spores](pathfinder-bestiary-items/LCFMKpxw0iDxWGXu.htm)|Spore Cloud|`@Compendium[pf2e.pathfinder-bestiary.LCFMKpxw0iDxWGXu]`|
 |[Nuée de morsures](pathfinder-bestiary-items/bEsmMOS1PqhLHHbh.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary.bEsmMOS1PqhLHHbh]`|
+|[Nuée de morsures](pathfinder-bestiary-items/LTwSnVSVWZeWrLAC.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary.LTwSnVSVWZeWrLAC]`|
 |[Nuée de morsures](pathfinder-bestiary-items/e6gQA5jXDMbCKyDj.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary.e6gQA5jXDMbCKyDj]`|
 |[Nuée de piqûres](pathfinder-bestiary-items/tZ39PkV2oWLySkOs.htm)|Swarming Stings|`@Compendium[pf2e.pathfinder-bestiary.tZ39PkV2oWLySkOs]`|
 |[Objet télékinésique (Perforant)](pathfinder-bestiary-items/Zi3UHzrDTQBgI0SW.htm)|Telekinetic Object (Piercing)|`@Compendium[pf2e.pathfinder-bestiary.Zi3UHzrDTQBgI0SW]`|
 |[Objet télékinésique (contondant)](pathfinder-bestiary-items/1cbIF1wUJSF3WWPk.htm)|Telekinetic Object (Bludgeoning)|`@Compendium[pf2e.pathfinder-bestiary.1cbIF1wUJSF3WWPk]`|
 |[Objet télékinésique (tranchant)](pathfinder-bestiary-items/AuhMdlvvBkXqKNG8.htm)|Telekinetic Object (Slashing)|`@Compendium[pf2e.pathfinder-bestiary.AuhMdlvvBkXqKNG8]`|
 |[Objets imprégnés](pathfinder-bestiary-items/fP5Iv5QbWHvLChA4.htm)|Infused Items|`@Compendium[pf2e.pathfinder-bestiary.fP5Iv5QbWHvLChA4]`|
+|[Objets imprégnés](pathfinder-bestiary-items/YS1lNceoORGTpa2L.htm)|Infused Items|`@Compendium[pf2e.pathfinder-bestiary.YS1lNceoORGTpa2L]`|
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/nQr3N8AIARUFBqx8.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.nQr3N8AIARUFBqx8]`|
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/qR2C9ASEA77YOzgK.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.qR2C9ASEA77YOzgK]`|
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/HaWsVELJ0bpMTvaP.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.HaWsVELJ0bpMTvaP]`|
@@ -3306,6 +3227,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/b1CPKzVXEGyolvUo.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.b1CPKzVXEGyolvUo]`|
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/Ytry4aEXlZIFroqA.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.Ytry4aEXlZIFroqA]`|
 |[Odorat (imprécis) 18 m](pathfinder-bestiary-items/cMyzo0AivvJxq0Ly.htm)|Scent (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.cMyzo0AivvJxq0Ly]`|
+|[Odorat (imprécis) 24 m](pathfinder-bestiary-items/YTDggskczm13sYCy.htm)|Scent (Imprecise) 80 feet|`@Compendium[pf2e.pathfinder-bestiary.YTDggskczm13sYCy]`|
 |[Odorat (imprécis) 24 m](pathfinder-bestiary-items/Fpalcgxc6alPgOA4.htm)|Scent (Imprecise) 80 feet|`@Compendium[pf2e.pathfinder-bestiary.Fpalcgxc6alPgOA4]`|
 |[Odorat (imprécis) 30 m](pathfinder-bestiary-items/pO7Lt2BaAG6zgDvw.htm)|Scent (Imprecise) 100 feet|`@Compendium[pf2e.pathfinder-bestiary.pO7Lt2BaAG6zgDvw]`|
 |[Odorat (imprécis) 30 m](pathfinder-bestiary-items/s4VdQZkBvye1Qm6o.htm)|Scent (Imprecise) 100 feet|`@Compendium[pf2e.pathfinder-bestiary.s4VdQZkBvye1Qm6o]`|
@@ -3379,17 +3301,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Odorat 9 m](pathfinder-bestiary-items/vEwagos32fLnf4Zc.htm)|Scent 30 feet|`@Compendium[pf2e.pathfinder-bestiary.vEwagos32fLnf4Zc]`|
 |[Ondulation spectrale](pathfinder-bestiary-items/q8ASqdiBd9SflYVU.htm)|Spectral Ripple|`@Compendium[pf2e.pathfinder-bestiary.q8ASqdiBd9SflYVU]`|
 |[Opportunité aquatique](pathfinder-bestiary-items/zbg9eaOONakDkuma.htm)|Aquatic Opportunity|`@Compendium[pf2e.pathfinder-bestiary.zbg9eaOONakDkuma]`|
+|[Opportunité enroulée](pathfinder-bestiary-items/MEjtnkYdPhtWGyzF.htm)|Coiled Opportunity|`@Compendium[pf2e.pathfinder-bestiary.MEjtnkYdPhtWGyzF]`|
 |[Opportunités multiples](pathfinder-bestiary-items/pSKjTPdO8e9KO9LI.htm)|Multiple Opportunities|`@Compendium[pf2e.pathfinder-bestiary.pSKjTPdO8e9KO9LI]`|
+|[Ordre d'encerclement](pathfinder-bestiary-items/Wa8dbVwSNL2tEHKt.htm)|Encircling Command|`@Compendium[pf2e.pathfinder-bestiary.Wa8dbVwSNL2tEHKt]`|
 |[Pacte infernal](pathfinder-bestiary-items/TaJezoHLHAlyZmLU.htm)|Binding Contract|`@Compendium[pf2e.pathfinder-bestiary.TaJezoHLHAlyZmLU]`|
 |[Paralysie](pathfinder-bestiary-items/9TCF9GcaMoTKkPSj.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary.9TCF9GcaMoTKkPSj]`|
 |[Paralysie](pathfinder-bestiary-items/GBiarRqqq8qwyZtJ.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary.GBiarRqqq8qwyZtJ]`|
+|[Paralysie](pathfinder-bestiary-items/OUrfzECO9Dy3ncIO.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary.OUrfzECO9Dy3ncIO]`|
 |[Paralysie imposée](pathfinder-bestiary-items/RlajqjwuSiKB8NGC.htm)|Impose Paralysis|`@Compendium[pf2e.pathfinder-bestiary.RlajqjwuSiKB8NGC]`|
 |[Pas éthéré](pathfinder-bestiary-items/JaEjyp5taeG7YCCo.htm)|Ethereal Step|`@Compendium[pf2e.pathfinder-bestiary.JaEjyp5taeG7YCCo]`|
+|[Passion stimulante](pathfinder-bestiary-items/RQyE6xYaEg8W7C38.htm)|Invigorating Passion|`@Compendium[pf2e.pathfinder-bestiary.RQyE6xYaEg8W7C38]`|
 |[Patte](pathfinder-bestiary-items/Bj9AvzdEeKXM1Lpy.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary.Bj9AvzdEeKXM1Lpy]`|
 |[Patte](pathfinder-bestiary-items/ZrnTtQzYoMMf79j0.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.ZrnTtQzYoMMf79j0]`|
 |[Patte](pathfinder-bestiary-items/XhN7A3RmBONMzZUF.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.XhN7A3RmBONMzZUF]`|
 |[Patte](pathfinder-bestiary-items/BlUA1CHpOuotxrV7.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.BlUA1CHpOuotxrV7]`|
 |[Patte](pathfinder-bestiary-items/Mo3NNcPkDUwnRiIF.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary.Mo3NNcPkDUwnRiIF]`|
+|[Patte](pathfinder-bestiary-items/onqCyoeB5jfvwrI0.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.onqCyoeB5jfvwrI0]`|
 |[Patte](pathfinder-bestiary-items/FtCodDvKYE5srIOI.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.FtCodDvKYE5srIOI]`|
 |[Patte](pathfinder-bestiary-items/VbE9aK6V1gA4Fbv9.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.VbE9aK6V1gA4Fbv9]`|
 |[Patte griffue](pathfinder-bestiary-items/DsvyLX53TeuZHMQ3.htm)|Clawed Feet|`@Compendium[pf2e.pathfinder-bestiary.DsvyLX53TeuZHMQ3]`|
@@ -3400,6 +3327,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perception de la vie 18 m](pathfinder-bestiary-items/GM1uYxLGklcQScOG.htm)|Lifesense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.GM1uYxLGklcQScOG]`|
 |[Perception de la vie 18 m](pathfinder-bestiary-items/XXiHxjwFvBeHoJUK.htm)|Lifesense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.XXiHxjwFvBeHoJUK]`|
 |[Perception de la vie 18 m](pathfinder-bestiary-items/NXmjfJq99Q2rTjVD.htm)|Lifesense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.NXmjfJq99Q2rTjVD]`|
+|[Perception de la vie 36 m](pathfinder-bestiary-items/VCXj9VT8SpqcHdZS.htm)|Lifesense 120 feet|`@Compendium[pf2e.pathfinder-bestiary.VCXj9VT8SpqcHdZS]`|
 |[Perception de l’entropie (imprécis) 18 m](pathfinder-bestiary-items/X5DctZ32pPLyBZnM.htm)|Entropy Sense (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.X5DctZ32pPLyBZnM]`|
 |[Perception des battements de cœur (imprécis) 18 m](pathfinder-bestiary-items/74wDKknM5LCOcK73.htm)|Hears Heartbeats (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.74wDKknM5LCOcK73]`|
 |[Perception des cristaux (imprécis) 18 m](pathfinder-bestiary-items/hDYxH5VuENin7Q0I.htm)|Crystal Sense (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary.hDYxH5VuENin7Q0I]`|
@@ -3440,6 +3368,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perception des vibrations (imprécis) 9 m](pathfinder-bestiary-items/XPQEvEN2tEEPYRWA.htm)|Tremorsense (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary.XPQEvEN2tEEPYRWA]`|
 |[Perception des vibrations (imprécis) 9 m (créatures touchant sa toile)](pathfinder-bestiary-items/47dklzJrGaCDSZ2N.htm)|Tremorsense (Imprecise) 30 feet (Creatures Touching its Web)|`@Compendium[pf2e.pathfinder-bestiary.47dklzJrGaCDSZ2N]`|
 |[Perception du mouvement 18 m](pathfinder-bestiary-items/MwXQ4IgNkQaCxTcf.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.MwXQ4IgNkQaCxTcf]`|
+|[Perception du mouvement 18 m](pathfinder-bestiary-items/VwrlDdZczBGO5Ps4.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.VwrlDdZczBGO5Ps4]`|
 |[Perception du mouvement 18 m](pathfinder-bestiary-items/DI6Nw0XKEZZJLY8D.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.DI6Nw0XKEZZJLY8D]`|
 |[Perception du mouvement 18 m](pathfinder-bestiary-items/InkIGrftuKGUgSoo.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary.InkIGrftuKGUgSoo]`|
 |[Perception du métal](pathfinder-bestiary-items/fLzaGzA3jMdzslmt.htm)|Metal Scent 30 feet|`@Compendium[pf2e.pathfinder-bestiary.fLzaGzA3jMdzslmt]`|
@@ -3451,6 +3380,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perception sur les toiles](pathfinder-bestiary-items/DbfLZXVZVTQMJoyI.htm)|Web Sense|`@Compendium[pf2e.pathfinder-bestiary.DbfLZXVZVTQMJoyI]`|
 |[Perception sur les toiles](pathfinder-bestiary-items/bmmCoxENGAgHtWP1.htm)|Web Sense|`@Compendium[pf2e.pathfinder-bestiary.bmmCoxENGAgHtWP1]`|
 |[Perception sur les toiles](pathfinder-bestiary-items/oXZ3YdyxyoVGRGJs.htm)|Web Sense|`@Compendium[pf2e.pathfinder-bestiary.oXZ3YdyxyoVGRGJs]`|
+|[Perforation d'armure](pathfinder-bestiary-items/ONo2JspAa1GnoAlR.htm)|Pierce Armor|`@Compendium[pf2e.pathfinder-bestiary.ONo2JspAa1GnoAlR]`|
 |[Perte de cerveau](pathfinder-bestiary-items/SE3QsBzRX2bmkrnR.htm)|Brain Loss|`@Compendium[pf2e.pathfinder-bestiary.SE3QsBzRX2bmkrnR]`|
 |[Peste abyssale](pathfinder-bestiary-items/aWM3N85sMlll5djQ.htm)|Abyssal Plague|`@Compendium[pf2e.pathfinder-bestiary.aWM3N85sMlll5djQ]`|
 |[Pestilence accélérée](pathfinder-bestiary-items/3ViZWXlxM2CUiPGG.htm)|Quicken Pestilence|`@Compendium[pf2e.pathfinder-bestiary.3ViZWXlxM2CUiPGG]`|
@@ -3461,7 +3391,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pied](pathfinder-bestiary-items/CvfLXQsndA3wb5S1.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.CvfLXQsndA3wb5S1]`|
 |[Pied](pathfinder-bestiary-items/FHuTUU6djcJ06GPe.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.FHuTUU6djcJ06GPe]`|
 |[Pied](pathfinder-bestiary-items/orlHVFqe7EEW7ruO.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.orlHVFqe7EEW7ruO]`|
-|[Pied](pathfinder-bestiary-items/onqCyoeB5jfvwrI0.htm)|Foot|`@Compendium[pf2e.pathfinder-bestiary.onqCyoeB5jfvwrI0]`|
 |[Pince](pathfinder-bestiary-items/YYsOPt3KeLlEyyOR.htm)|Pincer|`@Compendium[pf2e.pathfinder-bestiary.YYsOPt3KeLlEyyOR]`|
 |[Pince](pathfinder-bestiary-items/apIdQFYWsMBgRVKk.htm)|Pincer|`@Compendium[pf2e.pathfinder-bestiary.apIdQFYWsMBgRVKk]`|
 |[Pince](pathfinder-bestiary-items/oGR3hLNhUlAR66Kw.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary.oGR3hLNhUlAR66Kw]`|
@@ -3473,13 +3402,18 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pique](pathfinder-bestiary-items/pVCudVc1B7mQVjP2.htm)|Longspear|`@Compendium[pf2e.pathfinder-bestiary.pVCudVc1B7mQVjP2]`|
 |[Pique](pathfinder-bestiary-items/yrctbhF7nTGEPJSK.htm)|Longspear|`@Compendium[pf2e.pathfinder-bestiary.yrctbhF7nTGEPJSK]`|
 |[Pique](pathfinder-bestiary-items/UKNPyXkarfzkXTHO.htm)|Longspear|`@Compendium[pf2e.pathfinder-bestiary.UKNPyXkarfzkXTHO]`|
+|[Pique de froid](pathfinder-bestiary-items/yIloVqSs48TDwk9P.htm)|Frost Longspear|`@Compendium[pf2e.pathfinder-bestiary.yIloVqSs48TDwk9P]`|
+|[Pique de froid](pathfinder-bestiary-items/209XT5BBx9vzGaVU.htm)|Frost Longspear|`@Compendium[pf2e.pathfinder-bestiary.209XT5BBx9vzGaVU]`|
 |[Piqué](pathfinder-bestiary-items/3b7IgOx3d3REF2NR.htm)|Swoop|`@Compendium[pf2e.pathfinder-bestiary.3b7IgOx3d3REF2NR]`|
 |[Piqué](pathfinder-bestiary-items/I7qCrIGJsKvrguZB.htm)|Swoop|`@Compendium[pf2e.pathfinder-bestiary.I7qCrIGJsKvrguZB]`|
+|[Piqué de l'aigle](pathfinder-bestiary-items/KWrM4BkUQ8ldHG0I.htm)|Eagle Dive|`@Compendium[pf2e.pathfinder-bestiary.KWrM4BkUQ8ldHG0I]`|
+|[Piqué en puissance](pathfinder-bestiary-items/kq0boAEZsA01NsEH.htm)|Powerful Dive|`@Compendium[pf2e.pathfinder-bestiary.kq0boAEZsA01NsEH]`|
 |[Piqué rapide](pathfinder-bestiary-items/I2ll4xGsFEeBgdRL.htm)|Fast Swoop|`@Compendium[pf2e.pathfinder-bestiary.I2ll4xGsFEeBgdRL]`|
 |[Pistage accéléré](pathfinder-bestiary-items/VHQNRgFkCUkpPh9g.htm)|Swift Tracker|`@Compendium[pf2e.pathfinder-bestiary.VHQNRgFkCUkpPh9g]`|
 |[Piège de toile](pathfinder-bestiary-items/Qy7s2ZDFTvr7xR1m.htm)|Web Trap|`@Compendium[pf2e.pathfinder-bestiary.Qy7s2ZDFTvr7xR1m]`|
 |[Piège de toile](pathfinder-bestiary-items/mhBBm02GHgEZ30NR.htm)|Web Trap|`@Compendium[pf2e.pathfinder-bestiary.mhBBm02GHgEZ30NR]`|
 |[Piège de toile éthérée](pathfinder-bestiary-items/BMgUFhUSXPid36Be.htm)|Ethereal Web Trap|`@Compendium[pf2e.pathfinder-bestiary.BMgUFhUSXPid36Be]`|
+|[Piège à toile](pathfinder-bestiary-items/Re5HgCWQJTyzGewL.htm)|Web Trap|`@Compendium[pf2e.pathfinder-bestiary.Re5HgCWQJTyzGewL]`|
 |[Piétinement](pathfinder-bestiary-items/S2UbYSN0YRKJbMS0.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.S2UbYSN0YRKJbMS0]`|
 |[Piétinement](pathfinder-bestiary-items/XCbPDCIugQCZ6Euc.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.XCbPDCIugQCZ6Euc]`|
 |[Piétinement](pathfinder-bestiary-items/sgLK6WwDNZXG3X0e.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.sgLK6WwDNZXG3X0e]`|
@@ -3488,8 +3422,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Piétinement](pathfinder-bestiary-items/pSI2QoLhvn9RpREJ.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.pSI2QoLhvn9RpREJ]`|
 |[Piétinement](pathfinder-bestiary-items/qZG63nOxzyyLxiMs.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.qZG63nOxzyyLxiMs]`|
 |[Piétinement](pathfinder-bestiary-items/9wiqhTppGBReF5MG.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.9wiqhTppGBReF5MG]`|
+|[Piétinement](pathfinder-bestiary-items/ihI9TF3YdNJFYytf.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.ihI9TF3YdNJFYytf]`|
 |[Piétinement](pathfinder-bestiary-items/Cp2wPvwVrx6QHzjb.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.Cp2wPvwVrx6QHzjb]`|
 |[Piétinement](pathfinder-bestiary-items/OKzqL9XBxnlVikDo.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.OKzqL9XBxnlVikDo]`|
+|[Piétinement](pathfinder-bestiary-items/NhKBmdf3sh4wyA1u.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.NhKBmdf3sh4wyA1u]`|
 |[Piétinement](pathfinder-bestiary-items/62o3Ky65LWW5uKNE.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary.62o3Ky65LWW5uKNE]`|
 |[Plainte](pathfinder-bestiary-items/IFPnmQpUJLW9TJa9.htm)|Wail|`@Compendium[pf2e.pathfinder-bestiary.IFPnmQpUJLW9TJa9]`|
 |[Plainte pitoyable](pathfinder-bestiary-items/3XJEBmHGHfUj7TbN.htm)|Piteous Moan|`@Compendium[pf2e.pathfinder-bestiary.3XJEBmHGHfUj7TbN]`|
@@ -3576,6 +3512,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Protection des contrats](pathfinder-bestiary-items/SdvOPdD36kKFhSXc.htm)|Ward Contract|`@Compendium[pf2e.pathfinder-bestiary.SdvOPdD36kKFhSXc]`|
 |[Précipitation gobeline](pathfinder-bestiary-items/czwGWW73rkPW7vBg.htm)|Goblin Scuttle|`@Compendium[pf2e.pathfinder-bestiary.czwGWW73rkPW7vBg]`|
 |[Précision avantageuse](pathfinder-bestiary-items/ZQY7WcFFZtddDBnh.htm)|Precision Edge|`@Compendium[pf2e.pathfinder-bestiary.ZQY7WcFFZtddDBnh]`|
+|[Précision à l'arbalète](pathfinder-bestiary-items/kMmbg9uYz80oPVxp.htm)|Crossbow Precision|`@Compendium[pf2e.pathfinder-bestiary.kMmbg9uYz80oPVxp]`|
 |[Présence aguichante](pathfinder-bestiary-items/b3OSC1hy3efFqhm7.htm)|Seductive Presence|`@Compendium[pf2e.pathfinder-bestiary.b3OSC1hy3efFqhm7]`|
 |[Présence terrifiante](pathfinder-bestiary-items/n8B8DCAuDAVcZqQx.htm)|Frightful Presence|`@Compendium[pf2e.pathfinder-bestiary.n8B8DCAuDAVcZqQx]`|
 |[Présence terrifiante](pathfinder-bestiary-items/a1diHlUPKBt1e8ZM.htm)|Frightful Presence|`@Compendium[pf2e.pathfinder-bestiary.a1diHlUPKBt1e8ZM]`|
@@ -3624,6 +3561,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Puanteur](pathfinder-bestiary-items/Dn7B8j6FSbVD4U9x.htm)|Stench|`@Compendium[pf2e.pathfinder-bestiary.Dn7B8j6FSbVD4U9x]`|
 |[Puanteur](pathfinder-bestiary-items/r1SlNgELge3BicQv.htm)|Stench|`@Compendium[pf2e.pathfinder-bestiary.r1SlNgELge3BicQv]`|
 |[Puanteur putride](pathfinder-bestiary-items/h3RAiOfN4DCwKqV0.htm)|Putrid Stench|`@Compendium[pf2e.pathfinder-bestiary.h3RAiOfN4DCwKqV0]`|
+|[Pullulement](pathfinder-bestiary-items/pwxCJBVZsNZOzHqr.htm)|Swarming|`@Compendium[pf2e.pathfinder-bestiary.pwxCJBVZsNZOzHqr]`|
 |[Pulsation de lenteur](pathfinder-bestiary-items/11mRPoFSEt1nYAnE.htm)|Slowing Pulse|`@Compendium[pf2e.pathfinder-bestiary.11mRPoFSEt1nYAnE]`|
 |[Putréfaction de la momie](pathfinder-bestiary-items/kGKrPttfeXrnHGWr.htm)|Mummy Rot|`@Compendium[pf2e.pathfinder-bestiary.kGKrPttfeXrnHGWr]`|
 |[Putréfaction insidieuse de la momie](pathfinder-bestiary-items/I7lbbBC8haIiOXzD.htm)|Insidious Mummy Rot|`@Compendium[pf2e.pathfinder-bestiary.I7lbbBC8haIiOXzD]`|
@@ -3704,6 +3642,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Queue sinueuse](pathfinder-bestiary-items/yWxsd7SGgC3z0IoN.htm)|Twisting Tail|`@Compendium[pf2e.pathfinder-bestiary.yWxsd7SGgC3z0IoN]`|
 |[Racine](pathfinder-bestiary-items/pqbk6QDDIpUVuKRX.htm)|Root|`@Compendium[pf2e.pathfinder-bestiary.pqbk6QDDIpUVuKRX]`|
 |[Racine](pathfinder-bestiary-items/WeXirhh6gD0DCTGB.htm)|Root|`@Compendium[pf2e.pathfinder-bestiary.WeXirhh6gD0DCTGB]`|
+|[Rangement rapide](pathfinder-bestiary-items/ktAqGeswWwl10ORn.htm)|Quick Stow|`@Compendium[pf2e.pathfinder-bestiary.ktAqGeswWwl10ORn]`|
 |[Rapière](pathfinder-bestiary-items/bgkXxmVMntPQOmND.htm)|Rapier|`@Compendium[pf2e.pathfinder-bestiary.bgkXxmVMntPQOmND]`|
 |[Rapière](pathfinder-bestiary-items/6ii2IeWpDJ46u3xM.htm)|Rapier|`@Compendium[pf2e.pathfinder-bestiary.6ii2IeWpDJ46u3xM]`|
 |[Rapière](pathfinder-bestiary-items/lqWh4YqCJffKqcoX.htm)|Rapier|`@Compendium[pf2e.pathfinder-bestiary.lqWh4YqCJffKqcoX]`|
@@ -3714,6 +3653,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rayon de feu](pathfinder-bestiary-items/pWMLYiykJTfDP0Lf.htm)|Fire Ray|`@Compendium[pf2e.pathfinder-bestiary.pWMLYiykJTfDP0Lf]`|
 |[Rayon de lumière](pathfinder-bestiary-items/uK5eIAdOWiayEgWr.htm)|Light Ray|`@Compendium[pf2e.pathfinder-bestiary.uK5eIAdOWiayEgWr]`|
 |[Rayon de lumière](pathfinder-bestiary-items/T56PSO8KBNKDvOCc.htm)|Light Ray|`@Compendium[pf2e.pathfinder-bestiary.T56PSO8KBNKDvOCc]`|
+|[Rayon de lumière stellaire](pathfinder-bestiary-items/8Eq3jy4LyDtP6mLP.htm)|Starlight Ray|`@Compendium[pf2e.pathfinder-bestiary.8Eq3jy4LyDtP6mLP]`|
 |[Rayon éclatant](pathfinder-bestiary-items/Xem818Dy2SdT8fjI.htm)|Glaring Ray|`@Compendium[pf2e.pathfinder-bestiary.Xem818Dy2SdT8fjI]`|
 |[Rayons d'annihilation](pathfinder-bestiary-items/D0q0aNWo1X51cNe4.htm)|Annihilation Beams|`@Compendium[pf2e.pathfinder-bestiary.D0q0aNWo1X51cNe4]`|
 |[Rayons oculaires](pathfinder-bestiary-items/BuEcwGM7NH9is0w9.htm)|Eye Beams|`@Compendium[pf2e.pathfinder-bestiary.BuEcwGM7NH9is0w9]`|
@@ -3723,13 +3663,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Reconstruction](pathfinder-bestiary-items/CjdoOLjRkqyfp25v.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.CjdoOLjRkqyfp25v]`|
 |[Reconstruction](pathfinder-bestiary-items/pvdHMw62l3uanob8.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.pvdHMw62l3uanob8]`|
 |[Reconstruction](pathfinder-bestiary-items/h4fFfvaiDiqgTpTz.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.h4fFfvaiDiqgTpTz]`|
+|[Reconstruction](pathfinder-bestiary-items/huAbJHogJo4HKgXV.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.huAbJHogJo4HKgXV]`|
 |[Regard cytillesh](pathfinder-bestiary-items/36QKwrAooz1cygR4.htm)|Cytillesh Stare|`@Compendium[pf2e.pathfinder-bestiary.36QKwrAooz1cygR4]`|
 |[Regard du ghaéle](pathfinder-bestiary-items/HOMxdkDlcB6S1y9k.htm)|Ghaele's Gaze|`@Compendium[pf2e.pathfinder-bestiary.HOMxdkDlcB6S1y9k]`|
 |[Regard focalisé](pathfinder-bestiary-items/aqwHyoUR6cj9y6s8.htm)|Focused Gaze|`@Compendium[pf2e.pathfinder-bestiary.aqwHyoUR6cj9y6s8]`|
 |[Regard paralysant](pathfinder-bestiary-items/EbuMoQ5idyQJDEXD.htm)|Paralyzing Gaze|`@Compendium[pf2e.pathfinder-bestiary.EbuMoQ5idyQJDEXD]`|
 |[Regard pétrifiant](pathfinder-bestiary-items/hSGaU1UT8mzmPFWl.htm)|Petrifying Gaze|`@Compendium[pf2e.pathfinder-bestiary.hSGaU1UT8mzmPFWl]`|
+|[Regard pétrifiant](pathfinder-bestiary-items/tOCS9mkYR5K1LuOZ.htm)|Petrifying Gaze|`@Compendium[pf2e.pathfinder-bestiary.tOCS9mkYR5K1LuOZ]`|
+|[Rejeton d'ombre](pathfinder-bestiary-items/zadQdUq4eeiDSHSq.htm)|Shadow Spawn|`@Compendium[pf2e.pathfinder-bestiary.zadQdUq4eeiDSHSq]`|
 |[Rejeton d'ombre](pathfinder-bestiary-items/0Qt9ULbGzJV8ZG3W.htm)|Shadow Spawn|`@Compendium[pf2e.pathfinder-bestiary.0Qt9ULbGzJV8ZG3W]`|
 |[Rejeton d'âme-en-peine](pathfinder-bestiary-items/cqn01fpxgrAl4NvI.htm)|Wraith Spawn|`@Compendium[pf2e.pathfinder-bestiary.cqn01fpxgrAl4NvI]`|
+|[Rejeton de nécrophage](pathfinder-bestiary-items/Umi21NTMrg5JA3IQ.htm)|Wight Spawn|`@Compendium[pf2e.pathfinder-bestiary.Umi21NTMrg5JA3IQ]`|
 |[Remodeler la réalité](pathfinder-bestiary-items/KCUHGmNla57hO2ZK.htm)|Reshape Reality|`@Compendium[pf2e.pathfinder-bestiary.KCUHGmNla57hO2ZK]`|
 |[Renversement](pathfinder-bestiary-items/bcl3zcX6TOOupNt9.htm)|Knockdown|`@Compendium[pf2e.pathfinder-bestiary.bcl3zcX6TOOupNt9]`|
 |[Renversement](pathfinder-bestiary-items/m2lc6stQx0fMmqPO.htm)|Knockdown|`@Compendium[pf2e.pathfinder-bestiary.m2lc6stQx0fMmqPO]`|
@@ -3749,11 +3693,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Repositionnement du fouet](pathfinder-bestiary-items/zyK8S6224cjBrzpM.htm)|Whip Reposition|`@Compendium[pf2e.pathfinder-bestiary.zyK8S6224cjBrzpM]`|
 |[Repositionnement hâtif](pathfinder-bestiary-items/Qj4erun9wbqBExS0.htm)|Skittering Reposition|`@Compendium[pf2e.pathfinder-bestiary.Qj4erun9wbqBExS0]`|
 |[Repousse de la tête](pathfinder-bestiary-items/m2aEAnMnepSKN57G.htm)|Head Regrowth|`@Compendium[pf2e.pathfinder-bestiary.m2aEAnMnepSKN57G]`|
+|[Reprendre sa forme](pathfinder-bestiary-items/yxQPTCjmsUlWSm7n.htm)|Revert Form|`@Compendium[pf2e.pathfinder-bestiary.yxQPTCjmsUlWSm7n]`|
 |[Reprends toi !](pathfinder-bestiary-items/y0G6Hcirsc4uakIL.htm)|Shake It Off|`@Compendium[pf2e.pathfinder-bestiary.y0G6Hcirsc4uakIL]`|
 |[Reprends toi !](pathfinder-bestiary-items/K09n3CnAeuaSeD9k.htm)|Shake It Off|`@Compendium[pf2e.pathfinder-bestiary.K09n3CnAeuaSeD9k]`|
 |[Reprends toi !](pathfinder-bestiary-items/Y5momV4CWpuw5vhk.htm)|Shake It Off|`@Compendium[pf2e.pathfinder-bestiary.Y5momV4CWpuw5vhk]`|
+|[Représentation](pathfinder-bestiary-items/XfysylreSHBRTKzu.htm)|Performance|`@Compendium[pf2e.pathfinder-bestiary.XfysylreSHBRTKzu]`|
 |[Reptation](pathfinder-bestiary-items/VhwoW1Wd9SqC4MVO.htm)|Slither|`@Compendium[pf2e.pathfinder-bestiary.VhwoW1Wd9SqC4MVO]`|
 |[Resserrer les anneaux](pathfinder-bestiary-items/NeJvQpMPGMIfzdCG.htm)|Tighten Coils|`@Compendium[pf2e.pathfinder-bestiary.NeJvQpMPGMIfzdCG]`|
+|[Retraite illusoire](pathfinder-bestiary-items/lFKVQJSD5lmRIdIT.htm)|Illusory Retreat|`@Compendium[pf2e.pathfinder-bestiary.lFKVQJSD5lmRIdIT]`|
 |[Retraite précipitée](pathfinder-bestiary-items/dF7ibA1On3Nvjxqk.htm)|Hurried Retreat|`@Compendium[pf2e.pathfinder-bestiary.dF7ibA1On3Nvjxqk]`|
 |[Retraite précipitée](pathfinder-bestiary-items/0qvSsLdTulsncbsi.htm)|Hurried Retreat|`@Compendium[pf2e.pathfinder-bestiary.0qvSsLdTulsncbsi]`|
 |[Rocher](pathfinder-bestiary-items/6SHvRrPDTa74t0cD.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary.6SHvRrPDTa74t0cD]`|
@@ -3777,9 +3724,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rugissement primordial](pathfinder-bestiary-items/3wMfK5zZSqFhhTgs.htm)|Primordial Roar|`@Compendium[pf2e.pathfinder-bestiary.3wMfK5zZSqFhhTgs]`|
 |[Runes étincelantes](pathfinder-bestiary-items/7CjSawx6weIPrIFL.htm)|Flashing Runes|`@Compendium[pf2e.pathfinder-bestiary.7CjSawx6weIPrIFL]`|
 |[Rupture alchimique](pathfinder-bestiary-items/N0g5xdIF3LC3JDxP.htm)|Alchemical Rupture|`@Compendium[pf2e.pathfinder-bestiary.N0g5xdIF3LC3JDxP]`|
+|[Ruse naturelle](pathfinder-bestiary-items/UnFKmdjf3kYOmNvW.htm)|Natural Cunning|`@Compendium[pf2e.pathfinder-bestiary.UnFKmdjf3kYOmNvW]`|
 |[Ruée](pathfinder-bestiary-items/X9lnoAMRNp4d62Iu.htm)|Rush|`@Compendium[pf2e.pathfinder-bestiary.X9lnoAMRNp4d62Iu]`|
 |[Ruée du glouton](pathfinder-bestiary-items/DvjFG8xZGQmhN7AK.htm)|Glutton's Rush|`@Compendium[pf2e.pathfinder-bestiary.DvjFG8xZGQmhN7AK]`|
 |[Rédaction de contrats](pathfinder-bestiary-items/RiTHbEGvltSHb56S.htm)|Draft Contract|`@Compendium[pf2e.pathfinder-bestiary.RiTHbEGvltSHb56S]`|
+|[Réflexes électriques](pathfinder-bestiary-items/Hss992fc1sCOcDVo.htm)|Electric Reflexes|`@Compendium[pf2e.pathfinder-bestiary.Hss992fc1sCOcDVo]`|
 |[Régurgitation](pathfinder-bestiary-items/9AEzHj5y2T93e7EF.htm)|Regurgitate|`@Compendium[pf2e.pathfinder-bestiary.9AEzHj5y2T93e7EF]`|
 |[Régurgitation](pathfinder-bestiary-items/crXV18abZr2DcEh8.htm)|Regurgitate|`@Compendium[pf2e.pathfinder-bestiary.crXV18abZr2DcEh8]`|
 |[Régurgitation digestive](pathfinder-bestiary-items/kvPHtl3puURCTaGk.htm)|Digestive Spew|`@Compendium[pf2e.pathfinder-bestiary.kvPHtl3puURCTaGk]`|
@@ -3788,6 +3737,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Régénération 15 (Désactivé par le fer froid)](pathfinder-bestiary-items/MrSMiZ1i5groiYX1.htm)|Regeneration 15 (Deactivated by Cold Iron)|`@Compendium[pf2e.pathfinder-bestiary.MrSMiZ1i5groiYX1]`|
 |[Régénération 15 (Désactivé par le feu)](pathfinder-bestiary-items/XwFOwvH7yRyD2Pn6.htm)|Regeneration 15 (Deactivated by Fire)|`@Compendium[pf2e.pathfinder-bestiary.XwFOwvH7yRyD2Pn6]`|
 |[Régénération 15 (Désactivée par chaotique)](pathfinder-bestiary-items/2rqAbhpsIBtY1lZp.htm)|Regeneration 15 (Deactivated by Chaotic)|`@Compendium[pf2e.pathfinder-bestiary.2rqAbhpsIBtY1lZp]`|
+|[Régénération 20 (Désactive par chaotique)](pathfinder-bestiary-items/Mn9ThITOCOXSNkEv.htm)|Regeneration 20 (Deactivated by Chaotic)|`@Compendium[pf2e.pathfinder-bestiary.Mn9ThITOCOXSNkEv]`|
 |[Régénération 20 (Désactivé par le fer froid)](pathfinder-bestiary-items/nHYtHMopSyGQg3WT.htm)|Regeneration 20 (Deactivated by Cold Iron)|`@Compendium[pf2e.pathfinder-bestiary.nHYtHMopSyGQg3WT]`|
 |[Régénération 20 (Désactivée par l'acide ou le feu)](pathfinder-bestiary-items/50Meu5uWTOPYtMu6.htm)|Regeneration 20 (Deactivated by Acid or Fire)|`@Compendium[pf2e.pathfinder-bestiary.50Meu5uWTOPYtMu6]`|
 |[Régénération 20 (Désactivéee par Froid ou Mal)](pathfinder-bestiary-items/64oqzNrwPutYdBRh.htm)|Regeneration 20 (Deactivated by Cold or Evil)|`@Compendium[pf2e.pathfinder-bestiary.64oqzNrwPutYdBRh]`|
@@ -3812,10 +3762,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sabot](pathfinder-bestiary-items/pu2uW299sl7fVAeT.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary.pu2uW299sl7fVAeT]`|
 |[Sabot](pathfinder-bestiary-items/HNM58d8JH28lGstw.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary.HNM58d8JH28lGstw]`|
 |[Sabot](pathfinder-bestiary-items/9DJr6sgB54eTLxDn.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary.9DJr6sgB54eTLxDn]`|
+|[Saccade](pathfinder-bestiary-items/OWImE1DpRm2byzUX.htm)|Juke|`@Compendium[pf2e.pathfinder-bestiary.OWImE1DpRm2byzUX]`|
 |[Saignée](pathfinder-bestiary-items/96XPNyAYt1NHy3H5.htm)|Blood Leech|`@Compendium[pf2e.pathfinder-bestiary.96XPNyAYt1NHy3H5]`|
 |[Saisir](pathfinder-bestiary-items/L1NeMv3ZDcttKLw2.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary.L1NeMv3ZDcttKLw2]`|
+|[Saisir](pathfinder-bestiary-items/jJ0nUZ8hgrpWlXtS.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary.jJ0nUZ8hgrpWlXtS]`|
+|[Saisir](pathfinder-bestiary-items/JEBTVmt5rc6G8tOb.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary.JEBTVmt5rc6G8tOb]`|
 |[Salive de shuln](pathfinder-bestiary-items/2V1LMw2K5gNCyFjF.htm)|Shuln Saliva|`@Compendium[pf2e.pathfinder-bestiary.2V1LMw2K5gNCyFjF]`|
 |[Salve de toiles](pathfinder-bestiary-items/DG6zH2k37QwOHJ9R.htm)|Web Burst|`@Compendium[pf2e.pathfinder-bestiary.DG6zH2k37QwOHJ9R]`|
+|[Sang de la nuit](pathfinder-bestiary-items/J6pZtpCOYKA1AxsU.htm)|Blood of the Night|`@Compendium[pf2e.pathfinder-bestiary.J6pZtpCOYKA1AxsU]`|
 |[Sang glacial](pathfinder-bestiary-items/y0vt5wkSLNErceZF.htm)|Freezing Blood|`@Compendium[pf2e.pathfinder-bestiary.y0vt5wkSLNErceZF]`|
 |[Sang glacial](pathfinder-bestiary-items/k72C42LOvjUNSP6f.htm)|Freezing Blood|`@Compendium[pf2e.pathfinder-bestiary.k72C42LOvjUNSP6f]`|
 |[Sang glacial](pathfinder-bestiary-items/Hrk3kc8RGNxK9XoN.htm)|Freezing Blood|`@Compendium[pf2e.pathfinder-bestiary.Hrk3kc8RGNxK9XoN]`|
@@ -3829,13 +3783,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Se changer en brume](pathfinder-bestiary-items/AVpXnwBBGoOo68pw.htm)|Turn to Mist|`@Compendium[pf2e.pathfinder-bestiary.AVpXnwBBGoOo68pw]`|
 |[Se changer en brume](pathfinder-bestiary-items/zl24K9E3qEAfVXrR.htm)|Turn to Mist|`@Compendium[pf2e.pathfinder-bestiary.zl24K9E3qEAfVXrR]`|
 |[Se fendre et frapper](pathfinder-bestiary-items/yEhFyHlybvFRrc0k.htm)|Lunging Strike|`@Compendium[pf2e.pathfinder-bestiary.yEhFyHlybvFRrc0k]`|
+|[Se fondre dans les ombres](pathfinder-bestiary-items/VB81WcGgMngyyh3E.htm)|Slink in Shadows|`@Compendium[pf2e.pathfinder-bestiary.VB81WcGgMngyyh3E]`|
 |[Se glisser dans les ombres](pathfinder-bestiary-items/0QWVJ7Of8cQNKp0N.htm)|Slink in Shadows|`@Compendium[pf2e.pathfinder-bestiary.0QWVJ7Of8cQNKp0N]`|
+|[Se gratter](pathfinder-bestiary-items/oEnTmvBRzYBAWuou.htm)|Scratch|`@Compendium[pf2e.pathfinder-bestiary.oEnTmvBRzYBAWuou]`|
 |[Se nourrir de la peur](pathfinder-bestiary-items/F8xpT7h5a5ZviXU5.htm)|Feed on Fear|`@Compendium[pf2e.pathfinder-bestiary.F8xpT7h5a5ZviXU5]`|
 |[Seringue](pathfinder-bestiary-items/deSS0MPuciBz6LLK.htm)|Syringe|`@Compendium[pf2e.pathfinder-bestiary.deSS0MPuciBz6LLK]`|
 |[Serpe](pathfinder-bestiary-items/i0HAcFnNZ6dlKhwT.htm)|Sickle|`@Compendium[pf2e.pathfinder-bestiary.i0HAcFnNZ6dlKhwT]`|
 |[Serpents mordeurs](pathfinder-bestiary-items/zGXZKhk95VPsSdKN.htm)|Biting Snakes|`@Compendium[pf2e.pathfinder-bestiary.zGXZKhk95VPsSdKN]`|
+|[Serre](pathfinder-bestiary-items/BmhB6hl9Ivt5pnw6.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.BmhB6hl9Ivt5pnw6]`|
 |[Serre](pathfinder-bestiary-items/3KkpzgxFNPh9aZJ4.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.3KkpzgxFNPh9aZJ4]`|
 |[Serre](pathfinder-bestiary-items/hTNAzHRu1qlREBai.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.hTNAzHRu1qlREBai]`|
+|[Serre](pathfinder-bestiary-items/pB0p0rg2zJNouFjM.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.pB0p0rg2zJNouFjM]`|
 |[Serrer entre les dents](pathfinder-bestiary-items/QKo6NtH208FCd8UB.htm)|Gnashing Grip|`@Compendium[pf2e.pathfinder-bestiary.QKo6NtH208FCd8UB]`|
 |[Serres](pathfinder-bestiary-items/o78IIdQ4zpSjDrZe.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.o78IIdQ4zpSjDrZe]`|
 |[Serres](pathfinder-bestiary-items/Ka4LviiNUhy4FNzo.htm)|Talon|`@Compendium[pf2e.pathfinder-bestiary.Ka4LviiNUhy4FNzo]`|
@@ -3923,6 +3881,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sorts à volonté](pathfinder-bestiary-items/pSG95fJhQ8ufTKho.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.pSG95fJhQ8ufTKho]`|
 |[Sorts à volonté](pathfinder-bestiary-items/aQZZc8Ut3mpK2lO3.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.aQZZc8Ut3mpK2lO3]`|
 |[Sorts à volonté](pathfinder-bestiary-items/21Edo8B2yXlM0Sd7.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.21Edo8B2yXlM0Sd7]`|
+|[Sorts à volonté](pathfinder-bestiary-items/mE1G6otJjruqyHkD.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.mE1G6otJjruqyHkD]`|
 |[Sorts à volonté](pathfinder-bestiary-items/ksFT2wzECyEtNKFL.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.ksFT2wzECyEtNKFL]`|
 |[Sorts à volonté](pathfinder-bestiary-items/ygeIx11fATpKbQRh.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.ygeIx11fATpKbQRh]`|
 |[Sorts à volonté](pathfinder-bestiary-items/GJNrxWQdmK1EykYc.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.GJNrxWQdmK1EykYc]`|
@@ -4000,18 +3959,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sorts à volonté](pathfinder-bestiary-items/k9T6UTS86VkzB0LP.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.k9T6UTS86VkzB0LP]`|
 |[Sorts à volonté](pathfinder-bestiary-items/2QFZHcrVJOpbzlkr.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary.2QFZHcrVJOpbzlkr]`|
 |[Souffle de brume glacée](pathfinder-bestiary-items/GcJJKFDfrv0jW0K3.htm)|Freezing Mist Breath|`@Compendium[pf2e.pathfinder-bestiary.GcJJKFDfrv0jW0K3]`|
+|[Souffle de feu explosif](pathfinder-bestiary-items/KhgTIBtP3uB7Ls0w.htm)|Fireball Breath|`@Compendium[pf2e.pathfinder-bestiary.KhgTIBtP3uB7Ls0w]`|
 |[Souffle de l'ouragan](pathfinder-bestiary-items/k0b4P1F8sPglTEue.htm)|Hurricane Blast|`@Compendium[pf2e.pathfinder-bestiary.k0b4P1F8sPglTEue]`|
 |[Souffle de tempête](pathfinder-bestiary-items/3gYmeheE54dPEZnX.htm)|Storm Breath|`@Compendium[pf2e.pathfinder-bestiary.3gYmeheE54dPEZnX]`|
 |[Souffle du désert](pathfinder-bestiary-items/AzIejcCA4nY9zlmB.htm)|Sandstorm Breath|`@Compendium[pf2e.pathfinder-bestiary.AzIejcCA4nY9zlmB]`|
 |[Souffle prodigieux](pathfinder-bestiary-items/DWRBHDiwImN0PCp9.htm)|Overwhelming Breath|`@Compendium[pf2e.pathfinder-bestiary.DWRBHDiwImN0PCp9]`|
 |[Souplesse surnaturelle](pathfinder-bestiary-items/fIssfjOuDo0yfwLc.htm)|Eerie Flexibility|`@Compendium[pf2e.pathfinder-bestiary.fIssfjOuDo0yfwLc]`|
+|[Souvenir](pathfinder-bestiary-items/NfSCCIAzcvdGsuLs.htm)|Keepsake|`@Compendium[pf2e.pathfinder-bestiary.NfSCCIAzcvdGsuLs]`|
 |[Spectrale](pathfinder-bestiary-items/vNaUr8lkk7o1zXWJ.htm)|Ghost Touch|`@Compendium[pf2e.pathfinder-bestiary.vNaUr8lkk7o1zXWJ]`|
+|[Sphère d'anéantissement](pathfinder-bestiary-items/WnbC97emFRGYOPR9.htm)|Sphere Of Oblivion|`@Compendium[pf2e.pathfinder-bestiary.WnbC97emFRGYOPR9]`|
+|[Sphère d'anéantissement](pathfinder-bestiary-items/wGDHR7b7nFvTcaRz.htm)|Sphere of Oblivion|`@Compendium[pf2e.pathfinder-bestiary.wGDHR7b7nFvTcaRz]`|
+|[Sphère de création](pathfinder-bestiary-items/L8ZBoNle0ekONgCk.htm)|Sphere of Creation|`@Compendium[pf2e.pathfinder-bestiary.L8ZBoNle0ekONgCk]`|
 |[Spirale du désespoir](pathfinder-bestiary-items/p90CXzyif81DD51u.htm)|Spiral of Despair|`@Compendium[pf2e.pathfinder-bestiary.p90CXzyif81DD51u]`|
 |[Spores](pathfinder-bestiary-items/ARWbmjbxbCd0JMUv.htm)|Spores|`@Compendium[pf2e.pathfinder-bestiary.ARWbmjbxbCd0JMUv]`|
 |[Spores](pathfinder-bestiary-items/VJqYJwxq4m0v6j2M.htm)|Spores|`@Compendium[pf2e.pathfinder-bestiary.VJqYJwxq4m0v6j2M]`|
 |[Spores](pathfinder-bestiary-items/8jF0NZz94zAMhCHA.htm)|Spores|`@Compendium[pf2e.pathfinder-bestiary.8jF0NZz94zAMhCHA]`|
 |[Spores de dissimulation](pathfinder-bestiary-items/i3ESVmWhqnA7Sq5u.htm)|Obscuring Spores|`@Compendium[pf2e.pathfinder-bestiary.i3ESVmWhqnA7Sq5u]`|
 |[Spores gluants](pathfinder-bestiary-items/1Vdy1h0xvUBMB9Mg.htm)|Sticky Spores|`@Compendium[pf2e.pathfinder-bestiary.1Vdy1h0xvUBMB9Mg]`|
+|[Squame irritante](pathfinder-bestiary-items/WU4cXLzhnoCczalO.htm)|Irritating Dander|`@Compendium[pf2e.pathfinder-bestiary.WU4cXLzhnoCczalO]`|
 |[Statue](pathfinder-bestiary-items/9bomxaBEHSLvRrkq.htm)|Statue|`@Compendium[pf2e.pathfinder-bestiary.9bomxaBEHSLvRrkq]`|
 |[Stridulation](pathfinder-bestiary-items/e1GGSqrMS3yqPrVw.htm)|Fiddle|`@Compendium[pf2e.pathfinder-bestiary.e1GGSqrMS3yqPrVw]`|
 |[Substitution courageuse](pathfinder-bestiary-items/wAPCN756UU6AV2AN.htm)|Courageous Switch|`@Compendium[pf2e.pathfinder-bestiary.wAPCN756UU6AV2AN]`|
@@ -4019,6 +3984,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Suggestion retardée](pathfinder-bestiary-items/7ivzzqnDwOSXosG5.htm)|Delayed Suggestion|`@Compendium[pf2e.pathfinder-bestiary.7ivzzqnDwOSXosG5]`|
 |[Suintements effroyables](pathfinder-bestiary-items/qcaLKbJ4n5L9k9Vc.htm)|Wretched Weeps|`@Compendium[pf2e.pathfinder-bestiary.qcaLKbJ4n5L9k9Vc]`|
 |[Suppression de puanteur](pathfinder-bestiary-items/iA3NXKVAiWzxGVaO.htm)|Stench Suppression|`@Compendium[pf2e.pathfinder-bestiary.iA3NXKVAiWzxGVaO]`|
+|[Surcroît de réactions](pathfinder-bestiary-items/KfFb9f7ZnoNzfyNt.htm)|Extra Reaction|`@Compendium[pf2e.pathfinder-bestiary.KfFb9f7ZnoNzfyNt]`|
+|[Survie](pathfinder-bestiary-items/tBNqq8ckTUXGr6OA.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.tBNqq8ckTUXGr6OA]`|
 |[Survie](pathfinder-bestiary-items/fLfqqrUuzDy1YKfH.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.fLfqqrUuzDy1YKfH]`|
 |[Survie](pathfinder-bestiary-items/GauPueVChScKx1eH.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.GauPueVChScKx1eH]`|
 |[Survie](pathfinder-bestiary-items/kXXO2coSLlDjiCDu.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.kXXO2coSLlDjiCDu]`|
@@ -4028,6 +3995,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Survie](pathfinder-bestiary-items/4gDOqdD5endao3AS.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.4gDOqdD5endao3AS]`|
 |[Survie](pathfinder-bestiary-items/V2B3ENZzFY5uoX2u.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary.V2B3ENZzFY5uoX2u]`|
 |[Tas de déchets](pathfinder-bestiary-items/3A8TmAuVP2C3XDsX.htm)|Refuse Pile|`@Compendium[pf2e.pathfinder-bestiary.3A8TmAuVP2C3XDsX]`|
+|[Tempête d'esquilles](pathfinder-bestiary-items/i9LmbR4DKZeW0lRN.htm)|Shard Storm|`@Compendium[pf2e.pathfinder-bestiary.i9LmbR4DKZeW0lRN]`|
 |[Tempête de lames](pathfinder-bestiary-items/QReEjgBjoIXn5NnC.htm)|Bladestorm|`@Compendium[pf2e.pathfinder-bestiary.QReEjgBjoIXn5NnC]`|
 |[Tempête télékinésique](pathfinder-bestiary-items/RJlLjrzqdXREWyPR.htm)|Telekinetic Storm|`@Compendium[pf2e.pathfinder-bestiary.RJlLjrzqdXREWyPR]`|
 |[Tempêtes de machoires](pathfinder-bestiary-items/0L6qwj5JpEiwbnph.htm)|Storm of Jaws|`@Compendium[pf2e.pathfinder-bestiary.0L6qwj5JpEiwbnph]`|
@@ -4051,6 +4019,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Toile](pathfinder-bestiary-items/5HpQse2MIBQbs10B.htm)|Web|`@Compendium[pf2e.pathfinder-bestiary.5HpQse2MIBQbs10B]`|
 |[Torche](pathfinder-bestiary-items/jzku4qcmz6H3dk9C.htm)|Torch|`@Compendium[pf2e.pathfinder-bestiary.jzku4qcmz6H3dk9C]`|
 |[Torpeur](pathfinder-bestiary-items/HtPykjM3gCE3oQiR.htm)|Torpor|`@Compendium[pf2e.pathfinder-bestiary.HtPykjM3gCE3oQiR]`|
+|[Toucher d'énergie](pathfinder-bestiary-items/wTyVptTaqC4Su8lm.htm)|Energy Touch|`@Compendium[pf2e.pathfinder-bestiary.wTyVptTaqC4Su8lm]`|
 |[Toucher de charité](pathfinder-bestiary-items/cPuEYKhbrReSjt1J.htm)|Touch of Charity|`@Compendium[pf2e.pathfinder-bestiary.cPuEYKhbrReSjt1J]`|
 |[Tourbillon télékinésique](pathfinder-bestiary-items/19cNQjbQEVxmiger.htm)|Telekinetic Whirlwind|`@Compendium[pf2e.pathfinder-bestiary.19cNQjbQEVxmiger]`|
 |[Tourbillons de crochets](pathfinder-bestiary-items/fOnFVdptokDlFcTW.htm)|Whirlwind of Hooks|`@Compendium[pf2e.pathfinder-bestiary.fOnFVdptokDlFcTW]`|
@@ -4064,6 +4033,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Tranchechien](pathfinder-bestiary-items/4uh4OO7zv1oZkB4W.htm)|Dogslicer|`@Compendium[pf2e.pathfinder-bestiary.4uh4OO7zv1oZkB4W]`|
 |[Transfert de protection](pathfinder-bestiary-items/3o5i63MTjWyPqXG3.htm)|Transfer Protection|`@Compendium[pf2e.pathfinder-bestiary.3o5i63MTjWyPqXG3]`|
 |[Transfert tentaculaire](pathfinder-bestiary-items/uOtLx35G2OFWHztX.htm)|Tentacle Transfer|`@Compendium[pf2e.pathfinder-bestiary.uOtLx35G2OFWHztX]`|
+|[Transparent](pathfinder-bestiary-items/nXQUyl9JGuo2YBLG.htm)|Transparent|`@Compendium[pf2e.pathfinder-bestiary.nXQUyl9JGuo2YBLG]`|
 |[Transporter sa proie](pathfinder-bestiary-items/drMUmP8Z6LhZyhRI.htm)|Carry Off Prey|`@Compendium[pf2e.pathfinder-bestiary.drMUmP8Z6LhZyhRI]`|
 |[Traîner](pathfinder-bestiary-items/fX3ZS6kW7CqzkJuu.htm)|Drag|`@Compendium[pf2e.pathfinder-bestiary.fX3ZS6kW7CqzkJuu]`|
 |[Tremper](pathfinder-bestiary-items/Gfs6EH6FQLkgQKGz.htm)|Drench|`@Compendium[pf2e.pathfinder-bestiary.Gfs6EH6FQLkgQKGz]`|
@@ -4111,10 +4081,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Télépathie 36 m](pathfinder-bestiary-items/aPjm9C2ibRhYAr0x.htm)|Telepathy 120 feet|`@Compendium[pf2e.pathfinder-bestiary.aPjm9C2ibRhYAr0x]`|
 |[Télépathie 90 m](pathfinder-bestiary-items/xkMpFGfoqM0o6IYm.htm)|Telepathy 300 feet|`@Compendium[pf2e.pathfinder-bestiary.xkMpFGfoqM0o6IYm]`|
 |[Ultime frénésie](pathfinder-bestiary-items/D2ezhwANZLcMNbz9.htm)|Death Frenzy|`@Compendium[pf2e.pathfinder-bestiary.D2ezhwANZLcMNbz9]`|
+|[Ultime méchanceté](pathfinder-bestiary-items/Kpl3lLjfHM0hWhT5.htm)|Final Spite|`@Compendium[pf2e.pathfinder-bestiary.Kpl3lLjfHM0hWhT5]`|
 |[Vague](pathfinder-bestiary-items/X0BfkEsL9YNikfyR.htm)|Wave|`@Compendium[pf2e.pathfinder-bestiary.X0BfkEsL9YNikfyR]`|
 |[Vague](pathfinder-bestiary-items/2nd3Ete1Wir3K3bj.htm)|Wave|`@Compendium[pf2e.pathfinder-bestiary.2nd3Ete1Wir3K3bj]`|
 |[Vague](pathfinder-bestiary-items/u3YnULJ9YqMBkD6D.htm)|Wave|`@Compendium[pf2e.pathfinder-bestiary.u3YnULJ9YqMBkD6D]`|
 |[Vague de cadavres](pathfinder-bestiary-items/vZOKYoSD979v70vq.htm)|Corpse Wave|`@Compendium[pf2e.pathfinder-bestiary.vZOKYoSD979v70vq]`|
+|[Vague de fange](pathfinder-bestiary-items/mdqK7RuSjtezVyS8.htm)|Filth Wave|`@Compendium[pf2e.pathfinder-bestiary.mdqK7RuSjtezVyS8]`|
 |[Variole gobeline](pathfinder-bestiary-items/1AbBtZhPY7lYpSm0.htm)|Goblin Pox|`@Compendium[pf2e.pathfinder-bestiary.1AbBtZhPY7lYpSm0]`|
 |[Vengeance infernale](pathfinder-bestiary-items/1hjabmTtR1jzUEh9.htm)|Hellish Revenge|`@Compendium[pf2e.pathfinder-bestiary.1hjabmTtR1jzUEh9]`|
 |[Venin d'amnésie](pathfinder-bestiary-items/cFtfekZXzWpLtSzL.htm)|Amnesia Venom|`@Compendium[pf2e.pathfinder-bestiary.cFtfekZXzWpLtSzL]`|
@@ -4138,25 +4110,28 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Venin de pieuvre géante](pathfinder-bestiary-items/XK9Va6QKy2g8z1dZ.htm)|Giant Octopus Venom|`@Compendium[pf2e.pathfinder-bestiary.XK9Va6QKy2g8z1dZ]`|
 |[Venin de pince des récifs](pathfinder-bestiary-items/We6LladGR4C687q0.htm)|Reefclaw Venom|`@Compendium[pf2e.pathfinder-bestiary.We6LladGR4C687q0]`|
 |[Venin de quasit](pathfinder-bestiary-items/PJbq8TKDuFGf9n7l.htm)|Quasit Venom|`@Compendium[pf2e.pathfinder-bestiary.PJbq8TKDuFGf9n7l]`|
+|[Venin de rôdeur des toiles](pathfinder-bestiary-items/P7JMDrm2HB1QPV3N.htm)|Web Lurker Venom|`@Compendium[pf2e.pathfinder-bestiary.P7JMDrm2HB1QPV3N]`|
 |[Venin de scorpion](pathfinder-bestiary-items/APm9xzjMvRMHIYon.htm)|Scorpion Venom|`@Compendium[pf2e.pathfinder-bestiary.APm9xzjMvRMHIYon]`|
 |[Venin de serpent](pathfinder-bestiary-items/FuDdgAP7wwq6LCFO.htm)|Serpent Venom|`@Compendium[pf2e.pathfinder-bestiary.FuDdgAP7wwq6LCFO]`|
 |[Venin de varan](pathfinder-bestiary-items/VYGyp2X6IJdSS0b2.htm)|Monitor Lizard Venom|`@Compendium[pf2e.pathfinder-bestiary.VYGyp2X6IJdSS0b2]`|
 |[Venin de ver pourpre](pathfinder-bestiary-items/53LkbbyoyISSppMe.htm)|Purple Worm Venom|`@Compendium[pf2e.pathfinder-bestiary.53LkbbyoyISSppMe]`|
 |[Venin de ver écarlate](pathfinder-bestiary-items/t1G2FbWy88tYUk7w.htm)|Crimson Worm Venom|`@Compendium[pf2e.pathfinder-bestiary.t1G2FbWy88tYUk7w]`|
+|[Venin de vipère géante](pathfinder-bestiary-items/lqMgsu5wZAOsEwK2.htm)|Giant Viper Venom|`@Compendium[pf2e.pathfinder-bestiary.lqMgsu5wZAOsEwK2]`|
+|[Venin de vouivre](pathfinder-bestiary-items/Mj7eIolH2KmKRos4.htm)|Wyvern Venom|`@Compendium[pf2e.pathfinder-bestiary.Mj7eIolH2KmKRos4]`|
 |[Venin paralysant](pathfinder-bestiary-items/NM1DnsbI55f4G1ix.htm)|Paralytic Venom|`@Compendium[pf2e.pathfinder-bestiary.NM1DnsbI55f4G1ix]`|
+|[Vent du désert](pathfinder-bestiary-items/WX7zOVpbKUqeICJ0.htm)|Desert Wind|`@Compendium[pf2e.pathfinder-bestiary.WX7zOVpbKUqeICJ0]`|
+|[Vent du désert](pathfinder-bestiary-items/lBuNOTGbx6zBFceT.htm)|Desert Wind|`@Compendium[pf2e.pathfinder-bestiary.lBuNOTGbx6zBFceT]`|
 |[Vent percutant](pathfinder-bestiary-items/1ArJ2KyY45DuuLtC.htm)|Crashing Wind|`@Compendium[pf2e.pathfinder-bestiary.1ArJ2KyY45DuuLtC]`|
 |[Ventilation](pathfinder-bestiary-items/Cb2C8LIPyMVI1r9J.htm)|Vent|`@Compendium[pf2e.pathfinder-bestiary.Cb2C8LIPyMVI1r9J]`|
 |[Verrou d'âme](pathfinder-bestiary-items/glwIs2UR3O1wG0tc.htm)|Soul Lock|`@Compendium[pf2e.pathfinder-bestiary.glwIs2UR3O1wG0tc]`|
 |[Vigne](pathfinder-bestiary-items/jt6yBdIcUHJLCmAw.htm)|Vine|`@Compendium[pf2e.pathfinder-bestiary.jt6yBdIcUHJLCmAw]`|
 |[Vin sylvestre](pathfinder-bestiary-items/h4qPfDnAjrfUEFX6.htm)|Sylvan Wine|`@Compendium[pf2e.pathfinder-bestiary.h4qPfDnAjrfUEFX6]`|
-|[Vision dans la fumée](pathfinder-bestiary-items/e5zu7QFkUzeeeoVM.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.e5zu7QFkUzeeeoVM]`|
-|[Vision dans la fumée](pathfinder-bestiary-items/Tji1ev92INkjtI3U.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.Tji1ev92INkjtI3U]`|
-|[Vision dans la fumée](pathfinder-bestiary-items/fgRAIdUznaID2VqA.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.fgRAIdUznaID2VqA]`|
 |[Vision dans le noir](pathfinder-bestiary-items/oL6JyyShxXN8PigD.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.oL6JyyShxXN8PigD]`|
 |[Vision dans le noir](pathfinder-bestiary-items/YsSqsOvXgRemLPt6.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.YsSqsOvXgRemLPt6]`|
 |[Vision dans le noir](pathfinder-bestiary-items/IrW6qhUnZpM1uAqK.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.IrW6qhUnZpM1uAqK]`|
 |[Vision dans le noir](pathfinder-bestiary-items/3tXLO7Kl4rqCcOSV.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.3tXLO7Kl4rqCcOSV]`|
 |[Vision dans le noir](pathfinder-bestiary-items/p1LTV3WNbUGTsSUY.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.p1LTV3WNbUGTsSUY]`|
+|[Vision dans le noir](pathfinder-bestiary-items/JQ3FZtUvvt6RRRXF.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.JQ3FZtUvvt6RRRXF]`|
 |[Vision dans le noir](pathfinder-bestiary-items/mJ4kL0oQk4xWhXtX.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.mJ4kL0oQk4xWhXtX]`|
 |[Vision dans le noir](pathfinder-bestiary-items/yuu0RBqGlI0PYbGU.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.yuu0RBqGlI0PYbGU]`|
 |[Vision dans le noir](pathfinder-bestiary-items/EI3OMbX3GaC67Bnt.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary.EI3OMbX3GaC67Bnt]`|
@@ -4480,12 +4455,22 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vision dans le noir supérieure](pathfinder-bestiary-items/7SNUgV6SLqC5TzXJ.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary.7SNUgV6SLqC5TzXJ]`|
 |[Vision dans le noir supérieure](pathfinder-bestiary-items/oAM6tsN2NTZwvnTf.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary.oAM6tsN2NTZwvnTf]`|
 |[Vision du statut](pathfinder-bestiary-items/SWo4EQT4exBUG1zV.htm)|Status Sight|`@Compendium[pf2e.pathfinder-bestiary.SWo4EQT4exBUG1zV]`|
+|[Vision du statut](pathfinder-bestiary-items/hwUA4Pu9qRQurhWj.htm)|Status Sight|`@Compendium[pf2e.pathfinder-bestiary.hwUA4Pu9qRQurhWj]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/e5zu7QFkUzeeeoVM.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.e5zu7QFkUzeeeoVM]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/O5Hb34r44xT4xQZB.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.O5Hb34r44xT4xQZB]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/wqhHoIIgE3jfAgCx.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.wqhHoIIgE3jfAgCx]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/Tji1ev92INkjtI3U.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.Tji1ev92INkjtI3U]`|
 |[Vision malgré la fumée](pathfinder-bestiary-items/F2mCARScyPh6sD0k.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.F2mCARScyPh6sD0k]`|
 |[Vision malgré la fumée](pathfinder-bestiary-items/LfhW8MrjdGdRlQSS.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.LfhW8MrjdGdRlQSS]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/nGzfYxHKFp5jqc76.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.nGzfYxHKFp5jqc76]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/fgRAIdUznaID2VqA.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.fgRAIdUznaID2VqA]`|
+|[Vision malgré la fumée](pathfinder-bestiary-items/S6FJYbxVlzTTwn0T.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary.S6FJYbxVlzTTwn0T]`|
 |[Vision malgré la neige](pathfinder-bestiary-items/0bcvSP6hBMQd3ATb.htm)|Snow Vision|`@Compendium[pf2e.pathfinder-bestiary.0bcvSP6hBMQd3ATb]`|
 |[Vision malgré la neige](pathfinder-bestiary-items/umShxoDTXECH3WCs.htm)|Snow Vision|`@Compendium[pf2e.pathfinder-bestiary.umShxoDTXECH3WCs]`|
 |[Vision malgré la neige](pathfinder-bestiary-items/7XIYM7XKRyeIRUn6.htm)|Snow Vision|`@Compendium[pf2e.pathfinder-bestiary.7XIYM7XKRyeIRUn6]`|
 |[Vision malgré la neige](pathfinder-bestiary-items/vwWsYBBoZjtVHTuT.htm)|Snow Vision|`@Compendium[pf2e.pathfinder-bestiary.vwWsYBBoZjtVHTuT]`|
+|[Vision malgré le brouillard](pathfinder-bestiary-items/NCdnViWXztATwZA5.htm)|Fog Vision|`@Compendium[pf2e.pathfinder-bestiary.NCdnViWXztATwZA5]`|
+|[Vision malgré le brouillard](pathfinder-bestiary-items/WkB3ob6zOZXGPfnf.htm)|Fog Vision|`@Compendium[pf2e.pathfinder-bestiary.WkB3ob6zOZXGPfnf]`|
 |[Vision malgré le brouillard](pathfinder-bestiary-items/kgt9znbnxYGyxtvV.htm)|Fog Vision|`@Compendium[pf2e.pathfinder-bestiary.kgt9znbnxYGyxtvV]`|
 |[Vision multiple](pathfinder-bestiary-items/39ZIhV5v80216sO2.htm)|Manifold Vision|`@Compendium[pf2e.pathfinder-bestiary.39ZIhV5v80216sO2]`|
 |[Vision nocturne](pathfinder-bestiary-items/AbbMWup6eJg0RC0O.htm)|Low-Light Vision|`@Compendium[pf2e.pathfinder-bestiary.AbbMWup6eJg0RC0O]`|
@@ -4588,15 +4573,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vision à 360°](pathfinder-bestiary-items/qOhxTyF0N56kRCTR.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary.qOhxTyF0N56kRCTR]`|
 |[Vision à 360°](pathfinder-bestiary-items/v2Vcuxvy5icZyHkj.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary.v2Vcuxvy5icZyHkj]`|
 |[Vision à 360°](pathfinder-bestiary-items/VWI6L5E7GsAtSrfF.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary.VWI6L5E7GsAtSrfF]`|
+|[Visée parfaite](pathfinder-bestiary-items/LcpFmBryvzaDNDcL.htm)|Perfect Aim|`@Compendium[pf2e.pathfinder-bestiary.LcpFmBryvzaDNDcL]`|
+|[Vitesse augmentée](pathfinder-bestiary-items/YXiHAcR16OtpzApO.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.YXiHAcR16OtpzApO]`|
 |[Vitesse augmentée](pathfinder-bestiary-items/W1EiRfnWuUIq6KoC.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.W1EiRfnWuUIq6KoC]`|
 |[Vitesse augmentée](pathfinder-bestiary-items/LDExFIGLfarrbJQa.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.LDExFIGLfarrbJQa]`|
 |[Vitesse augmentée](pathfinder-bestiary-items/TWiy088AD8uOCDGQ.htm)|Speed Surge|`@Compendium[pf2e.pathfinder-bestiary.TWiy088AD8uOCDGQ]`|
 |[Voile de feu](pathfinder-bestiary-items/reoPbPNpXyLy56Ny.htm)|Shroud of Flame|`@Compendium[pf2e.pathfinder-bestiary.reoPbPNpXyLy56Ny]`|
 |[Voile trompeur](pathfinder-bestiary-items/bmbqZlQmEmeXm2DS.htm)|Treacherous Veil|`@Compendium[pf2e.pathfinder-bestiary.bmbqZlQmEmeXm2DS]`|
+|[Vol d'ombre](pathfinder-bestiary-items/Kjifw1jgDvfmrEGU.htm)|Steal Shadow|`@Compendium[pf2e.pathfinder-bestiary.Kjifw1jgDvfmrEGU]`|
 |[Vol enflammé](pathfinder-bestiary-items/eBfnitbq2Wb56ZRG.htm)|Flaming Strafe|`@Compendium[pf2e.pathfinder-bestiary.eBfnitbq2Wb56ZRG]`|
 |[Volatilisation](pathfinder-bestiary-items/wfIAFcaANDUUhMSm.htm)|Vanish|`@Compendium[pf2e.pathfinder-bestiary.wfIAFcaANDUUhMSm]`|
 |[Voleur d'os](pathfinder-bestiary-items/o6Y376tDDVyc2Cf8.htm)|Bonetaker|`@Compendium[pf2e.pathfinder-bestiary.o6Y376tDDVyc2Cf8]`|
 |[Volute](pathfinder-bestiary-items/j3ILBYm7ssA8p2Nz.htm)|Fire Mote|`@Compendium[pf2e.pathfinder-bestiary.j3ILBYm7ssA8p2Nz]`|
+|[Volute](pathfinder-bestiary-items/wPoobMAF8dEMbXzS.htm)|Tendril|`@Compendium[pf2e.pathfinder-bestiary.wPoobMAF8dEMbXzS]`|
 |[Volée de piquants](pathfinder-bestiary-items/hHLGOCYOj0KZUdYI.htm)|Spike Volley|`@Compendium[pf2e.pathfinder-bestiary.hHLGOCYOj0KZUdYI]`|
 |[Vortex](pathfinder-bestiary-items/t0slPYAl6mytNXG7.htm)|Vortex|`@Compendium[pf2e.pathfinder-bestiary.t0slPYAl6mytNXG7]`|
 |[Vortex](pathfinder-bestiary-items/3jppXkfB2qjbeRic.htm)|Vortex|`@Compendium[pf2e.pathfinder-bestiary.3jppXkfB2qjbeRic]`|
@@ -4609,9 +4598,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vulnérabilité aux haches](pathfinder-bestiary-items/esNHCG2RP8SOfTuA.htm)|Axe Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.esNHCG2RP8SOfTuA]`|
 |[Vulnérabilité aux haches](pathfinder-bestiary-items/4P8IOAM51aWrHmLb.htm)|Axe Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.4P8IOAM51aWrHmLb]`|
 |[Vulnérabilité aux soins](pathfinder-bestiary-items/Tk7abWUpvDDV6Qg0.htm)|Succor Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.Tk7abWUpvDDV6Qg0]`|
+|[Vulnérabilité à Chair en pierre](pathfinder-bestiary-items/uzwUjI3gD8tO8Chh.htm)|Vulnerable to Flesh to Stone|`@Compendium[pf2e.pathfinder-bestiary.uzwUjI3gD8tO8Chh]`|
 |[Vulnérabilité à Pierre en chair](pathfinder-bestiary-items/Jg5WkDHWpi1JRQ9k.htm)|Vulnerable to Stone to Flesh|`@Compendium[pf2e.pathfinder-bestiary.Jg5WkDHWpi1JRQ9k]`|
 |[Vulnérabilité à l'échec](pathfinder-bestiary-items/xD2fbKZSefTlgsmQ.htm)|Failure Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.xD2fbKZSefTlgsmQ]`|
 |[Vulnérabilité à la dissipation](pathfinder-bestiary-items/GliiYsgCIg3rdZ5a.htm)|Vulnerable to Dispelling|`@Compendium[pf2e.pathfinder-bestiary.GliiYsgCIg3rdZ5a]`|
+|[Vulnérabilité à la fumée](pathfinder-bestiary-items/MFz1cM1MqbifkyHH.htm)|Vulnerable to Smoke|`@Compendium[pf2e.pathfinder-bestiary.MFz1cM1MqbifkyHH]`|
+|[Vulnérabilité à la lumière](pathfinder-bestiary-items/kppTcx5TylWkpfF1.htm)|Light Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.kppTcx5TylWkpfF1]`|
 |[Vulnérabilité à la lumière](pathfinder-bestiary-items/ACHlnYzXVxizzqPw.htm)|Light Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.ACHlnYzXVxizzqPw]`|
 |[Vulnérabilité à la lumière du soleil](pathfinder-bestiary-items/6BFQljbOQZkiMjjS.htm)|Vulnerable to Sunlight|`@Compendium[pf2e.pathfinder-bestiary.6BFQljbOQZkiMjjS]`|
 |[Vulnérabilité à la lumière du soleil](pathfinder-bestiary-items/qtsF75k2Zterahrt.htm)|Vulnerable to Sunlight|`@Compendium[pf2e.pathfinder-bestiary.qtsF75k2Zterahrt]`|
@@ -4622,6 +4614,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vulnérable à <em>Neutralisation du poison</em>](pathfinder-bestiary-items/aMNM0X0dVvVRdlZT.htm)|Vulnerable to Neutralize Poison|`@Compendium[pf2e.pathfinder-bestiary.aMNM0X0dVvVRdlZT]`|
 |[Vulnérable à la désintégration](pathfinder-bestiary-items/xOGJ7uK7SF5xcrH2.htm)|Vulnerable to Disintegrate|`@Compendium[pf2e.pathfinder-bestiary.xOGJ7uK7SF5xcrH2]`|
 |[Vulénrabilité à la vérité](pathfinder-bestiary-items/r7vHhfdRSulBJtov.htm)|Truth Vulnerability|`@Compendium[pf2e.pathfinder-bestiary.r7vHhfdRSulBJtov]`|
+|[bonus de circonstances de +2 aux jds contre la maladie](pathfinder-bestiary-items/4pcckxSu3lSKQKx9.htm)|+2 Circumstance to All Saves vs Disease|`@Compendium[pf2e.pathfinder-bestiary.4pcckxSu3lSKQKx9]`|
 |[bonus de statut de +1 aux jds contre la maladie](pathfinder-bestiary-items/gPoK6Dl5m43T6mpg.htm)|+1 Status to All Saves vs Disease|`@Compendium[pf2e.pathfinder-bestiary.gPoK6Dl5m43T6mpg]`|
 |[bonus de statut de +2 aux jds contre la magie](pathfinder-bestiary-items/QVSO6xmJIGdqfP0G.htm)|+2 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.QVSO6xmJIGdqfP0G]`|
 |[bonus de statut de +2 aux jds contre la magie](pathfinder-bestiary-items/DxJcguaM5VY5ipoX.htm)|+2 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.DxJcguaM5VY5ipoX]`|
@@ -4634,6 +4627,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[bonus de statut de +2 aux jds contre la magie](pathfinder-bestiary-items/atH4c29XMbIXGwpG.htm)|+2 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary.atH4c29XMbIXGwpG]`|
 |[bonus de statut de +2 aux jds contre les effets mentaux](pathfinder-bestiary-items/Av5F60Xe1vXr81pb.htm)|+2 to Will Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary.Av5F60Xe1vXr81pb]`|
 |[bonus de statut de +2 contre le froid](pathfinder-bestiary-items/PtwaILORaUXLPA4E.htm)|+2 Status to All Saves vs Cold|`@Compendium[pf2e.pathfinder-bestiary.PtwaILORaUXLPA4E]`|
+|[bonus de statut de +2 contre les effets mentaux](pathfinder-bestiary-items/JRWZ0pJnxuJyvINn.htm)|+2 Status to All Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary.JRWZ0pJnxuJyvINn]`|
+|[bonus de statut de +2 à tous les jds contre les effets audibles et visuels](pathfinder-bestiary-items/ZCRCrZQCOFtODRBG.htm)|+2 Status to All Saves vs. Auditory and Visual|`@Compendium[pf2e.pathfinder-bestiary.ZCRCrZQCOFtODRBG]`|
 |[bonus de statut de +2 à tous les jds contre les effets mentaux](pathfinder-bestiary-items/GEvdLrMrI8fbxU9C.htm)|+2 Status to All Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary.GEvdLrMrI8fbxU9C]`|
 |[bonus de statut de +3 aux jds contre la magie divine](pathfinder-bestiary-items/wbhIx2xtiqZn73im.htm)|+3 Status to All Saves vs Divine Magic|`@Compendium[pf2e.pathfinder-bestiary.wbhIx2xtiqZn73im]`|
 |[bonus de statut de +3 à tous les jds contre la magie divine](pathfinder-bestiary-items/REiNYp4cWbH6OcX2.htm)|+3 Status to All Saves vs Divine Magic|`@Compendium[pf2e.pathfinder-bestiary.REiNYp4cWbH6OcX2]`|
@@ -4641,7 +4636,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[geyser d'eau](pathfinder-bestiary-items/ira6umGEGOXqSyIk.htm)|Water Spout|`@Compendium[pf2e.pathfinder-bestiary.ira6umGEGOXqSyIk]`|
 |[patte](pathfinder-bestiary-items/7WxioYo3ZgMSuL5O.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary.7WxioYo3ZgMSuL5O]`|
 |[patte](pathfinder-bestiary-items/WqyBNiwVl76DPQYF.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary.WqyBNiwVl76DPQYF]`|
+|[reconstruction](pathfinder-bestiary-items/oKuYToU9Nv9ALIIv.htm)|Rejuvenation|`@Compendium[pf2e.pathfinder-bestiary.oKuYToU9Nv9ALIIv]`|
+|[régénération 20 (Désactivé par l'acide ou le feu)](pathfinder-bestiary-items/oDkPJwQC7jVjhBRN.htm)|Regeneration 20 (Deactivated by Acid or Fire)|`@Compendium[pf2e.pathfinder-bestiary.oDkPJwQC7jVjhBRN]`|
 |[régénération 50 (Désactivé par le son)](pathfinder-bestiary-items/82HFjbpYVotosFsA.htm)|Regeneration 50 (Deactivated by Sonic)|`@Compendium[pf2e.pathfinder-bestiary.82HFjbpYVotosFsA]`|
+|[tacticien de cocyte](pathfinder-bestiary-items/RWLfly211783dq5i.htm)|Tactician of Cocytus|`@Compendium[pf2e.pathfinder-bestiary.RWLfly211783dq5i]`|
 |[tremper](pathfinder-bestiary-items/2xaMJwr5gjV30x3x.htm)|Drench|`@Compendium[pf2e.pathfinder-bestiary.2xaMJwr5gjV30x3x]`|
 |[Écailles de dragon](pathfinder-bestiary-items/1GBTPnqIIGld3Wu1.htm)|Dragonscaled|`@Compendium[pf2e.pathfinder-bestiary.1GBTPnqIIGld3Wu1]`|
 |[Écharpeur](pathfinder-bestiary-items/deLQWsbCp3jKrpIv.htm)|Mauler|`@Compendium[pf2e.pathfinder-bestiary.deLQWsbCp3jKrpIv]`|
@@ -4655,11 +4653,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Élan draconique](pathfinder-bestiary-items/0oICLdGDJMUmfVhn.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.0oICLdGDJMUmfVhn]`|
 |[Élan draconique](pathfinder-bestiary-items/c3JTz3NjO3wCrokf.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.c3JTz3NjO3wCrokf]`|
 |[Élan draconique](pathfinder-bestiary-items/FDVxe2jOvdrTKmQY.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.FDVxe2jOvdrTKmQY]`|
+|[Élan draconique](pathfinder-bestiary-items/TQcjKBbkOHwvxvhN.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.TQcjKBbkOHwvxvhN]`|
 |[Élan draconique](pathfinder-bestiary-items/QbCC0DUye0oVFVc4.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.QbCC0DUye0oVFVc4]`|
 |[Élan draconique](pathfinder-bestiary-items/achgTT7jV4XPMG5S.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.achgTT7jV4XPMG5S]`|
 |[Élan draconique](pathfinder-bestiary-items/opGxn2Tkn6TRXGQh.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.opGxn2Tkn6TRXGQh]`|
 |[Élan draconique](pathfinder-bestiary-items/qIqgF3PIeW7W6Fft.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.qIqgF3PIeW7W6Fft]`|
 |[Élan draconique](pathfinder-bestiary-items/0odea1XiQLeiXEH3.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.0odea1XiQLeiXEH3]`|
+|[Élan draconique](pathfinder-bestiary-items/Jvmi4nru2sCMB5Hn.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.Jvmi4nru2sCMB5Hn]`|
 |[Élan draconique](pathfinder-bestiary-items/zOzr7HCfJlCH6I7z.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.zOzr7HCfJlCH6I7z]`|
 |[Élan draconique](pathfinder-bestiary-items/9VHbtuY8gJuurG3U.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.9VHbtuY8gJuurG3U]`|
 |[Élan draconique](pathfinder-bestiary-items/p5WXqIz3tJJCdoiz.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary.p5WXqIz3tJJCdoiz]`|
@@ -4699,7 +4699,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Épée longue](pathfinder-bestiary-items/gD3kGPuZGxBNXQTG.htm)|Longsword|`@Compendium[pf2e.pathfinder-bestiary.gD3kGPuZGxBNXQTG]`|
 |[Épée longue](pathfinder-bestiary-items/uoJMsbcXlm58cnei.htm)|Longsword|`@Compendium[pf2e.pathfinder-bestiary.uoJMsbcXlm58cnei]`|
 |[Épée longue acérée](pathfinder-bestiary-items/RMbB0Cy1iBEXCD5A.htm)|Keen Longsword|`@Compendium[pf2e.pathfinder-bestiary.RMbB0Cy1iBEXCD5A]`|
-|[Épée longue de froid](pathfinder-bestiary-items/209XT5BBx9vzGaVU.htm)|Frost Longspear|`@Compendium[pf2e.pathfinder-bestiary.209XT5BBx9vzGaVU]`|
 |[Épée longue de pierre](pathfinder-bestiary-items/svh3YWWgNYDh2wu5.htm)|Stone Longsword|`@Compendium[pf2e.pathfinder-bestiary.svh3YWWgNYDh2wu5]`|
 |[Épée longue en argent et en fer froid](pathfinder-bestiary-items/6aID4H750Zqy0EOH.htm)|Cold Iron Silver Longsword|`@Compendium[pf2e.pathfinder-bestiary.6aID4H750Zqy0EOH]`|
 |[Épée longue enflammée](pathfinder-bestiary-items/upJaEvHTKGpsW57H.htm)|Flaming Longsword|`@Compendium[pf2e.pathfinder-bestiary.upJaEvHTKGpsW57H]`|
@@ -4710,6 +4709,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Épée à deux mains sainte](pathfinder-bestiary-items/z7GewXbjOdMCjk6w.htm)|Holy Greatsword|`@Compendium[pf2e.pathfinder-bestiary.z7GewXbjOdMCjk6w]`|
 |[Étincelle lumineuse](pathfinder-bestiary-items/q9WAG2gpmBXA8cfi.htm)|Luminous Spark|`@Compendium[pf2e.pathfinder-bestiary.q9WAG2gpmBXA8cfi]`|
 |[Étreindre](pathfinder-bestiary-items/vkMvsL1nrlHkiJQQ.htm)|Embrace|`@Compendium[pf2e.pathfinder-bestiary.vkMvsL1nrlHkiJQQ]`|
+|[Évasion](pathfinder-bestiary-items/Wf7eTH5SNYNO98tC.htm)|Evasion|`@Compendium[pf2e.pathfinder-bestiary.Wf7eTH5SNYNO98tC]`|
 |[Éveil d'un arbre](pathfinder-bestiary-items/9ROgeFg0LqFYjWto.htm)|Awaken Tree|`@Compendium[pf2e.pathfinder-bestiary.9ROgeFg0LqFYjWto]`|
 |[Éventration](pathfinder-bestiary-items/OFtZ11CEYiceib4W.htm)|Rend|`@Compendium[pf2e.pathfinder-bestiary.OFtZ11CEYiceib4W]`|
 |[Éventration](pathfinder-bestiary-items/DD4lBYDa99ebm7Cb.htm)|Rend|`@Compendium[pf2e.pathfinder-bestiary.DD4lBYDa99ebm7Cb]`|
@@ -4731,6 +4731,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Akizendri (Protéen)](pathfinder-bestiary-2/27R4ntwgch7eIQM6.htm)|Akizendri|`@Compendium[pf2e.pathfinder-bestiary-2.27R4ntwgch7eIQM6]`|
 |[Amibe géante (Vase)](pathfinder-bestiary-2/VPDKzeTY8O1XrKLk.htm)|Giant Amoeba|`@Compendium[pf2e.pathfinder-bestiary-2.VPDKzeTY8O1XrKLk]`|
 |[Anancus](pathfinder-bestiary-2/aATQbGnSA0KOWG53.htm)|Anancus|`@Compendium[pf2e.pathfinder-bestiary-2.aATQbGnSA0KOWG53]`|
+|[Ancien vrykolakas (Vampire)](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|`@Compendium[pf2e.pathfinder-bestiary-2.e0PXAtnDnJo4ggFX]`|
 |[Ankou](pathfinder-bestiary-2/DxV2vH17H789bJ6y.htm)|Ankou|`@Compendium[pf2e.pathfinder-bestiary-2.DxV2vH17H789bJ6y]`|
 |[Aolaze](pathfinder-bestiary-2/WMiPblOVq5w2Fa1x.htm)|Aolaz|`@Compendium[pf2e.pathfinder-bestiary-2.WMiPblOVq5w2Fa1x]`|
 |[Araignée de Leng](pathfinder-bestiary-2/pxlZ8QbxMK6b3l5w.htm)|Leng Spider|`@Compendium[pf2e.pathfinder-bestiary-2.pxlZ8QbxMK6b3l5w]`|
@@ -4957,7 +4958,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nuée de Tiques](pathfinder-bestiary-2/jgMFqFDNUWsrnnBH.htm)|Tick Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.jgMFqFDNUWsrnnBH]`|
 |[Nuée de cafards](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Cockroach Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.8HJNH3aDTJyJi3pU]`|
 |[Nuée de corbeaux](pathfinder-bestiary-2/wrzlJufGEfMg5kVE.htm)|Raven Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.wrzlJufGEfMg5kVE]`|
-|[Nuée de fourmis légionnaires](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.8a9N2iPA5HLpkWaF]`|
+|[Nuée de fourmis soldats](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.8a9N2iPA5HLpkWaF]`|
 |[Nuée de méduses de feu](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.7lL7APeHQgkVxU1B]`|
 |[Nuée de sangsues couveuses](pathfinder-bestiary-2/dvZM7hGNDu8olV7A.htm)|Brood Leech Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.dvZM7hGNDu8olV7A]`|
 |[Nymphe de Libellule géante](pathfinder-bestiary-2/xarabMfYuo7yvD1N.htm)|Giant Dragonfly Nymph|`@Compendium[pf2e.pathfinder-bestiary-2.xarabMfYuo7yvD1N]`|
@@ -4972,7 +4973,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Onidoshi (Oni)](pathfinder-bestiary-2/7EppoGdIcmd0AV9B.htm)|Onidoshi|`@Compendium[pf2e.pathfinder-bestiary-2.7EppoGdIcmd0AV9B]`|
 |[Orm aquatique](pathfinder-bestiary-2/64sdDzjLWu2W2R2e.htm)|Water Orm|`@Compendium[pf2e.pathfinder-bestiary-2.64sdDzjLWu2W2R2e]`|
 |[Orque Épaulard](pathfinder-bestiary-2/RqcIiiNNEkF28ui2.htm)|Orca|`@Compendium[pf2e.pathfinder-bestiary-2.RqcIiiNNEkF28ui2]`|
-|[Ostiarius (Velstrac)](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|`@Compendium[pf2e.pathfinder-bestiary-2.89isDKkB1UCbsSvU]`|
 |[Osyluth (Diable)](pathfinder-bestiary-2/xjV0TmPNfKR7UcKu.htm)|Osyluth|`@Compendium[pf2e.pathfinder-bestiary-2.xjV0TmPNfKR7UcKu]`|
 |[Ours noir](pathfinder-bestiary-2/xxP5FJotshmUQNtY.htm)|Black Bear|`@Compendium[pf2e.pathfinder-bestiary-2.xxP5FJotshmUQNtY]`|
 |[Ours polaire](pathfinder-bestiary-2/UqFObUjgFAlWrriA.htm)|Polar Bear|`@Compendium[pf2e.pathfinder-bestiary-2.UqFObUjgFAlWrriA]`|
@@ -4981,7 +4981,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pieuvre Anneaux-Bleus](pathfinder-bestiary-2/WxSpfUReYJb4StxG.htm)|Blue-Ringed Octopus|`@Compendium[pf2e.pathfinder-bestiary-2.WxSpfUReYJb4StxG]`|
 |[Piscodaémon (Daémon)](pathfinder-bestiary-2/nxR3nseHT01YmOQo.htm)|Piscodaemon|`@Compendium[pf2e.pathfinder-bestiary-2.nxR3nseHT01YmOQo]`|
 |[Planétar (Ange)](pathfinder-bestiary-2/cu6Bl5pFByrpinxd.htm)|Planetar|`@Compendium[pf2e.pathfinder-bestiary-2.cu6Bl5pFByrpinxd]`|
-|[Prophète des Os (Homme-serpent)](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|`@Compendium[pf2e.pathfinder-bestiary-2.7SVhYtnBn967Hy8O]`|
+|[Portier (Velstrac)](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|`@Compendium[pf2e.pathfinder-bestiary-2.89isDKkB1UCbsSvU]`|
+|[Prophète des Ossements (Homme-serpent)](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|`@Compendium[pf2e.pathfinder-bestiary-2.7SVhYtnBn967Hy8O]`|
 |[Purrodaémon (Daémon)](pathfinder-bestiary-2/GfJLotTcrZmn6tay.htm)|Purrodaemon|`@Compendium[pf2e.pathfinder-bestiary-2.GfJLotTcrZmn6tay]`|
 |[Pyrochimistes Éfrit](pathfinder-bestiary-2/jhr6WpTeY8GXXwK1.htm)|Ifrit Pyrochemist|`@Compendium[pf2e.pathfinder-bestiary-2.jhr6WpTeY8GXXwK1]`|
 |[Péluda](pathfinder-bestiary-2/drtCZDDoESPSUqH7.htm)|Peluda|`@Compendium[pf2e.pathfinder-bestiary-2.drtCZDDoESPSUqH7]`|
@@ -5078,7 +5079,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Viflin](pathfinder-bestiary-2/uQBfbNaIHdt0l2QB.htm)|Quickling|`@Compendium[pf2e.pathfinder-bestiary-2.uQBfbNaIHdt0l2QB]`|
 |[Vigne musquée jaune](pathfinder-bestiary-2/5FGuXfg6Ub2hCBG7.htm)|Yellow Musk Creeper|`@Compendium[pf2e.pathfinder-bestiary-2.5FGuXfg6Ub2hCBG7]`|
 |[Vrolikai](pathfinder-bestiary-2/Va2LUALLnnfWX3wq.htm)|Vrolikai|`@Compendium[pf2e.pathfinder-bestiary-2.Va2LUALLnnfWX3wq]`|
-|[Vrykolakas vénérable (Vampire)](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|`@Compendium[pf2e.pathfinder-bestiary-2.e0PXAtnDnJo4ggFX]`|
 |[Véranallia (Azata)](pathfinder-bestiary-2/ePUTKSr45H7S5dQs.htm)|Veranallia|`@Compendium[pf2e.pathfinder-bestiary-2.ePUTKSr45H7S5dQs]`|
 |[Wyrm de Glace (Élémentaire, eau)](pathfinder-bestiary-2/N3XfcwDn1Nu7milG.htm)|Icewyrm|`@Compendium[pf2e.pathfinder-bestiary-2.N3XfcwDn1Nu7milG]`|
 |[Xill](pathfinder-bestiary-2/cd2IaNGpdmHHZnrN.htm)|Xill|`@Compendium[pf2e.pathfinder-bestiary-2.cd2IaNGpdmHHZnrN]`|
@@ -5107,9 +5107,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/FnwUcB0l68viXYtQ.htm)|Fish Hook|`@Compendium[pf2e.pathfinder-bestiary-2.FnwUcB0l68viXYtQ]`|
 |[](pathfinder-bestiary-2-items/c74H6Oxpa5sZzsN5.htm)|+4 Status Bonus on Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.c74H6Oxpa5sZzsN5]`|
 |[](pathfinder-bestiary-2-items/UaG0xt5nSwesLzma.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.UaG0xt5nSwesLzma]`|
-|[](pathfinder-bestiary-2-items/tuQ8FrXL4iChAQA1.htm)|Sunlight Petrification|`@Compendium[pf2e.pathfinder-bestiary-2.tuQ8FrXL4iChAQA1]`|
 |[](pathfinder-bestiary-2-items/mS3DC54HONPgp9Pg.htm)|Sunlight Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.mS3DC54HONPgp9Pg]`|
-|[](pathfinder-bestiary-2-items/pTjXZs6ZwSF31KLb.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.pTjXZs6ZwSF31KLb]`|
 |[](pathfinder-bestiary-2-items/B6PM6Ak7BCncLxYT.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.B6PM6Ak7BCncLxYT]`|
 |[](pathfinder-bestiary-2-items/SaS7qHeGtLYWa1rX.htm)|Tail Claw|`@Compendium[pf2e.pathfinder-bestiary-2.SaS7qHeGtLYWa1rX]`|
 |[](pathfinder-bestiary-2-items/hwX8mlw73yOCgwYw.htm)|Braincloud|`@Compendium[pf2e.pathfinder-bestiary-2.hwX8mlw73yOCgwYw]`|
@@ -5117,14 +5115,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/eG5iE2SpiXdvquWh.htm)|Funereal Dirge|`@Compendium[pf2e.pathfinder-bestiary-2.eG5iE2SpiXdvquWh]`|
 |[](pathfinder-bestiary-2-items/JTKyH2bv7vq73eF0.htm)|Whiptail Centipede Venom|`@Compendium[pf2e.pathfinder-bestiary-2.JTKyH2bv7vq73eF0]`|
 |[](pathfinder-bestiary-2-items/LwAD4kqFgkuoaJ0b.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.LwAD4kqFgkuoaJ0b]`|
-|[](pathfinder-bestiary-2-items/DxgiMoyx7wyltYqp.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.DxgiMoyx7wyltYqp]`|
 |[](pathfinder-bestiary-2-items/BIjOxLctW7PgHsOt.htm)|Compsognathus Venom|`@Compendium[pf2e.pathfinder-bestiary-2.BIjOxLctW7PgHsOt]`|
 |[](pathfinder-bestiary-2-items/M3YBIgGHTHFIcGRF.htm)|Icicle|`@Compendium[pf2e.pathfinder-bestiary-2.M3YBIgGHTHFIcGRF]`|
 |[](pathfinder-bestiary-2-items/sSkLpLlTDlkKIKAw.htm)|Planar Acclimation|`@Compendium[pf2e.pathfinder-bestiary-2.sSkLpLlTDlkKIKAw]`|
 |[](pathfinder-bestiary-2-items/xRcOZkgwBwJLmsbr.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.xRcOZkgwBwJLmsbr]`|
-|[](pathfinder-bestiary-2-items/VKysBYdqHBzZ3aOg.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.VKysBYdqHBzZ3aOg]`|
 |[](pathfinder-bestiary-2-items/vVucSfThIT1iEEjO.htm)|Hook Shake|`@Compendium[pf2e.pathfinder-bestiary-2.vVucSfThIT1iEEjO]`|
-|[](pathfinder-bestiary-2-items/LwBTFYgYLRf8gXzt.htm)|Spell Reflection|`@Compendium[pf2e.pathfinder-bestiary-2.LwBTFYgYLRf8gXzt]`|
 |[](pathfinder-bestiary-2-items/19Ayra6rX2M49iPG.htm)|Feed on Blood|`@Compendium[pf2e.pathfinder-bestiary-2.19Ayra6rX2M49iPG]`|
 |[](pathfinder-bestiary-2-items/lWwRydUGrcy5WmZf.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.lWwRydUGrcy5WmZf]`|
 |[](pathfinder-bestiary-2-items/bBQMy1lr5xW6rBgj.htm)|Temporal Strike|`@Compendium[pf2e.pathfinder-bestiary-2.bBQMy1lr5xW6rBgj]`|
@@ -5143,7 +5138,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/u7R9PDTQDTEJeQAX.htm)|Keen Hearing|`@Compendium[pf2e.pathfinder-bestiary-2.u7R9PDTQDTEJeQAX]`|
 |[](pathfinder-bestiary-2-items/MuzXu4bDzodvaZ7w.htm)|Watery Transparency|`@Compendium[pf2e.pathfinder-bestiary-2.MuzXu4bDzodvaZ7w]`|
 |[](pathfinder-bestiary-2-items/s23ZMm1sJc7XLyKW.htm)|Seed Spray|`@Compendium[pf2e.pathfinder-bestiary-2.s23ZMm1sJc7XLyKW]`|
-|[](pathfinder-bestiary-2-items/Lmym2mXsN2UYnCLA.htm)|Regeneration 5 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.Lmym2mXsN2UYnCLA]`|
 |[](pathfinder-bestiary-2-items/vEMwAfv76TagQTy9.htm)|Hurl Net|`@Compendium[pf2e.pathfinder-bestiary-2.vEMwAfv76TagQTy9]`|
 |[](pathfinder-bestiary-2-items/y5b7lQEAyBanNTYQ.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.y5b7lQEAyBanNTYQ]`|
 |[](pathfinder-bestiary-2-items/zjVbARImBBAx6EKv.htm)|Vile Touch|`@Compendium[pf2e.pathfinder-bestiary-2.zjVbARImBBAx6EKv]`|
@@ -5151,13 +5145,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/ihi2vOTXGjRtjggj.htm)|Performance|`@Compendium[pf2e.pathfinder-bestiary-2.ihi2vOTXGjRtjggj]`|
 |[](pathfinder-bestiary-2-items/InHy3ZKl3MHOyTX4.htm)|At-Will Spells|`@Compendium[pf2e.pathfinder-bestiary-2.InHy3ZKl3MHOyTX4]`|
 |[](pathfinder-bestiary-2-items/IwPCTJvgvDQC90Yj.htm)|Hurl Net|`@Compendium[pf2e.pathfinder-bestiary-2.IwPCTJvgvDQC90Yj]`|
-|[](pathfinder-bestiary-2-items/BtLt92JdieUMFygu.htm)|Regeneration 20 (deactivated by acid or sonic)|`@Compendium[pf2e.pathfinder-bestiary-2.BtLt92JdieUMFygu]`|
 |[](pathfinder-bestiary-2-items/qV74gNViCaiEVUy2.htm)|Capsize|`@Compendium[pf2e.pathfinder-bestiary-2.qV74gNViCaiEVUy2]`|
 |[](pathfinder-bestiary-2-items/5qgx9qhXAceS6uLh.htm)|Enraged Cunning|`@Compendium[pf2e.pathfinder-bestiary-2.5qgx9qhXAceS6uLh]`|
 |[](pathfinder-bestiary-2-items/XuX1YKa36ctJmZJH.htm)|Explosive Rebirth|`@Compendium[pf2e.pathfinder-bestiary-2.XuX1YKa36ctJmZJH]`|
 |[](pathfinder-bestiary-2-items/KF8TJluc2GTgVJhl.htm)|Paddle|`@Compendium[pf2e.pathfinder-bestiary-2.KF8TJluc2GTgVJhl]`|
 |[](pathfinder-bestiary-2-items/vVt7KeVPbqT0jHZQ.htm)|Clutch|`@Compendium[pf2e.pathfinder-bestiary-2.vVt7KeVPbqT0jHZQ]`|
-|[](pathfinder-bestiary-2-items/gm4ckzxne8UYVaZg.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.gm4ckzxne8UYVaZg]`|
 |[](pathfinder-bestiary-2-items/abGmJgduMKED2VeX.htm)|Chupar|`@Compendium[pf2e.pathfinder-bestiary-2.abGmJgduMKED2VeX]`|
 |[](pathfinder-bestiary-2-items/AldxbbHYC1u6qB4A.htm)|Vulnerable to Gentle Repose|`@Compendium[pf2e.pathfinder-bestiary-2.AldxbbHYC1u6qB4A]`|
 |[](pathfinder-bestiary-2-items/jtcA1Dklz2pAKWhI.htm)|Ghost Bane|`@Compendium[pf2e.pathfinder-bestiary-2.jtcA1Dklz2pAKWhI]`|
@@ -5167,9 +5159,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/WbbgLFwKjXAiRHsC.htm)|Whipping Tentacles|`@Compendium[pf2e.pathfinder-bestiary-2.WbbgLFwKjXAiRHsC]`|
 |[](pathfinder-bestiary-2-items/YHmyiWDMvEgujfl1.htm)|Bully's Bludgeon|`@Compendium[pf2e.pathfinder-bestiary-2.YHmyiWDMvEgujfl1]`|
 |[](pathfinder-bestiary-2-items/2waLtCSTbFL4Q6ta.htm)|Regeneration 15 (deactivated by acid or fire)|`@Compendium[pf2e.pathfinder-bestiary-2.2waLtCSTbFL4Q6ta]`|
-|[](pathfinder-bestiary-2-items/DDI0cQeKx8SLhTUR.htm)|Swift Swimmer|`@Compendium[pf2e.pathfinder-bestiary-2.DDI0cQeKx8SLhTUR]`|
-|[](pathfinder-bestiary-2-items/ZwOinMaTzmRM28rJ.htm)|Shadow Scream|`@Compendium[pf2e.pathfinder-bestiary-2.ZwOinMaTzmRM28rJ]`|
-|[](pathfinder-bestiary-2-items/WPVTRIdQSTbDZImk.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.WPVTRIdQSTbDZImk]`|
 |[](pathfinder-bestiary-2-items/R1voQq09UIwdTVP5.htm)|Mercy Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.R1voQq09UIwdTVP5]`|
 |[](pathfinder-bestiary-2-items/itoyZJLBh98BavI1.htm)|Entrench|`@Compendium[pf2e.pathfinder-bestiary-2.itoyZJLBh98BavI1]`|
 |[](pathfinder-bestiary-2-items/sJmlL0pxIhzEUZxO.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.sJmlL0pxIhzEUZxO]`|
@@ -5185,7 +5174,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/kBxRAEuGBWNPM636.htm)|Language Adaptation|`@Compendium[pf2e.pathfinder-bestiary-2.kBxRAEuGBWNPM636]`|
 |[](pathfinder-bestiary-2-items/Q0VRtsqm6etoZxCa.htm)|Shadow Doubles|`@Compendium[pf2e.pathfinder-bestiary-2.Q0VRtsqm6etoZxCa]`|
 |[](pathfinder-bestiary-2-items/E4bINR3oniilC0ba.htm)|Shell Defense|`@Compendium[pf2e.pathfinder-bestiary-2.E4bINR3oniilC0ba]`|
-|[](pathfinder-bestiary-2-items/wrisTXltKN2ggF1B.htm)|Mandragora Venom|`@Compendium[pf2e.pathfinder-bestiary-2.wrisTXltKN2ggF1B]`|
 |[](pathfinder-bestiary-2-items/JLqzN2RUPFKa8beH.htm)|Reflect Spell|`@Compendium[pf2e.pathfinder-bestiary-2.JLqzN2RUPFKa8beH]`|
 |[](pathfinder-bestiary-2-items/giVESjdTpw33NygU.htm)|Norn Shears|`@Compendium[pf2e.pathfinder-bestiary-2.giVESjdTpw33NygU]`|
 |[](pathfinder-bestiary-2-items/PQ87JPdxzlCptXn6.htm)|Tick Fever|`@Compendium[pf2e.pathfinder-bestiary-2.PQ87JPdxzlCptXn6]`|
@@ -5204,13 +5192,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/8Mkj5lFXbki11UgV.htm)|Infernal Mindlink|`@Compendium[pf2e.pathfinder-bestiary-2.8Mkj5lFXbki11UgV]`|
 |[](pathfinder-bestiary-2-items/chnUQOapjPm4tXAS.htm)|Calming Presence|`@Compendium[pf2e.pathfinder-bestiary-2.chnUQOapjPm4tXAS]`|
 |[](pathfinder-bestiary-2-items/voMMMHUogUu7LSeF.htm)|Mocking Touch|`@Compendium[pf2e.pathfinder-bestiary-2.voMMMHUogUu7LSeF]`|
-|[](pathfinder-bestiary-2-items/lQZGx8hWnzcG2R6l.htm)|Dazzling Brilliance|`@Compendium[pf2e.pathfinder-bestiary-2.lQZGx8hWnzcG2R6l]`|
 |[](pathfinder-bestiary-2-items/atrOWDXVF87vS3KI.htm)|Curse of the Crooked Cane|`@Compendium[pf2e.pathfinder-bestiary-2.atrOWDXVF87vS3KI]`|
 |[](pathfinder-bestiary-2-items/ABqHj13JWyqTUohA.htm)|Misty Tendril|`@Compendium[pf2e.pathfinder-bestiary-2.ABqHj13JWyqTUohA]`|
 |[](pathfinder-bestiary-2-items/czBySBdDeH7WSORn.htm)|Spell Pilfer|`@Compendium[pf2e.pathfinder-bestiary-2.czBySBdDeH7WSORn]`|
 |[](pathfinder-bestiary-2-items/bk1rrI0FiHN6P4an.htm)|Rapid Stinging|`@Compendium[pf2e.pathfinder-bestiary-2.bk1rrI0FiHN6P4an]`|
 |[](pathfinder-bestiary-2-items/fiKhFiynAYN8X5if.htm)|Gemsight|`@Compendium[pf2e.pathfinder-bestiary-2.fiKhFiynAYN8X5if]`|
-|[](pathfinder-bestiary-2-items/lIiFggTlCNveUaJM.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.lIiFggTlCNveUaJM]`|
 |[](pathfinder-bestiary-2-items/obCe64sZedFgSWGQ.htm)|Luring Cry|`@Compendium[pf2e.pathfinder-bestiary-2.obCe64sZedFgSWGQ]`|
 |[](pathfinder-bestiary-2-items/DU6e2UkT2fc49Zk3.htm)|Lesser Alchemist's Fire|`@Compendium[pf2e.pathfinder-bestiary-2.DU6e2UkT2fc49Zk3]`|
 |[](pathfinder-bestiary-2-items/QK7BnQXUv5A7jm84.htm)|Warden of Erebus|`@Compendium[pf2e.pathfinder-bestiary-2.QK7BnQXUv5A7jm84]`|
@@ -5240,7 +5226,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/76jTiA45mzSvkuz1.htm)|Antler|`@Compendium[pf2e.pathfinder-bestiary-2.76jTiA45mzSvkuz1]`|
 |[](pathfinder-bestiary-2-items/JHlhwEGUybavtbTq.htm)|Living Form|`@Compendium[pf2e.pathfinder-bestiary-2.JHlhwEGUybavtbTq]`|
 |[](pathfinder-bestiary-2-items/mcIvTT80sYixnl9W.htm)|Nauseating Display|`@Compendium[pf2e.pathfinder-bestiary-2.mcIvTT80sYixnl9W]`|
-|[](pathfinder-bestiary-2-items/x97vWevUTEMqeOCJ.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.x97vWevUTEMqeOCJ]`|
 |[](pathfinder-bestiary-2-items/2oTY3Ohbh0C59vOv.htm)|Curse of Drowning|`@Compendium[pf2e.pathfinder-bestiary-2.2oTY3Ohbh0C59vOv]`|
 |[](pathfinder-bestiary-2-items/PF6tfwJNh5sVOavs.htm)|Thrashing Retreat|`@Compendium[pf2e.pathfinder-bestiary-2.PF6tfwJNh5sVOavs]`|
 |[](pathfinder-bestiary-2-items/lJ7R0wPVIxspGA72.htm)|Smoke Form|`@Compendium[pf2e.pathfinder-bestiary-2.lJ7R0wPVIxspGA72]`|
@@ -5268,14 +5253,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/djpxVgfWCno4NZwq.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.djpxVgfWCno4NZwq]`|
 |[](pathfinder-bestiary-2-items/pSl7SmKRkTYkQI1N.htm)|Stone Curse|`@Compendium[pf2e.pathfinder-bestiary-2.pSl7SmKRkTYkQI1N]`|
 |[](pathfinder-bestiary-2-items/tZ28zS8D4Ibrkmjl.htm)|Thunderbolt|`@Compendium[pf2e.pathfinder-bestiary-2.tZ28zS8D4Ibrkmjl]`|
-|[](pathfinder-bestiary-2-items/w0XMZ6GmkzJcCRyO.htm)|Piercing Shriek|`@Compendium[pf2e.pathfinder-bestiary-2.w0XMZ6GmkzJcCRyO]`|
 |[](pathfinder-bestiary-2-items/h68Rp5GCPIpGGeyq.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.h68Rp5GCPIpGGeyq]`|
 |[](pathfinder-bestiary-2-items/MwuE7Ua1AaKVpFBo.htm)|Peluda Venom|`@Compendium[pf2e.pathfinder-bestiary-2.MwuE7Ua1AaKVpFBo]`|
 |[](pathfinder-bestiary-2-items/zvArmvrursLxbgGq.htm)|Gnaw Flesh|`@Compendium[pf2e.pathfinder-bestiary-2.zvArmvrursLxbgGq]`|
 |[](pathfinder-bestiary-2-items/2svyNegNoV205Fbp.htm)|Icy Demise|`@Compendium[pf2e.pathfinder-bestiary-2.2svyNegNoV205Fbp]`|
-|[](pathfinder-bestiary-2-items/RkzJDhpWzxqQXiAq.htm)|Strafing Rush|`@Compendium[pf2e.pathfinder-bestiary-2.RkzJDhpWzxqQXiAq]`|
 |[](pathfinder-bestiary-2-items/DfbcYHdJzDXVkgEs.htm)|Swallow Whole|`@Compendium[pf2e.pathfinder-bestiary-2.DfbcYHdJzDXVkgEs]`|
-|[](pathfinder-bestiary-2-items/kvsmf0ENkLJSdBP2.htm)|Dominate Animal|`@Compendium[pf2e.pathfinder-bestiary-2.kvsmf0ENkLJSdBP2]`|
 |[](pathfinder-bestiary-2-items/RvyDbBs5muX2yHdI.htm)|Stolen Death|`@Compendium[pf2e.pathfinder-bestiary-2.RvyDbBs5muX2yHdI]`|
 |[](pathfinder-bestiary-2-items/yZgxFF5bgFKbTkUO.htm)|Swallow Whole|`@Compendium[pf2e.pathfinder-bestiary-2.yZgxFF5bgFKbTkUO]`|
 |[](pathfinder-bestiary-2-items/NCoI7vXSD3LDfPTM.htm)|Rapid Rake|`@Compendium[pf2e.pathfinder-bestiary-2.NCoI7vXSD3LDfPTM]`|
@@ -5295,20 +5277,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/MY7iImbmJzLQjtsK.htm)|Lifesense 60 feet|`@Compendium[pf2e.pathfinder-bestiary-2.MY7iImbmJzLQjtsK]`|
 |[](pathfinder-bestiary-2-items/52OH24WzpzdT3ptJ.htm)|Envisioning|`@Compendium[pf2e.pathfinder-bestiary-2.52OH24WzpzdT3ptJ]`|
 |[](pathfinder-bestiary-2-items/h282lP6zRpC6R83o.htm)|Swarming Infestation|`@Compendium[pf2e.pathfinder-bestiary-2.h282lP6zRpC6R83o]`|
-|[](pathfinder-bestiary-2-items/YlO5up5kkSrroKf6.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary-2.YlO5up5kkSrroKf6]`|
 |[](pathfinder-bestiary-2-items/43gvQaRJhhjmfG3Z.htm)|Blood Drain|`@Compendium[pf2e.pathfinder-bestiary-2.43gvQaRJhhjmfG3Z]`|
 |[](pathfinder-bestiary-2-items/sMQewzNATahHc65F.htm)|Death Implosion|`@Compendium[pf2e.pathfinder-bestiary-2.sMQewzNATahHc65F]`|
-|[](pathfinder-bestiary-2-items/uot20BQOy52S73qO.htm)|Steal Breath|`@Compendium[pf2e.pathfinder-bestiary-2.uot20BQOy52S73qO]`|
 |[](pathfinder-bestiary-2-items/OYFgzf5Q5j6UeJhf.htm)|Jaws|`@Compendium[pf2e.pathfinder-bestiary-2.OYFgzf5Q5j6UeJhf]`|
 |[](pathfinder-bestiary-2-items/B73QNqTjGdZQ9uba.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary-2.B73QNqTjGdZQ9uba]`|
-|[](pathfinder-bestiary-2-items/gJMFRPJuO2fffH1c.htm)|Deflecting Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.gJMFRPJuO2fffH1c]`|
 |[](pathfinder-bestiary-2-items/cUtNYZ935fPsgj8x.htm)|Brine Spit|`@Compendium[pf2e.pathfinder-bestiary-2.cUtNYZ935fPsgj8x]`|
 |[](pathfinder-bestiary-2-items/yH19s0CEMs71KZgv.htm)|+1 Status to All Saves vs Positive|`@Compendium[pf2e.pathfinder-bestiary-2.yH19s0CEMs71KZgv]`|
 |[](pathfinder-bestiary-2-items/WdzuTa2nPDcswvjz.htm)|Disgorged Mucus|`@Compendium[pf2e.pathfinder-bestiary-2.WdzuTa2nPDcswvjz]`|
 |[](pathfinder-bestiary-2-items/cPD60wC9FBtIdzPL.htm)|Head Regrowth|`@Compendium[pf2e.pathfinder-bestiary-2.cPD60wC9FBtIdzPL]`|
 |[](pathfinder-bestiary-2-items/vKcQxEXLQx45iyeq.htm)|Grimstalker Sap|`@Compendium[pf2e.pathfinder-bestiary-2.vKcQxEXLQx45iyeq]`|
 |[](pathfinder-bestiary-2-items/QleXAKxC6oYMhWIK.htm)|Roll|`@Compendium[pf2e.pathfinder-bestiary-2.QleXAKxC6oYMhWIK]`|
-|[](pathfinder-bestiary-2-items/54mSt8tnFXfSUjhU.htm)|Cling|`@Compendium[pf2e.pathfinder-bestiary-2.54mSt8tnFXfSUjhU]`|
 |[](pathfinder-bestiary-2-items/kryZwH2P5QUcvtyI.htm)|Split|`@Compendium[pf2e.pathfinder-bestiary-2.kryZwH2P5QUcvtyI]`|
 |[](pathfinder-bestiary-2-items/uDxnASCZGKnXfoQw.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.uDxnASCZGKnXfoQw]`|
 |[](pathfinder-bestiary-2-items/CAKfIK6WRhkgpCW2.htm)|Living Footsteps|`@Compendium[pf2e.pathfinder-bestiary-2.CAKfIK6WRhkgpCW2]`|
@@ -5319,7 +5297,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/TtqhvUO0vvhjbIFp.htm)|Exorcism Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.TtqhvUO0vvhjbIFp]`|
 |[](pathfinder-bestiary-2-items/tikGFRXVhGNo3ahM.htm)|Hammer|`@Compendium[pf2e.pathfinder-bestiary-2.tikGFRXVhGNo3ahM]`|
 |[](pathfinder-bestiary-2-items/EDGqAUdAUwkbCzQK.htm)|Spew Mud|`@Compendium[pf2e.pathfinder-bestiary-2.EDGqAUdAUwkbCzQK]`|
-|[](pathfinder-bestiary-2-items/JOeW89FGrajDYQsW.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.JOeW89FGrajDYQsW]`|
 |[](pathfinder-bestiary-2-items/TdOAA9HgzD5psJwW.htm)|Pull Filament|`@Compendium[pf2e.pathfinder-bestiary-2.TdOAA9HgzD5psJwW]`|
 |[](pathfinder-bestiary-2-items/pke6bvuCCSuidMVb.htm)|Poisonous Touch|`@Compendium[pf2e.pathfinder-bestiary-2.pke6bvuCCSuidMVb]`|
 |[](pathfinder-bestiary-2-items/xijGvHanHygeHGCM.htm)|Hurl Blade|`@Compendium[pf2e.pathfinder-bestiary-2.xijGvHanHygeHGCM]`|
@@ -5331,10 +5308,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/mKdD7XKIAXJx8KnC.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.mKdD7XKIAXJx8KnC]`|
 |[](pathfinder-bestiary-2-items/tkqzuUsreLrNt0sh.htm)|Aquatic Echolocation|`@Compendium[pf2e.pathfinder-bestiary-2.tkqzuUsreLrNt0sh]`|
 |[](pathfinder-bestiary-2-items/Gbcpa6lIhj2KUyH4.htm)|Rampant Growth|`@Compendium[pf2e.pathfinder-bestiary-2.Gbcpa6lIhj2KUyH4]`|
-|[](pathfinder-bestiary-2-items/T4cC9H9vxNTUqnco.htm)|Deflecting Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.T4cC9H9vxNTUqnco]`|
 |[](pathfinder-bestiary-2-items/c2nQF7qTMD3mwnrM.htm)|Stingray Venom|`@Compendium[pf2e.pathfinder-bestiary-2.c2nQF7qTMD3mwnrM]`|
 |[](pathfinder-bestiary-2-items/T5aqHU7uB2IvWwrg.htm)|Surgical Rend|`@Compendium[pf2e.pathfinder-bestiary-2.T5aqHU7uB2IvWwrg]`|
-|[](pathfinder-bestiary-2-items/t3cnDaUX26zIroa8.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.t3cnDaUX26zIroa8]`|
 |[](pathfinder-bestiary-2-items/QaqXp54jr3aKQjWN.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary-2.QaqXp54jr3aKQjWN]`|
 |[](pathfinder-bestiary-2-items/gHUajYINDeCp7360.htm)|Echolocation 120 feet|`@Compendium[pf2e.pathfinder-bestiary-2.gHUajYINDeCp7360]`|
 |[](pathfinder-bestiary-2-items/WVChw6DFgtcfsrAf.htm)|Swarming Beaks|`@Compendium[pf2e.pathfinder-bestiary-2.WVChw6DFgtcfsrAf]`|
@@ -5348,7 +5323,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/lWr6fzaJ1ya4uUVM.htm)|Deflect Arrow|`@Compendium[pf2e.pathfinder-bestiary-2.lWr6fzaJ1ya4uUVM]`|
 |[](pathfinder-bestiary-2-items/TNAO4qk6h9SrlrOP.htm)|Sever Fate|`@Compendium[pf2e.pathfinder-bestiary-2.TNAO4qk6h9SrlrOP]`|
 |[](pathfinder-bestiary-2-items/Sv1H3JJKwu64RfI1.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.Sv1H3JJKwu64RfI1]`|
-|[](pathfinder-bestiary-2-items/WleXuHzXfn7II29b.htm)|Yamaraj Venom|`@Compendium[pf2e.pathfinder-bestiary-2.WleXuHzXfn7II29b]`|
 |[](pathfinder-bestiary-2-items/Uoxf8sSuS6pG7QQF.htm)|Pod Spawn|`@Compendium[pf2e.pathfinder-bestiary-2.Uoxf8sSuS6pG7QQF]`|
 |[](pathfinder-bestiary-2-items/sW9lqWGbyXr7xeXh.htm)|Swallow Whole|`@Compendium[pf2e.pathfinder-bestiary-2.sW9lqWGbyXr7xeXh]`|
 |[](pathfinder-bestiary-2-items/jJ8meK8Q70uy8CHT.htm)|Scent (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.jJ8meK8Q70uy8CHT]`|
@@ -5362,7 +5336,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/n4WaiTMOMHY2C2Rc.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.n4WaiTMOMHY2C2Rc]`|
 |[](pathfinder-bestiary-2-items/u3s5y4pE6L6HfEAq.htm)|Malleability|`@Compendium[pf2e.pathfinder-bestiary-2.u3s5y4pE6L6HfEAq]`|
 |[](pathfinder-bestiary-2-items/xcs2mYc8h9YshZle.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary-2.xcs2mYc8h9YshZle]`|
-|[](pathfinder-bestiary-2-items/JIKJPPU6aBax4pjD.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.JIKJPPU6aBax4pjD]`|
 |[](pathfinder-bestiary-2-items/fiJwhvqSCYbkgaJg.htm)|Swear|`@Compendium[pf2e.pathfinder-bestiary-2.fiJwhvqSCYbkgaJg]`|
 |[](pathfinder-bestiary-2-items/FNBiiooVEkzVDOTE.htm)|Regeneration 10 (Deactivated by Good or Silver)|`@Compendium[pf2e.pathfinder-bestiary-2.FNBiiooVEkzVDOTE]`|
 |[](pathfinder-bestiary-2-items/XSN5GyOi1NAbLqve.htm)|Holy Armaments|`@Compendium[pf2e.pathfinder-bestiary-2.XSN5GyOi1NAbLqve]`|
@@ -5378,7 +5351,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/7pxsxbazh1PpK8A4.htm)|Fast Healing 10|`@Compendium[pf2e.pathfinder-bestiary-2.7pxsxbazh1PpK8A4]`|
 |[](pathfinder-bestiary-2-items/s7GGq81IzCx73D2B.htm)|Call to Blood|`@Compendium[pf2e.pathfinder-bestiary-2.s7GGq81IzCx73D2B]`|
 |[](pathfinder-bestiary-2-items/GcxVApKgeD5WO9Wh.htm)|Desiccating Bite|`@Compendium[pf2e.pathfinder-bestiary-2.GcxVApKgeD5WO9Wh]`|
-|[](pathfinder-bestiary-2-items/H9cKHc9OAHiXKDzf.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.H9cKHc9OAHiXKDzf]`|
 |[](pathfinder-bestiary-2-items/sbPAeP8uZ3oiRj7q.htm)|Tangling Chains|`@Compendium[pf2e.pathfinder-bestiary-2.sbPAeP8uZ3oiRj7q]`|
 |[](pathfinder-bestiary-2-items/ezme3D83xTKiLkhR.htm)|Final End|`@Compendium[pf2e.pathfinder-bestiary-2.ezme3D83xTKiLkhR]`|
 |[](pathfinder-bestiary-2-items/3gCf4mj9ynEcSXVi.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.3gCf4mj9ynEcSXVi]`|
@@ -5389,7 +5361,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/lqG3xn6Di5qPS55E.htm)|Drain Soul|`@Compendium[pf2e.pathfinder-bestiary-2.lqG3xn6Di5qPS55E]`|
 |[](pathfinder-bestiary-2-items/pepIdjNqJtUTl9Wn.htm)|Endless Nightmare|`@Compendium[pf2e.pathfinder-bestiary-2.pepIdjNqJtUTl9Wn]`|
 |[](pathfinder-bestiary-2-items/6Psn5RSYm8UGDpwM.htm)|Pod Prison|`@Compendium[pf2e.pathfinder-bestiary-2.6Psn5RSYm8UGDpwM]`|
-|[](pathfinder-bestiary-2-items/sSAVmevencpx75UB.htm)|Pestilential Aura|`@Compendium[pf2e.pathfinder-bestiary-2.sSAVmevencpx75UB]`|
 |[](pathfinder-bestiary-2-items/injH2iWqg5QjQiqs.htm)|Blade|`@Compendium[pf2e.pathfinder-bestiary-2.injH2iWqg5QjQiqs]`|
 |[](pathfinder-bestiary-2-items/5WLytdwKYQa3JLh7.htm)|Malleable|`@Compendium[pf2e.pathfinder-bestiary-2.5WLytdwKYQa3JLh7]`|
 |[](pathfinder-bestiary-2-items/FhwufRLfw0dtrKFI.htm)|Kneecapper|`@Compendium[pf2e.pathfinder-bestiary-2.FhwufRLfw0dtrKFI]`|
@@ -5399,7 +5370,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/OeHuAJLeUtdJFHfo.htm)|Rhinoceros Charge|`@Compendium[pf2e.pathfinder-bestiary-2.OeHuAJLeUtdJFHfo]`|
 |[](pathfinder-bestiary-2-items/F2cUCIHpa06Qkqy2.htm)|Squeeze|`@Compendium[pf2e.pathfinder-bestiary-2.F2cUCIHpa06Qkqy2]`|
 |[](pathfinder-bestiary-2-items/3YdQIsd5sKYMGTIc.htm)|Regurgitation|`@Compendium[pf2e.pathfinder-bestiary-2.3YdQIsd5sKYMGTIc]`|
-|[](pathfinder-bestiary-2-items/D1R03gCQbWQLLgtL.htm)|Splinter Volley|`@Compendium[pf2e.pathfinder-bestiary-2.D1R03gCQbWQLLgtL]`|
 |[](pathfinder-bestiary-2-items/o4uNCohL2RA2ShrG.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary-2.o4uNCohL2RA2ShrG]`|
 |[](pathfinder-bestiary-2-items/Cj8UIWLOhEQ5yNgA.htm)|Body Strike|`@Compendium[pf2e.pathfinder-bestiary-2.Cj8UIWLOhEQ5yNgA]`|
 |[](pathfinder-bestiary-2-items/fon9lS38svdiFHZJ.htm)|Greedy Grab|`@Compendium[pf2e.pathfinder-bestiary-2.fon9lS38svdiFHZJ]`|
@@ -5411,7 +5381,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/GYapjknILGOMiV84.htm)|-2 Status Bonus on Saves vs Curses|`@Compendium[pf2e.pathfinder-bestiary-2.GYapjknILGOMiV84]`|
 |[](pathfinder-bestiary-2-items/CdF08U1FHM2c2DIB.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.CdF08U1FHM2c2DIB]`|
 |[](pathfinder-bestiary-2-items/jQ0BoxOUmGdOkGIf.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.jQ0BoxOUmGdOkGIf]`|
-|[](pathfinder-bestiary-2-items/7ibCw6e1BSbQ94NW.htm)|Lurker's Glow|`@Compendium[pf2e.pathfinder-bestiary-2.7ibCw6e1BSbQ94NW]`|
 |[](pathfinder-bestiary-2-items/Sg3CFomZepZdIWcH.htm)|Death Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.Sg3CFomZepZdIWcH]`|
 |[](pathfinder-bestiary-2-items/MJIrkULpmp4soA0F.htm)|Rolling Charge|`@Compendium[pf2e.pathfinder-bestiary-2.MJIrkULpmp4soA0F]`|
 |[](pathfinder-bestiary-2-items/4PafOhYr090tdIQE.htm)|Aging Strikes|`@Compendium[pf2e.pathfinder-bestiary-2.4PafOhYr090tdIQE]`|
@@ -5430,7 +5399,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/lD6n6NYRsC4x82eE.htm)|Fire Missile|`@Compendium[pf2e.pathfinder-bestiary-2.lD6n6NYRsC4x82eE]`|
 |[](pathfinder-bestiary-2-items/nrHgXy7XizFWsPFe.htm)|Dweomer Leap|`@Compendium[pf2e.pathfinder-bestiary-2.nrHgXy7XizFWsPFe]`|
 |[](pathfinder-bestiary-2-items/8JPlEU0ps7X2hfP6.htm)|Flower|`@Compendium[pf2e.pathfinder-bestiary-2.8JPlEU0ps7X2hfP6]`|
-|[](pathfinder-bestiary-2-items/vP6KGkCy0KpMQarQ.htm)|Sense Portal|`@Compendium[pf2e.pathfinder-bestiary-2.vP6KGkCy0KpMQarQ]`|
 |[](pathfinder-bestiary-2-items/LGmgWdigRZKEMwNq.htm)|Swallow Whole|`@Compendium[pf2e.pathfinder-bestiary-2.LGmgWdigRZKEMwNq]`|
 |[](pathfinder-bestiary-2-items/xOfT1xQ4weGRsYHu.htm)|Radiant Blast|`@Compendium[pf2e.pathfinder-bestiary-2.xOfT1xQ4weGRsYHu]`|
 |[](pathfinder-bestiary-2-items/GCC6Zf1NaPihfEJ0.htm)|Tangle Spores|`@Compendium[pf2e.pathfinder-bestiary-2.GCC6Zf1NaPihfEJ0]`|
@@ -5441,7 +5409,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/FKpHGfQVea81uMo2.htm)|Motionsense|`@Compendium[pf2e.pathfinder-bestiary-2.FKpHGfQVea81uMo2]`|
 |[](pathfinder-bestiary-2-items/qoSUaPSmr9BrJU8V.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.qoSUaPSmr9BrJU8V]`|
 |[](pathfinder-bestiary-2-items/28xyMG8bDPJrcRsP.htm)|Death-Stealing Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.28xyMG8bDPJrcRsP]`|
-|[](pathfinder-bestiary-2-items/nEZNMODnNpwrnUPC.htm)|Final Judgment|`@Compendium[pf2e.pathfinder-bestiary-2.nEZNMODnNpwrnUPC]`|
 |[](pathfinder-bestiary-2-items/RRuGVF2WBzHvPAD4.htm)|Vine|`@Compendium[pf2e.pathfinder-bestiary-2.RRuGVF2WBzHvPAD4]`|
 |[](pathfinder-bestiary-2-items/G412UtVloe7PIpa4.htm)|+2 Status to All Saves vs Disease and Poison|`@Compendium[pf2e.pathfinder-bestiary-2.G412UtVloe7PIpa4]`|
 |[](pathfinder-bestiary-2-items/eb6RXroslhq0fMd9.htm)|Extra Reaction|`@Compendium[pf2e.pathfinder-bestiary-2.eb6RXroslhq0fMd9]`|
@@ -5454,14 +5421,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/XmKUjz23s0dNFOYW.htm)|Bog Rot|`@Compendium[pf2e.pathfinder-bestiary-2.XmKUjz23s0dNFOYW]`|
 |[](pathfinder-bestiary-2-items/CsYqT7LTtX34B3Yz.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.CsYqT7LTtX34B3Yz]`|
 |[](pathfinder-bestiary-2-items/6qDqRA2Nq93rsvx9.htm)|Greater Electrolocation|`@Compendium[pf2e.pathfinder-bestiary-2.6qDqRA2Nq93rsvx9]`|
-|[](pathfinder-bestiary-2-items/khgGPSxgTQcgev3o.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.khgGPSxgTQcgev3o]`|
 |[](pathfinder-bestiary-2-items/xq3V1P1OXiEGcqZs.htm)|Angled Entry|`@Compendium[pf2e.pathfinder-bestiary-2.xq3V1P1OXiEGcqZs]`|
 |[](pathfinder-bestiary-2-items/iCMR05ML275h0Gek.htm)|Rebirth|`@Compendium[pf2e.pathfinder-bestiary-2.iCMR05ML275h0Gek]`|
 |[](pathfinder-bestiary-2-items/Hd5SG091X71rJV1D.htm)|Confusing Display|`@Compendium[pf2e.pathfinder-bestiary-2.Hd5SG091X71rJV1D]`|
 |[](pathfinder-bestiary-2-items/9EJRdPBHkHMyY0yk.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.9EJRdPBHkHMyY0yk]`|
 |[](pathfinder-bestiary-2-items/okXnipjpQrYq6vGT.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.okXnipjpQrYq6vGT]`|
 |[](pathfinder-bestiary-2-items/quht5jPh2LiFjJft.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.quht5jPh2LiFjJft]`|
-|[](pathfinder-bestiary-2-items/Z1uxEMSqDnZV9SCY.htm)|Glow|`@Compendium[pf2e.pathfinder-bestiary-2.Z1uxEMSqDnZV9SCY]`|
 |[](pathfinder-bestiary-2-items/AySAWmXmOwHrjkuG.htm)|Vine|`@Compendium[pf2e.pathfinder-bestiary-2.AySAWmXmOwHrjkuG]`|
 |[](pathfinder-bestiary-2-items/xKGmyTmllHIjiYO0.htm)|Earth Shaker|`@Compendium[pf2e.pathfinder-bestiary-2.xKGmyTmllHIjiYO0]`|
 |[](pathfinder-bestiary-2-items/P6oJVM0MDCy82QgU.htm)|Shadow Blending|`@Compendium[pf2e.pathfinder-bestiary-2.P6oJVM0MDCy82QgU]`|
@@ -5496,7 +5461,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/v0kg2s0AeP7Pv7zn.htm)|Ravenous Jaws|`@Compendium[pf2e.pathfinder-bestiary-2.v0kg2s0AeP7Pv7zn]`|
 |[](pathfinder-bestiary-2-items/OSiq1CXChzTT7udW.htm)|Spectral Corruption|`@Compendium[pf2e.pathfinder-bestiary-2.OSiq1CXChzTT7udW]`|
 |[](pathfinder-bestiary-2-items/Pxxc4fNbFR6zlG0y.htm)|Web Trap|`@Compendium[pf2e.pathfinder-bestiary-2.Pxxc4fNbFR6zlG0y]`|
-|[](pathfinder-bestiary-2-items/sguXTwhSIa1swJ1p.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary-2.sguXTwhSIa1swJ1p]`|
 |[](pathfinder-bestiary-2-items/P92CxO5qbGv9LPbu.htm)|Snip Thread|`@Compendium[pf2e.pathfinder-bestiary-2.P92CxO5qbGv9LPbu]`|
 |[](pathfinder-bestiary-2-items/IPLCR3K5wWzQiSHK.htm)|Discharge|`@Compendium[pf2e.pathfinder-bestiary-2.IPLCR3K5wWzQiSHK]`|
 |[](pathfinder-bestiary-2-items/ByGE43xowJglhHxP.htm)|Reactive Strikes|`@Compendium[pf2e.pathfinder-bestiary-2.ByGE43xowJglhHxP]`|
@@ -5515,14 +5479,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/Y7LW92BfHBvUX6RP.htm)|Forfeiture Aversion|`@Compendium[pf2e.pathfinder-bestiary-2.Y7LW92BfHBvUX6RP]`|
 |[](pathfinder-bestiary-2-items/AKHyZQZIqFBrYLLC.htm)|Tilting Strike|`@Compendium[pf2e.pathfinder-bestiary-2.AKHyZQZIqFBrYLLC]`|
 |[](pathfinder-bestiary-2-items/FH5MdxzW5lzQE9Hf.htm)|Regeneration 7 (deactivated by acid or fire)|`@Compendium[pf2e.pathfinder-bestiary-2.FH5MdxzW5lzQE9Hf]`|
-|[](pathfinder-bestiary-2-items/TxRwH6kafpwqJtmQ.htm)|Truespeech|`@Compendium[pf2e.pathfinder-bestiary-2.TxRwH6kafpwqJtmQ]`|
 |[](pathfinder-bestiary-2-items/BfQDGpd8cSNGgENd.htm)|Retract Tongue|`@Compendium[pf2e.pathfinder-bestiary-2.BfQDGpd8cSNGgENd]`|
 |[](pathfinder-bestiary-2-items/rQn75QJUJH2hQKpE.htm)|Chain of Malebolge|`@Compendium[pf2e.pathfinder-bestiary-2.rQn75QJUJH2hQKpE]`|
 |[](pathfinder-bestiary-2-items/D13sjvjuSrxFEe35.htm)|No Breath|`@Compendium[pf2e.pathfinder-bestiary-2.D13sjvjuSrxFEe35]`|
 |[](pathfinder-bestiary-2-items/UuUlz5A5IwoGhe6n.htm)|Frightful Strike|`@Compendium[pf2e.pathfinder-bestiary-2.UuUlz5A5IwoGhe6n]`|
 |[](pathfinder-bestiary-2-items/j4OHhvOuFnXfbDjB.htm)|Spell Feedback|`@Compendium[pf2e.pathfinder-bestiary-2.j4OHhvOuFnXfbDjB]`|
 |[](pathfinder-bestiary-2-items/TAIcUgt3JKg5c7fV.htm)|Scarecrow's Leer|`@Compendium[pf2e.pathfinder-bestiary-2.TAIcUgt3JKg5c7fV]`|
-|[](pathfinder-bestiary-2-items/gI0Pt3FCseRtdPpl.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.gI0Pt3FCseRtdPpl]`|
 |[](pathfinder-bestiary-2-items/MSbm9DhCPOKdhf7m.htm)|Drink Flesh|`@Compendium[pf2e.pathfinder-bestiary-2.MSbm9DhCPOKdhf7m]`|
 |[](pathfinder-bestiary-2-items/PSqd8jopT7V35lJt.htm)|Hands of the Murderer|`@Compendium[pf2e.pathfinder-bestiary-2.PSqd8jopT7V35lJt]`|
 |[](pathfinder-bestiary-2-items/7HuZlfRX4ZQI1GwE.htm)|Blade|`@Compendium[pf2e.pathfinder-bestiary-2.7HuZlfRX4ZQI1GwE]`|
@@ -5547,7 +5509,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/3AqKPdexSndZxd5X.htm)|Rend|`@Compendium[pf2e.pathfinder-bestiary-2.3AqKPdexSndZxd5X]`|
 |[](pathfinder-bestiary-2-items/1dUOZTn32vZg4Reo.htm)|Jaws|`@Compendium[pf2e.pathfinder-bestiary-2.1dUOZTn32vZg4Reo]`|
 |[](pathfinder-bestiary-2-items/KF7pVWIzuG4o2wMP.htm)|Holy Mace|`@Compendium[pf2e.pathfinder-bestiary-2.KF7pVWIzuG4o2wMP]`|
-|[](pathfinder-bestiary-2-items/rs8cxUHAMnuhP7nv.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.rs8cxUHAMnuhP7nv]`|
 |[](pathfinder-bestiary-2-items/fVaZtygxTBUfppLk.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.fVaZtygxTBUfppLk]`|
 |[](pathfinder-bestiary-2-items/lflIfQcsvaJJEVL7.htm)|Proboscis|`@Compendium[pf2e.pathfinder-bestiary-2.lflIfQcsvaJJEVL7]`|
 |[](pathfinder-bestiary-2-items/cDS4azJaDaRZITrQ.htm)|Cold Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.cDS4azJaDaRZITrQ]`|
@@ -5563,9 +5524,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/ysLsaBnQ2SlAerXO.htm)|Fatal Faker|`@Compendium[pf2e.pathfinder-bestiary-2.ysLsaBnQ2SlAerXO]`|
 |[](pathfinder-bestiary-2-items/kli2QsKUO2VSz2oy.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.kli2QsKUO2VSz2oy]`|
 |[](pathfinder-bestiary-2-items/8RH2spsc79xmzAXn.htm)|Allergen Aura|`@Compendium[pf2e.pathfinder-bestiary-2.8RH2spsc79xmzAXn]`|
-|[](pathfinder-bestiary-2-items/WqAfn6xBB95rkCnJ.htm)|Barbed Chain|`@Compendium[pf2e.pathfinder-bestiary-2.WqAfn6xBB95rkCnJ]`|
 |[](pathfinder-bestiary-2-items/6xKgrVRYAjGEO0p7.htm)|Flame Jet|`@Compendium[pf2e.pathfinder-bestiary-2.6xKgrVRYAjGEO0p7]`|
-|[](pathfinder-bestiary-2-items/o4iEKaEBIwAr18XF.htm)|+4 Status Bonus on Will Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.o4iEKaEBIwAr18XF]`|
 |[](pathfinder-bestiary-2-items/AJ6r1HXEEIIyvlnh.htm)|Regeneration 20 (deactivated by cold)|`@Compendium[pf2e.pathfinder-bestiary-2.AJ6r1HXEEIIyvlnh]`|
 |[](pathfinder-bestiary-2-items/khwh43CDMROkIfgf.htm)|Tremorsense (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.khwh43CDMROkIfgf]`|
 |[](pathfinder-bestiary-2-items/k8MjR75C6SWEa6gd.htm)|Flytrap Mouth|`@Compendium[pf2e.pathfinder-bestiary-2.k8MjR75C6SWEa6gd]`|
@@ -5586,7 +5545,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/NNPWYZUGqcGbUeZI.htm)|Summon Aquatic Ally|`@Compendium[pf2e.pathfinder-bestiary-2.NNPWYZUGqcGbUeZI]`|
 |[](pathfinder-bestiary-2-items/lPlAVVeLD4qqvZ8q.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.lPlAVVeLD4qqvZ8q]`|
 |[](pathfinder-bestiary-2-items/mdEZdShzE63nlTQK.htm)|Salt Water Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.mdEZdShzE63nlTQK]`|
-|[](pathfinder-bestiary-2-items/sfWdhP3dRBdtmiol.htm)|Blood Drain|`@Compendium[pf2e.pathfinder-bestiary-2.sfWdhP3dRBdtmiol]`|
 |[](pathfinder-bestiary-2-items/QY55zAJAyvaoflJY.htm)|Nature Empathy|`@Compendium[pf2e.pathfinder-bestiary-2.QY55zAJAyvaoflJY]`|
 |[](pathfinder-bestiary-2-items/HLcMADTgT1nixxce.htm)|Breath of the Bog|`@Compendium[pf2e.pathfinder-bestiary-2.HLcMADTgT1nixxce]`|
 |[](pathfinder-bestiary-2-items/xgpvgBd8BjAbDY4N.htm)|Puddled Ambush|`@Compendium[pf2e.pathfinder-bestiary-2.xgpvgBd8BjAbDY4N]`|
@@ -5595,7 +5553,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/LN7JypAnmAunS0lg.htm)|Twist the Blade|`@Compendium[pf2e.pathfinder-bestiary-2.LN7JypAnmAunS0lg]`|
 |[](pathfinder-bestiary-2-items/cJ2jYiJRZR43AJCJ.htm)|Double Slash|`@Compendium[pf2e.pathfinder-bestiary-2.cJ2jYiJRZR43AJCJ]`|
 |[](pathfinder-bestiary-2-items/QaRhnU95T3Ie2dFP.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.QaRhnU95T3Ie2dFP]`|
-|[](pathfinder-bestiary-2-items/WtMCu7aRag8Z4ewh.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary-2.WtMCu7aRag8Z4ewh]`|
 |[](pathfinder-bestiary-2-items/3LE8g6DKV4fZYrQq.htm)|Regeneration 20 (deactivated by cold iron)|`@Compendium[pf2e.pathfinder-bestiary-2.3LE8g6DKV4fZYrQq]`|
 |[](pathfinder-bestiary-2-items/Ot3tRiGqqRheUAKs.htm)|Crystallize Flesh|`@Compendium[pf2e.pathfinder-bestiary-2.Ot3tRiGqqRheUAKs]`|
 |[](pathfinder-bestiary-2-items/xmYe9vSGZokROsE8.htm)|Blinding Soul|`@Compendium[pf2e.pathfinder-bestiary-2.xmYe9vSGZokROsE8]`|
@@ -5613,7 +5570,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/gkiQGmXDkxDHGY7j.htm)|Mask of Power|`@Compendium[pf2e.pathfinder-bestiary-2.gkiQGmXDkxDHGY7j]`|
 |[](pathfinder-bestiary-2-items/KtjrcbTPGagKVhSc.htm)|Desiccating Bite|`@Compendium[pf2e.pathfinder-bestiary-2.KtjrcbTPGagKVhSc]`|
 |[](pathfinder-bestiary-2-items/ELI8vuFBdrN99fE3.htm)|Tendril|`@Compendium[pf2e.pathfinder-bestiary-2.ELI8vuFBdrN99fE3]`|
-|[](pathfinder-bestiary-2-items/1ENGsx3BESdgdHnk.htm)|Lightning Drinker|`@Compendium[pf2e.pathfinder-bestiary-2.1ENGsx3BESdgdHnk]`|
 |[](pathfinder-bestiary-2-items/eFiZ1wgGbxx9AVu1.htm)|Septic Malaria|`@Compendium[pf2e.pathfinder-bestiary-2.eFiZ1wgGbxx9AVu1]`|
 |[](pathfinder-bestiary-2-items/B7bDAaNEMatWBkDD.htm)|Camouflage|`@Compendium[pf2e.pathfinder-bestiary-2.B7bDAaNEMatWBkDD]`|
 |[](pathfinder-bestiary-2-items/h155XUVgiUJ5onse.htm)|Blink Resistances|`@Compendium[pf2e.pathfinder-bestiary-2.h155XUVgiUJ5onse]`|
@@ -5624,11 +5580,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/x183YuDiYXsrOlKc.htm)|Bone-Chilling Screech|`@Compendium[pf2e.pathfinder-bestiary-2.x183YuDiYXsrOlKc]`|
 |[](pathfinder-bestiary-2-items/tmi63gM84pc6s5qK.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary-2.tmi63gM84pc6s5qK]`|
 |[](pathfinder-bestiary-2-items/KtIqgI2Oe8cbrguF.htm)|Worm Trill|`@Compendium[pf2e.pathfinder-bestiary-2.KtIqgI2Oe8cbrguF]`|
-|[](pathfinder-bestiary-2-items/2ESgkLReH2zyxUIl.htm)|Pestilential Aura|`@Compendium[pf2e.pathfinder-bestiary-2.2ESgkLReH2zyxUIl]`|
 |[](pathfinder-bestiary-2-items/yokGmVR1dAkRTCmE.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.yokGmVR1dAkRTCmE]`|
 |[](pathfinder-bestiary-2-items/DVQrLVPCYEJyvk5s.htm)|Destructive Harmonics|`@Compendium[pf2e.pathfinder-bestiary-2.DVQrLVPCYEJyvk5s]`|
 |[](pathfinder-bestiary-2-items/nszzMLENLPQ4zPoa.htm)|Tenacious Flames|`@Compendium[pf2e.pathfinder-bestiary-2.nszzMLENLPQ4zPoa]`|
-|[](pathfinder-bestiary-2-items/v2by5D3cMGyVu78a.htm)|Ritual Gate|`@Compendium[pf2e.pathfinder-bestiary-2.v2by5D3cMGyVu78a]`|
 |[](pathfinder-bestiary-2-items/HLOEvF4GMvQEPHct.htm)|Camouflaged Step|`@Compendium[pf2e.pathfinder-bestiary-2.HLOEvF4GMvQEPHct]`|
 |[](pathfinder-bestiary-2-items/KDUeQyj1J71Vb3Q1.htm)|Absorb Wraith|`@Compendium[pf2e.pathfinder-bestiary-2.KDUeQyj1J71Vb3Q1]`|
 |[](pathfinder-bestiary-2-items/eQGUATVlHv8iZ97x.htm)|Weak Acid|`@Compendium[pf2e.pathfinder-bestiary-2.eQGUATVlHv8iZ97x]`|
@@ -5645,7 +5599,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/rCFV63sVu1lfxToK.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary-2.rCFV63sVu1lfxToK]`|
 |[](pathfinder-bestiary-2-items/ssitSO6O1esw1YHS.htm)|Frightful Presence|`@Compendium[pf2e.pathfinder-bestiary-2.ssitSO6O1esw1YHS]`|
 |[](pathfinder-bestiary-2-items/KIhN4LqmxLYnSLJj.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.KIhN4LqmxLYnSLJj]`|
-|[](pathfinder-bestiary-2-items/0v7H9KCVbUUdkdU7.htm)|Cloud Form|`@Compendium[pf2e.pathfinder-bestiary-2.0v7H9KCVbUUdkdU7]`|
 |[](pathfinder-bestiary-2-items/twuwqjXSZmaqi54S.htm)|Lifesense 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.twuwqjXSZmaqi54S]`|
 |[](pathfinder-bestiary-2-items/sNUoqbThXZbfj5S7.htm)|Fade from View|`@Compendium[pf2e.pathfinder-bestiary-2.sNUoqbThXZbfj5S7]`|
 |[](pathfinder-bestiary-2-items/3vycv9ThXOQbgNBf.htm)|Instinctual Tinker|`@Compendium[pf2e.pathfinder-bestiary-2.3vycv9ThXOQbgNBf]`|
@@ -5658,7 +5611,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/LvD2kKe3HyLRK3Gr.htm)|Flare Hood|`@Compendium[pf2e.pathfinder-bestiary-2.LvD2kKe3HyLRK3Gr]`|
 |[](pathfinder-bestiary-2-items/Ixt0Bpsg2FgwTGiy.htm)|Dispelling Roar|`@Compendium[pf2e.pathfinder-bestiary-2.Ixt0Bpsg2FgwTGiy]`|
 |[](pathfinder-bestiary-2-items/BdJy1HqrIlkJp8rF.htm)|Animated Hair|`@Compendium[pf2e.pathfinder-bestiary-2.BdJy1HqrIlkJp8rF]`|
-|[](pathfinder-bestiary-2-items/CGd3B4KwGynCutU4.htm)|Vulnerable to Shape Wood|`@Compendium[pf2e.pathfinder-bestiary-2.CGd3B4KwGynCutU4]`|
 |[](pathfinder-bestiary-2-items/QTnEqxIt2MaL0WlZ.htm)|Spirit Naga Venom|`@Compendium[pf2e.pathfinder-bestiary-2.QTnEqxIt2MaL0WlZ]`|
 |[](pathfinder-bestiary-2-items/WjdPeEIa3jf7j8U2.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.WjdPeEIa3jf7j8U2]`|
 |[](pathfinder-bestiary-2-items/AytjsrleVTlWADIi.htm)|Draining Presence|`@Compendium[pf2e.pathfinder-bestiary-2.AytjsrleVTlWADIi]`|
@@ -5667,7 +5619,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/bQyms0FzVu1O5MrR.htm)|Gnaw Metal|`@Compendium[pf2e.pathfinder-bestiary-2.bQyms0FzVu1O5MrR]`|
 |[](pathfinder-bestiary-2-items/PrFbn0CsipqWtp4z.htm)|Flytrap Toxin|`@Compendium[pf2e.pathfinder-bestiary-2.PrFbn0CsipqWtp4z]`|
 |[](pathfinder-bestiary-2-items/1abnSJGdHEvG6Lyl.htm)|Bramble Jump|`@Compendium[pf2e.pathfinder-bestiary-2.1abnSJGdHEvG6Lyl]`|
-|[](pathfinder-bestiary-2-items/4tddCK0S1FejzHcG.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary-2.4tddCK0S1FejzHcG]`|
 |[](pathfinder-bestiary-2-items/zdW63lmShrSpZWkm.htm)|Otherworldly Vision|`@Compendium[pf2e.pathfinder-bestiary-2.zdW63lmShrSpZWkm]`|
 |[](pathfinder-bestiary-2-items/fmHvsMYoy6LDxLkK.htm)|Tentacle Mouth|`@Compendium[pf2e.pathfinder-bestiary-2.fmHvsMYoy6LDxLkK]`|
 |[](pathfinder-bestiary-2-items/swAWlgrj8JoJq6xB.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.swAWlgrj8JoJq6xB]`|
@@ -5675,7 +5626,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/P0EyFCnT4og9udgU.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.P0EyFCnT4og9udgU]`|
 |[](pathfinder-bestiary-2-items/kHGiew7m0qu0wSCx.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.kHGiew7m0qu0wSCx]`|
 |[](pathfinder-bestiary-2-items/V5c6DTpIF11FCsWw.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary-2.V5c6DTpIF11FCsWw]`|
-|[](pathfinder-bestiary-2-items/snHGvNo3Y3eluuUN.htm)|Compel Courage|`@Compendium[pf2e.pathfinder-bestiary-2.snHGvNo3Y3eluuUN]`|
 |[](pathfinder-bestiary-2-items/hTuKXeGWvUSUobx7.htm)|Ball Lightning Breath|`@Compendium[pf2e.pathfinder-bestiary-2.hTuKXeGWvUSUobx7]`|
 |[](pathfinder-bestiary-2-items/Lt5U1QzZ5Wx4rMiJ.htm)|Caster Link|`@Compendium[pf2e.pathfinder-bestiary-2.Lt5U1QzZ5Wx4rMiJ]`|
 |[](pathfinder-bestiary-2-items/Jd5I0ORcv8JckftL.htm)|Stormsight|`@Compendium[pf2e.pathfinder-bestiary-2.Jd5I0ORcv8JckftL]`|
@@ -5691,8 +5641,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/k6pOje8wFsRd6e1G.htm)|Pincer|`@Compendium[pf2e.pathfinder-bestiary-2.k6pOje8wFsRd6e1G]`|
 |[](pathfinder-bestiary-2-items/oYtncLyCKuBAQThk.htm)|Clawing Fear|`@Compendium[pf2e.pathfinder-bestiary-2.oYtncLyCKuBAQThk]`|
 |[](pathfinder-bestiary-2-items/UbbiLTnNP4WGrar5.htm)|Mold Mulch|`@Compendium[pf2e.pathfinder-bestiary-2.UbbiLTnNP4WGrar5]`|
-|[](pathfinder-bestiary-2-items/u1o4MqU6HFWR8rVh.htm)|Electrolocation|`@Compendium[pf2e.pathfinder-bestiary-2.u1o4MqU6HFWR8rVh]`|
-|[](pathfinder-bestiary-2-items/cjFyZppcDxVUaRJD.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.cjFyZppcDxVUaRJD]`|
 |[](pathfinder-bestiary-2-items/gYBpkJDYJYKODQRK.htm)|Gem Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.gYBpkJDYJYKODQRK]`|
 |[](pathfinder-bestiary-2-items/EHjIsHVK3BSAzKZW.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.EHjIsHVK3BSAzKZW]`|
 |[](pathfinder-bestiary-2-items/XZ1UeBvCwRe6I510.htm)|Magma Spit|`@Compendium[pf2e.pathfinder-bestiary-2.XZ1UeBvCwRe6I510]`|
@@ -5711,7 +5659,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/H97yITJBuctoMctx.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.H97yITJBuctoMctx]`|
 |[](pathfinder-bestiary-2-items/r62684lc4BkUMn7p.htm)|Solidify Mist|`@Compendium[pf2e.pathfinder-bestiary-2.r62684lc4BkUMn7p]`|
 |[](pathfinder-bestiary-2-items/MWff0Ro0CLotg930.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.MWff0Ro0CLotg930]`|
-|[](pathfinder-bestiary-2-items/cpSC9RcShIFK28EU.htm)|Snout|`@Compendium[pf2e.pathfinder-bestiary-2.cpSC9RcShIFK28EU]`|
 |[](pathfinder-bestiary-2-items/3IQSdTZPneapXwVf.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.3IQSdTZPneapXwVf]`|
 |[](pathfinder-bestiary-2-items/CswqTh16aa0KDlDF.htm)|Necrophidic Paralysis|`@Compendium[pf2e.pathfinder-bestiary-2.CswqTh16aa0KDlDF]`|
 |[](pathfinder-bestiary-2-items/XHjjW9wEW3pVVm5K.htm)|Tendriculos Venom|`@Compendium[pf2e.pathfinder-bestiary-2.XHjjW9wEW3pVVm5K]`|
@@ -5736,8 +5683,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/qZaBb2z6mE2zLL2u.htm)|Create Object|`@Compendium[pf2e.pathfinder-bestiary-2.qZaBb2z6mE2zLL2u]`|
 |[](pathfinder-bestiary-2-items/pHckdhGspQesS1nl.htm)|Ravage|`@Compendium[pf2e.pathfinder-bestiary-2.pHckdhGspQesS1nl]`|
 |[](pathfinder-bestiary-2-items/p18BSmeidbDDfJ2D.htm)|Kind Word|`@Compendium[pf2e.pathfinder-bestiary-2.p18BSmeidbDDfJ2D]`|
-|[](pathfinder-bestiary-2-items/0QCPtkVtKzuuVVaK.htm)|Bladed Limb|`@Compendium[pf2e.pathfinder-bestiary-2.0QCPtkVtKzuuVVaK]`|
-|[](pathfinder-bestiary-2-items/qfkx0yR9a3Qh4LsT.htm)|Double Attack|`@Compendium[pf2e.pathfinder-bestiary-2.qfkx0yR9a3Qh4LsT]`|
 |[](pathfinder-bestiary-2-items/WtPKkX18bEjTQBFy.htm)|Soul Harvest|`@Compendium[pf2e.pathfinder-bestiary-2.WtPKkX18bEjTQBFy]`|
 |[](pathfinder-bestiary-2-items/6gE7wfS2bLW0PuDW.htm)|Kiss of Death|`@Compendium[pf2e.pathfinder-bestiary-2.6gE7wfS2bLW0PuDW]`|
 |[](pathfinder-bestiary-2-items/ysswRv1XkPgse3iC.htm)|Petrifying Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.ysswRv1XkPgse3iC]`|
@@ -5757,7 +5702,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/uJuFK46gaxSPryGB.htm)|Brine Spit|`@Compendium[pf2e.pathfinder-bestiary-2.uJuFK46gaxSPryGB]`|
 |[](pathfinder-bestiary-2-items/zYVeJXwYqCDo3GsP.htm)|Telepathy 100 feet|`@Compendium[pf2e.pathfinder-bestiary-2.zYVeJXwYqCDo3GsP]`|
 |[](pathfinder-bestiary-2-items/Q3683RHwk5skFzWi.htm)|Dispelling Strike|`@Compendium[pf2e.pathfinder-bestiary-2.Q3683RHwk5skFzWi]`|
-|[](pathfinder-bestiary-2-items/pkqZFkDwe6SFvUXX.htm)|Serpentfolk Venom|`@Compendium[pf2e.pathfinder-bestiary-2.pkqZFkDwe6SFvUXX]`|
 |[](pathfinder-bestiary-2-items/jCQO2RfqPLKqDeuF.htm)|Slow Susceptibility|`@Compendium[pf2e.pathfinder-bestiary-2.jCQO2RfqPLKqDeuF]`|
 |[](pathfinder-bestiary-2-items/AoE6IxAfyxcUD4Jo.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.AoE6IxAfyxcUD4Jo]`|
 |[](pathfinder-bestiary-2-items/sc9sTDDxNEMsTklK.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.sc9sTDDxNEMsTklK]`|
@@ -5768,7 +5712,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/1Z3FZ39brRJH2cIs.htm)|Recall Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.1Z3FZ39brRJH2cIs]`|
 |[](pathfinder-bestiary-2-items/u6kTO6HI4KtrGtds.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.u6kTO6HI4KtrGtds]`|
 |[](pathfinder-bestiary-2-items/QuXauTCFwPyxjFZ6.htm)|Accursed Breath|`@Compendium[pf2e.pathfinder-bestiary-2.QuXauTCFwPyxjFZ6]`|
-|[](pathfinder-bestiary-2-items/ZcS1mFdodf2L8MND.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.ZcS1mFdodf2L8MND]`|
 |[](pathfinder-bestiary-2-items/Ox2rTRtNAQouxryx.htm)|Motion Sense|`@Compendium[pf2e.pathfinder-bestiary-2.Ox2rTRtNAQouxryx]`|
 |[](pathfinder-bestiary-2-items/AhfsEZ9fBUS6e02P.htm)|Poisonous Warts|`@Compendium[pf2e.pathfinder-bestiary-2.AhfsEZ9fBUS6e02P]`|
 |[](pathfinder-bestiary-2-items/LZTLNHZnYh3Eg4aU.htm)|Indispensable Savvy|`@Compendium[pf2e.pathfinder-bestiary-2.LZTLNHZnYh3Eg4aU]`|
@@ -5800,21 +5743,16 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/48eItql3Drlle3Rb.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.48eItql3Drlle3Rb]`|
 |[](pathfinder-bestiary-2-items/KO7ETr6PiZ0HJeHK.htm)|Holy Greatsword|`@Compendium[pf2e.pathfinder-bestiary-2.KO7ETr6PiZ0HJeHK]`|
 |[](pathfinder-bestiary-2-items/0D7DkzCzV4iv9Q0r.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-2.0D7DkzCzV4iv9Q0r]`|
-|[](pathfinder-bestiary-2-items/NDhBBYbkfa48lqzj.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.NDhBBYbkfa48lqzj]`|
-|[](pathfinder-bestiary-2-items/G0D3kQHUd2mouA90.htm)|Dominate Animal|`@Compendium[pf2e.pathfinder-bestiary-2.G0D3kQHUd2mouA90]`|
 |[](pathfinder-bestiary-2-items/FVDPg3HIsGffnOjd.htm)|Shameful Touch|`@Compendium[pf2e.pathfinder-bestiary-2.FVDPg3HIsGffnOjd]`|
 |[](pathfinder-bestiary-2-items/DfyikbxEMRuzW77m.htm)|Swarm Shape|`@Compendium[pf2e.pathfinder-bestiary-2.DfyikbxEMRuzW77m]`|
 |[](pathfinder-bestiary-2-items/FlbbYL5EQllXYKjc.htm)|Susceptible to Desiccation|`@Compendium[pf2e.pathfinder-bestiary-2.FlbbYL5EQllXYKjc]`|
 |[](pathfinder-bestiary-2-items/Nl0sqXtr54YzMawN.htm)|Consume Death|`@Compendium[pf2e.pathfinder-bestiary-2.Nl0sqXtr54YzMawN]`|
 |[](pathfinder-bestiary-2-items/xdv7JO5TXVfEGxJr.htm)|Tenacious Stance|`@Compendium[pf2e.pathfinder-bestiary-2.xdv7JO5TXVfEGxJr]`|
-|[](pathfinder-bestiary-2-items/JGEy5BcX7MQ17sdA.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.JGEy5BcX7MQ17sdA]`|
 |[](pathfinder-bestiary-2-items/zhobc1PADu4qQ2LB.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.zhobc1PADu4qQ2LB]`|
 |[](pathfinder-bestiary-2-items/hkgYTbnzCzYBfP7k.htm)|Voice Imitation|`@Compendium[pf2e.pathfinder-bestiary-2.hkgYTbnzCzYBfP7k]`|
 |[](pathfinder-bestiary-2-items/V9cC85qOc8a3vbBc.htm)|Abyssal Rot|`@Compendium[pf2e.pathfinder-bestiary-2.V9cC85qOc8a3vbBc]`|
 |[](pathfinder-bestiary-2-items/UYeaGbpn427tN1hJ.htm)|Oar|`@Compendium[pf2e.pathfinder-bestiary-2.UYeaGbpn427tN1hJ]`|
 |[](pathfinder-bestiary-2-items/qWgsbVHkbEipjoS7.htm)|+2 Status Bonus on Saves vs Divine Magic|`@Compendium[pf2e.pathfinder-bestiary-2.qWgsbVHkbEipjoS7]`|
-|[](pathfinder-bestiary-2-items/RFcZ8BNKEh3WWl6j.htm)|Whispering Wounds|`@Compendium[pf2e.pathfinder-bestiary-2.RFcZ8BNKEh3WWl6j]`|
-|[](pathfinder-bestiary-2-items/ulrrbkt4l6SBi1z8.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.ulrrbkt4l6SBi1z8]`|
 |[](pathfinder-bestiary-2-items/jsZXrLmJJQhLrRL0.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.jsZXrLmJJQhLrRL0]`|
 |[](pathfinder-bestiary-2-items/Tml8KbX9Hdipnofj.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.Tml8KbX9Hdipnofj]`|
 |[](pathfinder-bestiary-2-items/MhPq4EOlBLppwQeu.htm)|Cocytan Filth|`@Compendium[pf2e.pathfinder-bestiary-2.MhPq4EOlBLppwQeu]`|
@@ -5823,17 +5761,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/ftJSskhqjZaMBNyZ.htm)|Jet|`@Compendium[pf2e.pathfinder-bestiary-2.ftJSskhqjZaMBNyZ]`|
 |[](pathfinder-bestiary-2-items/GRiHxWvHx9rf0zcF.htm)|Expel Infestation|`@Compendium[pf2e.pathfinder-bestiary-2.GRiHxWvHx9rf0zcF]`|
 |[](pathfinder-bestiary-2-items/Kv1pkf5Ma30A8n58.htm)|Sickening Display|`@Compendium[pf2e.pathfinder-bestiary-2.Kv1pkf5Ma30A8n58]`|
-|[](pathfinder-bestiary-2-items/TzQpE2J6oD8ijpuC.htm)|Splinter|`@Compendium[pf2e.pathfinder-bestiary-2.TzQpE2J6oD8ijpuC]`|
 |[](pathfinder-bestiary-2-items/rdri6pl6hY1glOfy.htm)|Cold Healing|`@Compendium[pf2e.pathfinder-bestiary-2.rdri6pl6hY1glOfy]`|
 |[](pathfinder-bestiary-2-items/kk0U4TyvtgBAzAAR.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.kk0U4TyvtgBAzAAR]`|
-|[](pathfinder-bestiary-2-items/nMVv9cAH945ESnI9.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.nMVv9cAH945ESnI9]`|
 |[](pathfinder-bestiary-2-items/mKh47XLxTvXG71TF.htm)|Soul Crush|`@Compendium[pf2e.pathfinder-bestiary-2.mKh47XLxTvXG71TF]`|
 |[](pathfinder-bestiary-2-items/5g1Keo0L3GpJZyQp.htm)|Curse of the Wereboar|`@Compendium[pf2e.pathfinder-bestiary-2.5g1Keo0L3GpJZyQp]`|
 |[](pathfinder-bestiary-2-items/u6tuxFGclP3Cf3u2.htm)|Otherworldly Mind|`@Compendium[pf2e.pathfinder-bestiary-2.u6tuxFGclP3Cf3u2]`|
 |[](pathfinder-bestiary-2-items/E5KXLULpkukpqygI.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.E5KXLULpkukpqygI]`|
 |[](pathfinder-bestiary-2-items/LXMgaHhqx5CpVHAu.htm)|Thorn Volley|`@Compendium[pf2e.pathfinder-bestiary-2.LXMgaHhqx5CpVHAu]`|
 |[](pathfinder-bestiary-2-items/DpIIIQSKrhsFKToW.htm)|Holy Beam|`@Compendium[pf2e.pathfinder-bestiary-2.DpIIIQSKrhsFKToW]`|
-|[](pathfinder-bestiary-2-items/SqmhCTwOKtI5c7BT.htm)|Mote of Light|`@Compendium[pf2e.pathfinder-bestiary-2.SqmhCTwOKtI5c7BT]`|
 |[](pathfinder-bestiary-2-items/BIIDNJTjlW3lJ1b2.htm)|Volcanic Veins|`@Compendium[pf2e.pathfinder-bestiary-2.BIIDNJTjlW3lJ1b2]`|
 |[](pathfinder-bestiary-2-items/F40AJYqQ0BCC2TF0.htm)|Chain|`@Compendium[pf2e.pathfinder-bestiary-2.F40AJYqQ0BCC2TF0]`|
 |[](pathfinder-bestiary-2-items/hwnMtKzru4aBoOu3.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.hwnMtKzru4aBoOu3]`|
@@ -5846,7 +5781,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/YkuWnKDR7iQkfOh8.htm)|Megalania Venom|`@Compendium[pf2e.pathfinder-bestiary-2.YkuWnKDR7iQkfOh8]`|
 |[](pathfinder-bestiary-2-items/kj7lFKS7xdj7h83n.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.kj7lFKS7xdj7h83n]`|
 |[](pathfinder-bestiary-2-items/A46dQA87Lnn71IzJ.htm)|Gory Rend|`@Compendium[pf2e.pathfinder-bestiary-2.A46dQA87Lnn71IzJ]`|
-|[](pathfinder-bestiary-2-items/4KxhR1H4vfF5teNe.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.4KxhR1H4vfF5teNe]`|
 |[](pathfinder-bestiary-2-items/fFFM3BNDIa0yq0lg.htm)|Regeneration 20 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.fFFM3BNDIa0yq0lg]`|
 |[](pathfinder-bestiary-2-items/UuxtWMTDYGzdEzIA.htm)|Glowing Touch|`@Compendium[pf2e.pathfinder-bestiary-2.UuxtWMTDYGzdEzIA]`|
 |[](pathfinder-bestiary-2-items/kuW4IJohw5LunECQ.htm)|Inhale Vitality|`@Compendium[pf2e.pathfinder-bestiary-2.kuW4IJohw5LunECQ]`|
@@ -5856,7 +5790,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/MiX1rLReSocMJdta.htm)|Cold Lethargy|`@Compendium[pf2e.pathfinder-bestiary-2.MiX1rLReSocMJdta]`|
 |[](pathfinder-bestiary-2-items/M5bYj5m7ymoWlabG.htm)|Necrotic Decay|`@Compendium[pf2e.pathfinder-bestiary-2.M5bYj5m7ymoWlabG]`|
 |[](pathfinder-bestiary-2-items/nd0M4055DPNvjNvf.htm)|Manifest Shawl|`@Compendium[pf2e.pathfinder-bestiary-2.nd0M4055DPNvjNvf]`|
-|[](pathfinder-bestiary-2-items/9E67q4C5Qrwk0OqK.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary-2.9E67q4C5Qrwk0OqK]`|
 |[](pathfinder-bestiary-2-items/H5H2qTd7RH9FnyiA.htm)|Enliven Foliage|`@Compendium[pf2e.pathfinder-bestiary-2.H5H2qTd7RH9FnyiA]`|
 |[](pathfinder-bestiary-2-items/vMYnNlSJnYJepYe8.htm)|Impaling Barb|`@Compendium[pf2e.pathfinder-bestiary-2.vMYnNlSJnYJepYe8]`|
 |[](pathfinder-bestiary-2-items/7MiqMH6uob5zPB4e.htm)|Spotlight|`@Compendium[pf2e.pathfinder-bestiary-2.7MiqMH6uob5zPB4e]`|
@@ -5876,7 +5809,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/8qYHl9oKTV79IZ6r.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.8qYHl9oKTV79IZ6r]`|
 |[](pathfinder-bestiary-2-items/eOpB0SxDMEU65Oyy.htm)|Blood Drain|`@Compendium[pf2e.pathfinder-bestiary-2.eOpB0SxDMEU65Oyy]`|
 |[](pathfinder-bestiary-2-items/clxrPF7TPJ4sS2A6.htm)|Extend Mandibles|`@Compendium[pf2e.pathfinder-bestiary-2.clxrPF7TPJ4sS2A6]`|
-|[](pathfinder-bestiary-2-items/x1kqxURcucjG3BaP.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.x1kqxURcucjG3BaP]`|
 |[](pathfinder-bestiary-2-items/yJ6tSdgHei2VkcFn.htm)|Swift Claw|`@Compendium[pf2e.pathfinder-bestiary-2.yJ6tSdgHei2VkcFn]`|
 |[](pathfinder-bestiary-2-items/FTeRIF51hvaZAOzR.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-2.FTeRIF51hvaZAOzR]`|
 |[](pathfinder-bestiary-2-items/EguLo1LUzA4CQ1Qi.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.EguLo1LUzA4CQ1Qi]`|
@@ -5891,7 +5823,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/qlRNyTqzf6kMvBEV.htm)|Quill|`@Compendium[pf2e.pathfinder-bestiary-2.qlRNyTqzf6kMvBEV]`|
 |[](pathfinder-bestiary-2-items/CpDQG0xz9auLn9gr.htm)|Double Punch|`@Compendium[pf2e.pathfinder-bestiary-2.CpDQG0xz9auLn9gr]`|
 |[](pathfinder-bestiary-2-items/filzxUgupqvL1ZQq.htm)|Gouging Lunge|`@Compendium[pf2e.pathfinder-bestiary-2.filzxUgupqvL1ZQq]`|
-|[](pathfinder-bestiary-2-items/GnAoSJeodjtFoanm.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.GnAoSJeodjtFoanm]`|
 |[](pathfinder-bestiary-2-items/eKrrD4BYO7xl9vPo.htm)|Fearful Attack|`@Compendium[pf2e.pathfinder-bestiary-2.eKrrD4BYO7xl9vPo]`|
 |[](pathfinder-bestiary-2-items/yn2c3QvZMZCfu55r.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.yn2c3QvZMZCfu55r]`|
 |[](pathfinder-bestiary-2-items/KBUEqfW6m7bI5a0g.htm)|Thunderstrike|`@Compendium[pf2e.pathfinder-bestiary-2.KBUEqfW6m7bI5a0g]`|
@@ -5924,7 +5855,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/DPcRdZIL38qcDj2I.htm)|Snatch|`@Compendium[pf2e.pathfinder-bestiary-2.DPcRdZIL38qcDj2I]`|
 |[](pathfinder-bestiary-2-items/xNfSi1bsS4hwfcXU.htm)|Carnivorous Blob Acid|`@Compendium[pf2e.pathfinder-bestiary-2.xNfSi1bsS4hwfcXU]`|
 |[](pathfinder-bestiary-2-items/WKWzTrWyiPJNihmZ.htm)|Thoughtsense|`@Compendium[pf2e.pathfinder-bestiary-2.WKWzTrWyiPJNihmZ]`|
-|[](pathfinder-bestiary-2-items/EakALyMQUSW9bDgO.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.EakALyMQUSW9bDgO]`|
 |[](pathfinder-bestiary-2-items/GFW3IASGrcBSyETb.htm)|Worm Chill|`@Compendium[pf2e.pathfinder-bestiary-2.GFW3IASGrcBSyETb]`|
 |[](pathfinder-bestiary-2-items/ZiB2QG6oo1w3v4H2.htm)|Aura of Protection|`@Compendium[pf2e.pathfinder-bestiary-2.ZiB2QG6oo1w3v4H2]`|
 |[](pathfinder-bestiary-2-items/1FR8UtVfDAC3RoWh.htm)|Mortasheen|`@Compendium[pf2e.pathfinder-bestiary-2.1FR8UtVfDAC3RoWh]`|
@@ -5935,7 +5865,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/i2d0NrqSfbRm2l1Y.htm)|Shocking Douse|`@Compendium[pf2e.pathfinder-bestiary-2.i2d0NrqSfbRm2l1Y]`|
 |[](pathfinder-bestiary-2-items/BsKlvqGTEEIQo1cx.htm)|+4 Bonus on Perception to Detect Illusions|`@Compendium[pf2e.pathfinder-bestiary-2.BsKlvqGTEEIQo1cx]`|
 |[](pathfinder-bestiary-2-items/sN3JKaIDG5kFRAvC.htm)|Natural Camouflage|`@Compendium[pf2e.pathfinder-bestiary-2.sN3JKaIDG5kFRAvC]`|
-|[](pathfinder-bestiary-2-items/4cuSJxJLUg7icXmj.htm)|Vulnerable to Shatter|`@Compendium[pf2e.pathfinder-bestiary-2.4cuSJxJLUg7icXmj]`|
 |[](pathfinder-bestiary-2-items/4tJ8KAPk36CVF7E2.htm)|Savage Jaws|`@Compendium[pf2e.pathfinder-bestiary-2.4tJ8KAPk36CVF7E2]`|
 |[](pathfinder-bestiary-2-items/HaYQ8Cd4C0hYSFdc.htm)|Leap Attack|`@Compendium[pf2e.pathfinder-bestiary-2.HaYQ8Cd4C0hYSFdc]`|
 |[](pathfinder-bestiary-2-items/6dcoGxoSd8A6QFv2.htm)|Twisting Tail|`@Compendium[pf2e.pathfinder-bestiary-2.6dcoGxoSd8A6QFv2]`|
@@ -5947,17 +5876,13 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/YwNfN5E1fuqbDqG5.htm)|Mindwarping Tide|`@Compendium[pf2e.pathfinder-bestiary-2.YwNfN5E1fuqbDqG5]`|
 |[](pathfinder-bestiary-2-items/hykxILVZRpdseaRk.htm)|Regeneration 25 (deactivated by acid or fire)|`@Compendium[pf2e.pathfinder-bestiary-2.hykxILVZRpdseaRk]`|
 |[](pathfinder-bestiary-2-items/CSHQvYrfiR0GmczO.htm)|Brine Spit|`@Compendium[pf2e.pathfinder-bestiary-2.CSHQvYrfiR0GmczO]`|
-|[](pathfinder-bestiary-2-items/tpQDVH3NwAokh2NC.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.tpQDVH3NwAokh2NC]`|
 |[](pathfinder-bestiary-2-items/qXrvqRXGNuAyfORa.htm)|Wrench Spirit|`@Compendium[pf2e.pathfinder-bestiary-2.qXrvqRXGNuAyfORa]`|
 |[](pathfinder-bestiary-2-items/RwPr1Ik2tKeFrL0r.htm)|Swiftness|`@Compendium[pf2e.pathfinder-bestiary-2.RwPr1Ik2tKeFrL0r]`|
-|[](pathfinder-bestiary-2-items/VRDZl6y3aAge5VyP.htm)|Raise Serpent|`@Compendium[pf2e.pathfinder-bestiary-2.VRDZl6y3aAge5VyP]`|
 |[](pathfinder-bestiary-2-items/BZfKFoVLNm5bmKHc.htm)|Mimic Shadow|`@Compendium[pf2e.pathfinder-bestiary-2.BZfKFoVLNm5bmKHc]`|
 |[](pathfinder-bestiary-2-items/kN2uT5XwOWMjkzA5.htm)|Tremorsense (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.kN2uT5XwOWMjkzA5]`|
-|[](pathfinder-bestiary-2-items/9UD8fQB0IDkl7w1X.htm)|Staggering Servitude|`@Compendium[pf2e.pathfinder-bestiary-2.9UD8fQB0IDkl7w1X]`|
 |[](pathfinder-bestiary-2-items/Fp4obYTKAlnrpeFi.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.Fp4obYTKAlnrpeFi]`|
 |[](pathfinder-bestiary-2-items/UIgdlwmkkFjjq6Kl.htm)|Unsettled Aura|`@Compendium[pf2e.pathfinder-bestiary-2.UIgdlwmkkFjjq6Kl]`|
 |[](pathfinder-bestiary-2-items/xAxdPG2ftegyTaUj.htm)|Water Jet|`@Compendium[pf2e.pathfinder-bestiary-2.xAxdPG2ftegyTaUj]`|
-|[](pathfinder-bestiary-2-items/jN9qLXiQfaOBlFfC.htm)|Ramming Speed|`@Compendium[pf2e.pathfinder-bestiary-2.jN9qLXiQfaOBlFfC]`|
 |[](pathfinder-bestiary-2-items/7ovDTTZtTBqn2eJ6.htm)|Performance|`@Compendium[pf2e.pathfinder-bestiary-2.7ovDTTZtTBqn2eJ6]`|
 |[](pathfinder-bestiary-2-items/KQBI90QlI48BEPP3.htm)|Giant Toad Poison|`@Compendium[pf2e.pathfinder-bestiary-2.KQBI90QlI48BEPP3]`|
 |[](pathfinder-bestiary-2-items/Mtkrvum6bboSrXtq.htm)|Sanguine Mauling|`@Compendium[pf2e.pathfinder-bestiary-2.Mtkrvum6bboSrXtq]`|
@@ -5971,7 +5896,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/6qaFJjq9JjlhZbaw.htm)|Ogre Spider Venom|`@Compendium[pf2e.pathfinder-bestiary-2.6qaFJjq9JjlhZbaw]`|
 |[](pathfinder-bestiary-2-items/osogPaHrRMKqt4Fw.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.osogPaHrRMKqt4Fw]`|
 |[](pathfinder-bestiary-2-items/URm0Bj51PHUjgnXS.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.URm0Bj51PHUjgnXS]`|
-|[](pathfinder-bestiary-2-items/CquGR1meZf8Szzmo.htm)|Splinter|`@Compendium[pf2e.pathfinder-bestiary-2.CquGR1meZf8Szzmo]`|
 |[](pathfinder-bestiary-2-items/fDEMKsDuC7SNDbx6.htm)|Unbodied Possession|`@Compendium[pf2e.pathfinder-bestiary-2.fDEMKsDuC7SNDbx6]`|
 |[](pathfinder-bestiary-2-items/KwNXLXzskiVB9RLh.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.KwNXLXzskiVB9RLh]`|
 |[](pathfinder-bestiary-2-items/fJwNiBKQ1mE1NNbz.htm)|Dual Tusks|`@Compendium[pf2e.pathfinder-bestiary-2.fJwNiBKQ1mE1NNbz]`|
@@ -6024,7 +5948,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/fO8E1sNI1DHDU5Dq.htm)|Motion Sense 60 feet|`@Compendium[pf2e.pathfinder-bestiary-2.fO8E1sNI1DHDU5Dq]`|
 |[](pathfinder-bestiary-2-items/8PnlI5NzEir5W7Il.htm)|Derghodaemon's Stare|`@Compendium[pf2e.pathfinder-bestiary-2.8PnlI5NzEir5W7Il]`|
 |[](pathfinder-bestiary-2-items/XhhOGnxq5cUHkcEd.htm)|Burble|`@Compendium[pf2e.pathfinder-bestiary-2.XhhOGnxq5cUHkcEd]`|
-|[](pathfinder-bestiary-2-items/JIAc2IH8Ot3uIXfD.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.JIAc2IH8Ot3uIXfD]`|
 |[](pathfinder-bestiary-2-items/stgGnScdknvWx6D2.htm)|Regeneration 15 (deactivated by acid or fire)|`@Compendium[pf2e.pathfinder-bestiary-2.stgGnScdknvWx6D2]`|
 |[](pathfinder-bestiary-2-items/qgyml1ToPqFdJIKa.htm)|Drag Below|`@Compendium[pf2e.pathfinder-bestiary-2.qgyml1ToPqFdJIKa]`|
 |[](pathfinder-bestiary-2-items/60d6TRr07HgWYE5B.htm)|Current|`@Compendium[pf2e.pathfinder-bestiary-2.60d6TRr07HgWYE5B]`|
@@ -6039,7 +5962,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/bo6bsp0fKrJ9ddNK.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.bo6bsp0fKrJ9ddNK]`|
 |[](pathfinder-bestiary-2-items/KTxjm0shb9zyrh0z.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary-2.KTxjm0shb9zyrh0z]`|
 |[](pathfinder-bestiary-2-items/ipGw6L7E6GUS565c.htm)|Hypnosis|`@Compendium[pf2e.pathfinder-bestiary-2.ipGw6L7E6GUS565c]`|
-|[](pathfinder-bestiary-2-items/xqB9FvxJUsDUDs15.htm)|Thorny Vine|`@Compendium[pf2e.pathfinder-bestiary-2.xqB9FvxJUsDUDs15]`|
 |[](pathfinder-bestiary-2-items/Mj4CtMHXmN85o3tJ.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.Mj4CtMHXmN85o3tJ]`|
 |[](pathfinder-bestiary-2-items/1gwUpyZY3w0LloLq.htm)|Devil's Howl|`@Compendium[pf2e.pathfinder-bestiary-2.1gwUpyZY3w0LloLq]`|
 |[](pathfinder-bestiary-2-items/QNy9Hrx2ib5tkQKt.htm)|Shadow Blend|`@Compendium[pf2e.pathfinder-bestiary-2.QNy9Hrx2ib5tkQKt]`|
@@ -6055,7 +5977,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/oUmLwF6HrGb0Y9yj.htm)|Regeneration 20 (deactivated by evil)|`@Compendium[pf2e.pathfinder-bestiary-2.oUmLwF6HrGb0Y9yj]`|
 |[](pathfinder-bestiary-2-items/cVEH8toDyk2cQnEC.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.cVEH8toDyk2cQnEC]`|
 |[](pathfinder-bestiary-2-items/ivy8kuAr2Ml8VdAF.htm)|Cold Adaptation|`@Compendium[pf2e.pathfinder-bestiary-2.ivy8kuAr2Ml8VdAF]`|
-|[](pathfinder-bestiary-2-items/IHM0ZFUpH2qKKM7E.htm)|Regeneration 10 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.IHM0ZFUpH2qKKM7E]`|
 |[](pathfinder-bestiary-2-items/UE4WlNSLrotRauZG.htm)|Lightning-Struck Curse|`@Compendium[pf2e.pathfinder-bestiary-2.UE4WlNSLrotRauZG]`|
 |[](pathfinder-bestiary-2-items/z8CeXCEQdHlFMc0u.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary-2.z8CeXCEQdHlFMc0u]`|
 |[](pathfinder-bestiary-2-items/2VxyCqJZcASXlsyq.htm)|Calcification|`@Compendium[pf2e.pathfinder-bestiary-2.2VxyCqJZcASXlsyq]`|
@@ -6065,7 +5986,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/EIhaPhUMiN88cQT6.htm)|Aura of Righteousness|`@Compendium[pf2e.pathfinder-bestiary-2.EIhaPhUMiN88cQT6]`|
 |[](pathfinder-bestiary-2-items/GIop4yLHoN44KXN5.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.GIop4yLHoN44KXN5]`|
 |[](pathfinder-bestiary-2-items/3GOGRqIhDzmef7he.htm)|Hallucinogenic Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.3GOGRqIhDzmef7he]`|
-|[](pathfinder-bestiary-2-items/msIyAn6AsHKdGxMu.htm)|Thundering Bite|`@Compendium[pf2e.pathfinder-bestiary-2.msIyAn6AsHKdGxMu]`|
 |[](pathfinder-bestiary-2-items/5t9D4gKM7JVpBSf6.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary-2.5t9D4gKM7JVpBSf6]`|
 |[](pathfinder-bestiary-2-items/imFNV40cUextfevX.htm)|Grasping Foliage|`@Compendium[pf2e.pathfinder-bestiary-2.imFNV40cUextfevX]`|
 |[](pathfinder-bestiary-2-items/8wrcvKK8xk5AIIva.htm)|Muddy Field|`@Compendium[pf2e.pathfinder-bestiary-2.8wrcvKK8xk5AIIva]`|
@@ -6081,14 +6001,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/49xv61tdfV6J6P29.htm)|Discorporate|`@Compendium[pf2e.pathfinder-bestiary-2.49xv61tdfV6J6P29]`|
 |[](pathfinder-bestiary-2-items/jr6lRjG0ZeZgW116.htm)|Soul Scream|`@Compendium[pf2e.pathfinder-bestiary-2.jr6lRjG0ZeZgW116]`|
 |[](pathfinder-bestiary-2-items/MPJFQqOrPfQloQLr.htm)|Death Throes|`@Compendium[pf2e.pathfinder-bestiary-2.MPJFQqOrPfQloQLr]`|
-|[](pathfinder-bestiary-2-items/bEAhPwJXnrqxPt5i.htm)|Blend with Light|`@Compendium[pf2e.pathfinder-bestiary-2.bEAhPwJXnrqxPt5i]`|
 |[](pathfinder-bestiary-2-items/LmNbsiKPocWzw1cu.htm)|Blood Berries|`@Compendium[pf2e.pathfinder-bestiary-2.LmNbsiKPocWzw1cu]`|
-|[](pathfinder-bestiary-2-items/Cxm87AR1TJom2drt.htm)|Double Claw|`@Compendium[pf2e.pathfinder-bestiary-2.Cxm87AR1TJom2drt]`|
 |[](pathfinder-bestiary-2-items/aYcG8JHXY8UJvVcF.htm)|Sticky Feet|`@Compendium[pf2e.pathfinder-bestiary-2.aYcG8JHXY8UJvVcF]`|
 |[](pathfinder-bestiary-2-items/J0ri0JZTtI3g3kxN.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.J0ri0JZTtI3g3kxN]`|
 |[](pathfinder-bestiary-2-items/UatC9BxVJopPgwJd.htm)|Rotting Curse|`@Compendium[pf2e.pathfinder-bestiary-2.UatC9BxVJopPgwJd]`|
 |[](pathfinder-bestiary-2-items/R8bzIOrsR2PFpnSQ.htm)|Noxious Fumes|`@Compendium[pf2e.pathfinder-bestiary-2.R8bzIOrsR2PFpnSQ]`|
-|[](pathfinder-bestiary-2-items/TBp1tYUPtYoOEonO.htm)|Aquatic Echolocation|`@Compendium[pf2e.pathfinder-bestiary-2.TBp1tYUPtYoOEonO]`|
 |[](pathfinder-bestiary-2-items/newbZPBnDfEIJX5y.htm)|Feeding Tendril|`@Compendium[pf2e.pathfinder-bestiary-2.newbZPBnDfEIJX5y]`|
 |[](pathfinder-bestiary-2-items/g56aPVqelhyIjRuv.htm)|+4 Status to All Saves vs Sonic|`@Compendium[pf2e.pathfinder-bestiary-2.g56aPVqelhyIjRuv]`|
 |[](pathfinder-bestiary-2-items/1LmOy2NMwi2RqSKT.htm)|Golem Antimagic|`@Compendium[pf2e.pathfinder-bestiary-2.1LmOy2NMwi2RqSKT]`|
@@ -6111,7 +6028,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/P5tslJuQziddpFpV.htm)|Tooth Grind|`@Compendium[pf2e.pathfinder-bestiary-2.P5tslJuQziddpFpV]`|
 |[](pathfinder-bestiary-2-items/VH3uvuMCquGbT6Wx.htm)|Regeneration 10 (Deactivated by Good or Silver)|`@Compendium[pf2e.pathfinder-bestiary-2.VH3uvuMCquGbT6Wx]`|
 |[](pathfinder-bestiary-2-items/WIPFxMzyJ87R3t7k.htm)|Supernatural Speed|`@Compendium[pf2e.pathfinder-bestiary-2.WIPFxMzyJ87R3t7k]`|
-|[](pathfinder-bestiary-2-items/gBFFibeJFk4MB72C.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.gBFFibeJFk4MB72C]`|
 |[](pathfinder-bestiary-2-items/lgHFmVhsmZOzCgFm.htm)|Returning Starknife|`@Compendium[pf2e.pathfinder-bestiary-2.lgHFmVhsmZOzCgFm]`|
 |[](pathfinder-bestiary-2-items/mTE12ORozb0LZ81C.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.mTE12ORozb0LZ81C]`|
 |[](pathfinder-bestiary-2-items/nneVdsY6tUBGsScQ.htm)|Head Regrowth|`@Compendium[pf2e.pathfinder-bestiary-2.nneVdsY6tUBGsScQ]`|
@@ -6122,13 +6038,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/U9ZtZBoz8oQqwrWa.htm)|Regeneration 15 (deactivated by acid or cold)|`@Compendium[pf2e.pathfinder-bestiary-2.U9ZtZBoz8oQqwrWa]`|
 |[](pathfinder-bestiary-2-items/S8XYYEnqxZeY5C7K.htm)|Daemonic Famine|`@Compendium[pf2e.pathfinder-bestiary-2.S8XYYEnqxZeY5C7K]`|
 |[](pathfinder-bestiary-2-items/EW5LH6Dw5jEKEVOU.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.EW5LH6Dw5jEKEVOU]`|
-|[](pathfinder-bestiary-2-items/MvqmGM4ha7aQt1CR.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.MvqmGM4ha7aQt1CR]`|
 |[](pathfinder-bestiary-2-items/2doPyPIBLoDzjzk9.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary-2.2doPyPIBLoDzjzk9]`|
 |[](pathfinder-bestiary-2-items/e7rgKN11dqX1fsSq.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.e7rgKN11dqX1fsSq]`|
-|[](pathfinder-bestiary-2-items/cuHB5zR7MVWma2MD.htm)|Cloud Form|`@Compendium[pf2e.pathfinder-bestiary-2.cuHB5zR7MVWma2MD]`|
 |[](pathfinder-bestiary-2-items/9WzRmRmcle5Fmp7N.htm)|Alter Weather|`@Compendium[pf2e.pathfinder-bestiary-2.9WzRmRmcle5Fmp7N]`|
 |[](pathfinder-bestiary-2-items/YJzGe5kr1qCZKV34.htm)|Magma Scorpion Venom|`@Compendium[pf2e.pathfinder-bestiary-2.YJzGe5kr1qCZKV34]`|
-|[](pathfinder-bestiary-2-items/nuNIIa81vZ9PT2RL.htm)|Dazzling Burst|`@Compendium[pf2e.pathfinder-bestiary-2.nuNIIa81vZ9PT2RL]`|
 |[](pathfinder-bestiary-2-items/JzkjkxNi7EFlzsmZ.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.JzkjkxNi7EFlzsmZ]`|
 |[](pathfinder-bestiary-2-items/QBq3x8HUuGt0wVZm.htm)|Sense Blood (Imprecise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary-2.QBq3x8HUuGt0wVZm]`|
 |[](pathfinder-bestiary-2-items/zJ48k7LkzzGzYZXF.htm)|Paralysis|`@Compendium[pf2e.pathfinder-bestiary-2.zJ48k7LkzzGzYZXF]`|
@@ -6142,11 +6055,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/gnL5MFzMfrbfAapT.htm)|Holy Armaments|`@Compendium[pf2e.pathfinder-bestiary-2.gnL5MFzMfrbfAapT]`|
 |[](pathfinder-bestiary-2-items/DteZBAInF0ur5LIY.htm)|Shape Flesh|`@Compendium[pf2e.pathfinder-bestiary-2.DteZBAInF0ur5LIY]`|
 |[](pathfinder-bestiary-2-items/o40ddeHAtx8cJ0uY.htm)|Mind Lash|`@Compendium[pf2e.pathfinder-bestiary-2.o40ddeHAtx8cJ0uY]`|
-|[](pathfinder-bestiary-2-items/tRLWCHj0DJ8Jb78B.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.tRLWCHj0DJ8Jb78B]`|
 |[](pathfinder-bestiary-2-items/f7niepbS8VyknoBK.htm)|Scintillating Aura|`@Compendium[pf2e.pathfinder-bestiary-2.f7niepbS8VyknoBK]`|
 |[](pathfinder-bestiary-2-items/6eEBzPI5f1Lb1ZPb.htm)|Coven|`@Compendium[pf2e.pathfinder-bestiary-2.6eEBzPI5f1Lb1ZPb]`|
 |[](pathfinder-bestiary-2-items/bJVD9JQb7YrlkdAs.htm)|Void Child|`@Compendium[pf2e.pathfinder-bestiary-2.bJVD9JQb7YrlkdAs]`|
-|[](pathfinder-bestiary-2-items/wnZi8QCOMG86Db4l.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.wnZi8QCOMG86Db4l]`|
 |[](pathfinder-bestiary-2-items/PLo6RE4lIKmw9DQL.htm)|Blurred Form|`@Compendium[pf2e.pathfinder-bestiary-2.PLo6RE4lIKmw9DQL]`|
 |[](pathfinder-bestiary-2-items/foIpp0GPCbsHL0dl.htm)|Cave Scorpion Venom|`@Compendium[pf2e.pathfinder-bestiary-2.foIpp0GPCbsHL0dl]`|
 |[](pathfinder-bestiary-2-items/0MEzU0e7MJtwV7WA.htm)|Truespeech|`@Compendium[pf2e.pathfinder-bestiary-2.0MEzU0e7MJtwV7WA]`|
@@ -6156,7 +6067,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/bu97rur2OngJhlHv.htm)|Titan Centipede Venom|`@Compendium[pf2e.pathfinder-bestiary-2.bu97rur2OngJhlHv]`|
 |[](pathfinder-bestiary-2-items/gOjlMNwWXWNHohGo.htm)|Mark Quarry|`@Compendium[pf2e.pathfinder-bestiary-2.gOjlMNwWXWNHohGo]`|
 |[](pathfinder-bestiary-2-items/0VNX7MbrCqRSKYkE.htm)|Shadow Evade|`@Compendium[pf2e.pathfinder-bestiary-2.0VNX7MbrCqRSKYkE]`|
-|[](pathfinder-bestiary-2-items/qfAGiyqMgrNFUoSw.htm)|Fast Healing 20|`@Compendium[pf2e.pathfinder-bestiary-2.qfAGiyqMgrNFUoSw]`|
 |[](pathfinder-bestiary-2-items/CwEVrNGC8oHJQrv0.htm)|Isqulugia|`@Compendium[pf2e.pathfinder-bestiary-2.CwEVrNGC8oHJQrv0]`|
 |[](pathfinder-bestiary-2-items/5lCoU2D6djePIJZT.htm)|Web Sense|`@Compendium[pf2e.pathfinder-bestiary-2.5lCoU2D6djePIJZT]`|
 |[](pathfinder-bestiary-2-items/HGVXqBgfTKK0Gu4n.htm)|Trunk|`@Compendium[pf2e.pathfinder-bestiary-2.HGVXqBgfTKK0Gu4n]`|
@@ -6171,7 +6081,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/JVxGmdUEcMuZmGlg.htm)|Light Pulse|`@Compendium[pf2e.pathfinder-bestiary-2.JVxGmdUEcMuZmGlg]`|
 |[](pathfinder-bestiary-2-items/8yVRt0M6F9WbgdWV.htm)|Cairn Linnorm Venom|`@Compendium[pf2e.pathfinder-bestiary-2.8yVRt0M6F9WbgdWV]`|
 |[](pathfinder-bestiary-2-items/8EaMfqK0UpEoUqcg.htm)|Acrobatics|`@Compendium[pf2e.pathfinder-bestiary-2.8EaMfqK0UpEoUqcg]`|
-|[](pathfinder-bestiary-2-items/6vnexEfGJBfKrtHp.htm)|Tusk Sweep|`@Compendium[pf2e.pathfinder-bestiary-2.6vnexEfGJBfKrtHp]`|
 |[](pathfinder-bestiary-2-items/RJUajmwcmdSx0tQb.htm)|Mesmerizing Melody|`@Compendium[pf2e.pathfinder-bestiary-2.RJUajmwcmdSx0tQb]`|
 |[](pathfinder-bestiary-2-items/H3y3IbgMpQWevqRk.htm)|Drain Life|`@Compendium[pf2e.pathfinder-bestiary-2.H3y3IbgMpQWevqRk]`|
 |[](pathfinder-bestiary-2-items/UN8cAG3SmdTtuDWe.htm)|Smoke Slash|`@Compendium[pf2e.pathfinder-bestiary-2.UN8cAG3SmdTtuDWe]`|
@@ -6180,14 +6089,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/UuDDHSI5hH9lHpZv.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary-2.UuDDHSI5hH9lHpZv]`|
 |[](pathfinder-bestiary-2-items/QPrrVmViA5QTr6tE.htm)|Bastion Aura|`@Compendium[pf2e.pathfinder-bestiary-2.QPrrVmViA5QTr6tE]`|
 |[](pathfinder-bestiary-2-items/5CgVbeYygEXhZf6y.htm)|Bully's Bludgeon|`@Compendium[pf2e.pathfinder-bestiary-2.5CgVbeYygEXhZf6y]`|
-|[](pathfinder-bestiary-2-items/uQFiXxjHXOCxLHe8.htm)|Vulnerability to Supernatural Darkness|`@Compendium[pf2e.pathfinder-bestiary-2.uQFiXxjHXOCxLHe8]`|
 |[](pathfinder-bestiary-2-items/tIiXnBCscCuQi4WY.htm)|Favored Host|`@Compendium[pf2e.pathfinder-bestiary-2.tIiXnBCscCuQi4WY]`|
 |[](pathfinder-bestiary-2-items/oC4rXv11i7sVgw4k.htm)|Radula|`@Compendium[pf2e.pathfinder-bestiary-2.oC4rXv11i7sVgw4k]`|
 |[](pathfinder-bestiary-2-items/QmK15RaSe9yfdYIR.htm)|Vulnerable Tail|`@Compendium[pf2e.pathfinder-bestiary-2.QmK15RaSe9yfdYIR]`|
 |[](pathfinder-bestiary-2-items/f4JPwXqfZM8fy4Zp.htm)|Absorb Force|`@Compendium[pf2e.pathfinder-bestiary-2.f4JPwXqfZM8fy4Zp]`|
 |[](pathfinder-bestiary-2-items/WHISh35la4f2ULAj.htm)|Stunning Chain|`@Compendium[pf2e.pathfinder-bestiary-2.WHISh35la4f2ULAj]`|
 |[](pathfinder-bestiary-2-items/gyVj6MqUbxY54dB9.htm)|Light of Avarice|`@Compendium[pf2e.pathfinder-bestiary-2.gyVj6MqUbxY54dB9]`|
-|[](pathfinder-bestiary-2-items/hVmOEk3NrvvmFkKg.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.hVmOEk3NrvvmFkKg]`|
 |[](pathfinder-bestiary-2-items/iHR7yRqYeZST3uB5.htm)|Constrict|`@Compendium[pf2e.pathfinder-bestiary-2.iHR7yRqYeZST3uB5]`|
 |[](pathfinder-bestiary-2-items/jaF864bUYkmqmrC8.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.jaF864bUYkmqmrC8]`|
 |[](pathfinder-bestiary-2-items/dynvtBdr79KGnqBo.htm)|Can't Catch Me|`@Compendium[pf2e.pathfinder-bestiary-2.dynvtBdr79KGnqBo]`|
@@ -6205,7 +6112,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/lL32oAteqyTNi0nT.htm)|Hallucinatory Brine|`@Compendium[pf2e.pathfinder-bestiary-2.lL32oAteqyTNi0nT]`|
 |[](pathfinder-bestiary-2-items/RFPvW7U5w3NRyp3q.htm)|Envisioning|`@Compendium[pf2e.pathfinder-bestiary-2.RFPvW7U5w3NRyp3q]`|
 |[](pathfinder-bestiary-2-items/gVLqh4wDw9v6njkz.htm)|Jaws|`@Compendium[pf2e.pathfinder-bestiary-2.gVLqh4wDw9v6njkz]`|
-|[](pathfinder-bestiary-2-items/hvQmC6GTFeQoVTYG.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.hvQmC6GTFeQoVTYG]`|
 |[](pathfinder-bestiary-2-items/ope3wpbKSAJOWCJD.htm)|Bony Hand|`@Compendium[pf2e.pathfinder-bestiary-2.ope3wpbKSAJOWCJD]`|
 |[](pathfinder-bestiary-2-items/suaF5gRPb1TibfpQ.htm)|Hooked|`@Compendium[pf2e.pathfinder-bestiary-2.suaF5gRPb1TibfpQ]`|
 |[](pathfinder-bestiary-2-items/44tsCgB5uAVisAQ3.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.44tsCgB5uAVisAQ3]`|
@@ -6220,7 +6126,10 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-2-items/up0HVVMUk86V0DdT.htm)|Burning Rush|`@Compendium[pf2e.pathfinder-bestiary-2.up0HVVMUk86V0DdT]`|
 |[](pathfinder-bestiary-2-items/CUl4eRbkbnzMJ2kZ.htm)|Vulnerable to Endure Elements|`@Compendium[pf2e.pathfinder-bestiary-2.CUl4eRbkbnzMJ2kZ]`|
 |[Abois](pathfinder-bestiary-2-items/uNH8ZKqCgsh6qYis.htm)|Bay|`@Compendium[pf2e.pathfinder-bestiary-2.uNH8ZKqCgsh6qYis]`|
+|[Absorption de sang](pathfinder-bestiary-2-items/sfWdhP3dRBdtmiol.htm)|Blood Drain|`@Compendium[pf2e.pathfinder-bestiary-2.sfWdhP3dRBdtmiol]`|
 |[Agresseur surprise](pathfinder-bestiary-2-items/DcQizfyqoLcJASk7.htm)|Surprise Attacker|`@Compendium[pf2e.pathfinder-bestiary-2.DcQizfyqoLcJASk7]`|
+|[Agrippement avec la langue](pathfinder-bestiary-2-items/YlO5up5kkSrroKf6.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary-2.YlO5up5kkSrroKf6]`|
+|[Agrippement avec la langue](pathfinder-bestiary-2-items/sguXTwhSIa1swJ1p.htm)|Tongue Grab|`@Compendium[pf2e.pathfinder-bestiary-2.sguXTwhSIa1swJ1p]`|
 |[Aile](pathfinder-bestiary-2-items/OYTKATaPDdautdNt.htm)|Wing|`@Compendium[pf2e.pathfinder-bestiary-2.OYTKATaPDdautdNt]`|
 |[Aile](pathfinder-bestiary-2-items/GryMTmkSRqTAW3ol.htm)|Wing|`@Compendium[pf2e.pathfinder-bestiary-2.GryMTmkSRqTAW3ol]`|
 |[Aile](pathfinder-bestiary-2-items/HilJh22elkeshhLj.htm)|Wing|`@Compendium[pf2e.pathfinder-bestiary-2.HilJh22elkeshhLj]`|
@@ -6251,6 +6160,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Arc long composite](pathfinder-bestiary-2-items/mgF7v4Mg6J6e9WVv.htm)|Composite Longbow|`@Compendium[pf2e.pathfinder-bestiary-2.mgF7v4Mg6J6e9WVv]`|
 |[Arc long composite](pathfinder-bestiary-2-items/bezkLxOASRaFHd9O.htm)|Composite Longbow|`@Compendium[pf2e.pathfinder-bestiary-2.bezkLxOASRaFHd9O]`|
 |[Arc long composite](pathfinder-bestiary-2-items/GwBXsOeV4FFdxDzQ.htm)|Composite Longbow|`@Compendium[pf2e.pathfinder-bestiary-2.GwBXsOeV4FFdxDzQ]`|
+|[Arme de souffle](pathfinder-bestiary-2-items/VKysBYdqHBzZ3aOg.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.VKysBYdqHBzZ3aOg]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/J1OKxBmPeSehcjj9.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.J1OKxBmPeSehcjj9]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/nhn4UFoQny0X750B.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.nhn4UFoQny0X750B]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/KQAihkBcgo2L9lGv.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.KQAihkBcgo2L9lGv]`|
@@ -6258,15 +6168,19 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Arme de souffle](pathfinder-bestiary-2-items/6i7GkvP5XmSn8g6G.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.6i7GkvP5XmSn8g6G]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/PySanquTNKBp5Zkm.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.PySanquTNKBp5Zkm]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/j9L9BPR6t7eHpHAt.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.j9L9BPR6t7eHpHAt]`|
+|[Arme de souffle](pathfinder-bestiary-2-items/4KxhR1H4vfF5teNe.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.4KxhR1H4vfF5teNe]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/xmBUGoRIvL3UEoqs.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.xmBUGoRIvL3UEoqs]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/jEaI3soXVIxnAcPe.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.jEaI3soXVIxnAcPe]`|
+|[Arme de souffle](pathfinder-bestiary-2-items/tpQDVH3NwAokh2NC.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.tpQDVH3NwAokh2NC]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/GBMDJeuQSv0Q6T5o.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.GBMDJeuQSv0Q6T5o]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/mBjJ5gUJvowlXzIH.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.mBjJ5gUJvowlXzIH]`|
 |[Arme de souffle](pathfinder-bestiary-2-items/kFLwkDqwtyueOpyG.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.kFLwkDqwtyueOpyG]`|
+|[Arme de souffle](pathfinder-bestiary-2-items/hvQmC6GTFeQoVTYG.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.hvQmC6GTFeQoVTYG]`|
 |[Armes de souffle](pathfinder-bestiary-2-items/OBXLT5RlRI6AauZ1.htm)|Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.OBXLT5RlRI6AauZ1]`|
 |[Armure d'âmes](pathfinder-bestiary-2-items/kxiMCVyD0e1fsT96.htm)|Soul Ward|`@Compendium[pf2e.pathfinder-bestiary-2.kxiMCVyD0e1fsT96]`|
 |[Artisanat](pathfinder-bestiary-2-items/1gu2mF6EgXl6v3eM.htm)|Crafting|`@Compendium[pf2e.pathfinder-bestiary-2.1gu2mF6EgXl6v3eM]`|
 |[Assaut élémentaire](pathfinder-bestiary-2-items/1Kmvtn64DZibqUls.htm)|Elemental Assault|`@Compendium[pf2e.pathfinder-bestiary-2.1Kmvtn64DZibqUls]`|
+|[Asservissement vertigineux](pathfinder-bestiary-2-items/9UD8fQB0IDkl7w1X.htm)|Staggering Servitude|`@Compendium[pf2e.pathfinder-bestiary-2.9UD8fQB0IDkl7w1X]`|
 |[Athlétisme](pathfinder-bestiary-2-items/xrD7IZz445jQXJ8L.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.xrD7IZz445jQXJ8L]`|
 |[Athlétisme](pathfinder-bestiary-2-items/0D7BuUymOeEx7VEM.htm)|Athletics|`@Compendium[pf2e.pathfinder-bestiary-2.0D7BuUymOeEx7VEM]`|
 |[Attaque d'opportunité](pathfinder-bestiary-2-items/rCDCEl5KfuYha1bo.htm)|Attack of Opportunity|`@Compendium[pf2e.pathfinder-bestiary-2.rCDCEl5KfuYha1bo]`|
@@ -6331,11 +6245,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aura de pleurs](pathfinder-bestiary-2-items/981IVfc2IS4Qnd3U.htm)|Aura of Sobs|`@Compendium[pf2e.pathfinder-bestiary-2.981IVfc2IS4Qnd3U]`|
 |[Aura de ruine de l’ordre](pathfinder-bestiary-2-items/CDI8zDOfYxM1bdM6.htm)|Aura of Order's Ruin|`@Compendium[pf2e.pathfinder-bestiary-2.CDI8zDOfYxM1bdM6]`|
 |[Aura pesante](pathfinder-bestiary-2-items/tqSmdxFVDmY2CLns.htm)|Heavy Aura|`@Compendium[pf2e.pathfinder-bestiary-2.tqSmdxFVDmY2CLns]`|
+|[Aura pestilentielle](pathfinder-bestiary-2-items/sSAVmevencpx75UB.htm)|Pestilential Aura|`@Compendium[pf2e.pathfinder-bestiary-2.sSAVmevencpx75UB]`|
+|[Aura pestilentielle](pathfinder-bestiary-2-items/2ESgkLReH2zyxUIl.htm)|Pestilential Aura|`@Compendium[pf2e.pathfinder-bestiary-2.2ESgkLReH2zyxUIl]`|
 |[Auto-dénigrement](pathfinder-bestiary-2-items/Hn5PgfCFMwbKdN20.htm)|Self-Loathing|`@Compendium[pf2e.pathfinder-bestiary-2.Hn5PgfCFMwbKdN20]`|
 |[Avaler de force](pathfinder-bestiary-2-items/dl10m47AKrgF3eVj.htm)|Pour Down Throat|`@Compendium[pf2e.pathfinder-bestiary-2.dl10m47AKrgF3eVj]`|
 |[Aveuglé par la lumière](pathfinder-bestiary-2-items/VLQ2Vi92N8KogGpN.htm)|Light Blindness|`@Compendium[pf2e.pathfinder-bestiary-2.VLQ2Vi92N8KogGpN]`|
 |[Aveuglé par la lumière](pathfinder-bestiary-2-items/hg3lMJ6qrkw8WpZ3.htm)|Light Blindness|`@Compendium[pf2e.pathfinder-bestiary-2.hg3lMJ6qrkw8WpZ3]`|
 |[Aveuglé par la lumière](pathfinder-bestiary-2-items/H2rT9wdiejx3F1b0.htm)|Light Blindness|`@Compendium[pf2e.pathfinder-bestiary-2.H2rT9wdiejx3F1b0]`|
+|[Balayage avec les défenses](pathfinder-bestiary-2-items/6vnexEfGJBfKrtHp.htm)|Tusk Sweep|`@Compendium[pf2e.pathfinder-bestiary-2.6vnexEfGJBfKrtHp]`|
 |[Balayage caudal](pathfinder-bestiary-2-items/ws9YoHlMJ3zrjnM1.htm)|Tail Sweep|`@Compendium[pf2e.pathfinder-bestiary-2.ws9YoHlMJ3zrjnM1]`|
 |[Bec](pathfinder-bestiary-2-items/pXklOYevcG58P7sJ.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-2.pXklOYevcG58P7sJ]`|
 |[Bec](pathfinder-bestiary-2-items/Wrwp9diMkabKorJn.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-2.Wrwp9diMkabKorJn]`|
@@ -6348,8 +6265,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bec](pathfinder-bestiary-2-items/PDq2G4IiMdipukDg.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-2.PDq2G4IiMdipukDg]`|
 |[Bec](pathfinder-bestiary-2-items/CNilhCQNrj60lElM.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-2.CNilhCQNrj60lElM]`|
 |[Blessure infernale](pathfinder-bestiary-2-items/pUwo9wumwrjtvid1.htm)|Infernal Wound|`@Compendium[pf2e.pathfinder-bestiary-2.pUwo9wumwrjtvid1]`|
+|[Blessures murmurantes](pathfinder-bestiary-2-items/RFcZ8BNKEh3WWl6j.htm)|Whispering Wounds|`@Compendium[pf2e.pathfinder-bestiary-2.RFcZ8BNKEh3WWl6j]`|
 |[Blocage au bouclier](pathfinder-bestiary-2-items/gvU3ZMNnU7PcbF4v.htm)|Shield Block|`@Compendium[pf2e.pathfinder-bestiary-2.gvU3ZMNnU7PcbF4v]`|
 |[Blocage au bouclier](pathfinder-bestiary-2-items/K45PxGQvJlwB2Y0j.htm)|Shield Block|`@Compendium[pf2e.pathfinder-bestiary-2.K45PxGQvJlwB2Y0j]`|
+|[Boire le sang](pathfinder-bestiary-2-items/pTjXZs6ZwSF31KLb.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.pTjXZs6ZwSF31KLb]`|
+|[Boire le sang](pathfinder-bestiary-2-items/DxgiMoyx7wyltYqp.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.DxgiMoyx7wyltYqp]`|
+|[Boire le sang](pathfinder-bestiary-2-items/cjFyZppcDxVUaRJD.htm)|Drink Blood|`@Compendium[pf2e.pathfinder-bestiary-2.cjFyZppcDxVUaRJD]`|
 |[Bola de toile](pathfinder-bestiary-2-items/sR5alX5hZopxwTLw.htm)|Web Bola|`@Compendium[pf2e.pathfinder-bestiary-2.sR5alX5hZopxwTLw]`|
 |[Bond](pathfinder-bestiary-2-items/YdcYSwBDfJFctOhL.htm)|Pounce|`@Compendium[pf2e.pathfinder-bestiary-2.YdcYSwBDfJFctOhL]`|
 |[Bond](pathfinder-bestiary-2-items/3t8p1OnCR5iUrhxt.htm)|Pounce|`@Compendium[pf2e.pathfinder-bestiary-2.3t8p1OnCR5iUrhxt]`|
@@ -6364,7 +6285,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/hychIP30Jt5HOYED.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.hychIP30Jt5HOYED]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/qHEzK4MngkQB6vhD.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.qHEzK4MngkQB6vhD]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/IvU2EF3nyrIZUdjp.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.IvU2EF3nyrIZUdjp]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/DfefDz8ZxlBybpoa.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.DfefDz8ZxlBybpoa]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/TPKGkvgCAQz8TKeC.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.TPKGkvgCAQz8TKeC]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/FuTchIYowgou1HIa.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.FuTchIYowgou1HIa]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/GPRRfLJKZALqfKud.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.GPRRfLJKZALqfKud]`|
@@ -6384,14 +6304,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/Q6Z6sPX8M68AUOXI.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.Q6Z6sPX8M68AUOXI]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/K80GtqxqKN7Og68w.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.K80GtqxqKN7Og68w]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/Qx0Uh3ktQIh1dVKT.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.Qx0Uh3ktQIh1dVKT]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/tAdSWqK8N7bxwjab.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.tAdSWqK8N7bxwjab]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/jKCuP9xlPQoqlnGq.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.jKCuP9xlPQoqlnGq]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/vLuAkberNsYeDSD0.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.vLuAkberNsYeDSD0]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/GL5oMe9C6pcXxqcU.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.GL5oMe9C6pcXxqcU]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/KTc5frqwQnvcjRY9.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.KTc5frqwQnvcjRY9]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/eqGZhn9lsZI6JDYE.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.eqGZhn9lsZI6JDYE]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/Z4dJO56WCJUBTpyf.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.Z4dJO56WCJUBTpyf]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/gSm7LVM6KgueNn8S.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.gSm7LVM6KgueNn8S]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/oC5vZAEFIISSmofG.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.oC5vZAEFIISSmofG]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/aHkhx52xZZTtPI25.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.aHkhx52xZZTtPI25]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/RLJbJxbajEsFLapw.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.RLJbJxbajEsFLapw]`|
@@ -6399,7 +6316,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/8BGsf6kEIrCtKGgo.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.8BGsf6kEIrCtKGgo]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/3EzYscL7vFw5pVbn.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.3EzYscL7vFw5pVbn]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/RHRtFPGTQDqJ0cER.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.RHRtFPGTQDqJ0cER]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/fuxGM2FMqoHqXPJ4.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.fuxGM2FMqoHqXPJ4]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/KQ5qTss6bA4fQLVK.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.KQ5qTss6bA4fQLVK]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/N9DGOzWNdk9Q9GYm.htm)|+1 Status Bonus on Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.N9DGOzWNdk9Q9GYm]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/8GCV9NHdglsydwmB.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.8GCV9NHdglsydwmB]`|
@@ -6407,7 +6323,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/wSYxanQKAbTVaazk.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.wSYxanQKAbTVaazk]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/W9vOqV3RGCnKCbHu.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.W9vOqV3RGCnKCbHu]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/TBsuxObKIaeVagO5.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.TBsuxObKIaeVagO5]`|
-|[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/FBO25NSysfQagiQl.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.FBO25NSysfQagiQl]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/CpTRDv42ZCA5jHZL.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.CpTRDv42ZCA5jHZL]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/pLNcYnrUhpwxDo9b.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.pLNcYnrUhpwxDo9b]`|
 |[Bonus de statut de +1 aux jds contre la magie](pathfinder-bestiary-2-items/LPLiXKoxMuJu4ifi.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.LPLiXKoxMuJu4ifi]`|
@@ -6428,9 +6343,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 contre Mental](pathfinder-bestiary-2-items/EAsAGjtMDBLWo0ZO.htm)|+2 Status to All Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.EAsAGjtMDBLWo0ZO]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-2-items/Ybx41yIdQO59hKjK.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.Ybx41yIdQO59hKjK]`|
 |[Bonus de statut de +1 jds contre magie](pathfinder-bestiary-2-items/Ipe3znrfNfiAvRCl.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.Ipe3znrfNfiAvRCl]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/DfefDz8ZxlBybpoa.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.DfefDz8ZxlBybpoa]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/tAdSWqK8N7bxwjab.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.tAdSWqK8N7bxwjab]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/vLuAkberNsYeDSD0.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.vLuAkberNsYeDSD0]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/gSm7LVM6KgueNn8S.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.gSm7LVM6KgueNn8S]`|
 |[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/KJKzoE0ci2sMwyFX.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.KJKzoE0ci2sMwyFX]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/fuxGM2FMqoHqXPJ4.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.fuxGM2FMqoHqXPJ4]`|
 |[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/HViM44dkUyHEWK31.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.HViM44dkUyHEWK31]`|
 |[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/TxgMLxy2ap1ZIMWz.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.TxgMLxy2ap1ZIMWz]`|
+|[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/FBO25NSysfQagiQl.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.FBO25NSysfQagiQl]`|
 |[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/x4vlJSFL6WnsbK82.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.x4vlJSFL6WnsbK82]`|
 |[Bonus de statut de +1 à tous les jets de sauvegarde contre la magie](pathfinder-bestiary-2-items/JWaVcBKV9F51VWja.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.JWaVcBKV9F51VWja]`|
 |[Bonus de statut de +1 à tous les jets de sauvegardes contre la magie](pathfinder-bestiary-2-items/axUDNy9X18Sypfa8.htm)|+1 Status Bonus on Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.axUDNy9X18Sypfa8]`|
@@ -6439,6 +6360,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bonus de statut de +1 à tous les jets de sauvegardes contre la magie](pathfinder-bestiary-2-items/GoYV1mj4XKxDiBOM.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.GoYV1mj4XKxDiBOM]`|
 |[Bonus de statut de +2 aux jds contre les effets mentaux](pathfinder-bestiary-2-items/5EcCWK4rV7lqrPqY.htm)|+2 Status Bonus on Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.5EcCWK4rV7lqrPqY]`|
 |[Bonus de statut de +4 contre le mental](pathfinder-bestiary-2-items/DUJLW3KPZ4HNw8je.htm)|+4 Status Bonus on Will Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.DUJLW3KPZ4HNw8je]`|
+|[Bonus de statut de +4 contre le mental](pathfinder-bestiary-2-items/o4iEKaEBIwAr18XF.htm)|+4 Status Bonus on Will Saves vs Mental|`@Compendium[pf2e.pathfinder-bestiary-2.o4iEKaEBIwAr18XF]`|
 |[Bouillie par la lumière](pathfinder-bestiary-2-items/yu67ZekTRXDanQoC.htm)|Boiled by Light|`@Compendium[pf2e.pathfinder-bestiary-2.yu67ZekTRXDanQoC]`|
 |[Bourrasque](pathfinder-bestiary-2-items/BbzYprMJVagq4zOn.htm)|Gust|`@Compendium[pf2e.pathfinder-bestiary-2.BbzYprMJVagq4zOn]`|
 |[Bourrasque](pathfinder-bestiary-2-items/7RlCpEdZ5Lw3Omd2.htm)|Gust|`@Compendium[pf2e.pathfinder-bestiary-2.7RlCpEdZ5Lw3Omd2]`|
@@ -6455,6 +6377,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Bras tentaculaire](pathfinder-bestiary-2-items/TfHuj8LvtfwsXfXQ.htm)|Tentacle Arm|`@Compendium[pf2e.pathfinder-bestiary-2.TfHuj8LvtfwsXfXQ]`|
 |[Broyage d’âme](pathfinder-bestiary-2-items/uQDUAoudAP9pgxja.htm)|Soul Crush|`@Compendium[pf2e.pathfinder-bestiary-2.uQDUAoudAP9pgxja]`|
 |[Brèche](pathfinder-bestiary-2-items/k3o7ZpWc6J6flWCQ.htm)|Breach|`@Compendium[pf2e.pathfinder-bestiary-2.k3o7ZpWc6J6flWCQ]`|
+|[Buveur de foudre](pathfinder-bestiary-2-items/1ENGsx3BESdgdHnk.htm)|Lightning Drinker|`@Compendium[pf2e.pathfinder-bestiary-2.1ENGsx3BESdgdHnk]`|
 |[Bâton](pathfinder-bestiary-2-items/CXc8oBEPlsp8HDTd.htm)|Staff|`@Compendium[pf2e.pathfinder-bestiary-2.CXc8oBEPlsp8HDTd]`|
 |[Bô](pathfinder-bestiary-2-items/PwSEiS1mqX6rqjJa.htm)|Bo Staff|`@Compendium[pf2e.pathfinder-bestiary-2.PwSEiS1mqX6rqjJa]`|
 |[Caresse de flammes ensorcelées](pathfinder-bestiary-2-items/9eONvr5by0xfPFcf.htm)|Witchflame Caress|`@Compendium[pf2e.pathfinder-bestiary-2.9eONvr5by0xfPFcf]`|
@@ -6463,11 +6386,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cercueil de magma](pathfinder-bestiary-2-items/Ab1sWqDegn71eEve.htm)|Magma Tomb|`@Compendium[pf2e.pathfinder-bestiary-2.Ab1sWqDegn71eEve]`|
 |[Chaine](pathfinder-bestiary-2-items/7QTkBSoDwgvNiBiC.htm)|Chain|`@Compendium[pf2e.pathfinder-bestiary-2.7QTkBSoDwgvNiBiC]`|
 |[Chaine](pathfinder-bestiary-2-items/PbnYiMI8IGyrAIej.htm)|Chain|`@Compendium[pf2e.pathfinder-bestiary-2.PbnYiMI8IGyrAIej]`|
-|[Chaine](pathfinder-bestiary-2-items/lY7Ggtouj0iOizqY.htm)|Chain|`@Compendium[pf2e.pathfinder-bestiary-2.lY7Ggtouj0iOizqY]`|
 |[Chaleur du dragon](pathfinder-bestiary-2-items/Smr9bqHYQl1EI48C.htm)|Dragon Heat|`@Compendium[pf2e.pathfinder-bestiary-2.Smr9bqHYQl1EI48C]`|
 |[Changement de forme](pathfinder-bestiary-2-items/tH3f4GsDerHRNPik.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.tH3f4GsDerHRNPik]`|
+|[Changement de forme](pathfinder-bestiary-2-items/x1kqxURcucjG3BaP.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.x1kqxURcucjG3BaP]`|
+|[Changement de forme](pathfinder-bestiary-2-items/MvqmGM4ha7aQt1CR.htm)|Change Shape|`@Compendium[pf2e.pathfinder-bestiary-2.MvqmGM4ha7aQt1CR]`|
 |[Chasseur de démon](pathfinder-bestiary-2-items/0dNqhk5KI3nAaTlu.htm)|Demon Hunter|`@Compendium[pf2e.pathfinder-bestiary-2.0dNqhk5KI3nAaTlu]`|
 |[Chavirer](pathfinder-bestiary-2-items/oNpExBZGMP135Gh8.htm)|Capsize|`@Compendium[pf2e.pathfinder-bestiary-2.oNpExBZGMP135Gh8]`|
+|[Chaîne](pathfinder-bestiary-2-items/lY7Ggtouj0iOizqY.htm)|Chain|`@Compendium[pf2e.pathfinder-bestiary-2.lY7Ggtouj0iOizqY]`|
+|[Chaîne barbelée](pathfinder-bestiary-2-items/WqAfn6xBB95rkCnJ.htm)|Barbed Chain|`@Compendium[pf2e.pathfinder-bestiary-2.WqAfn6xBB95rkCnJ]`|
 |[Chaîne cloutée](pathfinder-bestiary-2-items/4MEkxras2sA4aWfg.htm)|Spiked Chain|`@Compendium[pf2e.pathfinder-bestiary-2.4MEkxras2sA4aWfg]`|
 |[Chaîne cloutée](pathfinder-bestiary-2-items/zgKk3c4d3SCNJutG.htm)|Spiked Chain|`@Compendium[pf2e.pathfinder-bestiary-2.zgKk3c4d3SCNJutG]`|
 |[Choc](pathfinder-bestiary-2-items/Q7nRRCF8dXONTqKt.htm)|Shock|`@Compendium[pf2e.pathfinder-bestiary-2.Q7nRRCF8dXONTqKt]`|
@@ -6502,11 +6428,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Cornes](pathfinder-bestiary-2-items/oQNL2zFwRBLQE7vn.htm)|Horns|`@Compendium[pf2e.pathfinder-bestiary-2.oQNL2zFwRBLQE7vn]`|
 |[Cornes](pathfinder-bestiary-2-items/TZC0DNY97EGRDFbD.htm)|Horns|`@Compendium[pf2e.pathfinder-bestiary-2.TZC0DNY97EGRDFbD]`|
 |[Cornes](pathfinder-bestiary-2-items/O0YSsVnEBCg6oJnT.htm)|Horns|`@Compendium[pf2e.pathfinder-bestiary-2.O0YSsVnEBCg6oJnT]`|
+|[Corruption sauvage](pathfinder-bestiary-2-items/gm4ckzxne8UYVaZg.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.gm4ckzxne8UYVaZg]`|
+|[Corruption sauvage](pathfinder-bestiary-2-items/WPVTRIdQSTbDZImk.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.WPVTRIdQSTbDZImk]`|
+|[Corruption sauvage](pathfinder-bestiary-2-items/GnAoSJeodjtFoanm.htm)|Feral Possession|`@Compendium[pf2e.pathfinder-bestiary-2.GnAoSJeodjtFoanm]`|
 |[Corsèque](pathfinder-bestiary-2-items/6CGO8ENM5nFAurjN.htm)|Ranseur|`@Compendium[pf2e.pathfinder-bestiary-2.6CGO8ENM5nFAurjN]`|
 |[Coup d'oeil pétrifiant](pathfinder-bestiary-2-items/dZoSOjCNPr4EIzGG.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary-2.dZoSOjCNPr4EIzGG]`|
 |[Coup d'oeil pétrifiant](pathfinder-bestiary-2-items/5aqMBttykiS0SKAb.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary-2.5aqMBttykiS0SKAb]`|
 |[Coup d’oeil pétrifiant](pathfinder-bestiary-2-items/zaLf6csWyorRHycA.htm)|Petrifying Glance|`@Compendium[pf2e.pathfinder-bestiary-2.zaLf6csWyorRHycA]`|
 |[Creusement dans la glace](pathfinder-bestiary-2-items/fUyM5YcNhV5dlwTV.htm)|Ice Burrow|`@Compendium[pf2e.pathfinder-bestiary-2.fUyM5YcNhV5dlwTV]`|
+|[Cri perçant](pathfinder-bestiary-2-items/w0XMZ6GmkzJcCRyO.htm)|Piercing Shriek|`@Compendium[pf2e.pathfinder-bestiary-2.w0XMZ6GmkzJcCRyO]`|
 |[Cristallisation de la chair](pathfinder-bestiary-2-items/jC3hvioFdJ495oDv.htm)|Crystallize Flesh|`@Compendium[pf2e.pathfinder-bestiary-2.jC3hvioFdJ495oDv]`|
 |[Critiques vicieux](pathfinder-bestiary-2-items/kGZni5n9AHCuIa7c.htm)|Vicious Criticals|`@Compendium[pf2e.pathfinder-bestiary-2.kGZni5n9AHCuIa7c]`|
 |[Croc-en-jambe à distance.](pathfinder-bestiary-2-items/iZxDrmolCkhIxWO6.htm)|Ranged Trip|`@Compendium[pf2e.pathfinder-bestiary-2.iZxDrmolCkhIxWO6]`|
@@ -6556,6 +6486,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Discrétion](pathfinder-bestiary-2-items/LTW5DHnhGB6HMte6.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.LTW5DHnhGB6HMte6]`|
 |[Discrétion](pathfinder-bestiary-2-items/6dch35LAYgze01qE.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.6dch35LAYgze01qE]`|
 |[Discrétion](pathfinder-bestiary-2-items/7iLw2emMidGNxyzJ.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.7iLw2emMidGNxyzJ]`|
+|[Discrétion](pathfinder-bestiary-2-items/rs8cxUHAMnuhP7nv.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.rs8cxUHAMnuhP7nv]`|
 |[Discrétion](pathfinder-bestiary-2-items/hX2hdrvbUdBKffJD.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.hX2hdrvbUdBKffJD]`|
 |[Discrétion](pathfinder-bestiary-2-items/gfmpjwebcEUzSXoN.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.gfmpjwebcEUzSXoN]`|
 |[Discrétion](pathfinder-bestiary-2-items/c4ByZjVeW0km1U7W.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.c4ByZjVeW0km1U7W]`|
@@ -6563,7 +6494,11 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Discrétion](pathfinder-bestiary-2-items/jljKVq6TmhKOQUSh.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.jljKVq6TmhKOQUSh]`|
 |[Discrétion](pathfinder-bestiary-2-items/3IKSOIIWyaxP7Xbh.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.3IKSOIIWyaxP7Xbh]`|
 |[Discrétion](pathfinder-bestiary-2-items/kynHGhmwcc8qJ5T8.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-2.kynHGhmwcc8qJ5T8]`|
+|[Domination animale](pathfinder-bestiary-2-items/kvsmf0ENkLJSdBP2.htm)|Dominate Animal|`@Compendium[pf2e.pathfinder-bestiary-2.kvsmf0ENkLJSdBP2]`|
+|[Domination animale](pathfinder-bestiary-2-items/G0D3kQHUd2mouA90.htm)|Dominate Animal|`@Compendium[pf2e.pathfinder-bestiary-2.G0D3kQHUd2mouA90]`|
 |[Don grotesque](pathfinder-bestiary-2-items/cjYLiElA3muRcJuo.htm)|Grotesque Gift|`@Compendium[pf2e.pathfinder-bestiary-2.cjYLiElA3muRcJuo]`|
+|[Double attaque](pathfinder-bestiary-2-items/qfkx0yR9a3Qh4LsT.htm)|Double Attack|`@Compendium[pf2e.pathfinder-bestiary-2.qfkx0yR9a3Qh4LsT]`|
+|[Double griffe](pathfinder-bestiary-2-items/Cxm87AR1TJom2drt.htm)|Double Claw|`@Compendium[pf2e.pathfinder-bestiary-2.Cxm87AR1TJom2drt]`|
 |[Douleur raffinée](pathfinder-bestiary-2-items/pmHXQt1EgMIVwD1i.htm)|Exquisite Pain|`@Compendium[pf2e.pathfinder-bestiary-2.pmHXQt1EgMIVwD1i]`|
 |[Déchirer et arracher](pathfinder-bestiary-2-items/Od1YX31hXRHCzHS3.htm)|Rip and Tear|`@Compendium[pf2e.pathfinder-bestiary-2.Od1YX31hXRHCzHS3]`|
 |[Défense](pathfinder-bestiary-2-items/A3RVgZkJQrtRoYi2.htm)|Tusk|`@Compendium[pf2e.pathfinder-bestiary-2.A3RVgZkJQrtRoYi2]`|
@@ -6575,6 +6510,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dématérialisation](pathfinder-bestiary-2-items/Qzr8MBWWm4DE5P8H.htm)|Discorporate|`@Compendium[pf2e.pathfinder-bestiary-2.Qzr8MBWWm4DE5P8H]`|
 |[Démonstration paralysante](pathfinder-bestiary-2-items/i9n1VIjQaHqI1V9X.htm)|Paralyzing Display|`@Compendium[pf2e.pathfinder-bestiary-2.i9n1VIjQaHqI1V9X]`|
 |[Démonstration étourdissante](pathfinder-bestiary-2-items/uY2J1JrUYcVbFp2j.htm)|Stunning Display|`@Compendium[pf2e.pathfinder-bestiary-2.uY2J1JrUYcVbFp2j]`|
+|[Déplacement facilité dans les marais](pathfinder-bestiary-2-items/WtMCu7aRag8Z4ewh.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary-2.WtMCu7aRag8Z4ewh]`|
 |[Désarmement par arrachage](pathfinder-bestiary-2-items/ALbbJNuSFbicqOfo.htm)|Ripping Disarm|`@Compendium[pf2e.pathfinder-bestiary-2.ALbbJNuSFbicqOfo]`|
 |[Désespoir susurré](pathfinder-bestiary-2-items/0DR36G32rpPd9PIN.htm)|Whispered Despair|`@Compendium[pf2e.pathfinder-bestiary-2.0DR36G32rpPd9PIN]`|
 |[Dévorer les âmes](pathfinder-bestiary-2-items/v8A5DhitrEJIAAL1.htm)|Consume Soul|`@Compendium[pf2e.pathfinder-bestiary-2.v8A5DhitrEJIAAL1]`|
@@ -6584,6 +6520,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Embuscade aquatique](pathfinder-bestiary-2-items/HWUmjgOASJXWhmgn.htm)|Aquatic Ambush|`@Compendium[pf2e.pathfinder-bestiary-2.HWUmjgOASJXWhmgn]`|
 |[Embuscade sylvestre](pathfinder-bestiary-2-items/XCr9jxxE59Egb2R1.htm)|Woodland Ambush|`@Compendium[pf2e.pathfinder-bestiary-2.XCr9jxxE59Egb2R1]`|
 |[Empathie avec les tigres](pathfinder-bestiary-2-items/NSLdgH5UqohAav11.htm)|Tiger Empathy|`@Compendium[pf2e.pathfinder-bestiary-2.NSLdgH5UqohAav11]`|
+|[Empathie sauvage](pathfinder-bestiary-2-items/4tddCK0S1FejzHcG.htm)|Wild Empathy|`@Compendium[pf2e.pathfinder-bestiary-2.4tddCK0S1FejzHcG]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-2-items/kbzaYm7nhy7Ip1Tj.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-2.kbzaYm7nhy7Ip1Tj]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-2-items/Zh1eW0zEMgFfvRik.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-2.Zh1eW0zEMgFfvRik]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-2-items/MPbG99HGshwvN1vm.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-2.MPbG99HGshwvN1vm]`|
@@ -6693,11 +6630,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Flammes ensorcelées incandescentes](pathfinder-bestiary-2-items/tjQCRx8UN4LQPnwJ.htm)|Witchflame Kindling|`@Compendium[pf2e.pathfinder-bestiary-2.tjQCRx8UN4LQPnwJ]`|
 |[Flammes ensorcelées opportunistes](pathfinder-bestiary-2-items/t9ReCb126y5KXuru.htm)|Opportune Witchflame|`@Compendium[pf2e.pathfinder-bestiary-2.t9ReCb126y5KXuru]`|
 |[Fléchette](pathfinder-bestiary-2-items/hA4DPWIY7hQbSa0i.htm)|Dart|`@Compendium[pf2e.pathfinder-bestiary-2.hA4DPWIY7hQbSa0i]`|
+|[Focaliser le regard](pathfinder-bestiary-2-items/t3cnDaUX26zIroa8.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.t3cnDaUX26zIroa8]`|
 |[Focaliser le regard](pathfinder-bestiary-2-items/4b9FtRKJfWmjYbQR.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.4b9FtRKJfWmjYbQR]`|
+|[Focaliser le regard](pathfinder-bestiary-2-items/tRLWCHj0DJ8Jb78B.htm)|Focus Gaze|`@Compendium[pf2e.pathfinder-bestiary-2.tRLWCHj0DJ8Jb78B]`|
 |[Forage de cerveau](pathfinder-bestiary-2-items/fDOQq8mfa2PhlHcF.htm)|Bore into Brain|`@Compendium[pf2e.pathfinder-bestiary-2.fDOQq8mfa2PhlHcF]`|
 |[Foreur de roche](pathfinder-bestiary-2-items/BczEX9fZ2q5qXxKI.htm)|Rock Tunneler|`@Compendium[pf2e.pathfinder-bestiary-2.BczEX9fZ2q5qXxKI]`|
 |[Foreuse](pathfinder-bestiary-2-items/8tPI0ksCv4zvd6WV.htm)|Corkscrew|`@Compendium[pf2e.pathfinder-bestiary-2.8tPI0ksCv4zvd6WV]`|
 |[Foreuse](pathfinder-bestiary-2-items/y0g8S6A5Uri1G8xe.htm)|Drill|`@Compendium[pf2e.pathfinder-bestiary-2.y0g8S6A5Uri1G8xe]`|
+|[Forme de nuage](pathfinder-bestiary-2-items/0v7H9KCVbUUdkdU7.htm)|Cloud Form|`@Compendium[pf2e.pathfinder-bestiary-2.0v7H9KCVbUUdkdU7]`|
+|[Forme de nuage](pathfinder-bestiary-2-items/cuHB5zR7MVWma2MD.htm)|Cloud Form|`@Compendium[pf2e.pathfinder-bestiary-2.cuHB5zR7MVWma2MD]`|
 |[Fragment osseux](pathfinder-bestiary-2-items/UUVUKTE7xQsPxDNy.htm)|Bone Shard|`@Compendium[pf2e.pathfinder-bestiary-2.UUVUKTE7xQsPxDNy]`|
 |[Frappe de vague de distorsion](pathfinder-bestiary-2-items/9FcMZnkENPj4z3q0.htm)|Warpwave Strike|`@Compendium[pf2e.pathfinder-bestiary-2.9FcMZnkENPj4z3q0]`|
 |[Frappe fulgurante](pathfinder-bestiary-2-items/Qhdl7tHPD3bhAihm.htm)|Lash Out|`@Compendium[pf2e.pathfinder-bestiary-2.Qhdl7tHPD3bhAihm]`|
@@ -6722,6 +6663,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Frénésie draconique](pathfinder-bestiary-2-items/qxkuhugvyoxDpt7N.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.qxkuhugvyoxDpt7N]`|
 |[Frénésie draconique](pathfinder-bestiary-2-items/eR8AFynWU8vfsTA9.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.eR8AFynWU8vfsTA9]`|
 |[Frénésie draconique](pathfinder-bestiary-2-items/A5NdjSB3IdJS5DAb.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.A5NdjSB3IdJS5DAb]`|
+|[Frénésie draconique](pathfinder-bestiary-2-items/gBFFibeJFk4MB72C.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.gBFFibeJFk4MB72C]`|
+|[Frénésie draconique](pathfinder-bestiary-2-items/wnZi8QCOMG86Db4l.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.wnZi8QCOMG86Db4l]`|
 |[Frénésie draconique](pathfinder-bestiary-2-items/2IZWaM2O4amLWbye.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.2IZWaM2O4amLWbye]`|
 |[Frénésie lunaire](pathfinder-bestiary-2-items/hSvaFFK9ERUSfUry.htm)|Moon Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.hSvaFFK9ERUSfUry]`|
 |[Frénésie lunaire](pathfinder-bestiary-2-items/AKOKPl5zfFti3EZh.htm)|Moon Frenzy|`@Compendium[pf2e.pathfinder-bestiary-2.AKOKPl5zfFti3EZh]`|
@@ -6827,6 +6770,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Griffe](pathfinder-bestiary-2-items/9zIzERdEdvnnEjwe.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.9zIzERdEdvnnEjwe]`|
 |[Griffe](pathfinder-bestiary-2-items/npIgzch2HZkhFifI.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.npIgzch2HZkhFifI]`|
 |[Griffe](pathfinder-bestiary-2-items/L35cRaqjhItrc6Po.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.L35cRaqjhItrc6Po]`|
+|[Griffe](pathfinder-bestiary-2-items/nMVv9cAH945ESnI9.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.nMVv9cAH945ESnI9]`|
 |[Griffe](pathfinder-bestiary-2-items/ujOn2cOoDTqdrh70.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.ujOn2cOoDTqdrh70]`|
 |[Griffe](pathfinder-bestiary-2-items/iRcU8dloUGz1q7VC.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.iRcU8dloUGz1q7VC]`|
 |[Griffe](pathfinder-bestiary-2-items/HvL4pznzaaZwsFkA.htm)|Claw|`@Compendium[pf2e.pathfinder-bestiary-2.HvL4pznzaaZwsFkA]`|
@@ -6866,6 +6810,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Guérison accélérée 2 (au contact de la boue ou du limon)](pathfinder-bestiary-2-items/fg8mmyOMmhcaaO4s.htm)|Fast Healing 2 (when touching mud or slime)|`@Compendium[pf2e.pathfinder-bestiary-2.fg8mmyOMmhcaaO4s]`|
 |[Guérison accélérée 2 (au contact de la glace ou de la neige)](pathfinder-bestiary-2-items/a29GFo7lbKhSTAYm.htm)|Fast Healing 2 (when touching ice or snow)|`@Compendium[pf2e.pathfinder-bestiary-2.a29GFo7lbKhSTAYm]`|
 |[Guérison accélérée 2 (dans la vapeur ou l'eau bouillante)](pathfinder-bestiary-2-items/CpVMSme8RWwiT0UY.htm)|Fast Healing 2 (in boiling water or steam)|`@Compendium[pf2e.pathfinder-bestiary-2.CpVMSme8RWwiT0UY]`|
+|[Guérison accélérée 20](pathfinder-bestiary-2-items/qfAGiyqMgrNFUoSw.htm)|Fast Healing 20|`@Compendium[pf2e.pathfinder-bestiary-2.qfAGiyqMgrNFUoSw]`|
 |[Guérison accélérée 5](pathfinder-bestiary-2-items/SuO1iTdYnYyeXOGq.htm)|Fast Healing 5|`@Compendium[pf2e.pathfinder-bestiary-2.SuO1iTdYnYyeXOGq]`|
 |[Guérison accélérée 5](pathfinder-bestiary-2-items/ed300vUjktB7yhD7.htm)|Fast Healing 5|`@Compendium[pf2e.pathfinder-bestiary-2.ed300vUjktB7yhD7]`|
 |[Guérison accélérée 5](pathfinder-bestiary-2-items/2JHGP2W5F09SgDOr.htm)|Fast Healing 5|`@Compendium[pf2e.pathfinder-bestiary-2.2JHGP2W5F09SgDOr]`|
@@ -6894,6 +6839,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Guérison négative](pathfinder-bestiary-2-items/wtvDPCazUVSsqJ2O.htm)|Negative Healing|`@Compendium[pf2e.pathfinder-bestiary-2.wtvDPCazUVSsqJ2O]`|
 |[Hachette](pathfinder-bestiary-2-items/2wJro1SjxNwEf7TQ.htm)|Hatchet|`@Compendium[pf2e.pathfinder-bestiary-2.2wJro1SjxNwEf7TQ]`|
 |[Hachette](pathfinder-bestiary-2-items/uR5sStuJbBbR9XK6.htm)|Hatchet|`@Compendium[pf2e.pathfinder-bestiary-2.uR5sStuJbBbR9XK6]`|
+|[Hurlement de l’ombre](pathfinder-bestiary-2-items/ZwOinMaTzmRM28rJ.htm)|Shadow Scream|`@Compendium[pf2e.pathfinder-bestiary-2.ZwOinMaTzmRM28rJ]`|
 |[Hurlement sinistre](pathfinder-bestiary-2-items/azVkPps7BUkHzups.htm)|Baleful Shriek|`@Compendium[pf2e.pathfinder-bestiary-2.azVkPps7BUkHzups]`|
 |[Ignorer la douleur](pathfinder-bestiary-2-items/NsRn4K2Tli8P3WKm.htm)|Ignore Pain|`@Compendium[pf2e.pathfinder-bestiary-2.NsRn4K2Tli8P3WKm]`|
 |[Immersion textuelle](pathfinder-bestiary-2-items/nIDe1OaPgWDPyBej.htm)|Text Immersion|`@Compendium[pf2e.pathfinder-bestiary-2.nIDe1OaPgWDPyBej]`|
@@ -6904,7 +6850,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Injection d'eau](pathfinder-bestiary-2-items/xx6zXcdGLkuW5RmE.htm)|Flooding Thrust|`@Compendium[pf2e.pathfinder-bestiary-2.xx6zXcdGLkuW5RmE]`|
 |[Inquisiteur stygien](pathfinder-bestiary-2-items/aQUfPBPzpqLlkRM0.htm)|Stygian Inquisitor|`@Compendium[pf2e.pathfinder-bestiary-2.aQUfPBPzpqLlkRM0]`|
 |[Inspiration profonde](pathfinder-bestiary-2-items/m9kHAZ6q8lhsA9dC.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.m9kHAZ6q8lhsA9dC]`|
+|[Inspiration profonde](pathfinder-bestiary-2-items/khgGPSxgTQcgev3o.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.khgGPSxgTQcgev3o]`|
 |[Inspiration profonde](pathfinder-bestiary-2-items/Dax6qfY1KhJqryzV.htm)|Deep Breath|`@Compendium[pf2e.pathfinder-bestiary-2.Dax6qfY1KhJqryzV]`|
+|[Insuffler du courage](pathfinder-bestiary-2-items/snHGvNo3Y3eluuUN.htm)|Compel Courage|`@Compendium[pf2e.pathfinder-bestiary-2.snHGvNo3Y3eluuUN]`|
 |[Interception de rochers](pathfinder-bestiary-2-items/8SI23rDwK2QYJaxP.htm)|Catch Rock|`@Compendium[pf2e.pathfinder-bestiary-2.8SI23rDwK2QYJaxP]`|
 |[Interception de rochers](pathfinder-bestiary-2-items/GbfpFzRZunqiRxI5.htm)|Catch Rock|`@Compendium[pf2e.pathfinder-bestiary-2.GbfpFzRZunqiRxI5]`|
 |[Interception de rochers](pathfinder-bestiary-2-items/bl1xW54BlfiFnU8h.htm)|Catch Rock|`@Compendium[pf2e.pathfinder-bestiary-2.bl1xW54BlfiFnU8h]`|
@@ -6916,6 +6864,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Jambe](pathfinder-bestiary-2-items/Wvss2Toe2q47z9GS.htm)|Leg|`@Compendium[pf2e.pathfinder-bestiary-2.Wvss2Toe2q47z9GS]`|
 |[Jambes](pathfinder-bestiary-2-items/Py8ycO501wOs8ujU.htm)|Legs|`@Compendium[pf2e.pathfinder-bestiary-2.Py8ycO501wOs8ujU]`|
 |[Jet d'eau](pathfinder-bestiary-2-items/R8vIKnaOA34FiWMY.htm)|Water Jet|`@Compendium[pf2e.pathfinder-bestiary-2.R8vIKnaOA34FiWMY]`|
+|[Jugement dernier](pathfinder-bestiary-2-items/nEZNMODnNpwrnUPC.htm)|Final Judgment|`@Compendium[pf2e.pathfinder-bestiary-2.nEZNMODnNpwrnUPC]`|
 |[Katana](pathfinder-bestiary-2-items/XMTEsGgReo4d8QMB.htm)|Katana|`@Compendium[pf2e.pathfinder-bestiary-2.XMTEsGgReo4d8QMB]`|
 |[Kukri](pathfinder-bestiary-2-items/OpUEqqVcx7trG4mu.htm)|Kukri|`@Compendium[pf2e.pathfinder-bestiary-2.OpUEqqVcx7trG4mu]`|
 |[Kukri](pathfinder-bestiary-2-items/eUBZ8xXpWH2Gvg39.htm)|Kukri|`@Compendium[pf2e.pathfinder-bestiary-2.eUBZ8xXpWH2Gvg39]`|
@@ -6935,6 +6884,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Lancer de rocher](pathfinder-bestiary-2-items/n94Dl501br4UFyL1.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary-2.n94Dl501br4UFyL1]`|
 |[Lancer de rocher](pathfinder-bestiary-2-items/Wez6v2oJoatkzzVp.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary-2.Wez6v2oJoatkzzVp]`|
 |[Lancer de rocher](pathfinder-bestiary-2-items/aisovzPKcYvcneL7.htm)|Throw Rock|`@Compendium[pf2e.pathfinder-bestiary-2.aisovzPKcYvcneL7]`|
+|[Language universel](pathfinder-bestiary-2-items/TxRwH6kafpwqJtmQ.htm)|Truespeech|`@Compendium[pf2e.pathfinder-bestiary-2.TxRwH6kafpwqJtmQ]`|
 |[Langue](pathfinder-bestiary-2-items/bLGN7Biu5pB1bqtL.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary-2.bLGN7Biu5pB1bqtL]`|
 |[Langue](pathfinder-bestiary-2-items/jOuIuz89du1DGTFh.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary-2.jOuIuz89du1DGTFh]`|
 |[Langue](pathfinder-bestiary-2-items/LUKxBKPHrzVKWWNz.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary-2.LUKxBKPHrzVKWWNz]`|
@@ -6942,6 +6892,9 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Langue](pathfinder-bestiary-2-items/i9N4Fg8nJJdpMQUf.htm)|Tongue|`@Compendium[pf2e.pathfinder-bestiary-2.i9N4Fg8nJJdpMQUf]`|
 |[Lent](pathfinder-bestiary-2-items/ADUDwILKarUV2YPp.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary-2.ADUDwILKarUV2YPp]`|
 |[Lent](pathfinder-bestiary-2-items/HQ205X1b6CWTHXfU.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary-2.HQ205X1b6CWTHXfU]`|
+|[Liane épineuse](pathfinder-bestiary-2-items/xqB9FvxJUsDUDs15.htm)|Thorny Vine|`@Compendium[pf2e.pathfinder-bestiary-2.xqB9FvxJUsDUDs15]`|
+|[Lueur](pathfinder-bestiary-2-items/Z1uxEMSqDnZV9SCY.htm)|Glow|`@Compendium[pf2e.pathfinder-bestiary-2.Z1uxEMSqDnZV9SCY]`|
+|[Lueur de rôdeur](pathfinder-bestiary-2-items/7ibCw6e1BSbQ94NW.htm)|Lurker's Glow|`@Compendium[pf2e.pathfinder-bestiary-2.7ibCw6e1BSbQ94NW]`|
 |[Main du destin](pathfinder-bestiary-2-items/6oTpSA3IXew7MulO.htm)|Hand Of Fate|`@Compendium[pf2e.pathfinder-bestiary-2.6oTpSA3IXew7MulO]`|
 |[Malédiction des tempêtes sans fin](pathfinder-bestiary-2-items/mcsK2cK4pMrDIfZJ.htm)|Curse of Endless Storms|`@Compendium[pf2e.pathfinder-bestiary-2.mcsK2cK4pMrDIfZJ]`|
 |[Malédiction du souffle volé](pathfinder-bestiary-2-items/0gNZbOZYyi010Pow.htm)|Curse of Stolen Breath|`@Compendium[pf2e.pathfinder-bestiary-2.0gNZbOZYyi010Pow]`|
@@ -6961,6 +6914,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Marche sur les nuages](pathfinder-bestiary-2-items/EuS6s6eoD5RfY7jI.htm)|Cloud Walk|`@Compendium[pf2e.pathfinder-bestiary-2.EuS6s6eoD5RfY7jI]`|
 |[Marteau de guerre](pathfinder-bestiary-2-items/cqI7kqooduGDEqz6.htm)|Warhammer|`@Compendium[pf2e.pathfinder-bestiary-2.cqI7kqooduGDEqz6]`|
 |[Marteau léger](pathfinder-bestiary-2-items/zuum0VinuCKcAh3D.htm)|Light Hammer|`@Compendium[pf2e.pathfinder-bestiary-2.zuum0VinuCKcAh3D]`|
+|[Membre tranchant](pathfinder-bestiary-2-items/0QCPtkVtKzuuVVaK.htm)|Bladed Limb|`@Compendium[pf2e.pathfinder-bestiary-2.0QCPtkVtKzuuVVaK]`|
 |[Morgenstern](pathfinder-bestiary-2-items/FBYVc1nHfCqd2hLL.htm)|Morningstar|`@Compendium[pf2e.pathfinder-bestiary-2.FBYVc1nHfCqd2hLL]`|
 |[Morgenstern](pathfinder-bestiary-2-items/uYqNB5URDvfKjzHe.htm)|Morningstar|`@Compendium[pf2e.pathfinder-bestiary-2.uYqNB5URDvfKjzHe]`|
 |[Morsure](pathfinder-bestiary-2-items/OBn7syfr2t30QJaa.htm)|Bite|`@Compendium[pf2e.pathfinder-bestiary-2.OBn7syfr2t30QJaa]`|
@@ -6975,6 +6929,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Morsure](pathfinder-bestiary-2-items/SDF2zWv6zGkmcQH9.htm)|Bite|`@Compendium[pf2e.pathfinder-bestiary-2.SDF2zWv6zGkmcQH9]`|
 |[Morsure](pathfinder-bestiary-2-items/6ZtjeB9jdEW4o2QJ.htm)|Bite|`@Compendium[pf2e.pathfinder-bestiary-2.6ZtjeB9jdEW4o2QJ]`|
 |[Morsure](pathfinder-bestiary-2-items/3AK8xWwQNAfn8GZR.htm)|Bite|`@Compendium[pf2e.pathfinder-bestiary-2.3AK8xWwQNAfn8GZR]`|
+|[Morsure assourdissante](pathfinder-bestiary-2-items/msIyAn6AsHKdGxMu.htm)|Thundering Bite|`@Compendium[pf2e.pathfinder-bestiary-2.msIyAn6AsHKdGxMu]`|
 |[Morsure débilitante](pathfinder-bestiary-2-items/MJktJ33e2ejK5I1o.htm)|Debilitating Bite|`@Compendium[pf2e.pathfinder-bestiary-2.MJktJ33e2ejK5I1o]`|
 |[Morsure sinistre](pathfinder-bestiary-2-items/MgWi09fDy6GgzHJM.htm)|Sinister Bite|`@Compendium[pf2e.pathfinder-bestiary-2.MgWi09fDy6GgzHJM]`|
 |[Mucus luminescent](pathfinder-bestiary-2-items/vmyBkhvE34HW6vpl.htm)|Glowing Mucus|`@Compendium[pf2e.pathfinder-bestiary-2.vmyBkhvE34HW6vpl]`|
@@ -7106,12 +7061,17 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nage dans le magma](pathfinder-bestiary-2-items/fx1cIpK2KgNbm7Rz.htm)|Magma Swim|`@Compendium[pf2e.pathfinder-bestiary-2.fx1cIpK2KgNbm7Rz]`|
 |[Nage dans le magma](pathfinder-bestiary-2-items/Pd7VzQqoVyctHCLg.htm)|Magma Swim|`@Compendium[pf2e.pathfinder-bestiary-2.Pd7VzQqoVyctHCLg]`|
 |[Nage dans le magma](pathfinder-bestiary-2-items/N1bssKPKGqtiKwNk.htm)|Magma Swim|`@Compendium[pf2e.pathfinder-bestiary-2.N1bssKPKGqtiKwNk]`|
+|[Nageur véloce](pathfinder-bestiary-2-items/DDI0cQeKx8SLhTUR.htm)|Swift Swimmer|`@Compendium[pf2e.pathfinder-bestiary-2.DDI0cQeKx8SLhTUR]`|
 |[Nageuse agile](pathfinder-bestiary-2-items/0BVpj3wkSrFlhgdK.htm)|Agile Swimmer|`@Compendium[pf2e.pathfinder-bestiary-2.0BVpj3wkSrFlhgdK]`|
 |[Ne respire pas](pathfinder-bestiary-2-items/2dHPDZu3BYN1GauB.htm)|No Breath|`@Compendium[pf2e.pathfinder-bestiary-2.2dHPDZu3BYN1GauB]`|
 |[Noyade](pathfinder-bestiary-2-items/nBbFutvNlcdf1cgZ.htm)|Drown|`@Compendium[pf2e.pathfinder-bestiary-2.nBbFutvNlcdf1cgZ]`|
+|[Nuage déflecteur](pathfinder-bestiary-2-items/gJMFRPJuO2fffH1c.htm)|Deflecting Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.gJMFRPJuO2fffH1c]`|
+|[Nuage déflecteur](pathfinder-bestiary-2-items/T4cC9H9vxNTUqnco.htm)|Deflecting Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.T4cC9H9vxNTUqnco]`|
 |[Nuage déflecteur](pathfinder-bestiary-2-items/pGaSnoNG83zKVZkX.htm)|Deflecting Cloud|`@Compendium[pf2e.pathfinder-bestiary-2.pGaSnoNG83zKVZkX]`|
 |[Nuée brûlante](pathfinder-bestiary-2-items/lugrDlIHRd8kGDKs.htm)|Burning Swarm|`@Compendium[pf2e.pathfinder-bestiary-2.lugrDlIHRd8kGDKs]`|
+|[Nuée de morsures](pathfinder-bestiary-2-items/H9cKHc9OAHiXKDzf.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.H9cKHc9OAHiXKDzf]`|
 |[Nuée de morsures](pathfinder-bestiary-2-items/zE1qMdAfyFxOdrrK.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.zE1qMdAfyFxOdrrK]`|
+|[Nuée de morsures](pathfinder-bestiary-2-items/gI0Pt3FCseRtdPpl.htm)|Swarming Bites|`@Compendium[pf2e.pathfinder-bestiary-2.gI0Pt3FCseRtdPpl]`|
 |[Odorat](pathfinder-bestiary-2-items/z3wK3ehfyd0WrBic.htm)|Scent|`@Compendium[pf2e.pathfinder-bestiary-2.z3wK3ehfyd0WrBic]`|
 |[Odorat](pathfinder-bestiary-2-items/SaUKY4rTuI0N39ad.htm)|Scent|`@Compendium[pf2e.pathfinder-bestiary-2.SaUKY4rTuI0N39ad]`|
 |[Odorat](pathfinder-bestiary-2-items/aPrPuIOSdVOf8LwX.htm)|Scent|`@Compendium[pf2e.pathfinder-bestiary-2.aPrPuIOSdVOf8LwX]`|
@@ -7189,6 +7149,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Odorat (imprécis) 9 m](pathfinder-bestiary-2-items/V0hJjrywdDfeOIZf.htm)|Scent (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.V0hJjrywdDfeOIZf]`|
 |[Odorat (imprécis) 9 m](pathfinder-bestiary-2-items/E9FVtTu2qyp5HgnY.htm)|Scent (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.E9FVtTu2qyp5HgnY]`|
 |[Outils d’infiltration.](pathfinder-bestiary-2-items/ZMxrbMShYOtO3gEG.htm)|Infiltration Tools|`@Compendium[pf2e.pathfinder-bestiary-2.ZMxrbMShYOtO3gEG]`|
+|[Particule de lumière](pathfinder-bestiary-2-items/SqmhCTwOKtI5c7BT.htm)|Mote of Light|`@Compendium[pf2e.pathfinder-bestiary-2.SqmhCTwOKtI5c7BT]`|
 |[Pas de pierre](pathfinder-bestiary-2-items/nM4ThlQUyejxc6bH.htm)|Stone Step|`@Compendium[pf2e.pathfinder-bestiary-2.nM4ThlQUyejxc6bH]`|
 |[Pensées confuses](pathfinder-bestiary-2-items/rB0kJuC158tvKsmj.htm)|Garbled Thoughts|`@Compendium[pf2e.pathfinder-bestiary-2.rB0kJuC158tvKsmj]`|
 |[Perception de l'entropie (imprécis) 18 m](pathfinder-bestiary-2-items/4fUKQrOX75rYdFV8.htm)|Entropy Sense|`@Compendium[pf2e.pathfinder-bestiary-2.4fUKQrOX75rYdFV8]`|
@@ -7215,6 +7176,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Perception des ondes](pathfinder-bestiary-2-items/vLZK0xL9O8b27GxA.htm)|Wavesense (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.vLZK0xL9O8b27GxA]`|
 |[Perception des ondes](pathfinder-bestiary-2-items/psRycYQDP439XLGm.htm)|Wavesense (Imprecise) 30 feet|`@Compendium[pf2e.pathfinder-bestiary-2.psRycYQDP439XLGm]`|
 |[Perception des ondes](pathfinder-bestiary-2-items/eVlxUKYnPRCGVP58.htm)|Wavesense|`@Compendium[pf2e.pathfinder-bestiary-2.eVlxUKYnPRCGVP58]`|
+|[Perception des portails](pathfinder-bestiary-2-items/vP6KGkCy0KpMQarQ.htm)|Sense Portal|`@Compendium[pf2e.pathfinder-bestiary-2.vP6KGkCy0KpMQarQ]`|
 |[Perception des vibrations](pathfinder-bestiary-2-items/IJc6CxwwAtsS27ry.htm)|Tremorsense|`@Compendium[pf2e.pathfinder-bestiary-2.IJc6CxwwAtsS27ry]`|
 |[Perception des vibrations](pathfinder-bestiary-2-items/Hu5L9AYzwJsXxIDY.htm)|Tremorsense|`@Compendium[pf2e.pathfinder-bestiary-2.Hu5L9AYzwJsXxIDY]`|
 |[Perception des vibrations](pathfinder-bestiary-2-items/neGWW2ZDslwlxS5Y.htm)|Tremorsense|`@Compendium[pf2e.pathfinder-bestiary-2.neGWW2ZDslwlxS5Y]`|
@@ -7278,6 +7240,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Pistage accéléré](pathfinder-bestiary-2-items/tTPvWYYvp1PgybyK.htm)|Swift Tracker|`@Compendium[pf2e.pathfinder-bestiary-2.tTPvWYYvp1PgybyK]`|
 |[Piste effacée](pathfinder-bestiary-2-items/VzMnFSYbgzk4CXes.htm)|Trackless|`@Compendium[pf2e.pathfinder-bestiary-2.VzMnFSYbgzk4CXes]`|
 |[Piétinement](pathfinder-bestiary-2-items/G0pgg8gIhgw18USv.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.G0pgg8gIhgw18USv]`|
+|[Piétinement](pathfinder-bestiary-2-items/JIAc2IH8Ot3uIXfD.htm)|Trample|`@Compendium[pf2e.pathfinder-bestiary-2.JIAc2IH8Ot3uIXfD]`|
 |[Pluie bouillante](pathfinder-bestiary-2-items/uyXWXmerHoFxX1jU.htm)|Boiling Rain|`@Compendium[pf2e.pathfinder-bestiary-2.uyXWXmerHoFxX1jU]`|
 |[Poing](pathfinder-bestiary-2-items/4eJg9N0UmfD2Yt6C.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.4eJg9N0UmfD2Yt6C]`|
 |[Poing](pathfinder-bestiary-2-items/3CKGWY5tOmbNJznT.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.3CKGWY5tOmbNJznT]`|
@@ -7315,6 +7278,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Poing](pathfinder-bestiary-2-items/ysSzKfSqDhv0OTY7.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.ysSzKfSqDhv0OTY7]`|
 |[Poing](pathfinder-bestiary-2-items/iWjW5DElqzkofyBS.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.iWjW5DElqzkofyBS]`|
 |[Poing](pathfinder-bestiary-2-items/UScYAVgddobTyqOw.htm)|Fist|`@Compendium[pf2e.pathfinder-bestiary-2.UScYAVgddobTyqOw]`|
+|[Portail rituel](pathfinder-bestiary-2-items/v2by5D3cMGyVu78a.htm)|Ritual Gate|`@Compendium[pf2e.pathfinder-bestiary-2.v2by5D3cMGyVu78a]`|
 |[Porte de l'archon](pathfinder-bestiary-2-items/NqdW9zuvmBwHZScr.htm)|Archon's Door|`@Compendium[pf2e.pathfinder-bestiary-2.NqdW9zuvmBwHZScr]`|
 |[Porte de l'archon](pathfinder-bestiary-2-items/xa0P6lS6jAgU3iPX.htm)|Archon's Door|`@Compendium[pf2e.pathfinder-bestiary-2.xa0P6lS6jAgU3iPX]`|
 |[Porte de l'archon](pathfinder-bestiary-2-items/2SKe9OcSUJ5AXTPf.htm)|Archon's Door|`@Compendium[pf2e.pathfinder-bestiary-2.2SKe9OcSUJ5AXTPf]`|
@@ -7357,6 +7321,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Puanteur](pathfinder-bestiary-2-items/GEb3KusxBDvL8CkC.htm)|Stench|`@Compendium[pf2e.pathfinder-bestiary-2.GEb3KusxBDvL8CkC]`|
 |[Purge volcanique](pathfinder-bestiary-2-items/lZ9B89A9j1PjYcdf.htm)|Volcanic Purge|`@Compendium[pf2e.pathfinder-bestiary-2.lZ9B89A9j1PjYcdf]`|
 |[Purge volcanique](pathfinder-bestiary-2-items/is74odjgQwqelbqi.htm)|Volcanic Purge|`@Compendium[pf2e.pathfinder-bestiary-2.is74odjgQwqelbqi]`|
+|[Pétrification solaire](pathfinder-bestiary-2-items/tuQ8FrXL4iChAQA1.htm)|Sunlight Petrification|`@Compendium[pf2e.pathfinder-bestiary-2.tuQ8FrXL4iChAQA1]`|
 |[Queue](pathfinder-bestiary-2-items/1w9sOvRdSaIEpLNe.htm)|Tail|`@Compendium[pf2e.pathfinder-bestiary-2.1w9sOvRdSaIEpLNe]`|
 |[Queue](pathfinder-bestiary-2-items/9H6kMOzk61FQZoC9.htm)|Tail|`@Compendium[pf2e.pathfinder-bestiary-2.9H6kMOzk61FQZoC9]`|
 |[Queue](pathfinder-bestiary-2-items/9tmJIJ6vy9JEPaL3.htm)|Tail|`@Compendium[pf2e.pathfinder-bestiary-2.9tmJIJ6vy9JEPaL3]`|
@@ -7421,6 +7386,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Renversement amélioré](pathfinder-bestiary-2-items/LYl70MYcQUy11TXM.htm)|Improved Knockdown|`@Compendium[pf2e.pathfinder-bestiary-2.LYl70MYcQUy11TXM]`|
 |[Renversement amélioré](pathfinder-bestiary-2-items/MEtJibVB3AjSqu2W.htm)|Improved Knockdown|`@Compendium[pf2e.pathfinder-bestiary-2.MEtJibVB3AjSqu2W]`|
 |[Renversement amélioré](pathfinder-bestiary-2-items/cRTNLnVuzisUG7kl.htm)|Improved Knockdown|`@Compendium[pf2e.pathfinder-bestiary-2.cRTNLnVuzisUG7kl]`|
+|[Renvoi de sort](pathfinder-bestiary-2-items/LwBTFYgYLRf8gXzt.htm)|Spell Reflection|`@Compendium[pf2e.pathfinder-bestiary-2.LwBTFYgYLRf8gXzt]`|
 |[Repas vorace](pathfinder-bestiary-2-items/VN24JoB39HXPdS3r.htm)|Ravenous Repast|`@Compendium[pf2e.pathfinder-bestiary-2.VN24JoB39HXPdS3r]`|
 |[Rocher](pathfinder-bestiary-2-items/Tjvf8RD2s6FEQelo.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.Tjvf8RD2s6FEQelo]`|
 |[Rocher](pathfinder-bestiary-2-items/QSAMSi294JHAumur.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.QSAMSi294JHAumur]`|
@@ -7431,18 +7397,24 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Rocher](pathfinder-bestiary-2-items/s0ekhcyN4jpM6jLQ.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.s0ekhcyN4jpM6jLQ]`|
 |[Rocher](pathfinder-bestiary-2-items/jXcwI039VI8MCBIE.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.jXcwI039VI8MCBIE]`|
 |[Rocher](pathfinder-bestiary-2-items/kVhpKM2gcWYaxWvb.htm)|Rock|`@Compendium[pf2e.pathfinder-bestiary-2.kVhpKM2gcWYaxWvb]`|
+|[Rostre](pathfinder-bestiary-2-items/cpSC9RcShIFK28EU.htm)|Snout|`@Compendium[pf2e.pathfinder-bestiary-2.cpSC9RcShIFK28EU]`|
 |[Rubis de Leng](pathfinder-bestiary-2-items/C91ggah5Ye65LrMH.htm)|Leng Ruby|`@Compendium[pf2e.pathfinder-bestiary-2.C91ggah5Ye65LrMH]`|
+|[Ruée agressive](pathfinder-bestiary-2-items/RkzJDhpWzxqQXiAq.htm)|Strafing Rush|`@Compendium[pf2e.pathfinder-bestiary-2.RkzJDhpWzxqQXiAq]`|
 |[Régurgitation](pathfinder-bestiary-2-items/vrswuJTbGgycV77r.htm)|Vomit|`@Compendium[pf2e.pathfinder-bestiary-2.vrswuJTbGgycV77r]`|
 |[Régurgitation de gastrolithes](pathfinder-bestiary-2-items/DSxcWM211sMMf5q3.htm)|Regurgitate Gastrolith|`@Compendium[pf2e.pathfinder-bestiary-2.DSxcWM211sMMf5q3]`|
 |[Régénération 10 (désactivée par le fer froid)](pathfinder-bestiary-2-items/lPGPRMZYecowSzGA.htm)|Regeneration 10 (deactivated by cold iron)|`@Compendium[pf2e.pathfinder-bestiary-2.lPGPRMZYecowSzGA]`|
+|[Régénération 10 (neutralisée par le bon et l'argent)](pathfinder-bestiary-2-items/IHM0ZFUpH2qKKM7E.htm)|Regeneration 10 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.IHM0ZFUpH2qKKM7E]`|
 |[Régénération 15 (désactivée par l'acide ou le feu)](pathfinder-bestiary-2-items/kFT6c7OlCSLY8QF1.htm)|Regeneration 15 (deactivated by acid or fire)|`@Compendium[pf2e.pathfinder-bestiary-2.kFT6c7OlCSLY8QF1]`|
 |[Régénération 15 (désactivée par le fer froid)](pathfinder-bestiary-2-items/090u49BTBz9TdQi7.htm)|Regeneration 15 (deactivated by cold iron)|`@Compendium[pf2e.pathfinder-bestiary-2.090u49BTBz9TdQi7]`|
+|[Régénération 20 (désactivée par l’acide ou le son)](pathfinder-bestiary-2-items/BtLt92JdieUMFygu.htm)|Regeneration 20 (deactivated by acid or sonic)|`@Compendium[pf2e.pathfinder-bestiary-2.BtLt92JdieUMFygu]`|
 |[Régénération 25 (désactivé par bon ou argent)](pathfinder-bestiary-2-items/3Ut3Piu4ATI3yyUU.htm)|Regeneration 25 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.3Ut3Piu4ATI3yyUU]`|
+|[Régénération 5 (neutralisée par le bon ou l’argent)](pathfinder-bestiary-2-items/Lmym2mXsN2UYnCLA.htm)|Regeneration 5 (deactivated by good or silver)|`@Compendium[pf2e.pathfinder-bestiary-2.Lmym2mXsN2UYnCLA]`|
 |[Réorientation du feu](pathfinder-bestiary-2-items/d68HrWYDDAvuRFIR.htm)|Redirect Fire|`@Compendium[pf2e.pathfinder-bestiary-2.d68HrWYDDAvuRFIR]`|
 |[Résistance draconique](pathfinder-bestiary-2-items/tygj3hMG88FeH6W1.htm)|Draconic Resistance|`@Compendium[pf2e.pathfinder-bestiary-2.tygj3hMG88FeH6W1]`|
 |[Résistance draconique](pathfinder-bestiary-2-items/4au76ROiAjb1dHdY.htm)|Draconic Resistance|`@Compendium[pf2e.pathfinder-bestiary-2.4au76ROiAjb1dHdY]`|
 |[Résistance draconique](pathfinder-bestiary-2-items/5RsDoTAVa9W8gKnx.htm)|Draconic Resistance|`@Compendium[pf2e.pathfinder-bestiary-2.5RsDoTAVa9W8gKnx]`|
 |[Résistance draconique](pathfinder-bestiary-2-items/bwZ7BYouujVO39kJ.htm)|Draconic Resistance|`@Compendium[pf2e.pathfinder-bestiary-2.bwZ7BYouujVO39kJ]`|
+|[Résurrection de serpent](pathfinder-bestiary-2-items/VRDZl6y3aAge5VyP.htm)|Raise Serpent|`@Compendium[pf2e.pathfinder-bestiary-2.VRDZl6y3aAge5VyP]`|
 |[Sabot](pathfinder-bestiary-2-items/WKRlqiMNA7n19s8U.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary-2.WKRlqiMNA7n19s8U]`|
 |[Sabot](pathfinder-bestiary-2-items/OzuFfQ0SSo89GdPZ.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary-2.OzuFfQ0SSo89GdPZ]`|
 |[Sabot](pathfinder-bestiary-2-items/B2rF8mguredueRbP.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary-2.B2rF8mguredueRbP]`|
@@ -7451,6 +7423,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Sabot](pathfinder-bestiary-2-items/8UGnwgNXjFG8VCZU.htm)|Hoof|`@Compendium[pf2e.pathfinder-bestiary-2.8UGnwgNXjFG8VCZU]`|
 |[Sang glacial](pathfinder-bestiary-2-items/jISdvlh9f3wIBxZ8.htm)|Freezing Blood|`@Compendium[pf2e.pathfinder-bestiary-2.jISdvlh9f3wIBxZ8]`|
 |[Saut de fixation](pathfinder-bestiary-2-items/mGkbLuXtisEvFNNs.htm)|Fastening Leap|`@Compendium[pf2e.pathfinder-bestiary-2.mGkbLuXtisEvFNNs]`|
+|[Se fondre dans la lumière](pathfinder-bestiary-2-items/bEAhPwJXnrqxPt5i.htm)|Blend with Light|`@Compendium[pf2e.pathfinder-bestiary-2.bEAhPwJXnrqxPt5i]`|
 |[Serpe](pathfinder-bestiary-2-items/EBnYEijsgTINPs3Y.htm)|Sickle|`@Compendium[pf2e.pathfinder-bestiary-2.EBnYEijsgTINPs3Y]`|
 |[Serpe](pathfinder-bestiary-2-items/ImVU4G37cmGJMDoA.htm)|Sickle|`@Compendium[pf2e.pathfinder-bestiary-2.ImVU4G37cmGJMDoA]`|
 |[Sorts constants](pathfinder-bestiary-2-items/0uYLHfv1lvXE4qG4.htm)|Constant Spells|`@Compendium[pf2e.pathfinder-bestiary-2.0uYLHfv1lvXE4qG4]`|
@@ -7589,6 +7562,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Souffle de l’apocalypse](pathfinder-bestiary-2-items/nVMaCED96f0puvS1.htm)|Apocalypse Breath|`@Compendium[pf2e.pathfinder-bestiary-2.nVMaCED96f0puvS1]`|
 |[Souffle dévorant](pathfinder-bestiary-2-items/uMVIaXXt18rDrOPn.htm)|Ravenous Breath Weapon|`@Compendium[pf2e.pathfinder-bestiary-2.uMVIaXXt18rDrOPn]`|
 |[Souffle glacial](pathfinder-bestiary-2-items/AWGPMKkIerwV9Q8R.htm)|Freezing Breath|`@Compendium[pf2e.pathfinder-bestiary-2.AWGPMKkIerwV9Q8R]`|
+|[Survie](pathfinder-bestiary-2-items/9E67q4C5Qrwk0OqK.htm)|Survival|`@Compendium[pf2e.pathfinder-bestiary-2.9E67q4C5Qrwk0OqK]`|
+|[S’accrocher](pathfinder-bestiary-2-items/54mSt8tnFXfSUjhU.htm)|Cling|`@Compendium[pf2e.pathfinder-bestiary-2.54mSt8tnFXfSUjhU]`|
 |[Tempête de griffes](pathfinder-bestiary-2-items/hS50gj87pD1XnQk9.htm)|Claw Storm|`@Compendium[pf2e.pathfinder-bestiary-2.hS50gj87pD1XnQk9]`|
 |[Tendre un piège de toile](pathfinder-bestiary-2-items/sWbaqjXgO4EigI5j.htm)|Lay Web Trap|`@Compendium[pf2e.pathfinder-bestiary-2.sWbaqjXgO4EigI5j]`|
 |[Tentacule](pathfinder-bestiary-2-items/kJAxB9HM1zsPkPDC.htm)|Tentacle|`@Compendium[pf2e.pathfinder-bestiary-2.kJAxB9HM1zsPkPDC]`|
@@ -7668,11 +7643,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Venin de la méduse de feu](pathfinder-bestiary-2-items/nhcCpe4q2AuE5rBl.htm)|Fire Jelly Venom|`@Compendium[pf2e.pathfinder-bestiary-2.nhcCpe4q2AuE5rBl]`|
 |[Venin de linnorm de la taïga](pathfinder-bestiary-2-items/qCZyXHHj5OMACPYY.htm)|Taiga Linnorm Venom|`@Compendium[pf2e.pathfinder-bestiary-2.qCZyXHHj5OMACPYY]`|
 |[Venin de linnorm des fjords](pathfinder-bestiary-2-items/wyy8wN5QiLr4fV2L.htm)|Fjord Linnorm Venom|`@Compendium[pf2e.pathfinder-bestiary-2.wyy8wN5QiLr4fV2L]`|
+|[Venin de mandragore](pathfinder-bestiary-2-items/wrisTXltKN2ggF1B.htm)|Mandragora Venom|`@Compendium[pf2e.pathfinder-bestiary-2.wrisTXltKN2ggF1B]`|
 |[Venin de quetz couatl](pathfinder-bestiary-2-items/FIBgwJl6ghhZJB6Y.htm)|Quetz Couatl Venom|`@Compendium[pf2e.pathfinder-bestiary-2.FIBgwJl6ghhZJB6Y]`|
 |[Venin de rupture](pathfinder-bestiary-2-items/eF8APed2EwYOr5dF.htm)|Rupturing Venom|`@Compendium[pf2e.pathfinder-bestiary-2.eF8APed2EwYOr5dF]`|
 |[Venin de sarglagon](pathfinder-bestiary-2-items/5Vw9VTB3I1sie1g1.htm)|Sarglagon Venom|`@Compendium[pf2e.pathfinder-bestiary-2.5Vw9VTB3I1sie1g1]`|
 |[Venin de serpent de mer](pathfinder-bestiary-2-items/QoOV8oVWiooAilxA.htm)|Sea Snake Venom|`@Compendium[pf2e.pathfinder-bestiary-2.QoOV8oVWiooAilxA]`|
 |[Venin de thulgant](pathfinder-bestiary-2-items/p1rxtsKx33vjytn0.htm)|Thulgant Venom|`@Compendium[pf2e.pathfinder-bestiary-2.p1rxtsKx33vjytn0]`|
+|[Venin des hommes-serpents](pathfinder-bestiary-2-items/pkqZFkDwe6SFvUXX.htm)|Serpentfolk Venom|`@Compendium[pf2e.pathfinder-bestiary-2.pkqZFkDwe6SFvUXX]`|
+|[Venin du yamaraje](pathfinder-bestiary-2-items/WleXuHzXfn7II29b.htm)|Yamaraj Venom|`@Compendium[pf2e.pathfinder-bestiary-2.WleXuHzXfn7II29b]`|
 |[Venin d’osyluth](pathfinder-bestiary-2-items/UgqU2m5UQKRKewoU.htm)|Osyluth Venom|`@Compendium[pf2e.pathfinder-bestiary-2.UgqU2m5UQKRKewoU]`|
 |[Vision dans le noir](pathfinder-bestiary-2-items/NEE6cuy1OUxkBe2Q.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.NEE6cuy1OUxkBe2Q]`|
 |[Vision dans le noir](pathfinder-bestiary-2-items/L97RozqSBXjCukbA.htm)|Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.L97RozqSBXjCukbA]`|
@@ -7931,8 +7909,15 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vision dans le noir supérieure](pathfinder-bestiary-2-items/eZpQaoruvmngTW6T.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.eZpQaoruvmngTW6T]`|
 |[Vision dans le noir supérieure](pathfinder-bestiary-2-items/uzTaJDrIHuQpGZCH.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.uzTaJDrIHuQpGZCH]`|
 |[Vision dans le noir supérieure](pathfinder-bestiary-2-items/0a9bxpI79rMpqyXh.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-2.0a9bxpI79rMpqyXh]`|
+|[Vision de la douleur](pathfinder-bestiary-2-items/x97vWevUTEMqeOCJ.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.x97vWevUTEMqeOCJ]`|
 |[Vision de la douleur](pathfinder-bestiary-2-items/gAdwnZ4OP8sPpuOg.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.gAdwnZ4OP8sPpuOg]`|
+|[Vision de la douleur](pathfinder-bestiary-2-items/ZcS1mFdodf2L8MND.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.ZcS1mFdodf2L8MND]`|
+|[Vision de la douleur](pathfinder-bestiary-2-items/ulrrbkt4l6SBi1z8.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.ulrrbkt4l6SBi1z8]`|
+|[Vision de la douleur](pathfinder-bestiary-2-items/EakALyMQUSW9bDgO.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.EakALyMQUSW9bDgO]`|
+|[Vision de la douleur](pathfinder-bestiary-2-items/hVmOEk3NrvvmFkKg.htm)|Painsight|`@Compendium[pf2e.pathfinder-bestiary-2.hVmOEk3NrvvmFkKg]`|
+|[Vision malgré la brume](pathfinder-bestiary-2-items/JIKJPPU6aBax4pjD.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.JIKJPPU6aBax4pjD]`|
 |[Vision malgré la brume](pathfinder-bestiary-2-items/QxUxl1vPtZ72uSOi.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.QxUxl1vPtZ72uSOi]`|
+|[Vision malgré la brume](pathfinder-bestiary-2-items/NDhBBYbkfa48lqzj.htm)|Mist Vision|`@Compendium[pf2e.pathfinder-bestiary-2.NDhBBYbkfa48lqzj]`|
 |[Vision malgré la fumée](pathfinder-bestiary-2-items/HHscPOBzNRjg9IJ5.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-2.HHscPOBzNRjg9IJ5]`|
 |[Vision malgré la neige](pathfinder-bestiary-2-items/IWFZQHALE4qFDWJv.htm)|Snow Vision|`@Compendium[pf2e.pathfinder-bestiary-2.IWFZQHALE4qFDWJv]`|
 |[Vision malgré la vapeur](pathfinder-bestiary-2-items/0IwQxSLxEqwPcB3q.htm)|Steam Vision|`@Compendium[pf2e.pathfinder-bestiary-2.0IwQxSLxEqwPcB3q]`|
@@ -8012,20 +7997,34 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vision à 360°](pathfinder-bestiary-2-items/TKjiZlqXKYAz5MTX.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary-2.TKjiZlqXKYAz5MTX]`|
 |[Vision à 360°](pathfinder-bestiary-2-items/Up9zgawdSde0SLPP.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary-2.Up9zgawdSde0SLPP]`|
 |[Vision à 360°](pathfinder-bestiary-2-items/r9UN2dDmxrL8ACPX.htm)|All-Around Vision|`@Compendium[pf2e.pathfinder-bestiary-2.r9UN2dDmxrL8ACPX]`|
+|[Vitesse d’éperonnage](pathfinder-bestiary-2-items/jN9qLXiQfaOBlFfC.htm)|Ramming Speed|`@Compendium[pf2e.pathfinder-bestiary-2.jN9qLXiQfaOBlFfC]`|
+|[Vol de souffle](pathfinder-bestiary-2-items/uot20BQOy52S73qO.htm)|Steal Breath|`@Compendium[pf2e.pathfinder-bestiary-2.uot20BQOy52S73qO]`|
 |[Vol de souffle](pathfinder-bestiary-2-items/DI1RbgDDypEQJCMq.htm)|Steal Breath|`@Compendium[pf2e.pathfinder-bestiary-2.DI1RbgDDypEQJCMq]`|
 |[Vol de voix](pathfinder-bestiary-2-items/El38bC5IzKKtBdcW.htm)|Steal Voice|`@Compendium[pf2e.pathfinder-bestiary-2.El38bC5IzKKtBdcW]`|
+|[Volée d'échardes](pathfinder-bestiary-2-items/D1R03gCQbWQLLgtL.htm)|Splinter Volley|`@Compendium[pf2e.pathfinder-bestiary-2.D1R03gCQbWQLLgtL]`|
 |[Voyage par l'eau](pathfinder-bestiary-2-items/JAh7SWOTsIXvrckz.htm)|Water Travel|`@Compendium[pf2e.pathfinder-bestiary-2.JAh7SWOTsIXvrckz]`|
 |[Voyageur de l'ombre](pathfinder-bestiary-2-items/isUs3BDvVUggXstu.htm)|Shadow Traveler|`@Compendium[pf2e.pathfinder-bestiary-2.isUs3BDvVUggXstu]`|
 |[Vrille](pathfinder-bestiary-2-items/vAqYhN2FTor4CPFU.htm)|Tendril|`@Compendium[pf2e.pathfinder-bestiary-2.vAqYhN2FTor4CPFU]`|
 |[Vrilles enchevêtrantes](pathfinder-bestiary-2-items/bW6X64ql7gjX9zqQ.htm)|Entangling Tendrils|`@Compendium[pf2e.pathfinder-bestiary-2.bW6X64ql7gjX9zqQ]`|
 |[Vrilles enchevêtrantes](pathfinder-bestiary-2-items/6t0iHm0ru1bcVGTw.htm)|Entangling Tendrils|`@Compendium[pf2e.pathfinder-bestiary-2.6t0iHm0ru1bcVGTw]`|
 |[Vulnérabilité aux haches](pathfinder-bestiary-2-items/VyJyNz5V3NR5Gylr.htm)|Axe Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.VyJyNz5V3NR5Gylr]`|
+|[Vulnérabilité aux ténèbres surnaturelles](pathfinder-bestiary-2-items/uQFiXxjHXOCxLHe8.htm)|Vulnerability to Supernatural Darkness|`@Compendium[pf2e.pathfinder-bestiary-2.uQFiXxjHXOCxLHe8]`|
 |[Vulnérabilité mécanique](pathfinder-bestiary-2-items/nYQgnHNVs60rcvUn.htm)|Mechanical Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-2.nYQgnHNVs60rcvUn]`|
+|[Vulnérabilités des vrykolakas](pathfinder-bestiary-2-items/lIiFggTlCNveUaJM.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.lIiFggTlCNveUaJM]`|
+|[Vulnérabilités des vrykolakas](pathfinder-bestiary-2-items/JOeW89FGrajDYQsW.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.JOeW89FGrajDYQsW]`|
+|[Vulnérabilités des vrykolakas](pathfinder-bestiary-2-items/JGEy5BcX7MQ17sdA.htm)|Vrykolakas Vulnerabilities|`@Compendium[pf2e.pathfinder-bestiary-2.JGEy5BcX7MQ17sdA]`|
+|[Vulnérable à façonnage du bois](pathfinder-bestiary-2-items/CGd3B4KwGynCutU4.htm)|Vulnerable to Shape Wood|`@Compendium[pf2e.pathfinder-bestiary-2.CGd3B4KwGynCutU4]`|
+|[Vulnérable à fracassement](pathfinder-bestiary-2-items/4cuSJxJLUg7icXmj.htm)|Vulnerable to Shatter|`@Compendium[pf2e.pathfinder-bestiary-2.4cuSJxJLUg7icXmj]`|
 |[Xanthome purulent](pathfinder-bestiary-2-items/HIRmU6WblxuDmWc6.htm)|Fleshgout|`@Compendium[pf2e.pathfinder-bestiary-2.HIRmU6WblxuDmWc6]`|
 |[arbalète de poing(Venin d'araignée chasseresse)](pathfinder-bestiary-2-items/umE4aR6ccDxLqz3l.htm)|Hand Crossbow (Hunting Spider Venom)|`@Compendium[pf2e.pathfinder-bestiary-2.umE4aR6ccDxLqz3l]`|
 |[bonus de statut de +1 à tous les jets de sauvegardes contre la magie](pathfinder-bestiary-2-items/4d37i0818MYTgBAF.htm)|+1 Status to All Saves vs Magic|`@Compendium[pf2e.pathfinder-bestiary-2.4d37i0818MYTgBAF]`|
+|[Écharde](pathfinder-bestiary-2-items/TzQpE2J6oD8ijpuC.htm)|Splinter|`@Compendium[pf2e.pathfinder-bestiary-2.TzQpE2J6oD8ijpuC]`|
+|[Écharde](pathfinder-bestiary-2-items/CquGR1meZf8Szzmo.htm)|Splinter|`@Compendium[pf2e.pathfinder-bestiary-2.CquGR1meZf8Szzmo]`|
 |[Écharpeur](pathfinder-bestiary-2-items/2xM4lSOsw2nfs2tu.htm)|Mauler|`@Compendium[pf2e.pathfinder-bestiary-2.2xM4lSOsw2nfs2tu]`|
 |[Écharpeur](pathfinder-bestiary-2-items/JGCkaVnAvnwAxWOp.htm)|Mauler|`@Compendium[pf2e.pathfinder-bestiary-2.JGCkaVnAvnwAxWOp]`|
+|[Écholocalisation aquatique](pathfinder-bestiary-2-items/TBp1tYUPtYoOEonO.htm)|Aquatic Echolocation|`@Compendium[pf2e.pathfinder-bestiary-2.TBp1tYUPtYoOEonO]`|
+|[Éclat aveuglant](pathfinder-bestiary-2-items/lQZGx8hWnzcG2R6l.htm)|Dazzling Brilliance|`@Compendium[pf2e.pathfinder-bestiary-2.lQZGx8hWnzcG2R6l]`|
+|[Éclat éblouissant](pathfinder-bestiary-2-items/nuNIIa81vZ9PT2RL.htm)|Dazzling Burst|`@Compendium[pf2e.pathfinder-bestiary-2.nuNIIa81vZ9PT2RL]`|
 |[Éclats d’os](pathfinder-bestiary-2-items/tjcUq4Pdk5hq6KqX.htm)|Boneshatter|`@Compendium[pf2e.pathfinder-bestiary-2.tjcUq4Pdk5hq6KqX]`|
 |[Élan draconique](pathfinder-bestiary-2-items/5SaRw4TGk2D0VBTZ.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.5SaRw4TGk2D0VBTZ]`|
 |[Élan draconique](pathfinder-bestiary-2-items/VwEDItuYmaW2BAkI.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.VwEDItuYmaW2BAkI]`|
@@ -8038,6 +8037,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Élan draconique](pathfinder-bestiary-2-items/RSov7mEf6h3jgcfL.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.RSov7mEf6h3jgcfL]`|
 |[Élan draconique](pathfinder-bestiary-2-items/pKF3w8Hj8QFO6ZMv.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.pKF3w8Hj8QFO6ZMv]`|
 |[Élan draconique](pathfinder-bestiary-2-items/BRAhQrI56OQkBhNy.htm)|Draconic Momentum|`@Compendium[pf2e.pathfinder-bestiary-2.BRAhQrI56OQkBhNy]`|
+|[Électrolocalisation](pathfinder-bestiary-2-items/u1o4MqU6HFWR8rVh.htm)|Electrolocation|`@Compendium[pf2e.pathfinder-bestiary-2.u1o4MqU6HFWR8rVh]`|
 |[Épines](pathfinder-bestiary-2-items/g41jvLpQ6exKQBgd.htm)|Spines|`@Compendium[pf2e.pathfinder-bestiary-2.g41jvLpQ6exKQBgd]`|
 |[Épée bâtarde](pathfinder-bestiary-2-items/2oF9dlmEoHZ6o4U9.htm)|Bastard Sword|`@Compendium[pf2e.pathfinder-bestiary-2.2oF9dlmEoHZ6o4U9]`|
 |[Épée bâtarde](pathfinder-bestiary-2-items/0Nlywj3cWzzzNsFd.htm)|Bastard Sword|`@Compendium[pf2e.pathfinder-bestiary-2.0Nlywj3cWzzzNsFd]`|
@@ -8609,7 +8609,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/zTdgUNL0sTJoxpwC.htm)|Clutching Stones|`@Compendium[pf2e.pathfinder-bestiary-3.zTdgUNL0sTJoxpwC]`|
 |[](pathfinder-bestiary-3-items/BEcAt0SdsvIa6qp9.htm)|Befuddling Lash|`@Compendium[pf2e.pathfinder-bestiary-3.BEcAt0SdsvIa6qp9]`|
 |[](pathfinder-bestiary-3-items/G9pbNjrUbv6UwBPm.htm)|Feed on Quintessence|`@Compendium[pf2e.pathfinder-bestiary-3.G9pbNjrUbv6UwBPm]`|
-|[](pathfinder-bestiary-3-items/EViJHho1D7U93moQ.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.EViJHho1D7U93moQ]`|
 |[](pathfinder-bestiary-3-items/OvoJR0fdN07ZLFYR.htm)|Attack of Opportunity (Stinger Only)|`@Compendium[pf2e.pathfinder-bestiary-3.OvoJR0fdN07ZLFYR]`|
 |[](pathfinder-bestiary-3-items/WYWDDEYazjVp60qA.htm)|Rain of Debris|`@Compendium[pf2e.pathfinder-bestiary-3.WYWDDEYazjVp60qA]`|
 |[](pathfinder-bestiary-3-items/MRHUn0OVB4n1HA2L.htm)|Sudden Charge|`@Compendium[pf2e.pathfinder-bestiary-3.MRHUn0OVB4n1HA2L]`|
@@ -8642,7 +8641,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/CybU0X1fwtJZX5W4.htm)|Telepathy 60 feet|`@Compendium[pf2e.pathfinder-bestiary-3.CybU0X1fwtJZX5W4]`|
 |[](pathfinder-bestiary-3-items/vAYa9X9DeqTHfehJ.htm)|Shrieking Scream|`@Compendium[pf2e.pathfinder-bestiary-3.vAYa9X9DeqTHfehJ]`|
 |[](pathfinder-bestiary-3-items/dWa7XGI4buL9uDdZ.htm)|Feed on Fear|`@Compendium[pf2e.pathfinder-bestiary-3.dWa7XGI4buL9uDdZ]`|
-|[](pathfinder-bestiary-3-items/8YlOlevrOy2ky8jn.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary-3.8YlOlevrOy2ky8jn]`|
 |[](pathfinder-bestiary-3-items/8GuVI0hREIK9sjQW.htm)|Coiling Frenzy|`@Compendium[pf2e.pathfinder-bestiary-3.8GuVI0hREIK9sjQW]`|
 |[](pathfinder-bestiary-3-items/XBz2toYQ5LlpBAkp.htm)|Transpose|`@Compendium[pf2e.pathfinder-bestiary-3.XBz2toYQ5LlpBAkp]`|
 |[](pathfinder-bestiary-3-items/k3dgXH9CegWMvwQi.htm)|Consume Souls|`@Compendium[pf2e.pathfinder-bestiary-3.k3dgXH9CegWMvwQi]`|
@@ -9170,7 +9168,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/J9DbeNCFrbq08rQy.htm)|Felt Shears|`@Compendium[pf2e.pathfinder-bestiary-3.J9DbeNCFrbq08rQy]`|
 |[](pathfinder-bestiary-3-items/EybKkcXQpisZym7b.htm)|Claim Trophy|`@Compendium[pf2e.pathfinder-bestiary-3.EybKkcXQpisZym7b]`|
 |[](pathfinder-bestiary-3-items/oM4VdHuJNfDqEoHR.htm)|Anchor|`@Compendium[pf2e.pathfinder-bestiary-3.oM4VdHuJNfDqEoHR]`|
-|[](pathfinder-bestiary-3-items/HTapFz8e3dL6LNJc.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.HTapFz8e3dL6LNJc]`|
 |[](pathfinder-bestiary-3-items/HayFvnvEzF4yeL8e.htm)|Cleanly Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-3.HayFvnvEzF4yeL8e]`|
 |[](pathfinder-bestiary-3-items/PlapMnJXMmQwozjs.htm)|+1 Status Bonus to all saves vs. Effects from Evil Creatures|`@Compendium[pf2e.pathfinder-bestiary-3.PlapMnJXMmQwozjs]`|
 |[](pathfinder-bestiary-3-items/TnmeD4Xchfk7n9oy.htm)|Veil of Lies|`@Compendium[pf2e.pathfinder-bestiary-3.TnmeD4Xchfk7n9oy]`|
@@ -9526,7 +9523,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/ZSyd5tDHWnYAj8zD.htm)|Spectral Jaws|`@Compendium[pf2e.pathfinder-bestiary-3.ZSyd5tDHWnYAj8zD]`|
 |[](pathfinder-bestiary-3-items/9xVKiyYkmLvWLsPN.htm)|Countered by Earth|`@Compendium[pf2e.pathfinder-bestiary-3.9xVKiyYkmLvWLsPN]`|
 |[](pathfinder-bestiary-3-items/YwaUnI2GQySpg6fO.htm)|Stealth|`@Compendium[pf2e.pathfinder-bestiary-3.YwaUnI2GQySpg6fO]`|
-|[](pathfinder-bestiary-3-items/P7Q6s7lp0YVHLRTS.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary-3.P7Q6s7lp0YVHLRTS]`|
 |[](pathfinder-bestiary-3-items/7Ja558AxHimR0DNe.htm)|No Breath|`@Compendium[pf2e.pathfinder-bestiary-3.7Ja558AxHimR0DNe]`|
 |[](pathfinder-bestiary-3-items/lxcQL19jOkUey7nF.htm)|Blowgun|`@Compendium[pf2e.pathfinder-bestiary-3.lxcQL19jOkUey7nF]`|
 |[](pathfinder-bestiary-3-items/DY5764x6bU3jfnwu.htm)|Slow|`@Compendium[pf2e.pathfinder-bestiary-3.DY5764x6bU3jfnwu]`|
@@ -9607,8 +9603,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/AJK2FzoU6wIUxE43.htm)|Flaming Shroud|`@Compendium[pf2e.pathfinder-bestiary-3.AJK2FzoU6wIUxE43]`|
 |[](pathfinder-bestiary-3-items/2iSSH3y2Kuv4MNqO.htm)|Emotional Bolt|`@Compendium[pf2e.pathfinder-bestiary-3.2iSSH3y2Kuv4MNqO]`|
 |[](pathfinder-bestiary-3-items/GpYSF4Qy9tOtd9Z4.htm)|Slice and Dice|`@Compendium[pf2e.pathfinder-bestiary-3.GpYSF4Qy9tOtd9Z4]`|
-|[](pathfinder-bestiary-3-items/HvbA2JrPJX04mXf4.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.HvbA2JrPJX04mXf4]`|
-|[](pathfinder-bestiary-3-items/Lt0Vd3S5Hji79WEW.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-3.Lt0Vd3S5Hji79WEW]`|
 |[](pathfinder-bestiary-3-items/HPHMTMivSSxm6A9g.htm)|Firebolt|`@Compendium[pf2e.pathfinder-bestiary-3.HPHMTMivSSxm6A9g]`|
 |[](pathfinder-bestiary-3-items/HBWRwsQLwNl5P9GZ.htm)|Painful Bite|`@Compendium[pf2e.pathfinder-bestiary-3.HBWRwsQLwNl5P9GZ]`|
 |[](pathfinder-bestiary-3-items/fFOSRHY0ACjbHmk0.htm)|Strix Camaraderie|`@Compendium[pf2e.pathfinder-bestiary-3.fFOSRHY0ACjbHmk0]`|
@@ -9674,7 +9668,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/7KrbqcGEJ1GaWuQc.htm)|Attack of Opportunity (Modified)|`@Compendium[pf2e.pathfinder-bestiary-3.7KrbqcGEJ1GaWuQc]`|
 |[](pathfinder-bestiary-3-items/lnftcCa5nWLimB4r.htm)|Wing Thrash|`@Compendium[pf2e.pathfinder-bestiary-3.lnftcCa5nWLimB4r]`|
 |[](pathfinder-bestiary-3-items/9DknzWoTx4dGllLO.htm)|Pressgang Soul|`@Compendium[pf2e.pathfinder-bestiary-3.9DknzWoTx4dGllLO]`|
-|[](pathfinder-bestiary-3-items/h2v7VpyXTPjTzVX1.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.h2v7VpyXTPjTzVX1]`|
 |[](pathfinder-bestiary-3-items/Re3laGuS2iEiMxt0.htm)|Burning Touch|`@Compendium[pf2e.pathfinder-bestiary-3.Re3laGuS2iEiMxt0]`|
 |[](pathfinder-bestiary-3-items/EAEiThdtasRoiVzJ.htm)|Thoughtsense (Precise) 60 feet|`@Compendium[pf2e.pathfinder-bestiary-3.EAEiThdtasRoiVzJ]`|
 |[](pathfinder-bestiary-3-items/Lb8baU3vfeAtn1Nw.htm)|Cower|`@Compendium[pf2e.pathfinder-bestiary-3.Lb8baU3vfeAtn1Nw]`|
@@ -9800,7 +9793,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/Q9b50evzwuGvfkAB.htm)|Self-Destruct|`@Compendium[pf2e.pathfinder-bestiary-3.Q9b50evzwuGvfkAB]`|
 |[](pathfinder-bestiary-3-items/IVnGWQzHYIx6BwIf.htm)|Ride Corpse|`@Compendium[pf2e.pathfinder-bestiary-3.IVnGWQzHYIx6BwIf]`|
 |[](pathfinder-bestiary-3-items/Dy4ItmxMvWZNtvIJ.htm)|Surface-Bound|`@Compendium[pf2e.pathfinder-bestiary-3.Dy4ItmxMvWZNtvIJ]`|
-|[](pathfinder-bestiary-3-items/2BRmODyR3yH6ev3Q.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary-3.2BRmODyR3yH6ev3Q]`|
 |[](pathfinder-bestiary-3-items/P3e58ycpovGthuDe.htm)|Scent (Imprecise) 40 feet|`@Compendium[pf2e.pathfinder-bestiary-3.P3e58ycpovGthuDe]`|
 |[](pathfinder-bestiary-3-items/S9RBBqUiQCE9JKB1.htm)|Emotionally Unaware|`@Compendium[pf2e.pathfinder-bestiary-3.S9RBBqUiQCE9JKB1]`|
 |[](pathfinder-bestiary-3-items/nXUfkwitBNWhIe8d.htm)|Fossilization|`@Compendium[pf2e.pathfinder-bestiary-3.nXUfkwitBNWhIe8d]`|
@@ -9853,7 +9845,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/RGJbS9RTIb1LL5uF.htm)|Swarming Snips|`@Compendium[pf2e.pathfinder-bestiary-3.RGJbS9RTIb1LL5uF]`|
 |[](pathfinder-bestiary-3-items/WdzKzT9cZ51TPqV6.htm)|Jotun Slayer|`@Compendium[pf2e.pathfinder-bestiary-3.WdzKzT9cZ51TPqV6]`|
 |[](pathfinder-bestiary-3-items/2Cym04NuN3V52Lkm.htm)|Performance|`@Compendium[pf2e.pathfinder-bestiary-3.2Cym04NuN3V52Lkm]`|
-|[](pathfinder-bestiary-3-items/OhwcTonDsZ7QOZTR.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.OhwcTonDsZ7QOZTR]`|
 |[](pathfinder-bestiary-3-items/uzLf2ezYP1JPXfrQ.htm)|Attack of Opportunity (Jaws Only)|`@Compendium[pf2e.pathfinder-bestiary-3.uzLf2ezYP1JPXfrQ]`|
 |[](pathfinder-bestiary-3-items/6D42cgMRtVemXfrh.htm)|+4 status to all saves vs. Divine or Mental|`@Compendium[pf2e.pathfinder-bestiary-3.6D42cgMRtVemXfrh]`|
 |[](pathfinder-bestiary-3-items/ptpsl6OafcvwkgOx.htm)|Accord Essence|`@Compendium[pf2e.pathfinder-bestiary-3.ptpsl6OafcvwkgOx]`|
@@ -9910,7 +9901,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](pathfinder-bestiary-3-items/NgeIHogL6m58BKDp.htm)|Verdant Burst|`@Compendium[pf2e.pathfinder-bestiary-3.NgeIHogL6m58BKDp]`|
 |[](pathfinder-bestiary-3-items/Hl6TVTFqmE0SOKoE.htm)|Storm of Battle|`@Compendium[pf2e.pathfinder-bestiary-3.Hl6TVTFqmE0SOKoE]`|
 |[](pathfinder-bestiary-3-items/7WVvb1W4IfVQZzSv.htm)|Malevolent Possession|`@Compendium[pf2e.pathfinder-bestiary-3.7WVvb1W4IfVQZzSv]`|
-|[](pathfinder-bestiary-3-items/foFqU5DE5kDifheg.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.foFqU5DE5kDifheg]`|
 |[](pathfinder-bestiary-3-items/s9Y9sorFMjlmE7OS.htm)|Anathematic Aversion|`@Compendium[pf2e.pathfinder-bestiary-3.s9Y9sorFMjlmE7OS]`|
 |[](pathfinder-bestiary-3-items/rYubtl6wVH1V3yQM.htm)|Surface-Bound|`@Compendium[pf2e.pathfinder-bestiary-3.rYubtl6wVH1V3yQM]`|
 |[](pathfinder-bestiary-3-items/UJX7CIiJGskPMXPv.htm)|Consecration Vulnerability|`@Compendium[pf2e.pathfinder-bestiary-3.UJX7CIiJGskPMXPv]`|
@@ -9983,6 +9973,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Aveuglé par la lumière](pathfinder-bestiary-3-items/xOPKChTgrsXHKQAv.htm)|Light Blindness|`@Compendium[pf2e.pathfinder-bestiary-3.xOPKChTgrsXHKQAv]`|
 |[Aveuglé par la lumière](pathfinder-bestiary-3-items/2OyUOHJ2HoOkk9ki.htm)|Light Blindness|`@Compendium[pf2e.pathfinder-bestiary-3.2OyUOHJ2HoOkk9ki]`|
 |[Balai](pathfinder-bestiary-3-items/6fc7mDScSYrAh4aK.htm)|Broom|`@Compendium[pf2e.pathfinder-bestiary-3.6fc7mDScSYrAh4aK]`|
+|[Beauté de la nymphe](pathfinder-bestiary-3-items/8YlOlevrOy2ky8jn.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary-3.8YlOlevrOy2ky8jn]`|
+|[Beauté de la nymphe](pathfinder-bestiary-3-items/P7Q6s7lp0YVHLRTS.htm)|Nymph's Beauty|`@Compendium[pf2e.pathfinder-bestiary-3.P7Q6s7lp0YVHLRTS]`|
 |[Bec](pathfinder-bestiary-3-items/cpVCCJ4aUToJ2wyU.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-3.cpVCCJ4aUToJ2wyU]`|
 |[Bec](pathfinder-bestiary-3-items/2kFQsJv3fMYJ1RND.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-3.2kFQsJv3fMYJ1RND]`|
 |[Bec](pathfinder-bestiary-3-items/qHZIM3SkMqqfQWWG.htm)|Beak|`@Compendium[pf2e.pathfinder-bestiary-3.qHZIM3SkMqqfQWWG]`|
@@ -10092,6 +10084,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Défense](pathfinder-bestiary-3-items/RcFq3iNSRnikQSug.htm)|Tusk|`@Compendium[pf2e.pathfinder-bestiary-3.RcFq3iNSRnikQSug]`|
 |[Défense](pathfinder-bestiary-3-items/sq2f8Tcx4gzFa7t5.htm)|Tusk|`@Compendium[pf2e.pathfinder-bestiary-3.sq2f8Tcx4gzFa7t5]`|
 |[Défense](pathfinder-bestiary-3-items/UGDbrE4flLByNgPe.htm)|Tusk|`@Compendium[pf2e.pathfinder-bestiary-3.UGDbrE4flLByNgPe]`|
+|[Déplacement facilité dans les marais](pathfinder-bestiary-3-items/2BRmODyR3yH6ev3Q.htm)|Swamp Stride|`@Compendium[pf2e.pathfinder-bestiary-3.2BRmODyR3yH6ev3Q]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-3-items/HKJDIUhv4yxNRcOz.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-3.HKJDIUhv4yxNRcOz]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-3-items/mfooCk9alzoismP0.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-3.mfooCk9alzoismP0]`|
 |[Empoignade/Agrippement](pathfinder-bestiary-3-items/Bo9liMM0Qn69gKdi.htm)|Grab|`@Compendium[pf2e.pathfinder-bestiary-3.Bo9liMM0Qn69gKdi]`|
@@ -10191,6 +10184,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Focaliser la beauté](pathfinder-bestiary-3-items/RwZLO9txSGxmMHb3.htm)|Focus Beauty|`@Compendium[pf2e.pathfinder-bestiary-3.RwZLO9txSGxmMHb3]`|
 |[Fronde](pathfinder-bestiary-3-items/WsuMP3feuXNP1eeE.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary-3.WsuMP3feuXNP1eeE]`|
 |[Fronde](pathfinder-bestiary-3-items/8JO7dr59w8qgOjKx.htm)|Sling|`@Compendium[pf2e.pathfinder-bestiary-3.8JO7dr59w8qgOjKx]`|
+|[Frénésie draconique](pathfinder-bestiary-3-items/Lt0Vd3S5Hji79WEW.htm)|Draconic Frenzy|`@Compendium[pf2e.pathfinder-bestiary-3.Lt0Vd3S5Hji79WEW]`|
 |[Frénésie lunaire](pathfinder-bestiary-3-items/wT009BtDXdqzatix.htm)|Moon Frenzy|`@Compendium[pf2e.pathfinder-bestiary-3.wT009BtDXdqzatix]`|
 |[Férocité](pathfinder-bestiary-3-items/Ti3e0CkEDJSOuOJy.htm)|Ferocity|`@Compendium[pf2e.pathfinder-bestiary-3.Ti3e0CkEDJSOuOJy]`|
 |[Glissement de terrain](pathfinder-bestiary-3-items/d5pg9c64JL7EqHVV.htm)|Earth Glide|`@Compendium[pf2e.pathfinder-bestiary-3.d5pg9c64JL7EqHVV]`|
@@ -11047,6 +11041,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Vision dans le noir supérieure](pathfinder-bestiary-3-items/vrYCafAUKL8c1AqG.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-3.vrYCafAUKL8c1AqG]`|
 |[Vision dans le noir supérieure](pathfinder-bestiary-3-items/np15xTTViDna2Ngj.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-3.np15xTTViDna2Ngj]`|
 |[Vision dans le noir supérieure](pathfinder-bestiary-3-items/Mfyiq7MrkDXVAE1n.htm)|Greater Darkvision|`@Compendium[pf2e.pathfinder-bestiary-3.Mfyiq7MrkDXVAE1n]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/EViJHho1D7U93moQ.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.EViJHho1D7U93moQ]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/HTapFz8e3dL6LNJc.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.HTapFz8e3dL6LNJc]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/HvbA2JrPJX04mXf4.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.HvbA2JrPJX04mXf4]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/h2v7VpyXTPjTzVX1.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.h2v7VpyXTPjTzVX1]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/OhwcTonDsZ7QOZTR.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.OhwcTonDsZ7QOZTR]`|
+|[Vision malgré la fumée](pathfinder-bestiary-3-items/foFqU5DE5kDifheg.htm)|Smoke Vision|`@Compendium[pf2e.pathfinder-bestiary-3.foFqU5DE5kDifheg]`|
 |[Vision nocturne](pathfinder-bestiary-3-items/zhUapm5Z8hOglOwU.htm)|Low-Light Vision|`@Compendium[pf2e.pathfinder-bestiary-3.zhUapm5Z8hOglOwU]`|
 |[Vision nocturne](pathfinder-bestiary-3-items/qedIdKEDmmqyp8F5.htm)|Low-Light Vision|`@Compendium[pf2e.pathfinder-bestiary-3.qedIdKEDmmqyp8F5]`|
 |[Vision nocturne](pathfinder-bestiary-3-items/Zp3zBQ50NNxsfjVx.htm)|Low-Light Vision|`@Compendium[pf2e.pathfinder-bestiary-3.Zp3zBQ50NNxsfjVx]`|
@@ -17024,14 +17024,12 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](bestiary-effects/2ccLQxmTlTPySnOR.htm)|Effect: Technology Control|`@Compendium[pf2e.bestiary-effects.2ccLQxmTlTPySnOR]`|
 |[](bestiary-effects/pvA97TXnq7wCbXp6.htm)|Effect: Call to Halt (Success)|`@Compendium[pf2e.bestiary-effects.pvA97TXnq7wCbXp6]`|
 |[](bestiary-effects/vuaungtl9VCBoHDK.htm)|Effect: Rockfall Failure|`@Compendium[pf2e.bestiary-effects.vuaungtl9VCBoHDK]`|
-|[](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|`@Compendium[pf2e.bestiary-effects.Qomp2EujVCbzJb4X]`|
 |[](bestiary-effects/uqjx1bwYduHwwC7d.htm)|Effect: Guiding Words|`@Compendium[pf2e.bestiary-effects.uqjx1bwYduHwwC7d]`|
 |[](bestiary-effects/Vz9Cb8FEzNwfH3mE.htm)|Effect: Breach the Abyss - Negative|`@Compendium[pf2e.bestiary-effects.Vz9Cb8FEzNwfH3mE]`|
 |[](bestiary-effects/E10qJgInN8Fx3yhW.htm)|Effect: Distracting Frolic|`@Compendium[pf2e.bestiary-effects.E10qJgInN8Fx3yhW]`|
 |[](bestiary-effects/OxOMYmlPtjsEkRtY.htm)|Effect: Aura of Command|`@Compendium[pf2e.bestiary-effects.OxOMYmlPtjsEkRtY]`|
 |[](bestiary-effects/qFDiWpzk8cuwQGyH.htm)|Effect: Hypnotic Stare|`@Compendium[pf2e.bestiary-effects.qFDiWpzk8cuwQGyH]`|
 |[](bestiary-effects/gORyINQLvplfthlm.htm)|Effect: Pollution Infusion|`@Compendium[pf2e.bestiary-effects.gORyINQLvplfthlm]`|
-|[](bestiary-effects/QoneHsjZKtGHWlam.htm)|Effect: Aura of Misfortune|`@Compendium[pf2e.bestiary-effects.QoneHsjZKtGHWlam]`|
 |[](bestiary-effects/xiOi7btey4AS6jhe.htm)|Effect: Overtake Soul|`@Compendium[pf2e.bestiary-effects.xiOi7btey4AS6jhe]`|
 |[](bestiary-effects/yG27Ixwdpxqbrhzf.htm)|Effect: Bosun's Command - Speed Bonus|`@Compendium[pf2e.bestiary-effects.yG27Ixwdpxqbrhzf]`|
 |[](bestiary-effects/HGP0c0tOK2WnC4p5.htm)|Effect: Breach the Abyss - Fire|`@Compendium[pf2e.bestiary-effects.HGP0c0tOK2WnC4p5]`|
@@ -17082,6 +17080,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[](bestiary-effects/XH49blfNDjkqnH5N.htm)|Effect: Motivating Assault|`@Compendium[pf2e.bestiary-effects.XH49blfNDjkqnH5N]`|
 |[](bestiary-effects/7PYhxmQxCD5kzMlw.htm)|Effect: Harrowing Misfortune|`@Compendium[pf2e.bestiary-effects.7PYhxmQxCD5kzMlw]`|
 |[](bestiary-effects/WfiaKdXNSxC3POcs.htm)|Effect: Bosun's Command - Attack Bonus|`@Compendium[pf2e.bestiary-effects.WfiaKdXNSxC3POcs]`|
+|[Aura d'infortune](bestiary-effects/QoneHsjZKtGHWlam.htm)|Effect: Aura of Misfortune|`@Compendium[pf2e.bestiary-effects.QoneHsjZKtGHWlam]`|
 |[Effet :](bestiary-effects/5roCV7EbPx1G5xOd.htm)|Effect: Mangling Rend|`@Compendium[pf2e.bestiary-effects.5roCV7EbPx1G5xOd]`|
 |[Effet :](bestiary-effects/FISKjI7bal26AnyL.htm)|Effect: Timely Advice|`@Compendium[pf2e.bestiary-effects.FISKjI7bal26AnyL]`|
 |[Effet : Abattez-les !](bestiary-effects/u1Z7i2RyL6Sd9OVU.htm)|Effect: Take Them Down!|`@Compendium[pf2e.bestiary-effects.u1Z7i2RyL6Sd9OVU]`|
@@ -17126,6 +17125,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Effet : Siphon d'âme](bestiary-effects/SjrM6XVTLySToS12.htm)|Effect: Soul Siphon|`@Compendium[pf2e.bestiary-effects.SjrM6XVTLySToS12]`|
 |[Effet : Stridulation](bestiary-effects/wJsOZsYI2ZUVcGxc.htm)|Effect: Fiddle|`@Compendium[pf2e.bestiary-effects.wJsOZsYI2ZUVcGxc]`|
 |[Effet : Têtes de l'hydre](bestiary-effects/uZJOdounIHaFDC1t.htm)|Effect: Hydra Heads|`@Compendium[pf2e.bestiary-effects.uZJOdounIHaFDC1t]`|
+|[Effet : Vague de fange](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|`@Compendium[pf2e.bestiary-effects.Qomp2EujVCbzJb4X]`|
 |[Effet : Vin sylvestre](bestiary-effects/QDs8t1U1IepzYlyi.htm)|Effect: Sylvan Wine|`@Compendium[pf2e.bestiary-effects.QDs8t1U1IepzYlyi]`|
 |[Effet : Vision troublante](bestiary-effects/AThOnEYzPO9ssYTB.htm)|Effect: Disturbing Vision|`@Compendium[pf2e.bestiary-effects.AThOnEYzPO9ssYTB]`|
 |[Effet : bricolage ingénieux (Succès critique)](bestiary-effects/BTSstQAn4Xlm1PWV.htm)|Effect: Uncanny Tinker|`@Compendium[pf2e.bestiary-effects.BTSstQAn4Xlm1PWV]`|
@@ -18800,8 +18800,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Dangers éphémères](spells/illusion-04-HisaZTk67YAxLGBq.htm)|Ephemeral Hazards|`@Compendium[pf2e.spells-srd.HisaZTk67YAxLGBq]`|
 |[Danse de ténèbre](spells/evocation-05-9BGEf9Sv5rgNBCk0.htm)|Dance of Darkness|`@Compendium[pf2e.spells-srd.9BGEf9Sv5rgNBCk0]`|
 |[Danse incontrôlable](spells/enchantment-08-Jvyy6oVIQsD34MHB.htm)|Uncontrollable Dance|`@Compendium[pf2e.spells-srd.Jvyy6oVIQsD34MHB]`|
-|[Dard de Wyverne](spells/necromancy-05-IoHxAkK0uGqrgtWl.htm)|Wyvern Sting|`@Compendium[pf2e.spells-srd.IoHxAkK0uGqrgtWl]`|
 |[Dard de diablotin](spells/necromancy-02-oryfsRK27jAUnziw.htm)|Imp Sting|`@Compendium[pf2e.spells-srd.oryfsRK27jAUnziw]`|
+|[Dard de vouivre](spells/necromancy-05-IoHxAkK0uGqrgtWl.htm)|Wyvern Sting|`@Compendium[pf2e.spells-srd.IoHxAkK0uGqrgtWl]`|
 |[Dard du ver pourpre](spells/necromancy-06-ayRXv0wQH00TTNZe.htm)|Purple Worm Sting|`@Compendium[pf2e.spells-srd.ayRXv0wQH00TTNZe]`|
 |[Demeure aux murs imaginaires](spells/illusion-05-PEfSofHm73IT3Khc.htm)|House of Imaginary Walls|`@Compendium[pf2e.spells-srd.PEfSofHm73IT3Khc]`|
 |[Dessèchement](spells/evocation-01-7CUgqHunmHfW2lC5.htm)|Parch|`@Compendium[pf2e.spells-srd.7CUgqHunmHfW2lC5]`|
@@ -20665,7 +20665,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Crache-souffle majeur](equipment/weapon-18-WnzQy5naKy9Gj4pY.htm)|Breath Blaster (Major)|`@Compendium[pf2e.equipment-srd.WnzQy5naKy9Gj4pY]`|
 |[Crache-souffle supérieur](equipment/weapon-14-4UHTZGZosYcP28lD.htm)|Breath Blaster (Greater)|`@Compendium[pf2e.equipment-srd.4UHTZGZosYcP28lD]`|
 |[Cracheur d'acide](equipment/consumable-04-1Cj3rG1ugNPcWaPA.htm)|Acid Spitter|`@Compendium[pf2e.equipment-srd.1Cj3rG1ugNPcWaPA]`|
-|[Craie](equipment/equipment-00-xShIDyydOMkGvGNb.htm)|Chalk|`@Compendium[pf2e.equipment-srd.xShIDyydOMkGvGNb]`|
 |[Craie](equipment/consumable-00-xShIDyydOMkGvGNb.htm)|Chalk|`@Compendium[pf2e.equipment-srd.xShIDyydOMkGvGNb]`|
 |[Crampons de démarches assurées](equipment/equipment-06-toest6lPgkXHI3cy.htm)|Sure-Step Crampons|`@Compendium[pf2e.equipment-srd.toest6lPgkXHI3cy]`|
 |[Cristal de puissance](equipment/consumable-01-ZCsksGf6NPUKz2Uw.htm)|Potency Crystal|`@Compendium[pf2e.equipment-srd.ZCsksGf6NPUKz2Uw]`|

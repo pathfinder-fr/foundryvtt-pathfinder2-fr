@@ -2604,6 +2604,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
         },
         {
+            "id": "EViJHho1D7U93moQ",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision du brimorak ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
+        },
+        {
             "id": "tqxAfXEcZbDZLdxn",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -2697,6 +2702,11 @@
             "id": "gmOQkMoumZBsdfpn",
             "name": "Jaws",
             "items-description": ""
+        },
+        {
+            "id": "8YlOlevrOy2ky8jn",
+            "name": "Nymph's Beauty",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Les créatures qui commencent leur tour dans l’aura doivent réussir un jet de @Check[type:will|dc:33]{Volonté} DD 33 ou être @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuse} par la beauté irréelle de la souveraine lampade pendant 1 minute. Lorsqu'elle est confuse par cet effet, les actions de la créature confuse ne permettent jamais de blesser la souveraine lampade.</p>"
         },
         {
             "id": "vYEI2Ae6r4vFEWMb",
@@ -4764,6 +4774,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
         },
         {
+            "id": "HTapFz8e3dL6LNJc",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision de la volute de feu ; elle ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
+        },
+        {
             "id": "3Epd1MoTcY2zIoJQ",
             "name": "Darkvision",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
@@ -6209,6 +6224,11 @@
             "items-description": ""
         },
         {
+            "id": "P7Q6s7lp0YVHLRTS",
+            "name": "Nymph's Beauty",
+            "items-description": "<p>@Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} de @Template[type:emanation|distance:30]{9 m}</p>\n<hr />\n<p>Les créatures qui commencent leur tour dans l’aura doivent réussir un jet de @Check[type:will|dc:38]{Volonté} DD 38 ou être transfigurée d'émerveillement, la rendant @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Étourdie} pendant 1 round.</p>"
+        },
+        {
             "id": "nZLnu6bwL0bYmIYm",
             "name": "Constant Spells",
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
@@ -6604,6 +6624,16 @@
             "items-description": ""
         },
         {
+            "id": "HvbA2JrPJX04mXf4",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision du tolokande ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
+        },
+        {
+            "id": "Lt0Vd3S5Hji79WEW",
+            "name": "Draconic Frenzy",
+            "items-description": "<p>Le dragon porte deux Frappes de griffe et une Frappe d'aile dans n'importe quel ordre.</p>"
+        },
+        {
             "id": "OEzKykNunY5znzf7",
             "name": "Claw",
             "items-description": ""
@@ -6892,6 +6922,11 @@
             "id": "ebO4IFQGFnQQfnSq",
             "name": "Scent (Imprecise) 60 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
+        },
+        {
+            "id": "h2v7VpyXTPjTzVX1",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision du dragon ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
         },
         {
             "id": "x5ke7WXv7p23V2Mc",
@@ -7499,6 +7534,11 @@
             "items-description": "<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
         },
         {
+            "id": "2BRmODyR3yH6ev3Q",
+            "name": "Swamp Stride",
+            "items-description": "<p>Un mobogo ignore un terrain difficile provoqué par des éléments d’un marais.</p>"
+        },
+        {
             "id": "PLTi8diRg1rhDOR9",
             "name": "Trackless Step",
             "items-description": "<p>Le renard évanescent bénéficie toujours de @Compendium[pf2e.actionspf2e.SB7cMECVtE06kByk]{Dissimuler des traces} dans un environnement naturel même en se déplaçant à pleine vitesse.</p>"
@@ -7769,6 +7809,11 @@
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
         },
         {
+            "id": "OhwcTonDsZ7QOZTR",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision du dragon ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
+        },
+        {
             "id": "KmgwRHZExpyqDBij",
             "name": "Scent (Imprecise) 60 feet",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
@@ -8007,6 +8052,11 @@
             "id": "tetpWKxbpwLYXdRP",
             "name": "Improved Grab",
             "items-description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
+        },
+        {
+            "id": "foFqU5DE5kDifheg",
+            "name": "Smoke Vision",
+            "items-description": "<p>La fumée ne gêne pas la vision du péri ; il ignore l’état @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Masqué} octroyé par la fumée.</p>"
         },
         {
             "id": "37C5tkSFoAf7HJd2",

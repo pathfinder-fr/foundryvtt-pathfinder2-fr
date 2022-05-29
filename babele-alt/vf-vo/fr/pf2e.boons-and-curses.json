@@ -104,7 +104,7 @@
         {
             "id": "Desna - Major Curse",
             "name": "Desna - Malédiction majeure (Desna - Major Curse)",
-            "description": "<p><strong>Malédiction majeure</strong> Les étoiles vous rejettent du fait de vos manières.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade} 4 et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} lorsque vous êtes exposé à la lumière des étoiles.</p>"
+            "description": "<p><strong>Malédiction majeure</strong> Les étoiles vous rejettent du fait de vos manières.</p>\n<p>Vous êtes @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Malade 4} et @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralenti 1} lorsque vous êtes exposé à la lumière des étoiles.</p>"
         },
         {
             "id": "Zon-Kuthon - Minor Curse",

@@ -6,7 +6,7 @@
  * **aucune**: 24
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -1036,7 +1036,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[necromancy-05-gsYEuWv04XTDxe91.htm](spells/necromancy-05-gsYEuWv04XTDxe91.htm)|Call Spirit|Appel d'un esprit|officielle|
 |[necromancy-05-hghGRzOSzEl4UXdS.htm](spells/necromancy-05-hghGRzOSzEl4UXdS.htm)|Invoke Spirits|Invoquer les esprits|libre|
 |[necromancy-05-Hnc7eGi7vyZenAIm.htm](spells/necromancy-05-Hnc7eGi7vyZenAIm.htm)|Breath of Life|Souffle de vie|officielle|
-|[necromancy-05-IoHxAkK0uGqrgtWl.htm](spells/necromancy-05-IoHxAkK0uGqrgtWl.htm)|Wyvern Sting|Dard de Wyverne|libre|
+|[necromancy-05-IoHxAkK0uGqrgtWl.htm](spells/necromancy-05-IoHxAkK0uGqrgtWl.htm)|Wyvern Sting|Dard de vouivre|libre|
 |[necromancy-05-kqhPt9344UkcGVYO.htm](spells/necromancy-05-kqhPt9344UkcGVYO.htm)|Resurrect|Résurrection|officielle|
 |[necromancy-05-MlpbeZ61Euhl0d60.htm](spells/necromancy-05-MlpbeZ61Euhl0d60.htm)|Cloudkill|Nuage mortel|officielle|
 |[necromancy-05-nQS4vPm5zprqkzFZ.htm](spells/necromancy-05-nQS4vPm5zprqkzFZ.htm)|Curse of Death|Malédiction de mort|libre|

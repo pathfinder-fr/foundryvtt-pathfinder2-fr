@@ -1,13 +1,13 @@
 # État de la traduction (equipment)
 
  * **officielle**: 651
- * **libre**: 1277
- * **changé**: 923
+ * **libre**: 1278
+ * **changé**: 921
  * **aucune**: 70
  * **vide**: 2
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -105,7 +105,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-09-DIzZr0K20eCbNzQo.htm](equipment/armor-09-DIzZr0K20eCbNzQo.htm)|Force Shield|Bouclier de force|changé|
 |[armor-09-jAKYIqG2BNO7yffJ.htm](equipment/armor-09-jAKYIqG2BNO7yffJ.htm)|Leopard's Armor|Armure du léopard|changé|
 |[armor-09-nVlKU2et4EeReayr.htm](equipment/armor-09-nVlKU2et4EeReayr.htm)|Victory Plate|Harnois de la victoire|changé|
-|[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|changé|
 |[armor-10-b8bVEp4qOorBDsAF.htm](equipment/armor-10-b8bVEp4qOorBDsAF.htm)|Scarab Cuirass|Cuirasse de scarabée|changé|
 |[armor-10-GDSclGF1yk0sw86V.htm](equipment/armor-10-GDSclGF1yk0sw86V.htm)|Numerian Steel Breastplate|Cuirasse en acier numérien|changé|
 |[armor-10-NoTUhKkiTY5BQU5T.htm](equipment/armor-10-NoTUhKkiTY5BQU5T.htm)|Forge Warden|Gardien de la forge|changé|
@@ -482,7 +481,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-t8U01IpeOyKv4nDN.htm](equipment/equipment-09-t8U01IpeOyKv4nDN.htm)|Librarian's Baton|Bâton du bibliothécaire|changé|
 |[equipment-09-tr2eOlJMmBKBZtI9.htm](equipment/equipment-09-tr2eOlJMmBKBZtI9.htm)|Mask of the Banshee|Masque de la Banshie|changé|
 |[equipment-09-TYdFnzhhTlpUdtty.htm](equipment/equipment-09-TYdFnzhhTlpUdtty.htm)|Starless Scope|Lunette sans étoiles|changé|
-|[equipment-09-u4mjXLioKytEZMTb.htm](equipment/equipment-09-u4mjXLioKytEZMTb.htm)|Minotaur Chair|Chaise du minotaure|changé|
 |[equipment-09-WAMDYE9tt3W8obzr.htm](equipment/equipment-09-WAMDYE9tt3W8obzr.htm)|Horn of Blasting|Cor de dévastation|changé|
 |[equipment-09-We11d1zelZ1wskvN.htm](equipment/equipment-09-We11d1zelZ1wskvN.htm)|Paired (Greater)|Appariée supérieure (rune)|changé|
 |[equipment-09-wI4Tj8bNwpZHequC.htm](equipment/equipment-09-wI4Tj8bNwpZHequC.htm)|Armbands of Athleticism|Brassards d'athlète|changé|
@@ -1078,6 +1076,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[armor-09-g5TZguADBpi6hDnv.htm](equipment/armor-09-g5TZguADBpi6hDnv.htm)|Djezet Buckler (Standard Grade)|Targe en djezet de qualité standard|libre|
 |[armor-09-ip2KNbzryjauXdKC.htm](equipment/armor-09-ip2KNbzryjauXdKC.htm)|Djezet Shield (Standard Grade)|Bouclier en djezet de qualité standard|libre|
 |[armor-09-Q8BscHUFiM1a86PO.htm](equipment/armor-09-Q8BscHUFiM1a86PO.htm)|Dragonslayer's Shield|Bouclier du pourfendeur de dragons|officielle|
+|[armor-10-8HxM35X8DDt2gw9d.htm](equipment/armor-10-8HxM35X8DDt2gw9d.htm)|Electric Eelskin|Peau d'anguille électrique|officielle|
 |[armor-10-nRLMg1NB2OSmzSqX.htm](equipment/armor-10-nRLMg1NB2OSmzSqX.htm)|Wovenwood Shield (Moderate)|Bouclier de bois tissé modéré|libre|
 |[armor-10-pNQJ9PTOEHxEZCgp.htm](equipment/armor-10-pNQJ9PTOEHxEZCgp.htm)|Sturdy Shield (Moderate)|Bouclier renforcé modéré|libre|
 |[armor-13-Fr75q2wqO9AFG53z.htm](equipment/armor-13-Fr75q2wqO9AFG53z.htm)|Wovenwood Shield (Greater)|Bouclier de bois tissé supérieur|libre|
@@ -2129,7 +2128,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-00-WTVLL9xk0Tk87w93.htm](equipment/equipment-00-WTVLL9xk0Tk87w93.htm)|Fox Marble|Bille de renard|libre|
 |[equipment-00-wvOYIeJjU3UDVgMG.htm](equipment/equipment-00-wvOYIeJjU3UDVgMG.htm)|Vial|Fiole|officielle|
 |[equipment-00-xE2CGurZp4eHc1Oc.htm](equipment/equipment-00-xE2CGurZp4eHc1Oc.htm)|Familiar Satchel|Sacoche de Familier|libre|
-|[equipment-00-xShIDyydOMkGvGNb.htm](equipment/equipment-00-xShIDyydOMkGvGNb.htm)|Chalk|Craie|officielle|
 |[equipment-00-xuTO0Lbu999HnBhK.htm](equipment/equipment-00-xuTO0Lbu999HnBhK.htm)|Sovereign Steel Ingot|Lingot d'acier souverain|libre|
 |[equipment-00-XV2EHt1RWHqzPeUT.htm](equipment/equipment-00-XV2EHt1RWHqzPeUT.htm)|Shield Sconce|Chandelle de bouclier|libre|
 |[equipment-00-y34yjumCFakrbtdw.htm](equipment/equipment-00-y34yjumCFakrbtdw.htm)|Artisan's Tools|Outils d'artisan|libre|
@@ -2350,6 +2348,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[equipment-09-QRtsLdNvTs2C1oI2.htm](equipment/equipment-09-QRtsLdNvTs2C1oI2.htm)|Starless Scope Lens|Lentille de la lunette sans étoile|libre|
 |[equipment-09-qUnDHEXteUQGE8yp.htm](equipment/equipment-09-qUnDHEXteUQGE8yp.htm)|Grievous|Douloureuse (rune)|officielle|
 |[equipment-09-t6SSQYruLsDWj5Tl.htm](equipment/equipment-09-t6SSQYruLsDWj5Tl.htm)|Crushing (Greater)|Écrasante supérieur (rune)|libre|
+|[equipment-09-u4mjXLioKytEZMTb.htm](equipment/equipment-09-u4mjXLioKytEZMTb.htm)|Minotaur Chair|Chaise du minotaure|libre|
 |[equipment-09-WR8GOQSx7B5AlzNu.htm](equipment/equipment-09-WR8GOQSx7B5AlzNu.htm)|Handcuffs (Good)|Menottes à cliquet (bonnes)|libre|
 |[equipment-09-YXTrUT7Z7emAn2gb.htm](equipment/equipment-09-YXTrUT7Z7emAn2gb.htm)|Wondrous Figurine (Ruby Hippopotamus)|Figurine merveilleuse (Hippopotame de rubis)|libre|
 |[equipment-09-Z8RZfkIrsifYeWg4.htm](equipment/equipment-09-Z8RZfkIrsifYeWg4.htm)|Camouflage Suit (Superb)|Tenue de camouflage superbe|libre|
