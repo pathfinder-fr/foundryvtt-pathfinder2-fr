@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary)
 
- * **officielle**: 455
- * **changé**: 12
+ * **officielle**: 456
+ * **changé**: 11
  * **libre**: 1
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -13,7 +13,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 | Fichier   | Nom (EN)    | Nom (FR)    | État |
 |-----------|-------------|-------------|:----:|
 |[cXSTuUJct5iepH75.htm](pathfinder-bestiary/cXSTuUJct5iepH75.htm)|Pridespawn|Rejeton de l'orgueil|changé|
-|[iSwUKe7cEytclS7r.htm](pathfinder-bestiary/iSwUKe7cEytclS7r.htm)|Dryad|Dryade (Nymphe)|changé|
 |[pL4sS2HZtGAryKnN.htm](pathfinder-bestiary/pL4sS2HZtGAryKnN.htm)|Naunet|Naunet (Protéen)|changé|
 |[pMoAlNjMJ7DArLPh.htm](pathfinder-bestiary/pMoAlNjMJ7DArLPh.htm)|Wrathspawn|Rejeton de la colère|changé|
 |[q3LrTrfnCvoUXuRz.htm](pathfinder-bestiary/q3LrTrfnCvoUXuRz.htm)|Slothspawn|Rejeton de la paresse|changé|
@@ -235,6 +234,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[IpzDMSmJ42alvf9F.htm](pathfinder-bestiary/IpzDMSmJ42alvf9F.htm)|Scorpion Swarm|Nuée de scorpions|officielle|
 |[IQsTNM8aXcCUmFu0.htm](pathfinder-bestiary/IQsTNM8aXcCUmFu0.htm)|Lamia|Lamie|officielle|
 |[irrXrWxJ0LYSUCQB.htm](pathfinder-bestiary/irrXrWxJ0LYSUCQB.htm)|Adult Black Dragon|Dragon noir adulte (Chromatique)|officielle|
+|[iSwUKe7cEytclS7r.htm](pathfinder-bestiary/iSwUKe7cEytclS7r.htm)|Dryad|Dryade (Nymphe)|officielle|
 |[IUzKFRX0uHl1yxkn.htm](pathfinder-bestiary/IUzKFRX0uHl1yxkn.htm)|Greater Shadow|Ombre majeure|officielle|
 |[Iw2QccAkRc5Vnfzj.htm](pathfinder-bestiary/Iw2QccAkRc5Vnfzj.htm)|Ghaele|Ghaéle (Azata)|officielle|
 |[Ix1PziAEk9IIMYBz.htm](pathfinder-bestiary/Ix1PziAEk9IIMYBz.htm)|Zombie Brute|Brute zombie|officielle|
@@ -429,7 +429,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vxKqnzwcxNAgLp7C.htm](pathfinder-bestiary/vxKqnzwcxNAgLp7C.htm)|Giant Octopus|Pieuvre géante|officielle|
 |[WAgQt9pkzgPOlcJI.htm](pathfinder-bestiary/WAgQt9pkzgPOlcJI.htm)|Triceratops|Tricératops (Dinosaure)|officielle|
 |[waPgKbjhijeZ00Zm.htm](pathfinder-bestiary/waPgKbjhijeZ00Zm.htm)|Nightmare|Destrier noir|officielle|
-|[wifELOkkRO2634bc.htm](pathfinder-bestiary/wifELOkkRO2634bc.htm)|Boggard Scout|Éclaireur Bourbiérin|officielle|
+|[wifELOkkRO2634bc.htm](pathfinder-bestiary/wifELOkkRO2634bc.htm)|Boggard Scout|Éclaireur bourbiérin|officielle|
 |[WiOY3YbiKEJKIQQz.htm](pathfinder-bestiary/WiOY3YbiKEJKIQQz.htm)|Stone Giant|Géant de pierre|officielle|
 |[wjw8FQp4icafYash.htm](pathfinder-bestiary/wjw8FQp4icafYash.htm)|Living Whirlwind|Tourbillon vivant (Élémentaire, air)|officielle|
 |[wKVZdVVcXtvLxgsY.htm](pathfinder-bestiary/wKVZdVVcXtvLxgsY.htm)|Giant Animated Statue|Statue animée géante (Objet animé)|officielle|
@@ -449,7 +449,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[x6wfK4UCJ6wYok9t.htm](pathfinder-bestiary/x6wfK4UCJ6wYok9t.htm)|Tor Linnorm|Linnorm des roches|officielle|
 |[x81PGKEsOtPquFVa.htm](pathfinder-bestiary/x81PGKEsOtPquFVa.htm)|Chimera (Blue Dragon)|Chimère (Dragon bleu)|officielle|
 |[x8ZWNcFOfpJYjXOw.htm](pathfinder-bestiary/x8ZWNcFOfpJYjXOw.htm)|Lustspawn|Rejeton de la luxure|libre|
-|[XbClt5wkqECrQToJ.htm](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|Grenadier Homme-rat|officielle|
+|[XbClt5wkqECrQToJ.htm](pathfinder-bestiary/XbClt5wkqECrQToJ.htm)|Ratfolk Grenadier|Grenadier homme-rat|officielle|
 |[XLqbEDjmGpIc4XoY.htm](pathfinder-bestiary/XLqbEDjmGpIc4XoY.htm)|Orc Warchief|Chef de guerre orc|officielle|
 |[XoXf5ExS95Vv6lNf.htm](pathfinder-bestiary/XoXf5ExS95Vv6lNf.htm)|Elemental Avalanche|Avalanche élémentaire (Élémentaire, terre)|officielle|
 |[xqnl2eFzy5H2NZoQ.htm](pathfinder-bestiary/xqnl2eFzy5H2NZoQ.htm)|Shaitan|Shaitan (Génie)|officielle|

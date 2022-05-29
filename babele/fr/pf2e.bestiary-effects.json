@@ -122,6 +122,11 @@
             "description": "<p>La créature obtient un bonus de circonstances de +1 aux jets d'attaques, de dégâts, à la CA, aux jets de sauvegarde et aux tests de compétence.</p>"
         },
         {
+            "id": "Effect: Filth Wave",
+            "name": "Effet : Vague de fange",
+            "description": "<p>La créature subit une pénalité  de -3 m à ses Vitesses.</p>"
+        },
+        {
             "id": "Effect: Feed",
             "name": "Effet : Alimentation",
             "description": "<p>La créature obtient un bonus de statut à ses tests et à ses DD en fonction de l'utilisation de sa capacité Alimentation.</p>"
@@ -140,6 +145,11 @@
             "id": "Effect: Guildmaster's Lead",
             "name": "Effet : Conduite du Maître de guilde",
             "description": ""
+        },
+        {
+            "id": "Effect: Aura of Misfortune",
+            "name": "Aura d'infortune",
+            "description": "<p>Les créatures vivantes dans l’aura doivent lancer deux fois tous leurs d20 et utiliser le moins bon résultat.</p>"
         },
         {
             "id": "Effect: Sinful Bite",

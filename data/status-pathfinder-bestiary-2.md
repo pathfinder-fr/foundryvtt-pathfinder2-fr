@@ -1,11 +1,11 @@
 # État de la traduction (pathfinder-bestiary-2)
 
- * **officielle**: 57
- * **libre**: 302
+ * **officielle**: 82
+ * **libre**: 277
  * **changé**: 14
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des éléments changés en VO et devant être vérifiés
@@ -68,27 +68,27 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[6xioRweZ0T4o4X9e.htm](pathfinder-bestiary-2/6xioRweZ0T4o4X9e.htm)|Witchfire|Sorcière de feu|officielle|
 |[6YOyTHRGqkYl2Prb.htm](pathfinder-bestiary-2/6YOyTHRGqkYl2Prb.htm)|Wolverine|Glouton|officielle|
 |[6ZLs4H4gjVyb3yV7.htm](pathfinder-bestiary-2/6ZLs4H4gjVyb3yV7.htm)|Petitioner (Elysium)|Pétitionnaire (Élysée)|officielle|
-|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fée)|libre|
+|[73qJxJK8ES4Tbp2k.htm](pathfinder-bestiary-2/73qJxJK8ES4Tbp2k.htm)|Lurker In Light|Rôdeur de lumière (Fée)|officielle|
 |[7lL7APeHQgkVxU1B.htm](pathfinder-bestiary-2/7lL7APeHQgkVxU1B.htm)|Fire Jellyfish Swarm|Nuée de méduses de feu|officielle|
 |[7oiIDnLBDpC2r2AA.htm](pathfinder-bestiary-2/7oiIDnLBDpC2r2AA.htm)|Sacristan|Sacristain (Velstrac)|libre|
-|[7SVhYtnBn967Hy8O.htm](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|Prophète des Os (Homme-serpent)|libre|
-|[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|Golem de bois|libre|
-|[89isDKkB1UCbsSvU.htm](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|Ostiarius (Velstrac)|libre|
-|[8a9N2iPA5HLpkWaF.htm](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|Nuée de fourmis légionnaires|libre|
-|[8HJNH3aDTJyJi3pU.htm](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Cockroach Swarm|Nuée de cafards|libre|
-|[8IyfadYYpYXBvlXN.htm](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)|Vrykolakas Spawn|Rejeton vrykolakas (Vampire)|libre|
-|[8MQXM56Rm0rmzaxY.htm](pathfinder-bestiary-2/8MQXM56Rm0rmzaxY.htm)|Ancient Cloud Dragon (Spellcaster)|Dragon des nuages vénérable (Incantateur)|libre|
-|[8usfZlFqdD9cchPJ.htm](pathfinder-bestiary-2/8usfZlFqdD9cchPJ.htm)|Bottlenose Dolphin|Grand dauphin|libre|
-|[8WAc7n2M4Ks00yvj.htm](pathfinder-bestiary-2/8WAc7n2M4Ks00yvj.htm)|Cavern Troll|Troll des cavernes|libre|
-|[9sUx2sV4E7Sy3vJT.htm](pathfinder-bestiary-2/9sUx2sV4E7Sy3vJT.htm)|Zelekhut|Zèlékhut (Aéon)|libre|
+|[7SVhYtnBn967Hy8O.htm](pathfinder-bestiary-2/7SVhYtnBn967Hy8O.htm)|Bone Prophet|Prophète des Ossements (Homme-serpent)|officielle|
+|[7UBCht1tQfeba2Ih.htm](pathfinder-bestiary-2/7UBCht1tQfeba2Ih.htm)|Wood Golem|Golem de bois|officielle|
+|[89isDKkB1UCbsSvU.htm](pathfinder-bestiary-2/89isDKkB1UCbsSvU.htm)|Ostiarius|Portier (Velstrac)|officielle|
+|[8a9N2iPA5HLpkWaF.htm](pathfinder-bestiary-2/8a9N2iPA5HLpkWaF.htm)|Army Ant Swarm|Nuée de fourmis soldats|officielle|
+|[8HJNH3aDTJyJi3pU.htm](pathfinder-bestiary-2/8HJNH3aDTJyJi3pU.htm)|Cockroach Swarm|Nuée de cafards|officielle|
+|[8IyfadYYpYXBvlXN.htm](pathfinder-bestiary-2/8IyfadYYpYXBvlXN.htm)|Vrykolakas Spawn|Rejeton vrykolakas (Vampire)|officielle|
+|[8MQXM56Rm0rmzaxY.htm](pathfinder-bestiary-2/8MQXM56Rm0rmzaxY.htm)|Ancient Cloud Dragon (Spellcaster)|Dragon des nuages vénérable (Incantateur)|officielle|
+|[8usfZlFqdD9cchPJ.htm](pathfinder-bestiary-2/8usfZlFqdD9cchPJ.htm)|Bottlenose Dolphin|Grand dauphin|officielle|
+|[8WAc7n2M4Ks00yvj.htm](pathfinder-bestiary-2/8WAc7n2M4Ks00yvj.htm)|Cavern Troll|Troll des cavernes|officielle|
+|[9sUx2sV4E7Sy3vJT.htm](pathfinder-bestiary-2/9sUx2sV4E7Sy3vJT.htm)|Zelekhut|Zèlékhut (Aéon)|officielle|
 |[a6TY4fgTz5MbpkRR.htm](pathfinder-bestiary-2/a6TY4fgTz5MbpkRR.htm)|Young Magma Dragon (Spellcaster)|Jeune dragon de magma (Incantateur)|officielle|
 |[Aa652cDdKTani3DY.htm](pathfinder-bestiary-2/Aa652cDdKTani3DY.htm)|Scythe Tree|Arbre faux|officielle|
 |[aATQbGnSA0KOWG53.htm](pathfinder-bestiary-2/aATQbGnSA0KOWG53.htm)|Anancus|Anancus|libre|
-|[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|Golem de verre|libre|
-|[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|Yamaraj (Psychopompe)|libre|
-|[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|Raie manta|libre|
-|[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|D'ziriak|libre|
-|[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|Mandragore|libre|
+|[ABMn623izSLHA0sx.htm](pathfinder-bestiary-2/ABMn623izSLHA0sx.htm)|Glass Golem|Golem de verre|officielle|
+|[ABrzFoOqQohQqU6C.htm](pathfinder-bestiary-2/ABrzFoOqQohQqU6C.htm)|Yamaraj|Yamaraj (Psychopompe)|officielle|
+|[ACIqdW6VsFA1TCpN.htm](pathfinder-bestiary-2/ACIqdW6VsFA1TCpN.htm)|Manta Ray|Raie manta|officielle|
+|[aFRGgQWWCDIiBlUl.htm](pathfinder-bestiary-2/aFRGgQWWCDIiBlUl.htm)|D'ziriak|D'ziriak|officielle|
+|[aMIb3Xm64NzRj8YP.htm](pathfinder-bestiary-2/aMIb3Xm64NzRj8YP.htm)|Mandragora|Mandragore|officielle|
 |[ARw4pyNmuQxoZDke.htm](pathfinder-bestiary-2/ARw4pyNmuQxoZDke.htm)|Steam Mephit|Méphite de vapeur (Élémentaire)|libre|
 |[aVf2IojxU9ZZ64M5.htm](pathfinder-bestiary-2/aVf2IojxU9ZZ64M5.htm)|Fetchling Scout|Éclaireur Fetchelin|libre|
 |[b0jMGY65XVyuKUjf.htm](pathfinder-bestiary-2/b0jMGY65XVyuKUjf.htm)|Blink Dog|Chien esquiveur|libre|
@@ -128,7 +128,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[dwyt7e1EZPjw9KBB.htm](pathfinder-bestiary-2/dwyt7e1EZPjw9KBB.htm)|Giant Hippocampus|Hippocampe géant|libre|
 |[DxV2vH17H789bJ6y.htm](pathfinder-bestiary-2/DxV2vH17H789bJ6y.htm)|Ankou|Ankou|libre|
 |[DYBZniwR1Ip4inVr.htm](pathfinder-bestiary-2/DYBZniwR1Ip4inVr.htm)|Morlock|Morlock|libre|
-|[e0PXAtnDnJo4ggFX.htm](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|Vrykolakas vénérable (Vampire)|libre|
+|[e0PXAtnDnJo4ggFX.htm](pathfinder-bestiary-2/e0PXAtnDnJo4ggFX.htm)|Vrykolakas Ancient|Ancien vrykolakas (Vampire)|officielle|
 |[e0YvEWJ5zpU946G4.htm](pathfinder-bestiary-2/e0YvEWJ5zpU946G4.htm)|Cave Scorpion|Scorpion des cavernes|libre|
 |[E4aJhHWyFDxgJcy9.htm](pathfinder-bestiary-2/E4aJhHWyFDxgJcy9.htm)|Peryton|Péryton|libre|
 |[e5yE4RkwLQojRYHm.htm](pathfinder-bestiary-2/e5yE4RkwLQojRYHm.htm)|Urdefhan Warrior|Combattant Urdefhan|officielle|
@@ -146,7 +146,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[fizcFuAe2WPauA2U.htm](pathfinder-bestiary-2/fizcFuAe2WPauA2U.htm)|Petitioner (Boneyard)|Pétitionnaire (Cimetière)|libre|
 |[FJr7Rc9MQEwxjAcz.htm](pathfinder-bestiary-2/FJr7Rc9MQEwxjAcz.htm)|Urdefhan Tormentor|Tortionnaire Urdefhan|libre|
 |[FMU6L5vbiUxa1ZF7.htm](pathfinder-bestiary-2/FMU6L5vbiUxa1ZF7.htm)|Kelpie|Kelpie|libre|
-|[FnLuqlzLl4zCE9pJ.htm](pathfinder-bestiary-2/FnLuqlzLl4zCE9pJ.htm)|Adult Magma Dragon|Dragon de Magma adulte|libre|
+|[FnLuqlzLl4zCE9pJ.htm](pathfinder-bestiary-2/FnLuqlzLl4zCE9pJ.htm)|Adult Magma Dragon|Dragon de Magma adulte|officielle|
 |[fpBJiCOoHDlefgpO.htm](pathfinder-bestiary-2/fpBJiCOoHDlefgpO.htm)|Thunderbird|Oiseau-tonnerre|libre|
 |[fRLrlY25qXkOMBNG.htm](pathfinder-bestiary-2/fRLrlY25qXkOMBNG.htm)|Nuckelavee|Nuckelavee|libre|
 |[FRTpT9rLxUBKGdin.htm](pathfinder-bestiary-2/FRTpT9rLxUBKGdin.htm)|Star Archon|Archon Étoile (Archon)|libre|
@@ -183,14 +183,14 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[iLZpGlyBWxS4Idbi.htm](pathfinder-bestiary-2/iLZpGlyBWxS4Idbi.htm)|Emperor Cobra|Cobra Empereur|libre|
 |[iW6WKMVV3Ug8sa2q.htm](pathfinder-bestiary-2/iW6WKMVV3Ug8sa2q.htm)|Thanadaemon|Thanadaémon (Daémon)|libre|
 |[iZ3B52CYBCfqAaOo.htm](pathfinder-bestiary-2/iZ3B52CYBCfqAaOo.htm)|Adult Magma Dragon (Spellcaster)|Dragon de magma|officielle|
-|[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|Maître Vrykolakas (Vampire)|libre|
+|[j43O2vBu8eu2wC5z.htm](pathfinder-bestiary-2/j43O2vBu8eu2wC5z.htm)|Vrykolakas Master|Maître Vrykolakas (Vampire)|officielle|
 |[jCF9HjF42SPXTptP.htm](pathfinder-bestiary-2/jCF9HjF42SPXTptP.htm)|Marrmora|Marrmora (Fey)|libre|
 |[JCoILqEvwovT7tkj.htm](pathfinder-bestiary-2/JCoILqEvwovT7tkj.htm)|Chupacabra|Chupacabra|libre|
 |[JgePINrFINmlsvn3.htm](pathfinder-bestiary-2/JgePINrFINmlsvn3.htm)|Hound Of Tindalos|Chien de Chasse de Tindalos|libre|
 |[jgMFqFDNUWsrnnBH.htm](pathfinder-bestiary-2/jgMFqFDNUWsrnnBH.htm)|Tick Swarm|Nuée de Tiques|libre|
 |[jhr6WpTeY8GXXwK1.htm](pathfinder-bestiary-2/jhr6WpTeY8GXXwK1.htm)|Ifrit Pyrochemist|Pyrochimistes Éfrit|libre|
 |[JJKxWVExhUEno9j0.htm](pathfinder-bestiary-2/JJKxWVExhUEno9j0.htm)|Giant Leech|Sangsue géante|libre|
-|[JKBO2qqNrRezSb7d.htm](pathfinder-bestiary-2/JKBO2qqNrRezSb7d.htm)|Ancient Magma Dragon|Dragon de Magma vénérable|libre|
+|[JKBO2qqNrRezSb7d.htm](pathfinder-bestiary-2/JKBO2qqNrRezSb7d.htm)|Ancient Magma Dragon|Dragon de Magma vénérable|officielle|
 |[jpjhbGvaduK4iqwq.htm](pathfinder-bestiary-2/jpjhbGvaduK4iqwq.htm)|Spark Bat|Chauves-souris Étincelle (Élémentaire, air)|libre|
 |[jQ7zBVDCEhuMOOTl.htm](pathfinder-bestiary-2/jQ7zBVDCEhuMOOTl.htm)|Nabasu|Nabasu (Démon)|libre|
 |[JqnzS6RhUnOjnUdb.htm](pathfinder-bestiary-2/JqnzS6RhUnOjnUdb.htm)|Adult Cloud Dragon (Spellcaster)|Dragon des nuages adulte (Incantateur)|libre|
@@ -230,7 +230,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Nk3Inn5jel1VQMLt.htm](pathfinder-bestiary-2/Nk3Inn5jel1VQMLt.htm)|Radiant Warden|Gardien rayonnant|libre|
 |[NlMqwcN2ZaALOVSY.htm](pathfinder-bestiary-2/NlMqwcN2ZaALOVSY.htm)|Carnivorous Blob|Blob carnivore|libre|
 |[nOAQehZL3045YMX1.htm](pathfinder-bestiary-2/nOAQehZL3045YMX1.htm)|Young Umbral Dragon|Jeune dragon umbral|libre|
-|[NoCtPLRoVvloZe63.htm](pathfinder-bestiary-2/NoCtPLRoVvloZe63.htm)|Adult Cloud Dragon|Dragon des nuages adulte|libre|
+|[NoCtPLRoVvloZe63.htm](pathfinder-bestiary-2/NoCtPLRoVvloZe63.htm)|Adult Cloud Dragon|Dragon des nuages adulte|officielle|
 |[NQ6qRvpD9DIwVxt3.htm](pathfinder-bestiary-2/NQ6qRvpD9DIwVxt3.htm)|Vampiric Mist|Brume vampirique|libre|
 |[nRsH7unLIRWq0ZHC.htm](pathfinder-bestiary-2/nRsH7unLIRWq0ZHC.htm)|Akata|Akata|libre|
 |[nSDXAfFOF2gEKmkM.htm](pathfinder-bestiary-2/nSDXAfFOF2gEKmkM.htm)|Movanic Deva|Deva movanique (Ange)|libre|
@@ -297,7 +297,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[TCFurVn1aWhukqxb.htm](pathfinder-bestiary-2/TCFurVn1aWhukqxb.htm)|Petitioner (Dead Vault)|Pétitionnaire (Le Caveau mort)|libre|
 |[tCJEjNDUxyV1GzE3.htm](pathfinder-bestiary-2/tCJEjNDUxyV1GzE3.htm)|Hamatula|Hamatula (Diable)|libre|
 |[tdCyjq57rgfPezjT.htm](pathfinder-bestiary-2/tdCyjq57rgfPezjT.htm)|Carbuncle|Escarboucle|libre|
-|[TeUO57XO1Mqk1cTl.htm](pathfinder-bestiary-2/TeUO57XO1Mqk1cTl.htm)|Ancient Magma Dragon (Spellcaster)|Dragon de magma vénérable (Incantateur)|libre|
+|[TeUO57XO1Mqk1cTl.htm](pathfinder-bestiary-2/TeUO57XO1Mqk1cTl.htm)|Ancient Magma Dragon (Spellcaster)|Dragon de magma vénérable (Incantateur)|officielle|
 |[tIDbOvltrFsgnwgf.htm](pathfinder-bestiary-2/tIDbOvltrFsgnwgf.htm)|Sea Drake|Drake des mers|libre|
 |[tieZOKf2qX7GsL9H.htm](pathfinder-bestiary-2/tieZOKf2qX7GsL9H.htm)|Ice Golem|Golem de glace|libre|
 |[TKlnOKpYJkg1dNwb.htm](pathfinder-bestiary-2/TKlnOKpYJkg1dNwb.htm)|Totenmaske|Totenmaske|libre|
@@ -326,7 +326,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[vHTvuteLd2kYX3ib.htm](pathfinder-bestiary-2/vHTvuteLd2kYX3ib.htm)|Flytrap Leshy|Léchi attrape-mouches|libre|
 |[VHXsmfnOBRBXB6TL.htm](pathfinder-bestiary-2/VHXsmfnOBRBXB6TL.htm)|Megalania|Megalania|libre|
 |[vjEHKCgMunMHKl7r.htm](pathfinder-bestiary-2/vjEHKCgMunMHKl7r.htm)|Wereboar|Sanglier-garou|libre|
-|[VlxScTgNFzdc6KUY.htm](pathfinder-bestiary-2/VlxScTgNFzdc6KUY.htm)|Young Cloud Dragon (Spellcaster)|Jeune dragon des Nuages (Incantateur)|libre|
+|[VlxScTgNFzdc6KUY.htm](pathfinder-bestiary-2/VlxScTgNFzdc6KUY.htm)|Young Cloud Dragon (Spellcaster)|Jeune dragon des Nuages (Incantateur)|officielle|
 |[VPDKzeTY8O1XrKLk.htm](pathfinder-bestiary-2/VPDKzeTY8O1XrKLk.htm)|Giant Amoeba|Amibe géante (Vase)|libre|
 |[VrkmTQKB3Ln7wVTr.htm](pathfinder-bestiary-2/VrkmTQKB3Ln7wVTr.htm)|Behemoth Hippopotamus|Hippotame Bénémoth|libre|
 |[vXXEdDy8ciGJxt3i.htm](pathfinder-bestiary-2/vXXEdDy8ciGJxt3i.htm)|Mist Stalker|Rôdeur des brumes (Élémentaire, eau)|libre|
@@ -370,7 +370,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[yBglC9GBy6p1x87t.htm](pathfinder-bestiary-2/yBglC9GBy6p1x87t.htm)|Tendriculos|Tendricules|libre|
 |[YFvur5htRwt9EfQs.htm](pathfinder-bestiary-2/YFvur5htRwt9EfQs.htm)|Sandpoint Devil|Diable de Pointesable|libre|
 |[yIpB2uLyeBWQjfsn.htm](pathfinder-bestiary-2/yIpB2uLyeBWQjfsn.htm)|Gylou|Gylou (Diable)|libre|
-|[yr5xSfvSt7vA45wx.htm](pathfinder-bestiary-2/yr5xSfvSt7vA45wx.htm)|Young Cloud Dragon|Jeune dragon des nuages|libre|
+|[yr5xSfvSt7vA45wx.htm](pathfinder-bestiary-2/yr5xSfvSt7vA45wx.htm)|Young Cloud Dragon|Jeune dragon des nuages|officielle|
 |[ytsHNgRwLzabsrZt.htm](pathfinder-bestiary-2/ytsHNgRwLzabsrZt.htm)|Meladaemon|Méladaémon (Daémon)|libre|
 |[YUZF9WhDmfzma3dE.htm](pathfinder-bestiary-2/YUZF9WhDmfzma3dE.htm)|Nalfeshnee|Nalfeshnie|libre|
 |[Yv0005Vym1peVKHq.htm](pathfinder-bestiary-2/Yv0005Vym1peVKHq.htm)|Ravener Husk|Vestige de Dévoreur|officielle|
@@ -382,7 +382,7 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[Z3J7uGaLmlFRfwPk.htm](pathfinder-bestiary-2/Z3J7uGaLmlFRfwPk.htm)|Magma Scorpion|Scorpion de magma (Élémentaire, feu)|libre|
 |[Z4eI4EhXBWDs8bl8.htm](pathfinder-bestiary-2/Z4eI4EhXBWDs8bl8.htm)|Undine Hydromancer|Ondin hydromancienne|libre|
 |[Z9rOUqCqAaMjvgBc.htm](pathfinder-bestiary-2/Z9rOUqCqAaMjvgBc.htm)|Drainberry Bush|Arbuste Sangbaie|libre|
-|[zA9tCwjyViY6ZPfS.htm](pathfinder-bestiary-2/zA9tCwjyViY6ZPfS.htm)|Ancient Cloud Dragon|Dragon des nuages vénérable|libre|
+|[zA9tCwjyViY6ZPfS.htm](pathfinder-bestiary-2/zA9tCwjyViY6ZPfS.htm)|Ancient Cloud Dragon|Dragon des nuages vénérable|officielle|
 |[zAxCU99Jwky6QoBy.htm](pathfinder-bestiary-2/zAxCU99Jwky6QoBy.htm)|Living Boulder|Rocher vivant (Élémentaire, terre)|libre|
 |[zjPdqdQGNjO3Kto7.htm](pathfinder-bestiary-2/zjPdqdQGNjO3Kto7.htm)|Aurumvorax|Métaux-Vorace|libre|
 |[ZKTz1ABoPTtlgYIy.htm](pathfinder-bestiary-2/ZKTz1ABoPTtlgYIy.htm)|Hound Archon|Archon canin (Archon)|libre|

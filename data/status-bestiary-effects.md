@@ -1,13 +1,13 @@
 # État de la traduction (bestiary-effects)
 
- * **libre**: 35
- * **aucune**: 98
+ * **libre**: 36
+ * **aucune**: 96
  * **vide**: 10
- * **officielle**: 10
+ * **officielle**: 11
  * **changé**: 1
 
 
-Dernière mise à jour: 2022-05-27 12:46 *(heure de Canada/Montréal)*
+Dernière mise à jour: 2022-05-29 16:22 *(heure de Canada/Montréal)*
 
 Ce fichier est généré automatiquement. NE PAS MODIFIER!
 ## Liste des traductions à faire
@@ -59,8 +59,6 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[pMPe01GWvfwcYwUR.htm](bestiary-effects/pMPe01GWvfwcYwUR.htm)|Effect: Defensive Assault|
 |[pvA97TXnq7wCbXp6.htm](bestiary-effects/pvA97TXnq7wCbXp6.htm)|Effect: Call to Halt (Success)|
 |[qFDiWpzk8cuwQGyH.htm](bestiary-effects/qFDiWpzk8cuwQGyH.htm)|Effect: Hypnotic Stare|
-|[Qomp2EujVCbzJb4X.htm](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|
-|[QoneHsjZKtGHWlam.htm](bestiary-effects/QoneHsjZKtGHWlam.htm)|Effect: Aura of Misfortune|
 |[QqC9xymSXSVunDgl.htm](bestiary-effects/QqC9xymSXSVunDgl.htm)|Effect: Tail Lash (Attack Roll)|
 |[QSy3KaLI1AYTR7rP.htm](bestiary-effects/QSy3KaLI1AYTR7rP.htm)|Effect: Wrath of Fate|
 |[R8clbf7gtIlU3fIj.htm](bestiary-effects/R8clbf7gtIlU3fIj.htm)|Effect: Crush of Hundreds|
@@ -175,6 +173,8 @@ Ce fichier est généré automatiquement. NE PAS MODIFIER!
 |[i4S6h5c1KK4FLq6w.htm](bestiary-effects/i4S6h5c1KK4FLq6w.htm)|Effect: Feed|Effet : Alimentation|officielle|
 |[o6ZI01zZBQDASuaw.htm](bestiary-effects/o6ZI01zZBQDASuaw.htm)|Effect: Wolf Shape|Effet : Forme de loup|officielle|
 |[QDs8t1U1IepzYlyi.htm](bestiary-effects/QDs8t1U1IepzYlyi.htm)|Effect: Sylvan Wine|Effet : Vin sylvestre|officielle|
+|[Qomp2EujVCbzJb4X.htm](bestiary-effects/Qomp2EujVCbzJb4X.htm)|Effect: Filth Wave|Effet : Vague de fange|libre|
+|[QoneHsjZKtGHWlam.htm](bestiary-effects/QoneHsjZKtGHWlam.htm)|Effect: Aura of Misfortune|Aura d'infortune|officielle|
 |[QpG9AaYpXJzDEjZA.htm](bestiary-effects/QpG9AaYpXJzDEjZA.htm)|Effect: Devour Soul|Effet : Engloutissement d'âme|officielle|
 |[S38CM3hyr7DnsmRR.htm](bestiary-effects/S38CM3hyr7DnsmRR.htm)|Effect: Devour Soul (Victim Level 15 or Higher)|Effet : Engloutissement d'âme (niveau de la victime 15 ou supérieur)|officielle|
 |[ScZ8tlV5zS0Jwnqn.htm](bestiary-effects/ScZ8tlV5zS0Jwnqn.htm)|Effect: Blood Frenzy|Effet : Frénésie de sang|libre|
