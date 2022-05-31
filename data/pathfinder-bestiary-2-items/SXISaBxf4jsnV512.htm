@@ -1,7 +1,7 @@
 Parent Name: Ancient Umbral Dragon (Spellcaster)
 Name: Breath Weapon
-Nom: 
-État: aucune
+Nom: Arme de souffle
+État: libre
 
 ------ Description (en) ------
 <p>The umbral dragon breathes in one of two ways. They can't use Breath Weapon again for [[/br 1d4 #rounds]]{1d4 rounds}.</p>
@@ -17,3 +17,15 @@ Nom:
 </li>
 </ul>
 ------ Description (fr) ------
+<p>Le dragon ombral peut souffler de deux manières différentes. Il ne peut plus utiliser son souffle pendant [[/br 1d4 #rounds]]{1d4 rounds}.</p>
+<ul>
+<li><strong>Négative</strong> Le dragon projette une nuée de ténèbres dans un @Template[type:cone|distance:50]{cône de 15 mètres} qui inflige [[/r {21d6}[negative]]]{21d6 dégâts négatifs} (@Check[type:reflex|dc:42|basic:true]{Réflexes basique} DD 42). Les créatures mortes-vivantes subissent [[/r {25d6}[force]]]{25d6 dégâts de force} au lieu de dégâts négatifs.</li>
+<li><strong>Ombres</strong> Le dragon souffle de l'ombre dans un @Template[type:cone|distance:50]{cône de 15 mètres}. Chaque créature dans le cône doit tenter un jet de @Check[type:fortitude|dc:42]{Vigueur} DD 42.
+<ul>
+<li><strong>Succès critique</strong> La créature n'est pas affectée. </li>
+<li><strong>Succès</strong> La créature est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 3} pendant 1 round. </li>
+<li><strong>Échec</strong> La créature est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 3} pendant 1 minute. </li>
+<li><strong>Échec critique</strong> La créature est @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Affaiblie 3} pendant 1 minute et @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Aveuglée} pendant 1 round.</li>
+</ul>
+</li>
+</ul>
